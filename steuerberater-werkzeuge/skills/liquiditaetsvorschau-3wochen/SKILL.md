@@ -3,14 +3,15 @@ name: liquiditaetsvorschau-3wochen
 description: Kurzfristige Drei-Wochen-Liquiditätsvorschau für GmbH/UG zur wöchentlichen Krisenfrüherkennung nach § 1 StaRUG und Vorprüfung der Zahlungsunfähigkeit nach § 17 InsO. Wendet das BGH-Schema (BGHZ 163, 134 Rn. 12 ff.) an — 10-%-Lücke und 3-Wochen-Schließbarkeit. Übergibt bei roter Ampel an das insolvenzrechtliche Schwester-Plugin und löst die Hinweispflicht des Steuerberaters nach § 102 StaRUG aus.
 language: de
 license: Apache-2.0 OR MIT
-triggers:
-  - "Drei-Wochen-Liquidität"
-  - "3-Wochen-Vorschau"
-  - "Liquidität wöchentlich prüfen"
-  - "Zahlungsstockung oder Zahlungsunfähigkeit"
-  - "§ 17 InsO Vorprüfung"
-  - "Krisenfrüherkennung StaRUG"
-  - "Hinweispflicht Steuerberater"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Drei-Wochen-Liquidität
+  - 3-Wochen-Vorschau
+  - Liquidität wöchentlich prüfen
+  - Zahlungsstockung oder Zahlungsunfähigkeit
+  - § 17 InsO Vorprüfung
+  - Krisenfrüherkennung StaRUG
+  - Hinweispflicht Steuerberater
 ---
 
 # Drei-Wochen-Liquiditätsvorschau (§ 17 InsO Vorprüfung, § 1 StaRUG)
@@ -19,7 +20,7 @@ triggers:
 
 Dieser Skill erstellt für eine GmbH/UG/AG eine **kurzfristige Drei-Wochen-Liquiditätsvorschau** — die kleinste sinnvolle Einheit der laufenden Krisenfrüherkennung nach § 1 StaRUG und die direkte Ableitung des BGH-Schemas zur Zahlungsunfähigkeit (§ 17 InsO).
 
-Er ist als **wöchentliche Routine** gedacht: jeden Montag mit aktualisierten Banksalden und Fälligkeitsdaten in fünf bis zehn Minuten durchlaufen, Ampel ablesen, dokumentieren. Für die vollständige rollierende Planung über 13/26/52 Wochen siehe den Schwester-Skill `liquiditaetsvorschau-3-6-12-monate` (gleiches Plugin) bzw. das Plugin `liquiditaetsplanung`.
+Er ist als **wöchentliche Routine** gedacht: jeden Montag mit aktualisierten Banksalden und Fälligkeitsdaten in fünf bis zehn Minuten durchlaufen, Ampel ablesen, dokumentieren. Für die vollständige rollierende Planung über 13/26/52 Wochen siehe den Schwester-Skill `liquiditaetsvorschau-3-6-12-monate` (gleiches Plugin) bzw. das Plugin Liquiditätsplanung (`liquiditaetsplanung`).
 
 Anwendungsfälle:
 
@@ -129,4 +130,4 @@ Bei roter Ampel sofort auf das Plugin `insolvenzrecht` umschwenken:
 - `antragspflicht-15a-inso` — Fristenlauf, Haftung Geschäftsleiter, § 15b InsO Zahlungsverbote.
 - `liquiditaetsvorschau-insolvenzrechtlich` — gerichtsfähige Liquiditätsbilanz als Beweismittel.
 
-Für die mittel- und langfristige Sicht: Schwester-Skill `liquiditaetsvorschau-3-6-12-monate` aus diesem Plugin oder gebündelt im Plugin `liquiditaetsplanung`.
+Für die mittel- und langfristige Sicht: Schwester-Skill `liquiditaetsvorschau-3-6-12-monate` aus diesem Plugin oder gebündelt im Plugin Liquiditätsplanung (`liquiditaetsplanung`).
