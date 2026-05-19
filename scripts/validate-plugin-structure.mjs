@@ -182,6 +182,10 @@ function checkSkills() {
       if (/[<>]/.test(v)) {
         errors.push(`${rel(skill)}: description contains forbidden XML-style brackets`);
       }
+      // Cowork-Validator bricht bei Zahl-Komma-Zahl-Sequenzen in description (z. B. 'BGHZ 217, 129').
+      if (/\d\s*,\s*\d/.test(v)) {
+        errors.push(`${rel(skill)}: description darf keine Zahl-Komma-Zahl-Sequenz enthalten (Cowork-Validator bricht); nutze 'Rn', 'und' oder '/'`);
+      }
     }
   }
 }
@@ -197,6 +201,10 @@ function checkPluginManifests() {
     }
     if (data.name && !/^[a-z0-9-]+$/.test(data.name)) {
       errors.push(`${rel(m)}: name '${data.name}' must be kebab-case`);
+    }
+    // Cowork-Validator bricht bei Zahl-Komma-Zahl-Sequenzen in description (z. B. 'BGHZ 217, 129').
+    if (typeof data.description === 'string' && /\d\s*,\s*\d/.test(data.description)) {
+      errors.push(`${rel(m)}: description darf keine Zahl-Komma-Zahl-Sequenz enthalten (Cowork-Validator bricht); nutze 'Rn', 'und' oder '/'`);
     }
   }
 }
