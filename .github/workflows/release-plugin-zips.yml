@@ -57,11 +57,11 @@ jobs:
 
       - name: Beispielakten separat verpacken (kein Teil der Plugins)
         run: |
-          if [ -d examples ]; then
-            for d in examples/*/; do
+          if [ -d testakten ]; then
+            for d in testakten/*/; do
               name=$(basename "$d")
               echo "Baue ${name}.zip aus $d"
-              (cd examples && zip -rq "../dist/${name}.zip" "$name" -x '*.DS_Store')
+              (cd testakten && zip -rq "../dist/${name}.zip" "$name" -x '*.DS_Store')
               ls -la "dist/${name}.zip"
             done
           fi

@@ -153,6 +153,8 @@ Diese Sammlung lässt sich u. a. in Claude Code, Claude Desktop und vergleichbar
 >
 > Beide Plugins sind in jedem Modus (Claude Code, Cowork, Desktop) einzeln zuschaltbar und greifen quer in alle Rechtsgebiets-Plugins ein. Wer mit dem Marketplace startet, sollte diese beiden zuerst aktivieren — alle anderen Skills referenzieren ihre Regeln (siehe [`references/methodik-deutsches-recht.md`](./references/methodik-deutsches-recht.md) und [`references/zitierweise.md`](./references/zitierweise.md)).
 
+> 🧪 **Testakten zum Ausprobieren:** Im Ordner [`testakten/`](./testakten) liegen fünf umfangreiche, fiktive Mandatsakten mit echten PDFs, Excel-Tabellen, Word-Entwürfen und Mandantennotizen — bewusst unstrukturiert benannt wie ein realer Datenraum. Eine Akte pro typischem Anwendungsfall: Fluggastrechte (Familie Bräutigam-Zaytuna), Betreuung (Frau Sauer, 87, Demenz), Sozialrecht (Herr Tannenberg, Rollstuhl-Ablehnung), Fortbestehensprognose (Paragrafix GmbH, Legal-AI-Startup Berlin-Moabit) plus die bestehende Insolvenzakte Edelholz Berlin. Jede Akte ist als eigenes ZIP am Release angehängt und wird **nicht** mit den Plugins ausgeliefert. Details und Direkt-Downloads im [Testakten-README](./testakten/README.md).
+
 Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deutschen Beratungspraxis, alphabetisch sortiert:
 
 | Plugin | Beschreibung |
