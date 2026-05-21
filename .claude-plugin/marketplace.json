@@ -55,6 +55,14 @@
       }
     },
     {
+      "name": "common-law-kompass",
+      "source": "./common-law-kompass",
+      "description": "Freistehendes Common-Law-Plugin für deutsche Wirtschaftsjuristen: UK/US-False-Friends, Vertragsbegriffe, Consideration, Suretyship, Indemnity, UCC, Precedent, Discovery und bilinguale Drafting-Reviews.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
       "name": "corporate-kanzlei",
       "source": "./corporate-kanzlei",
       "description": "Corporate/M&A-Plugin (46 Skills) für transaktionsstarke Kanzleien: Deal-Kommandocenter, Datenraum, Due Diligence, Tabellenreview, SPA/APA, Disclosure Schedules, Signing/Closing, W&I, Public M&A, Fusionskontrolle, Investitionskontrolle, Umwandlungsrecht, StaRUG, Insolvenzplan, PMI.",
@@ -74,6 +82,14 @@
       "name": "energierecht",
       "source": "./energierecht",
       "description": "Freistehendes Energierecht-Plugin: Stadtwerke, Strom-, Gas- und Wärmeversorgung, Netze, Speicher, Vertrieb, Industrie, EEG/KWKG, Quartiere, Fernwärme, Wettbewerb, Verwaltungsverfahren, Transaktionen, PPA und Projektfinanzierung.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "europarecht-kompass",
+      "source": "./europarecht-kompass",
+      "description": "Freistehendes Europarecht-Plugin gegen deutsche Denkfehler: Vorrang, unmittelbare Wirkung, Richtlinien, Verordnungen, Charta, Grundfreiheiten, Beihilfen, Vorlageverfahren und EU-Drafting.",
       "author": {
         "name": "Klotzkette"
       }

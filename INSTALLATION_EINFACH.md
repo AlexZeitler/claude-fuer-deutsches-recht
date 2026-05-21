@@ -6,7 +6,7 @@
 
 ## Kurzfassung
 
-> 📆 **Hinweis Release vs. Entwicklungsstand:** Die ZIPs in der Releases-Seite entsprechen einem **getaggten, validierten Stand** (zur Zeit `v2.10.0`). Der `main`-Branch des Repos kann **neuer** sein — mit weiteren Fixes, kleinen Ergänzungen oder neuen Tests. Für stabile Tagung → ZIPs aus dem Release; für neueste Korrekturen → Marketplace-Sync über den GitHub-Pfad (siehe README.md, Weg 1).
+> 📆 **Hinweis Release vs. Entwicklungsstand:** Die ZIPs in der Releases-Seite entsprechen einem **getaggten, validierten Stand** (zur Zeit `v2.11.0`). Der `main`-Branch des Repos kann **neuer** sein — mit weiteren Fixes, kleinen Ergänzungen oder neuen Tests. Für stabile Tagung → ZIPs aus dem Release; für neueste Korrekturen → Marketplace-Sync über den GitHub-Pfad (siehe README.md, Weg 1).
 
 1. Auf [die Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) gehen.
 2. Pro gewünschtem Rechtsgebiet **eine ZIP-Datei** herunterladen, z. B. `liquiditaetsplanung.zip`.
@@ -25,7 +25,7 @@ Das war's. In der Plugin-Liste erscheint das Plugin direkt, kann aktiviert werde
 
 ## Welches ZIP brauche ich?
 
-Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) liegen **68 Plugin-ZIPs** — eines pro Rechtsgebiet bzw. Werkzeug. Es muss nicht alles installiert werden; nur das, was gerade gebraucht wird.
+Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) liegen **70 Plugin-ZIPs** — eines pro Rechtsgebiet bzw. Werkzeug. Es muss nicht alles installiert werden; nur das, was gerade gebraucht wird.
 
 ### Kanzlei-Backoffice und Querschnitt
 
@@ -44,6 +44,8 @@ Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-rec
 | `nda-abgleich.zip`                        | NDA-Review aus Empfängersicht, Markup mit Begründungen                                                                     |
 | `methodenlehre-buergerliches-recht.zip`       | Gutachten- vor Urteilsstil, juristische Methodenlehre                                                                      |
 | `zitierweise-deutsches-recht.zip`         | Deutsche Hauszitierweise (Datum + Aktenzeichen, BGHZ-Pinpoint mit Randnummer)                                              |
+| `common-law-kompass.zip`                  | Common Law, English Law und US Law für deutsche Wirtschaftsjuristen: False Friends, Vertragsbegriffe, Consideration, UCC, Discovery und bilinguale Reviews |
+| `europarecht-kompass.zip`                 | Europarecht ohne deutsche Denkfehler: Vorrang, unmittelbare Wirkung, Richtlinien, Verordnungen, Charta, Beihilfen und Vorlageverfahren |
 
 ### Wirtschaft, Insolvenz, Sanierung
 
@@ -111,6 +113,8 @@ Wer einen konkreten Fall durchspielen will, lädt sich zusätzlich eine **Testak
 | `testakte-fortbestehensprognose-paragrafix-gmbh.zip`       | `fortbestehensprognose`                                      |
 | `testakte-geldwaesche-aml-kyc-musterholding.zip` | `geldwaeschepraevention-aml-kyc` |
 | `testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip` | `aussenwirtschaft-zoll-sanktionen` |
+| `testakte-common-law-kompass-crossborder-contract.zip` | `common-law-kompass` |
+| `testakte-europarecht-kompass-beihilfe-richtlinie.zip` | `europarecht-kompass` |
 | `testakte-energierecht-stadtwerke-quartier.zip`          | `energierecht`                                              |
 | `testakte-umweltrecht-industrieanlage-genehmigung.zip`   | `umweltrecht`                                               |
 | `testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip` | `verkehr-infrastrukturrecht`                         |
