@@ -49,7 +49,7 @@ Phase D — Verfahren BayVGH/OVG
 | `umweltbericht-umweltpruefung` | § 2 Abs. 4 BauGB, § 2a BauGB, UVPG-Verzahnung, FFH-Vorprüfung |
 | `planerhaltung-214-215-baugb` | Beachtlichkeit, Rügefrist 1 Jahr, ergänzendes Verfahren § 214 Abs. 4 BauGB |
 
-### Phase C — Materielle Fehler (6 Skills)
+### Phase C — Materielle Fehler (9 Skills)
 
 | Slug | Beschreibung |
 |---|---|
@@ -59,6 +59,9 @@ Phase D — Verfahren BayVGH/OVG
 | `immissionsschutz-laerm-bauleitplanung` | DIN 18005, TA Lärm, Trennungsgebot § 50 BImSchG, Schallschutzgutachten-Prüfung |
 | `artenschutz-naturschutz-planung` | § 44 BNatSchG saP, FFH-Vorprüfung, Eingriffsregelung § 1a BauGB |
 | `anpassungsgebot-flaechennutzungsplan` | § 8 Abs. 2 BauGB Entwicklungsgebot, Parallelverfahren, FNP-Berichtigung |
+| `vorhabenbezogener-bebauungsplan-12-baugb` | Drei-Säulen-VEP, Abgrenzung § 11 BauGB, Identitäts-Erfordernis, BVerwG 4 CN 5.16 |
+| `festsetzungskatalog-9-baugb-baunvo` | Abschließender § 9-Katalog, BauNVO-Höchstgrenzen, dynamische Verweisungen, Bahnflächen § 38 BauGB |
+| `veraenderungssperre-zurueckstellung-14-15-baugb` | § 14 Sperre, § 15 Zurückstellung, Entschädigung § 18, vertraglich-faktische Sperre |
 
 ### Phase D — Verfahren BayVGH/OVG (3 Skills)
 

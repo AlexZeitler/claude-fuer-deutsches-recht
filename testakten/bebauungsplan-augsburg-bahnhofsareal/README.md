@@ -54,7 +54,11 @@ Die Mandantin ist Eigentümerin eines Gründerzeit-Mietshauses unmittelbar an de
 
 ### 02 — Bekanntmachung / Planurkunde
 - `01-amtsblatt-augsburg-12-2024.md` — Amtsblatt-Auszug mit Bekanntmachung 14.06.2024
-- `02-planurkunde-begruendung-auszug.md` — Begründung mit Anmerkungen der Kanzlei
+- `02-planurkunde-begruendung-auszug.md` — Begründung-Auszug mit Anmerkungen der Kanzlei
+- `03-bebauungsplan-satzung-volltext.md` — **vollständiger Satzungstext** Teil A bis D (§§ 1–21) inkl. örtliche Bauvorschriften
+- `04-begruendung-volltext.md` — **vollständige Begründung** (14 Abschnitte) mit Kanzlei-Markierungen
+- `05-durchfuehrungsvertrag-volltext.md` — **vollständiger Durchführungs- und Erschließungsvertrag vom 12.05.2022** mit Kanzlei-Markierungen
+- `06-stellplatzsatzung-augsburg-2018-volltext.md` — **vollständige Stellplatzsatzung der Stadt Augsburg** (§§ 1–8, Anlagen 1 & 2)
 
 ### 03 — Umweltbericht
 - `01-umweltbericht-auszug.md` — Lärm, Artenschutz, mit Lücken-Markierungen
