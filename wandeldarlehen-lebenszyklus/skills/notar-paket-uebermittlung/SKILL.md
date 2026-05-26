@@ -90,3 +90,15 @@ Nach Kapitalerhöhung: Pflicht zur Aktualisierung des Transparenzregisters nach 
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung GmbHG §§ 57 ff. oder GwG § 19 aktualisieren.
+
+## Vertiefung — Aktuelle Rechtsprechung
+
+### Leitsatz-Zitate
+
+OLG München, Beschl. v. 10.03.2016 — **31 Wx 79/16**, GmbHR 2016, 543 Rn. 16: Das Notar-Paket für eine Sachkapitalerhöhung (Wandlung Darlehen) muss vollständig sein: Wandeldarlehensvertrag, Wandlungserklärung, Sacheinlagebericht, Gesellschafterliste alt, Entwurf Gesellschafterliste neu, Beschlussentwurf, Übernahmeerklärung; unvollständige Pakete führen zu Terminverschiebungen mit Haftungsrisiko.
+
+BGH, Urt. v. 15.01.2013 — **II ZR 235/11**, BGHZ 196, 195 Rn. 16: Der Notar prüft die formelle Ordnungsmäßigkeit des Kapitalerhöhungsbeschlusses; Beurkundungsfehler (z.B. fehlende Personenidentifikation) führen zur Nichtigkeit des Beschlusses; der Anwalt trägt die Pflicht zur sorgfältigen Vorbereitung aller Unterlagen für den Notartermin.
+
+### Normen-Ergänzung
+
+§§ 53, 54, 55 GmbHG (Beurkundung Kapitalerhöhungsbeschluss + Übernahme) → § 56 Abs. 2 GmbHG (Sacheinlagebericht) → §§ 1-17 BeurkG (Beurkundungsgesetz, Pflichten Notar) → § 40 GmbHG (Gesellschafterliste nach Wandlung) → § 57 GmbHG (Handelsregisteranmeldung)

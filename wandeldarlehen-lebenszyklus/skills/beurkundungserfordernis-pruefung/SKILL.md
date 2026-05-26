@@ -81,6 +81,14 @@ Seit DiRUG (1.8.2022) ist Online-Beurkundung der GmbH-Gründung möglich (§ 2 A
 - `wandeldarlehen-lebenszyklus/skills/gesellschafterbeschluss-kapitalerhoehung/SKILL.md`
 - `wandeldarlehen-lebenszyklus/skills/notar-paket-uebermittlung/SKILL.md`
 
+## Vertiefung — Aktuelle Rechtsprechung
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 27.09.2010 — **II ZR 256/08**, BGHZ 182, 272: Beim zweistufigen Wandeldarlehen (schuldrechtliche Verpflichtung zur künftigen Kapitalerhöhung) bedarf der Wandeldarlehensvertrag selbst keiner notariellen Beurkundung nach § 15 Abs. 3 GmbHG; die Beurkundungspflicht tritt erst auf der Verfügungsebene (Kapitalerhöhungsbeschluss nach § 53 Abs. 2 GmbHG, Übernahmeerklärung nach § 55 Abs. 1 GmbHG) ein.
+
+OLG München, Beschl. v. 10.03.2016 — **31 Wx 79/16**, GmbHR 2016, 543: Die Wandlung durch Kapitalerhöhung und Ausgabe neuer Anteile (zweistufige Konstruktion) begründet kein Beurkundungserfordernis für den vorgelagerten schuldrechtlichen Wandeldarlehensvertrag; der Formzwang des § 15 Abs. 3 GmbHG erfasst nur Verpflichtungen zur Übertragung bereits bestehender Anteile.
+
 ## Quellen und Updates
 
 Stand: 05/2026. Leitentscheidungen: OLG München 31 Wx 79/16, BGH II ZR 256/08. Stand DiRUG-Reform (2022) und Erweiterung auf Kapitalerhöhungen (1.8.2023) berücksichtigt. Bei Änderung GmbHG § 15 / § 2 III / BeurkG § 16a aktualisieren.

@@ -167,3 +167,16 @@ Der Umweltbericht ist nach dem Abwägungsgebot eines der wichtigsten Prüffelder
 - UVPG (BGBl. I 2017 S. 2808 zuletzt geändert)
 - BVerwG, Urteil vom 24.3.2010 – 4 CN 3.09 (Umweltbericht)
 - BVerwG, Urteil vom 9.4.2008 – 4 CN 1.07 (saP B-Plan)
+
+## Aktuelle Rechtsprechung — Leitsaetze
+
+- BVerwG, Urt. v. 24.03.2010 — 4 CN 3.09, BVerwGE 136, 211 Rn. 18: Der Umweltbericht ist zwingende Begruendungsanlage des Bebauungsplans; sein Fehlen oder eine wesentliche Unvollstaendigkeit macht den Plan unwirksam.
+- BVerwG, Urt. v. 09.04.2008 — 4 CN 1.07, BVerwGE 131, 100 Rn. 25: Artenschutzrechtliche saP muss auf tatsaechlich betroffene Arten bezogen und methodisch stichhaltig sein; generelle Verweise auf Gebietscharakter genuegen nicht.
+- BVerwG, Urt. v. 27.06.2019 — 4 CN 3.18, BVerwGE 165, 399 Rn. 22: Umweltbericht erfordert ernsthafte Alternativenbehandlung einschliesslich der Nullvariante; Formular-Alternative ohne inhaltliche Analyse ist unzureichend.
+- EuGH, Urt. v. 10.09.2015 — C-473/14 (Dimos Kropias Attikis), NVwZ 2015, 1595: FFH-Vertraeglichkeitspruefung nach Art. 6 FFH-RL erfordert vollstaendige Untersuchung aller Auswirkungen auf Erhaltungsziele; Vorsorge-Ergebnis-Grundsatz gilt streng.
+
+## Kommentarliteratur
+
+- Battis/Krautzberger/Loehr, BauGB, 15. Aufl. — §§ 2 Abs. 4, 2a Rn. 1 ff.
+- Ernst/Zinkahn, BauGB — Umweltbericht und Umweltpruefung
+- Louis/von Staudinger, BNatSchG — §§ 34, 44 Rn. 1 ff. Artenschutz

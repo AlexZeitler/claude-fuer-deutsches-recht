@@ -149,3 +149,20 @@ Strafrechtsspezifische Interessen-Cluster:
 - `fachanwalt-strafrecht-verstaendigung-257c-toa-46a` (im selben Plugin) fuer die formale Verstaendigung.
 - `fachanwalt-strafrecht-adhaesionsverfahren` (im selben Plugin) fuer Adhaesion und Vergleich gemaess § 405 StPO.
 - `fachanwalt-strafrecht-nebenklage-opfervertretung` (im selben Plugin) fuer Verhandlungen mit Nebenklage.
+
+## Aktuelle Rechtsprechung Verstaendigung / Einigung
+
+- BVerfG, Beschl. v. 19.03.2013 - 2 BvR 2628/10, BVerfGE 133, 168 — Verstaendigungsgesetz 2009 ist verfassungskonform, aber strenge Transparenz- und Protokollierungspflichten; Gestaendnis muss inhaltlich ueberprueft werden; Verfahren ohne Protokollierung (§ 273 I a StPO) ist revisibel.
+- BGH, Beschl. v. 25.11.2016 - GSSt 1/16, BGHSt 62, 1 — Belehrungspflicht nach § 257c Abs. 5 StPO zwingend vor Gestaendnis; fehlt sie, ist Gestaendnis grundsaetzlich unverwertbar (widerlegliche Vermutung des Kausalzusammenhangs).
+- BGH, Urt. v. 18.09.2012 - 2 StR 92/12, NJW 2013, 247 — Mitteilungspflicht nach § 243 Abs. 4 StPO: jedes Vorgespraech mit Gericht oder StA muss in der Hauptverhandlung mitgeteilt werden; Verstoß ist absoluter Revisionsgrund, wenn Urteil darauf beruht.
+- BGH, Beschl. v. 28.09.2010 - 3 StR 359/10, NStZ 2011, 168 — TOA nach § 46a StGB setzt echte freiwillige Wiedergutmachungsleistung voraus; symbolische Zahlung ohne Kontakt zum Opfer genuegt nicht fuer vollen Strafmilderungseffekt.
+
+## Normen Verstaendigung
+
+- § 153 StPO — Einstellung bei Geringfuegigkeit (ohne Auflage)
+- § 153a StPO — Einstellung gegen Auflage (Zahlung, gemeinnuetzige Arbeit)
+- § 154 StPO — Teileinstellung (Mitsachen)
+- § 257b StPO — Eroerrung des Verfahrensstands (Vorgespraech)
+- § 257c StPO — Verstaendigung (Inhalt, Bindungswirkung, Widerruf)
+- § 46a StGB — Taeter-Opfer-Ausgleich als Strafmilderungsgrund
+- § 302 StPO — Rechtsmittelverzicht nach Verstaendigung verboten (§ 302 I 2 StPO)

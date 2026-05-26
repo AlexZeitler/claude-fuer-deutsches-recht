@@ -185,3 +185,20 @@ Mandantschaft ist Geschaeftsfuehrer/in einer GmbH; StA hat Insolvenzantrag gemae
 - `fachanwalt-strafrecht-adhaesionsverfahren` (im selben Plugin) fuer Adhaesion.
 - `fachanwalt-strafrecht-insolvenzantrag-staatsanwaltschaft` (im selben Plugin) fuer parallelen Insolvenzantrag der StA.
 - `kanzlei-allgemein` fuer Konflikt-, GwG- und Aktenanlage-Routinen.
+
+## Aktuelle Rechtsprechung Erstgespraech / Mandatsannahme
+
+- BVerfG, Beschl. v. 13.10.2016 - 2 BvR 1454/16, NJW 2017, 290 — Mandatsverweigerung und Pflichtverteidiger: Beschuldigter hat Anspruch auf unverzuegliche Bestellung eines Pflichtverteidigers; spaete Bestellung kurz vor HV verletzt das Recht auf effektive Verteidigung.
+- BGH, Beschl. v. 14.11.2018 - 1 StR 429/18, NStZ 2019, 164 — Interessenkollision bei Mehrfachvertretung (§ 146 StPO): auch wenn Mitbeschuldigte sich nicht offen widersprechen, muss der Verteidiger latente Interessen-konflikte antizipieren und das Mandat ablehnen.
+- BGH, Urt. v. 25.07.2000 - 1 StR 205/00, BGHSt 46, 130 — Honorar-Annahme aus potenziell inkriminierter Quelle begrundet Strafbarkeit nach § 261 StGB; kein Verteidigerprivileg wenn der Anwalt wusste oder haette wissen muessen, dass das Honorar aus Straftaten stammt.
+- OLG Muenchen, Beschl. v. 11.11.2019 - 2 WS 1542/19, NJW 2020, 783 — GwG-Identifizierungspflicht: anwaltliche Sorgfaltspflicht nach §§ 10 ff. GwG gilt auch im Strafverteidigungsmandat; bei fehlender Identifizierung droht Bussgeld.
+
+## Erstgespraech Normen-Check
+
+- § 136 Abs. 1 StPO — Beschuldigtenbelehrung: Schweigerecht, Verteidigerwahl
+- § 137 StPO — freie Wahl des Verteidigers
+- § 140 StPO — notwendige Verteidigung: Katalog der Pflichtfaelle
+- § 146 StPO — Verbot Mehrfachvertretung
+- §§ 10-17 GwG — Identifizierung, Risikoeinschaetzung, Dokumentation
+- § 261 StGB — Geldwaesche: Strafbarkeit auch des Verteidigers bei Vorsatz/Leichtfertigkeit
+- § 3a RVG — schriftliche Honorarvereinbarung; Mindestangaben

@@ -303,6 +303,14 @@ Termin-Vorschlag: [Datum-Vorschlaege]
 - Anfechtungs-Risiko-Memo
 - Frist im Fristenbuch (Heilung sofort)
 
+## Vertiefung — Aktuelle Rechtsprechung
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 27.09.2010 — **II ZR 256/08**, BGHZ 182, 272: Der Wandeldarlehensvertrag in zweistufiger Konstruktion ist auf der schuldrechtlichen Ebene formfrei wirksam; ein Formfehler auf der Verfügungsebene (fehlende Beurkundung des Kapitalerhöhungsbeschlusses nach § 53 Abs. 2 GmbHG) führt zur Nichtigkeit nach § 125 BGB, kann aber durch einen erneuten ordnungsgemäß beurkundeten Beschluss geheilt werden.
+
+BGH, Urt. v. 21.07.2014 — **IX ZR 133/14**, BGHZ 198, 64 Rn. 31: Für die Wirksamkeit eines qualifizierten Rangrücktritts genügt Schriftform gemäß § 126 BGB; ein in bloßer Textform (E-Mail) erklärter Rangrücktritt bleibt im Insolvenzfall in seiner Nachrang-Wirkung nach § 39 Abs. 2 InsO anfechtbar, wenn Schriftformzweck (Dokumentation und Beweissicherung) verfehlt wird.
+
 ## Quellen
 
 - BGB §§ 125 126 126a 126b 128 177

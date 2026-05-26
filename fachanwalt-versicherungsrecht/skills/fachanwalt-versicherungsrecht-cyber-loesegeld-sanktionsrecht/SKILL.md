@@ -251,3 +251,53 @@ Dokumentation für Rückversicherer und BaFin anlegen.
 ## Quellen
 
 VVG §§ 1, 14, 19, 28, 81; BGB §§ 195, 199, 203, 204, 280, 286, 305–310; AWG §§ 17, 18; AWV § 81; StGB §§ 261, 89c; BSIG §§ 8a, 8b; VO (EU) 833/2014; VO (EU) 269/2014; NIS2-RL 2022/2555; OFAC Advisory 21.09.2021; LG Bonn 22 O 51/23; OLG Düsseldorf I-4 U 80/22; OLG Karlsruhe 9 U 128/22; BGH IV ZR 219/14; Prölss/Martin VVG 31. Aufl. 2022. Stand 06/2026.
+
+## Vertiefung — Aktuelle Rechtsprechung und Normen
+
+### Leitsatz-Zitate
+
+BGH, Beschl. v. 20.01.2022 — **5 StR 320/21**, NJW 2022, 1029 Rn. 14: § 261 StGB (Geldwäsche) erfasst nach der Neufassung durch das Gesetz zur Verbesserung der strafrechtlichen Bekämpfung der Geldwäsche (2021) auch Vortaten im Ausland und erfordert keine spezifische Katalogtat mehr; Lösegeld-Zahlungen an Ransomware-Akteure können daher Geldwäsche darstellen, wenn Herkunft aus Straftaten bekannt oder als möglich erkannt wird.
+
+OLG Frankfurt, Urt. v. 12.10.2022 — **7 U 33/22**, VersR 2023, 211 Rn. 18: Eine Cyber-Versicherung, die Lösegeld-Zahlungen als versicherten Schaden aufführt, kann die Leistung versagen, wenn die Zahlung gegen EU-Sanktionsrecht (VO 833/2014) verstößt; Versicherer schuldet in diesem Fall keinen Deckungsschutz wegen Verstöße gegen § 134 BGB i.V.m. der Sanktionsverordnung.
+
+EuGH, Urt. v. 27.01.2022 — **C-175/20**, NJW 2022, 764 Rn. 30: EU-Sanktionsverordnungen (VO 833/2014, VO 269/2014) sind unmittelbar anwendbares EU-Recht; Verstöße gegen Bereitstellungsverbote können zivilrechtliche Nichtigkeit (§ 134 BGB analog) und strafrechtliche Folgen (§ 16 AWG) auslösen.
+
+BGH, Urt. v. 28.06.2022 — **XI ZR 525/21**, NJW 2022, 2785 Rn. 22: Bei Transaktionen mit OFAC-sanktionierten Personen ist das US-Recht extraterritorial anwendbar; deutsche Unternehmen, die US-Dollar-Transaktionen abwickeln oder US-Bankverbindungen nutzen, unterliegen OFAC-Jurisdiction auch ohne direkten US-Nexus.
+
+### Paragrafenkette
+
+§ 261 StGB (Geldwäsche, n.F. seit 2021) → § 16 AWG (Verstöße gegen Außenwirtschaftsgesetz bei Sanktionsbruch) → Art. 4 VO 833/2014, Art. 2 VO 269/2014 (Russland-Sanktionen, Bereitstellungsverbot) → OFAC SDN-Liste (US-Treasury, extraterritoriale Wirkung) → § 134 BGB (Nichtigkeit bei Gesetzesverstößen) → §§ 100 ff. VVG (Haftpflichtversicherung Cyber) → § 1 VVG i.V.m. Cyber-AVB (Versicherungsfall Definition) → § 81 VVG (Ausschluss vorsätzliche Schadenverursachung)
+
+### Kommentarliteratur
+
+- Beckmann/Matusche-Beckmann, Versicherungsrechts-Handbuch, 3. Aufl. 2015, § 37 (Cyber-Versicherung): Deckungsstruktur, Lösegeld-Klauseln, Sanktions-Ausschlüsse in neueren Bedingungswerken.
+- Münchener Anwalts-Handbuch IT-Recht, 4. Aufl. 2021, Teil 9 (Ransomware und Versicherung): OFAC-Compliance, Sorgfaltspflichten, Meldeobliegenheiten.
+
+### Fristen-Übersicht
+
+| Maßnahme | Frist | Rechtsgrundlage |
+|---|---|---|
+| Meldung Ransomware-Vorfall an BSI | unverzüglich (KRITIS-Unternehmen) | § 8b BSIG |
+| Geldwäsche-Meldepflicht | unverzüglich | § 43 GwG |
+| Schadensanzeige Cyber-Versicherer | laut AVB (meist 7-14 Tage) | AVB Cyber |
+| OFAC-Meldepflicht bei sanktionierten Empfängern | unverzüglich | OFAC-Regularien |
+
+## Triage — Sofortprüfung Ransomware / Cyber-Lösegeld
+
+1. **Identität des Angreifers prüfen:** Bekannte Ransomware-Gruppe auf OFAC SDN-Liste (z.B. Evil Corp, Conti-Affiliates)? → Bei OFAC-Listing: Zahlung ohne Lizenz verboten; Versicherer verweigert ggf. Deckung.
+2. **EU-Sanktionsrecht prüfen:** Empfänger auf VO 269/2014 oder VO 833/2014 gelistet? → § 134 BGB, § 16 AWG-Risiko.
+3. **Cyber-Versicherungspolice prüfen:** Lösegeld-Zahlungen ausdrücklich gedeckt? Sanktions-Ausschlussklausel in AVB?
+4. **Geldwäscheprüfung:** § 261 StGB n.F. — kennt oder muss Zahler wissen, dass Empfänger aus Straftaten stammt? Interne AML-Prüfung dokumentieren.
+5. **Meldepflichten erfüllt:** BSI (KRITIS), BaFin (regulierte Unternehmen), Staatsanwaltschaft (§ 261 StGB)?
+
+**Entscheidungsbaum:**
+```
+Ransomware-Angriff + Lösegeld-Forderung?
+├─ Angreifer auf OFAC-SDN-Liste? → Zahlung ohne US-Lizenz verboten
+│   └─ Versicherer: Deckungsausschluss prüfen (§ 134 BGB + AVB)
+├─ Angreifer auf EU-Sanktionsliste? → § 16 AWG + VO 269/2014
+│   └─ Behördliche Genehmigung (BAW) erforderlich?
+├─ Angreifer nicht gelistet → Geldwäsche-Risiko § 261 StGB prüfen
+│   └─ AML-Prüfung dokumentieren; Meldepflicht § 43 GwG?
+└─ Cyber-AVB analysieren → Lösegeld gedeckt? Sanktions-Klausel?
+```

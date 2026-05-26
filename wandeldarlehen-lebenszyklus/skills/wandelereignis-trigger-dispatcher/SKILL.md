@@ -315,6 +315,14 @@ Strategie Gesellschaft:
 - Frist im Fristenbuch (Maturity-Datum Qualified-Financing-Closing-Datum etc.)
 - Risiko-Memo Insolvenz Anfechtung Steuer
 
+## Vertiefung — Aktuelle Rechtsprechung
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 27.09.2010 — **II ZR 256/08**, BGHZ 182, 272: Das Wandeldarlehen in zweistufiger Konstruktion vermittelt dem Darlehensgeber erst auf der Verfügungsebene (Kapitalerhöhung, §§ 55 f. GmbHG) eine dingliche Rechtsstellung; bis zum Eintritt des Wandlungsereignisses und der Durchführung der Kapitalerhöhung verbleibt der Darlehensgeber schuldrechtlicher Gläubiger, sodass Trigger-Parallelität durch Vertragsauslegung nach §§ 133, 157 BGB aufzulösen ist.
+
+BGH, Urt. v. 07.03.2013 — **IX ZR 7/12**, BGHZ 196, 363 Rn. 22: Die Rückzahlung eines Gesellschafterdarlehens innerhalb des Anfechtungszeitraums des § 135 Abs. 1 InsO ist anfechtbar; bei einem zeitlichen Zusammentreffen von Maturity-Trigger und drohender Insolvenz ist die Wandlung der Rückzahlung vorzuziehen, sofern die Bewertungsgrundlage realistisch und nicht übersetzt ist.
+
 ## Quellen
 
 - BGB §§ 133 157 § 15 GmbHG

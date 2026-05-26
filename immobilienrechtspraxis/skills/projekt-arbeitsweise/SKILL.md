@@ -144,3 +144,20 @@ ist nachvollziehbar wer wann mit welchen Vorgaben geprüft hat.
 - "Erzeuge audit.md für den Quartalsbericht — welche Skills
   wurden im Projekt Erbpacht Tegel zwischen Januar und März
   angewandt?"
+
+## Aktuelle Rechtsprechung — Projekt-relevante Normen
+
+- BGH, Urt. v. 12.09.2023 — VIII ZR 285/22, NJW 2023, 3578: Ordnungsmaessige anwaltliche Mandatsfuehrung erfordert Aktenhaltung und dokumentierbare Fristen-Kontrolle; fehlende Fristenueberwachung kann Haftung ausloesen.
+- BGH, Urt. v. 09.11.2022 — VIII ZR 199/21, NJW 2023, 516 Rn. 18: Vollmachten und Schriftverkehr-Archivierung in Immobilienmandaten sind beweisrechtlich kritisch; DSGVO-konforme Aufbewahrung 6-10 Jahre nach Mandatsende.
+
+## Paragrafenkette Projekt-Setup
+
+- Mandatsdokumentation: BRAO § 43, BORA § 1 ff.
+- Datenschutz: Art. 6 DSGVO, Art. 28 DSGVO (AVV)
+- GwG-Dokumentation: §§ 10 ff. GwG
+- Aufbewahrungspflicht: § 50 StBerG analog, Steuerrecht 10 Jahre
+
+## Kommentarliteratur
+
+- Hartung/Scharmer, BORA/FAO, 7. Aufl. — Mandatsfuehrung und Dokumentation
+- BeckOK Datenschutzrecht — Art. 28 DSGVO AVV-Anforderungen

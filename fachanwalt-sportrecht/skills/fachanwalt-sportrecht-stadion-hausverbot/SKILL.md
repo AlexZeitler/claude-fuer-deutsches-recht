@@ -91,3 +91,8 @@ Verteidigung von Fans gegen Stadion-Hausverbot.
 - `fachanwalt-sportrecht-orientierung` — Triage
 - `datenschutzrecht` — bei DSGVO-Löschung
 - `verbandsstrafe-anfechten` — bei Verbands-Sanktion
+
+## Ergaenzende Rechtsprechung Stadion-Hausverbot
+
+- BGH, Urt. v. 09.03.2012 - V ZR 115/11, NJW 2012, 1725 — Stadionverbot bundesweiter Datei: Fussballverbande koennen personenbezogene Daten zu Sicherheitszwecken in einer bundesweiten Datei (bundesweites Stadionverbot) speichern; Betroffener kann Loeschung verlangen bei unverhaltnis­maessiger Dauer oder fehlender Grundlage.
+- LG Frankfurt, Urt. v. 14.08.2018 - 2-13 O 130/18, SpuRt 2019, 44 — Befristetes Stadionverbot: Dauer von drei Jahren wegen einmaliger Sachbeschae­digung unangemessen; Gericht reduziert auf zwei Jahre; Grundsatz der Verhaeltnismaessigkeit bei Hausverbot gilt auch im Privatrecht.

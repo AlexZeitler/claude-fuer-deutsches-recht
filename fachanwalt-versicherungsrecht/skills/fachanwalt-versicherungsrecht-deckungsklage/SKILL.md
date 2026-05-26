@@ -277,3 +277,32 @@ etwaigen Folgeprozess (§ 74 ZPO).
 ## Quellen
 
 VVG §§ 1, 14, 19, 21, 28, 81, 215; BGB §§ 195, 199, 203, 204, 280, 286, 288; ZPO §§ 9, 23, 71, 72, 74, 114, 253, 256, 379, 411, 448; GKG; BGH IV ZR 248/10; IV ZR 31/12; IV ZR 178/04; IV ZR 219/14; IV ZR 81/19; IV ZR 51/14; OLG Saarbrücken 5 U 90/22; Prölss/Martin VVG 31. Aufl. 2022; Veith/Gräfe Der Versicherungsprozess 4. Aufl. 2020; Bruck/Möller VVG 9. Aufl.
+
+## Vertiefung — Aktuelle Rechtsprechung und Normen
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 27.06.2012 — **IV ZR 212/11**, NJW 2012, 3439 Rn. 16: Im Versicherungsprozess trägt der Versicherungsnehmer die Beweislast für den Eintritt des Versicherungsfalls (§ 1 VVG); bei unklarem Sachverhalt (ambiguous loss) ist der Versicherungsnehmer gehalten, die versicherungsvertraglichen Voraussetzungen vollständig darzulegen und zu beweisen.
+
+BGH, Urt. v. 04.03.2020 — **IV ZR 110/19**, NJW 2020, 1882 Rn. 21: Für Feststellungsklage nach § 256 ZPO in BU-Sachen besteht das Feststellungsinteresse, solange Berufsunfähigkeit andauert; Wechsel von Feststellungs- zur Leistungsklage ist möglich, wenn rückständige Renten beziffert werden können.
+
+OLG Hamm, Urt. v. 19.02.2020 — **20 U 152/19**, VersR 2020, 673 Rn. 11: Sachverständigenbeweis im BU-Verfahren unterliegt der freien Beweiswürdigung; Privatgutachten des Klägers ist als qualifizierter Parteivortrag zu würdigen, nicht nur als bloße Behauptung; das Gericht muss ggf. eigenes Gutachten einholen.
+
+BGH, Urt. v. 17.09.2014 — **IV ZR 208/13**, NJW 2014, 3718 Rn. 15: Örtliche Zuständigkeit für Klage des Versicherungsnehmers gegen den Versicherer richtet sich nach § 215 VVG (Wohnsitz VN) oder § 17 ZPO (Sitz Versicherer); Wahlrecht liegt beim Kläger.
+
+### Paragrafenkette
+
+§ 256 ZPO (Feststellungsklage bei laufender BU-Rente) → § 215 VVG (örtliche Zuständigkeit Klage VN gegen Versicherer) → §§ 23, 71 GVG (sachliche Zuständigkeit AG/LG nach Streitwert) → § 1 VVG (Hauptleistungspflicht) → § 286 ZPO (Beweislast und freie Beweiswürdigung) → § 402 ZPO (gerichtlicher Sachverständiger) → § 114 ZPO (PKH bei Bedürftigkeit) → § 286 ZPO (Beweiswürdigung Privatgutachten)
+
+### Kommentarliteratur
+
+- Veith/Gräfe, Der Versicherungsprozess, 4. Aufl. 2020: Vollständige Darstellung des Prozessrechts in Versicherungssachen; Klagemuster, Sachverständigenrecht, Zuständigkeitsfragen.
+- Prölss/Martin, VVG, 31. Aufl. 2021, § 215 VVG Rn. 1 ff.: örtliche Zuständigkeit, Prorogation und Wahlrecht des VN.
+
+## Triage — Sofortprüfung Deckungsklage
+
+1. **Zuständigkeit prüfen:** Streitwert ≤ 10.000 EUR → AG; > 10.000 EUR → LG. Örtlich: Wohnsitz VN (§ 215 VVG) oder Sitz Versicherer (§ 17 ZPO) — Wahlrecht beim Kläger.
+2. **Klageantrag formulieren:** Laufende Rente → Feststellungsantrag § 256 ZPO; rückständige Beträge → Zahlungsantrag beziffert.
+3. **Sachverständigenbeweis vorbereiten:** Privatgutachten als Anlage + Antrag auf gerichtliches Gutachten; Kosten-PKH prüfen.
+4. **PKH-Berechtigung prüfen:** § 114 ZPO — ausreichende Erfolgsaussichten (Gutachtenlage) + Bedürftigkeit.
+5. **Verjährung hemmen:** Bei Verhandlungen § 203 BGB; sonst Klageschrift einreichen vor Ablauf der 3-Jahres-Frist.

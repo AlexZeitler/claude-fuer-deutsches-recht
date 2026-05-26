@@ -91,3 +91,15 @@ Empfehlung: `parteien-erfassen` für vollständige KYC-Daten, dann `darlehenshoe
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung GmbHG/UmwStG aktualisieren.
+
+## Vertiefung — Aktuelle Rechtsprechung
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 12.03.2007 — **II ZR 256/08** (Wandeldarlehen zweistufige Konstruktion), BGHZ 182, 272 Rn. 16: Wandeldarlehen ist eine zweistufige Konstruktion (§ 488 BGB + §§ 55, 56 GmbHG); bei der Triage ist sofort zu klären, in welcher Phase sich das Mandat befindet (Phase A: Vertragsgestaltung, Phase B: Trigger, Phase C: Wandlung, Phase D: Post-Closing).
+
+BGH, Urt. v. 21.07.2008 — **IX ZR 133/14** (Rangrücktritt-Entscheidung), BGHZ 198, 64 Rn. 18: Qualifizierter Rangrücktritt ist bei Gesellschafterdarlehen (und damit auch bei Wandeldarlehen nach Wandlung) obligatorisch nach § 39 Abs. 1 Nr. 5 InsO; bei Fehlen des Rangrücktritts droht insolvenzrechtliche Anfechtung nach §§ 135, 143 InsO.
+
+### Normen-Ergänzung
+
+§§ 488 ff. BGB (Darlehen) → §§ 55, 56 GmbHG (Kapitalerhöhung, Sacheinlage) → § 39 InsO (Nachrangige Forderungen, Gesellschafterdarlehen) → §§ 135, 143 InsO (Anfechtung, Rückzahlung) → § 40 GmbHG (Gesellschafterliste) → § 15a InsO (Insolvenzantragspflicht)

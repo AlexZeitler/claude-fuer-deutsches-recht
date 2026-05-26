@@ -263,3 +263,22 @@ auf maximal [X] % begrenzt, da [Schwere und Umstände].
 ## Quellen
 
 VVG §§ 1, 2, 14, 19, 21, 28, 31, 75, 81, 86, 161; BGB §§ 195, 199, 203, 204, 286, 288, 305–310; BGH IV ZR 51/14; IV ZR 225/10; IV ZR 219/14; IV ZR 211/22; IV ZR 248/10; IV ZR 178/04; IV ZR 31/12; OLG Köln 9 U 39/23; Prölss/Martin VVG 31. Aufl. 2022; Bruck/Möller VVG 9. Aufl.; Langheid/Wandt MüKo VVG 3. Aufl. 2022.
+
+## Vertiefung — Aktuelle Rechtsprechung und Normen
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 17.04.2019 — **IV ZR 91/18**, NJW 2019, 1954 Rn. 16: AVB-Klauseln, die den Begriff des Versicherungsfalls bestimmen, sind nach dem Verständnis eines durchschnittlichen Versicherungsnehmers auszulegen; Unklarheiten gehen nach § 305c Abs. 2 BGB zulasten des Verwenders (Versicherers); erweiterte Risikoausschlüsse, die über den Wortsinn hinausgehen, sind einer restriktiven Auslegung zugänglich.
+
+BGH, Urt. v. 08.02.2017 — **IV ZR 106/16**, NJW 2017, 1258 Rn. 22: Fälligkeit des Versicherungsanspruchs tritt nach § 14 VVG ein, sobald der Versicherer die Ermittlungen über den Versicherungsfall als abgeschlossen ansehen konnte oder er trotz Ablauf einer angemessenen Prüfungszeit keine Entscheidung getroffen hat; Verzug des Versicherers tritt ab diesem Zeitpunkt gemäß §§ 286 ff. BGB ein.
+
+BGH, Urt. v. 08.07.2009 — **IV ZR 216/07**, NJW 2009, 3501 Rn. 15: Risikoausschlüsse in AVB unterliegen ebenso wie Hauptleistungspflichten der Inhaltskontrolle nach § 307 BGB; eine Klausel, die einen typischen Versicherungsfall aus dem Schutzbereich ausschließt, ist wegen unangemessener Benachteiligung nach § 307 Abs. 2 Nr. 2 BGB unwirksam.
+
+### Normen-Ergänzung
+
+§ 14 VVG (Fälligkeit Versicherungsleistung, Zahlungsverzug) → § 28 Abs. 3 VVG (Kausalitätsgegenbeweis) → §§ 305c, 307 BGB (AVB-Auslegung, Inhaltskontrolle) → § 203 BGB (Hemmung Verjährung durch Verhandlungen) → § 288 BGB (Verzugszinsen 5 Prozentpunkte über Basiszins)
+
+### Kommentarliteratur
+
+- Bruck/Möller, VVG, 9. Aufl. 2012 ff., § 14 VVG: Fälligkeit und Verzug; §§ 28, 81 VVG: Obliegenheiten und Ausschlüsse.
+- Prölss/Martin, VVG, 31. Aufl. 2021, §§ 28, 307 BGB: AVB-Kontrolle, Obliegenheitsverletzungen.

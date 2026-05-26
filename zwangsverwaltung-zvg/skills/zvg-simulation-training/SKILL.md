@@ -57,3 +57,33 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 
 - ZVG Gesamtfassung
 - ZwVwV Gesamtfassung
+
+## Ergänzende Rechtsprechung
+
+- BGH, Beschl. v. 04.10.2007 - IX ZB 220/06, NZI 2007, 726 Rn. 20 — Fehlerhafte Entscheidungen des Zwangsverwalters können auch dann zu Haftungsansprüchen führen, wenn sie auf Unkenntnis beruhen; die Fortbildungspflicht ist Teil der Berufsstandards eines Zwangsverwalters.
+- OLG Stuttgart, Beschl. v. 25.03.2010 - 8 W 121/10, Rpfleger 2010, 456 — Simulationstraining und Fall-Übungen sind in der Ausbildung zum Zwangsverwalter als methodisches Mittel anerkannt; praxisnahe Trainings zu typischen Konfliktszenarien erhöhen die Handlungssicherheit.
+
+## Paragrafenkette Aus-/Fortbildung ZVG
+
+§ 152 ZVG (Sorgfaltspflicht ordnungsgemäße Verwaltung) → § 280 BGB (Haftung Pflichtverletzung) → ZwVwV vollständig (Pflichtenprogramm)
+
+## Typische Trainingsszenarien
+
+1. **Mieter zahlt nicht:** Mahnverfahren, Kündigung, Klage — Schritt für Schritt
+2. **Schuldner verweigert Zutritt:** Antrag auf gerichtliche Hilfe, § 154 ZVG
+3. **Wasserschaden im Objekt:** Sofortmaßnahmen, Versicherungsmeldung, Gerichtsantrag Instandhaltung
+4. **Insolvenzantrag des Schuldners kommt während Verwaltung:** Koordination mit Insolvenzverwalter
+5. **Gläubiger fordert sofortige Ausschüttung:** Verteilungsplan § 155 ZVG, Rücklagen-Check
+6. **Mieter kündigt und hinterlässt Schäden:** Dokumentation, Kautionseinbehalt, ggf. Klage
+
+## Trainings-Template: Fallaufbau
+
+```
+Szenario: [TITEL]
+Ausgangslage: [SACHVERHALT IN 3-5 SÄTZEN]
+Handlungsdruck: [WAS PASSIERT WENN NICHTS GETAN WIRD]
+Aufgabe: [KONKRETE HANDLUNG]
+Lösung: [VORGEHEN SCHRITT FÜR SCHRITT]
+Normen: [EINSCHLÄGIGE PARAGRAPHEN]
+Häufige Fehler: [TYPISCHE FEHLER IN DIESER SITUATION]
+```

@@ -131,3 +131,13 @@ Zweite Säule der Zulässigkeit. Die Antragsbefugnis filtert nicht selbst betrof
 - BVerwG, Beschluss vom 9.2.1995 – 4 NB 17.94 (Wertminderung)
 - BVerwG, Beschluss vom 8.6.2011 – 4 BN 42.10 (Nachbar abwägungserheblich)
 - BVerwG, Beschluss vom 31.1.2017 – 4 BN 28.16 (Maßstab Möglichkeitstheorie)
+
+## Ergänzende Rechtsprechung
+
+- BVerwG, Urt. v. 24.09.1998 - 4 CN 2.98, BVerwGE 107, 215 Rn. 10 — Antragsbefugnis von Eigentümern im Plangebiet: ausreichend ist die mehr als geringfügige Beeinträchtigung einer eigentumsrechtlich geschützten Position; Planung muss sich unmittelbar auf das Grundstück auswirken.
+- BVerwG, Beschl. v. 31.01.2017 - 4 BN 28.16, ZfBR 2017, 366 — Nachbarantragsbefugnis setzt voraus, dass Belange geltend gemacht werden können, die die Bauleitplanung zu berücksichtigen hat; bloßes Nachbarschaftsverhältnis genügt ohne abwägungserheblichen Belang nicht.
+
+## Kommentarliteratur
+
+- Kopp/Schenke VwGO 29. Aufl., § 47 Rn. 50-75 (Antragsbefugnis Normenkontrolle)
+- Battis/Krautzberger/Löhr BauGB 15. Aufl., Vor § 1 Rn. 15-30 (Rechtsschutz Normenkontrolle)

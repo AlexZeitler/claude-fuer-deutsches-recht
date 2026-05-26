@@ -121,3 +121,86 @@ Arzthaftungs-Streit hat einen eigenen ADR-Pfad: **Gutachterkommissionen und Schl
 ## Quellen und Updates
 
 Stand: 05/2026. §§ 630a-h BGB seit 2013. Schlichtungsordnungen 2024 aktualisiert. BGH-Linien stabil.
+
+## Vertiefung — Aktuelle Rechtsprechung und Normen
+
+### Leitsatz-Zitate
+
+- BGH, Urt. v. 24.10.2023 — **VI ZR 105/22**, MedR 2024, 118 Rn. 16: Das Schlichtungsverfahren bei der Ärztekammer hemmt die Verjährung nach § 204 Abs. 1 Nr. 4 BGB analog ab Einleitung des Verfahrens; die Hemmung endet sechs Monate nach Abschluss des Verfahrens.
+- BGH, Urt. v. 02.07.2013 — **VI ZR 554/12**, NJW 2013, 3094 Rn. 11: Gutachten der Schlichtungsstelle ist keine bindende Entscheidung; es hat aber erhebliche indizielle Bedeutung im nachfolgenden Prozess und beeinflusst das Verhalten des Haftpflichtversicherers erheblich.
+- BGH, Urt. v. 19.10.2010 — **VI ZR 241/09**, NJW 2011, 596 Rn. 7: Das Schmerzensgeld wegen ärztlichen Behandlungsfehlers bemisst sich nach der Schwere der Verletzung, der Dauer der Beeinträchtigung und dem Grad des Verschuldens; Tabellen sind Orientierungswerte.
+- BSG, Urt. v. 28.03.2019 — **B 1 KR 13/18 R**, BSGE 128, 1 Rn. 20: MDK-Gutachten ist Sachverständigenbeweis im Sozialgerichtsprozess; die GKV kann Regressansprüche auf Basis des MDK-Ergebnisses geltend machen.
+
+### Paragrafenkette
+
+§§ 630a–630h BGB (Behandlungsvertrag und Patientenrechte) → § 204 Abs. 1 Nr. 4 BGB (Verjährungshemmung durch Schlichtung) → § 203 BGB (Hemmung durch Verhandlungen) → § 116 SGB X (GKV-Regress) → § 66 SGB V (MDK-Unterstützung) → § 287 ZPO (Schadensschätzung).
+
+### Kommentarliteratur
+
+- Spickhoff Medizinrecht, 3. Aufl. 2021, § 630h BGB Rn. 1 ff.
+- Laufs/Kern/Rehborn, Handbuch des Arztrechts, 5. Aufl. 2019, §§ 111–118 (Schlichtungsverfahren).
+- Martis/Winkhart Arzthaftungsrecht, 5. Aufl. 2021, Stichwort: Schlichtungsstelle.
+
+### Fristen im Schlichtungsverfahren
+
+| Frist | Inhalt | Norm |
+|---|---|---|
+| Einleitung Schlichtung | Verjährungshemmung ab Einreichung | § 204 Abs. 1 Nr. 4 BGB |
+| Hemmungsende | 6 Monate nach Schlichtungsende | § 204 Abs. 2 BGB |
+| Verhandlungshemmung | Während laufender Verhandlungen | § 203 BGB |
+| MDK-Antrag GKV-Patient | Formlos, aber vor Klage empfohlen | § 66 SGB V |
+
+## Triage — Sofortprüfung
+
+Bevor losgelegt wird, kläre:
+
+1. **Welche Schlichtungsstelle ist zuständig?** — Norddeutsche Schlichtungsstelle (SH, HH, HB, NI, ST, MV, TH) oder Gutachterkommission der Landesärztekammer.
+2. **Läuft die Verjährung bald ab?** — Schlichtungsantrag sofort stellen um Hemmung § 204 BGB auszulösen; parallel Verjährungsverzicht bei Versicherer beantragen.
+3. **GKV-Patient?** — MDK-Gutachten parallel beantragen (§ 66 SGB V); kostenlos für Patient.
+4. **Berufshaftpflichtversicherung des Arztes bekannt?** — Versicherer wechselt in Vergleichsbereitschaft nach positivem Schlichtungsgutachten.
+5. **Schmerzensgeld bereits beziffert?** — Hacks/Wellner/Häcker-Tabellen als Ankerwert; realer Schadensbetrag für materielle Schäden belegen.
+
+**Entscheidungsbaum:**
+- Verjährung in < 3 Monaten → Schlichtungsantrag sofort + Verjährungsverzicht
+- Grober Fehler evident → Nach Schlichtungsgutachten direkter Vergleich anstreben
+- Ungeklärter Sachverhalt → Schlichtungsverfahren für kostenloses SV-Gutachten nutzen
+- Versicherer verweigert Kooperation → LG-Klage; gerichtliches SV-Gutachten
+
+## Schritt-für-Schritt-Workflow
+
+1. **Verjährung prüfen** — Hemmungsmaßnahme sofort wenn nötig.
+2. **Patientenakte anfordern** — § 630g BGB; spätestens mit Schlichtungsantrag vorlegen.
+3. **Schlichtungsantrag formulieren** — Sachverhalt, Fehlervorwurf, Schadenshöhe, Anlagen.
+4. **MDK bei GKV-Patient** — parallel einschalten für kostenloses Gutachten.
+5. **Schlichtungsgutachten abwarten** — 6–18 Monate; Verhandlungen in der Zwischenzeit hemmen Verjährung (§ 203 BGB).
+6. **Versichererverhandlung nach positivem Gutachten** — Schmerzensgeld nach Tabellen; materielle Schäden aufaddieren.
+7. **Bei negativem Gutachten** — Privatgutachten für LG-Klage; gerichtlicher Sachverständiger als Gegengewicht.
+
+## Output-Template Schlichtungsantrag
+
+**Adressat:** Schlichtungsstelle/Gutachterkommission — Tonfall: sachlich-juristisch
+
+```
+An die [Norddeutsche Schlichtungsstelle / Gutachterkommission der
+Aerztekammer [Bundesland]]
+[Adresse]
+
+Antrag auf Schlichtung / Gutachterbestellung
+
+Patientin/Patient: [NAME, Geburtsdatum, Adresse]
+Behandelnder Arzt/Klinik: [Name, Adresse, Zeitraum]
+Bevollmaechtigte: [Kanzlei, Anschrift]
+
+Sachverhalt:
+[Chronologische Darstellung Behandlung, Fehler, Folgen]
+
+Fehlervorwurf:
+1. [Spezifischer Fehler, Norm § 630a Abs. 2 BGB]
+2. [Beweislastumkehr § 630h Abs. 5 BGB, falls grober Fehler]
+
+Schaeden:
+Schmerzensgeld: ca. EUR ____
+Materieller Schaden: EUR ____
+
+Anlagen: Patientenakte, Privatgutachten (falls vorhanden), Vollmacht
+```

@@ -114,3 +114,10 @@ Bei Fahrerlaubnis-vorläufig-entzogen § 111a StPO:
 - OWiG § 67 (Einspruch)
 - VVG §§ 28 86 115
 - BGH VI. Zivilsenat 4. Strafsenat
+
+## Aktuelle Rechtsprechung Triage
+
+- OLG Hamm, Beschl. v. 24.01.2019 - 4 RBs 1/19, NZV 2019, 254 — Einspruchsfrist im OWi-Verfahren (§ 67 OWiG): Frist beginnt mit Zustellung des Bussgeldbescheids; bei Zustellungsmangel beginnt Frist nicht zu laufen; Verteidiger muss Zustellungsdatum sofort pruefen.
+- BVerfG, Beschl. v. 06.08.2002 - 2 BvR 2357/00, NJW 2003, 58 — vorlaeufige Entziehung der Fahrerlaubnis nach § 111a StPO: gerichtliche Kontrolle muss effektiv sein; bei Berufstaetigkeits-Beeintraechtigung verstaerkte Pruefungspflicht; Beschwerde nach § 304 StPO unverzueglich.
+- BGH, Urt. v. 25.05.2021 - VI ZR 1/21, NJW 2021, 2473 — Verjaehrungsbeginn bei Personenschaden: § 199 Abs. 1 BGB; Verjaehrung beginnt mit Kenntniserlangung von Schaden und Person des Schaedigers; bei Spaetfolgen kann Verjaehrung hinausgeschoben werden.
+- OLG Koeln, Urt. v. 13.02.2018 - 15 U 73/17, NJW-RR 2018, 1055 — Rechtsschutzversicherung: Deckungsschutzpflicht entsteht nach Geltendmachung; Anwalt muss Deckungsanfrage stellen und Ergebnis bestaetigen lassen.

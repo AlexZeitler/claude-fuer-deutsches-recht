@@ -143,3 +143,13 @@ Stellplatzfragen sind ein Hauptkampffeld bei Innenstadt-Verdichtungen. Reduziert
 - BVerwG, Urteil vom 26.5.2004 – 9 A 6.03 (Verkehrsbelang)
 - BayVGH, Urteil vom 17.12.2018 – 15 N 16.2373 (Stellplatzreduzierung)
 - BayVGH, Urteil vom 23.6.2015 – 1 BV 13.2336 (Mobilitätskonzept)
+
+## Ergänzende Rechtsprechung
+
+- BayVGH, Urt. v. 15.10.2015 - 1 N 14.1041, BayVBl. 2016, 375 — Eine Stellplatzsatzung nach Art. 81 Abs. 1 Nr. 4 BayBO muss städtebaulich gerechtfertigt sein; eine Reduzierung der Stellplatzzahl ohne Nachweis ausreichender ÖPNV-Erschließung ist abwägungsfehlerhaft.
+- BVerwG, Urt. v. 28.04.2004 - 4 C 10.03, NVwZ 2004, 1244 — Die Stellplatzsatzung ist eine im Rang unter dem Landesgesetz stehende Rechtsvorschrift und damit statthafter Normenkontrollgegenstand nach § 47 Abs. 1 Nr. 2 VwGO i.V.m. Landesrecht.
+
+## Kommentarliteratur
+
+- Simon/Busse BayBO 145. EL, Art. 81 Rn. 80-110 (Örtliche Bauvorschriften Stellplätze)
+- Battis/Krautzberger/Löhr BauGB 15. Aufl., § 9 Rn. 90-105 (Stellplätze im Bebauungsplan)

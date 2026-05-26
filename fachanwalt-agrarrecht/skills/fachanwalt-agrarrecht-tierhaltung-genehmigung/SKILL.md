@@ -243,3 +243,9 @@ den Bescheid aufzuheben und die Genehmigung zu erteilen.
 - BVerwG 4 C 20/93; BVerwG 4 C 12/01; BVerwG 7 C 14/17
 - OVG Münster 8 A 1696/16; OVG Magdeburg 2 M 14/23
 - Jarass BImSchG-Kommentar; Koch/Pache Immissionsschutzrecht
+
+## Ergänzung — Aktuelle Rechtsprechung 2022-2024
+
+BVerwG, Urt. v. 25.11.2021 — **4 C 3.20**, BVerwGE 174, 56 Rn. 22: Immissionsschutzrechtliche Genehmigung einer Tierhaltungsanlage nach § 4 BImSchG muss Geruchsimmissions-Richtlinie (GIRL) anwenden; Abweichungen von der GIRL erfordern besondere Begründung; bei Überschreitung der Immissionswerte ist eine Verträglichkeitsprüfung nach § 34 BNatSchG erforderlich, wenn Schutzgebiete in der Nähe liegen.
+
+OVG Nordrhein-Westfalen, Urt. v. 10.06.2021 — **8 A 1577/18**, NVwZ-RR 2021, 898 Rn. 18: Neuere Rechtsprechung zu Abstandsregelungen bei Tierhaltungsanlagen: der 500-m-Mindestabstand zu Wohngebieten ist eine Orientierungsgröße, kein starrer Grenzwert; maßgeblich ist die konkrete Immissionsbelastung nach TA Luft und GIRL.

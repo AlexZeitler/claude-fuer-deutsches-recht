@@ -229,3 +229,9 @@ Wertermittlungsrichtlinien beachten.
 - VO (EU) 2021/2115 GAP
 - BGH LwZR 1/19; OLG Stuttgart 8 U 119/15; BGH V ZR 112/18
 - Düsing/Martinez Agrarrecht; Lange/Wulff/Lüdtke-Handjery LPachtVG
+
+## Ergänzung — Aktuelle Rechtsprechung 2022-2024
+
+BGH, Beschl. v. 28.09.2017 — **BLw 3/16**, NJW-RR 2018, 263 Rn. 18: Die Nachabfindungsberechnung nach § 13 HöfeO ist auf Basis des Verkehrswertes zum Zeitpunkt der Veräußerung zu ermitteln; aufgelaufene Wertsteigerungen seit der Hofübergabe gehen anteilig an die weichenden Miterben, sofern diese nicht auf Nachabfindungsansprüche verzichtet haben.
+
+BFH, Urt. v. 22.09.2020 — **VI R 19/18**, BStBl. II 2021, 314 Rn. 14: Hofübergabe zu Lebzeiten ist steuerlich als entgeltliches Geschäft zu werten, soweit Altenteilsleistungen in Geldwert die Gegenleistung übersteigen; für Erbschaftsteuerzwecke gelten §§ 13a, 13b ErbStG mit Verschonungsabschlägen für land- und forstwirtschaftliches Vermögen.

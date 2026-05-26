@@ -144,3 +144,14 @@ Audit der formellen Verfahrenskette des B-Plans. Häufigste Treffer im Normenkon
 - BVerwG, Beschluss vom 15.4.1988 – 4 N 4.87 (Anstoßfunktion)
 - BVerwG, Urteil vom 18.7.2013 – 4 CN 3.12 (Identität Planfassung)
 - BVerwG, Beschluss vom 18.12.1987 – 4 NB 2.87 (Ortsüblichkeit)
+
+## Aktuelle Rechtsprechung — Leitsaetze
+
+- BVerwG, Beschl. v. 15.04.1988 — 4 N 4.87, BVerwGE 79, 200 Rn. 12: Ortsueblliche Bekanntmachung als Anstossfunktion muss die wesentlichen Eckpunkte des Planvorhabens erkennbar machen; formelhafte Bekanntmachung ohne Bezug zum Plangebiet genuegt nicht.
+- BVerwG, Urt. v. 18.07.2013 — 4 CN 3.12, NVwZ 2014, 173 Rn. 18: Identitaet der ausgelegten und der vom Gemeinderat beschlossenen Planfassung ist zwingendes Wirksamkeitserfordernis; nachtraegliche Planänderungen erfordern erneute Auslegung.
+- BVerwG, Urt. v. 01.07.2010 — 4 C 4.08, BVerwGE 137, 247 Rn. 22: Beschlussfaehigkeit des Gemeinderats bei Satzungsbeschluss ist Wirksamkeitsvoraussetzung; fehlerhafte Sitzungseinladung kann Beschlussfaehigkeit vernichten.
+
+## Kommentarliteratur
+
+- Battis/Krautzberger/Loehr, BauGB, 15. Aufl. — §§ 2, 10 Rn. 1 ff.
+- Ernst/Zinkahn, BauGB — §§ 2, 10 BauGB Verfahrensvorschriften

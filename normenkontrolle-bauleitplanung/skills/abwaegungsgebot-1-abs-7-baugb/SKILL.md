@@ -152,3 +152,13 @@ Das Abwägungsgebot ist das Herzstück der materiellen Plan-Prüfung. Vier Stufe
 - BVerwG, Urteil vom 5.7.1974 – 4 C 50.72 (Abwägungsausfall)
 - BVerwG, Urteil vom 9.4.2008 – 4 CN 1.07 (Ermittlungspflicht § 2 Abs. 3)
 - BVerwG, Urteil vom 22.9.2010 – 4 CN 2.10 (Offensichtlichkeit)
+
+## Ergänzende Rechtsprechung
+
+- BVerwG, Urt. v. 05.07.1974 - IV C 50.72, BVerwGE 45, 309 Rn. 45 — Grundlegendes Urteil zum Abwägungsgebot: die vier Stufen Abwägungsausfall, Abwägungsdefizit, Fehleinschätzung und Disproportionalität als Prüfungsrahmen.
+- BVerwG, Urt. v. 22.09.2010 - 4 CN 2.10, NVwZ 2011, 429 Rn. 15 — Ergebnisfehler im Sinne der Abwägungsdisproportionalität sind stets beachtlich und nicht über § 214 Abs. 3 BauGB heilbar; strategisch vorrangig zu prüfen.
+
+## Kommentarliteratur
+
+- Battis/Krautzberger/Löhr BauGB 15. Aufl., § 1 Rn. 85-130 (Abwägungsgebot systematisch)
+- Ernst/Zinkahn/Bielenberg/Krautzberger BauGB, § 1 Rn. 185-240 (Abwägungsfehler-Lehre)

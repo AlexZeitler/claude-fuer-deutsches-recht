@@ -187,3 +187,51 @@ Lärm ist der häufigste materielle Hebel im Normenkontrollverfahren bei Innenst
 - BVerwG, Urteil vom 28.5.2014 – 6 A 1.13 (DIN 18005)
 - BVerwG, Urteil vom 9.7.2008 – 9 A 14.07 (Außenwohnbereich)
 - BVerwG, Urteil vom 19.4.2012 – 4 CN 3.11 (Verkehrslärmprognose)
+
+## Aktuelle Rechtsprechung
+
+- BVerwG, Urt. v. 10.10.2012 - 9 A 18.11, BVerwGE 144, 243 Rn. 60 — DIN 18005 hat den Charakter einer antizipierten Sachverständigenaussage; Überschreitungen sind abwägungspflichtig begründet; bei mehr als 5 dB(A) über dem Orientierungswert regelmäßig unverhältnismäßig ohne aktive Schutzmaßnahmen.
+- BVerwG, Urt. v. 16.03.2006 - 4 A 1075.04, BVerwGE 125, 116 Rn. 368 — Außenwohnbereiche sind in der Lärmschutzplanung eigenständig zu berücksichtigen; Schallschutzfenster ersetzen den Schutz des Außenwohnbereichs nicht.
+- BVerwG, Urt. v. 13.05.2009 - 9 A 72.07, BVerwGE 134, 45 Rn. 51 — Der Trennungsgrundsatz § 50 BImSchG ist eine strikte Abwägungsdirektive; eine heranrückende Wohnbebauung an bestehende Lärmquellen muss aktiv geschützt werden, bloße Festsetzung von Schallschutzfenstern reicht nicht aus.
+- OVG NRW, Urt. v. 24.06.2019 - 10 D 26.17.NE, NVwZ-RR 2020, 46 — Verkehrslärm-Kumulationsbetrachtung (Straße plus Schiene) ist Pflichtbestandteil des Schallschutzgutachtens; fehlende Summation begründet Ermittlungsdefizit § 2 Abs. 3 BauGB.
+
+## Paragrafenkette Lärmschutz
+
+§ 50 BImSchG (Trennungsgrundsatz) → § 41 BImSchG (Verkehrslärmschutz) → 16. BImSchV (Grenzwerte Schiene/Straße) → 18. BImSchV (Sportlärm) → DIN 18005-1 (Orientierungswerte) → § 9 Abs. 1 Nr. 24 BauGB (Schallschutzflächen) → § 1 Abs. 6 Nr. 1 BauGB (allgemeine Wohlfahrtspflege) → § 2 Abs. 3 BauGB (Ermittlungspflicht)
+
+## Kommentarliteratur
+
+- Battis/Krautzberger/Löhr BauGB 15. Aufl., § 1 Rn. 95-105 (Immissionsschutz als Belang)
+- Hansmann/Röckinghausen in Landmann/Rohmer Umweltrecht, § 50 BImSchG Rn. 30-55 (Trennungsgrundsatz Planung)
+- Fickert/Fieseler BauNVO 13. Aufl., Vor §§ 2-9 Rn. 20-40 (Lärmschutz in Gebietstypologie)
+
+## Triage vor Bearbeitung
+
+Kläre bei Mandantenübernahme:
+1. Wo liegt das Plangebiet? (Innenstadt = Vorbelastung; Außenbereich = weniger Vorbelastung)
+2. Welche Lärmquellen sind vorhanden? (Straße/Schiene/Anlage/Sportanlage)
+3. Wurde eine Lärmkumulation aller Quellen berechnet?
+4. Sind Außenwohnbereiche (Balkone Terrassen) ausgewiesen und geschützt?
+5. Welche Schutzkonzeption sieht der Plan vor — aktiv oder nur passiv?
+
+## Output-Template Lärm-Rüge im Schriftsatz
+
+**Adressat:** OVG/VGH — Tonfall sachlich-juristisch
+
+```
+IV. Verstoß gegen § 50 BImSchG und § 2 Abs. 3 BauGB — Lärmermittlung unvollständig
+
+1. Kumulation Straßen- und Schienenlärm nicht berücksichtigt
+   Das Schallschutzgutachten der [BUERO] vom [DATUM] behandelt Straßenlärm und Schienenlärm
+   separat. Eine Summenpegel-Berechnung fehlt. Dies begründet ein Ermittlungsdefizit
+   (OVG NRW 10 D 26.17.NE).
+
+2. Außenwohnbereiche ungeschützt
+   Für die auf Blatt [X] ausgewiesenen Balkone und Terrassen in den Fensterlagen [HIMMELSRICHTUNG]
+   werden Pegelwerte von [Z] dB(A) tagsüber erreicht — [N] dB(A) über DIN 18005-Orientierungswert.
+   Passive Schallschutzmaßnahmen schützen Außenwohnbereiche nicht (BVerwG 4 A 1075.04 Rn. 368).
+
+3. Abwägungsdisproportionalität
+   Die Überschreitung beträgt [X] dB(A). Bei mehr als 5 dB(A) ohne aktive Schutzmaßnahmen
+   ist die Abwägung regelmäßig unverhältnismäßig (BVerwG 9 A 18.11 Rn. 60).
+```

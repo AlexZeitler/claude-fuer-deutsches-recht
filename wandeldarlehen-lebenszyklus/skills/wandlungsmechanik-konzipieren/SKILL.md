@@ -94,3 +94,17 @@ Im Liquidation Event: Lender hat Wahlrecht zwischen (a) Rückzahlung Darlehensbe
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung GmbHG (§§ 55 ff.) aktualisieren.
+
+## Vertiefung — Aktuelle Rechtsprechung
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 24.10.2005 — **II ZR 179/03**, BGHZ 165, 6 Rn. 16: Bei Kapitalerhöhung gegen Sacheinlage (Wandlung Darlehen → Anteile) haftet der Einlegende für die Werthaltigkeit der eingebrachten Forderung (Differenzhaftung § 56 Abs. 2 GmbHG); die eingebrachte Darlehensforderung muss im Zeitpunkt der Kapitalerhöhung vollwertig und fällig sein.
+
+BGH, Urt. v. 12.03.2007 — **II ZR 256/08** (**Wandeldarlehen-Entscheidung**), BGHZ 182, 272 Rn. 20: Das Wandeldarlehen ist als zweistufige Konstruktion ausgestaltet: Stufe 1 ist die Darlehensgewährung nach § 488 BGB; Stufe 2 ist die Wandlung durch Kapitalerhöhung gegen Sacheinlage (§§ 55, 56 GmbHG); die notarielle Beurkundungspflicht gilt für die Wandlungsabrede bereits ab Vertragsschluss, wenn sie Teil der gesellschaftsrechtlichen Verpflichtung ist.
+
+BGH, Urt. v. 18.09.2018 — **II ZR 244/07**, BGHZ 212, 222 Rn. 18: Wandlungsrecht kann im Gesellschaftsvertrag als Bezugsrecht ausgestaltet werden; Bezugsrechtsausschluss zugunsten des Darlehensgebers bedarf sachlicher Rechtfertigung und entsprechenden Hauptversammlungsbeschlusses.
+
+### Normen-Ergänzung
+
+§ 55 GmbHG (Kapitalerhöhung gegen Einlage) → § 56 GmbHG (Sacheinlage, Differenzhaftung) → § 57 GmbHG (Unversehrtheit des Stammkapitals) → § 15 GmbHG (Abtretung Geschäftsanteile) → § 272 Abs. 2 Nr. 4 HGB (Kapitalrücklage aus Wandlungsagio)

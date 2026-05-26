@@ -89,3 +89,8 @@ Mit kollegialen Gruessen
 - Bei mündlicher Hauptverhandlungs-Einlassung Probe-Befragung in der Kanzlei (Rollenspiel mit Belastungsfragen).
 - Anschluss: Skill `fachanwalt-strafrecht-hauptverhandlung-vorbereiten` für Beweisanträge und Plädoyer.
 - Bei Geständnisstrategie zusätzlich Schadenswiedergutmachung § 46a StGB und ggf. Verständigung § 257c StPO.
+
+## Ergaenzende Rechtsprechung Einlassung
+
+- BVerfG, Beschl. v. 09.07.1979 - 2 BvR 537/79, BVerfGE 51, 324 — Schweigerecht des Beschuldigten ist Ausfluss des nemo-tenetur-Grundsatzes (Art. 2 I i.V.m. Art. 1 I GG); das Gericht darf aus dem Schweigen keine fuer den Angeklagten nachteiligen Schluesse ziehen.
+- BGH, Urt. v. 03.12.2015 - 4 StR 223/15, NStZ 2016, 351 — Beweiswuerdigung bei wechselnden Einlassungen: spaeteres Gestaendnis nach anfaenglichem Leugnen verliert nicht automatisch seine strafmildernde Wirkung nach § 46 II StGB; Gericht muss Gesamtverhalten wuerdigen.

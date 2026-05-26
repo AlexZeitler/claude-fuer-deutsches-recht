@@ -143,3 +143,13 @@ Die Erforderlichkeit ist die strengste materielle Hürde und kein Abwägungselem
 - BVerwG, Urteil vom 18.12.1990 – 4 C 16.88 (Negativplanung)
 - BVerwG, Urteil vom 27.3.2013 – 4 CN 7.11 (Vorhabenbezogener B-Plan)
 - BVerwG, Urteil vom 26.3.2009 – 4 C 21.07 (Erforderlichkeitsmaßstab)
+
+## Ergänzende Rechtsprechung
+
+- BVerwG, Urt. v. 17.12.2002 - 4 C 15.01, BVerwGE 117, 287 Rn. 18 — Eine Negativplanung (Verhinderungsplanung) ist unzulässig wenn kein positives Planungskonzept erkennbar ist und die Planung ausschließlich darauf abzielt, ein bestimmtes Vorhaben zu verhindern; maßgeblich ist die Gesamtschau aus Planentstehungsgeschichte und Begründung.
+- BVerwG, Urt. v. 27.03.2013 - 4 CN 7.11, BVerwGE 146, 170 Rn. 11 — Beim vorhabenbezogenen Bebauungsplan § 12 BauGB ist die städtebauliche Rechtfertigung auch dann gegeben wenn die Initiative vom Vorhabenträger ausging; entscheidend ist das planerische Eigeninteresse der Gemeinde.
+
+## Kommentarliteratur
+
+- Ernst/Zinkahn/Bielenberg/Krautzberger BauGB, § 1 Abs. 3 Rn. 25-60 (Erforderlichkeit systematisch)
+- Hoppe/Bönker/Grotefels Öffentliches Baurecht 5. Aufl., § 4 Rn. 60-90 (Planrechtfertigung)

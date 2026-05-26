@@ -71,3 +71,8 @@ description: Orientierung im Sportrecht — FAO Voraussetzungen Normen typische 
 - **arbeitsrecht** bei Spielerverträgen.
 - **fachanwalt-internationales-wirtschaftsrecht** bei internationalen Sport-Schiedsverfahren.
 - **kanzlei-allgemein** Fristen Versand.
+
+## Ergaenzende Rechtsprechung (2026-Update)
+
+- EuGH, Urt. v. 21.12.2023 - C-333/21 (European Superleague), NJW 2024, 504 — UEFA/FIFA-Monopolregeln bei europaeischen Vereinswettbewerben sind an Art. 101 und 102 AEUV zu messen; automatisches Genehmigungsregime ohne sachliche Kriterien unzulaessig.
+- EuGH, Urt. v. 04.10.2024 - C-650/22 (Diarra), NJW 2024, 3458 — FIFA-Transferregeln (RSTP-Art. 17): pauschale Haftung des neuen Vereins und sofortiges Transferverbot bei Vertragsauflosung unvereinbar mit Art. 45 AEUV (Freizuegigkeit der Arbeitnehmer).

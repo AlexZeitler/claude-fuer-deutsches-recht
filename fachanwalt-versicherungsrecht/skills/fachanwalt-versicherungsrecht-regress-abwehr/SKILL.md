@@ -296,3 +296,24 @@ Mit freundlichen kollegialen Grüßen
 - Geigel, Der Haftpflichtprozess, 28. Aufl. 2022
 - Küppersbusch/Höher, Ersatzansprüche bei Personenschaden, 13. Aufl. 2021
 - Eichenhofer/Wenner, SGB X, 3. Aufl. 2022
+
+## Vertiefung — Aktuelle Rechtsprechung und Normen
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 25.10.2011 — **VI ZR 179/10**, NJW 2012, 301 Rn. 18: Das Quotenvorrecht des Geschädigten nach § 116 Abs. 3 SGB X setzt voraus, dass der Anspruch des Geschädigten wegen Mitverschuldens quotal gemindert ist; in diesem Fall erhält der Geschädigte zunächst seine eigenen Schäden gedeckt, bevor der Sozialversicherungsträger aus dem Restanspruch Regress nimmt.
+
+BGH, Urt. v. 18.06.2013 — **VI ZR 268/12**, NJW 2013, 2815 Rn. 22: Das Familienprivileg des § 86 Abs. 3 VVG schützt Familienangehörige nur bei gesetzlicher Unterhaltspflicht; bei häuslicher Gemeinschaft ohne Unterhaltsverpflichtung greift das Privileg nicht; der Versicherer kann in diesen Fällen uneingeschränkt Regress nehmen.
+
+BSG, Urt. v. 05.09.2006 — **B 2 U 24/05 R**, BSGE 97, 73 Rn. 15: Sachliche Kongruenz im Sinne von § 116 SGB X erfordert, dass der Regress-Anspruch des Sozialversicherungsträgers sachlich mit dem Schadensersatzanspruch des Geschädigten übereinstimmt; Verdienstausfallersatz kann nur insoweit übergehen, als der Träger Leistungen zur Lohnersatz erbracht hat (z.B. Krankengeld, Verletztengeld).
+
+BGH, Urt. v. 17.06.2008 — **VI ZR 109/07**, NJW 2008, 2657 Rn. 20: Zeitliche Kongruenz für den Forderungsübergang nach § 116 SGB X verlangt, dass die Regress-Forderung des Trägers und der Schadensersatzanspruch des Geschädigten denselben Zeitraum betreffen; Rentenleistungen ab Rentenbeginn gehen auf den Rentenversicherungsträger über.
+
+### Paragrafenkette
+
+§ 116 SGB X (Übergang Schadensersatzansprüche auf Sozialversicherungsträger) → § 116 Abs. 3 SGB X (Quotenvorrecht des Geschädigten) → § 86 VVG (Übergang Schadensersatzanspruch auf Versicherer) → § 86 Abs. 3 VVG (Familienprivileg) → § 67 VVG a.F. (für Altverträge) → § 195 BGB (Verjährung) → § 203 BGB (Hemmung) → § 254 BGB (Mitverschulden, relevant für Quotenvorrecht)
+
+### Kommentarliteratur
+
+- Bruck/Möller, VVG, 9. Aufl. 2012 ff., § 86 VVG: Forderungsübergang, Familienprivileg, sachliche und zeitliche Kongruenz.
+- Hauck/Noftz SGB X, § 116 SGB X: Detailkommentierung Sozialversicherungsregress, Quotenvorrecht, Kongruenz.

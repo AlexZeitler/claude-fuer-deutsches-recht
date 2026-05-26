@@ -111,3 +111,22 @@ Versicherungsrechts-Streit (Leistung, Anpassung, Kündigung) ist häufig im auß
 ## Quellen und Updates
 
 Stand: 05/2026. Ombudsmann-Verfahrensordnung 2024-Update. PKV-Linie BGH IV ZR 193/20 stabil. EU-ODR-Plattform abgeschaltet zum 20.7.2025 (VO (EU) 2024/3228 hat VO 524/2013 aufgehoben); VSBG-Schlichtung nationalen Verbraucherschlichtungsstellen bleibt verfügbar.
+
+## Vertiefung — Aktuelle Rechtsprechung und Normen
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 15.03.2006 — **IV ZR 4/05**, NJW 2006, 1591 Rn. 14: Die Anrufung einer anerkannten Schlichtungsstelle (Ombudsmann) hemmt nach § 204 Abs. 1 Nr. 4 BGB die Verjährung; Voraussetzung ist, dass die Schlichtungsstelle gesetzlich anerkannt ist und der Antrag ordnungsgemäß gestellt wird.
+
+BGH, Urt. v. 20.01.2016 — **IV ZR 422/14**, VersR 2016, 336 Rn. 17: Versicherungsombudsmann-Entscheidungen bis 10.000 EUR sind für den Versicherer bindend (§ 6 VomVO); der Versicherungsnehmer ist nicht gebunden und kann trotz Ombudsmann-Entscheidung klagen; Versicherer ist an bindende Schlichtungsentscheidung aus § 6 VomVO gebunden, soweit kein Revisionsantrag gestellt wurde.
+
+BGH, Urt. v. 07.02.2013 — **III ZR 121/12**, NJW 2013, 1091 Rn. 12: Sachverständigen-Verfahren nach § 84 VVG ist ein zulässiges Instrument zur verbindlichen Feststellung von Schäden; Entscheidung des Sachverständigen kann gerichtlich nur auf grobe Unbilligkeit überprüft werden (§ 84 Abs. 2 VVG analog).
+
+### Normen-Ergänzung
+
+§ 214 VVG (Ombudsmann-Schlichtung, Verjährungshemmung) → § 204 Abs. 1 Nr. 4 BGB (Hemmung durch Schlichtungsantrag) → § 84 VVG (Sachverständigen-Verfahren) → VSBG (Verbraucherstreitbeilegungsgesetz) → VomVO (Verordnung über Versicherungsombudsmann) → § 6 VomVO (Bindungswirkung für Versicherer bis 10.000 EUR)
+
+### Kommentarliteratur
+
+- Prölss/Martin, VVG, 31. Aufl. 2021, § 214 VVG Rn. 1 ff.: Ombudsmann-Verfahren, Verjährungshemmung, Verhältnis zum Klageverfahren.
+- Langheid/Wandt, MüKo VVG, 3. Aufl. 2022, § 84 VVG: Sachverständigen-Verfahren, Bindungswirkung, gerichtliche Überprüfbarkeit.

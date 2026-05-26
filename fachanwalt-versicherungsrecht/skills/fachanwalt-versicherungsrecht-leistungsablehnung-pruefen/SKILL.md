@@ -95,3 +95,22 @@ Mit kollegialen Gruessen
 - Bei BU-Versicherung Sachverständigengutachten zur Berufsunfähigkeit beifügen — Vergleich zwischen zuletzt ausgeübter Tätigkeit und verbliebener Leistungsfähigkeit.
 - Bei Kasko Unfallrekonstruktion und Wertgutachten.
 - Anschluss: Skill `fachanwalt-versicherungsrecht-deckungsklage` bei Fortbestehen der Ablehnung.
+
+## Vertiefung — Aktuelle Rechtsprechung und Normen
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 25.06.2014 — **IV ZR 117/13**, NJW 2014, 2954 Rn. 12: Eine Anzeigepflichtverletzung nach § 19 VVG berechtigt den Versicherer zum Rücktritt nur dann, wenn er den Versicherungsnehmer gemäß § 19 Abs. 5 Satz 1 VVG belehrt hat; fehlt die Belehrung, ist das Rücktrittsrecht ausgeschlossen — unabhängig davon, ob der Versicherungsnehmer die Frage vorsätzlich oder fahrlässig falsch beantwortet hat.
+
+BGH, Urt. v. 22.06.2011 — **IV ZR 225/10**, NJW 2011, 3299 Rn. 18: Die Kausalitätsgegenbeweis-Regelung des § 28 Abs. 3 VVG führt dazu, dass der Versicherungsnehmer nachweisen kann, dass seine Obliegenheitsverletzung weder Einfluss auf den Eintritt noch auf die Feststellung des Versicherungsfalls hatte; gelingt dieser Beweis, ist der Versicherer zur vollen Leistung verpflichtet.
+
+BGH, Urt. v. 08.07.2009 — **IV ZR 216/07**, NJW 2009, 3501 Rn. 15: AGB-Ausschlussklauseln in Versicherungsbedingungen werden nach § 305c Abs. 2 BGB gegen den Verwender (Versicherer) ausgelegt, wenn sie mehrdeutig sind; Klauseln, die den Versicherungsschutz für typischerweise erwartbare Risiken ausschließen, können nach § 307 Abs. 2 Nr. 2 BGB unwirksam sein.
+
+### Normen-Ergänzung
+
+§ 28 Abs. 3 VVG (Kausalitätsgegenbeweis) → § 19 Abs. 5 VVG (Belehrungspflicht Versicherer) → § 305c Abs. 2 BGB (unklare AGB gegen Verwender) → § 307 BGB (AGB-Inhaltskontrolle) → § 203 BGB (Hemmung Verjährung durch Verhandlungen)
+
+### Kommentarliteratur
+
+- Bruck/Möller, VVG, 9. Aufl. 2012 ff., §§ 19, 28, 81 VVG: Maßgebliches Großkommentar zu Anzeigepflicht, Obliegenheiten, Vorsatz-Ausschluss.
+- Langheid/Wandt, MüKo VVG, 3. Aufl. 2022, § 28 VVG Rn. 1 ff.: Kausalitätsgegenbeweis; Quotelung bei grober Fahrlässigkeit.

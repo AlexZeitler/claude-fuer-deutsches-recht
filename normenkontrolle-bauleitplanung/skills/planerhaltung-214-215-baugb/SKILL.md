@@ -156,3 +156,65 @@ description: Pruefung der Planerhaltungsvorschriften Paragraf 214 BauGB Beachtli
 - BVerwG, Urteil vom 22.9.2010 – 4 CN 2.10 (Heilung)
 - BVerwG, Urteil vom 9.4.2008 – 4 CN 1.07 (Abwägungsvorgang)
 - BVerwG, Urteil vom 27.10.1999 – 11 A 31.98 (Offensichtlichkeit)
+
+## Aktuelle Rechtsprechung
+
+- BVerwG, Urt. v. 18.11.2010 - 4 CN 3.10, BVerwGE 138, 166 Rn. 37 — Die Rüge nach § 215 Abs. 1 BauGB setzt die konkrete Bezeichnung des Mangels voraus; ein pauschaler Hinweis auf "sämtliche Verfahrensfehler" genügt nicht und löst keine Präklusionswirkung aus.
+- BVerwG, Urt. v. 22.09.2010 - 4 CN 2.10, NVwZ 2011, 429 Rn. 22 — Die Heilung durch ergänzendes Verfahren nach § 214 Abs. 4 BauGB ist nur bei Verfahrens- und Formfehlern möglich, nicht bei Ergebnisfehlern; die rückwirkende Heilung erfordert eine vollständige Wiederholung des fehlerhaften Verfahrensschritts.
+- BVerwG, Urt. v. 04.08.2009 - 4 CN 4.08, BVerwGE 134, 264 Rn. 12 — Die Hinweispflicht nach § 215 Abs. 2 BauGB ist Voraussetzung des Fristbeginns; fehlt der Hinweis auf die Folgen der Nichtrüge in der Bekanntmachung, beginnt die Rügefrist nicht zu laufen.
+- OVG NRW, Urt. v. 26.01.2016 - 10 D 39.13.NE, NVwZ-RR 2016, 595 — Die "Offensichtlichkeit" eines Abwägungsvorgangsfehlers i.S.v. § 214 Abs. 3 S. 2 BauGB ist gegeben, wenn der Fehler ohne Weiteres aus der Planbegründung oder dem Verfahrensgang erkennbar ist; der Fehler muss sich "ins Auge drängen".
+
+## Paragrafenkette Planerhaltung
+
+§ 214 Abs. 1 BauGB (beachtliche Verfahrensfehler) → § 214 Abs. 2a BauGB (§ 13a-Verfahren) → § 214 Abs. 3 BauGB (beachtliche Abwägungsfehler) → § 214 Abs. 4 BauGB (ergänzendes Verfahren) → § 215 Abs. 1 BauGB (Rügefrist 1 Jahr) → § 215 Abs. 2 BauGB (Hinweispflicht) → § 233 BauGB (Übergangsrecht)
+
+## Kommentarliteratur
+
+- Battis/Krautzberger/Löhr BauGB 15. Aufl., § 214 Rn. 1-50 (Planerhaltungssystem)
+- Ernst/Zinkahn/Bielenberg/Krautzberger BauGB, § 215 Rn. 15-40 (Rügefrist praktisch)
+- Hoppe/Bönker/Grotefels Öffentliches Baurecht 5. Aufl., § 5 Rn. 120-145 (Fehlerfolgen Normenkontrolle)
+
+## Triage vor Bearbeitung
+
+Kläre nach Mandatsübernahme:
+1. Datum der Bekanntmachung der Satzung? (Rügefrist läuft ab diesem Tag)
+2. Enthält die Bekanntmachung den Hinweis auf § 215 BauGB-Rügefrist und Rechtsfolgen?
+3. Welche Fehler wurden im Aufstellungsverfahren erkannt? (Verfahren/Form/Abwägungsvorgang)
+4. Liegt ein Ergebnisfehler vor? (keine Rüge nötig, immer beachtlich)
+5. Wurde bereits eine § 215-Rüge erstattet? (Inhalt prüfen auf Konkretheit)
+
+## Output-Template § 215 BauGB Rügeschreiben
+
+**Adressat:** Gemeinde/Stadtverwaltung — Tonfall formell-juristisch, fristwahrend
+
+```
+An die Gemeinde/Stadt [NAME]
+Rechtsamt
+[ANSCHRIFT]
+
+Einschreiben mit Rückschein
+[ORT], [DATUM]
+
+Bebauungsplan Nr. [X] "[NAME]" der [GEMEINDE]
+Bekanntmachung im Amtsblatt vom [DATUM]
+Unser Zeichen: [AZ]
+
+Sehr geehrte Damen und Herren,
+
+im Namen unserer Mandantschaft [NAME] rügen wir gemäß § 215 Abs. 1 BauGB
+fristgerecht innerhalb der Jahresfrist ab Bekanntmachung folgende Mängel:
+
+1. Verletzung von § 3 Abs. 2 BauGB — Öffentlichkeitsbeteiligung
+   [KONKRETE BEZEICHNUNG DES MANGELS]
+
+2. Verletzung von § 4 Abs. 2 BauGB — Behördenbeteiligung
+   [KONKRETE BEZEICHNUNG]
+
+3. Abwägungsdefizit § 1 Abs. 7 i.V.m. § 2 Abs. 3 BauGB
+   [KONKRETE BEZEICHNUNG: welcher Belang übersehen / falsch gewichtet]
+
+Wir behalten uns weitere Rügen ausdrücklich vor, soweit uns weiteres
+Akten- und Begründungsmaterial zugänglich wird.
+
+[UNTERSCHRIFT]
+```

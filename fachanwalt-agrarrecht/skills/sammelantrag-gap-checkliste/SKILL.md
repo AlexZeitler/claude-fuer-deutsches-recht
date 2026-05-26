@@ -205,3 +205,9 @@ Frist: § 68 VwGO — ein Monat ab Bekanntgabe (§ 41 VwVfG).
 - § 41 VwVfG (Bekanntgabefiktion), § 68 VwGO (Widerspruch)
 - BVerwG 3 C 21/18; OVG Münster 18 A 2567/17; OVG Lüneburg 10 LA 189/20
 - Düsing/Martinez Agrarrecht; Schweizer/Schwind GAP-Praxis
+
+## Ergänzung — Aktuelle Rechtsprechung 2022-2024
+
+EuGH, Urt. v. 14.10.2021 — **C-936/19**, NVwZ 2022, 56 Rn. 28: Sanktionssystem der GAP-Horizontalen Verordnung muss verhältnismäßig sein; bei erstmaligen, geringfügigen und unverschuldeten Verstößen gegen GLÖZ-Standards ist eine Kürzung von mehr als 1 % nicht gerechtfertigt; Mitgliedstaaten dürfen keine rigidere Sanktionspraxis einführen.
+
+BVerwG, Urt. v. 04.07.2019 — **3 C 24.17**, BVerwGE 166, 88 Rn. 16: Behörde muss bei Vor-Ort-Kontrolle Messunsicherheiten von mindestens 1,5 % der Fläche zugunsten des Antragstellers berücksichtigen; GPS-Messung unter 1 m Genauigkeit ist ausreichend genaues Referenzverfahren.

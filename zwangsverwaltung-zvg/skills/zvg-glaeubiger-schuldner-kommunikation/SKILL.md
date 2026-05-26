@@ -57,3 +57,51 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 
 - § 4 ZwVwV
 - § 16 ZwVwV
+
+## Aktuelle Rechtsprechung
+
+- BGH, Beschl. v. 04.10.2007 - IX ZB 220/06, NZI 2007, 726 Rn. 11 — Der Zwangsverwalter steht im Dienst aller Beteiligten (Gläubiger und Schuldner); er ist zur gleichmäßigen Information beider verpflichtet und darf keine Partei bevorzugen.
+- BGH, Beschl. v. 12.01.2006 - IX ZB 239/04, NZI 2006, 234 — Der betreibende Gläubiger hat ein Auskunftsrecht über den Stand der Verwaltung; der Zwangsverwalter ist verpflichtet, auf Anfrage der Beteiligten zeitnah zu berichten und Einsicht in die Verwaltungsunterlagen zu gewähren.
+
+## Paragrafenkette Gläubiger-Schuldner-Kommunikation
+
+§ 154 ZVG (Aufsicht durch Gericht) → § 153 Abs. 2 ZVG (Auskunftspflicht) → §§ 13-15 ZwVwV (Buchführung Rechnungslegung) → § 20 ZwVwV (Vergütung und Rechenschaft) → § 242 BGB (Treu und Glauben, Auskunftsanspruch analog)
+
+## Kommentarliteratur
+
+- Stöber ZVG 22. Aufl., § 154 Rn. 5-25 (Gerichtliche Aufsicht Auskunftspflicht)
+- Böttcher ZVG 6. Aufl., § 153 Rn. 40-60 (Informationspflichten)
+
+## Triage Kommunikation
+
+1. Wer ist betreibender Gläubiger? (Alle Gläubiger in Rangklassen nach § 10 ZVG erfassen)
+2. Liegt eine Bevollmächtigung des Gläubigers vor? (Ansprechpartner/Kanzlei)
+3. Kommuniziert der Schuldner kooperativ? (Verweigerung → Gerichtsantrag)
+4. Haben weitere Gläubiger beigetreten?
+
+## Output-Template Gläubigerinfo-Schreiben (Auszug)
+
+**Adressat:** Betreibender Gläubiger — Tonfall formell-berichtend
+
+```
+An [GLÄUBIGER / BEVOLLMÄCHTIGTE KANZLEI]
+[ADRESSE]
+
+Zwangsverwaltung [ADRESSE], AZ [X]
+Quartalsbericht [QUARTAL/JAHR]
+
+Sehr geehrte Damen und Herren,
+
+zum Stand der Zwangsverwaltung berichte ich:
+
+Einnahmen [QUARTAL]: [BETRAG]
+Ausgaben [QUARTAL]: [BETRAG]
+Kontostand per [DATUM]: [BETRAG]
+Ausschüttungsfähiger Betrag nach Rücklage: [BETRAG]
+
+Besondere Vorkommnisse: [LEERSTAND REPARATUR RECHTSTREIT]
+
+Nächster Auszahlungsantrag: [DATUM]
+
+[UNTERSCHRIFT ZWANGSVERWALTER]
+```

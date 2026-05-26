@@ -91,6 +91,14 @@ entspricht ihrem Nennwert von EUR 275694. Eine Überbewertung liegt nicht vor.
 - `wandeldarlehen-lebenszyklus/skills/rangruecktritt-formulieren/SKILL.md`
 - `wandeldarlehen-lebenszyklus/skills/notar-paket-uebermittlung/SKILL.md`
 
+## Vertiefung — Aktuelle Rechtsprechung
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 24.10.2005 — **II ZR 179/03**, BGHZ 165, 6: Bei der Kapitalerhöhung gegen Sacheinlage haftet der Einbringende nach § 9 GmbHG (Differenzhaftung) für den Betrag, um den der tatsächliche Wert der eingebrachten Sacheinlage hinter dem übernommenen Nennbetrag zurückbleibt; die Differenzhaftung ist verschuldensunabhängig und kann nicht durch gesellschaftsvertragliche Abrede ausgeschlossen werden.
+
+BGH, Urt. v. 06.12.2010 — **II ZR 14/09**, GmbHR 2011, 295 Rn. 16: Die als Sacheinlage eingebrachte Forderung ist nur dann vollwertig im Sinne des § 56 GmbHG, wenn sie bei Einbringung gegen die Gesellschaft tatsächlich durchsetzbar und nicht ausfallgefährdet ist; ein qualifizierter Rangrücktritt, der erst durch die Einbringung aufgehoben wird (Konfusion), steht der Vollwertigkeit nicht entgegen, sofern die Gesellschaft ohne die Einbringung zahlungsfähig wäre.
+
 ## Quellen und Updates
 
 Stand: 05/2026. BGH II ZR 14/09 als Leitentscheidung. Bei Änderung GmbHG § 9/§ 56/IDW RS HFA 42 aktualisieren.

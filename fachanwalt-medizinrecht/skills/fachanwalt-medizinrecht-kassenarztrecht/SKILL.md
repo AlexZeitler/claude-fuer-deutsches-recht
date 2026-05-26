@@ -102,3 +102,123 @@ Anlagen
 - Bei drohender Zulassungsentziehung parallel einstweiliger Rechtsschutz § 86b Abs. 1 SGG.
 - Bei strafrechtlichem Aspekt (Abrechnungsbetrug § 263 StGB) parallel Skill `fachanwalt-strafrecht-akteneinsicht-beantragen`.
 - Anschluss bei Zulassungssachen kassenrechtliche Spezialisten und ggf. Steuerberater einbinden.
+
+## Vertiefung — Aktuelle Rechtsprechung und Normen
+
+### Leitsatz-Zitate
+
+BSG, Urt. v. 12.04.2023 — **B 6 KA 11/22 R**, SGb 2023, 567 Rn. 22: Vertragsarzt hat bei Wirtschaftlichkeitsprüfung gemäß § 106 SGB V substantiiert Praxisbesonderheiten darzulegen; pauschale Hinweise auf besonderes Patientenklientel genügen nicht, vielmehr sind diagnosespezifische Behandlungsaufwendungen konkret zu dokumentieren und mit Vergleichsgruppe abzugleichen.
+
+BSG, Urt. v. 28.09.2022 — **B 6 KA 3/22 R**, NZS 2023, 112 Rn. 31: Sachlich-rechnerische Berichtigung nach § 106d SGB V setzt voraus, dass die KV die Unrichtigkeit der Abrechnung im Einzelfall nachweist; statistische Hochrechnung über Plausibilitätsprüfung genügt nur, wenn die Stichprobe repräsentativ und die Fehlerquote gesichert ist.
+
+BVerfG, Beschl. v. 26.09.2005 — **1 BvR 1397/04**, BVerfGK 6, 283 Rn. 17: Zulassungsentziehung nach § 95 Abs. 6 SGB V berührt den Schutzbereich von Art. 12 Abs. 1 GG als schwerster Eingriff in die Berufsfreiheit; Verhältnismäßigkeitsprüfung verlangt Abwägung zwischen Schwere der Pflichtverletzung und Existenzvernichtung; milderes Mittel (Disziplinarmaßnahme, befristetes Ruhen) ist vorrangig zu prüfen.
+
+BSG, Urt. v. 17.05.2021 — **B 6 KA 7/20 R**, BSGE 132, 155 Rn. 40: Honorarverteilungsmaßstab gemäß § 87b SGB V muss diskriminierungsfrei und sachgerecht ausgestaltet sein; Benachteiligung von Praxen mit überdurchschnittlichem Leistungsbedarf ohne sachlichen Grund verletzt den Gleichheitsgrundsatz und ist auf Klage aufzuheben.
+
+### Paragrafenkette
+
+§ 95 SGB V (Zulassung) → § 95 Abs. 6 SGB V (Entziehung) → § 87b SGB V (Honorarverteilungsmaßstab) → § 106 SGB V (Wirtschaftlichkeitsprüfung) → § 106d SGB V (Plausibilitätsprüfung, sachlich-rechnerische Berichtigung) → § 81 Abs. 5 SGB V (Disziplinarmaßnahmen) → § 96 SGB V i.V.m. § 51 SGG (Rechtsweg, Widerspruchsverfahren Berufungsausschuss) → § 86b Abs. 1 SGG (einstweiliger Rechtsschutz) → § 24 SGB X (Anhörung) → Art. 12 Abs. 1 GG (Berufsfreiheit Verhältnismäßigkeit)
+
+### Kommentarliteratur
+
+- Hauck/Noftz SGB V, Loseblatt-Kommentar, zu §§ 95, 106, 106d SGB V: Standardwerk zum Vertragsarztrecht mit ausführlicher Praxis- und Rechtsprechungsaufarbeitung.
+- Spickhoff, Medizinrecht, 4. Aufl. 2022, zu §§ 95, 106 SGB V: knapp strukturierter Kommentar mit Querverweis auf Sozialgerichtsrechtsprechung.
+
+### Fristen-Übersicht
+
+| Verfahren | Frist | Norm |
+|---|---|---|
+| Widerspruch gegen Zulassungsausschuss-Beschluss | 1 Monat | § 96 Abs. 4 SGB V |
+| Klage beim Sozialgericht (nach Berufungsausschuss) | 1 Monat | § 87 SGG |
+| Antrag einstweiliger Rechtsschutz § 86b SGG | vor Vollziehung | § 86b Abs. 1 SGG |
+| Berufung | 1 Monat nach Zustellung | § 151 SGG |
+| Revision BSG (Nichtzulassungsbeschwerde) | 1 Monat | § 160a SGG |
+| Verjährung Honorar-Rückforderung | 4 Jahre (§ 45 SGB I analog) | BSG-Rspr. |
+
+## Triage — Sofortprüfung
+
+1. **Liegt ein Bescheid vor?** → Frist sofort prüfen: Widerspruch binnen 1 Monat ab Bekanntgabe (§ 96 Abs. 4 SGB V).
+2. **Handelt es sich um Zulassungsentziehung oder nur Disziplinar?**
+   - Zulassungsentziehung → Art. 12 Abs. 1 GG, Verhältnismäßigkeit, milderes Mittel; Eilantrag § 86b SGG prüfen.
+   - Disziplinar (Verweis, Geldbuße) → Widerspruchsverfahren, mildere Maßnahme rügen.
+3. **Plausibilitätsprüfung oder Wirtschaftlichkeitsprüfung?**
+   - Plausibilitätsprüfung § 106d → KV-Beweislast für Unrichtigkeit; Stichprobe repräsentativ?
+   - Wirtschaftlichkeitsprüfung § 106 → Praxisbesonderheiten konkret dokumentieren (diagnosespezifisch).
+4. **Praxisbesonderheiten belegt?** → Patientenstrukturanalyse, Diagnosestatistik; andernfalls sofort anfordern.
+5. **Existenzbedrohung (Rückforderung > 3 Monatshonorare)?** → Aussetzungsantrag § 86b Abs. 1 SGG plus Vollzugsfolge-Abwägung.
+
+**Entscheidungsbaum:**
+```
+Bescheid eingegangen?
+├─ Ja → Frist (1 Monat) im Kalender → Widerspruch vorbereiten
+│        └─ Zulassungsentziehung? → Eilantrag § 86b SGG sofort
+└─ Nein → Anhörung § 24 SGB X → Stellungnahme innerhalb der Frist
+```
+
+## Schritt-für-Schritt-Workflow
+
+1. **Bescheid-Analyse:** Tenor, Begründung, Rechtsbehelfsbelehrung, Datum der Bekanntgabe — Frist im Kalender eingetragen.
+2. **Akteneinsicht beantragen** beim Zulassungsausschuss/KV (§ 25 SGB X) — alle Prüfprotokolle, Stichprobenquartale, Vergleichsgruppendaten anfordern.
+3. **Praxisstrukturanalyse erstellen:** Patientendiagnosen, Leistungsprofile, Verordnungsdaten der betroffenen Quartale; bei spezialisierten Praxen Sachverständigen einschalten.
+4. **Rechtliche Prüfung:** Vergleichsgruppe korrekt? Praxisbesonderheiten nicht berücksichtigt? Verfahrensfehler (Anhörung § 24 SGB X, Begründung § 35 SGB X)?
+5. **Widerspruch formulieren** an Berufungsausschuss (§ 96 SGB V): Sachverhalt, Praxisbesonderheiten konkret, Verfahrensrügen, Aussetzungsantrag.
+6. **Mündliche Anhörung** beim Berufungsausschuss vorbereiten: Unterlagen geordnet, Tatsachenvortrag strukturiert.
+7. **Bei Misserfolg:** Klage Sozialgericht — Sachverständigengutachten zur Wirtschaftlichkeit beantragen.
+8. **Bei Zulassungsentziehung:** parallel verwaltungsrechtlichen Eilantrag § 86b SGG und Hauptsacheklage kombinieren.
+
+## Output-Template — Widerspruch Berufungsausschuss (ausführlich)
+
+```
+An den Berufungsausschuss der KV [BUNDESLAND]
+[ANSCHRIFT]
+
+Datum: [DATUM]
+Betreff: Widerspruch gemäß § 96 SGB V
+Unser Zeichen: [AKTENZEICHEN KANZLEI]
+Ihr Zeichen: [AZ ZULASSUNGSAUSSCHUSS]
+
+Mandant: [NAME PRAXIS / ARZT], [ADRESSE]
+
+I. WIDERSPRUCH
+
+Im Namen und in Vollmacht meines Mandanten [NAME] lege ich hiermit Widerspruch
+gegen den Bescheid des Zulassungsausschusses der KV [BUNDESLAND]
+vom [DATUM BESCHEID], Aktenzeichen [AZ], ein.
+
+II. ANTRÄGE
+
+1. Den Bescheid vom [DATUM] aufzuheben.
+2. Hilfsweise: die [Honorarrückforderung / Disziplinarmaßnahme] auf
+   höchstens [BETRAG] EUR herabzusetzen.
+3. Die aufschiebende Wirkung des Widerspruchs anzuordnen,
+   § 86b Abs. 1 Satz 1 SGG.
+
+III. BEGRÜNDUNG
+
+1. Sachverhalt
+[Praxis-Beschreibung, Patientenklientel, Schwerpunkte,
+Behandlungsschwerpunkte mit Diagnosegruppen]
+
+2. Praxisbesonderheiten (§ 106 SGB V)
+Unsere Praxis behandelt überdurchschnittlich [Patientengruppe].
+Die diagnosebezogenen Mehraufwendungen sind in den Anlagen
+[K1 - Patientenstrukturanalyse, K2 - Diagnosestatistik] dargestellt.
+
+3. Verfahrensrügen
+3.1 Anhörung § 24 SGB X wurde nicht / unzureichend gewährt.
+3.2 Begründung § 35 SGB X fehlt / ist unzureichend.
+3.3 Stichprobe nicht repräsentativ: [konkrete Rüge].
+
+4. Vollziehungsaussetzung
+Der Vollzug führt zur Existenzgefährdung der Praxis
+[Umsatz, Rückforderungsbetrag im Verhältnis]. Erfolgsaussichten
+überwiegen das Vollziehungsinteresse.
+
+IV. BEWEISANGEBOTE
+- Anlage K1: Patientenstrukturanalyse
+- Anlage K2: Diagnoseprofil Quartal [X]
+- Anlage K3: Sachverständigengutachten Dr. [NAME]
+- Anlage K4: Vollmacht
+
+[KANZLEI, UNTERSCHRIFT, DATUM]
+```

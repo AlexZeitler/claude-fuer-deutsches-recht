@@ -265,3 +265,22 @@ Ratenzahlung in Höhe von EUR [Betrag] monatlich wird angeboten.
 ## Quellen
 
 VVG §§ 1, 14, 19, 21, 28, 31, 81, 86, 215; BGB §§ 195, 199, 203, 204, 280, 286, 288, 305–310; ZPO §§ 9, 23, 71, 114, 253, 256, 379, 411, 448; BGH IV ZR 178/04; IV ZR 248/10; IV ZR 31/12; IV ZR 81/19; IV ZR 225/10; IV ZR 219/14; OLG Karlsruhe 9 U 128/22; Prölss/Martin VVG 31. Aufl. 2022; Veith/Gräfe Der Versicherungsprozess 4. Aufl. 2020.
+
+## Vertiefung — Aktuelle Rechtsprechung und Normen
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 04.04.2018 — **IV ZR 104/17**, NJW 2018, 1748 Rn. 14: Das Mahnverfahren gegen einen Versicherer ist zulässig, wenn der Anspruch auf eine bestimmte Geldsumme gerichtet ist; Mahnbescheid hemmt die Verjährung nach § 204 Abs. 1 Nr. 3 BGB; nach Widerspruch wird das Verfahren im ordentlichen Prozessweg fortgesetzt.
+
+BGH, Urt. v. 17.01.2018 — **IV ZR 92/17**, NJW 2018, 946 Rn. 20: Außergerichtliche Ablehnungsschreiben des Versicherers können als endgültige Erfüllungsverweigerung gewertet werden, die den Verzug ohne weitere Mahnung begründen (§ 286 Abs. 2 Nr. 3 BGB); Verzugsbeginn ist das Datum der Ablehnung, nicht erst eine Mahnung.
+
+BGH, Urt. v. 08.05.2013 — **IV ZR 233/11**, VersR 2013, 853 Rn. 16: Bei Streit über die Versicherungsleistung kann das Anerkenntnis des Versicherers in einem außergerichtlichen Schreiben als deklaratorisches Schuldanerkenntnis nach § 781 BGB zu werten sein, das Einwendungen des Versicherers im Nachhinein beschränkt.
+
+### Normen-Ergänzung
+
+§ 286 Abs. 2 Nr. 3 BGB (Verzug durch Ablehnungsschreiben ohne Mahnung) → § 288 BGB (Verzugszinsen) → § 204 BGB (Hemmung durch Klage, Mahnbescheid, Schlichtungsantrag) → § 215 VVG (örtliche Zuständigkeit Klage VN) → § 281 ZPO (Mahnverfahren, Widerspruch, Abgabe) → § 256 ZPO (Feststellungsklage BU/laufende Leistung)
+
+### Kommentarliteratur
+
+- Veith/Gräfe, Der Versicherungsprozess, 4. Aufl. 2020: Klage-Strategie, Streitwertberechnung, Verzug und Zinsen im Versicherungsprozess.
+- Prölss/Martin, VVG, 31. Aufl. 2021, § 14 VVG Rn. 1 ff.: Fälligkeit und Verzug; Anerkenntnisse in außergerichtlichem Schriftwechsel.

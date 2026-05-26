@@ -171,3 +171,51 @@ Artenschutz ist materieller Pflichtprogramm-Punkt jedes B-Plans, der bauliche Ve
 - BVerwG, Urteil vom 6.11.2013 – 9 A 14.12 (FCS)
 - BVerwG, Urteil vom 23.4.2014 – 9 A 25.12 (Tötungsverbot)
 - BayVGH, Urteil vom 30.3.2017 – 14 N 16.1112 (Stadtarten)
+
+## Aktuelle Rechtsprechung
+
+- BVerwG, Urt. v. 06.11.2013 - 9 A 14.12, BVerwGE 148, 373 Rn. 119 — FCS-Nachweis muss zum Zeitpunkt der Genehmigung sichergestellt sein; eine bloß prognostisch günstige Entwicklung der Lokalpopulation genügt nicht.
+- BVerwG, Urt. v. 23.04.2014 - 9 A 25.12, NVwZ 2014, 1405 Rn. 79 — Das signifikant erhöhte Tötungsrisiko nach § 44 Abs. 1 Nr. 1 BNatSchG ist individuenbezogen zu prüfen; Populationsbetrachtungen können Einzelverbotstatbestand nicht ersetzen.
+- BVerwG, Urt. v. 12.03.2008 - 9 A 3.06, BVerwGE 130, 299 Rn. 234 — Methodische Standards der saP sind vom Gericht nur eingeschränkt überprüfbar; offensichtliche Fehler in Begehungszeiten und Kartierungsumfang sind aber revisibel.
+- BayVGH, Urt. v. 30.03.2017 - 14 N 16.1112, BayVBl. 2017, 733 — Bei Stadtarten (Mauersegler Hausspatz Mehlschwalbe) muss die saP alle erreichbaren Brutplätze am Gebäudebestand kartieren; pauschale Verneinung ohne Begehung ist methodisch unvertretbar.
+
+## Paragrafenkette Artenschutz/Naturschutz
+
+§ 44 Abs. 1 Nr. 1-3 BNatSchG (Zugriffsverbote) → § 44 Abs. 5 BNatSchG (Legalausnahme Planung) → § 45 Abs. 7 BNatSchG (Ausnahme) → § 67 BNatSchG (Befreiung) → § 34 BNatSchG (FFH-Verträglichkeit) → § 1a Abs. 3 BauGB (Eingriffsregelung) → § 2 Abs. 3 BauGB (Ermittlungspflicht) → § 1 Abs. 7 BauGB (Abwägungsgebot)
+
+## Kommentarliteratur
+
+- Gellermann in Landmann/Rohmer Umweltrecht, § 44 BNatSchG Rn. 20-55 (Zugriffsverbote Planung)
+- Lütkes/Ewer BNatSchG, § 45 Rn. 15-30 (Ausnahme öffentliches Interesse FCS)
+- Battis/Krautzberger/Löhr BauGB 15. Aufl., § 1a Rn. 45-70 (Eingriffsregelung im Bebauungsplan)
+
+## Triage vor Bearbeitung
+
+Kläre vor Beginn der saP-Prüfung:
+1. Ist das Plangebiet ein Neubau- oder Umnutzungsgebiet? (Brachflächen haben höheres Artenpotenzial)
+2. Liegen Altgebäude im Plan-Umgriff? (Gebäudebrüter-Pflichterfassung)
+3. Ist die saP älter als 5 Jahre? (Neuerhebung erforderlich)
+4. Welches Bundesland? (Landesrechtliche Ergänzungen zu § 44 BNatSchG beachten)
+5. Gibt es Hinweise auf Vorkommen streng geschützter Arten aus regionalem Artenkataster?
+
+## Output-Template Artenschutz-Rüge im Schriftsatz
+
+**Adressat:** OVG/VGH — Tonfall sachlich-wissenschaftlich-juristisch
+
+```
+III. Verstoß gegen § 44 Abs. 1 Nr. 3 BNatSchG — Lebensstättenschutz [NAME ART]
+
+1. Bestandsaufnahme methodisch unzureichend (§ 2 Abs. 3 BauGB)
+   Die saP der [BUERO] vom [DATUM] enthält zur Art [NAME] lediglich [SATZ AUS GUTACHTEN].
+   Dies genügt nicht den Anforderungen an eine vollständige Bestandserfassung (BVerwG 9 A 14.12).
+   Insbesondere wurde die [KONKRETER MANGEL: Begehung im Maerz statt im Hochsommer / Kartierung nur Kerngebiet ohne Puffer].
+
+2. CEF-Maßnahme nicht verbindlich festgesetzt
+   Die Maßnahme [BEZEICHNUNG] ist nur in Begründung Seite X erwähnt, aber nicht in den textlichen
+   Festsetzungen Nr. Y verankert. Damit fehlt die Verbindlichkeit (BVerwG 9 A 25.12 Rn. 79).
+
+3. FCS-Nachweis fehlt
+   Der Erhaltungszustand der Lokalpopulation von [ART] wird nicht bewertet.
+   Ohne diesen Nachweis ist die Ausnahme nach § 45 Abs. 7 BNatSchG nicht erfüllt
+   (BVerwG 9 A 14.12 Rn. 119).
+```

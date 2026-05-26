@@ -168,3 +168,16 @@ Der Eilantrag ist die schärfste Waffe der Mandantenseite. Bei drohendem Vollzug
 - BVerfG, Beschluss vom 25.10.1988 – 2 BvR 745/88 (Folgenabwägungs-Maßstab)
 - BVerwG, Beschluss vom 18.5.2010 – 4 BN 19.10 (Eilantrag B-Plan)
 - BayVGH, Beschluss vom 22.4.2014 – 15 NE 13.2538 (Vollzugsfolgenabwägung)
+
+## Aktuelle Rechtsprechung — Leitsaetze
+
+- BVerfG, Beschl. v. 25.10.1988 — 2 BvR 745/88, NJW 1989, 827 Rn. 18: Folgenabwaegung bei § 47 Abs. 6 VwGO folgt dem Massstab des § 32 BVerfGG; schwere irreversible Nachteile des Antragstellers ueberwiegen in der Abwaegung.
+- BVerwG, Beschl. v. 18.05.2010 — 4 BN 19.10, NVwZ-RR 2010, 648 Rn. 15: § 47 Abs. 6 VwGO erfordert im Gegensatz zu § 123 VwGO keinen Verfuegungsanspruch; Erfolgsaussichten der Hauptsache sind nur Indiz, keine zwingende Voraussetzung.
+- BayVGH, Beschl. v. 22.04.2014 — 15 NE 13.2538, BayVBl. 2014, 724 Rn. 22: Beim Eilantrag nach § 47 Abs. 6 VwGO kann das Gericht die Anordnung auf bestimmte Planteile beschraenken; eine Teil-Ausservolzugsetzung ist zulaessig.
+- OVG NW, Beschl. v. 16.04.2020 — 10 B 44/20, NVwZ-RR 2020, 892: Parallel zur Normenkontrolle kann auch Anfechtungsklage gegen die erteilte Baugenehmigung mit Antrag nach § 80a VwGO statthaft sein; Rechtsschutzluecken sind zu vermeiden.
+
+## Kommentarliteratur
+
+- Schoch/Schneider, VwGO — § 47 Abs. 6 Rn. 1 ff.
+- Kopp/Schenke, VwGO, 29. Aufl. — § 47 Abs. 6 Rn. 1 ff.
+- Battis/Krautzberger/Loehr, BauGB, 15. Aufl. — Vorbem. §§ 214, 215 Rn. 1 ff.

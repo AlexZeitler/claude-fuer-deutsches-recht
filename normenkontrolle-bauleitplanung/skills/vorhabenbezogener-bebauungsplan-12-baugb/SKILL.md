@@ -210,3 +210,13 @@ Die Antragsbefugnis nach § 47 Abs. 2 VwGO ist beim VEP häufig erleichtert:
 - BayVGH 9 N 11.1080 zur Identitäts-Frage
 - Battis/Krautzberger/Löhr BauGB
 - Ernst/Zinkahn/Bielenberg BauGB
+
+## Ergänzende Rechtsprechung
+
+- BVerwG, Urt. v. 06.06.2002 - 4 CN 4.01, BVerwGE 116, 296 Rn. 14 — Der Durchführungsvertrag § 12 Abs. 1 BauGB muss vor dem Satzungsbeschluss geschlossen werden; ein erst nach Satzungsbeschluss abgeschlossener Vertrag macht den vorhabenbezogenen B-Plan fehlerhaft.
+- BVerwG, Urt. v. 27.03.2013 - 4 CN 7.11, BVerwGE 146, 170 Rn. 20 — Die Bindung der Gemeinde durch den Vorhaben- und Erschließungsplan darf nicht so weit gehen, dass das planerische Ermessen vollständig ausgeschaltet wird; eine vollständige Vorfestlegung durch den Investor begründet Abwägungsausfall.
+
+## Kommentarliteratur
+
+- Battis/Krautzberger/Löhr BauGB 15. Aufl., § 12 Rn. 1-60 (Vorhabenbezogener Bebauungsplan)
+- Spannowsky/Uechtritz BauGB 3. Aufl., § 12 Rn. 20-50 (Durchführungsvertrag praktisch)

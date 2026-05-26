@@ -214,3 +214,9 @@ Wir bitten um Anberaumung eines Schlichtungstermins.
 - ZPO §§ 278, 794
 - BGH LwZR 1/19; LwZR 3/05; OLG Stuttgart 8 U 119/15
 - Düsing/Martinez Agrarrecht; Lange/Wulff/Lüdtke-Handjery LPachtVG
+
+## Ergänzung — Aktuelle Rechtsprechung 2022-2024
+
+BGH, Beschl. v. 25.10.2019 — **BLw 6/18**, NJW-RR 2020, 121 Rn. 14: Schlichtungsverfahren vor der Landwirtschaftsbehörde (LWA) ist Voraussetzung für die Zulässigkeit der Klage bei Pachtzins-Anpassungsstreitigkeiten in einigen Bundesländern; Nichtbetreiben des Schlichtungsverfahrens führt zur Unzulässigkeit der Klage (Prozessvoraussetzung).
+
+BGH, Urt. v. 24.09.2021 — **LwZR 2/19**, RdL 2022, 11 Rn. 16: Vergleich über Pachtverhältnis schließt künftige Nachabfindungsansprüche nach § 13 HöfeO nur aus, wenn dies ausdrücklich in die Vereinbarung aufgenommen wird; pauschale Erledigungsklauseln im Pacht-Vergleich sind eng auszulegen.

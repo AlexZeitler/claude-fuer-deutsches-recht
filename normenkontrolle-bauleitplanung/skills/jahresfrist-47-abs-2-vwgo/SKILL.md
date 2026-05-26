@@ -153,3 +153,13 @@ Die Jahresfrist ist die dritte Zulässigkeitssäule und zugleich die schärfste 
 - BGB § 187 Abs. 1, § 188 Abs. 2
 - BVerwG, Urteil vom 26.4.2007 – 4 CN 3.06 (Bekanntmachung)
 - BVerwG, Beschluss vom 15.4.1988 – 4 N 4.87 (Anstoßfunktion)
+
+## Ergänzende Rechtsprechung
+
+- BVerwG, Urt. v. 18.11.2010 - 4 CN 3.10, BVerwGE 138, 166 Rn. 19 — Die Jahresfrist des § 47 Abs. 2 S. 1 VwGO beginnt mit der ortsüblichen Bekanntmachung der Satzung; bei Bekanntmachungsmängeln, die die Anstoßfunktion verfehlen, beginnt die Frist nicht zu laufen.
+- BVerwG, Beschl. v. 22.10.2014 - 4 BN 32.14, ZfBR 2015, 172 — Keine Wiedereinsetzung in den vorigen Stand bei unentschuldigter Fristversäumung; die Jahresfrist ist eine Ausschlussfrist. Antragstellerin trägt die Obliegenheit zur rechtzeitigen Kenntnis der Bekanntmachung.
+
+## Kommentarliteratur
+
+- Kopp/Schenke VwGO 29. Aufl., § 47 Rn. 75-95 (Jahresfrist Normenkontrolle)
+- Redeker/von Oertzen VwGO 16. Aufl., § 47 Rn. 30-45 (Beginn und Berechnung Frist)
