@@ -1,3 +1,29 @@
+# v12.2.0 — Testakten in Plugin-READMEs sichtbar gemacht
+
+## README-Sweep
+13 Plugin-READMEs ergaenzt: Testakte als sichtbarer Direkt-Download (Tabelle) direkt unter der Plugin-Download-Sektion.
+
+- arbeitsrecht (Vogt, Weber)
+- aussenwirtschaft-zoll-sanktionen (GlobalMaschinen)
+- datenschutzrecht (Solis Vision X)
+- dsa-dma-digitalregulierung (Bayerische Baustube)
+- geldwaeschepraevention-aml-kyc (Musterholding)
+- grosskanzlei-corporate-ma (Datenraum)
+- insolvenzrecht (LUMEN Studios — Edelholz war bereits drin)
+- insolvenzverwaltung (Moebelwerk Havelberg, Nordlicht Handels)
+- kanzlei-allgemein (Kanzlei-Alltag)
+- steuerrecht-anwalt-und-berater (Edelholz)
+- strafbefehl-verteidiger (LUMEN Studios)
+- vertragsrecht (Sieglinger SV-Gutachten)
+- zwangsverwaltung-zvg (Friedrichshoefe, Mietshaus Parkstrasse, Eppendorf)
+
+## Fix
+- testakten/inkasso-zahlungsklage-modefuchs/README.md: toter Link auf `Schulungsakte_ModeFuchs_GmbH.zip` entfernt; nur der `originale/` Ordner mit 28 PDFs bleibt.
+- Mapping-Korrektur Testakten zu Plugins: `bauplanungsrecht` -> `normenkontrolle-bauleitplanung`.
+
+## Bump
+- Alle 98 Plugins, marketplace.json und CHANGELOG auf v12.2.0.
+
 # v12.1.0 — Validatorhaertung Plugin-Generator + Versionsbump
 
 ## Fix (gegenueber v12.0.0)
