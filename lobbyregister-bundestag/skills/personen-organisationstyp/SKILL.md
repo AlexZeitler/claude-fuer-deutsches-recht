@@ -24,6 +24,10 @@ Den richtigen Registertraeger auswaehlen, damit nicht Einzelpersonen falsch regi
 
 ## Quellenanker
 
+## Spezialfall Auslandsrechtstraeger mit deutscher Zweigniederlassung
+
+Bei einer unselbststaendigen Zweigniederlassung ist zuerst der Rechtstraeger zu bestimmen. Die Handelsregistereintragung der Zweigniederlassung macht sie nicht automatisch zu einer eigenen juristischen Person. Der Skill soll deshalb die Eintragungseinheit, die Frankfurter oder Berliner Anschrift, die betrauten Personen und die Kosten-/Taetigkeitszuordnung auseinanderhalten. Eine zweite Registrierung der Zweigniederlassung darf nur als Pruefoption vorbereitet werden, nicht als selbstverstaendlicher Portal-Schritt.
+
 - LobbyRG: https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html
 - Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-fuer-interessenvertreter-863572
 - Handbuch: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/handbuch

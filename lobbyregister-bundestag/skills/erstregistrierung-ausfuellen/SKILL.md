@@ -24,6 +24,10 @@ Aus Datenraum und Checklisten einen konkreten Portal-Eingabeplan machen.
 
 ## Quellenanker
 
+## Stop-Regel bei Zweigniederlassungen
+
+Wenn die Nutzerin eine unselbststaendige Zweigniederlassung als eigene Organisation registrieren will, muss der Skill stoppen und nachfragen: Ist die Zweigniederlassung eigener Rechtstraeger oder nur Handelsregisterzweigstelle? Liegt eine ausdrueckliche Auskunft der registerfuehrenden Stelle vor? Ohne diese Klaerung nur den auslaendischen oder inlaendischen Rechtstraeger als Primaerentwurf ausgeben und die Niederlassung transparent im Eintrag abbilden.
+
 - LobbyRG: https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html
 - Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-fuer-interessenvertreter-863572
 - Handbuch: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/handbuch

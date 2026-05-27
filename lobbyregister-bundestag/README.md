@@ -75,6 +75,9 @@ Dieses Plugin ist **vollstaendig freistehend**. Es erwartet keine anderen Plugin
 - `assets/templates/aktualisierungskalender.md` - Fristen, Quartale und Geschaeftsjahresupdate
 - `assets/templates/verhaltenskodex-kontaktkarte.md` - Offenlegung und Kodex-Check fuer Kontakte
 - `assets/templates/qualitaetsgate.md` - Finaler Freigabe- und Risiko-Check
+- `assets/templates/auslandsrechtstraeger-zweigniederlassung-check.md` - Spezialcheck auslaendischer Rechtstraeger mit deutscher Zweigniederlassung
+- `assets/templates/streitvermerk-doppelregistrierung.md` - Variantenvermerk einmalige oder doppelte Registrierung
+- `assets/templates/rfs-anfrage-zweigniederlassung.md` - Anfrageentwurf an die registerfuehrende Stelle
 
 ## Offizielle Startquellen
 
@@ -108,6 +111,14 @@ Registrierungspflicht und Ausnahmen, lege die Datenanforderung an, formuliere
 die Regelungsvorhaben und erstelle am Ende eine Registrierungsmappe mit
 Fristenkalender und Offenlegungsbausteinen fuer Erstkontakte.
 ```
+
+## Testakten
+
+Zum Ausprobieren liegen drei fiktive Akten unter `testakten/`:
+
+- [lobbyregister-dublin-bank-frankfurt-branch](../testakten/lobbyregister-dublin-bank-frankfurt-branch) - auslaendische Bank mit unselbststaendiger Frankfurter Zweigniederlassung und Doppelregistrierungsfrage
+- [lobbyregister-public-affairs-agentur-wasserstoff](../testakten/lobbyregister-public-affairs-agentur-wasserstoff) - Agenturfall mit Auftraggebern, Unterauftrag, Stellungnahmen und Quartalsupload
+- [lobbyregister-buergerinitiative-waldmoor](../testakten/lobbyregister-buergerinitiative-waldmoor) - Buergerinitiative/Netzwerk mit Ausnahmepruefung, Petition, Anhoerung und freiwilliger Registrierung
 
 ## Download
 

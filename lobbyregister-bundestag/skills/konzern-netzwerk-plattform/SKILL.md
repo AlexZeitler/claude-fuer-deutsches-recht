@@ -24,6 +24,10 @@ Mehrgliedrige Strukturen so aufbereiten, dass Eintragungseinheiten nicht verschw
 
 ## Quellenanker
 
+## Spezialfall doppelte Sichtbarkeit ohne doppelte Rechtsperson
+
+Bei Konzern, Netzwerk oder Zweigniederlassung kann Transparenz praktisch mehr als eine Anschrift oder Organisationseinheit verlangen, rechtlich aber nur ein Rechtstraeger handeln. Der Skill soll deshalb eine Eintragungseinheiten-Map erzeugen: Rechtstraeger, Niederlassung, betraute Personen, Auftraggeber, Kostenstelle und Kontaktkanal. Wenn Portal- oder Registerpraxis unklar ist, wird eine Anfrage an die registerfuehrende Stelle empfohlen.
+
 - LobbyRG: https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html
 - Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-fuer-interessenvertreter-863572
 - Handbuch: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/handbuch

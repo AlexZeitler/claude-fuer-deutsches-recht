@@ -25,7 +25,7 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 |---|---|
 | **Plugins** | 98 |
 | **Skills (SKILL.md)** | über 1800 — [thematische Gesamtuebersicht](./SKILLS.md) |
-| **Testakten** | 44 |
+| **Testakten** | 49 |
 | **Fachanwalts-/-anwältinnen-Profile** | 23 |
 | **Letzter Release** | [latest auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |

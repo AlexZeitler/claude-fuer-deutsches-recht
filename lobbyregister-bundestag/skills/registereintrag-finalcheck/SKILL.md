@@ -24,6 +24,10 @@ Den Eintrag vor Absendung wie eine Compliance-Akte gegenlesen.
 
 ## Quellenanker
 
+## Doppelregistrierungs-Check
+
+Vor Freigabe muss geprueft werden, ob mehrere Registerentwuerfe dieselbe juristische Person, dieselben betrauten Personen, dieselben Finanzaufwendungen oder dieselben Regelungsvorhaben doppelt abbilden. Bei Doppelungen: einen Streitvermerk erstellen, Primaerentwurf markieren und eine Anfrage an die registerfuehrende Stelle vorbereiten.
+
 - LobbyRG: https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html
 - Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-fuer-interessenvertreter-863572
 - Handbuch: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/handbuch
