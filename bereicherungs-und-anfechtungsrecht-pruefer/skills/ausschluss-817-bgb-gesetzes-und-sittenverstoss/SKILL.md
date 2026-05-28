@@ -1,6 +1,6 @@
 ---
 name: ausschluss-817-bgb-gesetzes-und-sittenverstoss
-description: "Bereicherungsanspruch gesperrt durch § 817 S. 2 BGB wegen eigenen Gesetzes- oder Sittenverstosses des Leistenden. Normen: §§ 817 134 138 BGB. Pruefraster: beiderseitiger Verstoss, Sperrwirkung, enge Rueckausnahmen nach h.M. Output: Pruefergebnis Ausschlussgrund § 817 BGB und Handlungsempfehlung. Abgrenzung: nicht § 814 BGB (Kenntnis der Nichtschuld)."
+description: "Bereicherungsanspruch gesperrt durch § 817 S. 2 BGB wegen eigenen Gesetzes- oder Sittenverstosses des Leistenden. Normen: §§ 817 134 138 BGB. Prüfraster: beiderseitiger Verstoss, Sperrwirkung, enge Rückausnahmen nach h.M. Output: Prüfergebnis Ausschlussgrund § 817 BGB und Handlungsempfehlung. Abgrenzung: nicht § 814 BGB (Kenntnis der Nichtschuld)."
 ---
 
 # Ausschluss nach § 817 BGB — Gesetzes- und Sittenverstoß
@@ -95,4 +95,3 @@ Sachverhalt (kurz): [...]
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
 
 ---
-<!-- AUDIT 27.05.2026: BGH VII ZR 336/89 (NJW 1990, 2542) auf dejure.org verifiziert — Aktenzeichen und Thema (Schwarzarbeit II, § 817 S. 2 BGB) sind korrekt. Kein Aenderungsbedarf. -->

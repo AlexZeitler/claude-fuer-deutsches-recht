@@ -1,6 +1,6 @@
 ---
 name: iv-plan-gruppen-klassenbildung
-description: "Abstimmungsgruppen nach InsO und Klassen nach StaRUG sachgerecht bilden um Planbestaetigungsrisiken zu minimieren. §§ 222 223 InsO Gruppenbildung §§ 9 10 StaRUG Klassenbildung. Pruefraster: Rechtsstellung wirtschaftliche Interessen Absonderungsrechte Nachrang Anteilsinhaber Gleichbehandlung. Output: Gruppenmatrix Klassenmatrix Kriterienbegrundung. Abgrenzung: nicht fuer Abstimmungssimulation (iv-plan-abstimmung-mehrheiten)."
+description: "Abstimmungsgruppen nach InsO und Klassen nach StaRUG sachgerecht bilden um Planbestätigungsrisiken zu minimieren. §§ 222 223 InsO Gruppenbildung §§ 9 10 StaRUG Klassenbildung. Prüfraster: Rechtsstellung wirtschaftliche Interessen Absonderungsrechte Nachrang Anteilsinhaber Gleichbehandlung. Output: Gruppenmatrix Klassenmatrix Kriterienbegrundung. Abgrenzung: nicht für Abstimmungssimulation (iv-plan-abstimmung-mehrheiten)."
 ---
 
 # IV-integrierte Gruppen- und Klassenbildung
@@ -48,7 +48,6 @@ Freundlich, ruhig, präzise und planarchitektonisch. Der Skill erklärt, warum e
 ## IV-Einordnung
 
 Diese integrierte Fassung ist für Insolvenzverwalter, Sachwalter und vorläufige Verwaltung zugeschnitten. Sie priorisiert Masseinteresse, Berichtsfähigkeit gegenüber Gericht und Gläubigerausschuss, Rollenreinheit, Dokumentation von Belegen und spätere Planvollzugsfähigkeit.
-
 
 ## Rechtliche Grundlagen und BGH-Leitentscheidungen
 

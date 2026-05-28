@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-insolvenz-krypto-verwertung
-description: "Krypto-Assets in der Insolvenz Massezugehoerigkeit Aussonderung und Verwertungsstrategien. Anwendungsfall Insolvenzschuldner hat Krypto-Vermoegen und Insolvenzverwalter oder Glaeubiger muss Zugriff klaeren. Normen § 35 InsO Massezugehoerigkeit § 47 InsO Aussonderungsrecht § 97 InsO Auskunftspflicht § 98 InsO Erzwingungshaft BMF-Schreiben 22.11.2024 BFH IX R 3/22. Pruefraster Custodial vs. Non-Custodial Exchange Treuhand vs. Darlehen forensische Wallet-Rekonstruktion Bewertung Eroeffnungsstichtag Verwertungsstrategie. Output Krypto-Insolvenz-Pruefprotokoll mit Massezugehoerigkeitsanalyse Verwertungsplan und Behoedenkoordinierung. Abgrenzung zu fachanwalt-insolvenz-sanierungsrecht-insolvenzanfechtung und fachanwalt-insolvenz-sanierungsrecht-schutzschirmverfahren."
+description: "Krypto-Assets in der Insolvenz Massezugehoerigkeit Aussonderung und Verwertungsstrategien. Anwendungsfall Insolvenzschuldner hat Krypto-Vermögen und Insolvenzverwalter oder Gläubiger muss Zugriff klaeren. Normen § 35 InsO Massezugehoerigkeit § 47 InsO Aussonderungsrecht § 97 InsO Auskunftspflicht § 98 InsO Erzwingungshaft BMF-Schreiben 22.11.2024 BFH IX R 3/22. Prüfraster Custodial vs. Non-Custodial Exchange Treuhand vs. Darlehen forensische Wallet-Rekonstruktion Bewertung Eroeffnungsstichtag Verwertungsstrategie. Output Krypto-Insolvenz-Prüfprotokoll mit Massezugehoerigkeitsanalyse Verwertungsplan und Behoedenkoordinierung. Abgrenzung zu fachanwalt-insolvenz-sanierungsrecht-insolvenzanfechtung und fachanwalt-insolvenz-sanierungsrecht-schutzschirmverfahren."
 ---
 
 ## Mandantenfragen beim Kaltstart
@@ -43,7 +43,6 @@ description: "Krypto-Assets in der Insolvenz Massezugehoerigkeit Aussonderung un
 ## Prüfschema
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
-
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
 |---------|-----------|------|-------------|
@@ -152,7 +151,6 @@ IV. Steuerliche Folgen:
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Beweislast
 
 | Frage | Beweislast |
@@ -229,7 +227,6 @@ Erzwingungshaft-Verfahren: Gerichtsgebühren gering (ca. 150–300 EUR); Hauptko
 - US Bankruptcy Court SDNY, In re FTX Trading Ltd., 22-11068 (2022/2023)
 - Uhlenbruck/Sinz, InsO, 15. Aufl., § 35 Rn. 30 ff. (Digitale Assets)
 - Chainalysis Blockchain Analytics Platform (forensische Wallet-Analyse)
-
 
 ## Triage — Krypto-Insolvenzeinsatz
 

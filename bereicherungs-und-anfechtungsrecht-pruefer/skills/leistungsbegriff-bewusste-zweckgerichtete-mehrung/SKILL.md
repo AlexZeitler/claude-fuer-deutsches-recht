@@ -1,6 +1,6 @@
 ---
 name: leistungsbegriff-bewusste-zweckgerichtete-mehrung
-description: "Leistungsbegriff im Bereicherungsrecht bestimmen: Zweckrichtung, Empfaengerhorizont, Vermoegenszuordnung und Mehrpersonenfaelle. Output: Leistungskarte mit Abgrenzung zu Alt. 2."
+description: "Leistungsbegriff im Bereicherungsrecht bestimmen: bewusste zweckgerichtete Mehrung, Empfängerhorizont, Vermögenszuordnung und Mehrpersonenfälle. Output: Leistungskarte mit Abgrenzung zur Nichtleistungskondiktion."
 ---
 
 # Leistungsbegriff: Bewusste und zweckgerichtete Mehrung

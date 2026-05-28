@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-insolvenz-sanierungsrecht-schutzschirmverfahren
-description: "Schutzschirmverfahren § 270d InsO Eigenverwaltung in Insolvenz. Vorlaeufige Eigenverwaltung Antrag drohende Zahlungsunfaehigkeit. Sachwalter Aufsicht. Schutzschirm 3 Monate bei Voraussetzung Sanierungsfaehigkeit. Insolvenz-Plan Vorbereitung. Workflow Antrag Sachwalter Plan Beschluss Aufhebung."
+description: "Schutzschirmverfahren § 270d InsO Eigenverwaltung in Insolvenz. Vorlaeufige Eigenverwaltung Antrag drohende Zahlungsunfähigkeit. Sachwalter Aufsicht. Schutzschirm 3 Monate bei Voraussetzung Sanierungsfähigkeit. Insolvenz-Plan Vorbereitung. Workflow Antrag Sachwalter Plan Beschluss Aufhebung."
 ---
 
 # Schutzschirmverfahren § 270d InsO
@@ -158,7 +158,6 @@ Sanierungs-Vehikel: Schuldner behaelt Verfügungsbefugnis, Sachwalter überwacht
 - `krisenfrueherkennung-starug` — bei StaRUG-Alternative
 - `insolvenzplan-starug-planwerkstatt` — bei Plan-Aufstellung
 - `fortbestehensprognose` — bei Prüfung Sanierung
-
 
 ## Triage — Schutzschirm oder Regelinsolvenz?
 

@@ -1,6 +1,6 @@
 ---
 name: mehrpersonenverhaeltnisse-direkt-und-durchgriffskondiktion
-description: "Bereicherungsausgleich in Mehrpersonenverhaeltnissen pruefen: Leistungskarte, Anweisung, Doppelmangel, Drittleistung und Direktkondiktion. Output: Anspruchspriorisierung."
+description: "Bereicherungsausgleich in Mehrpersonenverhältnissen prüfen: Leistungskarte, Anweisung, Deckungs- und Valutaverhältnis, Doppelmangel, Drittleistung, Insolvenzrisiko und Direktkondiktion. Output: Anspruchspriorisierungsmatrix."
 ---
 
 # Mehrpersonenverhältnisse — Direkt- und Durchgriffskondiktion

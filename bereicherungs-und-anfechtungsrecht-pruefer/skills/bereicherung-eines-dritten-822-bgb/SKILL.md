@@ -1,6 +1,6 @@
 ---
 name: bereicherung-eines-dritten-822-bgb
-description: "Bereicherungsanspruch gegen Dritten bei unentgeltlicher Weitergabe des Erlangten nach § 822 BGB pruefen. Normen: § 822 BGB. Pruefraster: Unentgeltlichkeit der Weitergabe, Entreicherung des Erstempfaengers, Subsidiaritaet des Drittanspruchs. Output: Pruefergebnis Anspruchskette Dritter. Abgrenzung: nicht Direktanspruch § 812 Abs. 1 S. 1 BGB gegen Erstempfaenger."
+description: "Bereicherungsanspruch gegen Dritten bei unentgeltlicher Weitergabe des Erlangten nach § 822 BGB prüfen. Normen: § 822 BGB. Prüfraster: Unentgeltlichkeit der Weitergabe, Entreicherung des Erstempfaengers, Subsidiaritaet des Drittanspruchs. Output: Prüfergebnis Anspruchskette Dritter. Abgrenzung: nicht Direktanspruch § 812 Abs. 1 S. 1 BGB gegen Erstempfaenger."
 ---
 
 # Bereicherung eines Dritten — § 822 BGB
@@ -89,8 +89,3 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-
----
-
-<!-- AUDIT 27.05.2026 -->
-> **Audit-Hinweis (27.05.2026):** BGH VI ZR 246/76 (NJW 1978, 1374) entfernt. Tatsaechliches Thema dieses Urteils: Klage auf Unterlassung/Widerruf schaedigender Aeusserungen, Zivilrechtsweg vs. Verwaltungsrechtsweg bei behoerdlichen Pressemitteilungen (NJW 1978, 1860) — kein Bezug zu § 822 BGB. Quelle: dejure.org/1978,533.

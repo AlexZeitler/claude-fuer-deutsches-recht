@@ -23,23 +23,23 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 
 | Kennzahl | Wert |
 |---|---|
-| **Plugins** | 100 |
-| **Skills (SKILL.md)** | 2229 — [Gesamtuebersicht](./SKILLS.md) |
-| **Testakten** | 49 |
-| **Fachanwalts-/-anwältinnen-Profile** | 23 |
-| **Letzter Release** | `v16.0.0` — [latest auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugins** | 101 |
+| **Skills (SKILL.md)** | 2386 — [Gesamtübersicht](./SKILLS.md) |
+| **Testakten** | 52 |
+| **Fachanwalts-/-anwältinnen-Profile** | 24 |
+| **Letzter Release** | `v20.0.0` — [latest auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 > 🧪 **Übrigens — es gibt auch sehr schöne Testakten.** Im Verzeichnis [`testakten/`](./testakten) liegen mehrere umfangreiche, fiktive Mandatsakten mit echten PDFs, Excel-Tabellen, Word-Entwürfen und handschriftlichen Notizen — bewusst unstrukturiert benannt wie ein realer Datenraum, damit sich die Plugins an echten Mandaten ausprobieren lassen. Details und Direkt-Downloads im [Testakten-README](./testakten/README.md).
 
 ### Inhaltliche Cluster
 
-- **Rechtsgebiete (materiell):** Arbeitsrecht, Mietrecht (Wohn-/Gewerbe), Erbrecht, Familienrecht, Sozialrecht, Strafrecht, Verwaltungsrecht (inkl. Energieanlagen-BImSchG-Verfahren und Energietrassen-Planfeststellung), Steuerrecht, Insolvenzrecht inkl. StaRUG, Gesellschaftsrecht, Vertragsrecht, Markenrecht (inkl. Luxus-Fashion + USPTO/Lanham Act), Urheberrecht, Wettbewerbsrecht, Kartellrecht, Datenschutzrecht, IT-Recht, Bank- und Kapitalmarktrecht, Bau- und Architektenrecht, Verkehrsrecht, Medizinrecht, Migrationsrecht, Internationales Recht, Europarecht, Energierecht, Zwangsvollstreckung.
-- **Mechanik-Prüfer:** `subsumtions-pruefer` (generischer Subsumtions-Workflow DE + EU), `bereicherungs-und-anfechtungsrecht-pruefer` (§§ 812 ff. BGB + AnfG + InsO-Anfechtung), `ki-vo-ai-act-pruefer` (Verordnung (EU) 2024/1689 mit Anbieter/Betreiber-Entscheidungsbaum, Art. 5/6/25/51 ff.).
+- **Rechtsgebiete (materiell):** BGB Allgemeiner Teil, Arbeitsrecht, Mietrecht (Wohn-/Gewerbe), Erbrecht, Familienrecht, Sozialrecht, Strafrecht, Verwaltungsrecht (inkl. Energieanlagen-BImSchG-Verfahren und Energietrassen-Planfeststellung), Steuerrecht, Insolvenzrecht inkl. StaRUG, Gesellschaftsrecht, Vertragsrecht, Markenrecht (inkl. Luxus-Fashion + USPTO/Lanham Act), Urheberrecht, Wettbewerbsrecht, Kartellrecht, Datenschutzrecht, IT-Recht, Bank- und Kapitalmarktrecht, Bau- und Architektenrecht, Verkehrsrecht, Medizinrecht, Migrationsrecht, Internationales Recht, Europarecht, Energierecht, Zwangsvollstreckung.
+- **Mechanik-Prüfer:** `bgb-at-pruefer` (BGB AT: Vertragsschluss, Willenserklärung, Zugang, Geschäftsfähigkeit, Form, Anfechtung, Stellvertretung, Verjährung, qES/beA/Formfiktion), `subsumtions-pruefer` (generischer Subsumtions-Workflow DE + EU), `bereicherungs-und-anfechtungsrecht-pruefer` (§§ 812 ff. BGB + AnfG + InsO-Anfechtung einschließlich KI-Schuldnerakten-Screening, § 135 InsO und Verteidigung), `ki-vo-ai-act-pruefer` (Verordnung (EU) 2024/1689 mit Anbieter/Betreiber-Entscheidungsbaum, Art. 5/6/25/51 ff.).
 - **Werkstatt- und Lehr-Plugins:**
-  - `legistik-werkstatt` — komplette Gesetzgebungs-Werkstatt für Bundes- und Landesministerien (Referentenentwurf Arial-Hausstil, BT-Drucksache Times+Sperrsatz, Vorblatt A–F, Synopse, Lesefassung, Kabinettsmappe, Formulierungshilfe). DOCX/PDF im HdR-Layout.
+  - `legistik-werkstatt` — komplette Gesetzgebungs-Werkstatt für Bundesministerien, Bundestag, Fraktionen/Opposition, Landesministerien, Landtage und sonstige Normgeber (Referentenentwurf Arial-Hausstil, BT-/Landtagsdrucksache, Vorblatt A–F, Synopse, Lesefassung, Kabinettsmappe, Formulierungshilfe, Änderungsantrag, Antrag, Entschließungsantrag). DOCX/PDF im passenden offiziellen Layout.
   - `urteilsbauer-relationsmacher` — Urteils- und Beschluss-Werkstatt für Amts-, Land- und Familienrichter plus Rechtspfleger. Vollrelation (Sachbericht/Zulässigkeit/Schlüssigkeit/Erheblichkeit/Replik/Beweis/Tenorierung/Nebenentscheidungen/Selbstkontrolle) **und** Kurzrelation Praxisstandard mit Wahlfrage am Anfang. Rendert Urteile, Versäumnisurteile und Beschlüsse als DOCX im offiziellen Gerichtslayout nach § 313 ZPO. Inkl. Schulungsakte „Solis Vision X Smartglasses" (CISG, kollidierende AGB CH/EU, Incoterm FOB Galway, DSGVO als Eingriffsnorm, Testkauf 1577 EUR).
-  - `hausarbeitenmacher` — didaktisches Plugin für juristische Hausarbeiten und Seminararbeiten im Jurastudium. Führt sokratisch durch Zivilrecht, Öffentliches Recht und Strafrecht mit Ausflügen in Europarecht und Rechtstheorie. Fragt zu Beginn nach der Lehrkraft und entwickelt eine Adressaten-Strategie **ohne Schleimerei**. Strikt lernfördernd: kein Copy-Paste-Output, sondern Fragen, Strukturen, Methodenhinweise, Zitierweise. 22 Skills von Aufgabenstellung-Erfassen über Gutachtenstil und Methodenlehre bis Selbstkontrolle vor Abgabe.
+  - `hausarbeitenmacher` — didaktisches Plugin für juristische Hausarbeiten und Seminararbeiten im Jurastudium. Führt sokratisch durch Zivilrecht, Öffentliches Recht und Strafrecht mit Ausflügen in Europarecht und Rechtstheorie. Fragt zu Beginn nach der Lehrkraft und entwickelt eine Adressaten-Strategie **ohne Schleimerei**. Strikt lernfördernd: kein Copy-Paste-Output, sondern Fragen, Strukturen, Methodenhinweise, Zitierweise. 23 Skills von Aufgabenstellung-Erfassen über Gutachtenstil und Methodenlehre bis Selbstkontrolle vor Abgabe.
 - **Workflow-Pakete:** Wandeldarlehen-Lebenszyklus (Erstellung, Beurkundung, Wandlung, Cap-Table, Notar), Kündigungsschutzklage Selbsthilfe (Laie/Anwalt, Schriftsätze, Sprechzettel, Vergleich), Entfristungsklage TzBfG (Schriftform, elektronische Signatur), KI-Richtlinie für Kanzleien, Schriftform-/Textform-Organisator, Krisenfrüherkennung StaRUG, Liquiditätsplanung, Fortbestehensprognose.
 - **Querschnitt:** Aktenauszug Gerichtsverfahren, Mandantenanfragen-Assistent, Arbeitszeugnis-Analyse (Ampelsystem), Email-Umformulierer berufsrechtskonform, Zitierweise im BGH-Stil, Fachanwaltschafts-Übersicht.
 
@@ -70,87 +70,58 @@ Alternativ: über die Claude-Desktop-GUI unter **Customize → Skills** → ZIP 
 - **Beschlagnahmeverbote und auslandsrechtliche Zugriffe.** Es wird nicht geprüft, ob Eingabedaten und Modellantworten gegen Beschlagnahme nach **§§ 97, 160a StPO**, gegen **US Cloud Act**, **FISA § 702**, **CLOUD Act warrants**, **PATRIOT Act § 215** oder sonstige extraterritoriale Zugriffsbefugnisse hinreichend geschützt sind. Dafür ist die jeweilige Nutzerin / der jeweilige Nutzer allein verantwortlich.
 - **Zugang, Auftragsverarbeitung, Hosting.** Wie der API-Zugang zum Modell beschafft wird (Anthropic direkt, AWS Bedrock, Google Vertex, eigenes Hosting), ob mit dem Anbieter ein **Auftragsverarbeitungsvertrag** geschlossen wird, ob ein **berufsrechtskonformer Cloud-Vertrag** vorliegt und ob die Anforderungen an die Verschwiegenheit / Mandatsgeheimnis-Header und Datenflusskontrolle in der konkreten Deployment-Konstellation eingehalten sind, bleibt vollständig in der **Eigenverantwortung der Nutzerin / des Nutzers**.
 
-## Wieso überhaupt ein Zwischenanbieter (Stand Mai 2026)
+## Eigene API oder einen Zwischenanbieter anbinden (Stand Mai 2026)
 
-Anwältinnen und Anwälte sind nach § 203 StGB und § 43a BRAO zur Verschwiegenheit verpflichtet. Wer Mandantendaten in Claude eintippt, gibt sie technisch an Anthropic in den USA weiter — zulässig ist das nur, wenn dieser Empfänger sich vorher schriftlich zur Verschwiegenheit verpflichtet hat (§ 203 Abs. 4 StGB; § 43e BRAO). Anthropic unterschreibt eine solche Erklärung Stand Mai 2026 **nicht**. Bis sich das ändert, führt der Weg über einen deutschen Zwischenanbieter, der § 203 vertraglich zusagt — etwa Langdock oder einen vergleichbaren Anbieter ([nextAIM zu § 203-LLM-Hosting](https://www.nextaim.de/llm-hosting-203/); [anymize.ai zu Anonymisierung und EU-Servern](https://anymize.ai/blog/eu-server-keine-firewall-anonymisierung-ki); [Langdock Trust Center](https://trust.langdock.com/resources)).
+Anwältinnen, Anwälte und andere Berufsgeheimnisträgerinnen/-träger müssen vor jeder produktiven Nutzung selbst prüfen, ob die konkrete Anbieter-, Hosting- und Datenflusskonstellation mit Mandatsgeheimnis, Berufsrecht und Datenschutz vereinbar ist. Dieses Repository bestätigt keinen Anbieter und ersetzt keine Prüfung von § 203 StGB, § 43e BRAO, Art. 28 DSGVO, Kapitel V DSGVO, TOMs, Löschkonzept, Audit-Rechten, Subunternehmern, Datenresidenz und vertraglicher Verschwiegenheit.
 
-Die nachstehende Anleitung beschreibt den vollständigen Einrichtungsweg — vom Vertrag bis zur Funktionsprüfung. Die Feldnamen können je nach App-Version leicht abweichen; im Zweifel mit Dummy-Daten vortesten.
+Technisch gibt es zwei saubere Wege. Welche davon in deiner installierten Oberfläche verfügbar ist, hängt von der jeweiligen Claude-/Cowork-Version und vom Anbieter ab.
 
-### Vorbereitung beim Anbieter
+### Weg A — Claude Code im Terminal
 
-**Schritt 1 — Anbieter wählen und Vertrag unterschreiben.** Anbieter mit § 203-Zusatzvereinbarung wählen, Vereinbarung unterschreiben, in die Akte legen.
+Für Claude Code ist die robuste Variante die Konfiguration über Umgebungsvariablen. Der Anbieter muss dafür eine Claude-/Anthropic-kompatible API bereitstellen und dokumentieren, welche Authentifizierung verwendet wird.
 
-**Schritt 2 — Beim Anbieter einloggen.** Browser öffnen, Anbieterseite aufrufen, Konto-Login.
-
-**Schritt 3 — Zum API-Bereich wechseln.** Im Anbieter-Dashboard auf Profilbild oder Zahnrad klicken, Punkt „API Keys“ (manchmal „Tokens“ oder „Developer“) öffnen ([Langdock API Introduction](https://docs.langdock.com/api-endpoints/api-introduction)).
-
-**Schritt 4 — Neuen Schlüssel anlegen.** Auf „Create new key“ / „Neuen Schlüssel erstellen“ klicken.
-
-**Schritt 5 — Namen vergeben.** Sprechenden Namen eintragen, etwa „Claude-Cowork-Kanzlei-PC“.
-
-**Schritt 6 — Schlüssel kopieren.** Den langen Zeichenstring (beginnt meist mit `sk-…`) **einmal** anzeigen lassen und sofort in den Passwort-Manager kopieren — er wird später nicht mehr im Klartext angezeigt.
-
-**Schritt 7 — Adresse der Schnittstelle notieren.** In der Hilfe des Anbieters die „Anthropic-kompatible Base URL“ suchen, Muster `https://api.<anbieter>.de/anthropic`, mitkopieren ([BentoML zur Anthropic-kompatiblen API](https://bentoml.com/llm/model-interaction/anthropic-compatible-api)).
-
-**Schritt 8 — Modellnamen notieren.** Im Modellkatalog des Anbieters den genauen Namen für Claude 4.7 Opus oder Sonnet aufschreiben (etwa `claude-sonnet-4-7-…`).
-
-### Schlüssel in die Cowork-App einhängen
-
-**Schritt 9 — Claude-App aktualisieren.** Claude Desktop öffnen, „Auf Updates prüfen“, neu starten.
-
-**Schritt 10 — Abmelden.** Oben rechts auf das Profil klicken, „Log out“ wählen.
-
-**Schritt 11 — Einstellungs-Dialog öffnen.** Menüleiste: „Menu“ → „Developer“ → „Configure Third-Party Inference“. Falls der Eintrag fehlt oder ausgegraut ist: „Help“ → „Troubleshooting“ → „Enable Developer Mode“ ([Product Compass zu Cowork-3P-LLM](https://www.productcompass.pm/p/cowork-on-3p-any-llm)).
-
-**Schritt 12 — Verbindungsart wählen.** Feld „Connection“ auf „Gateway“ stellen.
-
-**Schritt 13 — Adresse einfügen.** In „Gateway base URL“ die in Schritt 7 notierte Adresse einfügen.
-
-**Schritt 14 — Schlüssel einfügen.** In „Gateway API key“ den in Schritt 6 kopierten Schlüssel einfügen (komplett, ohne Leerzeichen am Anfang oder Ende).
-
-**Schritt 15 — Anmelde-Verfahren wählen.** Im Feld „Gateway auth scheme“ zuerst „x-api-key“ auswählen; bei Fehler „Invalid API key“ später auf „Authorization: Bearer“ umschalten.
-
-**Schritt 16 — Erlaubte Verbindungen eintragen.** In „Allowed egress hosts“ nur die Domain des Anbieters eintragen, etwa `api.<anbieter>.de`, sonst nichts.
-
-**Schritt 17 — Speichern.** „Apply locally“ anklicken.
-
-**Schritt 18 — App neu starten.** „Relaunch now“ anklicken und warten, bis die App wieder oben ist.
-
-**Schritt 19 — Über Gateway einloggen.** Im Login-Fenster nicht „Continue with Anthropic“ wählen, sondern „Continue with Gateway“.
-
-**Schritt 20 — Modell auswählen.** Oben im Chat das Modell aufklappen und Claude 4.7 Opus oder Sonnet (Schreibweise wie in Schritt 8) wählen.
-
-### Falls die Felder im Menü nicht greifen
-
-**Schritt 21 — Mac über Terminal.** Terminal öffnen und nacheinander eingeben:
+1. Beim Anbieter Vertrag, AVV/TOMs, Verschwiegenheitszusagen und Subunternehmerliste prüfen und dokumentieren.
+2. API-Schlüssel erzeugen und nur im Passwort-Manager bzw. in der lokalen Shell-Konfiguration speichern. Keine Schlüssel ins Repo, in Testakten oder in Screenshots schreiben.
+3. Base URL, Auth-Schema und Modellnamen exakt aus der Anbieterdokumentation übernehmen.
+4. Auf dem Mac für die aktuelle grafische Sitzung setzen:
 
 ```
 launchctl setenv ANTHROPIC_BASE_URL https://api.<anbieter>.de/anthropic
 launchctl setenv ANTHROPIC_AUTH_TOKEN <Ihr-Schluessel>
-launchctl setenv ANTHROPIC_API_KEY ""
+launchctl unsetenv ANTHROPIC_API_KEY
 ```
 
-Danach Cmd+Q und Claude wieder öffnen ([OpenAI-Hub zur Drittanbieter-Anbindung](https://www.openai-hub.com/news/203); [Fazm zur Anthropic-Base-URL-Konfiguration](https://fazm.ai/blog/route-claude-api-through-custom-endpoint-anthropic-base-url)).
+5. Terminal neu öffnen und mit einem harmlosen Testsatz prüfen. Im Anbieter-Dashboard muss der Aufruf erscheinen; im falschen Anbieter-/Anthropic-Konto darf er nicht auftauchen.
 
-**Schritt 22 — Windows 11 über Systemeinstellungen.** „Systemsteuerung → System → Erweiterte Systemeinstellungen → Umgebungsvariablen“. Drei neue Benutzervariablen anlegen: `ANTHROPIC_BASE_URL`, `ANTHROPIC_AUTH_TOKEN`, `ANTHROPIC_API_KEY` (letzte leer lassen). Ab- und neu anmelden, dann Claude starten ([Claude-Code-Doku zu Environment-Variablen](https://code.claude.com/docs/en/env-vars)).
+Für reine Terminal-Nutzung reicht alternativ eine Shell-Datei außerhalb des Repos, z. B. `~/.zshrc.local` oder `direnv`, wenn eure IT das freigibt:
 
-### Funktionsprüfung
+```
+export ANTHROPIC_BASE_URL="https://api.<anbieter>.de/anthropic"
+export ANTHROPIC_AUTH_TOKEN="<Ihr-Schluessel>"
+unset ANTHROPIC_API_KEY
+```
 
-**Schritt 23 — Test-Anfrage.** Einen harmlosen Satz an Claude schicken („Sag Hallo“).
+### Weg B — Claude Desktop / Cowork-Oberfläche
 
-**Schritt 24 — Im Anbieter-Konto prüfen.** Im Dashboard des Anbieters unter „Logs“ muss die Anfrage erscheinen.
+Falls deine Cowork- oder Claude-Desktop-Version einen eigenen Gateway-/Third-Party-Inference-Dialog anbietet, gilt derselbe Prüfpfad:
 
-**Schritt 25 — Im Anthropic-Konto prüfen.** Im alten Anthropic-Konto darf **nichts** auftauchen.
+1. Anbieterunterlagen rechtlich und technisch prüfen.
+2. Base URL und API-Schlüssel aus dem Anbieter-Dashboard übernehmen.
+3. Auth-Schema nur so einstellen, wie der Anbieter es dokumentiert, typischerweise `x-api-key` oder `Authorization: Bearer`.
+4. Erlaubte ausgehende Hosts auf die Anbieter-Domain beschränken, wenn die Oberfläche ein solches Feld anbietet.
+5. Mit Dummy-Daten testen und die Provider-Logs kontrollieren.
 
-**Schritt 26 — Verbindungen prüfen.** Mit Little Snitch (Mac) oder Windows-Firewall kontrollieren, dass die App nur die Anbieter-Adresse anspricht.
+Wenn der Dialog in deiner Oberfläche nicht vorhanden ist oder anders heißt, nicht raten: dann Weg A nutzen oder die aktuelle Dokumentation der App/des Anbieters prüfen. Menübezeichnungen ändern sich schneller als dieses README.
 
-**Schritt 27 — Telemetrie aus.** In den App-Einstellungen Fehlerberichte und Nutzungsdaten ausschalten.
+### Kontrollliste vor echtem Mandatsmaterial
 
-**Schritt 28 — Dokumentieren.** Anbieter, Adresse, Modell, Datum und § 203-Schreiben in die Compliance-Akte.
+- Vertragliche Grundlage: AVV, TOMs, Verschwiegenheit, Unterauftragsverarbeiter, Audit-/Löschrechte.
+- Datenfluss: Region, Protokollierung, Trainings-/Retention-Regeln, Support-Zugriffe.
+- Technik: Base URL, Auth-Schema, Modellname, erlaubte Hosts, Provider-Logs.
+- Kanzlei-Governance: KI-Richtlinie, Mandatsfreigabe, Betriebsvereinbarung, Dokumentation in der Akte.
+- Test: nur Dummy-Daten, Provider-Logs geprüft, keine Schlüssel im Repo.
 
-### Hinweis
-
-Stand Mai 2026 funktioniert dieser Weg nur über einen Zwischenanbieter. Sobald Anthropic selbst eine § 203-Vereinbarung anbietet, wäre der Umweg entbehrlich. Die Feldbezeichnungen können je nach App-Version leicht abweichen; ohne Gewähr, im Zweifel vorab mit Dummy-Daten testen.
+Die Anleitung ist bewusst anbieterneutral. Sie beschreibt nur den technischen Anschlussweg und die zu dokumentierenden Prüfpunkte, nicht die rechtliche Zulässigkeit eines bestimmten Setups.
 
 **Worum es hier geht.** Dieses Repository ist eine **technische Spielwiese**, die zeigt, was mit Claude Code und Plugin-Skills im Kontext deutschen Rechts überhaupt **technisch machbar** ist. Es geht **nicht** darum, eine produktiv einsetzbare, rechtskonforme Lösung anzubieten. Jede einzelne Nutzerin und jeder einzelne Nutzer prüft selbst und in eigener Verantwortung, ob, wie und unter welchen Schutzmaßnahmen ein Einsatz im konkreten Mandat oder Berufsumfeld zulässig ist – inklusive Mandatsgeheimnis, Datenschutz, Zeugnisverweigerungsrecht und Beschlagnahmeschutz, unabhängig von der einschlägigen Rechtsordnung.
 
@@ -204,11 +175,12 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`arbeitszeugnis-analyse`](./arbeitszeugnis-analyse) | Analyse deutscher Arbeitszeugnisse nach Ampelsystem (Rot/Orange/Grün). Erkennt den Geheimcode der Zeugnissprache, identifiziert notenrelevante Sätze und klassifiziert sie mit Interpretation der versteckten Bewertung. |
 | [`aussenwirtschaft-zoll-sanktionen`](./aussenwirtschaft-zoll-sanktionen) | Freistehendes Außenwirtschafts-, Sanktions-, Zoll- und CBAM-Plugin: Exportkontrolle, BAFA, Dual-Use, Embargos, TARIC, Ursprung, Zollwert, Verbrauchsteuer, Antidumping, AWV, AML/KYC, Ermittlungen und Krisenkommunikation. |
 | [`bav-strategie-konzern`](./bav-strategie-konzern) | Strategische Beratung zur betrieblichen Altersversorgung in Konzernen: Pensionsmodelle alle fünf Durchführungswege CTA Pension Buyouts Drei-Stufen-Theorie Versorgungssystem-Harmonisierung internationale Benefits Restrukturierung DB-zu-DC im Düsseldorfer Boutique-Stil. |
-| [`bereicherungs-und-anfechtungsrecht-pruefer`](./bereicherungs-und-anfechtungsrecht-pruefer) | Mechanisches Durchprüfen von Bereicherungsrecht SS 812 ff. BGB sowie Anfechtung nach AnfG und SS 129-147 InsO. Weichenstellung Rechtsgrund, Insolvenz, Vollstreckungstitel. Keine Rechtsberatung. |
+| [`bereicherungs-und-anfechtungsrecht-pruefer`](./bereicherungs-und-anfechtungsrecht-pruefer) | Mechanisches Durchprüfen von Bereicherungsrecht §§ 812 ff. BGB, AnfG und Insolvenzanfechtung §§ 129-147 InsO. Mit KI-Screening von Schuldnerakten, § 135 Gesellschafterdarlehen, Bargeschäft § 142 und Verteidigung des Anfechtungsgegners. Keine Rechtsberatung. |
 | [`berufsrecht-ki-vertragspruefung`](./berufsrecht-ki-vertragspruefung) | Berufsrechtliche und strafrechtliche Vorprüfung von Verträgen mit privaten Legal-AI-Anbietern. Für Rechtsanwälte, Steuerberater, Wirtschaftsprüfer, Patentanwälte, Notare. §§ 43e BRAO, 62a StBerG, 50a WPO, 39c PAO, 26a BNotO i.V.m. § 203 StGB. Maßstab DAV-Stellungnahme Nr. 32/2025. Gutachten, Rückfragebrief, Klauselvorschläge. |
 | [`betreuungsrecht`](./betreuungsrecht) | Skills für berufliche Betreuer nach BtOG und §§ 1814 ff. BGB (Reform 2023): Jahresbericht ans Betreuungsgericht (§ 1863 BGB), Vermögensverzeichnis und Rechnungslegung (§§ 1835, 1865 BGB), Genehmigungspflicht-Prüfung (§§ 1848 ff., 1831, 1832 BGB), Kontoanalyse und verdächtige Verträge in der Vermögenssorge. |
+| [`bgb-at-pruefer`](./bgb-at-pruefer) | Großes Prüfplugin zum BGB Allgemeiner Teil: Vertragsschluss, Willenserklärung, Zugang, Geschäftsfähigkeit, Form, qES, beA, § 130e ZPO, § 46h ArbGG, Anfechtung, Stellvertretung, Fristen und Verjährung. 53 Skills plus synthetische Testakte. |
 | [`common-law-kompass`](./common-law-kompass) | Freistehender Common-Law-Kompass für deutsche Wirtschaftsjuristen: UK/US-False-Friends, Vertragsbegriffe, Consideration, Suretyship, Indemnity, UCC, Precedent, Discovery und bilinguale Drafting-Reviews. |
-| [`corporate-kanzlei`](./corporate-kanzlei) | Corporate/M&A-Plugin (46 Skills) für transaktionsstarke Kanzleien: Deal-Kommandocenter, Datenraum, Due Diligence, Tabellenreview, SPA/APA, Disclosure Schedules, Signing/Closing, W&I, Public M&A, Fusionskontrolle, Investitionskontrolle, Umwandlungsrecht, StaRUG, Insolvenzplan, PMI. |
+| [`corporate-kanzlei`](./corporate-kanzlei) | Corporate/M&A-Plugin (47 Skills) für transaktionsstarke Kanzleien: Deal-Kommandocenter, Datenraum, Due Diligence, Tabellenreview, SPA/APA, Disclosure Schedules, Signing/Closing, W&I, Public M&A, Fusionskontrolle, Investitionskontrolle, Umwandlungsrecht, StaRUG, Insolvenzplan, PMI. |
 | [`datenschutzrecht`](./datenschutzrecht) | DSGVO, BDSG, TDDDG, Auskunft, Datenpanne, AVV. |
 | [`einfache-leichte-sprache-jura`](./einfache-leichte-sprache-jura) | Juristische Texte in Einfache Sprache oder Leichte Sprache übertragen: experimentelle Annäherung an einschlägige Standards, Zielgruppe klären, Rechtsinhalt sichern, schwere Wörter erklären und Qualitätsgate laufen lassen. |
 | [`email-umformulierer-berufsrecht`](./email-umformulierer-berufsrecht) | Formuliert unfreundliche, emotionale oder unsachliche E-Mails in höfliche, sachliche und berufsrechtskonforme Texte um. Fokus auf BRAO/BORA, mit Modi für Steuerberater, Notare und allgemeine Korrespondenz. |
@@ -256,14 +228,14 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`jveg-kostenpruefer`](./jveg-kostenpruefer) | Freistehender JVEG-Kostenprüfer: Zeugenentschädigung, Vorschuss, Fahrtkosten, Übernachtung, Verdienstausfall, Sachverständigen-/Dolmetscherkosten, Fristen, Festsetzung, Beschwerde und belegfeste Rechenprotokolle. |
 | [`kanzlei-allgemein`](./kanzlei-allgemein) | Kanzlei-Allgemein-Plugin mit edlem Cowork-Kommandocenter, Nachtblau/Silber/Orange-Look, Copilot, Mandatsannahme/GwG, KYC, PEP, Aktenanlage, Kontoblatt, Schreib-Canvas, Klage/Replik-Turbo, Vertragsentwurf, Rechtsprechungsrecherche, Handelsregisterabruf, beA, Fristen, Rechnung, Geschäftskonto, Bankmatching, XRechnung, UStVA und Simulation. |
 | [`kanzlei-builder-hub`](./kanzlei-builder-hub) | Werkzeuge zum Bauen eigener kanzleiinterner Skills. |
-| [`kartellrecht-marktabgrenzung-pruefung`](./kartellrecht-marktabgrenzung-pruefung) | Hochspezialisierte kartellrechtliche Prüfinstanz für vorgelegte Marktabgrenzungen (eigenes Team, gegnerische Partei, Behörde). § 18 GWB, Art. 101 und Art. 102 AEUV, EU-Bekanntmachung Marktdefinition 2024. SSNIP-Test, Nachfrage-/Angebotssubstitution, räumlicher Markt, Evidenzbasierung, Konsistenzcheck, EuGH-Leitentscheidungen, Red Flags, alternative Marktdefinitionen, Marktbeherrschung. 24 Skills. |
+| [`kartellrecht-marktabgrenzung-pruefung`](./kartellrecht-marktabgrenzung-pruefung) | Hochspezialisierte kartellrechtliche Prüfinstanz für vorgelegte Marktabgrenzungen (eigenes Team, gegnerische Partei, Behörde). § 18 GWB, Art. 101 und Art. 102 AEUV, EU-Bekanntmachung Marktdefinition 2024. SSNIP-Test, Nachfrage-/Angebotssubstitution, räumlicher Markt, Evidenzbasierung, Konsistenzcheck, EuGH-Leitentscheidungen, Red Flags, alternative Marktdefinitionen, Marktbeherrschung. 25 Skills. |
 | [`ki-governance`](./ki-governance) | EU-KI-VO, KI-Inventar, AIA, Vendor Review. |
-| [`ki-richtlinie-kanzleien`](./ki-richtlinie-kanzleien) | Erstellt und pflegt eine berufsrechtskonforme KI-Nutzungsrichtlinie für Kanzleien und Rechtsabteilungen. 26 Skills zu BRAO, BORA, DSGVO, KI-Verordnung, Berufsrecht, Datenschutz, Halluzinations-Handhabung und Prompting. |
+| [`ki-richtlinie-kanzleien`](./ki-richtlinie-kanzleien) | Erstellt und pflegt eine berufsrechtskonforme KI-Nutzungsrichtlinie für Kanzleien und Rechtsabteilungen. 27 Skills zu BRAO, BORA, DSGVO, KI-Verordnung, Berufsrecht, Datenschutz, Halluzinations-Handhabung und Prompting. |
 | [`ki-vo-ai-act-pruefer`](./ki-vo-ai-act-pruefer) | Vollständiger Mechanik-Workflow zur Verordnung (EU) 2024/1689 (KI-VO): KI-System-Definition, Rollen, Risikoklassen, Hochrisiko-Pflichten, GPAI-Modelle, Sanktionen. Kein Rechtsrat. |
 | [`krisenfrueherkennung-starug`](./krisenfrueherkennung-starug) | Krisenfrüherkennung und Krisenmanagement nach StaRUG: Pflicht zum 24-Monats-Frühwarnsystem nach § 1 StaRUG, § 102 StaRUG Warnpflicht der Berater, Geschäftsführerhaftung, drohende Zahlungsunfähigkeit, integrierte Planung, Restrukturierungsplan und Stabilisierungsanordnung. |
-| [`legistik-werkstatt`](./legistik-werkstatt) | Legistik-Werkstatt für Bundes- und Landesministerien. Vom politischen Auftrag über Normhierarchie Kompetenzprüfung Normenkartierung Terminologie zu Referentenentwurf Kabinettsmappe Formulierungshilfe Rechtsverordnung Satzung. Inkl. Begründung Synopse Lesefassung XML Folgenabschätzung Goldplating-Check und Schulungstrainings. Erzeugt am Ende DOCX und PDF im offiziellen HdR-Layout (Times New Roman BT-Drucksachen, Arial Referentenentwurf). |
+| [`legistik-werkstatt`](./legistik-werkstatt) | Legistik-Werkstatt für Bundesministerien, Bundestag, Fraktionen/Opposition, Landesministerien, Landtage und sonstige Normgeber. Vom politischen Auftrag über Startbahn, Normhierarchie, Kompetenzprüfung, Normenkartierung und Terminologie zu Referentenentwurf, Kabinettsmappe, Gesetzentwurf aus der Mitte, Formulierungshilfe, Änderungsantrag, Antrag, Entschließungsantrag, Rechtsverordnung und Satzung. Inkl. Begründung, Synopse, Lesefassung, XML, Folgenabschätzung, Goldplating-Check und Schulungstrainings. Erzeugt am Ende DOCX und PDF im passenden offiziellen Layout. |
 | [`liquiditaetsplanung`](./liquiditaetsplanung) | Bündel-Plugin für die rollierende Liquiditätsplanung: 3-Wochen-Test § 17 InsO (BGH BGHZ 163, 134), 13/26/52-Wochen-Forecast mit Ampel, Fortführungsprognose IDW S 6/S 11 und insolvenzrechtliche Liquiditätsbilanz. Verweist auf die Skills in `steuerrecht-anwalt-und-berater` und `insolvenzrecht`. |
-| [`lobbyregister-bundestag`](./lobbyregister-bundestag) | Superplugin fuer Meldung und Registrierung im Lobbyregister des Deutschen Bundestages und der Bundesregierung: 50 gefuehrte Skills zu Pflichtcheck, Ausnahmen, Registereintrag, Regelungsvorhaben, Stellungnahmen, Finanzdaten, Aktualisierung, Verhaltenskodex, Verstoessen und Fristen. |
+| [`lobbyregister-bundestag`](./lobbyregister-bundestag) | Superplugin für Meldung und Registrierung im Lobbyregister des Deutschen Bundestages und der Bundesregierung: 50 geführte Skills zu Pflichtcheck, Ausnahmen, Registereintrag, Regelungsvorhaben, Stellungnahmen, Finanzdaten, Aktualisierung, Verhaltenskodex, Verstößen und Fristen. |
 | [`mandantenanfragen-assistent`](./mandantenanfragen-assistent) | Assistent für Anwaltskanzleien zur Erstantwort auf Mandantenanfragen per E-Mail: dankt förmlich, übernimmt die Anrede aus der eingehenden E-Mail, nennt die telefonische Terminvergabe, bittet um Sachverhalt per E-Mail oder bietet eine Telefon-Transkription mit DSGVO-Einwilligungshinweis an. |
 | [`markenrecht-fashion-luxus`](./markenrecht-fashion-luxus) | Markenrecht-Boutique für Luxus-Modehäuser - DPMA/EUIPO Alicante/USPTO Lanham Act via NYC-Korrespondenz, alle Markenarten (Wort/Bild/Slogan/Sound/Duft/3D/Position/Haptik/Anti-KI), Widerspruch, Löschung, Verletzung, Produktpiraterie, Selektivvertrieb. |
 | [`memorandums-ersteller`](./memorandums-ersteller) | Wandelt Mandantenunterlagen in ein juristisches Memorandum mit Vier-Teile-Gliederung: Sachverhalt mit Quellenreferenz, Rechtsfrage, rechtliche Würdigung, Ergebnis und Empfehlung. |
@@ -271,14 +243,14 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`mietrecht`](./mietrecht) | Mietrecht für Mieter und Vermieter mit ausschließlich amtlichen Mietspiegel-Quellen pro Bundesland und für Top- und Universitätsstädte. Acht Skills: Datenerhebung, Mieterhöhungs-Widerspruch, Mietsenkungsverlangen, Nebenkostenprüfung, Mieteranfragen, Klageentwurf Amtsgericht. |
 | [`mittelstand-corporate-ma`](./mittelstand-corporate-ma) | Freistehendes Corporate/M&A-Plugin für mittelständische Kanzleien mit Deal-Kommandocenter, Aktenanlage, Datenraum, Legal DD, internem Tabellenreview, Liquiditätsvorschau, Insolvenzreifecheck, CP-Kalender, SPA/APA, W&I, Public M&A, Umwandlungsrecht, StaRUG/Insolvenzplan, Billing, XRechnung/ZUGFeRD, GoBD und Closing Bible. |
 | [`nda-abgleich`](./nda-abgleich) | NDA-Verhandlungshilfe für die empfangende Seite. Modus A: Standard-Destillation aus 1–n NDAs. Modus B: Redlining gegen den eigenen Standard. |
-| [`normenkontrolle-bauleitplanung`](./normenkontrolle-bauleitplanung) | Freistehendes Verwaltungsrecht-Plugin für die Prüfung und Anfechtung von Bebauungsplänen, Flächennutzungsplänen und örtlichen Bauvorschriften nach § 47 VwGO. Mandatsperspektive Antragstellervertretung. 18 Skills für vier Phasen: Mandatsaufnahme und Antragsbefugnis, Verfahrensprüfung (Aufstellung, Beteiligung, Umweltbericht, Planerhaltung), materielle Prüfung (Erforderlichkeit, Abwägungsgebot, Stellplatzsatzung BayBO, Immissionsschutz, Artenschutz, Anpassungsgebot) sowie Schriftsatz und mündliche Verhandlung beim BayVGH (Normenkontrollantrag, einstweilige Anordnung § 47 Abs. 6 VwGO). |
+| [`normenkontrolle-bauleitplanung`](./normenkontrolle-bauleitplanung) | Freistehendes Verwaltungsrecht-Plugin für die Prüfung und Anfechtung von Bebauungsplänen, Flächennutzungsplänen und örtlichen Bauvorschriften nach § 47 VwGO. Mandatsperspektive Antragstellervertretung. 22 Skills für vier Phasen: Mandatsaufnahme und Antragsbefugnis, Verfahrensprüfung (Aufstellung, Beteiligung, Umweltbericht, Planerhaltung), materielle Prüfung (Erforderlichkeit, Abwägungsgebot, Stellplatzsatzung BayBO, Immissionsschutz, Artenschutz, Anpassungsgebot) sowie Schriftsatz und mündliche Verhandlung beim BayVGH (Normenkontrollantrag, einstweilige Anordnung § 47 Abs. 6 VwGO). |
 | [`patentrecherche`](./patentrecherche) | Patentrecherche für Patentanwälte – agentisch in Espacenet, Google Patents, DPMAregister, DEPATISnet, EPO Register, WIPO PATENTSCOPE, USPTO. Stand der Technik, Neuheit (§ 3 PatG, Art. 54 EPÜ), erfinderische Tätigkeit (§ 4 PatG, Art. 56 EPÜ) im Problem-Solution-Approach, Freedom-to-Operate, CPC-/IPC-Klassifikation, INPADOC-Patentfamilie, Recherchebericht. |
 | [`phishing-vorfall-pruefer`](./phishing-vorfall-pruefer) | Freistehender Prüfer für Online-Banking-Phishing: § 675u/§ 675v BGB, pushTAN, Call-ID-Spoofing, grobe Fahrlässigkeit, Beweislast, Banklogs, Ombudsmann und Klage. |
 | [`produktrecht`](./produktrecht) | Produktrecht, AGB, Impressum, PAngV, Marketing-Claims. |
 | [`prozessrecht`](./prozessrecht) | Zivil-, Straf- und Verwaltungsprozess, Mahnverfahren, einstweilige Verfügung, Zwangsvollstreckung, Verkehrsunfall. Streitwertgrenzen ab 1.1.2026 angepasst (AG bis 10.000 € nach § 23 Nr. 1 GVG n.F.). |
 | [`rechtsberatungsstelle`](./rechtsberatungsstelle) | Pro-Bono-Beratungsstellen, Mandantenakte, Mandantenbrief. |
 | [`regulatorisches-recht`](./regulatorisches-recht) | Aufsichtsrecht, KWG, GwG, EnWG, TKG, Inkasso/RDG, UStVA, DORA-IKT-Vertragsprüfung. |
-| [`schriftform-und-textform-bgb`](./schriftform-und-textform-bgb) | Workflow-Organisator zu Form-Erfordernissen im deutschen Zivilrecht: Schriftform § 126 BGB qES § 126a Textform § 126b Zugang § 130 BGB lernt aus BGH I ZR 202/25 Maklervertrag und BGH VIII ZR 159/23 Mietkündigung Klauselgenerator Mandantenmemos. |
+| [`schriftform-und-textform-bgb`](./schriftform-und-textform-bgb) | Workflow-Organisator zu Formerfordernissen im deutschen Zivilrecht: Schriftform § 126 BGB, qES § 126a BGB, Textform § 126b BGB, Zugang § 130 BGB, beA/ERV, § 130e ZPO, § 46h ArbGG und BGH VIII ZR 155/23 / VIII ZR 159/23. |
 | [`steuerrecht-anwalt-und-berater`](./steuerrecht-anwalt-und-berater) | Steuerberater und Fachanwalt für Steuerrecht: Bescheidanalyse, Einspruch nach AO, Klage zum Finanzgericht, Außenprüfung, Selbstanzeige § 371 AO, Verbindliche Auskunft, Akteneinsicht Steuerakte. BWA-/SuSa-/Bilanz-Krisenprüfung für Steuerberater. Skills mit Präfixen `anw-` (Anwalt), `fa-` (Fachanwalt), `stb-` (Steuerberater). |
 | [`strafbefehl-verteidiger`](./strafbefehl-verteidiger) | Freistehender Strafbefehls-Verteidiger: Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereinsetzung, Einstellung, Zeugenstrategie und Hauptverhandlung. |
 | [`subsumtions-pruefer`](./subsumtions-pruefer) | Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema je TBM, Beweisbedarf erfassen, Rechtsfolgen und Einreden prüfen. Ausgabe als Schriftsatz oder Memo. Keine Rechtsberatung. |
@@ -396,11 +368,11 @@ Dieses Repository ist vollständig auf das deutsche Recht und die Arbeitsweise d
 - Due Diligence läuft über Q&A, Datenraum und anwaltliche Sachverhaltsaufklärung.
 - Kündigungsschutz: Regelfall nach KSchG ab 6 Monate / mehr als 10 Arbeitnehmer.
 
-Aktueller Stand: **100 Plugins, 2229 Skills, 49 Testakten**. Abgedeckt sind klassische Mandantenpraxis, alle 24 Fachanwaltschaften, Großkanzlei- und Mittelstandsformate sowie Spezialdisziplinen wie Insolvenzverwaltung, Zwangsverwaltung, Zwangsversteigerung, Lobbyregister-Compliance mit Bundestags-Open-Data/API-Monitoring, Selbstvertretung vor Amts- und Sozialgericht, Steuerberater-Werkzeuge für BWA/Lohn/DBA, Markenrecht für Luxus-Fashion mit USPTO/Lanham-Act-Modul, betriebliche Altersversorgung in Konzernen mit Düsseldorf-Kyoto-Profil, StaRUG-Krisenfrüherkennung mit Vier-und-zwanzig-Monats-Horizont, Schriftform-/Textform-Workflow-Organisator nach BGH I ZR 202/25 und BGH VIII ZR 159/23, Wandeldarlehen-Lebenszyklus mit Cap-Table-Mechanik sowie generische Mechanik-Prüfer für Subsumtion, Bereicherungs-/Anfechtungsrecht und die KI-VO (Verordnung (EU) 2024/1689).
+Aktueller Stand: **101 Plugins, 2386 Skills, 52 Testakten**. Abgedeckt sind klassische Mandantenpraxis, alle 24 Fachanwaltschaften, Großkanzlei- und Mittelstandsformate sowie Spezialdisziplinen wie Insolvenzverwaltung, Zwangsverwaltung, Zwangsversteigerung, Lobbyregister-Compliance mit Bundestags-Open-Data/API-Monitoring, Selbstvertretung vor Amts- und Sozialgericht, Steuerberater-Werkzeuge für BWA/Lohn/DBA, Markenrecht für Luxus-Fashion mit USPTO/Lanham-Act-Modul, betriebliche Altersversorgung in Konzernen mit Düsseldorf-Kyoto-Profil, StaRUG-Krisenfrüherkennung mit Vier-und-zwanzig-Monats-Horizont, Schriftform-/Textform-Workflow-Organisator nach BGH I ZR 202/25, BGH VIII ZR 155/23, BGH VIII ZR 159/23, § 130e ZPO und § 46h ArbGG, Wandeldarlehen-Lebenszyklus mit Cap-Table-Mechanik, BVG-/ÖPNV-Abschleppkosten nach § 23 MobG BE sowie generische Mechanik-Prüfer für BGB AT, Subsumtion, Bereicherungs-/Anfechtungsrecht inklusive vertiefter Dreiecks-, Entreicherungs- und KI-Anfechtungsscreening-Workflows und die KI-VO (Verordnung (EU) 2024/1689). Jedes Plugin hat einen `allgemein`-Einstiegsskill mit Schnelltriage, Workflow und Routing zu den plugin-eigenen Spezial-Skills.
 
 ### Materielle Rechtsgebiete
 
-- **Zivilrecht & Vertragsrecht** – `vertragsrecht`, `nda-abgleich`, `agb-pruefung` (in `vertragsrecht`), `produktrecht`, `fluggastrechte`
+- **Zivilrecht & Vertragsrecht** – `bgb-at-pruefer`, `vertragsrecht`, `nda-abgleich`, `agb-pruefung` (in `vertragsrecht`), `produktrecht`, `fluggastrechte`
 - **Arbeitsrecht** – `arbeitsrecht`, `fachanwalt-arbeitsrecht` (Kündigungsschutzklage § 4 KSchG, Aufhebungsvertrag mit Sperrzeit-Prüfung, BR-Anhörung § 102 BetrVG, Massenentlassung § 17 KSchG)
 - **Gesellschafts- & Wirtschaftsrecht** – `gesellschaftsrecht`, `fachanwalt-handels-gesellschaftsrecht`, `grosskanzlei-corporate-ma`, `mittelstand-corporate-ma`, `corporate-kanzlei`, `fachanwalt-internationales-wirtschaftsrecht`
 - **Bank-, Kapitalmarkt- & Aufsichtsrecht** – `fachanwalt-bank-kapitalmarktrecht`, `regulatorisches-recht`, `geldwaeschepraevention-aml-kyc`, `aussenwirtschaft-zoll-sanktionen`
@@ -414,7 +386,7 @@ Aktueller Stand: **100 Plugins, 2229 Skills, 49 Testakten**. Abgedeckt sind klas
 - **Gewerblicher Rechtsschutz & Medien** – `gewerblicher-rechtsschutz` (Markenanmeldung DPMA, UWG-Abmahnung), `fachanwalt-gewerblicher-rechtsschutz`, `fachanwalt-urheber-medienrecht` (Gegendarstellung), `patentrecherche`, `markenrecht-fashion-luxus` (Luxus-Fashion-IP mit Anmeldung allerlei Markenarten inkl. Haptik- und Soundmarken, EUIPO Alicante, Selektivvertrieb Coty, USPTO/Lanham Act, TTAB, NYC-Korrespondenzkanzlei)
 - **Insolvenz, Sanierung und Krisenmanagement (erweitert)** – `krisenfrueherkennung-starug` (§ 1 StaRUG mit Vier-und-zwanzig-Monats-Horizont, § 102 StaRUG-Warnpflicht, Restrukturierungsplan, Stabilisierungsanordnung, Cross-Class-Cram-Down), ergänzt durch `insolvenzplan-starug-planwerkstatt` und `fachanwalt-insolvenz-sanierungsrecht`
 - **Arbeits- und Vergütungsrecht (erweitert)** – `bav-strategie-konzern` (betriebliche Altersversorgung als Konzern-Architektur: alle fünf Durchführungswege, CTA-Doppeltreuhand, Pension Buyouts, Drei-Stufen-Theorie BAG, internationale Benefits, Düsseldorf-Kyoto-Profil)
-- **Form und Zugang im Zivilrecht** – `schriftform-und-textform-bgb` (Workflow-Organisator zu §§ 126/126a/126b BGB, Zugang § 130 BGB, lernt aus BGH I ZR 202/25 Maklervertrag und BGH VIII ZR 159/23 Mietkündigung, Klauselgenerator, Mandantenwarnungen zu qES-Zugang per E-Mail/WhatsApp)
+- **Form und Zugang im Zivilrecht** – `schriftform-und-textform-bgb` (Workflow-Organisator zu §§ 126/126a/126b BGB, Zugang § 130 BGB, beA/ERV, § 130e ZPO, § 46h ArbGG, BGH VIII ZR 155/23 und VIII ZR 159/23, Klauselgenerator, Mandantenwarnungen zu qES-Zugang und Schriftsatzkündigung)
 - **IT-Recht, Datenschutz & KI-Governance** – `datenschutzrecht` (Art. 15 DSGVO, Art. 33/34 DSGVO), `fachanwalt-it-recht` (Cyber-Incident 72 h), `ki-governance` (EU AI Act), DORA-IKT-Vertragsprüfung in `regulatorisches-recht`, `berufsrecht-ki-vertragspruefung`
 - **Verkehr, Transport, Versicherung, Medizin** – `fachanwalt-verkehrsrecht`, `fachanwalt-transport-speditionsrecht` (CMR/HGB), `fachanwalt-versicherungsrecht`, `fachanwalt-medizinrecht`, `fachanwalt-bau-architektenrecht` (VOB/B)
 - **Sportrecht, Agrarrecht** – `fachanwalt-sportrecht` (CAS-Berufung), `fachanwalt-agrarrecht` (GAP-Sammelantrag)

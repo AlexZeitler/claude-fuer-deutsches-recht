@@ -1,6 +1,6 @@
 ---
 name: nichtleistungskondiktion-grundtatbestand-812-i-1-alt-2
-description: "Nichtleistungskondiktion nach § 812 Abs. 1 S. 1 Alt. 2 BGB pruefen: in sonstiger Weise ohne Rechtsgrund erlangt. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB. Pruefraster: kein Leistungsverhältnis, Abgrenzung zur Leistungskondiktion, Zuweisungsgehalt. Output: Pruefergebnis Nichtleistungskondiktion. Abgrenzung: nicht Alt. 1 Leistungskondiktion (bewusste Zweckrichtung)."
+description: "Nichtleistungskondiktion nach § 812 Abs. 1 S. 1 Alt. 2 BGB prüfen: in sonstiger Weise ohne Rechtsgrund erlangt. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB. Prüfraster: kein Leistungsverhältnis, Abgrenzung zur Leistungskondiktion, Zuweisungsgehalt. Output: Prüfergebnis Nichtleistungskondiktion. Abgrenzung: nicht Alt. 1 Leistungskondiktion (bewusste Zweckrichtung)."
 ---
 
 # Nichtleistungskondiktion — Grundtatbestand § 812 Abs. 1 S. 1 Alt. 2 BGB
@@ -24,7 +24,6 @@ BGH, Urt. v. 29.04.2010 – I ZR 68/08, NJW-RR 2010, 1631 — Die Nichtleistungs
 BGH, Urt. v. 18.01.2012 – I ZR 187/10, NJW 2012, 3774 — Die Eingriffskondiktion ist ein Unterfall der Nichtleistungskondiktion; sie setzt voraus, dass der Schuldner in den Zuweisungsgehalt einer fremden Rechtsposition eingegriffen hat, der die Rechtsordnung dem Gläubiger exklusiv zuweist.
 
 BGH, Urt. v. 09.03.2012 – V ZR 115/11, NJW 2012, 1793 — Bei der Verwendungskondiktion nach § 812 Abs. 1 S. 1 Alt. 2 BGB sind die engeren Voraussetzungen des EBV (§§ 994 ff. BGB) zu beachten; § 812 BGB tritt zurück, wenn das EBV als lex specialis eingreift.
-
 
 ## Kommentarliteratur
 
@@ -93,4 +92,3 @@ Sachverhalt (kurz): [...]
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
 
 ---
-<!-- AUDIT 27.05.2026: BGH VII ZR 462/98 (NJW 2000, 3492) auf dejure.org nicht auffindbar (NOT_FOUND); NJW 2000, 3492 gehoert zu BGH X ZR 62/98 (illegale Arbeitnehmerleihe, anderes Rechtsgebiet) — Eintrag ersatzlos geloescht. -->

@@ -1,6 +1,6 @@
 ---
 name: iv-plan-integrierte-planung
-description: "Integrierte Planrechnung aus GuV Liquiditaet und Bilanz fuer Insolvenzplan oder StaRUG erstellen. §§ 220 229 InsO Finanzplanung § 14 StaRUG. Pruefraster: Ist-Zahlen Planannahmen Base-Case Stressszenarien Brueckenrechnung Annahmenregister. Output: Planungsmodell als CSV-Struktur Szenariovergleich. Abgrenzung: nicht fuer Vergleichsrechnung (iv-plan-vergleichsrechnung) oder Sanierungskonzept."
+description: "Integrierte Planrechnung aus GuV Liquiditaet und Bilanz für Insolvenzplan oder StaRUG erstellen. §§ 220 229 InsO Finanzplanung § 14 StaRUG. Prüfraster: Ist-Zahlen Planannahmen Base-Case Stressszenarien Brückenrechnung Annahmenregister. Output: Planungsmodell als CSV-Struktur Szenariovergleich. Abgrenzung: nicht für Vergleichsrechnung (iv-plan-vergleichsrechnung) oder Sanierungskonzept."
 ---
 
 # IV-integrierte Integrierte Planrechnung
@@ -48,7 +48,6 @@ Freundlich, ruhig, präzise und planarchitektonisch. Der Skill erklärt, warum e
 ## IV-Einordnung
 
 Diese integrierte Fassung ist für Insolvenzverwalter, Sachwalter und vorläufige Verwaltung zugeschnitten. Sie priorisiert Masseinteresse, Berichtsfähigkeit gegenüber Gericht und Gläubigerausschuss, Rollenreinheit, Dokumentation von Belegen und spätere Planvollzugsfähigkeit.
-
 
 ## Rechtliche Grundlagen und BGH-Leitentscheidungen
 

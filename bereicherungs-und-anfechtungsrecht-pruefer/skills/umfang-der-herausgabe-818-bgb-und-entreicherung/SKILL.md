@@ -1,6 +1,6 @@
 ---
 name: umfang-der-herausgabe-818-bgb-und-entreicherung
-description: "Umfang der Bereicherungshaftung nach § 818 BGB bestimmen: Erlangtes, Nutzungen, Surrogate, Wertersatz, Entreicherung und Zurechnung des Wegfalls. Output: Werttabelle."
+description: "Umfang der Bereicherungshaftung nach § 818 BGB bestimmen: Erlangtes, Nutzungen, Surrogate, Wertersatz, Entreicherung, ersparte Aufwendungen und Zurechnung des Wegfalls. Output: Werttabelle mit Einredeprüfung."
 ---
 
 # Umfang der Herausgabe — § 818 BGB und Entreicherung

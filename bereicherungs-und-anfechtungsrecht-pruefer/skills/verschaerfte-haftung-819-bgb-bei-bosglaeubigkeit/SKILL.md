@@ -1,6 +1,6 @@
 ---
 name: verschaerfte-haftung-819-bgb-bei-bosglaeubigkeit
-description: "Verschaerfte Bereicherungshaftung nach § 819 BGB bei Boesglaeuigkeit oder Rechtshaengigkeit pruefen. Normen: §§ 819 818 Abs. 4 BGB. Pruefraster: Kenntnis des Mangels, Zeitpunkt, Umfang verschaerfte Haftung, Rechtshaengigkeitswirkung. Output: Pruefergebnis verschaerfte Haftung mit Berechnungshinweis. Abgrenzung: nicht gutglaeubiger Entreicherungsschutz § 818 Abs. 3 BGB."
+description: "Verschaerfte Bereicherungshaftung nach § 819 BGB bei Boesglaeuigkeit oder Rechtshaengigkeit prüfen. Normen: §§ 819 818 Abs. 4 BGB. Prüfraster: Kenntnis des Mangels, Zeitpunkt, Umfang verschaerfte Haftung, Rechtshaengigkeitswirkung. Output: Prüfergebnis verschaerfte Haftung mit Berechnungshinweis. Abgrenzung: nicht gutgläubiger Entreicherungsschutz § 818 Abs. 3 BGB."
 ---
 
 # Verschärfte Haftung — § 819 BGB bei Bösgläubigkeit
@@ -63,7 +63,6 @@ Ab Zustellung der Klageschrift: dieselben verschärften Regeln, unabhängig von 
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-
 1. Wann Kenntnis vom Mangel des Rechtsgrundes (§ 819 Abs. 1)?
 2. Gesetz-/Sittenverstoß beim Empfänger (§ 819 Abs. 2)?
 3. Wann Zustellung Klageschrift (Rechtshängigkeit § 818 Abs. 4)?
@@ -100,7 +99,6 @@ Sachverhalt (kurz): [...]
 **Ergebnis:** Verschärfte Haftung nach § 819 BGB ab [...]. Anspruch in Höhe von [...] EUR.
 
 ---
-
 
 --- vor Versand klaeren ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]

@@ -1,6 +1,6 @@
 ---
 name: iv-tabelle-pruefungstermin
-description: "Insolvenztabelle konsolidieren und Pruefungstermin nach §§ 175 ff. InsO vorbereiten. §§ 175 176 177 InsO Tabellenfuehrung und Widersprueche. Pruefraster: Tabellenbereinigung Doubletten Rang Zinsen Widersprueche nach Grund Betrag Rang Terminmappe. Output: Terminmappe Widerspruchserklaerungen Feststellungsantrag. Abgrenzung: nicht fuer Forderungsanmeldungspruefung (iv-forderungsanmeldung-pruefung)."
+description: "Insolvenztabelle konsolidieren und Prüfungstermin nach §§ 175 ff. InsO vorbereiten. §§ 175 176 177 InsO Tabellenführung und Widersprueche. Prüfraster: Tabellenbereinigung Doubletten Rang Zinsen Widersprueche nach Grund Betrag Rang Terminmappe. Output: Terminmappe Widerspruchserklärungen Feststellungsantrag. Abgrenzung: nicht für Forderungsanmeldungsprüfung (iv-forderungsanmeldung-prüfung)."
 ---
 
 # Tabelle und Prüfungstermin
@@ -57,7 +57,6 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 
 - §§ 175 bis 180 InsO
 - § 176 InsO
-
 
 ## Rechtliche Grundlagen und BGH-Leitentscheidungen
 

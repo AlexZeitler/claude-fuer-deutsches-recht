@@ -1,6 +1,6 @@
 ---
 name: ki-governance-kaltstart-interview
-description: "KI-Governance-Plugin erstmalig einrichten oder Inventar der KI-Systeme im Unternehmen erfassen und AI-Act-Anwendungsbereich pruefen. Fuehrt Erstgespraech durch ermittelt KI-Inventar Rolle im KI-Lieferkette (Anbieter/Betreiber Art. 3 KI-VO 2024/1689) regulatorischen Anwendungsbereich. Normen EU-KI-VO 2024/1689 Art. 3 Rolle Art. 6 Risikoklasse Hochrisiko-KI Anhang III. Output Praxisprofil in Konfiguration mit KI-Inventar Rollenklassifizierung und Governance-Framework. Abgrenzung: ki-governance-anpassen fuer spaetere Einzelaenderungen ki-inventar fuer laufende Inventar-Pflege."
+description: "KI-Governance-Plugin erstmalig einrichten oder Inventar der KI-Systeme im Unternehmen erfassen und AI-Act-Anwendungsbereich prüfen. Führt Erstgespraech durch ermittelt KI-Inventar Rolle im KI-Lieferkette (Anbieter/Betreiber Art. 3 KI-VO 2024/1689) regulatorischen Anwendungsbereich. Normen EU-KI-VO 2024/1689 Art. 3 Rolle Art. 6 Risikoklasse Hochrisiko-KI Anhang III. Output Praxisprofil in Konfiguration mit KI-Inventar Rollenklassifizierung und Governance-Framework. Abgrenzung: ki-governance-anpassen für spaetere Einzelaenderungen ki-inventar für laufende Inventar-Pflege."
 ---
 
 # Erstgespräch KI-Governance
@@ -110,7 +110,7 @@ systeme sehr großer Plattformen); Sektoren (BaFin MaRisk, MDR/IVDR);
 
 **Schritt 5 — Anwendungsfall-Register und Rote Linien**
 
-Szenarien für Betreiber: Bewerbungs-Screening (Hochrisiko Anhang III Nr. 2),
+Szenarien für Betreiber: Bewerbungs-Screening (Hochrisiko nach Art. 6 Abs. 2 i. V. m. Anhang III Nr. 4 lit. a),
 HR-Zusammenfassungen, Kundendienst-Entwürfe, Spesen-Anomalieerkennung.
 Rote-Linien-Frage: „Was wäre automatisch Nein?" Verbotene Praktiken
 nach Art. 5 KI-VO als Ausgangspunkt (Social Scoring, subliminale

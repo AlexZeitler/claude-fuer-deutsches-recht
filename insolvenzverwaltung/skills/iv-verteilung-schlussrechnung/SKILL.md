@@ -1,6 +1,6 @@
 ---
 name: iv-verteilung-schlussrechnung
-description: "Abschlussphase des Insolvenzverfahrens durchfuehren: Schlussrechnung Schlussbericht Verteilungsverzeichnis Quote Nachtragsverteilung. §§ 196 197 InsO Schlussverteilung §§ 66 67 InsO Schlussrechnung. Pruefraster: Abschlussreife Massekonto Kosten Vergutung Rangklassen Quote Nachtragsrisiken. Output: Schlussrechnung Schlussbericht Verteilungsverzeichnis. Abgrenzung: nicht fuer laufende Berichte (iv-berichte-gericht-glaeubiger)."
+description: "Abschlussphase des Insolvenzverfahrens durchführen: Schlussrechnung Schlussbericht Verteilungsverzeichnis Quote Nachtragsverteilung. §§ 196 197 InsO Schlussverteilung §§ 66 67 InsO Schlussrechnung. Prüfraster: Abschlussreife Massekonto Kosten Vergutung Rangklassen Quote Nachtragsrisiken. Output: Schlussrechnung Schlussbericht Verteilungsverzeichnis. Abgrenzung: nicht für laufende Berichte (iv-berichte-gericht-gläubiger)."
 ---
 
 # Schlussbericht, Schlussrechnung und Verteilung
@@ -57,7 +57,6 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 
 - §§ 187 ff. InsO
 - §§ 196 ff. InsO
-
 
 ## Rechtliche Grundlagen und BGH-Leitentscheidungen
 

@@ -93,7 +93,7 @@ Phase E — Laufender Betrieb und Konflikt-Mass nahmen
      Schlichtung durch Beirat
 ```
 
-## Enthaltene Skills (36)
+## Enthaltene Skills (37)
 
 ### Phase 0 — Intake und Rechtsformwahl (5 Skills)
 
@@ -223,7 +223,7 @@ Berücksichtigt:
 - **TraFinG** (2021) — Transparenzregister als Vollregister
 - **GwG**-Novellen — wirtschaftlich Berechtigter, Bußgeld bis 150.000 EUR
 - **BGH Kali+Salz** (BGHZ 71, 40) — Bezugsrechtsausschluss-Linie
-- **BGH Macrotron** (BGH NJW 2005, 985) — Bezugsrecht-Schutz
+- **BGH Kali+Salz** (BGHZ 71, 40) — sachliche Rechtfertigung und Verhältnismäßigkeit beim Bezugsrechtsausschluss
 - **BGH NJW 2007, 917 / 2018, 1233** — Treuepflicht in Kapitalgesellschaften
 
 ## Tipps für die Bearbeitung
