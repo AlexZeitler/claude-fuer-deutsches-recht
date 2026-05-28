@@ -70,7 +70,7 @@ Beim Erwerbstaetigenbonus: jeweils ein Siebtel des eigenen Erwerbseinkommens ble
 
 ### Bedarfsdeckung
 
-- Eheliche Lebensverhältnisse als Maßstab (BGH XII ZR 138/06).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Eigeneinkommen anrechnen.
 - Wohnvorteil bewerten.
 
@@ -94,7 +94,7 @@ Beim Erwerbstaetigenbonus: jeweils ein Siebtel des eigenen Erwerbseinkommens ble
 ### Erwerbsobliegenheit
 
 - Nach Trennungsphase Erwerbsobliegenheit prüfen
-- Fiktives Einkommen bei Verletzung (BGH XII ZR 113/04)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Auskunftsanspruch § 1605 BGB
 

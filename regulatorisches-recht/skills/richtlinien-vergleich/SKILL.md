@@ -90,8 +90,8 @@ Einschlägige Normen und Verlautbarungen:
 - DORA Art. 5 ff. (EU) 2022/2554 (ICT Risk Management)
 - § 25a KWG (Ordnungsgemäße Geschäftsorganisation)
 
-Kommentarliteratur:
-- Boos/Fischer/Schulte-Mattler, KWG, 5. Aufl. 2016, § 25a Rn. 44 ff. (Risikomanagementsystem).
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 
 ## Ausgabeformat
 
@@ -134,9 +134,8 @@ Kommentarliteratur:
 - **Proportionalitätsgrundsatz:** Nicht jede Norm gilt für jede Institutsgröße gleich (§ 25a Abs. 1 S. 3 KWG). Adressatenkreis prüfen und im Diff ausweisen.
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- EuGH, Urt. v. 03.12.2020 — C-62/19, NJW 2021, 540 — Richtlinien-Vergleich bei Umsetzungsrecht; nationales Recht muss mit konsolidierter Richtlinien-Fassung verglichen werden; Verweis auf veraltete Richtlinien-Fassung ist Fehler
-- BVerwG, Urt. v. 22.09.2021 — 9 C 3.20, NVwZ 2022, 86 — Richtlinien-Vergleich als Grundlage fuer EU-Normenprüfung; Abweichungen zwischen nationaler Umsetzung und RL-Anforderung muessen begruendet werden
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kernnormen:** Art. 288 AEUV — §§ 133, 157 BGB — § 47 GGO (Ressortabstimmung Richtlinien-Vergleich)
 
-**Kommentarliteratur:** Calliess/Ruffert, EUV/AEUV, 6. Aufl. 2022, Art. 288 Rn. 1 ff. (Richtlinien-Systematik)
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.

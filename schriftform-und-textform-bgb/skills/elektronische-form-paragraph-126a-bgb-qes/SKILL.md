@@ -1,6 +1,6 @@
 ---
 name: elektronische-form-paragraph-126a-bgb-qes
-description: "Mandant möchte einen Vertrag oder eine Willenserklärung elektronisch unterzeichnen und fragt, ob qES, beA oder gerichtliche Zustellung die Schriftform ersetzen. Prüft § 126a BGB, eIDAS, Zugang nach § 130 BGB, BGH VIII ZR 155/23 und VIII ZR 159/23, § 130e ZPO sowie § 46h ArbGG."
+description: "Workflow-Skill zu elektronische form paragraph 126a bgb qes. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Elektronische Form § 126a BGB — Qualifizierte elektronische Signatur
@@ -20,7 +20,7 @@ description: "Mandant möchte einen Vertrag oder eine Willenserklärung elektron
 
 ## Grundsatz
 
-Die qES ist der direkte elektronische Schriftformersatz. Sie ersetzt nicht nur die Unterschrift optisch, sondern erfüllt die Identitäts-, Abschluss- und Echtheitsfunktion der Schriftform digital. Eine einfache Signatur, eine fortgeschrittene Signatur ohne qualifiziertes Zertifikat, ein Scan der Unterschrift oder die sichere beA-Übermittlung allein genügen dafür nicht.
+Die qES ist der direkte elektronische Schriftformersatz. Sie ersetzt keine bereitgestellten Lehrmaterialien und keine verifizierte Quellenarbeit.
 
 ## Abgrenzung beA, qES und Formfiktion
 

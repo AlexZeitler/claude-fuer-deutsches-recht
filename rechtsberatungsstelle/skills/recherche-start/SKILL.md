@@ -1,6 +1,6 @@
 ---
 name: recherche-start
-description: "Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechungsbereiche, Kommentarliteratur, Suchbegriffe für juris/beck-online/dejure. Hinweise und Rahmen, KEINE geprüften Belege; Studierende recherchieren und verifizieren eigenständig. Lädt, wenn ein Studierender fragt, wo er mit einer Recherche anfangen soll, einen Fahrplan für eine Rechtsfrage benötigt oder Lücken in bestehender Recherche identifizieren möchte."
+description: "Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechungsbereiche, verifizierbare Quellen, Suchbegriffe für amtliche/freie Quellen oder lizenzierte Datenbanken/dejure. Hinweise und Rahmen, KEINE geprüften Belege; Studierende recherchieren und verifizieren eigenständig. Lädt, wenn ein Studierender fragt, wo er mit einer Recherche anfangen soll, einen Fahrplan für eine Rechtsfrage benötigt oder Lücken in bestehender Recherche identifizieren möchte."
 ---
 
 # Recherchefahrplan: Orientierung, keine Recherche
@@ -9,7 +9,7 @@ description: "Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, 
 
 Juristische Recherche ist ein Kernbestandteil der klinischen Ausbildung. Die Initialphase — die richtige Norm finden, den Rahmen verstehen, den Einstieg schaffen — ist jedoch oft die zeitintensivste und bildungsmäßig geringwertigste Phase. Studierende verbringen Stunden damit, den Startpunkt zu finden, bevor sie eigentlich forschen können.
 
-Diese Skill liefert den Startpunkt: Normen zum Nachschlagen, Rechtsprechungsbereiche zum Untersuchen, Suchbegriffe für juris, beck-online und dejure. **Nichts davon ist verifiziert. Nichts davon ist zitierfähig. Alles ist ein Hinweis, dem der Studierende nachgehen muss.**
+Diese Skill liefert den Startpunkt: Normen zum Nachschlagen, Rechtsprechungsbereiche zum Untersuchen, Suchbegriffe für amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang und dejure. **Nichts davon ist verifiziert. Nichts davon ist zitierfähig. Alles ist ein Hinweis, dem der Studierende nachgehen muss.**
 
 **Dies ist eine pädagogische Absicherung, keine bloße Zeitersparnis.** Studierende lernen weiterhin zu recherchieren — sie beginnen nur von einem besseren Ausgangspunkt.
 
@@ -30,16 +30,10 @@ Diese Skill liefert den Startpunkt: Normen zum Nachschlagen, Rechtsprechungsbere
 
 ### Leitentscheidungen zur Recherchemethodik (exemplarisch)
 
-- BGH, Beschl. v. 18.09.2018 – II ZR 152/17, NJW-RR 2018, 1266 Rn. 5 — Aktualitätspflicht bei Rechtsanwendung; veraltete Normen oder überschriebene Rspr. begründen Haftung.
-- BGH, Urt. v. 08.05.2012 – VI ZR 217/08, NJW 2012, 2187 Rn. 12 — Pflicht zur vollständigen Rechtsrecherche; Vernachlässigung höchstrichterlicher Rspr. als Pflichtverstoß.
-- BVerfG, Beschl. v. 19.12.2012 – 1 BvR 3006/11, NJW 2013, 523 — Pflicht zur Berücksichtigung verfassungskonformer Auslegung; nur bei gründlicher Normenrecherche erkennbar.
-### Kommentarliteratur zur Orientierung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+### Quellenregel
 
-- Larenz/Wolf, Allgemeiner Teil des Bürgerlichen Rechts, 9. Aufl. 2004 — klassisches Lehrbuch zur Gutachtenmethode und Normanwendung.
-- Rüthers/Fischer/Birk, Rechtstheorie, 12. Aufl. 2022 — Methodik der Normauslegung; Auslegungskanon.
-- BeckOK BGB (aktuelle Ed.) — Einstiegspunkt für BGB-Normen; immer auf aktuellen Bearbeitungsstand achten.
-- Sodan/Ziekow, VwGO, 5. Aufl. 2023, Einleitung — Systematik des Verwaltungsprozessrechts; Einstieg für verwaltungsrechtliche Fragen.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Schritt 0: Klinik-Vorlagendokumente zuerst lesen
@@ -79,8 +73,8 @@ Nicht Entscheidungen — Bereiche. Die Entscheidungen findet der Studierende sel
 **Kommentare und Sekundärquellen:**
 
 > **Kommentare (zum Einstieg, nicht als Quelle zitieren):**
-> - Niemann, in: ErfK (begr. Müller-Glöge/Preis/Schmidt), 25. Aufl. 2025, § 626 BGB Rn. 1 — Außerordentliche Kündigung; Prüfungsschema
-> - Henssler, in: BeckOK BGB, 70. Ed. (Stand 01.08.2024), § 626 Rn. 1 — Überblick und Rspr.-Nachweise
+> - Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
+> - Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 > - Praxishandbuch Arbeitsrecht (beck-online) — Einstieg für typische Fallkonstellationen
 
 **Suchbegriffe:**
@@ -185,7 +179,7 @@ Fahrplan enthält:
 ## Risiken und typische Fehler
 
 - **Fahrplan-Hinweise als fertige Belege behandeln:** Die häufigste Fehlerquelle. Normen und Rspr.-Bereiche müssen in den Datenbanken nachgeschlagen, auf Aktualität geprüft und korrekt zitiert werden.
-- **Nur eine Datenbank nutzen:** Verschiedene Datenbanken decken unterschiedliche Quellen ab. juris und beck-online ergänzen sich; dejure eignet sich für schnelle Normensuche.
+- **Nur eine Datenbank nutzen:** Verschiedene Datenbanken decken unterschiedliche Quellen ab. amtliche/freie Quellen oder lizenzierte Datenbanken ergänzen sich; dejure eignet sich für schnelle Normensuche.
 - **Keine Zitieranalyse:** Eine Entscheidung, die in einer neueren höchstrichterlichen Entscheidung eingeschränkt wurde, kann nicht mehr als Beleg verwendet werden. Zitieranalyse in juris (Rubrik "Rechtsprechung zu diesem Urteil") ist Pflicht.
 - **Lücke schweigend überbrücken:** Wenn eine Suchanfrage wenige Treffer ergibt, nicht durch Modellwissen ergänzen. Den Supervisor informieren und auf eine verlässlichere Quelle warten.
 
@@ -198,6 +192,6 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 ---
 
 <!-- AUDIT 27.05.2026
-Geprueft: BGH IX ZR 294/17
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Befund: GELOESCHT. AZ falsch: existiert als VI ZR 294/17 (24.07.2018), nicht IX ZR 294/17. Echter Senat VI ZR; echtes Thema Arzthaftung/CTG-Geraet bei Geburtsvorgang — kein Bezug zu anwaltlicher Sorgfaltspflicht bei Rechtsrecherche. Quelle: dejure.org/2018,38167. Ersatz: kein passender Beleg gefunden; Zeile entfernt.
 -->

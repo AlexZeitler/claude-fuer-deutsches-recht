@@ -73,10 +73,10 @@ Bewertung: [korrekt / zu eng / zu weit]
 
 ## Leitentscheidungen Raeumlicher Markt
 
-- EuGH, Urt. v. 14.02.1978 — Rs. 27/76 (United Brands), Slg. 1978, 207 — Raeumlicher Markt Gemeinschaft minus einige Mitgliedstaaten; nationale Preisdifferenzen massgeblich.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EK, Marktdefinitionsbekanntmachung 2024 Rn. 70-90 — Raeumliche Abgrenzung Methodik; Preiskorrelation, Handelsstroeome, regulatorische Grenzen.
-- BGH, Urt. v. 19.01.2021 — KZR 10/19, NZKart 2021, 287 — Nationaler Marktbezug BKartA-Zustaendigkeit; EWR-weiter Markt Kommission.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bechtold/Bosch GWB § 18 Rn. 25-45 (Raeumlicher Markt, nationale vs. europaeische Zustaendigkeit)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

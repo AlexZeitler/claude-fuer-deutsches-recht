@@ -42,10 +42,7 @@ Nach abgeschlossener Anonymisierung ist das Dokument von einer zweiten Person au
 Automatisierungs-Tools für die Anonymisierung entwickeln sich rasch weiter. Die Kanzlei sollte halbjährlich prüfen, ob neue oder verbesserte Tools zur Verfügung stehen. Ebenso sind neue Datenschutzbehörden-Empfehlungen zur Anonymisierung zu beachten.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- EuGH, Urt. v. 07.05.2009 — C-553/07 (Rijkeboer), NJW 2009, 2013 Rn. 26: Anonymisierung ist nur wirksam, wenn keine vernuenftigerweise in Betracht kommenden Mittel der Re-Identifikation bestehen (Erwaegungs-Grundsatz 26 DSGVO).
-- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 70: Pseudonymisierte Daten bleiben personenbezogene Daten, wenn der Schluessell noch existiert — massgeblich fuer Kanzlei-KI-Einsatz.
-- BGH, Urt. v. 21.04.2022 — I ZR 135/20, NJW 2022, 2555 Rn. 28: Kein ausreichender Geheimnisschutz ohne Re-Identifikationsrisikotest — massgeblich fuer § 43a Abs. 2 BRAO.
-- BVerfG, Beschl. v. 06.11.2019 — 1 BvR 16/13, NJW 2020, 300 Rn. 30: Informationelle Selbstbestimmung erfordert Schutz auch gegen technisch moegliche Re-Identifikation.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 4 Nr. 1 DSGVO — Begriff personenbezogene Daten

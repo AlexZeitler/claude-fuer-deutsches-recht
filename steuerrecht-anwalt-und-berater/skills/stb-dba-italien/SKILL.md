@@ -30,7 +30,7 @@ Das DBA-Italien vom 18.10.1989 ist eines der wichtigsten Wirtschaftsabkommen Deu
 - **MLI**: Deutschland Unterzeichner und ratifiziert; Italien hat das BEPS-MLI bislang nicht ratifiziert. DBA-Deutschland-Italien ist daher noch nicht MLI-modifiziert (Stand 01/2026). Einzelne BEPS-Massnahmen werden durch das deutsche MLI-Anwendungsgesetz (BGBl. 2024 I Nr. 196) auch auf das DBA-IT nicht angewendet.
 
 ### Leitentscheidungen und BMF-Schreiben
-- BFH I R 44/22 (I R 49/19, I R 17/16) vom 12.04.2023 zur qualifizierten Rueckfallklausel Abschn. 16 Buchst. d Protokoll DBA-Italien 1989 (Art. 24 Abs. 3 Buchst. a): bei Betriebsstaettenverlusten kein Rueckfall an Deutschland, wenn in Italien effektive Besteuerung erfolgt ist.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Aktuelle BFH-Rechtsprechung zu Holding-Substanz und Lizenzgebuhren-Quellensteuer DBA-Italien in juris abrufen.
 - BMF-Schreiben zu DBA-Italien: aktuellen Stand im BMF-DBA-Verzeichnis pruefen.
 

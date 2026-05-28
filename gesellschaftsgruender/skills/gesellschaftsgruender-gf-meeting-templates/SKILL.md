@@ -22,17 +22,11 @@ description: "Vorlagen für Geschäftsführersitzungen und Protokolle erstellen:
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 14.07.2008 - II ZR 202/07, NJW 2008, 3361 — GF muss in der konkreten Entscheidungssituation alle verfügbaren Informationsquellen ausschoepfen; BJR-Haftungsprivileg setzt sorgfaeltige Ermittlung der Entscheidungsgrundlage voraus; Protokoll dokumentiert die Informationsbasis.
-- BGH, Urt. v. 21.04.1997 - II ZR 175/95, BGHZ 135, 244 (ARAG/Garmenbeck) — Aufsichtsrat muss eigenverantwortlich prüfen, ob Ersatzansprüche gegen Vorstandsmitglieder zu verfolgen sind; Beirat/Aufsichtsorgan darf kritische Berichte nicht ungeprüft durchwinken.
-- BGH, Urt. v. 15.01.2013 - II ZR 90/11, NZG 2013, 428 — GmbH-GF-Beschluss per E-Mail / Umlaufverfahren: zulässig, wenn alle GF zustimmen; bei Widerspruch auch eines GF: kein wirksamer Beschluss.
-- OLG Hamburg, Urt. v. 14.01.2015 - 11 U 71/14, GmbHR 2015, 362 — Protokoll als Beweismittel: lückenhaftes oder nachträglich geändertes Protokoll begründet Zweifel an der Ordnungsgemäßheit des Beschlusses; GF trägt Beweislast.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Scholz/Crezelius, GmbHG, § 43 Rn. 10-25 (Sorgfaltspflicht, Haftungsschutz durch Dokumentation)
-- Lutter/Hommelhoff, GmbHG, § 48 Rn. 1-20 (Umlaufbeschluss, Beschlussfähigkeit)
-- Baumbach/Hueck, GmbHG, § 35 Rn. 1-15 (Vertretung, Entscheidungsprozess GF)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Meeting-Typen und Rhythmus
 
 | Meeting-Typ | Rhythmus | Teilnehmer | Zweck |
@@ -187,8 +181,7 @@ Datum, Ort: __________ Unterschriften: __________
 ## Quellen und Vertiefung
 
 - §§ 35, 43, 48, 51 GmbHG (GF-Pflichten, Beschlussfähigkeit, Einberufung)
-- BGH II ZR 202/07, NJW 2008, 3361 (BJR Informationspflicht GF)
-- BGH II ZR 90/11, NZG 2013, 428 (Umlaufbeschluss)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Scholz/Crezelius, GmbHG, § 43 Rn. 10-25
 
 ## Übergabe an andere Skills

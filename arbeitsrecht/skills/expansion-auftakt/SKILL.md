@@ -44,11 +44,9 @@ Auslöser: "erste Einstellung in Spanien", "Expansion nach Polen",
 
 **Leitentscheidungen:**
 
-- BAG, Urt. v. 20.09.2016 – 9 AZR 735/15, NZA 2017, 34: Abgrenzung Arbeitnehmer / freier Mitarbeiter; Indizien für Weisungsgebundenheit und Eingliederung; wirtschaftliche Abhängigkeit als Scheinkriterium
-- BAG, Urt. v. 02.06.2010 – 7 AZR 946/08, NZA 2010, 1289 Rn. 18 ff.: Rechtsfolgen fehlender AÜG-Erlaubnis — Zustandekommen eines Arbeitsverhältnisses zum Entleiher kraft Gesetzes (§ 10 Abs. 1 AÜG a.F.)
-- BSG, Urt. v. 29.03.2022 – B 12 KR 2/20 R, NZA 2022, 1254: Statusfeststellung nach § 7a SGB IV bei divergierenden Merkmalen — Gesamtbetrachtung der tatsächlichen Durchführung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-**Kommentarliteratur:**
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 - Erfurter Kommentar/Wank, 24. Aufl. 2024, § 611a BGB Rn. 1 ff.: Arbeitnehmerbegriff, Weisungsgebundenheit als zentrales Merkmal
 - Schüren/Hamann, AÜG, 5. Aufl. 2022, § 1 Rn. 50 ff.: Erlaubnispflicht und Folgen unerlaubter Arbeitnehmerüberlassung
@@ -162,8 +160,7 @@ Jede Ausgabe dieser Skill muss bei Structural-Empfehlungen zitieren:
 
 - § 7 SGB IV (Scheinselbständigkeit), §§ 1, 8, 10 AÜG
 - Art. 8 Rom I-VO bei grenzüberschreitenden Konstellationen
-- Ggf. BAG, Urt. v. 20.09.2016 – 9 AZR 735/15 (Arbeitnehmereigenschaft)
-- Ggf. BSG, Urt. v. 29.03.2022 – B 12 KR 2/20 R (Statusfeststellung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Schüren/Hamann, AÜG, 5. Aufl. 2022, wenn AÜG-Erlaubnis relevant ist
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

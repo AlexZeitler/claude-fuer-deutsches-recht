@@ -40,17 +40,14 @@ Bei formeller Erfindungsmeldung (IDF oder Unternehmensformular): Felder daraus e
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 11.02.2014 – X ZR 107/12, GRUR 2014, 647 (Bildunterschrift II) — Neuheitsschädlichkeit von Internetpublikationen; maßgeblicher Zeitpunkt der öffentlichen Zugänglichkeit
-- BGH, Urt. v. 26.10.2010 – X ZR 47/07, GRUR 2011, 129 (Lernspiele) — Abgrenzung technische Lehre / abstrakte Idee; Anforderungen an den technischen Charakter
-- BGH, Urt. v. 17.10.2001 – X ZR 58/99, BGHZ 149, 68 (Luftverteiler) — Arbeitnehmererfindung: Abgrenzung Dienst- und freie Erfindung; Meldepflicht nach § 5 ArbnErfG
-- BGH, Urt. v. 16.04.2002 – X ZR 127/99, GRUR 2002, 801 (Abgestuftes Getriebe) — Berechnung der Arbeitnehmererfindervergütung; Anteilsfaktor
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Kommentare
 
 - Benkard/Melullis, PatG, 12. Aufl. 2023, § 3 Rn. 1 ff. (Neuheitsbegriff, Stand der Technik)
 - Bartenbach/Volz, ArbnErfG, 6. Aufl. 2019, § 5 Rn. 1 ff. (Meldepflicht und Form) und § 9 Rn. 1 ff. (Vergütung)
 - Mes, PatG/GebrMG, 5. Aufl. 2020, § 1 Rn. 20 ff. (technischer Charakter, Software- und KI-Erfindungen)
-- BeckOK PatR/Bremi, 30. Ed. (Stand 01.01.2025), Art. 56 EPÜ Rn. 10 ff. (Aufgabe-Lösungs-Ansatz EPA)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Ablauf
 
@@ -250,9 +247,9 @@ Bevor die Erfindung aufgenommen und bewertet wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 16.04.2013 — X ZR 49/12 (Fahrzeuggetriebesteuerung):** Eine erfinderische Taetigkeit liegt vor, wenn der Fachmann ausgehend vom naechstliegenden Stand der Technik nicht in naheliegender Weise zur beanspruchten Loesung gelangt waere; die Aufgabe-Loesung-Methode (Problem-and-Solution-Approach) des EPA ist auch vor deutschen Gerichten anerkannt.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Urt. v. 26.10.2004 — X ZR 94/01 (Keks-Form):** Fuer die Neuheitspruefung nach § 3 PatG ist jedes Merkmal des Anspruchs einzeln mit dem Stand der Technik zu vergleichen; eine Kombination von Merkmalen ist neu, wenn sie als Kombination nicht in einer einzigen Entgegenhaltung offenbart ist.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026
 Task: Bundle 031 / Halluzinations-Reparatur

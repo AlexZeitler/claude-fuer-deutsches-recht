@@ -62,10 +62,7 @@ Kläre vor Antragstellung:
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- BVerwG, Urt. v. 23.10.2007 - 3 C 33.06, BVerwGE 129, 367 — Kein Rechtsanspruch auf Erteilung einer Einzelausfuhrgenehmigung; BAFA-Ermessen umfasst Sicherheitspolitik, Endverwendungsrisiken und Partnerstaaten-Verpflichtungen.
-- VG Frankfurt, Urt. v. 08.11.2012 - 5 K 978/11 — Antragsteller muss alle der BAFA bekannten Informationen vollstaendig offen-legen; Fehlinformationen im Antrag fuehren zu Widerruf und ggf. Strafbarkeit.
-- EuGH, Urt. v. 17.06.2010 - C-376/08 (Saman) — Unmittelbare Geltung der Dual-Use-VO; keine nationalen Ausnahmen von Genehmigungspflichten.
-- BVerwG, Beschl. v. 10.04.2008 - 20 F 1.07, BVerwGE 131, 41 — Geheimhaltung sicherheitsrelevanter Ablehungsgrunde nach § 99 VwGO; Klager kann beigeladene BAFA-Akten nur bedingt einsehen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette BAFA-Genehmigungen
 
@@ -75,11 +72,9 @@ Kläre vor Antragstellung:
 - Allgemeine Genehmigungen EU001-EU008 — abgestufte Erleichterungen
 - AWV Anlage AL — Ausfuhrliste nationale Guterlistenpositionen
 
-## Kommentarliteratur
+## Quellenregel
 
-- BAFA, Merkblaetter Exportkontrolle (bafa.de) — offizielle Verfahrenshinweise
-- Bieneck, Handbuch Aussenwirtschaftsrecht, Kap. BAFA-Genehmigungsrecht
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: BAFA-Genehmigungsantrag-Checkliste
 
 **Adressat:** Exportkontroll-Abteilung — **Tonfall:** verfahrenstechnisch, vollstaendigkeitsfokussiert

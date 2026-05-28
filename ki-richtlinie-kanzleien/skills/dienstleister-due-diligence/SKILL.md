@@ -58,9 +58,7 @@ Die sorgfältige Auswahl des KI-Dienstleisters ist eine zentrale berufsrechtlich
 Die Zertifizierungen und die EU-US-Datenschutzrahmen sind regelmäßig auf Aktualität zu prüfen. Datenschutzbehörden-Entscheidungen zu einzelnen KI-Anbietern (z.B. Untersagungen durch DPAs) sind zu beobachten. Jährliche Neubeurteilung des eingesetzten Dienstleisters empfohlen.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 87: Due Diligence bei US-Anbietern erfordert Transfer Impact Assessment; EU-Sitz-Anforderung nicht absolut.
-- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 55: Sorgfaltspflicht bei KI-Dienstleister-Auswahl — Verantwortlicher bleibt fuer Entscheidungslogik haftbar.
-- BGH, Urt. v. 17.05.2018 — VII ZR 157/17, NJW 2018, 2412 Rn. 18: AGB-Kontrolle von Haftungsausschluessen bei komplexen IT-Systemen; Dienstleister-Due-Diligence muss Haftungsklauseln pruefen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 28 Abs. 1 DSGVO — hinreichende Garantien des Auftragsverarbeiters

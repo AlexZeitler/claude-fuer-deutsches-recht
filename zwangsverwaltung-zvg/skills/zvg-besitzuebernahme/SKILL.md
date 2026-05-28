@@ -60,19 +60,15 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 25.09.2008 - IX ZB 205/06, NZI 2009, 55 Rn. 19 — Der Zwangsverwalter erlangt den Besitz an dem Objekt durch die Besitzeinweisung des Gerichts; ab diesem Zeitpunkt hat er alle Nutzungen einzuziehen und Ausgaben zu bestreiten; eine Verzögerung der Besitzerlangung geht zu seinen Lasten.
-- BGH, Beschl. v. 14.12.2000 - IX ZB 47/00, NJW 2001, 1503 — Verweigert der Schuldner die Übergabe, kann das Vollstreckungsgericht auf Antrag des Zwangsverwalters die gewaltsame Inbesitznahme anordnen; eigenmächtiges Vorgehen des Verwalters ist verboten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Besitzübernahme
 
 § 150 ZVG (Besitzeinweisung durch Gericht) → § 152 ZVG (Rechte und Pflichten ab Besitzerlangung) → § 3 ZwVwV (Besitzerlangung und Bericht) → § 858 BGB (verbotene Eigenmacht) → § 869 BGB (Besitzschutz Zwangsverwalter) → § 154 ZVG (Gerichtshilfe bei Verweigerung)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Stöber ZVG 22. Aufl., § 150 Rn. 10-30 (Besitzeinweisung)
-- Böttcher ZVG 6. Aufl., § 152 Rn. 5-20 (Besitzerlangung Pflichten)
-- Dassler/Schiffhauer/Hintzen/Engels ZVG 15. Aufl., § 150 Rn. 15-40 (Praktische Durchführung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage Besitzübernahme
 
 1. Liegt die Bestallungsurkunde des Gerichts vor? (Legitimation für Vor-Ort-Termin)

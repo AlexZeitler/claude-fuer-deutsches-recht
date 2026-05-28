@@ -9,7 +9,7 @@ Das sogenannte "Halluzinieren" von KI-Systemen — die Erzeugung von nicht exist
 
 ## Rechtlicher Hintergrund
 
-§ 43 Satz 1 BRAO: Gewissenhaftigkeit — schließt die kritische Prüfung aller KI-Ergebnisse ein (BRAK-Hinweise 12/2024, S. 2). § 138 Abs. 1 ZPO: Wahrheitspflicht zu Tatsachenbehauptungen. § 263 StGB: Betrug / Prozessbetrug — Risiko bei bewusster oder grob fahrlässiger Vorlage falscher Fundstellen; OLG Koblenz, NJW 2001, 1364: falsche Rechtsbehauptungen allein begründen in der Regel keinen Prozessbetrug, da Gerichte zur eigenverantwortlichen Rechtsprüfung verpflichtet sind (iura novit curia) — entbindet aber nicht von der Sorgfaltspflicht. AG Köln, Beschluss vom 02.07.2025 — 312 F 130/25: Gericht monierte Liste erfundener Zitate aus KI-Output in einem familienrechtlichen Verfahren. DAV-Stellungnahme 32/2025: Halluzinationsrisiko als berufsrechtlich relevantes Thema; Belegstellen vollständig zu prüfen, auch ohne konkreten Anlass.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -65,10 +65,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 Gerichtliche Entscheidungen zum Umgang mit KI-generierten Fundstellen (insbesondere Entscheidungen zum Prozessbetrug oder zur anwaltlichen Haftung) sind laufend zu beobachten und in die Schulungsunterlagen aufzunehmen. BRAK und DAV werden ihre Stellungnahmen weiterentwickeln.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- OLG Koblenz, Urt. v. 16.06.2023 — 6 U 1292/22, NJW-RR 2023, 1105 Rn. 22: Rechtsanwalt haftet bei unkritischer Uebernahme unzuverlaessiger Informationen aus KI-Output ohne Pruefung — Sorgfaltspflichtverletzung gemaess § 43 BRAO.
-- BGH, Urt. v. 05.12.2002 — III ZR 251/01, NJW 2003, 826 Rn. 18: Haftung des Anwalts bei mangelhafter Beratung — Grundsatz gilt auch fuer KI-generierte Inhalte.
-- LG Frankfurt, Urt. v. 02.07.2025 — 3-6 O 15/25 (AG Koeln-Linie): Prozessbetrug bei wissentlicher Verwendung halluzinierter Fundstellen im Schriftsatz; § 263 StGB kommt in Betracht.
-- BGH, Urt. v. 21.04.2022 — I ZR 135/20, NJW 2022, 2555 Rn. 28: Sorgfaltspflichtverletzung bei technisch generierten Inhalten ohne Verifikation.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - § 43 BRAO — Gewissenhafte Berufsausuebung (Sorgfaltspflicht)

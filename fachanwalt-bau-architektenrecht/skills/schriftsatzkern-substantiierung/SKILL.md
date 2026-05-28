@@ -196,19 +196,15 @@ Vor Versand:
 
 ## Aktuelle Rechtsprechung Bau-/Architektenrecht
 
-- BGH, Urt. v. 22.02.2018 - VII ZR 46/17, NJW 2018, 1537 Rn. 24 — Für die Substantiierung eines Mangels im Bauprozess genügt es, wenn der Auftraggeber Art und Ausmaß des Mangels schildert; er muss nicht die Ursache des Mangels darlegen — das ist Aufgabe des Sachverständigen.
-- BGH, Urt. v. 23.10.2008 - VII ZR 64/07, BGHZ 178, 267 Rn. 19 — Der Vortrag des Mangels muss so konkret sein, dass die Gegenseite darauf erwidern kann; bloße Verweise auf Gutachten ohne Wiedergabe der wesentlichen Inhalte im Schriftsatz reichen nicht aus.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Substantiierung Bauprozess
 
 § 631 BGB (Werkvertrag) → §§ 633-638 BGB (Mängelhaftung) → § 641 BGB (Fälligkeit) → § 650a BGB (Bauvertrag) → § 650p BGB (Architektenvertrag) → VOB/B § 13 (Mängelhaftung VOB) → VOB/B § 14 (Abrechnung) → §§ 130, 131 ZPO (Schriftsatz-Anforderungen) → § 296 ZPO (Zurückweisung verspäteten Vortrags)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Werner/Pastor Der Bauprozess 16. Aufl., Kap. 5 Rn. 1200-1250 (Substantiierung Baumangel-Klage)
-- Kniffka/Koeble Kompendium des Baurechts 5. Aufl., 5. Teil Rn. 80-120 (Werklohanklage Schlussrechnung)
-- BeckOK BGB/Voit § 631 Rn. 120-145 (Prozessführung Werkvertrag)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage vor Schriftsatzerstellung
 
 Kläre vor Beginn:

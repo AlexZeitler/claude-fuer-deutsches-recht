@@ -10,8 +10,8 @@ description: "Rechtsprechung zum Strafbefehlsverfahren recherchieren für Schrif
 1. **Was ist die Rechtsfrage?** — Zulaessigkeit des Strafbefehls? Einspruchsfrist? Tagessatz? Fahrerlaubnis? Rechtsfrage klar formulieren.
 2. **Welches Gericht ist zustaendig?** — BGH fuer grundsaetzliche Fragen; OLG fuer Revisionsentscheidungen vom AG; jeweilige Ober- und Bundesgerichte.
 3. **Zeitraum der Recherche?** — Aktuelle Rechtsprechung (letzte 5 Jahre) hat Prioritaet; aeltere BGH-Grundsatzentscheidungen bleiben aber relevant.
-4. **Datenbank verfuegbar?** — juris, beck-online, OpenJur (kostenlos), LexisNexis, Wolters Kluwer.
-5. **Schriftsatz-Anforderungen?** — Exaktes Aktenzeichen, Datum, Fundstelle (NStZ, NJW, NZV, NStZ-RR) benoetigt.
+4. **Datenbank verfuegbar?** — amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang, OpenJur (kostenlos), LexisNexis, Wolters Kluwer.
+1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen-Recherchekette
 
@@ -36,7 +36,7 @@ Querschnitt:
 
 ## Suchstrategien fuer Datenbanken
 
-**juris/beck-online:**
+**amtliche/freie Quellen oder lizenzierte Datenbanken:**
 - Normen-Suche: "§ 410 StPO" + "Einspruch" + "Frist"
 - Aktenzeichen-Suche direkt wenn vorhanden
 - Freitext: "Strafbefehl Wiedereinsetzung Verschulden"
@@ -63,7 +63,7 @@ Querschnitt:
 
 ### § 44 StPO — Wiedereinsetzung
 - BGH NStZ 2023, 184 — Gericht-Fehler bei Fristberechnung schliesst Verschulden aus
-- BVerfG NJW 2023, 1951 — Zugang zu Wiedereinsetzungsmitteln als faires Verfahren
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Strafzumessung
 - BGH NStZ 2021, 108 — Tagessatzhoehe nach tatsaechlichem Nettoeinkommen

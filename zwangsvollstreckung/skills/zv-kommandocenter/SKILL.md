@@ -15,10 +15,7 @@ description: "Gläubiger oder Anwalt hat vollstreckbaren Titel und fragt: Welche
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 10.07.2020 - V ZB 68/19, NJW 2020, 3661 — § 750 ZPO: Zustellungsnachweis ist zwingende Voraussetzung der Vollstreckung; ohne Nachweis ist Vollstreckung unzulässig.
-- BGH, Beschl. v. 05.11.2020 - I ZB 32/20, NJW 2021, 389 — § 130d ZPO: aktive Nutzungspflicht Anwälte; Vollstreckungsantrag per Papier ist formunwirksam seit 1.1.2022.
-- BGH, Beschl. v. 16.09.2021 - I ZB 14/21, NJW 2022, 234 — § 89 InsO Vollstreckungsverbot: Gläubiger der persönlichen Forderung kann nach Insolvenzeröffnung keine Einzelzwangsvollstreckung mehr betreiben.
-- BGH, Beschl. v. 26.01.2017 - I ZB 38/16, NJW 2017, 1540 — § 802l ZPO: Reihenfolge der Drittauskünfte; Gläubiger hat freie Wahl zwischen DRV, BZSt und KBA.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -29,12 +26,9 @@ description: "Gläubiger oder Anwalt hat vollstreckbaren Titel und fragt: Welche
 - § 829 ZPO — Pfändungs- und Überweisungsbeschluss (Forderungspfändung)
 - § 89 InsO — Vollstreckungsverbot nach Insolvenzeröffnung
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller/Seibel, ZPO, 35. Aufl. 2024, § 704 Rn. 1-20 (Vollstreckungstitel)
-- Thomas/Putzo, ZPO, 45. Aufl. 2024, § 750 Rn. 1-15 (Vollstreckungsvoraussetzungen)
-- MüKo-InsO/Hefermehl, 4. Aufl. 2019, § 89 Rn. 1-30 (Vollstreckungsverbot)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Aufgabe
 
 Das Kommandocenter steuert den gesamten Vollstreckungspfad: vom Erstgespräch bis zur Beendigung. Es erkennt, welcher Titel vorliegt, was vollstreckt werden soll, welche Vermögenswerte bekannt sind und welcher Folge-Skill als Nächstes geladen werden muss. Es ist der einzige Skill, der ohne Vorwissen gestartet werden kann.

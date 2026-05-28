@@ -123,7 +123,7 @@ Reine Vorbereitungs- oder Hilfstaetigkeiten begruenden keine Betriebsstaette: La
 
 - Home-Office als Betriebsstaette erfordert Verfuegungsmacht des Arbeitgebers (regelmaessig nicht, da kein Mietverhaeltnis); aktuelle Konsultationsvereinbarungen (z.B. DBA-Oesterreich Home-Office-Memo) im BMF-Verzeichnis pruefen.
 - Bei Bauausfuehrung Fristenlauf dokumentieren — Subunternehmer und Verkettungen zaehlen.
-- Server-Betriebsstaette: BFH I R 99/14 zurueckhaltend; rein technische Server in Cloud-Konstellationen meist nicht BS.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - MLI Art. 12 (Vertreterbetriebsstaette erweitert) gilt nur, wenn beide Vertragsstaaten optiert haben — Notification konkret pruefen.
 - Bei niedrig besteuerter Betriebsstaette: § 20 Abs. 2 AStG-Switch-Over droht.
 

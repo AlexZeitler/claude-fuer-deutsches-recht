@@ -29,8 +29,7 @@ Dieser Skill erstellt den notariell beurkundungspflichtigen Gesellschafterbeschl
 - § 9 GmbHG (Differenzhaftung bei Überbewertung)
 
 ### Rechtsprechung
-- BGH, Urt. v. 24. Oktober 2005 – II ZR 179/03 (Sacheinlage – Werthaltigkeit und Differenzhaftung)
-- BGH, Urt. v. 6. Dezember 2010 – II ZR 14/09 (Einbringung von Forderungen als Sacheinlage – Werthaltigkeitsnachweis)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -98,11 +97,11 @@ Stand: 05/2026. Bei Änderung GmbHG §§ 53 ff. aktualisieren.
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 15.01.2013 — **II ZR 235/11**, BGHZ 196, 195 Rn. 20: Kapitalerhöhungsbeschluss der Gesellschafterversammlung muss notariell beurkundet werden (§ 53 Abs. 2 GmbHG); der Beschluss muss die wesentlichen Eckdaten enthalten (Erhöhungsbetrag, neuer Nennbetrag, Übernahmebefugnis); Mängel in der Beurkundung führen zur Nichtigkeit des Beschlusses.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 24.10.2005 — **II ZR 179/03**, BGHZ 165, 6 Rn. 16: Bei Sachkapitalerhöhung (Wandlung Darlehen → Anteile) muss der Kapitalerhöhungsbeschluss die Sacheinlage genau bezeichnen (Forderung aus Wandeldarlehen, Betrag, Fälligkeit); fehlende oder unklare Bezeichnung führt zur Anfechtbarkeit des Beschlusses und zur Differenzhaftung.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 20.09.2011 — **II ZR 234/09**, NJW 2012, 301 Rn. 18: Bezugsrechtsverzicht der übrigen Gesellschafter kann durch ausdrückliche Erklärung in der notariellen Urkunde oder durch entsprechende Satzungsklausel erfolgen; bei Fehlen des Verzichts bleibt das Bezugsrecht der Altgesellschafter erhalten.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 

@@ -60,18 +60,15 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 
 ## Ergänzende Rechtsprechung
 
-- BGH, Beschl. v. 22.03.2007 - IX ZB 143/05, NZI 2007, 406 — Das Verhältnis von Insolvenzverwalter und Zwangsverwalter ist kollusionsfrei zu koordinieren; beide haben Auskunftspflichten gegenüber dem anderen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Insolvenzschnittstelle
 
 § 152 ZVG i.V.m. §§ 80-82 InsO (Insolvenzbeschlag) → § 30 InsO (Anordnung Insolvenzeröffnung) → § 49 InsO (Absonderungsrecht Grundpfandrecht) → § 165 InsO (Zwangsversteigerung durch Insolvenzverwalter) → § 21 Abs. 2 Nr. 5 InsO (vorläufige Sicherungsmaßnahmen)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Stöber ZVG 22. Aufl., § 152 Rn. 40-70 (Insolvenz und Zwangsverwaltung)
-- Uhlenbruck InsO 15. Aufl., § 49 Rn. 20-50 (Absonderungsberechtigte im Insolvenzverfahren)
-- Böttcher ZVG 6. Aufl., Vor § 146 Rn. 25-45 (Verhältnis zu Insolvenzverfahren)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage Insolvenzschnittstelle
 
 1. Ist Insolvenzantrag gestellt oder Insolvenzverfahren eröffnet?

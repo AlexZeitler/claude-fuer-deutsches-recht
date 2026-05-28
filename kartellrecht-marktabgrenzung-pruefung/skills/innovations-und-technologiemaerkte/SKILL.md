@@ -65,9 +65,9 @@ Technologiemarkt-Dimension: **berücksichtigt / unvollständig / ignoriert** mit
 ## Leitentscheidungen Innovations- und Technologiemaerkte
 
 - EK, Beschl. v. 04.09.2019 — COMP/M.9064 (Google/Fitbit) — Innovationsmarkt Wearables; Dynamik des Produktsatzes; Zukunftsmaerkte als Wettbewerbsfaktor.
-- EuGH, Urt. v. 21.09.2023 — C-176/19 P (Servier), ECLI:EU:C:2023:700 — Innovationswettbewerb im Pharmabereich; Wirkstoff-Patente als Marktabgrenzungsfaktor.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BKartA, Beschl. v. 01.02.2022 — B6-22/21 (Facebook/Meta) — Innovationspotenzial als Marktmacht-Faktor § 18 Abs. 3a GWB.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bechtold/Bosch GWB § 18 Rn. 15-35 (Innovationsmaerkte, Plattformen)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

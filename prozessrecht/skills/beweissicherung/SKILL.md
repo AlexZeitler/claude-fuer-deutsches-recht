@@ -32,10 +32,10 @@ Erstellung, Aktualisierung oder Aufhebung von Beweissicherungs- und Aufbewahrung
 | Lohnunterlagen (SV-relevant) | 10 Jahre | § 28f Abs. 2 SGB IV |
 
 **Prozessuale Aufbewahrungspflicht:**
-Ab Kenntnis eines konkreten Rechtsstreits oder einer ernsthaften Drohung entsteht eine Pflicht zur Beweissicherung (vgl. BGH, Urt. v. 23.10.2008 – III ZR 57/07, NJW 2009, 366 Rn. 19 – Beweisvereitelung). Eine schuldhafte Vernichtung von Beweismitteln kann nach § 444 ZPO zur Umkehr der Beweislast führen oder nach § 286 ZPO als beweiswürdigungserhebliches Indiz gewertet werden.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Konsequenzen der Beweisvereitelung:**
-- § 444 ZPO: Schuldhaftes Vernichten oder Vorenthalten von Beweismitteln kann zu Beweislastumkehr oder Beweiserleichterungen führen (BGH, Urt. v. 23.10.2008 – III ZR 57/07, NJW 2009, 366 Rn. 19).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - § 286 ZPO: Freie Beweiswürdigung kann vernichtungsbedingte Nachteile zulasten der vernichtenden Partei ziehen.
 - §§ 339 ff. StGB: Strafbarkeit wegen Beweisvereitelung / Urkundenunterdrückung (§ 274 StGB) bei vorsätzlicher Vernichtung.
 
@@ -73,10 +73,9 @@ Tabelle aller aktiven Sicherungsanordnungen im Portfolio mit:
 
 Verbindlich: `../references/zitierweise.md`.
 
-- BGH, Urt. v. 23.10.2008 – III ZR 57/07, NJW 2009, 366 Rn. 19 (Beweisvereitelung und Pflicht zur Beweismittelsicherung).
-- Greger, in: Zöller, ZPO, 35. Aufl. 2024, § 444 Rn. 1 ff. (Beweisvereitelung: Voraussetzungen, Rechtsfolgen).
-- Huber, in: Musielak/Voit, ZPO, 21. Aufl. 2024, § 485 Rn. 3 ff. (Selbständiges Beweisverfahren: Voraussetzungen, Antrag).
-- BGH, Urt. v. 09.04.2014 – VIII ZR 404/12, NJW 2014, 2102 Rn. 15 (§ 493 ZPO: Bindungswirkung des Sachverständigengutachtens aus dem selbständigen Beweisverfahren).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - § 257 HGB; § 147 AO (Aufbewahrungsfristen).
 - § 274 StGB (Urkundenunterdrückung), § 339 StGB (Rechtsbeugung, nur für Richter und Beamte).
 
@@ -116,7 +115,7 @@ Kontakt: [Anwalt, Kanzlei, Telefon]
 
 ## Risiken / typische Fehler
 
-- **Verzögerter Hold:** Die Anordnung muss bei Kenntnis des Rechtsstreits sofort erfolgen; spätere Vernichtung begründet Beweisvereitelung auch ohne Hold (BGH, Urt. v. 23.10.2008 – III ZR 57/07, NJW 2009, 366).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Zu enger Anwendungsbereich:** Custodians und Dokumentenkategorien zu eng gewählt; alle betroffenen Abteilungen und IT-Systeme (E-Mail-Archiv, Cloud-Speicher) einschließen.
 - **Datenschutzkollision:** Aufbewahrungspflicht und DSGVO-Löschpflicht können kollidieren; bei Widerspruch gilt prozessuale Sicherungspflicht im Zweifel (vgl. Art. 17 Abs. 3 lit. e DSGVO: Aufbewahrung für Rechtsstreitigkeiten).
 - **Selbständiges Beweisverfahren zu spät:** Nach Sachzustandsveränderung ist keine Beweissicherung mehr möglich; § 485 ZPO-Antrag frühzeitig stellen.

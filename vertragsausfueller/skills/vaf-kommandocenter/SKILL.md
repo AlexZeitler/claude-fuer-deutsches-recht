@@ -15,10 +15,7 @@ description: "Vertragsausfüller Kommandocenter starten: Anwendungsfall Anwalt o
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 07.06.1978 - VIII ZR 84/77, NJW 1978, 1858 — Vertragsabschluss durch konkludentes Handeln: Kontrolle über den Vertragsinhalt beginnt mit dem ersten Austausch von Klauseln.
-- BGH, Urt. v. 20.01.1983 - VII ZR 105/81, NJW 1985, 1838 — Knock-out-Doktrin bei kollidierenden AGB: dispositives Recht tritt an die Stelle weggefallener Klauseln.
-- BGH, Urt. v. 25.09.2018 - VIII ZR 36/17, NJW 2019, 434 — Vertragsschluss per E-Mail mit AGB-Bezugnahme: wirksam, wenn Empfänger hinreichend auf AGB hingewiesen wurde und Kenntnisnahme möglich war.
-- BGH, Urt. v. 14.04.2005 - IX ZR 148/03, NJW 2005, 2086 — Vollmacht zur Vertragsunterzeichnung muss vor Unterzeichnung vorliegen; nachträgliche Genehmigung nach § 177 BGB möglich.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -27,11 +24,9 @@ description: "Vertragsausfüller Kommandocenter starten: Anwendungsfall Anwalt o
 - § 305 BGB — AGB-Einbeziehung
 - § 177 BGB — Genehmigung schwebend unwirksamer Verträge
 
-## Kommentarliteratur
+## Quellenregel
 
-- Grüneberg, BGB, 83. Aufl. 2024, §§ 145-157 Rn. 1-50 (Vertragsschluss und Auslegung)
-- MüKo-BGB/Schubert, 9. Aufl. 2022, § 167 Rn. 1-40 (Vollmacht)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Aufgabe
 
 Der Skill steuert den gesamten Workflow von Upload bis neuem Vertragsentwurf. Er arbeitet freistehend innerhalb des Vertragsausfüller-Plugins und setzt keine anderen Plugins voraus.

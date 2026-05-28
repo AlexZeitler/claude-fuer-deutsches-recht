@@ -23,16 +23,11 @@ Vor der Erstellung von Billing Narratives klaeren:
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 05.06.2014 – IX ZR 137/12, NJW 2014, 2653 Rn. 18 — Anwaltliche Honorarvereinbarung nach § 3a RVG: Textformerfordernis zwingend; muendliche Abrede genuegt auch bei Kaufleuten nicht; Vereinbarung ist bei Formverstos nichtig, Anwalt kann nur RVG-Gebuehren verlangen.
-- BGH, Urt. v. 23.10.2003 – IX ZR 27/02, NJW 2004, 1169 Rn. 12 — Erfolgshonorar unzulaessig bei unklarer Vereinbarung; § 49b Abs. 2 BRAO: Erfolgshonorar nur bei Einzel-/Verbraucherfall nach § 4a RVG zulaessig.
-- BFH, Urt. v. 22.04.2015 – XI R 10/14, BStBl. II 2015, 847 — Rechnungspflichtangaben nach § 14 UStG: Bei fehlerhafter Rechnung kein Vorsteuerabzug fuer Mandant; Kanzlei haftet.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Mayer, in: Gerold/Schmidt, RVG, 26. Aufl. 2023, § 3a Rn. 5 ff. (Stundenhonorar; Formerfordernis; Wirksamkeitsvoraussetzungen).
-- Hartung, in: Hartung/Scharmer, BRAO, 7. Aufl. 2024, § 49b Rn. 15 ff. (Verguetungsvereinbarung; Erfolgshonorar; Verbote).
-- Sterzinger, in: Tipke/Kruse, AO/FGO, § 146 AO Rn. 5 ff. (GoBD; Buchfuehrungspflicht bei Kanzleien).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Billing-Narrative-Struktur fuer M&A-Deals
 
 ### Time-Entry-Kategorien
@@ -198,7 +193,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - § 4a RVG (Erfolgshonorar)
 - § 14 UStG (Rechnungspflichtangaben)
 - § 146 AO / §§ 238 ff. HGB (GoBD; Buchfuehrungspflicht)
-- BGH: `BGH, Urt. v. 05.06.2014 – IX ZR 137/12, NJW 2014, 2653 Rn. 18`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Mayer, in: Gerold/Schmidt, RVG, 26. Aufl. 2023, § 3a Rn. 5 ff.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

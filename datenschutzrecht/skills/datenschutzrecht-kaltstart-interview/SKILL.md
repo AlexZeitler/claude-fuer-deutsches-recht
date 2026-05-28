@@ -70,8 +70,8 @@ Verbindlich nach `../../references/zitierweise.md`.
 - Art. 30 DSGVO (Verarbeitungsverzeichnis)
 - Art. 35 DSGVO (DSFA-Pflicht – Referenz für DSFA-Strukturanalyse)
 - § 38 BDSG (Benennungspflicht DSB)
-- Kühling, in: Kühling/Buchner, DSGVO/BDSG, 4. Aufl. 2024, Art. 28 Rn. 1 ff.
-- Hartung, in: Kühling/Buchner, DSGVO/BDSG, 4. Aufl. 2024, Art. 30 Rn. 1 ff.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Ausgabeformat
 
@@ -115,10 +115,7 @@ Stand: 05/2026. Bei Änderungen der Aufsichtsbehördenstruktur (Art. 56 DSGVO), 
 
 ## Aktuelle Rechtsprechung (v14.2)
 
-- EuGH, Urt. v. 09.03.2023 — C-453/21 (X-FAB Dresden), NJW 2023, 1549 Rn. 30–48: DSB-Unabhängigkeit nach Art. 38 Abs. 3 DSGVO; keine leitende Position, die eigene Datenschutzüberwachung erfordert — Kaltstart muss DSB-Interessenkonflikte abfragen.
-- EuGH, Urt. v. 15.06.2021 — C-645/19 (Facebook Ireland), NJW 2021, 2463 Rn. 55–78: Federführende Aufsichtsbehörde nach Art. 56 DSGVO richtet sich nach tatsächlicher Hauptniederlassung — Kaltstart muss Unternehmensstruktur und Hauptniederlassung klären.
-- BGH, Urt. v. 23.01.2024 — VI ZR 7/23, NJW 2024, 1200 Rn. 28: § 26 BDSG gilt als lex specialis für Beschäftigtendaten — Kaltstart muss Verarbeitungskategorien und anwendbare Spezialgesetze klären.
-- BVerwG, Urt. v. 27.04.2022 — 6 C 8.20, BVerwGE 175, 234 Rn. 38: Zur Behördenzuständigkeit nach Art. 56 DSGVO bei grenzüberschreitenden Verarbeitungen — relevant für die Konfiguration der zuständigen Aufsichtsbehörde.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage zu Beginn
 

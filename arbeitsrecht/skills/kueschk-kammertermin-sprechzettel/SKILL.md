@@ -9,7 +9,7 @@ description: "Kammertermin Hauptverhandlung im Kündigungsschutzprozess: Sprechz
 
 1. Liegt die Klageerwiderung des Arbeitgebers vor? Hat der Mandant darauf repliziert?
 2. Welche Beweismittel sind für den Kammertermin vorzubereiten? (Urkunden, Zeugen)
-3. Soll ein Weiterbeschäftigungsantrag gestellt werden? (BAG GS 1/84)
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. Ist ein Auflösungsantrag nach § 9 KSchG zu erwägen?
 5. Was ist das Vergleichsminimum des Mandanten?
 
@@ -20,20 +20,17 @@ description: "Kammertermin Hauptverhandlung im Kündigungsschutzprozess: Sprechz
 - § 58 ArbGG — Beweisaufnahme; Zeugenvernehmung nach ZPO-Grundsätzen
 - § 60 ArbGG — Urteilsverkündung; Urteilsfrist
 - § 9 KSchG — Auflösungsantrag des Arbeitnehmers (bis Schluss der letzten mündlichen Verhandlung)
-- BAG GS, Beschl. v. 27.02.1985 – GS 1/84, BAGE 48, 122 — Weiterbeschäftigungsanspruch
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 19.04.2012 – 6 AZR 677/10, NZA 2012, 1232 — Zur Prozessleitung im Kammertermin: Der Vorsitzende ist zur Erteilung von Hinweisen nach § 56 ArbGG i.V.m. § 139 ZPO verpflichtet, wenn eine Partei wesentliche rechtliche oder tatsächliche Aspekte erkennbar übersehen hat; eine unterbliebene Hinweispflicht kann zur Aufhebung des Urteils führen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-- BAG, Urt. v. 27.09.2012 – 2 AZR 646/11, NZA 2013, 331 — Zum Weiterbeschäftigungsanspruch nach BAG GS 1/84: Nach erstinstanzlichem Obsiegen kann der Arbeitnehmer den allgemeinen Weiterbeschäftigungsanspruch aus §§ 611, 613, 242 BGB geltend machen; der Arbeitgeber kann nur bei überwiegenden schutzwürdigen Eigeninteressen die Weiterbeschäftigung verweigern.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Germelmann/Matthes/Prütting, ArbGG, 10. Aufl. 2023, § 57 Rn. 1–20 (Kammertermin; Ablauf; Protokoll; Urteilsverkündung)
-- ErfK/Koch, 24. Aufl. 2024, § 58 ArbGG Rn. 1–15 (Beweisaufnahme; Zeugenvernehmung)
-- Schaub/Koch, Arbeitsrechts-Handbuch, 19. Aufl. 2021, § 152 Rn. 40–60 (Kammertermin; Antragsstellung; Protokoll)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Konnte im Gütetermin keine Einigung erzielt werden, folgt der **Kammertermin** als Hauptverhandlung. Im Kammertermin entscheidet die Kammer (Vorsitzender + zwei ehrenamtliche Richter) über die Klage. Dieser Skill bereitet den Arbeitnehmer auf diesen Termin vor.

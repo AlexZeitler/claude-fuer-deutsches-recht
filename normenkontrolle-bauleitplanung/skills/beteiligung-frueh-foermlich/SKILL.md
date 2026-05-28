@@ -150,10 +150,8 @@ Audit der zweistufigen Beteiligung. Hier finden sich die meisten Verfahrenshebel
 
 ## Ergänzende Rechtsprechung
 
-- BVerwG, Urt. v. 18.11.2004 - 4 CN 11.03, BVerwGE 122, 207 Rn. 25 — Die zweite Auslegung nach § 4a Abs. 3 BauGB ist nur auf die geänderten oder ergänzten Teile des Plans zu beschränken; eine vollständige Wiederholung ist nur bei wesentlichen Änderungen erforderlich.
-- OVG NRW, Urt. v. 20.04.2017 - 10 D 56.14.NE, NVwZ-RR 2017, 720 — Fehlt die Darlegung des Plans im Internet während der Auslegungsfrist (§ 3 Abs. 2 S. 1 BauGB n.F.), liegt ein beachtlicher Verfahrensfehler vor, sofern nicht nachgewiesen wird, dass kein einziger Bürger deshalb gehindert war.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Battis/Krautzberger/Löhr BauGB 15. Aufl., § 3 Rn. 20-50 (Öffentlichkeitsbeteiligung) und § 4 Rn. 15-35 (Behördenbeteiligung)
-- Spannowsky/Uechtritz BauGB 3. Aufl., § 4a Rn. 10-30 (Wiederholungspflicht bei Änderungen)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

@@ -1,6 +1,6 @@
 # CPC- und IPC-Klassen — Übersicht für die Patentrecherche
 
-Diese Übersicht ist eine Schnellreferenz für die Klassenbestimmung im Skill `klassifikation-cpc-ipc`. Sie ersetzt nicht den **Espacenet Classification Browser** (`https://worldwide.espacenet.com/patent/cpc-browser`) und die **WIPO IPC Online Publication** (`https://www.wipo.int/classifications/ipc/ipcpub`).
+Diese Übersicht ist eine Schnellreferenz für die Klassenbestimmung im Skill `klassifikation-cpc-ipc`. Sie ersetzt keine bereitgestellten Lehrmaterialien und keine verifizierte Quellenarbeit.
 
 ## Symbol-Aufbau
 

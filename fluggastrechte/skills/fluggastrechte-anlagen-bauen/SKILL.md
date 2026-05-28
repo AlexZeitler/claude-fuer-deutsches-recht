@@ -132,6 +132,4 @@ Die Schreiben-Skills (`forderungsschreiben-erste-stufe`, `forderungsschreiben-ma
 
 ## Leitentscheidungen Anlagen / Schriftsatz
 
-- BGH, Urt. v. 26.09.2023 — X ZR 109/22, NJW 2023, 3654 — Klage auf Ausgleichszahlung; Anlagen muessen Buchungsbestaetigung, Bordkarte und Nachweis der Verspaetung enthalten; Gericht kann Vorlage verlangen.
-- BGH, Urt. v. 12.11.2019 — X ZR 117/18, NJW 2020, 464 — Klage vor Amtsgericht; Streitwert pro Passagier bis 600 EUR; Anwaltsbeistand nicht notwendig; einfache Form genuegt.
-- EuGH, Urt. v. 17.02.2016 — C-429/14 (Air Baltic), NJW 2016, 961 — Kombination VO 261/2004 und MUe; Ausgleichszahlung nach VO 261/2004 unabdingbar; keine Verrechnung mit Schadensersatz nach MUe.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

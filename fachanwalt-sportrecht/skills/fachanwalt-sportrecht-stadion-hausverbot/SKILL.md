@@ -40,8 +40,7 @@ Verteidigung von Fans gegen Stadion-Hausverbot.
 
 ## 3) BGH-Linie
 
-- BGH, Urt. v. 30.10.2009 — V ZR 253/08 (Stadion-Verbot Verhältnismaessigkeit)
-- BGH, Urt. v. 9.3.2012 — V ZR 115/11 (Bundesweites Verbot)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 4) Workflow
 
@@ -60,7 +59,7 @@ Verteidigung von Fans gegen Stadion-Hausverbot.
 
 - BKA "Gewalttaeter Sport" Löschungs-Antrag
 - DSGVO Art. 17 Löschungs-Anspruch
-- BGH VI ZR 1213/22 zu DSGVO-Schadensersatz
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Schritt 4 — Klage
 
@@ -94,5 +93,4 @@ Verteidigung von Fans gegen Stadion-Hausverbot.
 
 ## Ergaenzende Rechtsprechung Stadion-Hausverbot
 
-- BGH, Urt. v. 09.03.2012 - V ZR 115/11, NJW 2012, 1725 — Stadionverbot bundesweiter Datei: Fussballverbande koennen personenbezogene Daten zu Sicherheitszwecken in einer bundesweiten Datei (bundesweites Stadionverbot) speichern; Betroffener kann Loeschung verlangen bei unverhaltnis­maessiger Dauer oder fehlender Grundlage.
-- LG Frankfurt, Urt. v. 14.08.2018 - 2-13 O 130/18, SpuRt 2019, 44 — Befristetes Stadionverbot: Dauer von drei Jahren wegen einmaliger Sachbeschae­digung unangemessen; Gericht reduziert auf zwei Jahre; Grundsatz der Verhaeltnismaessigkeit bei Hausverbot gilt auch im Privatrecht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

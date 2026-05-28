@@ -48,22 +48,17 @@ und der anwaltlichen Verschwiegenheitspflicht verbunden:
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 17.02.2011 – IX ZR 198/09, NJW 2011, 1594 Rn. 15
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Anwaltliche Verschwiegenheitspflicht; Schadensersatz bei
   Geheimnisbruch durch Anwalt; § 43a BRAO)
-- BGH, Urt. v. 03.05.2007 – IX ZR 218/05, BGHZ 172, 199 Rn. 22
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Anwaltliche Aufbewahrungspflicht von Handakten; § 50 BRAO)
-- BVerfG, Beschl. v. 12.04.2005 – 2 BvR 1027/02, BVerfGE 113, 29 Rn. 84
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Schutz von Verteidigungsunterlagen; Rechtsanwalt; § 97 StPO analog)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Henssler, in: Henssler/Prütting, BRAO, 5. Aufl. 2019, § 43a Rn. 40 (Verschwiegenheitspflicht)
-- Kleine-Cosack, BRAO, 8. Aufl. 2022, § 50 Rn. 10 (Handakten und Aufbewahrung; Einzelautoren-Kommentar)
-- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, Einl. vor § 611 Rn. 20
-  (Anwaltsvertrag; Pflichten im Dienstleistungsverhältnis)
-- Römermann, in: BeckOK BRAO, 21. Ed. (Stand 01.09.2024), § 43a Rn. 55
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Unterbefehle
@@ -294,8 +289,8 @@ Slug `mueller-it-vertrag-2026` angelegt mit Abweichung:
 
 Bei mandatsspezifischen Hinweisen zur Vertraulichkeit oder Aufbewahrung:
 - § 43a Abs. 2 BRAO (Verschwiegenheit), § 50 BRAO (Handakten)
-- BGH, Urt. v. 17.02.2011 – IX ZR 198/09, NJW 2011, 1594
-- Henssler/Prütting, BRAO, 5. Aufl. 2019, § 43a Rn. 40 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 

@@ -57,11 +57,11 @@ Bei § 133 InsO zwingend getrennt ausgeben:
 - Zahlungsvereinbarung und § 133 Abs. 3 S. 2 InsO.
 - Bargeschäft und erkannte Unlauterkeit nach § 142 InsO.
 
-BGH, Urt. v. 06.05.2021 — IX ZR 72/20: keine schematische Herleitung der subjektiven Voraussetzungen allein aus erkannter Zahlungsunfähigkeit.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 03.03.2022 — IX ZR 78/20: Bei Sanierungsversuchen muss der Verwalter Untauglichkeit und entsprechende Erkenntnis des Schuldners darlegen und beweisen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 18.04.2024 — IX ZR 129/22: Ein außenstehender Dritter muss einen nicht näher belegten Liquiditätsstatus nicht ohne Weiteres im Einzelnen bestreiten.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 4. Dreiecksverhältnisse markieren
 
@@ -84,7 +84,7 @@ Rechne nicht nur den Nominalbetrag. Prüfe:
 - Verjährung nach § 146 InsO in Verbindung mit BGB.
 - Prozesskosten, Beweisrisiko und Vergleichskorridor.
 
-BGH, Urt. v. 27.07.2023 — IX ZR 138/21: Grob fahrlässige Unkenntnis des Verwalters setzt eine besonders schwere Vernachlässigung seiner Ermittlungspflichten voraus.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabe
 

@@ -222,9 +222,9 @@ Berücksichtigt:
 - **DiRUG** (Digitalisierungsrichtlinie-Umsetzungsgesetz, 1.8.2022) — Online-Gründung
 - **TraFinG** (2021) — Transparenzregister als Vollregister
 - **GwG**-Novellen — wirtschaftlich Berechtigter, Bußgeld bis 150.000 EUR
-- **BGH Kali+Salz** (BGHZ 71, 40) — Bezugsrechtsausschluss-Linie
-- **BGH Kali+Salz** (BGHZ 71, 40) — sachliche Rechtfertigung und Verhältnismäßigkeit beim Bezugsrechtsausschluss
-- **BGH NJW 2007, 917 / 2018, 1233** — Treuepflicht in Kapitalgesellschaften
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Tipps für die Bearbeitung
 

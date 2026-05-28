@@ -41,7 +41,7 @@ Schaden an internationaler LKW-Lieferung nach CMR (UEbereinkommen über den Bef�
 
 - Bei qualifiziertem Verschulden Art. 29 CMR (Vorsatz / grobe Fahrlaessigkeit)
 - Volle Schadensbegleichung
-- BGH I ZR 109/11 (Art. 29 CMR-Wegnehmen)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 4) Reklamation Art. 30 CMR
 
@@ -109,8 +109,7 @@ Schaden an internationaler LKW-Lieferung nach CMR (UEbereinkommen über den Bef�
 
 ## 9) BGH-Linien
 
-- BGH, Urt. v. 7.10.2010 — I ZR 109/11 (Art. 29 CMR-Wegnehmen)
-- BGH, Urt. v. 24.10.2018 — I ZR 178/17 (Reklamationsfrist)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 

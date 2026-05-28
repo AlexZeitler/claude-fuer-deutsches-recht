@@ -54,7 +54,7 @@ Der AI Act tritt gestaffelt in Kraft. Die nachfolgende Tabelle entspricht dem St
 
 ## EuGH — Rechtsprechung mit KI-Bezug
 
-- **EuGH, Urt. v. 4.10.2024, C-446/21 (Schrems/Meta) [Rn. 1–80]:** Kontext: automatisierte Profilbildung und Art. 22 DSGVO; Bestätigung des Erfordernisses expliziter Rechtsgrundlage.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Vorabentscheidungsverfahren zur Art. 22 DSGVO:** Mehrere Verfahren zur Reichweite automatisierter Entscheidungsfindung anhängig. Prüfen Sie den Stand beim [EuGH](https://curia.europa.eu).
 - **Erwägungsgründe AI Act:** Erwägungsgrund 12 (Abgrenzung zu DSGVO), ErwGr. 70–72 (Hochrisiko-KI Beschäftigung), ErwGr. 99 (GPAI systemisches Risiko). Erwägungsgründe sind bei der Auslegung heranzuziehen, aber nicht verbindlich.
 

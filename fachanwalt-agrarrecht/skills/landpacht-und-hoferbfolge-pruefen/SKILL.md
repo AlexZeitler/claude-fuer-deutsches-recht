@@ -40,10 +40,7 @@ Zwei zentrale Instrumente des Agrarrechts: Landpachtvertrag und Höfeerbfolge. B
 
 | Gericht | Aktenzeichen | Kernaussage |
 |---|---|---|
-| BGH | LwZR 1/19 | § 593 BGB-Anpassung: Substanzielle Änderung der Bodenpreise allein reicht nicht; konkrete Unzumutbarkeit nötig |
-| OLG Stuttgart | 8 U 119/15 | Behinderungsanzeige bei Weigerung Anpassung; einseitige Kündigung erst nach Schlichtungsversuch |
-| BGH | V ZR 112/18 | Vorkaufsrecht Pächter § 13 LPachtVG: Nur bei Verkauf an Dritte, nicht bei Verkauf innerhalb Familie |
-| BVerwG | 3 C 14/17 | Beanstandungsrecht LWK: Keine Ermessensreduzierung auf Null; LWK hat Beurteilungsspielraum |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ### Teil 2 — Höfeerbfolge
 
@@ -189,7 +186,7 @@ Wertermittlungsrichtlinien beachten.
 ## Beweislast und Darlegungslast
 
 **Landpacht:**
-- Für Anpassung nach § 593 BGB trägt die verlangende Partei die Darlegungslast für die wesentliche Verhältnisänderung (BGH LwZR 1/19).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bei Beanstandung durch LWK: Behörde muss Beanstandungsgründe substantiieren; Vertragsgegner trägt Verteidigungs-Darlegungslast.
 - Bewirtschaftungsmangel bei Rückgabe: Verpächter trägt Beweislast für konkrete Schäden.
 
@@ -250,14 +247,14 @@ Wertermittlungsrichtlinien beachten.
 - LwVG (§ 23 Schlichtung)
 - BauGB § 35 (Außenbereich-Privilegierung)
 - VO (EU) 2021/2115 GAP
-- BGH LwZR 1/19; OLG Stuttgart 8 U 119/15; BGH V ZR 112/18
-- Düsing/Martinez Agrarrecht; Lange/Wulff/Lüdtke-Handjery LPachtVG
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Ergänzung — Aktuelle Rechtsprechung 2022-2024
 
-BGH, Beschl. v. 28.09.2017 — **BLw 3/16**, NJW-RR 2018, 263 Rn. 18: Die Nachabfindungsberechnung nach § 13 HöfeO ist auf Basis des Verkehrswertes zum Zeitpunkt der Veräußerung zu ermitteln; aufgelaufene Wertsteigerungen seit der Hofübergabe gehen anteilig an die weichenden Miterben, sofern diese nicht auf Nachabfindungsansprüche verzichtet haben.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BFH, Urt. v. 22.09.2020 — **VI R 19/18**, BStBl. II 2021, 314 Rn. 14: Hofübergabe zu Lebzeiten ist steuerlich als entgeltliches Geschäft zu werten, soweit Altenteilsleistungen in Geldwert die Gegenleistung übersteigen; für Erbschaftsteuerzwecke gelten §§ 13a, 13b ErbStG mit Verschonungsabschlägen für land- und forstwirtschaftliches Vermögen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 <!-- AUDIT 27.05.2026 -->

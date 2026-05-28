@@ -32,20 +32,17 @@ Der Prüfungsstoff des Ersten Staatsexamens ist in den Juristenausbildungsgesetz
 **Maßgebliche Pflichtstoff-Leitentscheidungen:**
 
 Für BGB AT und Schuldrecht:
-- BGH, Urt. v. 07.06.1984 – IX ZR 66/83, BGHZ 91, 324 — Schweigen als Willenserklärung (§§ 116 ff. BGB)
-- BGH, Urt. v. 25.11.2009 – VIII ZR 318/08, NJW 2010, 610 Rn. 12 ff. — Leistungsstörungsrecht nach Schuldrechtsreform
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Für Strafrecht:
-- BGH, Beschl. v. 04.11.1988 – GSSt 1/88, BGHSt 36, 1 (Lederriemen) — dolus eventualis, Abgrenzung bewusste Fahrlässigkeit
-- BGH, Urt. v. 22.09.1995 – 2 StR 310/95, BGHSt 41, 292 — Mittäterschaft § 25 Abs. 2 StGB
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kanonische Lernmaterialien:**
 - Alpmann Schmidt, Gesamtdarstellungen (BGB AT, SchuldR, StGB AT/BT etc.)
 - Hemmer/Wüst, Skriptenreihe (durchgängig nach Examensstoff strukturiert)
 - Jura Intensiv, Skriptenreihe
 - Kaiser-Skripten
-- Grüneberg, BGB, 84. Aufl. 2025 (vormals Palandt) — Kurzkommentar für Normübersicht
-- MüKoBGB, 9. Aufl. 2021/2022 (Säcker/Rixecker/Oetker/Limperg, Hrsg.) — für tiefergehende Erschließung
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Ablauf
 

@@ -157,8 +157,7 @@ Klassische Stolperfalle in Insolvenz- und Restrukturierungsrecht:
 
 ## Aktuelle Leitentscheidungen — Vergleich im Insolvenz-Kontext
 
-- BGH, Urt. v. 06.05.2021 — IX ZR 72/20 — § 133 InsO verlangt eine einzelfallbezogene Gesamtwürdigung; erkannte Zahlungsunfähigkeit allein trägt die subjektiven Voraussetzungen nicht schematisch.
-- BGH, Urt. v. 03.03.2022 — IX ZR 78/20 — Ein Sanierungsversuch kann gegen Benachteiligungsvorsatz sprechen; der Verwalter muss Untauglichkeit und entsprechende Kenntnis darlegen und beweisen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Vergleichsregel: Raten- oder Stundungsvergleiche in der Krise sind anfechtungsanfällig und regelmäßig kein Bargeschäft ohne unmittelbare gleichwertige neue Gegenleistung; § 142 InsO nicht mit einer starren 30-Tage-Regel anwenden.
 
 ## Paragrafenkette Vergleich

@@ -41,8 +41,7 @@ Mandate von Opfern dubioser Online-Trading-Plattformen — Sofortmaßnahmen, Bew
 ### Bankrecht
 
 - **AGB-Banken Nr. 11** — Pflicht der Bank, Kunden auf evidente Betrugsrisiken hinzuweisen.
-- **BGH XI ZR 96/11** — Phishing-Haftung: Bank haftet bei evidenter Auffälligkeit der Transaktion.
-- **BGH XI ZR 91/14** — Mitverschulden bei grober Fahrlässigkeit des Kunden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Sofortmaßnahmen — Erste 72 Stunden
 
@@ -246,7 +245,7 @@ Antrag: Strafverfolgung + Beschlagnahme der Konten
 - KWG § 25h; GwG §§ 2, 60
 - AGB-Banken Nr. 11
 - EStG §§ 20 Abs. 2, 10d
-- BGH XI ZR 96/11; BGH XI ZR 91/14
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BaFin-Datenbank unerlaubte Tätigkeiten (bafin.de/unerlaubt)
 - BMF-Schreiben Krypto 22.11.2024
 
@@ -254,9 +253,7 @@ Antrag: Strafverfolgung + Beschlagnahme der Konten
 
 ### Ergaenzende Leitsaetze
 
-- BGH, Urt. v. 26.01.2016 - XI ZR 91/14, NJW 2016, 2245 Rn. 19 — Mitverschulden bei Online-Betrug: Kunde handelt grob fahrlaessig, wenn er auf offensichtliche Betrugsanzeichen (Grammatikfehler, unbekannte IBAN, Drucksituationen) nicht reagiert; Quotelung bis 50 %.
-- BGH, Urt. v. 24.03.2022 - III ZR 183/20, NJW 2022, 1385 Rn. 16 — § 826 BGB Anspruch gegen Vermittler: Nachweis des Vorsatzes durch Indizien moeglich wenn Vermittler trotz offensichtlicher Betrugsstruktur weiter warb.
-- OLG Frankfurt, Urt. v. 08.12.2021 - 17 U 7/21, WM 2022, 115 — SEPA-Recall-Anspruch des Kunden gegenueber eigener Bank bei Betrug: Bank muss bestmoegliche Rueckrufanstrengungen unternehmen; unterlassener Recall kann Haftungsgrundlage sein.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen Cybertrading-Betrug
 - § 263 Abs. 1, Abs. 3 StGB — Betrug, gewerbsmaessiger Betrug

@@ -72,9 +72,8 @@ Der Skill liefert bei Eingabe eines Zeugnis-Auszugs eine vollständige Tabelle a
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Genügt das Zeugnis den gesetzlichen Anforderungen nicht, kann Berichtigung oder Ergänzung verlangt werden.
-- **BAG, Urt. v. 15.11.2011 — 9 AZR 386/10**, BAGE 140, 15 — Keine schematische Geheimcode-Unterstellung; entscheidend sind objektiver Empfängerhorizont und Gesamtzusammenhang.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Müller-Glöge, 25. Aufl. 2025, § 109 GewO Rn. 20 ff. (Codierungsproblematik, Wohlwollensverstoß durch Geheimcode)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

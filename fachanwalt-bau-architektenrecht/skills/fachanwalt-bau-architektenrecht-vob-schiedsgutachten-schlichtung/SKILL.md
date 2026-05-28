@@ -7,7 +7,7 @@ description: "VOB/B-Schiedsgutachten und Schlichtung als Alternative zum Bauproz
 
 ## Zweck
 
-Bauspezifische außergerichtliche Streitbeilegung: **VOB/B § 18 Schiedsgericht**, **SOBau** (Streitlösungsordnung für das Bauwesen 2020), **Schlichtungsstelle Bauhandwerker** der HWK, **Sachverständigen-Schiedsgutachten**. Bauverfahren sind langwierig — ADR ist oft wirtschaftlich entscheidend.
+Bauspezifische außergerichtliche Streitbeilegung: **VOB/B § 18 Schiedsgericht**, **SOBau** (Streitlösungsordnung für das Bauwesen 2020), **Schlichtungsstelle Bauhandwerker** der lizenzpflichtige Literaturquelle, **Sachverständigen-Schiedsgutachten**. Bauverfahren sind langwierig — ADR ist oft wirtschaftlich entscheidend.
 
 ## Eingaben
 
@@ -29,9 +29,7 @@ Bauspezifische außergerichtliche Streitbeilegung: **VOB/B § 18 Schiedsgericht*
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 16.6.1994 — VII ZR 173/93 (Schiedsgutachten im Bau)
-- BGH, Urt. v. 5.4.2018 — VII ZR 54/15 (selbständiges Beweisverfahren)
-- OLG Hamm, Urt. v. 12.2.2024 — 24 U 156/22 (SOBau-Anwendung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## ADR-Pfade
 
@@ -85,7 +83,7 @@ Bauspezifische außergerichtliche Streitbeilegung: **VOB/B § 18 Schiedsgericht*
 
 - Bei laufendem Projekt: SOBau-Adjudikation
 - Bei abgeschlossenem Projekt: § 485 ZPO + Klage / Schiedsgericht
-- Bei Verbraucher: HWK-Schlichtung
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ### Phase 4 — Verhandlung mit Sachverständigen-Hilfe
 

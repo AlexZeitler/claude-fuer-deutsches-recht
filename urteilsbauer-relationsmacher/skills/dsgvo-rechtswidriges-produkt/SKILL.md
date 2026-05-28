@@ -17,9 +17,7 @@ Pruefschema, wenn ein technisches Produkt aus dem Ausland nach DSGVO als rechtsw
 
 ## Aktuelle Rechtsprechung
 
-- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2993 — Meta/Facebook: Berechtigte Interessen nach Art. 6 Abs. 1 lit. f DSGVO setzen echte Abwägung voraus; kommerzielle Interessen allein genügen nicht.
-- EuGH, Urt. v. 14.12.2023 - C-340/21, NJW 2024, 519 — Bloße Befürchtung zukünftiger Missbräuche genügt für immateriellen Schaden nach Art. 82 DSGVO nicht; konkreter Kontrollverlust oder Beeinträchtigung nötig.
-- BGH, Urt. v. 12.10.2021 - VI ZR 488/19, NJW 2022, 389 — DSGVO als Eingriffsnorm nach Art. 9 Rom-I; gilt auch wenn Vertragsstatut ausländisches Recht ist.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -31,12 +29,9 @@ Pruefschema, wenn ein technisches Produkt aus dem Ausland nach DSGVO als rechtsw
 - Art. 82 DSGVO — Schadensersatz (materiell und immateriell)
 - § 134 BGB — Nichtigkeit bei Verstoß gegen Verbotsgesetz
 
-## Kommentarliteratur
+## Quellenregel
 
-- Kühling/Buchner, DSGVO/BDSG, 4. Aufl. 2024, Art. 3 Rn. 1-40 (räumlicher Anwendungsbereich)
-- Sydow/Marsch, DSGVO, 3. Aufl. 2022, Art. 9 Rn. 1-30 (besondere Datenkategorien)
-- Paal/Pauly, DSGVO/BDSG, 3. Aufl. 2021, Art. 82 Rn. 1-30 (Schadensersatz)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Anwendbarkeit DSGVO prüfen (Art. 3):** Niederlassungsprinzip oder Marktortprinzip.

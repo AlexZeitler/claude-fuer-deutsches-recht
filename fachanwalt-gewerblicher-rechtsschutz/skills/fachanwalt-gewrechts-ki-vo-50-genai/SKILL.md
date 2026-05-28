@@ -41,9 +41,7 @@ description: "KI-generierte Inhalte auf gewerblichen Rechtsschutz prüfen wenn G
 | EU-KI-VO 2024/1689 (Amtsblatt L 2024/1689) | 12.07.2024 | In Kraft 1.8.2024; Art. 50 anwendbar 2.8.2026 |
 | EU-Kommission AI Code of Practice | 2024 | Verhaltenskodex für Anbieter von GPAI-Modellen; Umsetzung Art. 53–55 KI-VO |
 | C2PA-Standard v2.0 (Coalition for Content Provenance and Authenticity) | 2024 | Technischer Standard für Herkunftsnachweis von Mediendateien (Adobe, Microsoft, Sony, Nikon) |
-| BGH-Verfahren zu KI-Output-Urheberrecht | anhängig 2025/2026 | Vorlagefrage EuGH zu § 2 UrhG und generativer KI erwartet |
-| LG Berlin II 20.08.2025 — KI-Stimm-Nachahmung | 2025 | Persönlichkeitsrechtsverletzung durch KI-generierte Stimm-Imitation eines Prominenten ohne Einwilligung; Unterlassung + Schadensersatz; orientierender Einzelfall zur Reichweite §§ 22, 23 KUG bei generativer KI |
-| EuGH 07.12.2023 — C-634/21 (SCHUFA-Scoring) | 2023 | Automatisierter Score-Wert ist "Entscheidung" i. S. v. Art. 22 DSGVO wenn er maßgeblich über Vertragsschluss bestimmt; relevant für KI-gestützte Bewertungssysteme im B2C-Kontext |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 > **Hinweis zur Rechtsprechungslage:** Stand 05/2026 existiert keine veröffentlichte deutsche Leitentscheidung speziell zu Art. 50 KI-VO; die Norm gilt erst ab 02.08.2026. Frühere Behauptungen zu OLG Hamburg 7 W 28/22 (Influencer-KI), LG Berlin 15 O 261/22 (DALL-E-Produktfoto) und BGH I ZR 143/12 (UWG-Vertragsstrafe) entsprachen nicht der Aktenlage und wurden entfernt. Für vergleichbare Konstellationen orientierungshalber: § 5a UWG-Linie der allgemeinen Irreführungsrechtsprechung; konkrete Belege im Einzelfall recherchieren.
 

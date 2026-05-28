@@ -66,7 +66,7 @@ Haftungsklauseln haben vier Dimensionen:
 **b) Mittelbare Schäden / Folgeschäden:**
 - § 309 Nr. 7a BGB: Haftungsausschluss für Körperverletzung / Vorsatz gegenüber Verbrauchern absolut unwirksam.
 - Im B2B: Ausschluss für leichte Fahrlässigkeit bei nicht wesentlichen Pflichten möglich; bei Kardinalpflichten nach BGH-Rspr. unwirksam.
-- BGH, Urt. v. 19.09.2007 – VIII ZR 141/06, NJW 2007, 3774: AGB-Klausel, die Haftung für leichte Fahrlässigkeit auch bei Verletzung wesentlicher Pflichten ausschließt, ist nach § 307 Abs. 2 Nr. 2 BGB unwirksam. `[Trainingswissen – prüfen]`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **c) Ausnahmen vom Deckel:** Vorsatz, grobe Fahrlässigkeit, Verletzung von Leben/Körper/Gesundheit, Kardinalpflichten, Datenpannen, produkthaftungsrechtliche Ansprüche.
 
@@ -78,7 +78,7 @@ Haftungsklauseln haben vier Dimensionen:
 - Mangelfreiheitspflicht § 633 BGB
 - Nacherfüllungsrecht § 634 Nr. 1, § 635 BGB (Vorrang vor Rücktritt/Minderung)
 - Verjährung § 634a BGB: 2 Jahre bei körperlichen Bauwerken/Sachen; 3 Jahre bei Arglist
-- Abkürzung der Verjährung in B2B-AGB: nach § 307 BGB prüfen; BGH, Urt. v. 23.01.2013 – VIII ZR 47/12, NJW 2013, 1374. `[Trainingswissen – prüfen]`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kaufvertrag (§§ 434 ff. BGB; ggf. CISG):**
 - Sachmangelfreiheit § 434 BGB; Beschaffenheitsvereinbarung prüfen
@@ -109,9 +109,7 @@ Falls Lieferant in der Lieferkette und LkSG anwendbar (§ 1 LkSG: ab 1.000 AN se
 - Außerordentliches Kündigungsrecht bei LkSG-Verstößen (§ 7 Abs. 3 LkSG)
 - Weitergabepflicht an Unterlieferanten (§ 9 LkSG)
 
-**BGH/OLG-Rspr. noch im Aufbau.** `[Trainingswissen – prüfen]` Prüfung anhand BAFA-Leitlinien und Gesetzestext.
-
-Kommentare: Rühl/Frank, LkSG, 2022; Grabosch, LkSG, 2021.
+**Rechtsprechung und Quellenlage noch im Aufbau.** Prüfung anhand Gesetzestext, BAFA-Leitlinien und konkret bereitgestellter oder lizenziert verifizierter Quellen. Keine Kommentar- oder Aufsatzfundstellen aus Modellwissen.
 
 ### Schritt 7: IP und Nutzungsrechte (§§ 15 ff. UrhG, PatG)
 
@@ -208,17 +206,14 @@ Zitierweise nach `../references/zitierweise.md`.
 Normen und Rspr.:
 - §§ 611, 631 BGB – Dienst-/Werkvertrag; § 433 BGB – Kaufvertrag
 - §§ 305–310 BGB – AGB-Recht
-- BGH, Urt. v. 19.09.2007 – VIII ZR 141/06, NJW 2007, 3774 – Kardinalpflichten
-- BGH, Urt. v. 23.01.2013 – VIII ZR 47/12, NJW 2013, 1374 – Gewährleistungs-Verjährung AGB
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - § 377 HGB – Rügepflicht Handelskauf
 - §§ 1 ff. LkSG; §§ 15 ff. UrhG – Nutzungsrechte
 - Art. 28 DSGVO – AVV; Art. 1, 6 CISG – Anwendbarkeit/Abwahl
 
 Kommentare:
-- Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 307 Rn. 1 ff.
-- Pfeiffer, in: Wolf/Lindacher/Pfeiffer, AGB-Recht, 7. Aufl. 2022, § 307 Rn. 1 ff.
-- Grüneberg, in: Grüneberg, BGB, 83. Aufl. 2024, § 631 Rn. 1 ff.
-- Rühl/Frank, LkSG, 2022, §§ 6, 7 Rn. 1 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Risiken / typische Fehler
 

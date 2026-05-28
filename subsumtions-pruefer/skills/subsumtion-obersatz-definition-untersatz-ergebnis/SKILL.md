@@ -19,9 +19,7 @@ Dieses Vier-Schritt-Schema ist die Grundmethode juristischer Fallbearbeitung. De
 
 ## Aktuelle Rechtsprechung zur Subsumtionsmethode
 
-- BVerfG, Beschl. v. 06.06.2018 - 1 BvL 7/14, NJW 2018, 2542 — Das Bestimmtheitsgebot (Art. 103 Abs. 2 GG im Strafrecht; Art. 20 Abs. 3 GG allgemein) verlangt, dass die Subsumtion intersubjektiv nachvollziehbar ist; reine Wertungssubsumtionen ohne normativen Anknüpfungspunkt sind verfassungsrechtlich bedenklich.
-- BGH, Urt. v. 09.04.2019 - VI ZR 89/18, NJW 2019, 2162 — Ungeschriebene Merkmale (z.B. Verkehrspflichten) sind als zusätzliche TBM im Vier-Schritt zu prüfen; sie werden als richterrechtlich entwickeltes Tatbestandsmerkmal behandelt.
-- BGH, Urt. v. 19.11.2014 - VIII ZR 79/14, NJW 2015, 473 — Im Untersatz ist ausschließlich auf die vom Tatsachengericht festgestellten (oder vom Nutzer behaupteten) Tatsachen abzustellen; hypothetische Sachverhaltsvarianten werden im Untersatz nicht berücksichtigt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Das Vier-Schritt-Schema
 
@@ -93,14 +91,6 @@ Ergebnis:
 TBM [Name] ist [erfüllt / nicht erfüllt / fraglich].
 ```
 
-## Kommentarliteratur
+## Quellenregel
 
-- Larenz/Canaris Methodenlehre der Rechtswissenschaft (Vier-Schritt-Methode — theoretisch)
-- Rüthers/Fischer/Birk Rechtstheorie (Subsumtionslehre — dogmatisch)
-- Grüneberg BGB Einl. (Anspruchsaufbau in der Praxis)
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
-
-<!-- AUDIT 27.05.2026: BGH III ZR 42/19 entfernt — WRONG_TOPIC (echter Inhalt: Schadensersatz bei Verletzung einer Gerichtsstandsvereinbarung; kein Bezug zur Subsumtionsmethode). Kein Ersatz eingefuegt (kein passender BGH-Fall zur Vier-Schritt-Methode auf dejure.org auffindbar). -->
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

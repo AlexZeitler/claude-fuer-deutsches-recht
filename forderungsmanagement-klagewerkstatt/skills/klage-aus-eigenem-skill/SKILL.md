@@ -20,17 +20,14 @@ description: "Kanzlei hat hauseigenes Klage-Plugin (klagewerkstatt-kanzlei) inst
 
 ## Rechtsprechung
 
-BGH, Beschl. v. 20.04.2023 – III ZB 75/21, NJW 2023, 1743 — Klageschriften im beA-Verfahren müssen strukturiert als PDF/A übermittelt werden; Anlagen sind als gesonderte Dateien beizufügen und im Schriftsatz eindeutig zu bezeichnen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 
-BGH, Urt. v. 25.02.2016 – I ZR 136/14, NJW 2016, 2181 — § 29c ZPO schützt Verbraucher bei Haustürgeschäften und Fernabsatzverträgen; eine abweichende Gerichtsstandsvereinbarung (§ 38 ZPO) ist gegenüber Verbrauchern nur bei nachträglicher Vereinbarung nach Entstehung des Streitigkeitsverhältnisses wirksam.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Zöller, ZPO, 35. Aufl. 2024, §§ 12–29c Rn. 1–60 (Gerichtsstände, Verbraucherverträge, Gerichtsstandsvereinbarungen).
-Thomas/Putzo, ZPO, 45. Aufl. 2024, § 253 Rn. 1–45 (Klageschrift, Antrag, Begründung).
-Musielak/Voit, ZPO, 20. Aufl. 2023, §§ 130a, 130d Rn. 1–25 (beA, elektronisches Dokument).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill ist die Laufzeit-Variante. Er setzt voraus, dass das hauseigene Klage-Plugin bereits installiert ist. Er nimmt Sachverhalt und Beklagtenadresse entgegen, prüft online die Zuständigkeit, füllt die hauseigene Vorlage und liefert die Klageschrift als DOCX und Markdown.

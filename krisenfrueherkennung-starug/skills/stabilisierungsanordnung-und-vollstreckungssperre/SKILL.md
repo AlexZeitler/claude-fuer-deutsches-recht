@@ -238,10 +238,9 @@ Mit freundlichen Grüßen
 
 ## Aktuelle Leitentscheidungen — Stabilisierungsanordnung
 
-- BGH, Urt. v. 10.11.2022 — IX ZB 36/21, NZI 2023, 86 — Stabilisierungsanordnung § 49 StaRUG: strenge Voraussetzungen; konkrete Glaubhaftmachung Sanierungsfaehigkeit erforderlich; allg. Liquiditaetsprobleme nicht ausreichend; Antragsteller muss vollstreckte Schaeden konkret darlegen.
-- LG Frankfurt, Beschl. v. 09.09.2021 — 3-09 RES 1/21 — Stabilisierungsanordnung als Schutzinstrument: automatischer Vollstreckungsschutz; Glaeubiger koennen einzeln Aufhebung beantragen wenn Sanierungs-Aussichten fraglich.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-- LG Duesseldorf, Beschl. v. 14.10.2021 — 25 RES 1/21 — Dauer der Stabilisierungsanordnung: maximal 3 Monate § 53 StaRUG; Verlaengerung nur bei konkretem Fortschritt; blosse Zeitverzoegerung reicht nicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Stabilisierungsanordnung
 
@@ -257,7 +256,7 @@ Mit freundlichen Grüßen
 ---
 <!-- AUDIT 27.05.2026 | Bundle 036
 Entfernt: BGH IX ZB 75/14 (07.05.2015) — WRONG_TOPIC.
-Echtes Thema: Insolvenzgerichtliches Vorpruefungsverfahren Insolvenzplan, Gruppenbildung § 222 InsO, Nachzuegler § 254b InsO (NZI 2015, 697).
-Behauptetes Thema: Vollstreckungsschutz § 21 InsO analog vor Schutzschirmbeschluss (NZI 2015, 519) — falsch.
+Rechtsprechung live pruefen: Thema und Fundstelle nur mit freier/amtlicher Quelle dokumentieren.
+Rechtsprechung live pruefen: Falsche Themenzuordnung ohne verifizierte Quelle nicht ausgeben.
 Kein echter StaRUG-Bezug. Aktion: Eintrag geloescht.
 -->

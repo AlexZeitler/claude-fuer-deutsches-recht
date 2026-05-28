@@ -50,8 +50,7 @@ Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf 
 
 ## Vertiefung: Abgrenzung und Leitsaetze
 
-- EuGH, Urt. v. 31.03.1971 - 22/70 (AETR/Kommission), EuGHE 1971, 263 — AETR-Grundsatz: Kommissions-Empfehlungen und -Mitteilungen koennen rechtliche Wirkungen entfalten wenn sie Aussenwirkung haben; Bindungswirkung trotz fehlender Verbindlichkeit.
-- EuGH, Urt. v. 13.12.1989 - C-322/88 (Grimaldi), EuGHE 1989, 4407 — Empfehlungen: kein Klagerecht aber nationales Gericht muss bei Auslegung nationalen Rechts Empfehlungen beruecksichtigen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage Rechtsakt-Klassifikation
 

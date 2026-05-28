@@ -69,4 +69,4 @@ VDR-Dokumente – Verträge, Protokolle der Gesellschafterversammlung / des Aufs
 - **Steuerrecht:** § 1 GrEStG, §§ 15 ff. UmwStG, § 8b KStG
 - **Kapitalmarktrecht:** §§ 33 ff. WpÜG (Übernahmerecht), MAR (Insiderrecht, Marktmanipulation)
 
-Vgl. Fleischer/Götte (Hrsg.), Münchener Kommentar zum GmbHG, 4. Aufl. 2022; Hölters/Weber (Hrsg.), AktG, 4. Aufl. 2022.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

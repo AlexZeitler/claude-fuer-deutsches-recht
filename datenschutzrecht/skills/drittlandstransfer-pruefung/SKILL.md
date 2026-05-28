@@ -34,8 +34,7 @@ Anwendungsfälle: Kanzlei oder Unternehmen moechte einen US-amerikanischen SaaS-
 
 ### Rechtsprechung und Leitlinien
 
-- **EuGH, Urt. v. 16.07.2020 – C-311/18 (Data Protection Commissioner/Facebook Ireland und Maximillian Schrems), NJW 2020, 2945** (Schrems II): Der EuGH erklärt den EU-US-Privacy-Shield-Angemessenheitsbeschluss für ungültig (Rn. 201). Standardvertragsklauseln bleiben als Transfermechanismus gültig, jedoch nur dann, wenn der Verantwortliche oder Auftragsverarbeiter vor der Übermittlung sicherstellt, dass im Drittland ein dem Unionsrecht aequivalentes Schutzniveau gewaehrleistet ist (Rn. 134). Der Verantwortliche muss prüfen, ob das Rechtssystem des Empfängerlandes einen Schutz bietet, der dem in der Union garantierten Schutzniveau der Sache nach gleichwertig ist; ist dies nicht der Fall, ist die Übermittlung zu unterlassen (Rn. 142–146). `[Modellwissen – Vollzitat geprueft]`
-- **EuGH, Urt. v. 06.10.2015 – C-362/14 (Maximillian Schrems/Data Protection Commissioner), NJW 2015, 3151** (Schrems I): Ungültigkeitserklärung des Safe-Harbor-Angemessenheitsbeschlusses; Grundlage für Schrems II
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **EDSA, Empfehlungen 01/2020 zu Maßnahmen zur Ergänzung von Übermittlungsinstrumenten**, angenommen am 18.06.2021 (Version 2.0): Sechsstufige Pruefmethodik für Transfer Impact Assessment (TIA); massgeblich für die Schrems-II-Umsetzung in der Praxis
 - **EDSA, Leitlinien 05/2021 zum Zusammenwirken von Art. 3 und Kapitel V DSGVO**, angenommen am 18.11.2021: Klärung, wann der raeumliche Anwendungsbereich (Art. 3 DSGVO) und die Drittlandregeln (Kapitel V) kumulativ oder alternativ gelten
 - **DSK Orientierungshilfe Drittstaatentransfer**: Handlungsempfehlungen für verantwortliche Stellen bei Transfers in Drittlaender; abrufbar auf dskonferenz.de `[Modellwissen – aktuellen Stand pruefen]`
@@ -103,7 +102,7 @@ Prüfpunkte bei SCC: Richtiges Modul? Technische Anlage (Anhang I A–C und II) 
 
 ### 4. Transfer Impact Assessment (TIA) nach Schrems II
 
-Nach EuGH C-311/18 Rn. 134 und EDSA-Empfehlungen 01/2020 muss bei SCC-Transfers geprüft werden, ob das Rechtssystem des Empfängerlandes die Wirksamkeit der SCC nicht untergrabt.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **TIA Sechsstufige Methodik (EDSA-Empfehlungen 01/2020):**
 
@@ -187,7 +186,7 @@ Datenkategorien: [Auflistung]
    Quellen: [Transparenzberichte, Rechtsgutachten, EDSA-Laenderanalysen]
 
 3. Schutzlueckenanalyse
-   [Unterlaefen lokale Gesetze die SCC-Schutzwirkung? Pruefung nach EuGH C-311/18 Rn. 134 ff.]
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 4. Ergaenzende Massnahmen
    [Verschluesselung, Pseudonymisierung, vertragliche Massnahmen]
@@ -233,7 +232,7 @@ Wer ist Exporteur?
 
 - **DPF-Prüfung vergessen:** DPF-Zertifizierung ist nicht permanent; Unternehmen koennen ihre Zertifizierung verlieren. Vor jedem Transfer auf data.privacyframework.gov prüfen und erneut prüfen bei Vertragserneuerung.
 - **Falsches SCC-Modul:** Ein Verantwortlicher, der SCC-Modul 3 (AV-zu-AV) verwendet, obwohl er selbst Verantwortlicher ist, erzeugt keine schutzwirkende Grundlage. Konstellation vor Unterzeichnung zwingend prüfen.
-- **TIA als Formalie:** EuGH C-311/18 Rn. 134: Die Prüfung muss ehrlich und konkret sein; pauschal "Risiko akzeptabel" ohne Begründung genuegt nicht. Transparenzberichte auswerten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Art. 49 DSGVO als Regelfall:** Die Ausnahmen des Art. 49 DSGVO sind auf Einzelfälle beschraenkt; systematische und regelmäßige Transfers auf dieser Basis sind nicht zulaessig (EDSA-Leitlinien 2/2018).
 - **Sub-Processor-Kette übersehen:** SCC Modul 2/3 legt dem Importeur Pflichten für Sub-Auftragsverarbeiter auf; deren Drittlandstatus muss ebenfalls abgesichert sein (Art. 28 Abs. 4 DSGVO).
 - **Schlüsselhoheit nicht geprüft:** Verschlüsselung schuetzt nur dann, wenn Schlüssel nicht im Drittland liegen. Cloud-Dienste mit US-Schlüsselmanagement bieten keinen vollständigen Schutz gegen FISA 702-Zugriffe.
@@ -253,8 +252,7 @@ Nächste geplante Überprüfung: 05/2027 oder bei wesentlichen Änderungen.
 
 ## Leitrechtsprechung
 
-- EuGH, Urt. v. 06.10.2015, C-362/14 (Schrems I): Safe-Harbor-Angemessenheitsentscheidung ungültig.
-- EuGH, Urt. v. 16.07.2020, C-311/18 (Schrems II): Privacy-Shield-Angemessenheitsentscheidung ungültig; Standardvertragsklauseln bleiben möglich, verlangen aber eine konkrete Prüfung, ob das Schutzniveau im Drittland praktisch eingehalten werden kann.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage zu Beginn (Entscheidungsbaum)
 

@@ -74,7 +74,7 @@ Die betriebliche Altersversorgung (bAV) ist eine vom AG zugesagte Versorgungslei
 ### Phase 4 — § 1a BetrAVG 15-Prozent-Zuschuss
 
 - Bei Entgeltumwandlung in Direktversicherung/Pensionskasse/Pensionsfonds: AG-Zuschuss-Pflicht 15 Prozent.
-- Hintergrund: AG spart 15 Prozent SV-Beitraege durch Umwandlung; muss diese Ersparnis weitergeben.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Geltung: fuer ab 2019 abgeschlossene Vereinbarungen (Bestand seit 2022).
 
 ### Phase 5 — Auszahlungsphase

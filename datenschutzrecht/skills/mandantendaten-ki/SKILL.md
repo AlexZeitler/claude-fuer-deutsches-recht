@@ -35,16 +35,13 @@ Das Modell benötigt:
 
 ### Leitentscheidungen
 
-1. BVerfG, Beschl. v. 12.10.2011 – 2 BvR 236/08, BVerfGE 129, 208 Rn. 180–200: Das Mandatsgeheimnis ist verfassungsrechtlich durch Art. 12 Abs. 1 GG und das allgemeine Persönlichkeitsrecht (Art. 2 Abs. 1 i.V.m. Art. 1 Abs. 1 GG) geschützt. Die Vertrauensbeziehung zwischen Rechtsanwalt und Mandant setzt absolute Verschwiegenheit voraus; staatliche Eingriffe (Durchsuchungen) bedürfen strenger Verhältnismäßigkeitsprüfung.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-2. BGH, Urt. v. 27.04.2017 – I ZR 55/16, NJW 2017, 3308 Rn. 24–35: Im Kontext des Berufsgeheimnisschutzes stellt der BGH klar, dass die Weitergabe von Mandanteninformationen an Dritte ohne ausdrückliche oder konkludente Einwilligung des Mandanten eine Pflichtverletzung darstellt, auch wenn der Dritte zu Geheimhaltung verpflichtet ist – es sei denn, die Weitergabe ist zur Erfüllung des Mandats unbedingt erforderlich.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-1. Träger, in: Münchener Kommentar zum StGB, 4. Aufl. 2023, § 203 Rn. 80–120: Zu § 203 Abs. 3 Satz 2 StGB n.F. – Voraussetzungen der zulässigen Einbindung mitwirkender Personen: schriftliche Geheimhaltungsverpflichtung, Zweckbindung auf den Mandatsauftrag, faktische Zugangsbeschränkung; keine strafbefreiende Wirkung bei unkontrolliertem Zugang für KI-Trainingsnutzung.
-
-2. Henssler, in: Henssler/Prütting, BRAO, 6. Aufl. 2024, § 43a Rn. 50–90: Zur berufsrechtlichen Dimension der Verschwiegenheitspflicht gegenüber IT-Dienstleistern; Anforderungen an vertragliche Absicherung; Verhältnis von § 43a BRAO zu § 203 StGB; Pflicht zur sorgfältigen Auswahl und Überwachung externer Dienstleister.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 **Schritt 1 – Berufsrechtliche Zulässigkeitsprüfung (§ 203 StGB)**
@@ -93,9 +90,9 @@ Das Modell benötigt:
 
 **Gutachtenstil**:
 
-*§ 203 StGB*: Der Einsatz des US-KI-Dienstes setzt voraus, dass der Anbieter als "mitwirkende Person" i.S.d. § 203 Abs. 3 Satz 2 StGB qualifiziert wird und eine schriftliche Geheimhaltungsvereinbarung vorliegt. Die AGB-Klausel zum KI-Training macht den Dienst für die Verarbeitung von Mandantendaten unzulässig, da ein unkontrollierter Einsatz des Geheimnisses außerhalb des Mandatszwecks stattfinden würde; Strafbarkeit nach § 203 Abs. 1 Nr. 3 StGB droht (Träger, MüKoStGB, 4. Aufl. 2023, § 203 Rn. 95).
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
-*§ 43a Abs. 2 BRAO*: Ohne informierte Einwilligung des Mandanten und ohne vertragliche Sicherstellung der Nicht-Trainingsnutzung liegt eine berufsrechtliche Pflichtverletzung vor (Henssler, in: Henssler/Prütting, BRAO, 6. Aufl. 2024, § 43a Rn. 68).
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 *Art. 28/44 DSGVO*: Ein AVV nach Art. 28 DSGVO ist abzuschließen; wegen des US-Transfers sind SCCs erforderlich, ergänzt durch TIA angesichts FISA 702-Zugriffsmöglichkeiten. EU-Only-Hosting oder Ende-zu-Ende-Verschlüsselung sind als Schutzmaßnahmen zu vereinbaren.
 
@@ -112,7 +109,7 @@ Das Modell benötigt:
 
 ## Quellenpflicht
 
-Alle Aussagen sind nach `references/zitierweise.md` zu belegen. Mindestens zwei Rspr.-Belege im BGH-Stil, zwei Kommentarbelege im Bearbeiter-Stil. Bei Hinweisen zur KI-Nutzung ohne gesicherte Rspr. ausdrücklich auf Kommentarliteratur und EDSA-Leitlinien (insb. EDSA-Leitlinien 07/2020 zu Art. 46 DSGVO) verweisen.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Quellen / Updates
 
@@ -125,10 +122,7 @@ Stand: 05/2026. Aktualität prüfen bei Anpassungen von § 203 StGB, neuen BRAO-
 
 ## Aktuelle Rechtsprechung (v14.2)
 
-- BGH, Urt. v. 15.06.2021 — AnwSt (R) 1/21, NJW 2021, 2883 Rn. 28: Berufsgeheimnis nach § 43a Abs. 2 BRAO gilt für alle dem Anwalt anvertrauten Tatsachen — Eingabe in KI-System ist Offenbarung an Dritten, die berufsrechtlicher Rechtfertigung nach § 43e BRAO bedarf.
-- BGH, Urt. v. 10.11.2020 — 5 StR 264/20, NStZ 2021, 156 Rn. 18: § 203 Abs. 4 StGB (n.F.) setzt voraus, dass der KI-Dienstleister über die strafrechtliche Tragweite der Verschwiegenheitspflicht belehrt wurde; fehlende Belehrung kann strafrechtliche Mitverantwortung begründen.
-- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 182: US-Anbieter unterliegen strukturellen behördlichen Zugriffsrechten (FISA, CLOUD Act); Mandatsdaten bei US-KI-Diensten sind drittlandrechtlich und berufsrechtlich doppelt zu bewerten.
-- BVerfG, Beschl. v. 12.10.2021 — 2 BvR 1368/21, NJW 2022, 55 Rn. 44: Berufsgeheimnis ist verfassungsrechtlich geschützt (Art. 12 GG); IT-Systeme, die Mandatsdaten verarbeiten, müssen den Schutz strukturell sicherstellen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage zu Beginn
 

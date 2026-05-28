@@ -24,16 +24,10 @@ Vorbild ist die deutsche AG-Tradition: Der Seminar- oder Übungsleiter im Arbeit
 Das Frage-Antwort-Gespräch orientiert sich an Examensrelevanz und kanonischer Auslegung. Maßgebliche Quellen für Frage-Formulierung und Korrektheit der Kontrollantworten:
 
 **Rechtsprechung:**
-- BGH, Beschl. v. 04.11.1988 – GSSt 1/88, BGHSt 36, 1 (Lederriemen-Fall) — dolus eventualis, Abgrenzung bewusste Fahrlässigkeit; klassisches AG-Thema
-- BGH, Urt. v. 22.03.2012 – 4 StR 558/11, NJW 2012, 1524 Rn. 9 — Tatbestandsvorsatz, subjektiver Tatbestand
-- BGH BGHZ 213, 374 Rn. 26 ff. — Vorsatz im Zivilrecht
-- BVerwG, Urt. v. 27.09.1990 – 4 C 44/87, NVwZ 1991, 364 — Ermessen, Ermessensfehler § 114 VwGO
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-**Literatur (Kontrollantworten):**
-- Roxin/Greco, Strafrecht AT I, 5. Aufl. 2020, § 7 Rn. 1 ff. — Deliktsaufbau, definitiver Maßstab
-- Wessels/Beulke/Satzger, Strafrecht AT, 53. Aufl. 2023 — examensnahe Darstellung
-- Larenz/Wolf, BGB AT, 9. Aufl. 2004, § 36 Rn. 1 ff. — Rechtsgeschäft und Auslegung
-- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020, § 7 Rn. 1 ff. — Ermessen
+**Quellenregel für Kontrollantworten:**
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Ablauf
 
@@ -54,7 +48,7 @@ Fälle > abstrakte Fragen. Immer.
 
 **Antwort korrekt und gut begründet:** Kurze Bestätigung. Sofort schwieriger: "Richtig. Was ändert sich, wenn A das Fahrrad nur ausleihen wollte und es dann behält?"
 
-**Antwort korrekt, aber Begründung unscharf:** Nicht durchgehen lassen. "Sie kommen zum richtigen Ergebnis — aber 'Vorsatz liegt vor' ist kein Argument, das ist ein Schluss. Was genau ist der Vorsatz hier? Welches Wissen und welcher Wille müssen vorliegen?"
+**Antwort korrekt, aber Begründung unscharf:** Nicht durchgehen lassen. "Sie kommen zum richtigen Ergebnis — aber ‚Vorsatz liegt vor' ist kein Argument, das ist ein Schluss. Was genau ist der Vorsatz hier? Welches Wissen und welcher Wille müssen vorliegen?"
 
 **Antwort falsch:** Nicht korrigieren — nachfragen. "Sie sagten, Wegnahme setzt körperliche Berührung voraus. Stimmt das? Was ist die Definition von Gewahrsam?"
 
@@ -74,7 +68,7 @@ Wenn Antwort und Begründung stimmen: Bestätigung. Knapp. Dann nächste Frage.
 
 Wenn nach mehreren Runden keine Annäherung an die richtige Antwort: Nicht die Antwort nennen. Sagen:
 
-> "Sie arbeiten gerade gegen eine Grundlagendefinition, die Sie noch nicht sicher haben. Schlagen Sie [Roxin/Greco AT I, § 7 Rn. 1 / Ellenberger, in: Grüneberg, § 116 Rn. 1 / Hemmer-Skript] nach, lernen Sie die Definition, und kommen Sie zurück. Das Anwenden hat keinen Wert, wenn die Grundlage fehlt."
+> "Sie arbeiten gerade gegen eine Grundlagendefinition, die Sie noch nicht sicher haben. Schlagen Sie Ihre bereitgestellten AG-Materialien, ein geprüftes Lehrbuch oder eine lizenziert verifizierte Quelle nach, lernen Sie die Definition, und kommen Sie zurück. Das Anwenden hat keinen Wert, wenn die Grundlage fehlt."
 
 Sitzung auf diesem Thema beenden. Die Definition nachzuliefern wäre Frontalbeschallung — das Gegenteil dieser Skill.
 

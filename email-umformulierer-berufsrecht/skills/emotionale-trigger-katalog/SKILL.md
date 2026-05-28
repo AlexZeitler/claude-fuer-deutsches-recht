@@ -15,10 +15,9 @@ Dieser Skill stellt ein strukturiertes Wörterbuch typischer emotionaler und uns
 4. Gibt es berufsrechtlich relevante Schwellenueberschreitungen (§ 43a Abs. 3 BRAO)?
 
 ## Aktuelle Rechtsprechung
-- BVerfG, Beschl. v. 02.07.2013 - 1 BvR 1751/12, NJW 2013, 3153 — Grenze zwischen zulaessiger scharfer Kritik und unzulaessiger Schmahkritik; sachliche Kritik am Gegner bleibt auch in zugespitzter Form schutzwuerdig.
-- BGH, Urt. v. 30.01.2018 - VI ZR 531/16, NJW 2018, 1884 — Qualifizierte Herabwuerdigungen ueberschreiten den Bereich zulässiger Kritik und erfullen Persoenlichkeitsrechtsverletzung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - AGH Muenchen, Beschl. v. 25.03.2015 - BayAGH III-4-14, AnwBl 2015, 560 — § 43a Abs. 3 BRAO: Verwendung von Affektsprache in Schriftsatz fuehrt zu berufsrechtlicher Ruege.
-- OLG Frankfurt, Urt. v. 19.08.2010 - 6 U 70/10, NJW-RR 2011, 105 — Sarkasmus in anwaltlichen Schreiben an Gericht als Verstoss gegen die Wuerde des Verfahrens gewertet.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 43a Abs. 3 BRAO — Sachlichkeitsgebot: Verbot bewusst unwahrer Tatsachenbehauptungen und herabsetzender Aeusserungen
@@ -26,10 +25,9 @@ Dieser Skill stellt ein strukturiertes Wörterbuch typischer emotionaler und uns
 - Art. 5 GG — Meinungsfreiheit: Schutz sachlicher Kritik, nicht von Schmahkritik
 - § 824 BGB — Kreditgefaehrdung durch unwahre Tatsachenbehauptungen
 
-## Kommentarliteratur
-- Gaier/Wolf/Goebel, BRAO § 43a Abs. 3 Rn. 40-80 (Katalog unzulaessiger Aeusserungsformen)
-- Schoenke/Schroeder/Lenckner StGB § 185 Rn. 1-50 (Beleidigung: Grenze zu zulaessiger Kritik)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck und Anwendung
 
 Der Katalog dient als Nachschlagewerk beim Umformulieren konkreter Textpassagen. Er kann direkt auf markierte Textstellen angewendet werden: Eingabe des problematischen Ausdrucks, Ausgabe der neutralen Entsprechung mit kurzer Begründung. Der Fokus liegt auf anwaltlicher und steuerberaterlicher Korrespondenz, ist aber auch für allgemeine Geschäftskorrespondenz geeignet.
@@ -40,7 +38,7 @@ Typ A — Kompetenzabsprachen: Formulierungen, die dem Adressaten fachliche Fäh
 
 ## Berufsrechtlicher Hintergrund
 
-§ 43a Abs. 3 BRAO verbietet bewusst unwahre Tatsachenbehauptungen und herabsetzende Äußerungen. Das Bundesverfassungsgericht hat in ständiger Rechtsprechung bestätigt, dass das Sachlichkeitsgebot für Rechtsanwälte verfassungsgemäß ist und die Meinungsfreiheit aus Art. 5 Abs. 1 GG zulässig einschränkt. Der Katalog hilft, die Grenze zwischen zulässiger Kritik und unzulässiger Herabsetzung im Einzelfall zu erkennen.
+§ 43a Abs. 3 BRAO verbietet bewusst unwahre Tatsachenbehauptungen und herabsetzende Äußerungen. Verfassungsrechtliche Aussagen zur Meinungsfreiheit und zum Sachlichkeitsgebot dürfen nur nach Live-Verifikation der einschlägigen Rechtsprechung ausgegeben werden. Der Katalog hilft, die Grenze zwischen zulässiger Kritik und unzulässiger Herabsetzung im Einzelfall zu erkennen.
 
 ## Trigger-Tabelle (Auswahl)
 

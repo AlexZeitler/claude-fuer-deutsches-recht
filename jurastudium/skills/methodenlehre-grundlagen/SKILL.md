@@ -111,6 +111,5 @@ Wer eine Auslegung gegen den Wortlaut, eine Analogie, eine Reduktion vornimmt, *
 
 ## Was diese Skill nicht tut
 
-- Sie ersetzt nicht das Methodenlehre-Lehrbuch (Larenz/Canaris, Wank, Bydlinski, Möllers, Rüthers/Fischer/Birk). Sie übt die Anwendung.
 - Sie schreibt keine Mustergutachten zur Auslegung.
 - Sie verzichtet auf den Streit zwischen subjektiver und objektiver Auslegungstheorie als akademische Detailfrage, übt aber die praktische Anwendung beider Ansätze.

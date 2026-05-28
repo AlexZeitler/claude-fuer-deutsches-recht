@@ -13,10 +13,7 @@ description: "Student uebrt die Subsumtion Schritt für Schritt: Tatbestandsmerk
 4. Ist das Tatbestandsmerkmal streitig — gibt es verschiedene Definitionen oder Abgrenzungen?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 14.12.2006 - VII ZR 166/05, NJW 2007, 819 — Subsumtion erfordert Sachverhaltsbezug: jede abstrakte Definiton muss mit konkreten Sachverhaltstatsachen verknuepft werden.
-- BGH, Urt. v. 22.11.2001 - I ZR 255/99, NJW 2002, 2031 — Definitionen muessen aus anerkannten Quellen stammen; selbst erfundene Umschreibungen sind methodisch unzulaessig.
-- BGH, Urt. v. 16.01.2009 - V ZR 133/08, NJW 2009, 1061 — Auslegung strittiger Tatbestandsmerkmale nach grammatischer, systematischer, historischer und teleologischer Methode.
-- BGH, Urt. v. 27.11.2008 - VII ZR 206/06, NJW 2009, 580 — Streitige Tatbestandsmerkmale muessen Meinungsstand-Darstellung und eigene Stellungnahme enthalten; einseitige Subsumtion ohne Auseinandersetzung mit Gegenansicht ist unzureichend.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - §§ 133, 157 BGB — Auslegungsgrundsaetze als Massstab fuer Tatbestandsmerkmal-Definitionen
@@ -24,10 +21,9 @@ description: "Student uebrt die Subsumtion Schritt für Schritt: Tatbestandsmerk
 - § 242 StGB — Diebstahl: Modell-Tatbestand fuer objektivsubjektive Mehrstufigkeit
 - § 280 BGB — Schadensersatzanspruch: Modell-Tatbestand mit mehreren Voraussetzungen
 
-## Kommentarliteratur
-- Bydlinski, Juristische Methodenlehre, 2. Aufl. 1991, § 3 Rn. 1-50 (Subsumtion als Grundoperation der Rechtsanwendung)
-- Grüneberg/Grüneberg BGB § 242 Rn. 1-20 (Anwendungsbeispiel konkreter Subsumtion)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Subsumtion ist das **Kern-Handwerk** der juristischen Arbeit. Wer subsumieren kann, kann denken wie ein Jurist.

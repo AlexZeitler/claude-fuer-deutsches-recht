@@ -27,8 +27,7 @@ Dieser Skill erstellt einen vorbereitenden Gesellschafterbeschluss, mit dem die 
 - § 53 GmbHG (Satzungsänderung bedarf drei Viertel der abgegebenen Stimmen und notarieller Beurkundung)
 
 ### Rechtsprechung
-- BGH, Urt. v. 14. Juli 2008 – II ZR 28/07 (Einberufungsmangel und Heilung durch Einstimmigkeit)
-- OLG Hamburg, Urt. v. 8. April 2015 – 11 U 237/14 (Gesellschafterbeschluss und Protokollpflicht)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -94,9 +93,9 @@ Stand: 05/2026. Bei Änderung GmbHG §§ 46 ff. aktualisieren.
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 13.11.2018 — **II ZR 161/17**, NJW 2019, 449 Rn. 16: Gesellschafterversammlungsbeschluss für Kapitalerhöhung muss ordnungsgemäß einberufen sein; Einberufungsmängel führen zur Anfechtbarkeit; für notarielle Beurkundung (§ 53 GmbHG) muss allen Gesellschaftern ausreichend Zeit für die Vorbereitung gegeben werden.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 12.03.2007 — **II ZR 256/08** (Wandeldarlehen zweistufige Konstruktion), BGHZ 182, 272 Rn. 22: Bei der Vorbereitung des Gesellschafterbeschlusses zur Wandlung muss die Forderungswerthaltigkeit des Wandeldarlehens durch den Geschäftsführer bestätigt und im Sacheinlagebericht dokumentiert werden; unterlässt der Geschäftsführer dies, haftet er persönlich nach § 43 GmbHG für etwaige Differenzbeträge.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 

@@ -22,15 +22,11 @@ description: "Mandant ist Anfechtungsgegner und will sich gegen AnfG-Anfechtungs
 
 ## Rechtsprechung (BGH — Verteidigung gegen AnfG-Klage)
 
-- BGH, Urt. v. 21.01.2016 - IX ZR 84/13, NJW 2016, 2735 — Zum Nachweis fehlender Kenntnis: Anfechtungsgegner trägt Beweislast für die Widerlegung der Kenntnisvermutung bei nahestehenden Personen; substantiiertes Vorbringen erforderlich.
-- BGH, Urt. v. 14.06.2018 - IX ZR 232/17, NJW 2018, 2796 — Zur Entreicherung im AnfG: allgemeine Entreicherungseinrede des § 818 Abs. 3 BGB gilt nicht; Gutglaubensgrundsätze können aber nach Treu und Glauben (§ 242 BGB) berücksichtigt werden.
-- BGH, Urt. v. 24.06.2021 - IX ZR 131/20, NJW 2021, 2881 — Zur Gegenleistungs-Rückforderung: Anfechtungsgegner kann bei Rückgewähr seine Gegenleistung vom Schuldner zurückfordern; gegenüber dem anfechtenden Gläubiger kein Zurückbehaltungsrecht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MüKo InsO/Kirchhof § 11 AnfG Rn. 1 ff. (Rechtsfolge und Verteidigung)
-- Uhlenbruck InsO § 3 AnfG Rn. 1 ff. (Vorsatzanfechtung und Kenntnis)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Überblick
 
 Der Anfechtungsgegner hat verschiedene Verteidigungsmöglichkeiten gegen eine AnfG-Anfechtungsklage. Sie richten sich nach dem jeweiligen Anfechtungstatbestand.

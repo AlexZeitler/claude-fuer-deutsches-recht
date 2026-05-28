@@ -81,7 +81,7 @@ Begriffe des Unionsrechts werden grundsätzlich **autonom** ausgelegt — unabh�
 Konsequenzen:
 
 1. **Keine reflexhafte Übertragung nationaler Begriffe.** Auch wenn eine unionsrechtliche Norm in deutscher Sprache dieselben Wörter benutzt wie eine BGB-Norm, sind die Begriffe nicht automatisch deckungsgleich. "Schaden" in Art. 82 DSGVO ist nicht der Schadensbegriff der §§ 249 ff. BGB.
-2. **EuGH als letztverbindliche Instanz.** Vorabentscheidungsverfahren nach Art. 267 AEUV; bei letztinstanzlichen Gerichten Vorlagepflicht, soweit nicht *acte clair* oder *acte éclairé* (CILFIT-Doktrin, EuGH 283/81).
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 3. **Sprachfassungen-Vergleich.** Alle EU-Amtssprachen sind gleichermaßen verbindlich. Bei zweifelhaftem Wortlaut sind mehrere Fassungen vergleichend heranzuziehen.
 
 ### Erwägungsgründe — Auslegungshilfe ohne normative Wirkung
@@ -95,7 +95,7 @@ Erwägungsgründe stehen am Anfang jedes Unionsrechtsakts und lassen den Willen 
 
 ### Unionsrechtskonforme Auslegung des nationalen Rechts
 
-Das nationale Recht ist soweit wie möglich richtlinien- und unionsrechtskonform auszulegen (Pflicht aus Art. 4 Abs. 3 EUV; EuGH, Marleasing, C-106/89; EuGH, Pfeiffer, C-397/01 bis C-403/01).
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Grenze am Wortlaut.** Eine Auslegung *contra legem* ist unzulässig.
 - **Keine horizontale Direktwirkung von Richtlinien** zwischen Privaten (EuGH, Marshall, 152/84). Wer sich gegen einen Privaten auf eine Richtlinie beruft, argumentiert über die richtlinienkonforme Auslegung des nationalen Umsetzungsrechts — und die endet am Wortlaut.
@@ -121,7 +121,7 @@ Wer Rechtsfortbildung betreibt oder vorträgt, sollte sie **offen kennzeichnen**
 
 - **Gesetz** ist Ausgangspunkt jeder Argumentation.
 - **Rechtsprechung** ist nicht bindend (außer § 31 BVerfGG, Bindung an BVerfG-Entscheidungen), aber in der Praxis **gewichtig** — insbesondere BGH-Senatsentscheidungen mit Pinpoint-Randnummer.
-- **Kommentare und Aufsätze** sind in Deutschland argumentativ **zentral** — insbesondere wenn keine einschlägige Rechtsprechung vorliegt. Grüneberg (vormals Palandt) als Kurzkommentar, MüKo und Staudinger als Großkommentare.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - **Herrschende Meinung** ist kein Selbstbeleg — sie muss mit konkreten Belegen unterlegt werden.
 
 Zitierregeln nach `references/zitierweise.md` (v3.0).
@@ -187,7 +187,7 @@ Fristberechnung §§ 187 ff. BGB iVm § 222 ZPO; bei Wochenenden und Feiertagen 
 
 ## 13. Verhältnis zur wissenschaftlichen Methodendebatte
 
-Die rechtswissenschaftliche Methodendebatte (insbesondere bei Bydlinski, Larenz/Canaris, Rüthers, Engisch, Hassemer) führt darüber hinaus weitere Diskussionsstränge — etwa zur Rangfolge der Kanones, zur Trennung von Auslegung und Rechtsfortbildung, zur Bindung des Richters an Gesetz und Recht, zur Rolle objektiv-teleologischer Argumente, zu den Grenzen ergebnisorientierter Auslegung und zur Frage, wann Rechtsanwendung in Rechtsetzung übergeht. Diese Debatte ist für die wissenschaftliche Auseinandersetzung wichtig; in der **anwaltlichen Praxis** taucht sie aber selten direkt auf. Wo sie in Schriftsätzen relevant wird (Verfassungsbeschwerde, Verfassungsklage, methodenkritische Anfechtung einer Rechtsprechungslinie), ist sie gesondert zu führen und mit präzisen Belegen zu untermauern.
+Die rechtswissenschaftliche Methodendebatte führt darüber hinaus weitere Diskussionsstränge — etwa zur Rangfolge der Kanones, zur Trennung von Auslegung und Rechtsfortbildung, zur Bindung des Richters an Gesetz und Recht, zur Rolle objektiv-teleologischer Argumente, zu den Grenzen ergebnisorientierter Auslegung und zur Frage, wann Rechtsanwendung in Rechtsetzung übergeht. Diese Debatte ist für die wissenschaftliche Auseinandersetzung wichtig; in der **anwaltlichen Praxis** taucht sie aber selten direkt auf. Wo sie in Schriftsätzen relevant wird (Verfassungsbeschwerde, Verfassungsklage, methodenkritische Anfechtung einer Rechtsprechungslinie), ist sie gesondert zu führen und mit bereitgestellten oder lizenziert verifizierten Belegen zu untermauern.
 
 Wer einen rein dogmatischen Methodenstandpunkt einnehmen und gegen herrschende Rechtsprechung argumentieren will, kann das tun — sollte dann aber **offen kennzeichnen**, dass die Argumentation gegen die Linie des BGH oder BVerfG geht, und die methodische Begründung umso sauberer vortragen.
 
@@ -204,15 +204,6 @@ Wer einen rein dogmatischen Methodenstandpunkt einnehmen und gegen herrschende R
 - Habe ich Verjährung, prozessuale Fristen und Beweislast geprüft?
 - Belege ich jede Aussage mit einer konkreten Fundstelle (Norm, Rechtsprechung, Kommentarstelle) — nicht mit "h. M."?
 
-## 15. Literaturhinweise
+## Quellenregel
 
-Standardwerke zur Methodenlehre (für vertiefte Auseinandersetzung; nicht zwingend für die alltägliche anwaltliche Bewertung):
-
-- **Reinhold Zippelius**, Juristische Methodenlehre, aktuelle Auflage (Beck) — kompakte Einführung.
-- **Karl Engisch**, Einführung in das juristische Denken, aktuelle Auflage (Kohlhammer) — klassische Grundlegung.
-- **Franz Bydlinski**, Juristische Methodenlehre und Rechtsbegriff, 2. Auflage 1991 — österreichisch geprägt, aber im deutschen Sprachraum maßgeblich.
-- **Bernd Rüthers / Christian Fischer / Axel Birk**, Rechtstheorie und Juristische Methodenlehre, aktuelle Auflage (Beck) — moderne deutschsprachige Gesamtdarstellung.
-- **Winfried Hassemer**, Tatbestand und Typus, 1968 — methodenkritisch zur Grenzbildung von Norm und Sachverhalt.
-- **Gustav Radbruch**, Gesetzliches Unrecht und übergesetzliches Recht, SJZ 1946, 105 — historischer Anker für die äußerste Grenze positivistischer Rechtsanwendung.
-
-Diese Werke sind für Verfassungsbeschwerden, methodenkritische Schriftsätze und wissenschaftliche Auseinandersetzungen zitierbar. Für die alltägliche zivilrechtliche Mandatsarbeit reichen Grüneberg (vormals Palandt), MüKo BGB, Staudinger und die einschlägige BGH-Rechtsprechung.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

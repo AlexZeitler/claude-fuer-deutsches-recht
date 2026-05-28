@@ -16,10 +16,7 @@ description: "Eingehende Zivilakte vor erster Prüfung strukturieren: Richter od
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 12.12.2019 - III ZR 198/18, NJW 2020, 755 — Gericht muss auf rechtliche Gesichtspunkte hinweisen, die erkennbar übersehen wurden; Verletzung Paragraf 139 ZPO führt zu Revisionszulassung.
-- BGH, Urt. v. 21.02.2017 - XI ZR 185/16, NJW 2017, 1823 — Zur Hinweispflicht bei Unschlüssigkeit der Klage; Gericht darf Klage nicht ohne Vorankündigung abweisen.
-- BGH, Urt. v. 25.01.2018 - III ZR 432/16, NJW 2018, 1093 — Präklusion nach Paragraf 296 ZPO setzt schuldhafte Säumnis voraus; Gericht hat Ermessen.
-- BVerfG, Beschl. v. 05.05.1987 - 1 BvR 903/85, NJW 1987, 2667 — Anspruch auf rechtliches Gehör Art. 103 Abs. 1 GG verlangt echte Auseinandersetzung mit Parteivorbringen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -29,12 +26,9 @@ description: "Eingehende Zivilakte vor erster Prüfung strukturieren: Richter od
 - § 358 ff. ZPO — Beweisbeschluss und Beweisaufnahme
 - § 286 ZPO — freie Beweiswürdigung
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller/Greger, ZPO, 35. Aufl. 2024, § 139 Rn. 1-25 (Hinweispflicht Inhalt und Grenzen)
-- Thomas/Putzo, ZPO, 45. Aufl. 2024, § 296 Rn. 1-30 (Präklusion)
-- MüKo-ZPO/Fritsche, 6. Aufl. 2022, § 139 Rn. 1-40
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Erster, systematischer Pruefschritt nach dem Eingang einer neuen Sache — sei es bei Aktenzuteilung an einen Berichterstatter, beim Wechsel des zuständigen Richters oder bei der Vorbereitung einer Beweisaufnahme. Ziel ist eine **vollständige Aktenübersicht**, die in der nachfolgenden Relation und in den prozessleitenden Maßnahmen (Paragraf 139 ZPO Hinweise, Beweisbeschluss, Vergleichsvorschlag) tragfähig ist.

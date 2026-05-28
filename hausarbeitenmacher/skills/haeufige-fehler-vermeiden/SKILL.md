@@ -13,10 +13,7 @@ description: "Student will typische Fehler in juristischen Hausarbeiten vermeide
 4. Ist die Arbeit zum ersten Mal gelesen (Ersterkennung) oder nach einer Pause (frische Perspektive)?
 
 ## Aktuelle Rechtsprechung und Methodik
-- BGH, Urt. v. 27.11.2008 - VII ZR 206/06, NJW 2009, 580 — Typischer Subsumtionsfehler: Tatbestandsmerkmal ohne Sachverhaltsbezug abgehandelt; BGH kassiert entsprechende Urteile wegen Begruendungsmangels.
-- BGH, Urt. v. 22.11.2001 - I ZR 255/99, NJW 2002, 2031 — Unbelegte Tatsachenbehauptungen in juristischen Schriften begründen zivilrechtliche Haftung; im Lernkontext: Fehler ohne Beleg wird als methodisch unzulaessig bewertet.
-- BGH, Urt. v. 14.10.2003 - VI ZR 425/02, NJW 2004, 356 — Sorgfaeltige Quellenrecherche als Sorgfaltspflicht; im Studienkontext: fehlende Fundstellen begruenden Abzug.
-- BVerfG, Beschl. v. 04.02.1975 - 2 BvL 5/74, BVerfGE 38, 386 — Logisch-konsistente Argumentation als rechtsstaatliches Gebot; Fehler in Prüfungslogik fuehren zu materiell falschen Ergebnissen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 195 BGB — Regelverjaehrung: haeufig vergessener Pruefungspunkt, fuehrt zu Fehler 19
@@ -24,10 +21,9 @@ description: "Student will typische Fehler in juristischen Hausarbeiten vermeide
 - § 242 BGB — Treu und Glauben: verhindert uebertrieben formalistische Fehler
 - §§ 133, 157 BGB — Auslegungsgrundsaetze: Masstab fuer Definitionen und Subsumtion
 
-## Kommentarliteratur
-- Larenz/Wolf Allgemeiner Teil BGB, 9. Aufl. 2004, § 2 Rn. 40-70 (Haeufige Fehler in der Rechtsanwendung)
-- Bydlinski, Juristische Methodenlehre, 2. Aufl. 1991, § 4 (Korrekte und fehlerhafte Subsumtion)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Diese Liste hilft Dir, **bevor Du anfängst zu schreiben** und **beim Endcheck**, typische Fehler zu vermeiden. Jeder Fehler kommt mit einer sanften Korrektur-Anregung.
@@ -125,7 +121,7 @@ Diese Liste hilft Dir, **bevor Du anfängst zu schreiben** und **beim Endcheck**
 
 ### Fehler 11: Fehlende Fundstelle
 
-**Symptom**: "BGH NJW 2024" ohne Anfangsseite.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Korrektur**:
 - Volle Fundstelle: Gericht, Datum, Aktenzeichen, Zeitschrift Jahrgang Anfangs-Seite konkrete Stelle / Randnummer.
@@ -142,7 +138,7 @@ Diese Liste hilft Dir, **bevor Du anfängst zu schreiben** und **beim Endcheck**
 **Symptom**: BGH zitieren, aber nur aus einem Kommentar entnommen.
 
 **Korrektur**:
-- Original lesen, oder kennzeichnen: "Zitiert nach Müller in NJW 2024 Seite 765."
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Fehler 14: Lehrbuch-Plagiat
 

@@ -13,10 +13,7 @@ description: "Jurastudium-Einstieg und Lernprofil-Aufnahme: Anwendungsfall Stude
 4. Welche Lernmaterialien stehen zur Verfuegung?
 
 ## Aktuelle Rechtsprechung
-- BVerfG, Beschl. v. 17.04.1991 - 1 BvR 419/81, BVerfGE 84, 34 — Individuelle Vorbereitung auf juristischen Staatspruefungen ist Ausfluss des Gleichbehandlungsgebots (Art. 3 GG); Lernprofil-Erstellung unterstuetzt Chancengleichheit.
-- BVerwG, Urt. v. 28.10.2010 - 2 C 52.09, NVwZ 2011, 240 — Bundeslandspezifische Schwerpunkte der JAG-Pruefungen sind massgeblich; Kaltstart erfasst diese Parameter.
-- BGH, Urt. v. 14.12.2006 - VII ZR 166/05, NJW 2007, 819 — Methodik als Grundvoraussetzung juristischen Lernens; Kaltstart identifiziert Methodik-Stand und Luecken.
-- BVerfG, Beschl. v. 11.06.1980 - 1 PBvU 1/79, BVerfGE 54, 277 — Sokratisches Lerngesprach als didaktisch wertvoll; Kaltstart-Interview setzt diesen Ansatz um.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 13 JAG NRW (exemplarisch) — Staatspruefungs-Anforderungen als Profilierungs-Grundlage
@@ -24,10 +21,9 @@ description: "Jurastudium-Einstieg und Lernprofil-Aufnahme: Anwendungsfall Stude
 - §§ 133, 157 BGB — Auslegung als Kernkompetenz: immer abzufragen im Kaltstart
 - § 195 BGB — Verjaehrung als Dauerthema: immer im Profil zu beruecksichtigen
 
-## Kommentarliteratur
-- Larenz/Wolf Allgemeiner Teil BGB, 9. Aufl. 2004, Einl. Rn. 1-25 (Einstieg in die Rechtswissenschaft)
-- Brox/Walker Allgemeines Schuldrecht, 48. Aufl. 2024, Einl. Rn. 1-20 (Lern-Ziele im Schuldrecht)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill ist der **einmalige Einrichtungsschritt**, der alle anderen Skills erst brauchbar macht. Er stellt die Fragen, die nötig sind, um dein Lernprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/jurastudium/CLAUDE.md` sinnvoll zu befüllen.

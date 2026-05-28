@@ -23,7 +23,7 @@ Spezial-Mandat: Mandant ist Anwalt oder Anwalt-Mitarbeiter, der Sorge hat, dass 
 
 - **Vorschlag COM(2022) 209** "ChatControl 2.0" — Pflicht-Scanning aller Kommunikationsdienste auf CSAM-Material und Grooming
 - **EU-Datenschutzbeauftragter EDPS-Stellungnahme** (2022) — sieht Verstoß gegen Grundrechte
-- **EuGH C-401/19** (Polnische Klage) — Grundrechte-Maßstab für Online-Filter
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Nationales Anwaltsrecht
 
@@ -37,9 +37,7 @@ Spezial-Mandat: Mandant ist Anwalt oder Anwalt-Mitarbeiter, der Sorge hat, dass 
 
 ### Leitentscheidungen
 
-- BVerfG, Beschl. v. 27.4.2021 — 1 BvR 745/21 (Anwaltsgeheimnis bei staatlichem Zugriff)
-- BVerfG, Urt. v. 19.4.2016 — 1 BvR 3309/13 (Beschlagnahmeverbot)
-- BGH, Beschl. v. 13.5.2021 — 5 StR 26/21 (Reichweite § 160a StPO)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Konflikt mit ChatControl 2.0
 
@@ -118,4 +116,4 @@ Spezial-Mandat: Mandant ist Anwalt oder Anwalt-Mitarbeiter, der Sorge hat, dass 
 
 ## Quellen und Updates
 
-Stand: 05/2026. ChatControl 2.0 COM(2022) 209 weiterhin im Rat-Verfahren (Stand 2026); Verabschiedung verzögert. BVerfG 1 BvR 745/21 als Schutz-Maßstab. Bei Verabschiedung dringend Konsultation aktualisieren.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

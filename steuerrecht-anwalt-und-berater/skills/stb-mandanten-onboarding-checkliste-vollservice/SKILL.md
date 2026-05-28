@@ -57,7 +57,7 @@ B. VOLLMACHTEN
 [ ] Vollmacht DRV (SV-Pruefung)
 [ ] Vollmacht Krankenkassen
 [ ] Vollmacht BG
-[ ] Vollmacht IHK/HWK (Veroeffentlichung)
+[ ] Vollmacht IHK/lizenzpflichtige Literaturquelle (Veroeffentlichung)
 [ ] Bestellung Empfangsbevollmaechtigter beim FA
 
 C. STAMMDATEN

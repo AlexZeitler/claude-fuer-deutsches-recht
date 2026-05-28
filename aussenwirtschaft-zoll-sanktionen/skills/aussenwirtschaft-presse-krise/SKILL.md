@@ -62,10 +62,7 @@ Kläre vor dem Krisen-Response:
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- BGH, Urt. v. 15.11.1994 - VI ZR 56/94, NJW 1995, 861 — Gegendarstellungsrecht bei falschen Tatsachenbehauptungen in Presseberichten; Unternehmen koennen unrichtige Sachverhaltsdarstellungen durch Gegendarstellung berichtigen lassen.
-- BVerfG, Beschl. v. 25.10.2005 - 1 BvR 1696/98, NJW 2006, 207 — Presse- und Meinungsfreiheit vs. Unternehmensehre; Berichterstattung ueber Exportkontrollverdachtsfaelle ist grundsaetzlich zulassig, wenn Faktengrundlage vorliegt.
-- LG Hamburg, Urt. v. 26.01.2018 - 324 O 63/17 — Einstweilige Verfuegung gegen Presseberichterstattung ueber laufende Ermittlungsverfahren; irreparabler Imageschaden als Grund fuer dringliche Massnahme.
-- OLG Muenchen, Urt. v. 12.07.2016 - 18 U 1689/16 — Unterlassungsanspruch gegen Veroeffentlichung von Geheimhaltungspflichten unterliegenden Compliance-Berichten; Mandatsgeheimnis schutzt anwaltliche Untersuchungsberichte.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette Pressekrise/Krisenmanagement
 
@@ -75,11 +72,9 @@ Kläre vor dem Krisen-Response:
 - § 97a UrhG — Abmahnung bei unerlaubter Veroeffentlichung von Dokumenten
 - § 203 StGB — Verletzung von Berufsgeheimnissen (Verteidiger-Kommunikation)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Wenzel, Handbuch Wort- und Bildberichterstattung, 5. Aufl. — Presserecht Praxis
-- Mueller/Springer, Compliance und Kommunikation, 2020 — Krisenmanagement aus Anwaltsperspektive
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Krisen-Q&A / Pressestatement
 
 **Adressat:** Pressesprecher / CEO — **Tonfall:** besonnen, faktenneutral, kein Schuldeingestaendnis

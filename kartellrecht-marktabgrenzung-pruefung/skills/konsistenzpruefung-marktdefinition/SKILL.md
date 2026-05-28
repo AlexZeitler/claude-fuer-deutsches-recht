@@ -67,9 +67,8 @@ Konsistenz: **hoch / mittel / gering** — mit Hauptwiderspruch in einem Satz.
 
 ## Leitentscheidungen Konsistenzpruefung
 
-- EuGH, Urt. v. 21.09.2023 — C-176/19 P (Servier), ECLI:EU:C:2023:700 — Konsistenzgebot EK-Begruendung; widersprueche zwischen Marktdefinition und Missbrauchsanalyse unzulaessig.
-- BGH, Beschl. v. 07.11.2023 — KZR 67/21, WuW 2024, 90 — Interne Konsistenz der Marktabgrenzung; Verfahren muss auf einheitlicher Marktdefinition beruhen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bechtold/Bosch GWB § 18 Rn. 1-20 (Marktdefinition Konsistenz, Fehlerfolgen)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

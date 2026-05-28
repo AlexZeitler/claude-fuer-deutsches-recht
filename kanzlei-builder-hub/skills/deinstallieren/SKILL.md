@@ -34,12 +34,11 @@ Den vollständigen Deinstallations-, Deaktivierungs- und Reaktivierungsworkflow 
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 14.07.2005 – IX ZR 284/04, NJW 2005, 2858 — Kanzlei haftet für ordnungsgemäße Dokumentation aller kanzleiinternen Vorgänge; fehlende Protokollierung von Änderungen am Informationssystem geht zu Lasten der Kanzlei.
-- BVerfG, Beschl. v. 06.11.2019 – 1 BvR 16/13, NJW 2020, 300 (Recht auf Vergessen I) — Das Recht auf informationelle Selbstbestimmung umfasst Löschungsansprüche; Kanzleien müssen Lösch- und Deinstallationsvorgänge so gestalten, dass Betroffenenrechte effektiv durchsetzbar sind.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentar- und Aufsatzbelege
+### Quellenregel
 
-- Henssler/Prütting, BRAO, 5. Aufl. 2023, § 50 Rn. 8 ff. — Umfang der Aktenführungspflicht bei digitaler Kanzleiorganisation; Anforderungen an Lösch- und Änderungsnachweise.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Vogel, BRAO, 1. Aufl. 2022, § 43a Rn. 112 ff. — Verschwiegenheits- und Sicherheitspflichten beim Einsatz und Betrieb externer Softwarewerkzeuge in der Kanzlei.
 
 ---
@@ -133,9 +132,8 @@ Bei der Ausführung dieses Skills sind folgende Quellen als anwendbares Recht zu
 - Art. 5 Abs. 2, Art. 17 DSGVO (Rechenschaftspflicht, Recht auf Löschung)
 - §§ 257 HGB, 147 AO (Aufbewahrungsfristen)
 - AI Act Art. 26 (Deployer-Pflichten, Außerbetriebnahme-Dokumentation)
-- BGH, Urt. v. 14.07.2005 – IX ZR 284/04, NJW 2005, 2858
-- BVerfG, Beschl. v. 06.11.2019 – 1 BvR 16/13, NJW 2020, 300
-- Henssler/Prütting, BRAO, 5. Aufl. 2023, § 50 Rn. 8 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Vogel, BRAO, 1. Aufl. 2022, § 43a Rn. 112 ff.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

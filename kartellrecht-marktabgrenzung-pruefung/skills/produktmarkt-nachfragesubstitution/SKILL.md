@@ -61,10 +61,8 @@ Stufe: **eng / angemessen / zu weit** — mit Kurzformulierung der Hauptschwäch
 
 ## Leitentscheidungen Nachfragesubstitution
 
-- EuGH, Urt. v. 14.02.1978 — Rs. 27/76 (United Brands), Slg. 1978, 207 — Nachfragesubstitution Primaerkriterium; Verbraucherperspektive; saisonale und qualitative Faktoren.
-- EuGH, Urt. v. 13.02.1979 — Rs. 85/76 (Hoffmann-La Roche), Slg. 1979, 461 — Kreuzpreiselastizitaet als Indikator; Vitamingruppen nicht substitutionsfaehig.
-- BGH, Beschl. v. 23.06.2020 — KVR 69/19, NZKart 2020, 557 — Kundenbefragungen als Evidenz Nachfragesubstitution; Methodenqualitaet entscheidend.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bechtold/Bosch GWB § 18 Rn. 5-20 (Nachfragesubstitution, Kreuzpreiselastizitaet, SSNIP)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

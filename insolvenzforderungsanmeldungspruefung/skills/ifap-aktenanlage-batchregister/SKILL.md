@@ -45,9 +45,7 @@ Freundlich, präzise, aktennah. Der Skill trennt interne Bewertung, Tabellenverm
 
 ## Rechtliche Grundlagen und Leitentscheidungen
 
-- BGH, Urt. v. 19.02.2009 — IX ZR 2/08, NZI 2009, 389 — Insolvenzverwalter-Pflicht zur ordnungsgemaessen Fuehrung der Insolvenztabelle: Fehler bei Tabellenanlage und Aktenregistrierung begruenden persoenliche Haftung des IV; Sorgfaltsmassstab wie ein ordentlicher Kaufmann.
-- BGH, Urt. v. 25.09.2014 — IX ZR 252/13, NZI 2015, 31 — Verwalterhaftung bei Verlust von Forderungsanmeldungen: IV haftet wenn Anmeldungen verloren gehen und Glaeubiger Rechte verlieren; Dokumentationspflicht aus § 66 InsO.
-- BGH, Urt. v. 22.09.2005 — IX ZB 55/04 — Pruefungstermin § 176 InsO: IV muss Tabelle vollstaendig und richtig fuehren; falsche Eintragungen koennen Schadensersatz des Glaeubiger-Ausschusses begruenden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Aktenanlage
 

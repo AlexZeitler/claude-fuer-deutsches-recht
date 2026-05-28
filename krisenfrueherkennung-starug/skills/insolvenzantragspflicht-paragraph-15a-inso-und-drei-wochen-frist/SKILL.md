@@ -17,8 +17,7 @@ description: "Insolvenzantragspflicht nach § 15a InsO und Drei-Wochen-Frist: GF
 - § 15b InsO (Zahlungsverbote nach Insolvenzreife)
 - § 43 GmbHG (Sorgfaltspflicht)
 - § 64 GmbHG a.F. / § 15b InsO n.F. (Masseerhaltungspflicht)
-- BGH II ZR 234/17 (Berechnung der Drei-Wochen-Frist)
-- BGH II ZR 88/99 vom 08.01.2001 (BGHZ 146, 264) (Haftung bei verspätetem Antrag)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -50,7 +49,7 @@ Die Antragspflicht wird ausgelöst, wenn:
 
 ### 2. Die Drei-Wochen-Frist — Inhalt und Berechnung
 
-**Ausgangspunkt:** Kenntnis des Insolvenzgrundes — nicht Eintritt, sondern **Kenntnis** (BGH II ZR 234/17).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Berechnung:**
 ```

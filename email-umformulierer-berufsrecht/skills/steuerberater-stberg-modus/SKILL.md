@@ -15,10 +15,7 @@ Dieser Skill passt den Umformulierungsprozess an die spezifischen Berufspflichte
 4. Hat das Schreiben rechtsverbindliche Wirkung (Einspruch, Klage) oder ist es nur informell?
 
 ## Aktuelle Rechtsprechung
-- BFH, Urt. v. 28.11.2017 - VIII R 31/14, BStBl. II 2018, 358 — Steuerberaterhaftung: gewissenhafte Berufsausuebung nach § 57 StBerG umfasst sachliche und korrekte Korrespondenz mit dem Finanzamt.
-- BGH, Urt. v. 07.03.2013 - IX ZR 64/12, NJW 2013, 2345 — Sachliche Richtigstellung eines Fehlers des Vorgaenger-Steuerberaters ist zulaessig und geboten; abwertende Formulierungen ueber den Kollegen aber unzulaessig.
-- BFH, Urt. v. 12.06.2019 - XI R 45/17, BStBl. II 2019, 780 — Einspruchsschreiben muss klar und sachlich sein; mangelhafte Formulierung kann zur Auslegungsschwierigkeit fuehren.
-- OLG Stuttgart, Urt. v. 15.10.2018 - 12 U 96/17 — § 9 BOStB Kollegialitaet: Herabwuerdigung des Vorgaengerberaters in Mandantenkorrespondenz verletzt Berufspflicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 57 StBerG — Allgemeine Berufspflichten: Gewissenhaftigkeit, Verschwiegenheit, Sachlichkeit
@@ -26,10 +23,9 @@ Dieser Skill passt den Umformulierungsprozess an die spezifischen Berufspflichte
 - § 5 BOStB — Verschwiegenheitspflicht (analog § 2 BORA)
 - § 9 BOStB — Kollegialitaetsgebot fuer Steuerberater
 
-## Kommentarliteratur
-- Gehre/Koslowski StBerG, 6. Aufl. 2009, § 57 Rn. 1-60 (Berufspflichten: Sachlichkeit und Gewissenhaftigkeit)
-- Fischer/Braun BOStB § 9 Rn. 1-25 (Kollegialitaet unter Steuerberatern)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## § 57 StBerG — Gewissenhafte Berufsausübung
 
 § 57 Abs. 1 StBerG verpflichtet Steuerberater zu Unabhängigkeit, Gewissenhaftigkeit, Verschwiegenheit und einem Verhalten, das dem Vertrauen in den Berufsstand entspricht. In der Korrespondenz bedeutet dies: sachliche Kommunikation mit Mandanten, Finanzbehörden und Kollegen; keine Äußerungen, die das Ansehen des Berufsstands schädigen könnten; Trennung von persönlicher Meinung und beruflicher Stellungnahme.

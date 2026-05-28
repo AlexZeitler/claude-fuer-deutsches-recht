@@ -21,12 +21,9 @@ description: "Anfechtung unentgeltlicher Leistungen in der Insolvenz nach § 134
 
 Hinweis für diesen Auditstand: § 134 InsO wird hier vorrangig aus dem aktuellen Gesetzestext geprüft. Unsichere Einzelfallzitate sind nicht erforderlich; bei konkreter Prozessverwendung sind Rechtsprechungsnachweise fallbezogen nachzuziehen.
 
-## Kommentarliteratur
+## Quellenregel
 
-Kayser in: MüKoInsO, 4. Aufl. 2023, § 134 Rn. 1–60 (Unentgeltlichkeit, Frist, Ausnahmen).
-Gehrlein in: Uhlenbruck, InsO, 15. Aufl. 2023, § 134 Rn. 1–45 (gemischte Schenkung, nahestehende Personen).
-Brinkmann in: Uhlenbruck, InsO, 15. Aufl. 2023, § 138 Rn. 1–30 (nahestehende Personen, Abgrenzung).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Obersatz
 
 Anfechtbar sind nach § 134 Abs. 1 InsO unentgeltliche Leistungen des Schuldners, es sei denn, sie sind früher als vier Jahre vor Insolvenzantrag vorgenommen worden.

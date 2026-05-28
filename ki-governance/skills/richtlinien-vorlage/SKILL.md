@@ -49,11 +49,10 @@ keine konkrete Position zu den schwierigen Entscheidungspunkten.
 
 **Leitentscheidungen**
 
-- EuGH, Urt. v. 07.12.2023 – C-634/21, NJW 2024, 126 (Schufa-Score):
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Richtlinie muss Art. 22 Abs. 3 DSGVO-Widerspruchsrecht bei automatisierten
   Entscheidungen operationalisieren.
-- EuGH, Urt. v. 27.02.2025 - C-203/22 (Dun & Bradstreet Austria), NJW 2025, 1471: Art. 15 Abs. 1 lit. h DSGVO verlangt aussagekraeftige Informationen zur involvierten Logik automatisierter Bonitaetsbeurteilungen; Geschaeftsgeheimnisse sind im Einzelfall zu schuetzen.
-- BAG, Urt. v. 13.01.2004 – 9 AZR 603/02, NZA 2004, 784: Mitbestimmungs-
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   pflicht bei technischen Überwachungssystemen; gilt auch für KI-basierte
   Mitarbeiterbewertung.
 
@@ -155,7 +154,7 @@ Zustimmung erfordern `[prüfen — § 87 BetrVG; anwaltliche Prüfung empfohlen]
 - **DSGVO Art. 22** bei automatisierten Entscheidungen.
 - **§ 87 Abs. 1 Nr. 6 BetrVG** bei Mitarbeiter-KI.
 - **GeschGehG §§ 2, 4** bei Abschnitt zu vertraulichen Daten.
-- **EuGH C-634/21 (Schufa-Score)** beim Abschnitt zu automatisierten
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Entscheidungen.
 - **Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 4.**
 - **Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22.**

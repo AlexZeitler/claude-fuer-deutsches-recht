@@ -1,6 +1,6 @@
 # Lobbyregister Open Data und API V2
 
-Stand: 27.05.2026. Diese Referenz beschreibt die technische Kontrollschicht des Plugins fuer oeffentliche Lobbyregisterdaten. Sie ersetzt nicht das authentifizierte Lobbyregisterportal fuer Registrierung, Aktualisierung, Bestaetigung oder Uploads.
+Stand: 27.05.2026. Diese Referenz beschreibt die technische Kontrollschicht des Plugins fuer oeffentliche Lobbyregisterdaten. Sie ersetzt keine bereitgestellten Lehrmaterialien und keine verifizierte Quellenarbeit.
 
 ## Offizielle Quellen
 

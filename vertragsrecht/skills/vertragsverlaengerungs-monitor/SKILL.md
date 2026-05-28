@@ -16,10 +16,7 @@ description: 'Zeigt Verträge mit ablaufenden Kündigungsfristen an und warnt re
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 11.10.2007 - III ZR 63/07, NJW 2007, 3199 — Verlängerungsklausel in B2C-AGB: automatische Verlängerung um mehr als 1 Jahr nach § 309 Nr. 9 BGB unwirksam; Vertrag endet ohne wirksame Kündigung, wenn Klausel nichtig.
-- BGH, Urt. v. 19.11.2009 - III ZR 108/08, NJW 2010, 150 — Kabelvertrag; Laufzeit 24 Monate mit 6 Monaten Kündigungsfrist in B2C unangemessen (§ 307 BGB); 12 Monate Erstlaufzeit als Obergrenze.
-- BGH, Urt. v. 23.10.2014 - III ZR 82/13, NJW 2014, 3438 — Fristbeginn: Kündigungsfrist beginnt mit Zugang der Kündigung beim Empfänger (§ 130 BGB); Einschreiben-Einwurf gilt mit Einlage in Briefkasten.
-- BGH, Urt. v. 28.11.2019 - I ZR 23/19, NJW 2020, 762 — Schriftformerfordernis: Kündigung per E-Mail genügt nicht der Schriftform (§ 126 BGB), sofern nicht ausdrücklich vereinbart; Textform (§ 126b BGB) nur wenn vertraglich vorgesehen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -29,12 +26,9 @@ description: 'Zeigt Verträge mit ablaufenden Kündigungsfristen an und warnt re
 - § 126 BGB — Schriftform (Original-Unterschrift nötig; E-Mail reicht nicht)
 - § 126b BGB — Textform (E-Mail, PDF)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Grüneberg, BGB, 83. Aufl. 2024, § 309 Nr. 9 Rn. 90-110 (Verlängerungsklauseln)
-- MüKo-BGB/Wurmnest, 9. Aufl. 2022, § 309 Nr. 9 Rn. 1-20
-- BeckOK-BGB/Bonin, 70. Ed. 2025, § 309 Nr. 9 Rn. 1-15
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Niemand liest einen Vertrag zweimal. Das Verlängerungsdatum wird einmal beim Review entnommen und muss dann irgendwo gespeichert werden – idealerweise an einem Ort, der 45 Tage vor Ablauf der Kündigungsfrist laut warnt, nicht 45 Tage danach. Dieser Skill pflegt das Fristen-Register und zeigt, was fällig wird.
@@ -70,7 +64,7 @@ Halboffene Intervalle (jeder Fälligkeitstag fällt in genau eine Kategorie):
 Einträge mit `status: aktiv` anzeigen, deren `kündigen_bis_effektiv` in der Vergangenheit liegt und kein `status: gekündigt` gesetzt ist. Konsequenzen der verpassten Frist erläutern:
 - Bei B2C: § 309 Nr. 9 BGB prüfen – war die Verlängerungsklausel überhaupt wirksam?
 - Bei B2B: § 307 BGB prüfen
-- BGH, Urt. v. 11.10.2007 – III ZR 63/07, NJW 2007, 3199 – unwirksame Verlängerungsklausel. `[Trainingswissen – prüfen]`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Das Register
 
@@ -161,13 +155,10 @@ Normen und Rspr.:
 - § 309 Nr. 9 BGB – Laufzeit B2C; automatische Verlängerung max. 1 Jahr; Kündigungsfrist max. 3 Monate
 - § 307 BGB – Inhaltskontrolle B2B; unangemessen lange Bindungen
 - § 308 Nr. 3 BGB – Vorauszahlungsklauseln
-- BGH, Urt. v. 11.10.2007 – III ZR 63/07, NJW 2007, 3199 – unwirksame Verlängerungsklausel
-- BGH, Urt. v. 19.11.2009 – III ZR 108/08, NJW 2010, 150 – Kabelvertrag; lange Laufzeit
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Kommentare:
-- Grüneberg, in: Grüneberg, BGB, 83. Aufl. 2024, § 309 Rn. 90 ff.
-- Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 309 Nr. 9 Rn. 1 ff.
-- Bonin, in: BeckOK BGB, 70. Ed. (Stand 01.02.2025), § 309 Rn. 1 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Risiken / typische Fehler
 

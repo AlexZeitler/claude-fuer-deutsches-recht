@@ -26,7 +26,7 @@ Vorstand, Geschäftsführung und Aufsichtsrat müssen Entscheidungen auf der Gru
 
 **§ 93 Abs. 1 S. 2 AktG** — Eine Pflichtverletzung liegt nicht vor, wenn das Vorstandsmitglied bei einer unternehmerischen Entscheidung vernünftigerweise annehmen durfte, auf der Grundlage angemessener Information zum Wohle der Gesellschaft zu handeln.
 
-**§ 43 Abs. 1 GmbHG** — Geschäftsführer haften für die Sorgfalt eines ordentlichen Kaufmanns; das unternehmerische Ermessen setzt eine angemessene Informationsgrundlage voraus (BGH II ZR 202/07).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **§ 111 Abs. 4 AktG** — Aufsichtsrat kann Vorbehaltsgeschäfte festlegen; ohne Zustimmung keine wirksame Entscheidung.
 
@@ -36,10 +36,7 @@ Vorstand, Geschäftsführung und Aufsichtsrat müssen Entscheidungen auf der Gru
 
 | Gericht | Aktenzeichen | Datum | Leitsatz |
 |---|---|---|---|
-| BGH II ZR 175/95 | BGHZ 135, 244 | 21.04.1997 | ARAG/Garmenbeck: AR muss Vorstandshaftung eigenverantwortlich prüfen; eigene Pflichten des AR |
-| BGH II ZR 202/07 | NJW 2008, 3361 | 14.07.2008 | GmbH-GF / BJR: angemessene Information als Voraussetzung unternehmerischen Ermessens |
-| BGH II ZR 17/03 | NJW 2004, 1531 | 03.05.2004 | Keine BJR bei Interessenkonflikten; Offenlegungspflicht |
-| LG München I HK O 5765/20 | HK O 5765/20 | 10.12.2021 | Wirecard; Aufsichtsrat; Kontrollpflichten; fehlende Information als Pflichtverletzung |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema Board Paper / BJR-Safe-Harbour
 
@@ -153,8 +150,6 @@ Freigabe (AR/GV): [Datum, Protokoll-Nr.]
 - AktG §§ 93, 107, 111, 112
 - GmbHG § 43
 - MAR / WpHG (Insiderrecht)
-- BGH II ZR 175/95 (ARAG/Garmenbeck)
-- BGH II ZR 202/07 (GmbH-GF BJR / Informationsgrundlage)
-- BGH II ZR 17/03 (Interessenkonflikt BJR ausgeschlossen)
-- LG München I HK O 5765/20 (Wirecard AR-Pflichten)
-- Spindler, in: MüKo AktG, § 93 Rn. 45 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

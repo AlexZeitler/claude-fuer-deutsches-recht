@@ -24,7 +24,7 @@ Aufhebungsvertrag so gestalten, dass Mandant **keine 12-Wochen-Sperrzeit** durch
 
 ### Konstellation A: Drohende ordentliche AG-Kündigung
 
-**Anerkannt als wichtiger Grund** (BSG B 11 AL 5/07 R), wenn:
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - AG hätte ordentlich kündigen koennen (KSchG-relevanter Grund: betrieblich, personal, verhaltensbedingt)
 - Beendigungszeitpunkt nicht früher als bei ordentlicher Kündigung
@@ -137,9 +137,7 @@ Der vorliegende Entwurf entspricht den gesetzlichen Mindestanforderungen zur Spe
 
 ## 9) BSG-Linien
 
-- BSG, Urt. v. 12.7.2006 — B 11a AL 47/05 R (Sperrzeit-Vermeidung)
-- BSG, Urt. v. 17.11.2005 — B 11a/11 AL 69/04 R (wichtiger Grund)
-- BSG, Urt. v. 25.4.2002 — B 11 AL 65/01 R (Faustformel-Anerkennung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 
@@ -149,9 +147,7 @@ Der vorliegende Entwurf entspricht den gesetzlichen Mindestanforderungen zur Spe
 
 ## Aktuelle Rechtsprechung (Ergaenzung v14.2)
 
-- **BSG, Urt. v. 02.09.2021 — B 11 AL 9/20 R**, NZA 2022, 80 — Sperrzeit-Prüfung der Bundesagentur; "betriebsbedingte Kündigung wäre ausgesprochen worden" muss im Aufhebungsvertrag oder in einer Zusatzvereinbarung konkret bestätigt sein; allgemeine Hinweise genügen nicht.
-- **BSG, Urt. v. 27.08.2019 — B 11 AL 18/18 R**, BSGE 129, 1 — Abfindungshöhe und Sperrzeit-Faustformel; Überschreitung der 0,5-Faustformel führt zur Anrechnung auf ALG I (Ruhen des Anspruchs nach § 158 SGB III); nicht zur Sperrzeit, aber zu Leistungsausfall.
-- **BAG, Urt. v. 11.06.2020 — 2 AZR 418/19**, NZA 2021, 45 — Aufhebungsvertrag bei Androhung fristloser Kündigung; Sittenwidrigkeit nach § 138 BGB wenn AG Druck ausübt ohne ausreichende Grundlage; Anfechtungsrecht des AN nach § 123 BGB.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette
 
@@ -161,7 +157,6 @@ Der vorliegende Entwurf entspricht den gesetzlichen Mindestanforderungen zur Spe
 - § 34 EStG — Fünftel-Regelung
 - § 138 BGB — Sittenwidrigkeit; § 123 BGB — Anfechtung
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Rolfs, 25. Aufl. 2025, SGB III § 159 Rn. 1 ff. (Sperrzeit, wichtiger Grund, Kausalität)
-- Schaub Arbeitsrechts-Handbuch/Godel, 20. Aufl. 2023, § 122 (Aufhebungsvertrag, Sperrzeit-Praxis)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

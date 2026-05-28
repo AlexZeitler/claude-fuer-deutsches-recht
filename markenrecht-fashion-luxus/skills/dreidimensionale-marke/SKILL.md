@@ -1,6 +1,6 @@
 ---
 name: dreidimensionale-marke
-description: "Dreidimensionale Marke (Formmarke) für Flacons und Schuhformen anmelden: Parfuemhaus oder Schuhhersteller will Produktform schützen. Normen: § 3 Abs. 2 MarkenG (technische Funktion Ausschluss), Art. 7 Abs. 1 lit. e UMV, EuGH C-163/16 Louboutin (roter Sohlen-Absatz), EuG T-508/08 Lego. Prüfraster: technisch bedingte Form, Unterscheidungskraft 3D-Zeichen, Verkehrsdurchsetzung für Flacons. Output Anmelde-Strategie 3D-Marke, Darstellungsanforderungen, Verkehrsdurchsetzungs-Nachweis-Konzept. Abgrenzung: Positionsmarke siehe positionsmarke; 2D-Logo siehe bildmarke-und-wort-bild."
+description: "Workflow-Skill zu dreidimensionale marke. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Dreidimensionale Marken (3D-Formmarken)
@@ -17,12 +17,9 @@ Die Hürden sind hoch: Das Zeichen darf weder ausschließlich durch die Natur de
   - Nr. 2: Form zur Erreichung einer technischen Wirkung notwendig
   - Nr. 3: Form verleiht der Ware wesentlichen Wert
 - **Art. 7 I lit. e UMV:** Inhaltsgleich mit § 3 II MarkenG
-- **EuGH C-163/16 (Christian Louboutin):** Roter Sohlenstreifen ist Positionsmarke (nicht reine Form) — Formausschlussgründe greifen nicht direkt; aber: differenzierte Beurteilung von Farb-Position vs. Formmarke
-- **EuG T-508/08 (Lego/Mega Brands):** Lego-Stein als Form — § 3 II Nr. 2-Ausschluss wegen technischer Funktion, obwohl alternatives Design möglich wäre
-- **EuGH C-299/99 (Philips/Remington):** Dreiköpfiges Rasierer-Design als Formmarke — technische Funktion; § 3 II Nr. 2 schlägt durch
-- **EuGH C-24/05 P (Storck / Bonbon-Formen):** Unterscheidungskraft von Süßwarenformen; keine Herkunftsfunktion bei branchenüblichen Formen
-- **EuGH C-205/13 (Hauck / Stokke — Tripp-Trapp):** Form verleiht wesentlichen Wert — Ausschluss auch bei erheblicher Unterscheidungskraft möglich
-- **BGH I ZB 86/07 (Flasche):** Unterscheidungskraft 3D-Zeichen in DE
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Prüfungsschritte
 
@@ -65,13 +62,9 @@ Brezelmann Discount KG vertreibt Imitatparfum "KLOTZ NACHT" in einem Flakon, der
 ## Belege & Kommentare
 
 - Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, § 3 Rn. 160-250 (3D-Marken)
-- BeckOK MarkenR, § 3 MarkenG Rn. 40 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, § 3 Rn. 50 ff.
-- EuGH, Urt. v. 18.06.2002 — C-299/99 (Philips/Remington) — technische Funktion
-- EuGH, Urt. v. 12.06.2018 — C-163/16 (Louboutin / Van Haren) — Positionsmarke roter Sohlen
-- EuGH, Urt. v. 16.09.2015 — C-215/14 (Société des Produits Nestlé — KitKat) — Form
-- EuGH, Urt. v. 11.06.2015 — C-26/17 P (Hauck / Stokke) — wesentlicher Wert
-- BGH, Urt. v. 24.01.2013 — I ZR 60/11 (Peek & Cloppenburg III) — Schutz Schuhform
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Templates
 
@@ -120,8 +113,8 @@ Bevor die dreidimensionale Marke eingereicht wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **EuGH, Urt. v. 08.04.2003 — C-53/01 (Linde):** Dreidimensionale Marken, die aus der Form der Ware selbst bestehen, unterliegen besonders strengen Anforderungen an die Unterscheidungskraft; nur eine Form, die erheblich von der branchenüblichen Norm abweicht, kann ohne Nachweis von Verkehrsdurchsetzung eingetragen werden.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Beschl. v. 09.07.2009 — I ZB 88/07 (Baelz):** Die Unterscheidungskraft einer Warenform beurteilt sich ausschliesslich nach dem Gesamteindruck; einzelne schutzfaehige Elemente koennen nicht isoliert fuer die Gesamtbewertung herangezogen werden, wenn das Gesamtbild banal oder Warenformueblich bleibt.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **EuGH, Urt. v. 14.09.2010 — C-48/09 P (Lego Ziegel):** Die technische Bedingtheit einer Form (§ 3 II Nr. 2 MarkenG) setzt voraus, dass die wesentlichen Merkmale der Form durch die technische Funktion bedingt sind; es genuegt nicht, dass nur einige Merkmale technisch notwendig sind, wenn Gestaltungsalternativen bestehen.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

@@ -84,13 +84,11 @@ Nach Mandatsannahme folgt die Ampelanalyse mit den Skills zur Notenmatrix, Drift
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Mandant früh über die Beweislast aufklären: Wer eine bessere als befriedigende Bewertung will, braucht Tatsachen und Belege.
-- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Berichtigung oder Ergänzung bleibt Erfüllung des Zeugnisanspruchs; im Erstgespräch deshalb konkrete Streitstellen und Belege sichern.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Müller-Glöge, 25. Aufl. 2025, § 109 GewO Rn. 40 ff. (Verjährung, Verwirkung, Prozessführung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage — Erstgesprächs-Einstieg
 
 1. Wann wurde das Zeugnis ausgestellt und wann übergeben?

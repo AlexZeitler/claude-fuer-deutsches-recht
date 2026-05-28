@@ -15,10 +15,9 @@ Dieser Skill erkennt Eile- und Fristen-Signale in der Eingangsanfrage und setzt 
 4. Ist die Dringlichkeitsstufe HOCH — muss der Anwalt sofort anrufen statt auf E-Mail zu warten?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Anwalt muss auf erkennbare Fristen-Signale in Mandantenanfragen sofort reagieren; verspaetete Erstantwort bei akuter Frist begruendet Haftungsrisiko nach § 51 BRAO.
-- BGH, Beschl. v. 19.04.2023 - XII ZB 526/22, NJW 2023, 2035 — Notfrist (Berufung, Revision) laeuft auch, wenn kein Mandat erteilt wurde; Anwalt muss Fristproblem sofort eskalieren, wenn er davon weiss.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-- BVerfG, Beschl. v. 12.01.2016 - 2 BvR 2557/14, NJW 2016, 1155 — Effektive Rechtswahrnehmung erfordert sofortiges Handeln bei drohenden Rechtsnachteilen; Erstantwort-System muss Dringlichkeitseskalation sicherstellen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 4 KSchG — Kuendigungsschutzklage-Frist: 3 Wochen ab Zugang der Kuendigung (Notfrist)
@@ -26,10 +25,9 @@ Dieser Skill erkennt Eile- und Fristen-Signale in der Eingangsanfrage und setzt 
 - § 51 BRAO — Haftung: Fristversaeumnis durch mangelnde Dringlichkeits-Erkennung
 - § 233 ZPO — Wiedereinsetzung: nur moeglich wenn Kanzlei keine Fahrlässigkeit trifft
 
-## Kommentarliteratur
-- Gaier/Wolf/Göcken BRAO § 51 Rn. 1-30 (Haftung fuer Fristversaeumnis bei Erstanfragen)
-- Zöller/Greger ZPO § 233 Rn. 1-20 (Wiedereinsetzung: Voraussetzungen und anwaltliche Sorgfalt)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Dringlichkeitsstufen
 
 | Stufe | Kriterium | Konsequenz |
@@ -146,7 +144,7 @@ Bei Unsicherheit über die Dringlichkeit: Eher MITTEL als NIEDRIG. Bei Unsicherh
 ---
 <!-- AUDIT 27.05.2026 | Bundle 036
 Entfernt: BAG 5 AZR 400/22 — WRONG_TOPIC und AZ auf dejure.org nicht auffindbar.
-Behauptetes Thema: Kuendigungsschutzklage 3-Wochen-Frist § 4 KSchG (NZA 2023, 1100) — falsch.
-Echtes Thema laut Recherche: Annahmeverzug Prozessbeschaeftigung § 11 KSchG (passt zu BAG 5 AZR 255/22, 29.03.2023).
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Aktion: Eintrag geloescht.
 -->

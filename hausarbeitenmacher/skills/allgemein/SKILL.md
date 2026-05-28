@@ -114,14 +114,14 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `methodenlehre-auslegung` | Student braucht Anleitung zu den vier Auslegungsmethoden grammatikalisch systematisch historisch teleologisch plus verfassungs- und EU-rechtskonforme Auslegung. Rechtsfortbildung Analogie teleologische Reduktion.… |
 | `oeffentliches-recht-statthaft-zulaessig-begruendet` | Student bearbeitet öffentlich-rechtliche Klage in der Hausarbeit: Statthaftigkeit Zulässigkeit Begründetheit. VwGO §§ 40 42 47 113 BVerfGG Verfassungsbeschwerde Normenkontrolle. Prüfraster Klagearten Anfechtungs-… |
 | `professor-erkennen-und-strategie` | Student fragt sich ob er der Lehrmeinung des Professors folgen soll oder eigenständig argumentieren. Fangfrage zu Beginn wer die Hausarbeit bewertet. Kurze Recherche zur Lehrmeinung. Normen Wissenschaftsfreiheit Art. 5… |
-| `quellenrecherche-rechtsprechung-literatur` | Student sucht juristische Quellen für Hausarbeit: Beck-Online juris dejure openJur EUR-Lex Bibliotheksbestand. Frei verfuegbare Alternativen ohne Zugang. Normen Zitierstandards. Prüfraster Quellen-Vollständigkeit… |
+| `quellenrecherche-rechtsprechung-literatur` | Student sucht juristische Quellen für Hausarbeit: amtliche/freie Quellen und lizenzierte Datenbanken nur bei vorhandenem Zugang dejure openJur EUR-Lex Bibliotheksbestand. Frei verfuegbare Alternativen ohne Zugang. Normen Zitierstandards. Prüfraster Quellen-Vollständigkeit… |
 | `rechtstheorie-rechtsphilosophie-anbindung` | Student schreibt Hausarbeit mit rechtstheoretischem Bezug: Positivismus Naturrecht Kelsen Hart Dworkin Radbruch Alexy. Geltungsgrund Rechtsbegriff Auslegung Gerechtigkeit. Normen Art. 20 GG Rechtsstaatsprinzip.… |
 | `selbstkontrolle-vor-abgabe` | Student prüft Hausarbeit vor Abgabe auf inhaltliche und formale Vollständigkeit. Zwei Durchgaenge Lernziel-Selbstprüfung Plagiat-Check Aktualitaet Zitierweise Gliederung. Normen Zitierstandards Prüfungsordnungen.… |
 | `seminararbeit-modus` | Student schreibt Seminararbeit mit persoenlicher Lekture durch Lehrkraft: Forschungsfrage Literaturschau eigene These Disputation. Unterschied zur Hausarbeit hoehere Eigenständigkeit wissenschaftliche Tiefe… |
 | `strafrecht-tatbestand-rechtswidrigkeit-schuld` | Student prüft Strafbarkeit in der Hausarbeit: Drei-Stufen-Schema Tatbestand Rechtswidrigkeit Schuld. Objektiver subjektiver Tatbestand Rechtfertigungsgründe Schuldfähigkeit. §§ 242 263 223 212 StGB Versuch § 22 StGB… |
 | `subsumtion-schritt-fuer-schritt` | Student uebrt die Subsumtion Schritt für Schritt: Tatbestandsmerkmal Definition Sachverhalts-Tatsache Ergebnis sauber trennen. Sokratisches Führen statt Vorgeben gentle Umlenkung bei Fehlern. Normen Methodenlehre §§… |
 | `verfassungsrecht-grundrechtspruefung` | Student prüft Grundrechte in der Hausarbeit: Schutzbereich Eingriff verfassungsrechtliche Rechtfertigung Verhältnismäßigkeit. Art. 1-19 GG Drittwirkung mittelbar Schranken-Schranken. Normen GG Art. 1 2 3 4 5 8 12 14.… |
-| `zitierweise-jura-fundstellen` | Student muss in der Hausarbeit richtig zitieren: Rechtsprechung Kommentare Aufsaetze Lehrbuecher Beck-Online juris. Reihenfolge Rechtsprechung vor Literatur neueste zuerst Bearbeiter-Name. Normen Zitierstandards… |
+| `zitierweise-jura-fundstellen` | Student muss in der Hausarbeit richtig zitieren: Rechtsprechung Kommentare Aufsaetze Lehrbuecher amtliche/freie Quellen und lizenzierte Datenbanken nur bei vorhandenem Zugang. Reihenfolge Rechtsprechung vor Literatur neueste zuerst Bearbeiter-Name. Normen Zitierstandards… |
 | `zivilrecht-anspruchsgrundlagen-pruefung` | Student prüft zivilrechtliche Ansprüche in der Hausarbeit: Reihenfolge V-C-G-D-D-B Vertrag culpa in contrahendo GoA dinglich Delikt Bereicherung. Prüfungsschemata je Anspruchsgrundlage §§ 433 280 823 812 BGB.… |
 
 ## Worum geht es?
@@ -147,7 +147,7 @@ Der Dialogton ist behutsam-kritisch und wertschaetzend: Das Plugin erkennt, in w
 - **Pruefungsschema** — Vorgegebene Reihenfolge der zu pruefenden Tatbestandsmerkmale; z. B. Tatbestand-Rechtswidrigkeit-Schuld im Strafrecht.
 - **Meinungsstreit** — Kontroverse Rechtsfrage mit herrschender Meinung und Mindermeinungen; erfordert Argumentation und eigene Stellungnahme.
 - **Sokratischer Dialog** — Lernmethode durch gezielte Fragen statt vorgefertigter Antworten; Grundprinzip des Plugins.
-- **NJW** — Neue Juristische Wochenschrift; zentrale deutsche Rechtszeitschrift fuer Rechtsprechung und Aufsaetze.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Rechtsgrundlagen
 
@@ -182,7 +182,7 @@ Der Dialogton ist behutsam-kritisch und wertschaetzend: Das Plugin erkennt, in w
 - `verfassungsrecht-grundrechtspruefung` — Grundrechte pruefen: Schutzbereich, Eingriff, verfassungsrechtliche Rechtfertigung, Verhaeltnismaessigkeit.
 - `europarecht-anwendbarkeit-vorrang-vorabentscheidung` — Europarecht-Bezug klaeren: Anwendungsvorrang, direkte Wirkung, Vorlagepflicht EuGH.
 - `rechtstheorie-rechtsphilosophie-anbindung` — Rechtstheoretische Bezuege einbauen: Positivismus, Naturrecht, Kelsen, Hart, Dworkin.
-- `quellenrecherche-rechtsprechung-literatur` — Juristische Quellen finden: Beck-Online, juris, dejure, openJur, EUR-Lex.
+- `quellenrecherche-rechtsprechung-literatur` — Juristische Quellen finden: amtliche/freie Quellen oder lizenzierte Datenbanken bei vorhandenem Zugang, dejure, openJur, EUR-Lex.
 - `zitierweise-jura-fundstellen` — Richtig zitieren in Hausarbeiten: Rechtsprechung, Kommentare, Aufsaetze, Lehrbuecher.
 - `haeufige-fehler-vermeiden` — Typische methodische, stilistische und formale Fehler in Hausarbeiten vermeiden.
 - `professor-erkennen-und-strategie` — Lehrmeinung des betreuenden Professors erkennen und Argumentationsstrategie ableiten.

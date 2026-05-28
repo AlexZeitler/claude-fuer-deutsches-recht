@@ -37,7 +37,7 @@ Mit der Stilllegung des Güter-Bahnhofs Augsburg-Hauptbahnhof (Schritt-für-Schr
 
 Die Stadt Augsburg verfolgt mit dem Bebauungsplan Nr. 900 das Ziel, die seit der Stilllegung der Güterabfertigung brachliegenden Bahnflächen einer hochwertigen städtebaulichen Nutzung zuzuführen. Das Quartier soll als "urbanes Stadttor" Maßstäbe setzen und einen Beitrag zur dringend benötigten Wohnraumversorgung leisten.
 
-**[Markierung Kanzlei Brögel:** Formulierung "dringend benötigte Wohnraumversorgung" ist Standard-Topos. Sie ersetzt nicht die Prüfung der Erforderlichkeit § 1 Abs. 3 BauGB konkret für 480 Wohneinheiten in diesem Mischungsverhältnis mit Bürotürmen, Hotel etc. Eine wohnraumbedarfsbezogene Analyse, die das Verhältnis Wohnen : Büro : Hotel rechtfertigt, fehlt. **]**
+**[Markierung Kanzlei Brögel:** Formulierung "dringend benötigte Wohnraumversorgung" ist Standard-Topos. Sie ersetzt keine bereitgestellten Lehrmaterialien und keine verifizierte Quellenarbeit. **]**
 
 ## 2. Ziele und Zwecke
 

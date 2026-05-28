@@ -49,7 +49,7 @@ Wenn der Output nicht erscheint oder der Skill abbricht: das Plugin ist nicht fu
 
 **Schritt 2 — Anspruch & Schreiben:** Skill für Ausgleichszahlung nach VO (EG) 261/2004.
 
-**Erwarteter Output:** Schreiben an Airline mit korrektem Ausgleichsbetrag (250 / 400 / 600 €) je nach Streckenlänge, EuGH-Aktenzeichen im richtigen Format (`C-83/10`, `C-402/07`, nicht "2007/402"), Fristsetzung.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Abbruchkriterium:** EuGH-Aktenzeichen im Schreiben falsch formatiert **oder** Ausgleichsbetrag passt nicht zur Streckenlänge.
 

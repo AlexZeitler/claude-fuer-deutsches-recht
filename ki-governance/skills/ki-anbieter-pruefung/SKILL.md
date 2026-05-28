@@ -56,15 +56,15 @@ Anbieter mit unseren Daten macht).
 
 **Leitentscheidungen**
 
-- EuGH, Urt. v. 07.12.2023 – C-634/21, NJW 2024, 126 (Schufa-Score):
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Vertragsgestaltung muss DSGVO Art. 22 Widerspruchs- und Prüfungsrechte
   operationalisieren.
-- BGH, Urt. v. 17.05.2018 – VII ZR 157/17, NJW 2018, 2412: AGB-Kontrolle
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   von Haftungsausschlüssen bei komplexen IT-Systemen; Maßstab für KI-
   Anbieter-Haftungsklauseln.
-- BGH, Urt. v. 25.03.2021 – I ZR 37/20, GRUR 2021, 896: GeschGehG-
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Anforderungen an Vertragsgestaltung zum Schutz von Geschäftsgeheimnissen.
-- BAG, Urt. v. 26.08.2021 – 8 AZR 253/20, NZA 2022, 1: Datenschutz bei
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Datenübermittlung an externe Dienstleister; übertragbar auf KI-AVV.
 
 **Kommentare**
@@ -73,7 +73,7 @@ Anbieter mit unseren Daten macht).
   (Verantwortlichkeitsverteilung; vertragliche Pflichten-Übertragung; Doppelautoren-Kommentar).
 - Hoffmann, in: Spindler/Schuster, Recht der elektronischen Medien, 4. Aufl. 2024,
   Teil IV Rn. 120 (Vertragsgestaltung bei KI-Diensten).
-- Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 307 Rn. 80 (AGB-Kontrolle
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
   bei IT-/Softwareverträgen; KI-Haftungsklauseln).
 - Bertermann, in: Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 28 Rn. 30.
 
@@ -190,9 +190,9 @@ Betreiberpflichten Art. 26/29 dokumentieren. AVV: DSGVO Art. 28 prüfen.
 - **DSGVO Art. 28** bei Auftragsverarbeitung.
 - **GeschGehG § 2 Nr. 1** bei Training-auf-Daten.
 - **BGB §§ 305 ff. (§ 307)** bei AGB-Haftungsklauseln.
-- **EuGH C-634/21 (Schufa-Score)** bei Scoring-/Entscheidungssystemen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 25 Rn. 5** (Doppelautoren-Kommentar).
-- **Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 307 Rn. 80.**
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - **Bertermann, in: Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 28 Rn. 30.**
 
 ## Triage zu Beginn

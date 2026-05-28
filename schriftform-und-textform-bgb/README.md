@@ -22,10 +22,10 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 ## Testakten
 
-Zwei fiktive Mandatsakten, die jeweils eine BGH-Leitentscheidung lebbar machen:
+Zwei fiktive Mandatsakten, die typische Form- und Zugangskonstellationen lebbar machen. Konkrete Rechtsprechung wird erst im Workflow über offizielle oder frei zugängliche Quellen verifiziert.
 
-- Maklervertrag München (Eheleute Haspelbeck-Türkenfeld ./. Bechtholdsmeier-Schongau e.K., lehnt sich an BGH I ZR 202/25): [testakten/schriftform-maklervertrag-muenchen-eheleute-haspelbeck/](../testakten/schriftform-maklervertrag-muenchen-eheleute-haspelbeck/) -> [testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck.zip)
-- Mietkündigung Bielefeld online (Pferdedrescher-Riesenstein ./. Eberhart-Wolframshausen, WhatsApp + qES, lehnt sich an BGH VIII ZR 159/23): [testakten/schriftform-mietkuendigung-bielefeld-online-pferdedrescher/](../testakten/schriftform-mietkuendigung-bielefeld-online-pferdedrescher/) -> [testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher.zip)
+- Maklervertrag München (Eheleute Haspelbeck-Türkenfeld ./. Bechtholdsmeier-Schongau e.K., Textform- und Provisionskonstellation): [testakten/schriftform-maklervertrag-muenchen-eheleute-haspelbeck/](../testakten/schriftform-maklervertrag-muenchen-eheleute-haspelbeck/) -> [testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck.zip)
+- Mietkündigung Bielefeld online (Pferdedrescher-Riesenstein ./. Eberhart-Wolframshausen, WhatsApp + qES, Zugangs- und Formkonstellation): [testakten/schriftform-mietkuendigung-bielefeld-online-pferdedrescher/](../testakten/schriftform-mietkuendigung-bielefeld-online-pferdedrescher/) -> [testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher.zip)
 
 ## Überblick
 
@@ -33,9 +33,7 @@ Umfassender Workflow-Organisator für Schriftform- und Textform-Erfordernisse im
 
 ### Leitentscheidungen
 
-- **BGH I ZR 202/25 vom 11. März 2026** — Maklervertrag § 656a BGB / Textform § 126b BGB: E-Mail-Austausch ausreichend, Erklärungen auf getrennten Datenträgern, konkludenter Abschluss möglich; Bereicherungsanspruch entfällt bei Textformverstoß (Schutzzweckargument).
-- **BGH VIII ZR 155/23 vom 27. November 2024** — qES-Schriftsatzkündigung: beA/prozessuale Einreichung und materiell-rechtlicher formgerechter Zugang sind getrennt zu prüfen.
-- **BGH VIII ZR 159/23 vom 27. November 2024** — Wohnraummiete-Kündigung § 568 Abs. 1 BGB: qES als Schriftformersatz (§ 126a Abs. 1 BGB) grundsätzlich zulässig, ABER empfangsbedürftige Willenserklärung muss formgerecht zugehen — Ausdruck eines qES-Dokuments durch Gericht mit Transfervermerk § 298 Abs. 3 ZPO genügt nicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 130e ZPO und § 46h ArbGG seit 17.07.2024** — Formfiktion für klar erkennbare Willenserklärungen in elektronischen vorbereitenden Schriftsätzen, auch wenn elektronische Form materiell eigentlich ausgeschlossen ist.
 
 ## Skill-Verzeichnis

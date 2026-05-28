@@ -28,17 +28,11 @@ Step 6: Frist für Ausstellung (z.B. zwei Wochen nach Beendigung) in Vergleich a
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 18.11.2014 – 9 AZR 584/13, NZA 2015, 435 — Arbeitnehmer haben bei fehlender Substantiierung besserer Leistungen Anspruch auf ein Zeugnis mit der Gesamtnote befriedigend (Formulierung: "zur vollen Zufriedenheit"); der Arbeitgeber kann nicht auf dieser Grundlage einseitig eine schlechtere Note erteilen.
-- BAG, Urt. v. 14.10.2003 – 9 AZR 12/03, NZA 2004, 313 — Enthaltene Negativsignale im Zeugnis (z.B. "hat sich stets bemüht") erfüllen den Anspruch auf ein ordnungsgemäßes Zeugnis nicht; der Arbeitnehmer kann Berichtigung verlangen.
-- BAG, Urt. v. 07.09.2021 – 9 AZR 3/21, NZA 2022, 70 — Das Zeugnis darf keine versteckten negativen Aussagen über den Arbeitnehmer enthalten; Formulierungen, die auf den ersten Blick positiv erscheinen, aber in der Branche als negativ bekannt sind, begründen einen Berichtigungsanspruch.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Schlachter, 24. Aufl. 2024, § 109 GewO Rn. 1-25 — (Inhalt, Form, Notensystem, Negativsignale)
-- Schaub/Koch, ArbeitsR-HdB, 20. Aufl. 2023, § 148 Rn. 1 ff. — (Zeugnisinhalt, Zeugnisberichtigung)
-- MHdB ArbR/Wisskirchen, 5. Aufl. 2021, § 97 Rn. 5 ff. — (Zeugnis im Vergleich, Formulierungsrisiken)
-- Etzel/Böhm, Kündigungsschutz, 12. Aufl. 2022, Rn. 1060 ff. — (Zeugnisanspruch im Kündigungsschutzprozess)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Gesetzlicher Anspruch § 109 GewO
 
 Nach § 109 Abs. 1 GewO hat der Arbeitnehmer bei Beendigung des Arbeitsverhältnisses Anspruch auf ein schriftliches Zeugnis. Das Zeugnis muss mindestens Angaben über Art und Dauer der Tätigkeit enthalten (einfaches Zeugnis).
@@ -47,7 +41,7 @@ Nach § 109 Abs. 1 GewO hat der Arbeitnehmer bei Beendigung des Arbeitsverhältn
 
 ## BAG-Mindeststandard: Note "befriedigend"
 
-Das BAG hat entschieden, dass einem Arbeitnehmer, der kein Verschulden an einer schlechten Leistung trägt und dazu keine konkreten Vorwürfe bestehen, ein Zeugnis mit der Gesamtnote **"befriedigend"** zusteht (BAG, Urt. v. 18.11.2014 – 9 AZR 584/13, NZA 2015, 435).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Formulierung: **"zur vollen Zufriedenheit"** entspricht der Note befriedigend.
 

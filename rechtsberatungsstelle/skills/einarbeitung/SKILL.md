@@ -32,18 +32,11 @@ Falls die Konfigurationsdatei fehlt oder noch Platzhalter enthält: "Die Beratun
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 26.10.2017 – IX ZR 285/16, NJW 2018, 314 Rn. 10 — Haftung des aufsichtführenden Rechtsanwalts für Fehler in der Mandatsbearbeitung durch nachgeordnete Personen; sinngemäß für Supervisoren der Beratungsstelle.
-- BVerfG, Beschl. v. 14.07.1987 – 1 BvR 537/81, NJW 1988, 191 — Recht auf anwaltliche Erstberatung; Grundlage für das Beratungshilfe-System.
-- BGH, Urt. v. 15.04.2010 – IX ZR 189/09, NJW 2010, 2050 Rn. 8 — Verschwiegenheitspflicht im Mandatsverhältnis; keine Weitergabe ohne Einwilligung des Mandanten.
-- BAG, Urt. v. 08.05.2014 – 2 AZR 75/13, NZA 2014, 1248 Rn. 14 — Vertragliche Schweigepflicht und § 203 StGB; auf Ausbildungsverhältnisse sinngemäß anwendbar.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Deckenbrock/Henssler, RDG, 5. Aufl. 2021, § 6 Rn. 1 ff. — Voraussetzungen der unentgeltlichen Rechtsdienstleistung; Anforderungen an die Aufsicht.
-- Kleine-Cosack, BRAO, 8. Aufl. 2022, § 43a Rn. 15 ff. — Verschwiegenheitspflicht; Umfang und Ausnahmen.
-- Brenneke/Lux, Recht der Rechtsdienstleistungen, 2. Aufl. 2022, § 6 RDG Rn. 33 ff. — Studentische Rechtsberatungsstellen; praktische Anforderungen.
-- Schütz, Das Recht der Beratungshilfe, 3. Aufl. 2020, § 1 BerHG Rn. 5 ff. — Voraussetzungen; Verfahren.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Begrüßung

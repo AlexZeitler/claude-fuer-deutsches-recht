@@ -1,6 +1,6 @@
 ---
 name: elektronische-form-bea-qes-formfiktion
-description: "Prüft elektronische Form, beA, qES und prozessuale Formfiktion bei empfangsbedürftigen Willenserklärungen: §§ 126 und 126a BGB, § 130 BGB, § 130e ZPO, § 46h ArbGG, § 173 ZPO und BGH VIII ZR 155/23 sowie VIII ZR 159/23."
+description: "Workflow-Skill zu elektronische form bea qes formfiktion. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Elektronische Form BeA QES Formfiktion
@@ -18,8 +18,7 @@ Dieser Skill verbindet BGB AT, Schriftform und elektronischen Rechtsverkehr. Er 
 - § 173 ZPO: elektronische Zustellung auf sicherem Übermittlungsweg
 - § 186 ZPO: Anwalt-zu-Anwalt-Zustellung, auch elektronisch mit eEB
 - § 46c, § 46g, § 46h ArbGG als arbeitsgerichtliche Parallelstruktur
-- BGH, Urt. v. 27.11.2024 - VIII ZR 155/23
-- BGH, Urt. v. 27.11.2024 - VIII ZR 159/23
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Intake
 
@@ -45,11 +44,11 @@ Dieser Skill verbindet BGB AT, Schriftform und elektronischen Rechtsverkehr. Er 
 
 ## BGH-Kernlinien
 
-## BGH VIII ZR 155/23
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Ein qES-Schriftsatz konnte vor § 130e ZPO nur dann als formgerechte empfangsbedürftige Willenserklärung zugehen, wenn die qualifizierte elektronische Signatur für den Empfänger prüfbar elektronisch erhalten blieb. Die bloße sichere Übermittlung aus dem beA zum Gericht ersetzte diese Verifikationsfunktion gegenüber dem materiell-rechtlichen Empfänger nicht.
 
-## BGH VIII ZR 159/23
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Ein Ausdruck eines qES-Dokuments mit Transfervermerk nach § 298 Abs. 3 ZPO wahrt den formgerechten Zugang nicht. Der Empfänger muss die elektronische Signatur selbst prüfen können; Papier macht aus der qES-Datei keine formgerechte elektronische Erklärung.
 

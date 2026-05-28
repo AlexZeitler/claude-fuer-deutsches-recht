@@ -30,17 +30,11 @@ Dieser Modus-Skill aktiviert die verfahrensspezifischen Einstellungen für arbei
 
 ## Rechtsprechung (BAG — aktuelle Leitsätze)
 
-- BAG, Urt. v. 26.10.2023 - 6 AZR 158/22, NZA 2024, 234 — Verhaltensbedingte Kündigung setzt auch bei mittlerem Pflichtvertoss grundsätzlich eine Abmahnung voraus; Ausnahme nur bei besonderer Schwere oder Unwiederholbarkeit.
-- BAG, Urt. v. 14.09.2023 - 2 AZR 55/23, NZA 2024, 58 — Massenentlassungsanzeige nach § 17 KSchG muss vollständig und zeitgerecht bei der Agentur für Arbeit eingehen; fehlerhafte Anzeige macht Kündigung unwirksam.
-- BAG, Urt. v. 22.06.2023 - 8 AZR 392/22, NZA 2024, 52 — Zur Berechnung der 3-Wochen-Frist nach § 4 KSchG: Zugangszeitpunkt der Kündigung ist entscheidend; bei Einwurf-Einschreiben gilt besondere Regel.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Oetker § 1 KSchG Rn. 1-50 (Soziale Rechtfertigung)
-- Schaub Arbeitsrechts-Handbuch § 132 (Kuendigungsschutzklage Praxis)
-- HWK/Quecke § 102 BetrVG Rn. 1 ff. (Anhoerung Betriebsrat)
-- ErfK/Koch § 64 ArbGG Rn. 1 ff. (Berufung im arbeitsgerichtlichen Verfahren)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Verfahrensarten
 
 ### Urteilsverfahren (§§ 46 ff. ArbGG)

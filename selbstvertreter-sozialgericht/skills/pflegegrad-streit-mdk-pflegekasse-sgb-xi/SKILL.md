@@ -177,4 +177,4 @@ Bei dringender Situation siehe `eilantrag-pflegekassen-pflegehilfsmittel`.
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. SGB XI mit Pflegegrad-System seit 2017. MD-Reform 2022. BSG-Linie zur Module-Bewertung etabliert; konkrete Aktenzeichen zur Modul-Auslegung (z.B. BSG B 3 P 2/14 R) im juris pruefen bevor uebernommen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

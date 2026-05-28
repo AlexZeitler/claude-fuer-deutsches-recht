@@ -77,10 +77,8 @@ Das Gesamturteil ersetzt keine anwaltliche Würdigung im Einzelfall. Es ist eine
 
 ## Leitentscheidungen Gesamtbewertung
 
-- EuGH, Urt. v. 14.02.1978 — Rs. 27/76 (United Brands), Slg. 1978, 207 — Gesamtbewertung Marktabgrenzung; keine Einzelindikator-Dogmatik; wirtschaftlicher und rechtlicher Kontext massgeblich.
-- BGH, Beschl. v. 23.06.2020 — KVR 69/19, NZKart 2020, 557 — Gesamtschau; Netzwerkeffekte, Marktanteil, Datenzugang kumulativ; konsistentes Gesamtbild erforderlich.
-- EuGH, Urt. v. 21.09.2023 — C-176/19 P (Servier), ECLI:EU:C:2023:700 — Konsistenzgebot; einzelne Argumente muessen sich zu schluessiger Marktdefinition fuegen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bechtold/Bosch GWB § 18 Rn. 1-30 (Gesamtwuerdigung, Konsistenz)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

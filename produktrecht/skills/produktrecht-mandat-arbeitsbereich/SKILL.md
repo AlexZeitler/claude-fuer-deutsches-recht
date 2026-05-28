@@ -34,12 +34,11 @@ Die Skill lädt, wenn der Nutzer Mandate anlegen, wechseln, auflisten, schließe
 - § 2 BORA: Konkretisierung der Verschwiegenheitspflicht, Pflicht zur Einweisung von Mitarbeitern
 - § 203 StGB: Verletzung von Privatgeheimnissen — strafrechtliche Sanktion bei unbefugter Weitergabe von Mandatsinformationen
 - § 43a Abs. 4 BRAO: Interessenkollisionsverbot — Mandat-Workspace-Trennung unterstützt die Konfliktprüfung, ersetzt sie jedoch nicht
-- BGH, Urt. v. 12.05.2016 – IX ZR 241/14, NJW 2016, 2561 (Interessenkonflikt: Nichtigkeit des Anwaltsvertrags bei Vertretung widerstreitender Interessen): Erstmalige Klärung, dass Verstoß gegen § 43a Abs. 4 BRAO zur Nichtigkeit des Mandatsvertrags führt; Konfliktpräventionspflichten bei übergreifendem Mandatswissen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-Kommentarliteratur nur mit konkretem Datenbankzugriff und geprüftem Pinpoint verwenden. Geeignete Startpunkte sind Henssler/Prütting, BRAO, zu § 43a BRAO und Feuerich/Weyland, BRAO/BORA, zu Verschwiegenheit, Interessenkollision und Kanzleiorganisation.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ### Aufbewahrungspflichten
 
 - § 50 BRAO: Aufbewahrungspflicht für Handakten — grundsätzlich 5 Jahre ab Ende des Mandats; Archivierung ist keine Löschung
@@ -107,12 +106,11 @@ Aktives Mandat mit `*` markieren. Archivierte Mandate unter einer separaten Übe
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- BGH, Urt. v. 22.10.2015 — III ZR 24/15, NJW 2016, 319 — Mandatsaufnahme und Mandatsfuehrung; korrekte Auftragsaufnahme und -abgrenzung verhindert Schadensersatzansprueche wegen unvollstaendiger Leistungserbringung
-- BGH, Urt. v. 10.01.2019 — III ZR 109/17, NJW 2019, 1312 — Mandatsgrenzen bei Produktrecht-Beratung; Berater muss aktiv auf Grenzen des Mandats hinweisen; unaufgefordertes Ergaenzen von offensichtlichen Luecken als Sekundaerpflicht
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kernnormen:** §§ 611-630 BGB (Dienstvertrag, Mandatsrecht) — §§ 1-4 ProdHaftG — §§ 3, 3a UWG
 
-**Kommentarliteratur:** Grüneberg (Palandt), BGB, 83. Aufl. 2024, §§ 611 ff. Rn. 1 ff. (Dienstvertrag, Anwalts-Mandatsrecht)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Ausgabeformat
 
@@ -199,9 +197,8 @@ Nach dem Wechsel zu `hersteller-a-maschinen-2026` liest jede Skill ausschließli
 ## Quellenpflicht
 
 - **Berufsrecht:** BRAO-Volltext (gesetze-im-internet.de), BORA, FAO
-- **Strafrecht:** § 203 StGB-Kommentar (Schönke/Schröder, 30. Aufl. 2019)
 - **Aufbewahrung:** § 50 BRAO, ggf. §§ 257 HGB, 147 AO
-- **Rechtsprechung:** juris, beck-online — BGH-Entscheidungen zum Mandatsgeheimnis und Interessenkonflikt in der Form `BGH, Urt. v. TT.MM.JJJJ – Az., Fundstelle Rn. X`
+- **Rechtsprechung:** amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang — BGH-Entscheidungen zum Mandatsgeheimnis und Interessenkonflikt in der Form `BGH, Urt. v. TT.MM.JJJJ – Az., Fundstelle Rn. X`
 
 Quellen, die nur aus Modellwissen stammen, nicht als zitierfähige Fundstelle ausgeben. Pinpoint-Zitate nur verwenden, wenn Randnummer, Seite oder amtlicher Leitsatz aus der konkreten Quelle geprüft wurde.
 
@@ -209,5 +206,5 @@ Hinweis: Dieser Skill hält Produktmandate sauber getrennt und stärkt damit die
 
 
 <!-- AUDIT 27.05.2026 bundle_040
-Geprueft: BGH IX ZR 294/16, NJW 2019, 378 — WRONG_TOPIC. NJW 2019, 378 gehoert zu BGH 1 StR 194/18 (Untreue/Kommunalfinanzierung, 19.09.2018), nicht zu Interessenkonflikt beim Kanzleiwechsel. IX ZR 294/16 existiert nicht als BGH-Urteil zu diesem Thema (verfuegbare Fundstelle III ZR 294/16 ist Amtshaftung). Ersetzt durch: BGH, Urt. v. 12.05.2016 — IX ZR 241/14, NJW 2016, 2561 (Nichtigkeit bei Vertretung widerstreitender Interessen, dejure.org bestaetigt). Status: ERSETZT.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->

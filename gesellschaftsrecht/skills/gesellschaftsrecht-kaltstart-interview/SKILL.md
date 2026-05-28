@@ -38,9 +38,9 @@ Die nachfolgenden Vorschriften bilden den rechtlichen Rahmen der unterstützten 
 
 **Beschlussfassung / Governance:** § 48 GmbHG (Gesellschafterversammlung; Abs. 2: schriftliche Abstimmung ohne Versammlung); § 49 GmbHG (Einberufung); §§ 118 ff. AktG (Hauptversammlung; § 130 AktG: Niederschrift durch Notar bei AG); §§ 95 ff. AktG (Aufsichtsrat); § 23 Abs. 5 AktG (Satzungsstrenge).
 
-**Mitbestimmung:** MitbestG (Unternehmen > 2.000 Arbeitnehmer); DrittelbG (Unternehmen 500–2.000 Arbeitnehmer); § 76 AktG (Vorstand); BetrVG (betriebliche Mitbestimmung). BGH, Urt. v. 23.09.2014 – II ZR 44/13, NZG 2014, 1332 (Beschlussmängelrecht GmbH, analoge Anwendung der §§ 241 ff. AktG). BGH, Urt. v. 29.01.2020 – II ZR 417/18, NJW 2020, 1804 (Treuepflicht im GmbH-Gesellschafterverhältnis).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-**Kommentarliteratur:** Lutter/Hommelhoff/Bayer, GmbHG, 21. Aufl. 2023, § 48 Rn. 1 ff. (schriftliche Abstimmung); Hüffer/Koch, AktG, 16. Aufl. 2024, § 130 Rn. 1 ff. (Niederschrift HV); MüKoAktG/Kubis, 5. Aufl. 2022, § 130 Rn. 5 ff.; Scholz/Priester, GmbHG, 13. Aufl. 2022, § 48 Rn. 20 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Ablauf
 
@@ -214,8 +214,8 @@ Nach dem Interview: Praxisprofil enthält Wesentlichkeitsschwelle 100.000 EUR f�
 
 Jeder Verweis auf Vorschriften in CLAUDE.md und in Skill-Ausgaben muss zitieren:
 - Gesetze mit Paragraphenzeichen: `§ 48 Abs. 2 GmbHG`, `§ 130 AktG`
-- BGH-Entscheidungen in voller Zitierung: `BGH, Urt. v. 23.09.2014 – II ZR 44/13, NZG 2014, 1332`
-- Kommentare im Bearbeiterstil: `Lutter/Hommelhoff/Bayer, GmbHG, 21. Aufl. 2023, § 48 Rn. 5`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Keine bloßen Gesetzesnummern ohne Paragraphenzeichen
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

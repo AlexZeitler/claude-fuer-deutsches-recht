@@ -153,10 +153,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 ## Aktuelle Leitentscheidungen — Insolvenz-Erstmandat
 
-- BGH, Urt. v. 26.01.2017 — IX ZR 285/14 — Antragspflicht § 15a InsO: Geschaeftsfuehrerin bleibt auch bei Handeln eines Mitgeschaeftsfuehrers eigenstaendig verpflichtet; Delegation der Antragspflicht ist unwirksam.
-- BGH, Urt. v. 15.03.2016 — II ZR 119/14, NJW 2016, 2493 — Haftung nach § 15b InsO (frueherer § 64 GmbHG): Geschaeftsfuehrerin haftet persoenlich fuer Zahlungen nach Insolvenzreife; Schutzausnahme nur bei Zahlungen zur Aufrechterhaltung des Betriebs, die das Schuldvermögen nicht verringern.
-- BGH, Urt. v. 06.05.2021 — IX ZR 72/20, NZI 2021, 631 — Sanierungsberatung: anwaltliche Beratung zur Sanierung schliiesst spaetere Vorsatzanfechtung des Mandanten nicht aus, wenn Sanierungs-Konzept nicht IDW S 6 Niveau hatte.
-- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Fortbestehensprognose im Erstgespraech zu pruefen: positiv wenn ueberwiegende Wahrscheinlichkeit der Fortfuehrung in den naechsten 12 Monaten; Prognose-Dokument erstellen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Erstmandat Insolvenz
 

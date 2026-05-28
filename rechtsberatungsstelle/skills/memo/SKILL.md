@@ -30,18 +30,11 @@ Hinweis: Die Gutachtenmethode entspricht dem deutschen juristischen Standard. Ku
 
 ### Leitentscheidungen (exemplarisch für häufige Rechtsgebiete)
 
-- BGH, Urt. v. 18.11.2015 – VIII ZR 266/14, NJW 2016, 863 Rn. 8 — Wohnraummiete: Konkretisierung der Mängelanzeigepflicht des Mieters; sinngemäß für Gutachten zu Mängelrügen.
-- BAG, Urt. v. 29.06.2017 – 2 AZR 302/16, NZA 2017, 1121 Rn. 15 — Soziale Rechtfertigung einer betriebsbedingten Kündigung; Interessenabwägung im Prüfungsschema KSchG.
-- BVerwG, Urt. v. 24.04.2019 – 3 C 2/18, NVwZ 2019, 1440 Rn. 12 — Ermessensausübung im Verwaltungsrecht; Prüfungsreihenfolge bei Ermessensentscheidungen.
-- BGH, Urt. v. 26.10.2022 – VIII ZR 390/21, NZM 2023, 35 Rn. 24 — Eigenbedarfskündigung: Suizidgefahr des Mieters als Härtegrund i. S. d. § 574 BGB; Fortsetzung des Mietverhältnisses auf unbestimmte Zeit bei unabsehbarem Wegfall des Beendigungshindernisses.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Weidenkaff, in: Grüneberg, BGB, 84. Aufl. 2025, § 535 Rn. 1 — Mietrecht: Prüfungsschema Mängel und Gewährleistung.
-- Oetker, in: ErfK, 25. Aufl. 2025, § 1 KSchG Rn. 5 — Soziale Rechtfertigung der Kündigung; systematische Prüfungsreihenfolge.
-- Kopp/Schenke, VwGO, 29. Aufl. 2023, § 113 Rn. 1 — Begründetheitsprüfung der Anfechtungsklage (Doppelautoren-Kommentar).
-- Mörsdorf, in: BeckOK BGB, 70. Ed. (Stand 01.08.2024), § 355 Rn. 10 — Widerruf im Fernabsatz; Prüfungsschema Verbraucherrecht.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Schritt 1: Rechtsfragen formulieren
@@ -203,6 +196,6 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 ---
 
 <!-- AUDIT 27.05.2026
-Geprueft: BGH VIII ZR 390/21
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Befund: KORRIGIERT. Skill hatte falschen Thementext: "Verbraucherrecht: Widerruf nach § 355 BGB". Echtes Thema: Eigenbedarfskündigung; Suizidgefahr des Mieters als Haertegrund (§ 574 BGB); Fortsetzung des Mietverhaeltnisses auf unbestimmte Zeit. Fundstelle korrigiert: NZM 2023 35 Rn. 24 (statt NJW 2023 142 Rn. 20). Quelle: dejure.org/2022,33020.
 -->

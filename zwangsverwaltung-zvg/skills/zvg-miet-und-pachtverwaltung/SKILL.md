@@ -60,19 +60,15 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 10.10.2013 - IX ZB 229/11, NZI 2014, 44 Rn. 12 — Der Zwangsverwalter tritt mit Besitzerlangung in alle laufenden Mietverhältnisse ein und hat die mietvertraglichen Pflichten zu erfüllen; Mängel der Mietsache muss er wie ein Vermieter beseitigen, soweit die Masse dies erlaubt.
-- BGH, Beschl. v. 17.07.2003 - IX ZB 525/02, NJW 2003, 3347 Rn. 10 — Mietverträge die der Schuldner nach Beschlagnahme abschließt sind dem Gläubiger gegenüber unwirksam; bereits bestehende Verträge bleiben dagegen bestehen und binden den Zwangsverwalter.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Miet-/Pachtverwaltung ZVG
 
 § 152 ZVG (Rechte/Pflichten Verwalter) → § 153 ZVG (Einziehung Nutzungen) → § 57 ZVG (Schutz der Mieter) → §§ 535 566 BGB (Mietrecht) → §§ 8-9 ZwVwV (laufende Verwaltung) → § 581 BGB (Pachtvertrag) → §§ 596-599 BGB (Pächterschutz)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Stöber ZVG 22. Aufl., § 57 Rn. 10-30 (Mieterschutz in Zwangsverwaltung)
-- Böttcher ZVG 6. Aufl., § 152 Rn. 45-70 (Mietverhältnisse in Zwangsverwaltung)
-- Schmidt-Futterer Mietrecht 15. Aufl., § 566 BGB Rn. 90-115 (Zwangsverwaltung Eigentümerwechsel)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage Miet-/Pachtverwaltung
 
 1. Liegen schriftliche Mietverträge vor? (Alle Einheiten vollständig erfasst)

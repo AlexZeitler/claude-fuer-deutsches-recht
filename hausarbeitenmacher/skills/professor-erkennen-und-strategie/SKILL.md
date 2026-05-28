@@ -13,20 +13,16 @@ description: "Student fragt sich ob er der Lehrmeinung des Professors folgen sol
 4. Soll die eigene Stellungnahme mit der Lehrmeinung uebereinstimmen oder respektvoll abweichen?
 
 ## Aktuelle Rechtsprechung und Methodik
-- BGH, Urt. v. 22.11.2001 - I ZR 255/99, NJW 2002, 2031 — Eigenstaendige Argumentation mit belegten Positionen ist der Wiedergabe von Autoritaeten stets vorzuziehen; Zitierautoritaet ersetzt nicht eigenes Argument.
-- BVerfG, Beschl. v. 11.06.1980 - 1 PBvU 1/79, BVerfGE 54, 277 — Wissenschaftliche Eigenstaendigkeit ist verfassungsrechtlich geschuetzt (Art. 5 Abs. 3 GG); Universitaetsausbildung muss diese foerdern.
-- BGH, Urt. v. 27.11.2008 - VII ZR 206/06, NJW 2009, 580 — Eigenstaendige Begruendung ueberzeugt Gerichte mehr als blossoe Autoritaetsverweis; analogiell gilt dies fuer Pruefungsleistungen.
-- BAG, Urt. v. 26.06.2013 - 5 AZR 428/12, NZA 2013, 1081 — Intellektuelle Eigenstaendigkeit als Berufsvoraussetzung im Rechtsleben; Studium soll diese entwickeln.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - Art. 5 Abs. 3 GG — Wissenschaftsfreiheit: eigene wissenschaftliche Position ist geschuetzt und erwuenscht
 - § 1 Abs. 1 BRAO — Anwaltliche Unabhaengigkeit als Berufsziel: wird im Studium durch eigenstaendiges Denken vorbereitet
 - § 43a Abs. 1 BRAO — Unabhaengigkeit und Eigenverantwortlichkeit: Studierende ueben diese Haltung
 
-## Kommentarliteratur
-- Bydlinski, Juristische Methodenlehre, 2. Aufl. 1991, § 1 (Eigenstaendigkeit in der juristischen Dogmatik)
-- Larenz/Wolf Allgemeiner Teil BGB, 9. Aufl. 2004, Einl. Rn. 5-15 (Argumentationsstandards im juristischen Wissenschaftsbetrieb)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Bevor Du Dich in die Subsumtion stürzt, lohnt sich eine kurze, ehrliche Frage: **Von wem stammt die Aufgabe?** Daraus folgt eine strategische Entscheidung — nicht zur Schleimerei, sondern zur klugen Adressaten-Orientierung Deiner Argumentation.
@@ -40,7 +36,6 @@ Das Plugin stellt Dir freundlich eine Frage, die viele Studierende erst hinterhe
 ### Warum diese Frage zählt
 
 - Jeder Lehrstuhl hat **Schwerpunkte, Steckenpferde und Lieblings-Streit-Stände**.
-- Wer aus dem Lehrstuhl Schäfer schreibt, findet andere Akzente als bei Larenz-Schülern.
 - Manche Lehrstühle haben **eigene Auffassungen** zu bestimmten Fragen — wer sie kennt, weiß, wo das Eis dünn wird.
 - Das ist keine Mauschelei, sondern **wissenschaftliche Adressaten-Orientierung**.
 
@@ -52,7 +47,7 @@ Wenn Du den Namen genannt hast, schlägt das Plugin folgende Recherche-Schritte 
 
 - Website des Lehrstuhls (meist über Uni-Webseite verlinkt)
 - Aufsatz-Verzeichnis in JuS, JZ, NJW
-- Kommentar-Bearbeitungen (Palandt/Grüneberg, MüKo, Staudinger, Beck-OK)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Monographien und Lehrbücher
 
 ### b) Habilitations- oder Dissertations-Thema

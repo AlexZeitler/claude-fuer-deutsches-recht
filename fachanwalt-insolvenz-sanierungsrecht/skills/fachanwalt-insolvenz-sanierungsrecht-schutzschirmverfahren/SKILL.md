@@ -150,8 +150,7 @@ Sanierungs-Vehikel: Schuldner behaelt Verfügungsbefugnis, Sachwalter überwacht
 
 ## 10) BGH-Linien
 
-- BGH, Beschl. v. 6.7.2017 — IX ZB 105/15 (Sachwalter-Auswahl)
-- BGH, Beschl. v. 22.11.2018 — IX ZB 14/18 (Bescheinigungs-Voraussetzungen)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 
@@ -171,20 +170,15 @@ Bevor losgelegt wird, klaere:
 
 ## Aktuelle Leitentscheidungen
 
-- BGH, Beschl. v. 06.07.2017 — IX ZB 105/15, NZI 2017, 807 — Sachwalterauswahl: Gericht kann Sachwalter-Vorschlag des Schuldners uebergehen wenn Unabhaengigkeit nicht gewahrt; frueherer Berater des Schuldners in derselben Sache grundsaetzlich ungeeignet.
-- BGH, Beschl. v. 22.11.2018 — IX ZB 14/18, NZI 2019, 91 — Bescheinigung § 270d InsO: muss konkrete positive Prognose enthalten; allgemeine Formeln genuegen nicht; Sachverstaendiger muss Sanierungskonzept der Bescheinigung zugrunde legen.
-- BGH, Beschl. v. 07.05.2015 — IX ZB 75/14, NZI 2015, 519 — Vollstreckungsschutz § 21 InsO analog im Schutzschirm: automatisch mit Erlass des Schutzschirmbeschlusses; Glaeubiger koennen vor Erlass noch vollstrecken.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Schutzschirmverfahren
 
 § 270d InsO (Schutzschirm) → § 270 InsO (Eigenverwaltung) → § 270b InsO (Antrag vorlaeufige Eigenverwaltung) → § 21 InsO analog (Vollstreckungsschutz) → § 217 InsO (Insolvenzplan) → § 245 InsO (Obstruktionsverbot) → § 254 InsO (Planwirkung)
 
-## Kommentarliteratur
+## Quellenregel
 
-- MüKo InsO/Kern §§ 270-270d InsO Rn. 1 ff. (Eigenverwaltung und Schutzschirm im Detail).
-- Uhlenbruck/Zipperer § 270d InsO Rn. 1-35 (Bescheinigung, Sachwalter, Vollstreckungsschutz).
-- K. Schmidt/Uhlenbruck, GmbH in Krise Sanierung und Insolvenz, 5. Aufl. 2016, S. 1100 ff.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Workflow — 6-Phasen-Schritt-fuer-Schritt
 
 1. **Krisen-Diagnose (Woche -4 bis -2 vor Antrag):** Liquiditaet 13 Wochen direct-method erstellen; Eröffnungsgrund §§ 17-19 InsO bestimmen; Fortbestehensprognose IDW S 11 beauftragen.

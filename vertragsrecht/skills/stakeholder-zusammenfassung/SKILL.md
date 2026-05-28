@@ -45,22 +45,15 @@ sie wesentliche Risiken weglassen.
 
 ### Sorgfaltspflicht bei Risikoangaben
 
-- BGH, Urt. v. 07.03.2019 – IX ZR 143/18, NJW 2019, 1949 Rn. 20
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Aufklärungspflicht bei Vertragsgestaltung; Hinweis auf AGB-Unwirksamkeit
   als Bestandteil ordnungsgemäßer Beratung)
 
 <!-- AUDIT 27.05.2026: BGH IX ZR 197/12 (10.07.2014) entfernt – real topic Steuerberaterhaftung/Feststellungsklage (NJW-RR 2015,626), nicht Anwaltshaftung Risikoaufklaerung (WRONG_TOPIC). BGH IX ZR 143/08 (15.10.2009) entfernt – Aktenzeichen auf dejure nicht auffindbar (NOT_FOUND). BGH IX ZR 88/05 entfernt – Aktenzeichen auf dejure nicht auffindbar (NOT_FOUND). -->
 
-### Kommentarliteratur
+### Quellenregel
 
-- Weidenkaff, in: Grüneberg, BGB, 84. Aufl. 2025, § 675 Rn. 10
-  (Anwaltsvertrag; Beratungspflicht, Schadensersatz bei Pflichtverletzung)
-- Heermann, in: MüKoBGB, 9. Aufl. 2022, § 675 Rn. 50
-  (Dienstvertrag mit anwaltlicher Beratungskomponente)
-- Henssler, in: Henssler/Prütting, BRAO, 5. Aufl. 2019, § 43a Rn. 80
-  (Mandatsgeheimnis bei Weiterleitung von Arbeitsergebnissen)
-- Martens, in: BeckOGK BGB, 70. Ed. (Stand 01.08.2024), § 675 Rn. 30
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Schritt 1 — Mandatskontext
@@ -261,7 +254,7 @@ die folgenden Quellen enthalten (nicht die Zusammenfassung selbst — die
 ist für Nicht-Juristen):
 - Gesetzesnorm (z. B. Art. 28 DSGVO, § 309 Nr. 7 BGB)
 - BGH-Entscheidung in korrekter Zitierweise
-- Kommentarbeleg im Bearbeiterstil
-  (z. B. Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 307 Rn. 45)
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+  Literaturfundstellen nicht beispielhaft erfinden; bei Bedarf Platzhalter "vom Nutzer bereitgestellte/lizenziert live geprüfte Quelle" verwenden.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

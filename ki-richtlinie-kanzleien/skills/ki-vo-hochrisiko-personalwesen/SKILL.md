@@ -36,10 +36,7 @@ Beim Einsatz von Hochrisiko-KI-Systemen im Personalwesen sind gemäß Art. 26 Ab
 Die konkrete Ausgestaltung der Hochrisiko-Pflichten durch Durchführungsrechtsakte der EU-Kommission und durch Leitlinien des Europäischen KI-Büros ist bis zum 2. August 2026 zu verfolgen. Ebenso sind BAG- und Landesarbeitsgericht-Entscheidungen zur Zulässigkeit von KI-Systemen im Personalwesen zu beobachten.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- EuGH, Urt. v. 23.04.2020 — C-507/18 (NH), NJW 2020, 1999 Rn. 31: AGG-Diskriminierung auch bei mittelbarer Wirkung — massgeblich fuer KI-Bewerbungsauswahl.
-- BAG, Urt. v. 19.12.2019 — 8 AZR 2/19, NJW 2020, 1612 Rn. 22: Mittelbare Diskriminierung im Bewerbungsverfahren durch neutral scheinende Auswahlkriterien — gilt fuer KI-Screening-Systeme.
-- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Automatisiertes Profiling als Art. 22 DSGVO-Entscheidung — Einstellungs-KI faellt darunter.
-- BAG, Urt. v. 13.01.2004 — 9 AZR 603/02, NZA 2004, 784 Rn. 16: Mitbestimmungspflicht des Betriebsrats bei technischen Ueberwachungs- und Bewertungssystemen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 6 Abs. 2 i. V. m. Anhang III Nr. 4 KI-VO — Hochrisiko-Kategorie: Beschäftigung, Personalmanagement und Zugang zur Selbstständigkeit

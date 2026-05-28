@@ -15,10 +15,7 @@ Dieser Hauptskill erstellt die vollständige formelle Erstantwort-E-Mail an eine
 4. Soll der Transkriptionsservice-Hinweis aktiviert werden (Trigger: Anfrage ist kurz/fragmentarisch oder Nutzer kann nicht schreiben)?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Pflicht zur Eingangsbestaetigung innerhalb angemessener Zeit; verzoegertes Antworten kann als Ablehnung gewertet werden und Vertrauensschaeden ausloesen.
-- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Kostenbelehrung nach § 49b Abs. 5 BRAO muss vor oder mit Mandatsannahme erteilt werden; Erstantwort ist guter Zeitpunkt fuer diesen Hinweis.
-- BGH, Urt. v. 17.01.2019 - IX ZR 52/18, NJW 2019, 1232 — Kein-Mandat-Disclaimer in der Erstantwort schutzt Kanzlei vor konkludenter Mandatsbegrundung durch inhaltliche Ersthinweise.
-- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Datenschutzhinweis nach Art. 13 DSGVO muss bei Ersterhebung von Kontaktdaten erteilt werden; Erstantwort-Mail ist passender Zeitpunkt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 49b Abs. 5 BRAO — Kostenbelehrungspflicht: Hinweis auf voraussichtliche Gesamtkosten vor Mandatsannahme
@@ -26,10 +23,9 @@ Dieser Hauptskill erstellt die vollständige formelle Erstantwort-E-Mail an eine
 - § 43 BRAO — Sorgfaltspflicht: zeitnahe und vollstaendige Beantwortung eingehender Anfragen
 - § 43a Abs. 2 BRAO — Verschwiegenheit: gilt auch gegenueber dem potenziellen Mandanten
 
-## Kommentarliteratur
-- Gaier/Wolf/Göcken BRAO § 49b Rn. 80-100 (Kostenbelehrung: Inhalt und Zeitpunkt)
-- Kühling/Buchner DSGVO Art. 13 Rn. 1-30 (Informationspflicht bei Ersterhebung von Kontaktdaten)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf (Koordination der Teil-Skills)
 
 1. **Parsing:** Skill `anfrage-eingang-parser` läuft zuerst und liefert strukturierte Daten.

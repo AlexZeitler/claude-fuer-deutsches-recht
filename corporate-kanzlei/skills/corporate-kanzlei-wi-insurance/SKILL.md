@@ -24,16 +24,11 @@ description: "W&I-Versicherung (Warranty & Indemnity Insurance) strukturieren un
 
 ## Aktuelle Rechtsprechung
 
-- OLG Frankfurt, Urt. v. 26.05.2022 - 5 U 53/21, NZG 2022, 1052 — W&I-Deckungsablehnung: Versicherer kann Deckung verweigern wenn DD-Report wesentliche bekannte Risiken unterschlaegt (non-disclosure); Underwriter-Informationspflicht des Versicherungsnehmers
-- BGH, Urt. v. 08.05.2013 - IV ZR 176/12, NJW 2013, 2283 — Versicherungsvertragsrecht: vorvertragliche Anzeigeobliegenheit gilt streng; Verletzung berechtigt zur rueckwirkenden Vertragsanfechtung; M&A-Versicherungen sind keine Ausnahme
-- LG Frankfurt, Urt. v. 12.11.2021 - 2-21 O 173/20 — Enhanced Disclosure beim Closing: neue Fakten nach Signing muessen dem Versicherer gemeldet werden; unterlassene Meldung schmaelert Deckung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Roedder/Strnad, W&I Insurance im Deutschen M&A Markt (2022) — Standardwerk
-- Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 14 — W&I in der Praxis
-- Armbruster, MueKo VVG § 21 Rn. 1 ff. — vorvertragliche Anzeigepflicht
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## W&I-Versicherungsstruktur: Uebersicht
 
 ### Kaeufer-Policy (Buyer-Side)
@@ -127,5 +122,5 @@ Datum der Abgabe: [DATUM]
 ## Quellen
 
 - VVG §§ 1-21; W&I-Marktstandard (LMA, GDV)
-- OLG Frankfurt 5 U 53/21 (W&I non-disclosure); BGH IV ZR 176/12 (Anzeigepflicht VVG)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Roedder/Strnad, W&I Insurance (2022); Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 14

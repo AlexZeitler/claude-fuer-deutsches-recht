@@ -38,18 +38,11 @@ Diese Skill ist das zentrale Betriebsverzeichnis für Fristen. Der begleitende v
 
 ### Leitentscheidungen
 
-- BGH, Beschl. v. 15.12.2021 – XII ZB 557/20, NJW 2022, 614 Rn. 10 ff. — Sorgfaltspflichten bei elektronischer Fristennotierung; Kanzleipflicht zur Ausgangskontrolle gilt auch für studentische Beratungsstellen sinngemäß.
-- BGH, Beschl. v. 08.02.2022 – XI ZB 43/20, NJW-RR 2022, 647 Rn. 8 — Wiedereinsetzungsantrag: Glaubhaftmachung nach § 236 Abs. 2 ZPO erfordert vollständige und in sich schlüssige Darlegung des Fristversäumnisses.
-- BVerwG, Beschl. v. 12.06.2019 – 2 B 53/18, NVwZ-RR 2019, 879 Rn. 5 — Fristwahrung im verwaltungsgerichtlichen Verfahren; Zugangsfiktion bei Bekanntgabe nach § 41 Abs. 2 VwVfG.
-- BAG, Urt. v. 26.06.2014 – 2 AZR 594/13, NZA 2014, 1303 Rn. 14 — Drei-Wochen-Frist des § 4 KSchG als Ausschlussfrist; keine Hemmung durch laufende Verhandlungen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Jaspersen, in: BeckOK ZPO, 53. Ed. (Stand 01.03.2025), § 233 Rn. 15 — Voraussetzungen der Wiedereinsetzung; unverschuldetes Hindernis.
-- Stackmann, in: MüKoZPO, 6. Aufl. 2020, § 217 Rn. 5 — Fristberechnung, Beginn der Notfrist.
-- Kopp/Schenke, VwGO, 29. Aufl. 2023, § 60 Rn. 1 — Wiedereinsetzung im Verwaltungsprozessrecht (Doppelautoren-Kommentar).
-- Ellenberger, in: Grüneberg, BGB, 84. Aufl. 2025, § 186 Rn. 1 — Fristberechnung nach §§ 186–193 BGB.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Modus `--eintragen` — neue Frist erfassen

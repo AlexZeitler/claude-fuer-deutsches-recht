@@ -30,7 +30,7 @@ Das DBA-Ungarn vom 28.02.2011 (BGBl. 2011 II S. 1322) ersetzte das DBA von 1977 
 - **MLI**: beide Unterzeichner; das DBA-Ungarn ist Covered Tax Agreement unter dem deutschen BEPS-MLI-Anwendungsgesetz (vgl. BMF-Stand DBA 01.01.2026).
 
 ### Leitentscheidungen und BMF-Schreiben
-- BFH I R 95/10 (Urt. v. 25.05.2011) zu DBA-Ungarn: Einkuenfte aus Vermietung beweglicher Anlagegueter einer ungarischen Personengesellschaft; keine Qualifikationsverkettung nach Art. 3 Abs. 2 DBA-Ungarn.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Land-spezifisches
 

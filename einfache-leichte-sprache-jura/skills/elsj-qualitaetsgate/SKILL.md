@@ -15,10 +15,7 @@ Nutze diesen Skill vor jeder Herausgabe.
 4. Liegt ein Pruefgruppen-Protokoll vor oder soll das Gate nur einen Entwurfs-Check durchfuehren?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 09.07.1981 - III ZR 198/80, BGHZ 81, 175 — Qualitaet einer verstaendlichen Fassung richtet sich nach dem Massstab des durchschnittlichen Adressaten der Zielgruppe.
-- BGH, Urt. v. 15.11.2006 - VIII ZR 3/06, NJW 2007, 504 — Inhaltliche Vollstaendigkeit bei vereinfachten Informationsdokumenten verlangt, dass keine wesentliche Rechtsposition verloren geht.
-- BVerwG, Urt. v. 21.09.2010 - 4 C 1.10, NVwZ 2011, 115 — Pruefpflicht bei Behordendokumenten: fehlerhafte Belehrung fuehrt zur Rechtsnachteilen fuer die Behoerde.
-- OLG Hamburg, Urt. v. 22.01.2015 - 3 U 56/14 — Qualitaetspruefung vereinfachter Versicherungsdokumente anhand des Verstaendnisses eines durchschnittlichen Verbrauchers.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 11 BGG — Pruefpflicht der oeffentlichen Hand fuer barrierefreie Kommunikation
@@ -26,10 +23,9 @@ Nutze diesen Skill vor jeder Herausgabe.
 - BITV 2.0 Anhang 1 — Pruefanforderungen fuer digitale Barrierefreiheit
 - DIN 33430 — Qualitaetsanforderungen an Testverfahren (analog heranziehbar fuer Verstaendlichkeitspruefungen)
 
-## Kommentarliteratur
-- Bredel/Maaß, Leichte Sprache, 2016, Kap. 6 (Qualitaetspruefung: Standards und Verfahren)
-- Kellner, Einfache Sprache im Recht, 2. Aufl. 2022, Kap. 5 (Qualitaetsgate fuer rechtliche Dokumente)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Qualitaetsgate-Ergebnis
 
 ```

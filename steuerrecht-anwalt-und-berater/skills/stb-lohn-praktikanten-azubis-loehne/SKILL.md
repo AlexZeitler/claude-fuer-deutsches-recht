@@ -14,7 +14,7 @@ Praktika und Berufsausbildung haben besondere lohn- und sv-rechtliche Behandlung
 1. Praktikum als Pflichtpraktikum (Schul- oder Studienordnung)?
 2. Freiwilliges Praktikum vor/nach/waehrend Studium?
 3. Dauer Praktikum (< oder > 3 Monate)?
-4. Berufsausbildung nach BBiG mit Vertrag und IHK/HWK-Eintrag?
+4. Berufsausbildung nach BBiG mit Vertrag und IHK/lizenzpflichtige Literaturquelle-Eintrag?
 5. Dualer Studiengang (Theorie+Praxis kombiniert)?
 6. Vergueteung pro Monat?
 7. Wohnt der Auszubildende im Haushalt des AG (Sachbezuege)?
@@ -82,7 +82,7 @@ Praktika und Berufsausbildung haben besondere lohn- und sv-rechtliche Behandlung
 ### Phase 6 — Dokumentation
 
 - Schul-/Studienbescheinigung mit Pflichtpraktikums-Nachweis.
-- Ausbildungsvertrag mit IHK/HWK-Eintrag.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Mandantenakte mit allen Unterlagen.
 
 ## Output

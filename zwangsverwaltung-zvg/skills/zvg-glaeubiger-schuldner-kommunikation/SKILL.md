@@ -60,18 +60,15 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 04.10.2007 - IX ZB 220/06, NZI 2007, 726 Rn. 11 — Der Zwangsverwalter steht im Dienst aller Beteiligten (Gläubiger und Schuldner); er ist zur gleichmäßigen Information beider verpflichtet und darf keine Partei bevorzugen.
-- BGH, Beschl. v. 12.01.2006 - IX ZB 239/04, NZI 2006, 234 — Der betreibende Gläubiger hat ein Auskunftsrecht über den Stand der Verwaltung; der Zwangsverwalter ist verpflichtet, auf Anfrage der Beteiligten zeitnah zu berichten und Einsicht in die Verwaltungsunterlagen zu gewähren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Gläubiger-Schuldner-Kommunikation
 
 § 154 ZVG (Aufsicht durch Gericht) → § 153 Abs. 2 ZVG (Auskunftspflicht) → §§ 13-15 ZwVwV (Buchführung Rechnungslegung) → § 20 ZwVwV (Vergütung und Rechenschaft) → § 242 BGB (Treu und Glauben, Auskunftsanspruch analog)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Stöber ZVG 22. Aufl., § 154 Rn. 5-25 (Gerichtliche Aufsicht Auskunftspflicht)
-- Böttcher ZVG 6. Aufl., § 153 Rn. 40-60 (Informationspflichten)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage Kommunikation
 
 1. Wer ist betreibender Gläubiger? (Alle Gläubiger in Rangklassen nach § 10 ZVG erfassen)

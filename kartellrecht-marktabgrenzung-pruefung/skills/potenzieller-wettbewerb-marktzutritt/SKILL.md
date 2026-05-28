@@ -22,7 +22,7 @@ Zeitrahmen: Fusionskontrolle üblicherweise 2 Jahre; Missbrauchsverfahren kontex
 
 ### 2. Strategische Schranken
 
-- Verdrängungspreise bei drohendem Markteintritt (AKZO-Doktrin, EuGH C-62/86).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Exklusive Verträge, die potenziellen Kunden binden.
 - Patentstrategien und Standardisierung.
 
@@ -59,10 +59,10 @@ Potenzieller Wettbewerb diszipliniert Marktmacht: **ja / eingeschränkt / nein**
 
 ## Leitentscheidungen Potenzieller Wettbewerb
 
-- EuGH, Urt. v. 26.11.1998 — C-7/97 (Bronner), Slg. 1998, I-7791 — Marktzutritt als Gegengewicht zu Marktbeherrschung; hohe Zutrittsbarrieren als Verstaerker der Dominanz.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EK, Horizontal Merger Guidelines 2004 Rn. 68-79 — Potenzieller Wettbewerb; glaubwuerdige Marktzutrittsdrohung bei niedrigen Barrieren; Zeitrahmen 2 Jahre.
-- BGH, Beschl. v. 07.11.2023 — KZR 67/21, WuW 2024, 90 — Potenzieller Wettbewerb als Gegenstand der Gesamtbewertung Marktbeherrschung; Lizenzbarrieren verstaerken Dominanz.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bechtold/Bosch GWB § 18 Rn. 50-70 (Marktzutrittsschranken, potenzieller Wettbewerb)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

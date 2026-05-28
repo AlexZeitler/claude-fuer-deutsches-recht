@@ -53,13 +53,9 @@ description: "Anwalt will Fachanwaltschaft Sportrecht erwerben oder Mandat im Sp
 - **Ordentliche Gerichte** Vereinsrecht und Arbeitsrecht.
 - **EuGH** bei EU-rechtlichen Vorabentscheidungen.
 
-## Standardliteratur
+## Quellenregel
 
-- Adolphsen/Nolte/Lehner/Geiger, Sportrecht in der Praxis.
-- Vieweg, Faszination Sportrecht.
-- Roeschke, Vereinsrecht.
-- Holzhauser, Sportrecht.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Berufsverband
 
 - Konstanzer Arbeitskreis für Sportrecht.
@@ -74,5 +70,4 @@ description: "Anwalt will Fachanwaltschaft Sportrecht erwerben oder Mandat im Sp
 
 ## Ergaenzende Rechtsprechung (2026-Update)
 
-- EuGH, Urt. v. 21.12.2023 - C-333/21 (European Superleague), NJW 2024, 504 — UEFA/FIFA-Monopolregeln bei europaeischen Vereinswettbewerben sind an Art. 101 und 102 AEUV zu messen; automatisches Genehmigungsregime ohne sachliche Kriterien unzulaessig.
-- EuGH, Urt. v. 04.10.2024 - C-650/22 (Diarra), NJW 2024, 3458 — FIFA-Transferregeln (RSTP-Art. 17): pauschale Haftung des neuen Vereins und sofortiges Transferverbot bei Vertragsauflosung unvereinbar mit Art. 45 AEUV (Freizuegigkeit der Arbeitnehmer).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

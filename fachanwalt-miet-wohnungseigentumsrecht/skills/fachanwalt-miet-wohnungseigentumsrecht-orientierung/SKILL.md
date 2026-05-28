@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-miet-wohnungseigentumsrecht-orientierung
-description: "Anwalt will Fachanwaltschaft Miet-WEG-Recht erwerben oder Mandat bearbeiten: FAO § 14e 120 Faelle 30 rechtsfoermlich. Normen §§ 535 ff. BGB WEG §§ 1-49 BetrKV HeizkostenV. Prüfraster FAO-Voraussetzungen Mandatstypen Normen-Karte BGH VIII ZR Mietrechtssenat. Output Orientierungs-Leitfaden Normen-Karte. Abgrenzung zu allen Einzel-Skills (nur Überblick und Routing)."
+description: "Workflow-Skill zu fachanwalt miet wohnungseigentumsrecht orientierung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Orientierung Miet- und Wohnungseigentumsrecht
@@ -38,20 +38,12 @@ description: "Anwalt will Fachanwaltschaft Miet-WEG-Recht erwerben oder Mandat b
 - Schönheitsreparaturen (BGH-Rechtsprechung zu Quotenklauseln und starren Fristenplänen).
 - WEG-Versammlung, Beschlussanfechtung § 44 WEG, Verwalterhaftung.
 
-## Standardliteratur
+## Quellenregel
 
-- **Schmidt-Futterer**, Mietrecht (Beck), Großkommentar — Standardwerk für Wohnraummiete.
-- **Schmidt/Bub/Wenzel**, Handbuch Geschäftsraummiete (Beck) für Gewerberaummiete.
-- **Bub/Treier**, Handbuch der Geschäfts- und Wohnraummiete (Beck).
-- **Bärmann**, WEG-Kommentar (Beck) — Standardwerk Wohnungseigentumsrecht.
-- **Niedenführ/Vandenhouten**, WEG-Kommentar (Beck).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Maßgebliche Rechtsprechung
 
-- BGH, Urt. v. 22.08.2018 – Az. VIII ZR 277/16, BGHZ 219, 297 Rn. 19 — Eigenbedarfskündigung und Härtefall § 574 BGB.
-- BGH, Urt. v. 17.06.2015 – Az. VIII ZR 290/14, NJW 2015, 2419 Rn. 24 — Wirksamkeit Quotenabgeltungsklauseln.
-- BGH, Urt. v. 14.12.2022 – Az. VIII ZR 304/21, NJW 2023, 1289 Rn. 18 — Anforderungen an Mietspiegelbegründung.
-- BGH, Urt. v. 16.09.2022 – Az. V ZR 69/21, BGHZ 234, 252 Rn. 13 — Beschlussanfechtung nach neuem WEG-Recht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Fristen-Sofort-Check
 
@@ -74,8 +66,7 @@ description: "Anwalt will Fachanwaltschaft Miet-WEG-Recht erwerben oder Mandat b
 ## Weiterfuehrende Leitsaetze BGH (Erweiterung)
 
 <!-- BGH VIII ZR 283/22 entfernt: Az. nicht auffindbar (dejure.org, 27.05.2026) -->
-- BGH, Urt. v. 13.09.2023 — VIII ZR 117/22, NJW 2023, 3235 Rn. 15: Die Mietpreisbremse nach § 556d BGB ist verfassungskonform; qualifizierte Ruege nach § 556g Abs. 2 BGB Voraussetzung fuer Rueckzahlungsanspruch.
-- BGH, Urt. v. 08.02.2023 — V ZR 8/22, NJW 2023, 2118 Rn. 22: Nach WEMoG-Reform klagt der Wohnungseigentuemer gegen die Gemeinschaft der Wohnungseigentuemer (§ 9a WEG); die alten Klagegegner (Miteigentuemer) sind seit 01.12.2020 nicht mehr passivlegitimiert.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Übergabe
 

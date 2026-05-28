@@ -34,12 +34,12 @@ Abfindungen aus Anlass der Beendigung des Arbeitsverhaeltnisses sind aussergewoe
 
 **SvEV § 1 Abs. 1 Nr. 16** — SV-Behandlung Abfindungen.
 
-### Leitentscheidungen (Aktenzeichen vor Uebernahme in juris/beck-online pruefen)
+### Leitentscheidungen (Aktenzeichen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken pruefen)
 
-- BFH-Linie zur Zusammenballung von Einkuenften: stetige Rechtsprechung seit den 1990er Jahren; gefestigte Praxis im Schmidt-EStG-Kommentar und in Blumich/Renner § 34 EStG nachvollziehbar. Aktenzeichen wie BFH IX R 47/14 nur nach Verifizierung benutzen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BSG-Linie zu echter vs. unechter Abfindung im SV-Recht: vor Uebernahme aktuelle Entscheidungen in juris pruefen.
 
-Im civil law tragen die Kommentar- und Aufsatz-Literatur eigenstaendig (vgl. CLAUDE.md): zusaetzlich Schmidt/EStG, Blumich/EStG zu § 24 Nr. 1 und § 34 sowie aktuelle Aufsaetze in DStR/DB zur Fuenftel-Regelung-Reform 2024/2025 (Wegfall des LSt-Abzugs in der Lohnabrechnung — Veranlagungspflicht durch AN) heranziehen.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Workflow
 
@@ -114,8 +114,8 @@ Stand: 05/2026.
 - EStG §§ 19, 24 Nr. 1, 34.
 - SGB IV § 14.
 - SvEV § 1.
-- BFH-Linie zur Zusammenballung der Einkuenfte (stetige Rechtsprechung, vgl. Schmidt/EStG, Blumich/EStG zu § 34 EStG; konkrete Aktenzeichen vor Uebernahme in juris/beck-online pruefen).
+- BFH-Linie zur Zusammenballung der Einkuenfte (stetige Rechtsprechung, vgl. Schmidt/EStG, Blumich/EStG zu § 34 EStG; konkrete Aktenzeichen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken pruefen).
 - BSG-Linie zur SV-Einordnung echter vs. unechter Abfindungen (aktuelle Entscheidungen vor Uebernahme in juris pruefen).
 - Wachstumschancengesetz vom 27.03.2024 (BGBl. 2024 I Nr. 108): Streichung der Fuenftel-Regelung im Lohnsteuer-Abzugsverfahren ab dem Veranlagungszeitraum 2025; Anwendung der Fuenftel-Regelung nur noch in der Veranlagung beim AN.
 
-<!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 0 bestaetigt (Fundstelle/Datum), 4 ersetzt (Hinweis auf Pruefung in juris/beck-online neu formuliert) -->
+<!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 0 bestaetigt (Fundstelle/Datum), 4 ersetzt (Hinweis auf Pruefung in amtliche/freie Quellen oder lizenzierte Datenbanken neu formuliert) -->

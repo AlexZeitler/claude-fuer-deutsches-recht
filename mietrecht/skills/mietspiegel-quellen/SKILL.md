@@ -168,8 +168,7 @@ Diese Quellensammlung ersetzt keine Rechtsberatung. Sie ist ein Werkzeug zur Rec
 
 ## Aktuelle Rechtsprechung — Leitsaetze Mietspiegel
 
-- BGH, Urt. v. 18.05.2022 — VIII ZR 214/21, NJW 2022, 2669 Rn. 22: Die Bezugnahme auf einen einfachen Mietspiegel (§ 558c BGB) genuegt als Begruendungsmittel, wenn der Vermieter den konkreten Tabellenplatz angibt und die Wohnwertmerkmale erlaeutert.
-- BVerfG, Beschl. v. 18.07.2019 — 1 BvL 1/18, NJW 2019, 3164: Gesetzliche Mietpreisbremse und damit verbundene Mietspiegel-Anwendung sind verfassungskonform; der Eingriff in die Vertragsfreiheit ist verhaeltnismaessig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 <!-- AUDIT 27.05.2026 -->

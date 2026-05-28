@@ -41,28 +41,22 @@ begrenzt. Relevante Grenzen:
   für Körperverletzungen und grobe Fahrlässigkeit ist unwirksam und nicht
   verhandelbar
 - § 310 Abs. 1 BGB — Im unternehmerischen Verkehr gelten §§ 308, 309 BGB
-  nicht unmittelbar, aber § 307 BGB weiterhin (BGH BGHZ 174, 1 Rn. 12)
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - §§ 438, 634a BGB — Gesetzliche Verjährungsfristen für Gewährleistung;
   Verkürzung in AGB nur in Grenzen des § 309 Nr. 8 BGB
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 19.11.2019 – XI ZR 9/18, NJW 2020, 461 Rn. 22 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Zulässige Anpassung von Zinsklauseln; Transparenzgebot bei Änderungsvorbehalten)
-- BGH, Urt. v. 08.03.2005 – XI ZR 154/04, BGHZ 162, 294 Rn. 26
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Unwirksamkeit einer AGB-Klausel bei unangemessener Benachteiligung; § 307 BGB)
-- BGH, Urt. v. 04.02.2009 – VIII ZR 32/08, NJW 2009, 1337 Rn. 18
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Unwirksamkeit verkürzter Verjährungsfristen in AGB bei versteckter Klausel)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 307 Rn. 1 (Inhaltskontrolle),
-  § 309 Rn. 48 (Haftungsausschluss)
-- Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 307 Rn. 45 (Transparenzgebot);
-  § 309 Rn. 90
-- Wolf/Lindacher/Pfeiffer, AGB-Recht, 7. Aufl. 2020, § 309 Nr. 7 Rn. 30 (Doppelautoren-Kommentar)
-- Lehmann-Richter, in: BeckOGK BGB, 70. Ed. (Stand 01.08.2024), § 307 Rn. 150
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Schritt 1 — Profil lesen
@@ -179,7 +173,7 @@ Wenn eine Klauselanpassung an zwingenden gesetzlichen Grenzen scheitert
 oder eine Warnung ausgelöst wird, muss die Ausgabe belegen:
 - Den einschlägigen Paragraphen (z. B. § 309 Nr. 7 BGB)
 - Eine BGH-Entscheidung zur Grenze
-- Einen Kommentarbeleg (z. B. Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025,
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
   § 309 Rn. 48)
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

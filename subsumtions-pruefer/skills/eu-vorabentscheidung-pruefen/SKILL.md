@@ -20,7 +20,7 @@ Berechtigt zur Vorlage ist jedes "Gericht eines Mitgliedstaats". Der Begriff ist
 - Kontradiktorisches Verfahren
 - Anwendung von Rechtsnormen
 
-Auch Schiedsgerichte können vorlegen, wenn sie im öffentlichen Interesse errichtet sind (EuGH, Rs. C-102/81 — Nordsee: private Schiedsgerichte grundsätzlich nicht vorlagebefugt).
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 2. Vorlagepflicht (Art. 267 Abs. 3 AEUV)
 
@@ -41,7 +41,7 @@ Vorlage ist möglich für:
 
 ## CILFIT-Ausnahmen (Befreiung von der Vorlagepflicht)
 
-EuGH, Rs. 283/81 — CILFIT (1982) und EuGH, Rs. C-561/19 — Consorzio (2021):
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 1. **Acte clair:** Die Auslegung ist so offenkundig, dass kein vernünftiger Zweifel verbleibt; das Gericht muss sich vergewissern, dass andere Mitgliedstaaten und der EuGH dieselbe Auffassung teilen würden.
 

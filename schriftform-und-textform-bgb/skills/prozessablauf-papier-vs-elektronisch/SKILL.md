@@ -25,25 +25,22 @@ description: "Kanzlei oder Mandant muss zwischen Papier, qES, Textform, beA-Schr
 - § 371a ZPO (Beweiskraft elektronischer Dokumente mit qES)
 
 ## Rechtsprechung
-1. BGH, Urt. v. 27.11.2024 - VIII ZR 159/23 — Ein Ausdruck eines qES-Schriftsatzes mit Transfervermerk nach § 298 Abs. 3 ZPO ersetzt den formgerechten elektronischen Zugang der prüfbaren qES-Datei nicht.
-2. BGH, Urt. v. 27.11.2024 - VIII ZR 155/23 — Bei Schriftsatzkündigungen vor § 130e ZPO blieb entscheidend, ob das qualifiziert signierte elektronische Dokument dem Erklärungsempfänger mit prüfbarer Signatur zugeht.
-3. BGH, Urt. v. 22.04.2015 - XII ZR 55/14, NJW 2015, 2034 — Bei vertraglich vereinbarter Schriftform genügt im Zweifel Textform; ein ausdrücklicher Ausschluss der elektronischen Form muss eindeutig vereinbart sein.
-4. BGH, Urt. v. 04.06.2014 - VIII ZR 289/13, NJW 2014, 2480 — Bei Einschreiben mit Rückschein spricht ein Anscheinsbeweis für den Zugang, wenn der Rückschein rückläuft; fehlt der Rückschein, ist der Zugang einzeln zu beweisen.
-5. BAG, Urt. v. 16.09.2021 - 2 AZR 781/20, NJW 2021, 3545 — Direkte digitale Übermittlungswege wie WhatsApp, E-Mail oder PDF erfüllen § 623 BGB nicht; § 46h ArbGG ist als späterer prozessualer Sonderpfad gesondert zu prüfen.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+5. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Grüneberg, BGB, 83. Aufl. 2024, § 126 Rn. 1 ff. und § 130 Rn. 1 ff.
-- Zöller/Geimer, ZPO, 35. Aufl. 2024, § 371a Rn. 1 ff. (qES-Beweiskraft).
-- Ernst in MuKo-BGB, 9. Aufl. 2023, § 126a Rn. 1 ff. (Elektronische Form).
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Rechtsgrundlagen
 
 - §§ 126-126b BGB — Formvorschriften
 - § 130 BGB — Zugang
 - §§ 130a, 130e ZPO — elektronischer Schriftsatz und Formfiktion
 - § 46h ArbGG — arbeitsgerichtliche Formfiktion
-- BGH VIII ZR 159/23 — qES-Zugang
-- BGH I ZR 202/25 — Textform Maklervertrag
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Workflow
 
@@ -189,7 +186,7 @@ Schritt 4: Risikobewertung
 | Rechtsgeschäft | Zwingend | Empfohlen | Elektronisch möglich? |
 |---------------|----------|-----------|----------------------|
 | Grundstückskauf | Notar | Notar | Nein |
-| Wohnraumkündigung | Schriftform | Papier + Bote | qES möglich (BGH VIII ZR 159/23) |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Gewerbemietvertrag >1 Jahr | Schriftform | Papier + Urkundeneinheit | qES möglich |
 | Maklervertrag Wohnraum | Textform | E-Mail | Ja |
 | Bürgschaft | Schriftform | Papier + Unterschrift | qES nur nach Spezialprüfung |

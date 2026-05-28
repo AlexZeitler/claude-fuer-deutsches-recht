@@ -23,18 +23,11 @@ description: "Zeugen-Strategie gegenüber Polizeibeamten im OWi-Verfahren: Poliz
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 28.06.2022 - 1 StR 32/22, NStZ 2022, 623 — Glaubwuerdigkeitspruefung eines Polizeibeamten-Zeugen erfordert Beruecksichtigung seiner dienstlichen Funktion; automatische Glaubwuerdigkeit gibt es nicht; Konsistenzpruefung notwendig.
-- OLG Bamberg, Beschl. v. 14.09.2020 - 3 Ss OWi 1151/20, NZV 2021, 92 — Polizeibeamten-Aussage zur Fahreridentifikation genuegt nur wenn sie auf konkreter visueller Wahrnehmung basiert, nicht auf Schlussfolgerung.
-- OLG Koeln, Beschl. v. 01.07.2019 - 1 RBs 185/19, NZV 2019, 558 — Zeugenaussage zur Rotlichtdauer muss konkrete Wahrnehmung ergeben; "die Ampel war bestimmt laenger als eine Sekunde rot" ist keine ausreichende Begruendung fuer qualifiziertes Rotlicht.
-- OLG Celle, Beschl. v. 14.01.2020 - 3 Ss OWi 134/19, NZV 2020, 320 — Polizeibeamter-Aussage ueber Fahreridentifikation: "Es war eindeutig der Fahrer" genuegt wenn Beamter direkte visuelle Wahrnehmung beschreiben kann; pauschale Behauptung genuegt nicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Meyer-Gossner/Schmitt StPO § 240 Rn. 1-15 (Fragerecht)
-- Meyer-Gossner/Schmitt StPO § 254 Rn. 1-10 (Vorhalt)
-- Goehler OWiG § 71 Rn. 1-20 (HV im OWi-Verfahren; Zeugenrecht)
-- Burhoff, Handbuch OWi (Polizeibeamten als Zeugen), Rn. 1200-1300
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Fragestrategie Polizeibeamter-Zeuge
 
 ### Einstiegsfragen (neutral)

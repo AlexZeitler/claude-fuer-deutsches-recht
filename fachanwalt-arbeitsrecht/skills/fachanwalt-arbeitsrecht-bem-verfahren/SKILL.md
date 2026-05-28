@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-bem-verfahren
-description: "Betriebliches Eingliederungsmanagement BEM nach § 167 Abs. 2 SGB IX als Voraussetzung wirksamer personenbedingter Kündigung. Anwendungsfall Arbeitnehmer war laenger als sechs Wochen krank und Arbeitgeber will personenbedingt kündigen. Normen § 167 Abs. 2 SGB IX BEM-Pflicht § 168 SGB IX Zustimmungsverfahren Schwerbehinderte BAG 2 AZR 400/16. Prüfraster Sechs-Wochen-Schwelle BEM-Einladung Protokoll Wiedereingliederungsplan Hamburger-Modell Schwerbehindertenstatus. Output BEM-Einladungsschreiben Protokollvorlage Prüfbericht Kündigungsrisiko ohne BEM. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-betriebsratsanhoerung."
+description: "Workflow-Skill zu fachanwalt arbeitsrecht bem verfahren. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # BEM-Verfahren § 167 II SGB IX
@@ -26,8 +26,7 @@ Das Betriebliche Eingliederungs-Management (BEM) ist Pflicht bei mehr als 6 Woch
 
 ### BAG-Linie
 
-- BAG, Urt. v. 20.11.2014 — 2 AZR 755/13: BEM ist **Verhältnismaessigkeits-Voraussetzung** der personenbedingten Kündigung
-- BAG, Urt. v. 21.4.2016 — 2 AZR 400/15: AG muss **darlegen**, dass auch bei BEM keine Lösung gefunden worden waere — andernfalls Kündigung unwirksam
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Konsequenz
 
@@ -127,9 +126,7 @@ Ohne BEM = Kündigungsschutzklage **gewinnbar** in 80-90 % der Fälle.
 
 ## Aktuelle Rechtsprechung (Ergaenzung v14.2)
 
-- **BAG, Urt. v. 18.11.2021 — 2 AZR 138/21**, NZA 2022, 261 — BEM vor personenbedingter Kündigung wegen Krankheit: Unterlassung des BEM führt zur erhöhten Darlegungslast des Arbeitgebers; er muss konkret vortragen, dass BEM keine zumutbare Beschäftigungsmöglichkeit ergeben hätte.
-- **BAG, Urt. v. 16.07.2015 — 2 AZR 15/15**, NZA 2016, 99 — Einladungsschreiben zum BEM muss auf die Freiwilligkeit hinweisen und erläutern, welche Personengruppen beteiligt werden; fehlt dieser Hinweis ist das BEM nicht ordnungsgemäß durchgeführt.
-- **BAG, Urt. v. 24.03.2011 — 2 AZR 170/10**, NZA 2011, 995 — Anforderungen an das BEM-Einladungsschreiben: Arbeitgeber muss Ziel und Ablauf des BEM erläutern; pauschale Einladung ohne Inhaltsbeschreibung genügt nicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette
 
@@ -139,7 +136,6 @@ Ohne BEM = Kündigungsschutzklage **gewinnbar** in 80-90 % der Fälle.
 - § 84 SGB IX a.F. / § 167 SGB IX n.F. — Wiedereingliederung
 - § 69 SGB IX — Feststellung Schwerbehinderung
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Koch, 25. Aufl. 2025, SGB IX § 167 Rn. 1 ff. (BEM-Pflicht, Ablauf, Rechtsfolgen bei Versäumnis)
-- Schaub Arbeitsrechts-Handbuch/Linck, 20. Aufl. 2023, § 139 (BEM-Praxis, Kündigung nach BEM)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

@@ -19,18 +19,15 @@ description: "Komplexitätsindikatoren erkennen: Wann uebersteigt der Sachverhal
 
 ## Rechtsprechung
 
-BGH, Urt. v. 05.12.2013 – IX ZR 93/11, NJW 2014, 1388 — Die Feststellung des Zeitpunkts der Zahlungsunfähigkeit nach § 17 InsO erfordert eine umfassende Liquiditätsprüfung; bei Streit über den Zeitpunkt ist sachverständige Unterstützung und anwaltliche Spezialberatung unerlässlich.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 21.02.2013 – IX ZR 52/10, NJW 2013, 1873 — Bei konzerninternen Vermögenstransfers und Anfechtung nach § 133 InsO ist die Prüfung der Benachteiligungsabsicht besonders komplex; eine mechanische Prüfung anhand einfacher Indikatoren reicht nicht aus.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 19.05.2011 – IX ZR 9/10, NJW 2011, 2492 — Bei Grundstücksübertragungen kurz vor Insolvenz sind neben Anfechtungsrecht auch notarielle, grundbuchrechtliche und steuerrechtliche Fragen zu klären; anwaltliche Spezialisierung ist erforderlich.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Kayser in: MüKoInsO, 4. Aufl. 2023, § 129 Rn. 1–20 (Anfechtungsrecht allgemein, Grenzen der Selbsthilfe).
-Uhlenbruck in: Uhlenbruck, InsO, 15. Aufl. 2023, Einleitung Rn. 50–70 (Spezialisierungsbedarf im Insolvenzrecht).
-Kirchhof in: MüKoInsO, 4. Aufl. 2023, § 17 Rn. 50–80 (Streit über Zahlungsunfähigkeit, Sachverständige).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill benennt Situationen, in denen die mechanische Prüfung an ihre Grenzen stößt. In diesen Fällen ist anwaltliche Beratung durch einen Spezialisten zwingend.

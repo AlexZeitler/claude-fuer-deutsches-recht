@@ -22,16 +22,14 @@ description: "Prozessrechtliches Erstinterview strukturiert durchführen: Sachve
 - BORA §§ 2, 3 (Grundpflichten, Sachlichkeit)
 
 ## Rechtsprechung
-1. BGH, Urt. v. 21.10.2010 – IX ZR 37/10, NJW 2011, 375 — Die Vereinbarung einer vom RVG abweichenden Vergütung bedarf der Textform nach § 3a RVG; eine mündliche Abrede ist unwirksam und löst die gesetzlichen Gebühren aus.
-2. BGH, Beschl. v. 15.03.2021 – AnwZ (Brfg) 50/19, NJW 2021, 1523 — Die Zulassung als Syndikusrechtsanwalt nach § 46a BRAO setzt eine anwaltliche Tätigkeit im abhängigen Beschäftigungsverhältnis voraus; Kanzleizulassung und Syndikuszulassung können nebeneinander bestehen.
-3. BGH, Urt. v. 23.06.2016 – IX ZR 204/15, NJW 2016, 3365 — Eine Falschauskunft über Praxisschwerpunkte begründet die Haftung des Anwalts wegen positiver Forderungsverletzung; der Mandant darf auf die Angaben vertrauen.
-4. BAG, Urt. v. 20.03.2018 – 10 AZR 99/17, NJW 2018, 2204 — Der Syndikusrechtsanwalt unterliegt bei der Nutzung digitaler Arbeitstools den gleichen datenschutzrechtlichen Beschränkungen wie ein freier Anwalt; Mandatsdaten dürfen nicht in unkontrollierte Clouddienste eingespeist werden.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Henssler/Prütting, BRAO, 5. Aufl. 2019, § 43a Rn. 45 ff. (Verschwiegenheitspflicht).
-- Deckenbrock/Henssler, BRAO, 5. Aufl. 2021, § 46a Rn. 1 ff. (Syndikusrechtsanwalt).
-- Mayer/Kroiber, RVG, 8. Aufl. 2022, § 3a Rn. 1 ff. (Vergütungsvereinbarung und Textform).
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Einmaliges Einrichtungsinterview für das Prozessrecht-Plugin. Erfasst das Praxisprofil der Kanzlei oder Rechtsabteilung und schreibt die Konfiguration in CLAUDE.md. Jeder nachfolgende Skill liest aus dieser Datei den Kontext – ohne Kaltstart arbeiten die Skills mit unvollständigen Voreinstellungen.
@@ -102,7 +100,7 @@ Das Plugin schreibt alle erfassten Werte in die YAML-Felder von CLAUDE.md (Absch
 - BRAO, insbesondere §§ 43, 43a, 49b (Vergütung, Verschwiegenheit, Sachlichkeitsgebot).
 - BORA §§ 2, 3 (Grundpflichten, Sachlichkeit).
 - RVG §§ 1–3a (Anwendungsbereich, Vergütungsvereinbarung).
-- Henssler/Prütting, BRAO, 5. Aufl. 2019, § 43a Rn. 45 ff. (Verschwiegenheitspflicht).
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Ausgabeformat
 

@@ -15,10 +15,7 @@ Dieser Skill stellt höfliche, sachliche Formulierungshilfen für internationale
 4. Gibt es berufsrechtliche Besonderheiten der Zielsprach-Jurisdiktion zu beachten?
 
 ## Aktuelle Rechtsprechung
-- EuGH, Urt. v. 12.12.1996 - C-3/95 (Broede), NJW 1997, 1277 — Grenzueberschreitende Anwaltstaetigkeiten fallen unter die Dienstleistungsfreiheit; Berufsregeln des Herkunftslandes bleiben anwendbar.
-- BGH, Urt. v. 09.01.2013 - I ZR 190/11, GRUR 2013, 1160 — Deutsches anwaltliches Berufsrecht gilt auch fuer Korrespondenz in Fremdsprachen, wenn Anwalt in Deutschland zugelassen ist.
-- EuGH, Urt. v. 19.01.1988 - 9/87 (Scaramuzza), EuZW 1988, 56 — Sprachkenntnisse und Uebersetzungspflichten bei grenzueberschreitender Korrespondenz; Anwalt haftet fuer Korrektheit.
-- BGH, Urt. v. 23.06.2009 - VI ZR 196/08, NJW 2009, 3081 — Sachlichkeitsgebot gilt auch in englischsprachigen Schriftsaetzen deutscher Anwaelte an auslaendische Gerichte.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 43a Abs. 3 BRAO — Sachlichkeitsgebot gilt sprachunabhaengig
@@ -26,10 +23,9 @@ Dieser Skill stellt höfliche, sachliche Formulierungshilfen für internationale
 - § 184 GVG — Gerichtssprache Deutsch; Ausnahmen bei internationalen Sachverhalten
 - Richtlinie 77/249/EWG — Dienstleistungsrichtlinie fuer Anwaelte (grenzueberschreitend)
 
-## Kommentarliteratur
-- Gaier/Wolf/Goebel, BRAO Vor § 1 Rn. 40-60 (Internationales Anwaltsrecht und Sprachpflichten)
-- Hartung/Scharmer, BORA Einl. Rn. 25-35 (Grenzueberschreitende Taetigkeiten und Berufsrecht)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Englisch (Englischsprachige Jurisdiktionen und internationale Praxis)
 
 Anreden: "Dear Sir or Madam" (allgemein), "Dear Mr./Ms. Smith" (namentlich), "Dear Counsel" (unter Anwälten), "Dear Judge Smith" (an Richter im angloamerikanischen Raum). Schlussformeln: "Yours sincerely" (wenn Name bekannt), "Yours faithfully" (wenn nur Firma/Funktion bekannt), "Kind regards" (förmlich-freundlich), "Best regards" (kollegial). Berufliche Anreden in Schriftsätzen: "To the Honourable Court", "Dear Registrar".

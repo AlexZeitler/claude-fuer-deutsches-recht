@@ -89,9 +89,9 @@ Die Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-deutsches-rec
 
 | Skill | Funktion |
 |---|---|
-| `/arbeitsrecht:bag-equal-pay-paarvergleich-8azr30024` | BAG 23.10.2025 – 8 AZR 300/24: Ein Paarvergleich genügt für die Vermutung des § 22 AGG |
-| `/arbeitsrecht:bag-mindesturlaub-kein-verzicht-9azr10424` | BAG 03.06.2025 – 9 AZR 104/24: Kein Verzicht auf gesetzlichen Mindesturlaub im laufenden Arbeitsverhältnis, auch nicht im Vergleich |
-| `/arbeitsrecht:bag-freistellungsklausel-unwirksam-5azr10825` | BAG 25.03.2026 – 5 AZR 108/25: Pauschale formularmäßige Freistellungsklausel nach Kündigung unwirksam § 307 BGB |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 
 ## Interaktive Skills vs. geplante Agenten
 
@@ -245,4 +245,4 @@ Ihr Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/arb
 - **Standortkenntnis ist der Kern.** Das Plugin kennt die Unterschiede zwischen Bundesländern und berücksichtigt betriebliche Besonderheiten (Betriebsgröße, Betriebsrat, Tarifbindung).
 - **Kündigungsprüfung ersetzt nicht das Gespräch mit HR und Führungskraft.** Sie ist eine Checkliste, die den vergessenen Punkt findet.
 - **Lohn-/Arbeitszeitfragen zitieren die Norm**, kennzeichnen aber Grenzfälle zur menschlichen Prüfung. Einstufungsentscheidungen haben Konsequenzen.
-- **Zitierstandard:** BGH-Stil gemäß `../references/zitierweise.md`. Rechtsprechung: BAG, BGH, EuGH im Format `BAG, Urt. v. TT.MM.JJJJ – Az., NZA JJJJ, Seite Rn. N.` Kommentare: ErfK, HWK, KR, APS, MüKoBGB, BeckOK Arbeitsrecht.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

@@ -36,9 +36,7 @@ Stellt eine Mitarbeiterin oder ein Mitarbeiter fest, dass KI-generierter Output 
 Die KI-Forschung zum Thema Bias entwickelt sich rasch weiter. Neue Erkenntnisse zur Bias-Anfälligkeit bestimmter KI-Systeme sollten in Schulungen aufgenommen werden. BAG-Entscheidungen zum AGG im Kontext von KI-Personalauswahl sowie Leitlinien der EU-Kommission zur Gleichbehandlung beim KI-Einsatz sind zu beobachten.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- EuGH, Urt. v. 23.04.2020 — C-507/18 (NH), NJW 2020, 1999 Rn. 31: AGG — auch hypothetische Diskriminierungstests begrunden Beweislastumkehr; gilt fuer KI-Auswahlsysteme.
-- BAG, Urt. v. 19.12.2019 — 8 AZR 2/19, NJW 2020, 1612 Rn. 22: Mittelbare Diskriminierung im Bewerbungsverfahren — neutrales Auswahlkriterium mit diskriminierender Wirkung genuegt.
-- BVerfG, Beschl. v. 16.07.2012 — 1 BvR 2983/10, NJW 2012, 2856 Rn. 18: Diskriminierungsschutz Art. 3 GG als Masstab auch bei mittelbar wirkenden technischen Systemen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - § 1 AGG — Schutz vor Diskriminierung (Rasse, Geschlecht, Alter, Behinderung, Herkunft)

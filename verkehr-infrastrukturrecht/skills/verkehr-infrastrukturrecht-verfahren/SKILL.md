@@ -30,17 +30,11 @@ description: "Anhoerung, Widerspruch, Klage und Eilverfahren im Verkehrsinfrastr
 
 ## Aktuelle Rechtsprechung
 
-- BVerwG, Urt. v. 23.09.2010 - 3 C 37.09, BVerwGE 138, 21 — Verkehrszeichen als Allgemeinverfuegung; Anfechtbarkeit setzt Beschwer des betroffenen Verkehrsteilnehmers voraus.
-- OVG NRW, Beschl. v. 17.03.2020 - 8 B 146/20, NVwZ-RR 2020, 614 — bei faktischer Sperrwirkung eines Verkehrszeichens besteht Anfechtungsrecht des Anliegers auch ohne unmittelbaren Adressatenstatus.
-- BVerwG, Urt. v. 27.01.1993 - 11 C 35.92, BVerwGE 92, 32 — Ermessensfehler bei Ablehnung einer Sondergenehmigung nach § 46 StVO; Rechtsanspruch bei Ermessensreduzierung auf null.
-- VGH Bayern, Beschl. v. 08.04.2019 - 11 CS 18.2484, BayVBl 2019, 626 — Sofortvollzug von Verkehrszeichen nach § 80 II Nr. 2 VwGO erfasst auch angrenzende Parkverbote; Interessenabwaegung im Eilverfahren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Kopp/Schenke, VwGO, 30. Aufl. 2024, § 80 Rn. 1-170 (aufschiebende Wirkung, Eilrechtsschutz)
-- Stelkens/Bonk/Sachs, VwVfG, 10. Aufl. 2023, § 28 Rn. 1-60 (Anhoerung)
-- Marschall, FStrG, 6. Aufl. 2012, § 17 Rn. 1-50 (Planfeststellungsverfahren Bundesfernstrassen)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 

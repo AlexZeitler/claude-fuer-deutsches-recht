@@ -106,11 +106,9 @@ Bei Landesgesetzen und Landesverordnungen die landesspezifische Eingangs- und Sc
 
 GGO (Bundesreferentenentwurf, Ressortabstimmung, Beteiligung, Kabinett) — Art. 76 Abs. 1 GG (Einbringungsrecht Bundesregierung) — HdR (Rechtsförmlichkeit, Änderungsbefehle) — Art. 80 Abs. 1 Satz 3 GG (Zitiergebot in Rechtsverordnungen) — Landesverfassung und Landes-Geschäftsordnung bei Landesentwürfen
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schneider, Gesetzgebung, 3. Aufl. 2002, §§ 10-15 Rn. 1 ff. (Referentenentwurf-Format, Artikelstruktur, Aenderungsbefehle)
-- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020, § 21 Rn. 5 ff. (Gesetzgebungsverfahren Bundesebene, GGO)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 Markdown-Datei mit dem kompletten Entwurfstext, bereit für Bundes- oder Landes-Ressortabstimmung, einschließlich Profilvermerk und offenen landesspezifischen Prüfpunkten.

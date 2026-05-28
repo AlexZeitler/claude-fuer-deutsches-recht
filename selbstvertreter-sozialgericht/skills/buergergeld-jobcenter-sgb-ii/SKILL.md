@@ -37,7 +37,7 @@ Buergergeld bekommen Sie, wenn Sie wenig Geld haben und arbeitsfaehig sind. Das 
 - **§ 22 SGB II** — KdU.
 - **§ 31 SGB II** — Sanktionen.
 - **§ 41a SGB II** — Vorlaeufige Bewilligung.
-- **BVerfG 1 BvL 7/16** — Sanktions-Begrenzung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt-fuer-Schritt-Anleitung
 
@@ -134,4 +134,4 @@ Jobcenter rechnet alte Forderungen mit Buergergeld auf. Pruefen Sie:
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. Buergergeld-Reform 2023 (Sanktionen abgemildert, Schonvermoegen erweitert). BVerfG 1 BvL 7/16. Regelbedarfs-Saetze jaehrlich angepasst — aktuellen Wert pruefen. BSG-Linie zu KdU-Angemessenheit pruefen in juris.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

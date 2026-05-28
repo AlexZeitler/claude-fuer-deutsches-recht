@@ -59,10 +59,7 @@ Bevor losgelegt wird, klaere:
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- EuGH, Urt. v. 11.07.1974 - 8/74 (Dassonville), EuGHE 1974, 837 — Warenverkehrsfreiheit: jede Handelsregelung die geeignet ist, den innergemeinschaftlichen Handel unmittelbar oder mittelbar, tatsaechlich oder potentiell zu behindern.
-- EuGH, Urt. v. 20.02.1979 - 120/78 (Cassis de Dijon), EuGHE 1979, 649 — Zwingende Erfordernisse als Rechtfertigungsgrund fuer Beschraenkungen des Warenverkehrs ohne Diskriminierung; gegenseitige Anerkennung von Standards.
-- EuGH, Urt. v. 30.11.1995 - C-55/94 (Gebhard), EuZW 1996, 120 — Niederlassungsfreiheit: national Maßnahmen muessen: nichtdiskriminierend, aus zwingenden Allgemeininteressen gerechtfertigt, geeignet und nicht uber das Notwendige hinausgehend sein.
-- EuGH, Urt. v. 18.12.2007 - C-341/05 (Laval), EuZW 2008, 136 — Dienstleistungsfreiheit: kollektive Maßnahmen wie Streiks koennen Grundfreiheiten verletzen; zu rechtfertigen nur wenn Mindestlohnschutz bezweckt und das Mindestmaß eines effektiven Schutzes gewahrt bleibt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette Grundfreiheiten
 
@@ -72,12 +69,9 @@ Bevor losgelegt wird, klaere:
 - **Art. 56-62 AEUV** — Dienstleistungsfreiheit; voruebergehende Erbringung; DLF-RL 2006/123
 - **Art. 63-66 AEUV** — Kapitalverkehrsfreiheit; umfassendste Grundfreiheit; auch gg. Drittlaender
 
-## Kommentarliteratur
+## Quellenregel
 
-- Kainer, in: Streinz, EUV/AEUV, Art. 34-36 AEUV Rn. 1-80
-- Pechstein, in: Streinz, Art. 49-55 AEUV Rn. 1-60
-- Forsthoff, in: Grabitz/Hilf/Nettesheim, Art. 56-62 AEUV Rn. 1-50
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Grundfreiheiten-Pruefung
 
 **Adressat:** Kanzlei-intern oder Mandant

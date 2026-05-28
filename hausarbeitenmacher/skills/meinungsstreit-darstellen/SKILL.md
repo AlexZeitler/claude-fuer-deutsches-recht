@@ -86,9 +86,8 @@ sich die Frage, ob die wirtschaftliche Verfolgung
 eigener Interessen, die für den Schädiger ungewöhnlich
 hart ausfallen, als sittenwidrig zu qualifizieren ist.
 
-**Nach herrschender Meinung** [Nachweis: Sprau, in:
-Palandt/Grüneberg, 84. Aufl. 2025, § 826 BGB Rn. 4;
-BGH NJW 2024 Seite 1245 Rn. 24] ist "Sittenwidrigkeit" eng
+**Nach herrschender Meinung** [Nachweis: vom Nutzer bereitgestellte oder lizenziert live geprüfte Quelle mit exakter Fundstelle;
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 auszulegen. Erforderlich ist ein besonders verwerfliches
 Verhalten, das gegen das Anstandsgefühl aller billig
 und gerecht Denkenden verstößt.
@@ -100,8 +99,8 @@ Argumente:
 - Telos: Schutz vor besonders verwerflicher Schädigung.
 
 **Eine Mindermeinung** [Nachweis: Wagner, in:
-MüKo BGB, 9. Aufl. 2025, § 826 BGB Rn. 17; Müller,
-NJW 2024 Seite 765 mit 770] möchte die Schwelle der
+lizenzpflichtige Literaturquelle BGB, 9. Aufl. 2025, § 826 BGB Rn. 17; Müller,
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Sittenwidrigkeit absenken und auch unverhältnismäßige
 wirtschaftliche Schadens-Verfolgung erfassen.
 

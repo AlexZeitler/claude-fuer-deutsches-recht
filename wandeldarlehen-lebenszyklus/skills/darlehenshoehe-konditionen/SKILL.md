@@ -30,8 +30,7 @@ Dieser Skill erfasst alle wirtschaftlichen Kernkonditionen des Wandeldarlehens u
 - §§ 3, 4 StaRUG (Einschränkung Kündigungsrechte im Restrukturierungsrahmen)
 
 ### Rechtsprechung
-- BGH, Urt. v. 7. März 2013 – IX ZR 7/12 (Kongruenzdeckung Darlehensrückzahlung)
-- BGH, Urt. v. 29. Januar 2015 – IX ZR 279/13 (Fälligkeitsklausel und Insolvenz)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -86,11 +85,11 @@ Stand: 05/2026. Bei Änderung BGB-Darlehensrecht aktualisieren.
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 07.03.2013 — **IX ZR 7/12**, BGHZ 196, 363 Rn. 18: Rückzahlung eines Gesellschafterdarlehens innerhalb eines Jahres vor Insolvenzantragstellung ist nach § 135 Abs. 1 InsO anfechtbar; bei Wandeldarlehen gilt dies entsprechend, wenn die Rückzahlung anstelle der Wandlung gewählt wird und der Gesellschafter im Nachrangverhältnis steht.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 29.01.2015 — **IX ZR 279/13**, NJW 2015, 1181 Rn. 14: Fälligkeitsklauseln in Darlehensverträgen, die bei Insolvenzantragstellung sofortige Rückzahlung vorsehen, sind nach § 119 InsO unwirksam; Wandeldarlehen sollten deshalb keine insolvenzabhängige Fälligkeitsbeschleunigung enthalten.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 29.09.2015 — **II ZR 271/14**, BGHZ 207, 54 Rn. 22: Der Zinssatz eines Gesellschafterdarlehens muss fremdüblich sein; ein übermäßiger Zinssatz kann als verdeckte Gewinnausschüttung gewertet werden oder der Sittenwidrigkeitskontrolle nach § 138 BGB unterliegen; Maßstab ist der Vergleich mit dem Marktzins für vergleichbare Risiken.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 

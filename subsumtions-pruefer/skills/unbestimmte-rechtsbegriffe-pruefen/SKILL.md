@@ -19,9 +19,7 @@ Unbestimmte Rechtsbegriffe sind Tatbestandsmerkmale, deren Inhalt nicht aus dem 
 
 ## Aktuelle Rechtsprechung zur Auslegung unbestimmter Rechtsbegriffe
 
-- BGH, Urt. v. 26.01.2021 - II ZR 391/18, NJW 2021, 1089 — "Wichtiger Grund" für außerordentliche Kündigung (§ 626 BGB) setzt voraus, dass dem Kündigenden unter Berücksichtigung aller Umstände und unter Abwägung der beiderseitigen Interessen das Festhalten am Vertrag nicht mehr zumutbar ist; allgemeine Formel ohne Einzelfallabwägung ist unzureichend.
-- BVerwG, Urt. v. 28.03.2019 - 4 C 12.17, NVwZ 2019, 1073 — Bei Beurteilungsspielraum einer Behörde beschränkt sich die gerichtliche Kontrolle auf Rechtsfehler (Verfahrensmangel, Überschreitung der Spielraumgrenzen, sachfremde Erwägungen); die eigene Sachbewertung des Gerichts tritt zurück.
-- BGH, Urt. v. 07.05.2020 - III ZR 307/17, NJW 2020, 2471 — "Angemessen" in § 307 BGB (AGB-Recht) ist durch Vergleich mit dem dispositiven Recht zu bestimmen; eine Klausel, die vom gesetzlichen Leitbild einseitig abweicht, ist regelmäßig unangemessen, sofern kein Ausgleich an anderer Stelle besteht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Wichtige unbestimmte Rechtsbegriffe
 
@@ -37,7 +35,7 @@ Unbestimmte Rechtsbegriffe sind Tatbestandsmerkmale, deren Inhalt nicht aus dem 
 
 **Kontext:** § 275 Abs. 3 BGB (persönliche Leistungshindernis); § 626 BGB (wichtiger Grund); § 3 AGG; § 5 Abs. 2 ArbSchG.
 
-**Auslegungsmaßstab:** Abwägung zwischen Interesse an der Leistung und Interesse des Betroffenen. BGH NJW 2021, 1089 für § 626 BGB.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Entscheidungsbaum:**
 ```
@@ -58,7 +56,7 @@ Welche Interessen stehen auf dem Spiel?
 
 **Kontext:** Verhältnismäßigkeit i.e.S.; § 307 BGB (AGB); § 20 Abs. 1 GWB; Art. 6 Abs. 1 lit. f DSGVO.
 
-**Auslegungsmaßstab:** Güter- und Interessenabwägung. Bei AGB: Vergleich mit dispositivem Recht (BGH NJW 2020, 2471).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Indizien bei AGB:** Abweichung vom dispositiven Recht; keine Kompensation; fehlende Transparenz.
 
@@ -74,12 +72,9 @@ Welche Interessen stehen auf dem Spiel?
 
 **Auslegungsmaßstab:** BGH: Alle Umstände des Einzelfalls; dem Kündigenden ist Festhalten am Vertrag bis Ende nicht zumutbar. Interessenabwägung: Verschulden, Wiederholungsgefahr, Schwere.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MüKo BGB § 307 (AGB-Recht, Angemessenheit) — umfassend mit Fallgruppen
-- Grüneberg BGB § 323 Rn. 32 (Erheblichkeit beim Rücktritt)
-- Kopp/Ramsauer VwVfG § 40 (Ermessen und Beurteilungsspielraum)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 Das System nennt:

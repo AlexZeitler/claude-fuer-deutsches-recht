@@ -70,7 +70,7 @@ Das Plugin `aktenauszug-gerichtsverfahren` generiert strukturierte Aktenauszüge
 
 Ausführliche Erläuterung der Methodik unter [references/methodik.md](references/methodik.md).
 
-Das Plugin folgt dem Grundsatz, dass ein Aktenauszug kein Kurzgutachten und keine Klageschrift ist, sondern ein strukturiertes Arbeitsinstrument für den anwaltlichen Alltag. Der Workflow orientiert sich an der etablierten anwaltlichen Praxis der Aktenaufbereitung, wie sie in Kommentaren zur ZPO (Zöller, Thomas/Putzo) und in der anwaltlichen Ausbildungsliteratur beschrieben wird.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Beispielprompt
 

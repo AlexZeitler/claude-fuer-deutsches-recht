@@ -169,7 +169,7 @@ Welches Gesetz erlaubt den Eingriff?
 ### Art. 12 GG — Berufs-Freiheit
 
 - Beruf-Wahl + Beruf-Ausübung
-- Drei-Stufen-Theorie (BVerfGE Band 7 Seite 377 Apotheker-Urteil):
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   - 1. Stufe: Berufsausübungs-Regelung
   - 2. Stufe: subjektive Berufswahl-Schranke
   - 3. Stufe: objektive Berufswahl-Schranke
@@ -191,7 +191,7 @@ Welches Gesetz erlaubt den Eingriff?
 ### Mittelbare Drittwirkung
 
 - Grundrechte wirken im Zivilrecht **mittelbar** durch Generalklauseln (§ 138 BGB, § 242 BGB, § 826 BGB)
-- BVerfGE Band 7 Seite 198 (Lüth-Urteil) — Klassiker
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Auslegungs-Methode: verfassungs-konform
 
 ### Unmittelbare Drittwirkung

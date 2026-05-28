@@ -24,18 +24,11 @@ description: "Verfolgungsverjährung im OWi-Verfahren prüfen: Anwalt will Verj�
 
 ## Aktuelle Rechtsprechung
 
-- OLG Hamm, Beschl. v. 09.03.2020 - 4 RBs 55/20, NZV 2020, 418 — Verjaerunsfrist nach § 26 Abs. 3 StVG betraegt 3 Monate; bei Ablauf ohne wirksame Unterbrechung ist die OWi verjaehrt und das Verfahren einzustellen.
-- OLG Koeln, Beschl. v. 15.10.2019 - 1 RBs 303/19, NZV 2020, 106 — Zustellung per Einwurf-Einschreiben ist wirksame Unterbrechungshandlung nach § 33 OWiG nur wenn Zustellung ordnungsgemaess nach § 180 ZPO i.V.m. § 33 OWiG erfolgte; fehlerhafte PZU unterbricht nicht.
-- OLG Duesseldorf, Beschl. v. 24.06.2020 - IV-2 RBs 66/20, NZV 2020, 526 — Absolute Verjaehrung nach § 33 Abs. 3 OWiG berechnet sich aus der doppelten Grundfrist; bei Verkehrs-OWi mit § 26 Abs. 3 StVG (3 Monate): absolute Verjaehrung nach 6 Monaten.
-- OLG Celle, Beschl. v. 08.07.2021 - 3 Ss OWi 73/21, NZV 2021, 596 — Anhoerungschreiben als Unterbrechungshandlung (§ 33 Abs. 1 Nr. 1 OWiG) setzt voraus, dass Schreiben dem Betroffenen tatsaechlich zugegangen ist; bloss abgesandtes Schreiben genuegt nicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Goehler OWiG § 31 Rn. 1-15 (Verfolgungsverjaehrung)
-- Goehler OWiG § 33 Rn. 1-30 (Unterbrechungshandlungen)
-- KK-OWiG / Mitsch § 31 Rn. 1-20 (vollstaendig)
-- KK-OWiG / Mitsch § 33 Rn. 1-25 (Unterbrechung, absolute Verjaehrung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Verjaerungs-Pruefschema
 
 ```

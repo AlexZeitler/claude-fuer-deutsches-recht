@@ -99,10 +99,7 @@ Im Zweifel **vor Ablauf der Frist** Insolvenzanwalt zu Rate ziehen.
 
 ## Aktuelle Leitentscheidungen — Ausloesende Ereignisse
 
-- BGH, Urt. v. 26.01.2017 — IX ZR 285/14 — Haftung nach § 15b InsO: Pflicht zur Erstellung der Fortbestehensprognose entsteht ab dem Moment, in dem der Geschaeftsfuehrer Insolvenzanzeichen erkennt oder erkennen muss; spaeteres Handeln erhoelt Schadensersatzrisiko.
-- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Fortbestehensprognose: Erstellung ist unverzueglich nach Bekanntwerden der bilanziellen Ueberschuldung oder Liquiditaetskrise erforderlich; Wartezeiten erhoehen Haftungsrisiko.
-- BGH, Urt. v. 15.03.2016 — II ZR 119/14, NJW 2016, 2493 — Haftung § 15b InsO (alt § 64 GmbHG): auch Einzelgeschaeftsfuehrer haften individuell; Hinweis des Steuerberaters gilt als Anlass zur Pruefung, nicht erst als Pflicht-Trigger.
-- BGH, Urt. v. 14.05.2007 — II ZR 48/06, NZI 2007, 615 — Antragspflicht beginnt mit Kenntnis oder fahrlässiger Unkenntnis des Insolvenzgrundes; § 102 StaRUG-Hinweispflicht des Rechtsberaters als fruehwarnendes Signal.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Ausloesende Ereignisse
 
@@ -115,8 +112,6 @@ Im Zweifel **vor Ablauf der Frist** Insolvenzanwalt zu Rate ziehen.
 3. **Schriftliche Dokumentation?** E-Mail, Aktenvermerk, Protokoll vorhanden?
 4. **Sofortmassnahmen?** Liquiditaetsplanung starten, Anwalt einschalten, Steuerberater beauftragen?
 
-## Kommentarliteratur
+## Quellenregel
 
-- MüKo InsO/Haarmeyer § 15a InsO Rn. 1-50 — Antragspflicht und ihr Beginndatum.
-- Uhlenbruck/Mock § 19 InsO Rn. 1-40 — Ueberschuldung und Pflicht zur Fortbestehensprognose.
-- K. Schmidt/Uhlenbruck, GmbH in Krise Sanierung und Insolvenz, § 4 Rn. 4.1 ff. — Krisenstadien und Handlungspflichten.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

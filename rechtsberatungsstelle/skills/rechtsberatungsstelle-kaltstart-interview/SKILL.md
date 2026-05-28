@@ -22,8 +22,7 @@ description: "Rechtsberatungsstelle Kaltstart und Erst-Konfiguration: Anwendungs
 4. Ist bereits eine CLAUDE.md vorhanden, die abschnittsweise ueberarbeitet werden soll?
 
 ## Aktuelle Rechtsprechung
-- BVerfG, Beschl. v. 12.01.2016 - 2 BvR 2557/14, NJW 2016, 1155 — Effektive Rechtsberatung erfordert klare Aufsichtsstrukturen und Kompetenzgrenzen; Kaltstart-Interview legt diese fest.
-- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Datenschutzrechtliche Grundlagen muessen vor Aufnahme der Beratungsstellentaetigkeit geklaert sein (AVV, TOM, Verarbeitungsverzeichnis nach Art. 30 DSGVO).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 <!-- AUDIT 27.05.2026: IX ZR 222/18 (NOT_FOUND bei dejure.org) geloescht; I ZR 82/17 (WRONG_TOPIC: Urteil 01.02.2018 betrifft Medizinprodukt/HeilMWerbG, nicht Anleitungsorganisation Rechtsberatung) geloescht. -->
 
 ## Zentrale Normen
@@ -32,10 +31,9 @@ description: "Rechtsberatungsstelle Kaltstart und Erst-Konfiguration: Anwendungs
 - § 203 Abs. 4 StGB — Einbeziehung Dritter (Studierende): Verschwiegenheitsvereinbarungen als Pflichtbestandteil der Ersteinrichtung
 - Art. 30 DSGVO — Verarbeitungsverzeichnis: muss vor Beginn der Datenverarbeitung erstellt werden
 
-## Kommentarliteratur
-- Krenzler (Hrsg.) RDG § 6 Rn. 44-52, § 8 Rn. 1-30 (Erlaubnisfreie Beratung: Anleitungsorganisation und Rechtsgrundlage)
-- Gaier/Wolf/Göcken BRAO § 43a Rn. 30-60 (Verschwiegenheit: Organisationspflicht bei Einbeziehung Dritter)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Bevor Studierende `/einarbeitung` starten und Mandate aufnehmen, muss der anleitende Volljurist die Beratungsstelle konfigurieren. Diese Konfiguration steuert:

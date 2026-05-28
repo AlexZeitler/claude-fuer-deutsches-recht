@@ -13,10 +13,7 @@ description: "Skill-Verzeichnis nach Rechtsgebiet, Norm oder Mandantentyp durchs
 4. Ist der Positivliste-Modus 'restrictive' (neue Registry muss auch in positivliste.yaml eingetragen werden)?
 
 ## Aktuelle Rechtsprechung
-- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Hinzufuegen einer unbekannten Registry ist datenschutzrechtlich risikoreich; Art. 32 DSGVO erfordert Pruefung der Vertrauenswuerdigkeit des Anbieters vor Aufnahme.
-- BGH, Urt. v. 26.04.2018 - I ZR 82/17, NJW 2018, 2329 — Drittanbieter-Software (Community-Skills) erfordert Vertrauensprüfung; Registry-URLs ohne bekannte Betreiber koennen Sicherheitsrisiken bergen.
-- BGH, Urt. v. 14.07.2022 - VI ZR 207/21, NJW 2022, 3215 — Aktualitaetspruefung von Drittanbieter-Skills als Sorgfaltspflicht; veraltete Skills koennen veraltetes Recht abbilden und Haftungsrisiken erzeugen.
-- BVerfG, Beschl. v. 14.01.2020 - 1 BvR 2316/19, NJW 2020, 897 — Kanzlei ist verantwortlich fuer den Einsatz von Drittanbieter-Tools; 'last_verified'-Datum eines Skills als Aktualitaetsindikator ist zu beachten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - Art. 32 DSGVO — TOM: Sicherheitsprueung jeder neuen Registry vor Aufnahme in Watchlist
@@ -24,10 +21,9 @@ description: "Skill-Verzeichnis nach Rechtsgebiet, Norm oder Mandantentyp durchs
 - § 43a Abs. 2 BRAO — Verschwiegenheitspflicht: Registry-Skills duerfen keine Mandantengeheimnisse an externe Anbieter uebermitteln
 - § 203 StGB — Verletzung von Privatgeheimnissen: Community-Skills muessen mandatsgeheimnisskonform sein
 
-## Kommentarliteratur
-- Kühling/Buchner DSGVO Art. 32 Rn. 1-25 (TOM: Sicherheitsanforderungen bei Drittanbieter-Tools)
-- Gaier/Wolf/Göcken BRAO § 43a Rn. 30-60 (Verschwiegenheit: Grenzen bei externen Registry-Skills)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Skills in den beobachteten Registries finden. Suchen, Vorschau anzeigen, entscheiden. Dieser Skill installiert nichts — er zeigt, was verfügbar ist. Das Installieren übernimmt `/kanzlei-builder-hub:skill-installierer`.

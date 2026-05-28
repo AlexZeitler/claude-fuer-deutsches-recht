@@ -22,7 +22,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 | Skill | Zweck |
 | --- | --- |
-| `fachanwalt-miet-wohnungseigentumsrecht-orientierung` | Orientierung im Miet- und WEG-Recht. FAO § 14e Voraussetzungen Normen typische Mandate Fristen Standardliteratur. |
+| `fachanwalt-miet-wohnungseigentumsrecht-orientierung` | Orientierung im Miet- und WEG-Recht. FAO § 14e Voraussetzungen Normen typische Mandate Fristen Quellenprüfung. |
 | `fachanwalt-miet-wohnungseigentumsrecht-mieterhoehung` | Mieterhöhung bis zur ortsüblichen Vergleichsmiete §§ 558 ff. BGB. Mietspiegel Kappungsgrenze Modernisierungsumlage § 559. |
 | `fachanwalt-miet-wohnungseigentumsrecht-kuendigung` | Kündigung Wohnraummietverhältnis ordentlich § 573 außerordentlich §§ 543 569 BGB. Eigenbedarf Zahlungsverzug. |
 | `fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung` | Beschlussanfechtung in der WEG-Versammlung § 44 WEG. Monatsfrist Anfechtungs- und Nichtigkeitsgründe. |

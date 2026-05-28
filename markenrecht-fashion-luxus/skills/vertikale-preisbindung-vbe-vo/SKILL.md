@@ -70,9 +70,8 @@ klôtzzkètté möchte Online-Händler EUR 50 mehr je Produkt zahlen lassen als 
 
 - Vertikal-GVO (EU) 2022/720, ABl. L 134 v. 11.05.2022
 - Vertikalleitlinien der Kommission 2022/C 248, Rn. 100-220 (Preisbindung)
-- BeckOK Kartellrecht, Art. 4 Vertikal-GVO Rn. 1 ff.
-- EuGH, Urt. v. 04.06.2009 — C-8/08 (T-Mobile Netherlands) — bezweckte Wettbewerbsbeschränkung
-- BGH, Urt. v. 02.02.2021 — KZR 20/17 (Vertikale Preisbindung) — Hardcore
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bundeskartellamt, Jahresbericht 2022 (UPE-Problematik im Luxusgüterbereich)
 
 ## Templates
@@ -126,8 +125,8 @@ Bevor die Preisklauseln in Händlerverträgen verabschiedet werden, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 02.02.2021 — KZR 20/17 (Vertikale Preisbindung Schulranzen):** Auch wenn ein Lieferant keine formelle Preisbindungsklausel einsetzt, begruendet ein systematisches Monitoring der Haendlerpreise mit anschliessenden Sanktionierungsdrohungen eine nach Art. 101 I AEUV verbotene bezweckte Wettbewerbsbeschraenkung.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **EuGH, Urt. v. 13.10.2011 — C-439/09 (Pierre Fabre):** Ein generelles Internetverkaufsverbot in selektiven Vertriebssystemen ist als Hardcore-Beschraenkung i.S.v. Art. 4 lit. c Vertikal-GVO einzustufen; es genuegt kein Nachweis, dass das Verbot dem Luxusimage des Produkts dient.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **Bundeskartellamt, Beschl. v. 26.08.2015 — B 11-13/14 (Sennheiser):** Hersteller verstoessen gegen Art. 101 AEUV, wenn sie Online-Haendler durch Preismonitoring-Software und drohende Lieferstopps faktisch auf die UPE verpflichten; die Absicht, das Luxusimage zu schuetzen, entschuldigt nicht.

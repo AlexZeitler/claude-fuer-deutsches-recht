@@ -7,17 +7,11 @@ description: "Testament oder Erbvertrag entwerfen wenn Mandant Nachlassplanung v
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 19.06.2019 - IV ZB 30/17, NJW 2019, 2534 Rn. 12 — Eigenhaendiges Testament: vollstaendig handschriftlich, mit Ort, Datum und Unterschrift; Machinenschriftliches ist nichtig (kein Aufloesungsweg durch § 2247 Abs. 3 BGB-Ausnahme moeglich).
-- BGH, Urt. v. 07.07.2004 - IV ZR 187/03, NJW 2004, 2679 Rn. 18 — Wechselbezuegliche Verfuegungen im gemeinschaftlichen Testament (§ 2270 BGB) verlieren nach dem Tod eines Ehegatten ihre Widerruflichkeit; der ueberlebende Ehegatte ist nach dem Tod des anderen gebunden.
-- BGH, Urt. v. 27.11.2013 - IV ZR 206/12, NJW 2014, 856 Rn. 22 — Eine Pflichtteilsstrafklausel (Berliner Testament) ist nur wirksam, wenn sie die betroffene Person aus ihrer Stellung als Erbe oder Vermaechnisnehmer ausschließt; bloss finanzielle Sanktionen ohne Enterbungsfolge gentgen nicht.
-- BGH, Urt. v. 20.09.2017 - IV ZR 490/16, NJW 2018, 225 Rn. 16 — Vor- und Nacherbschaft (§§ 2100 ff. BGB): Der Nacherbe hat gegenüber dem Vorerben Schutzansprueche bei gefaehrdender Verwaltung des Nachlasses; Vorerbe-Veraeusserungen binden den Nacherben grundsaetzlich nicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MuKoBGB/Sticherling, §§ 2229-2264 Rn. 1-60 (Testamentsformen, Testierfaehigkeit)
-- Staudinger/Muscheler, §§ 2265-2273 Rn. 1-40 (Gemeinschaftliches Testament, Wechselbezueglichkeit)
-- BeckOK BGB/Litzenburger, § 2303 Rn. 1-20 (Pflichtteil, Entzug, Strafklausel)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Kaltstart-Rückfragen
 
 1. Familienstand des Erblassers, Anzahl Kinder, Vorehen, Patchwork? Wer sind die gesetzlichen Erben?
@@ -37,7 +31,7 @@ description: "Testament oder Erbvertrag entwerfen wenn Mandant Nachlassplanung v
 - Testamentsvollstreckung §§ 2197–2228 BGB — Verwaltungs-, Abwicklungs- oder Dauervollstreckung.
 - Internationales Erbrecht: bei grenzüberschreitenden Bezügen Rechtswahl nach Art. 22 EU-ErbVO (650/2012) möglich.
 
-Standardliteratur: Grüneberg BGB § 2247 ff.; MüKo-BGB / Leipold zu §§ 2247–2270.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Gestaltungsregeln
 
@@ -48,7 +42,7 @@ Standardliteratur: Grüneberg BGB § 2247 ff.; MüKo-BGB / Leipold zu §§ 2247�
 | Teilungsanordnung § 2048 BGB | Verteilung unter Erben | Berührt nicht die Quote |
 | Pflichtteilsstrafklausel | Wer Pflichtteil verlangt verliert Schlusserbenstellung | Üblich im Berliner Testament |
 | Wiederverheiratungsklausel | Bedingte Verfügung bei Wiederheirat | Vorsicht — keine sittenwidrige Behinderung |
-| Behindertentestament Vor- und Nacherbschaft mit Dauer-TV | Schutz vor Zugriff Sozialhilfeträger §§ 93 102 SGB XII | Grundsatzentscheidung BGH IV ZR 169/89, Urt. v. 21.03.1990, NJW 1990, 2055; bestätigt BGH IV ZR 231/92, Urt. v. 20.10.1993; Pflichtteilsverzicht BGH IV ZR 7/10, Urt. v. 19.01.2011. |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Schreibvorlage eigenhändiges Berliner Testament
 

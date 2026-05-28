@@ -35,12 +35,11 @@ Befehlsargument (erstes Token):
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 21.06.2012 – IX ZR 32/10, NJW 2012, 3165 (Interessenkollision) — Ausschluss bei Vertretung widerstreitender Interessen; auch konzerninterne Konflikte relevant
-- BGH, Urt. v. 10.02.2011 – IX ZR 49/10, NJW 2011, 1594 (Handakten) — Herausgabeanspruch des Mandanten; Aufbewahrungspflicht; Abgrenzung anwaltliche Arbeitsmittel vs. Mandantenunterlagen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Kommentare
 
-- Henssler/Prütting, BRAO, 5. Aufl. 2023, § 43a Rn. 70 ff. (Verschwiegenheit, Inhalt und Grenzen)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Feuerich/Weyland/Böhnlein, BRAO, 10. Aufl. 2022, § 50 Rn. 1 ff. (Handaktenaufbewahrung)
 
 ## Ablauf
@@ -211,10 +210,10 @@ Bevor das Mandat angelegt wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 08.11.2007 — IX ZR 189/06 (Anwaltshaftung Fristversaeumnis):** Ein Anwalt haftet nach § 280 I BGB, wenn er eine anwaltliche Frist versaeumt, die bei ordnungsgemaeßer Kanzleiorganisation haette erkannt werden muessen; die Pflicht zur zuverlaessigen Fristenkontrolle ist eine Kernanwaltspflicht.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 
-> **OLG Hamm, Urt. v. 19.05.2010 — 12 U 19/10 (Mandatsuebernahme ohne Konfliktpruefung):** Nimmt ein Rechtsanwalt ein Mandat an, ohne eine Interessenkollisionspruefung durchzufuehren, und vertraegt dieses Mandat einem frueheren Mandantenmandanten oder Gegner, macht er sich gegenueber dem geschaedigten Mandanten schadensersatzpflichtig nach §§ 280 I, 43a IV BRAO.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026
 Task: Bundle 031 / Halluzinations-Reparatur

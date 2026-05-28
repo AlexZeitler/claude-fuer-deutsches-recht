@@ -33,7 +33,7 @@ Pro Streitstelle ein Block mit fester Struktur. Zitat des bisherigen Wortlauts i
 
 ### Baustein 5 Schlussformel und Gesamtbild
 
-Prüfung der Schlussformel mit Dankesformel und Bedauern. Hier zurückhaltend formulieren: Nach BAG 9 AZR 227/11 besteht kein allgemeiner gesetzlicher Anspruch auf Dank, Bedauern und Wünsche. Der Baustein wird deshalb als Signal- und Vergleichspunkt geführt, außer ein Vergleich, ein Zwischenzeugnis, eine betriebliche Übung oder der Gesamtzusammenhang tragen mehr.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Baustein 6 Fristsetzung
 
@@ -57,9 +57,9 @@ Unsere Mandantin hat von Ihnen am [Datum] das beigefuegte qualifizierte Zeugnis 
 
 Wir beanstanden im Einzelnen:
 
-**Punkt 1 Arbeitsweise.** Sie haben formuliert: "Sie bemuehte sich, die ihr uebertragenen Aufgaben zu unserer Zufriedenheit zu erledigen." Diese Formulierung beschreibt nach gefestigter Rechtsprechung des BAG (etwa BAG vom 14. Oktober 2003, Az. 9 AZR 12/03) eine schlechtere als ausreichende Leistung. Sie steht in Widerspruch zu der von Ihnen gleichzeitig formulierten Gesamtzufriedenheit "stets zur vollen Zufriedenheit" in der Schlussformel. Wir bitten um folgende Formulierung: "Sie erledigte die ihr uebertragenen Aufgaben stets zu unserer vollen Zufriedenheit."
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-**Punkt 2 Schlussformel.** Die Schlussformel enthält keine Dankesformel und kein Bedauern über das Ausscheiden. Uns ist bewusst, dass Dank, Bedauern und Zukunftswünsche nach der Rechtsprechung des Bundesarbeitsgerichts nicht ohne Weiteres zum gesetzlichen Mindestinhalt gehören. Im vorliegenden Gesamtbild wirkt die knappe Schlussformel jedoch deutlich distanzierend und steht nicht im Einklang mit den übrigen positiven Leistungsbewertungen. Wir bitten deshalb um folgende einvernehmliche Neufassung: "Wir bedauern das Ausscheiden von Frau [Name], danken ihr für die geleistete Arbeit und wünschen ihr für ihren weiteren beruflichen und persönlichen Lebensweg alles Gute."
+**Punkt 2 Schlussformel.** Die Schlussformel enthält keine Dankesformel und kein Bedauern über das Ausscheiden. Ob daraus ein einklagbarer Berichtigungsanspruch folgt, ist nur nach live verifizierter Rechtsprechung zu bewerten. Im vorliegenden Gesamtbild wirkt die knappe Schlussformel jedoch deutlich distanzierend und steht nicht im Einklang mit den übrigen positiven Leistungsbewertungen. Wir bitten deshalb um folgende einvernehmliche Neufassung: "Wir bedauern das Ausscheiden von Frau [Name], danken ihr für die geleistete Arbeit und wünschen ihr für ihren weiteren beruflichen und persönlichen Lebensweg alles Gute."
 
 **Punkt 3 Vorgesetztenbeurteilung.** Trotz unstreitiger Fuehrungsverantwortung enthaelt das Zeugnis keine Aussage zur Vorgesetztenbeurteilung. Diese Auslassung wird im Bewerbungsverkehr als verdecktes Negativsignal gelesen. Wir bitten um Ergaenzung: "Als Vorgesetzte wurde sie von ihren Mitarbeiterinnen und Mitarbeitern stets uneingeschraenkt anerkannt."
 
@@ -81,7 +81,7 @@ Anlagen: Vollmacht, Zeugnis vom [Datum], Vorzeugnis vom [Datum]
 | --- | --- |
 | Hoeflich, bestimmt, sachlich | Keine Drohgebaerden, kein Empoerungston |
 | Konkrete Wortlaute, nicht "bitte verbessern" | Pro Streitstelle alter und neuer Wortlaut in Anfuehrungszeichen |
-| Belege fuer Geheimcodes | BAG-Rechtsprechung, Standardliteratur, kein Verweis auf interne Notenmatrix |
+| Belege fuer Geheimcodes | BAG-Rechtsprechung, Quellenprüfung, kein Verweis auf interne Notenmatrix |
 | Frist kalendermaessig | Konkretes Datum, keine Zeitspanne ohne Anker |
 | Klageandrohung nur am Ende | Einmal, knapp, ohne Wiederholung |
 | Schlussformel mit Anlagenverzeichnis | Vollmacht, Zeugnis, Vorzeugnis, Korrespondenz |
@@ -98,10 +98,8 @@ Bleibt die Frist fruchtlos, geht es weiter mit `klage-strategie-zeugnisberichtig
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 14.10.2003 — 9 AZR 12/03** — Zufriedenheitsskala und Beweislast beim Begehren einer überdurchschnittlichen Beurteilung; konkrete Tatsachen und konkrete Formulierungen vorbereiten.
-- **BAG, Urt. v. 11.12.2012 — 9 AZR 227/11** — Kein allgemeiner Anspruch auf Dankes-, Bedauerns- und Wunschformel; Schlussformeln im Aufforderungsschreiben deshalb als Kontext- oder Vergleichspunkt begründen.
-- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07** — Bei unzureichendem Zeugnisinhalt kann Berichtigung oder Ergänzung verlangt werden; Beanstandungen konkret auf den Zeugnisinhalt beziehen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Müller-Glöge, 25. Aufl. 2025, § 109 GewO Rn. 30 ff. (Berichtigungsanspruch, Geltendmachung, Verjährung)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

@@ -35,22 +35,15 @@ Hinweis: Ein direktes Pendant zum US-amerikanischen "privilege log" gibt es im d
 
 ### Besonderheit: Syndikusrechtsanwalt (§ 46 BRAO)
 
-Der Syndikusrechtsanwalt (§ 46 BRAO) hat eine Zwitterstellung. Die Verschwiegenheitspflicht und der Beschlagnahmeschutz gelten nur für seine Tätigkeit als Anwalt (§ 46 Abs. 3 BRAO: Befugnis zum Tätigwerden in Rechtsangelegenheiten des Arbeitgebers), nicht für rein kaufmännische oder unternehmensinterne Dokumente. Das OLG Hamburg hat dies für Konzernmandatsverhältnisse konkretisiert. Im EU-Kartellverfahren ist die Korrespondenz von Syndikusanwälten ohnehin nicht geschützt (EuGH, Rs. C-550/07 P — Akzo Nobel).
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Leitentscheidungen
 
-- **BVerfG, Beschl. v. 12.04.2005 – 2 BvR 1027/02, NJW 2005, 1917** — Verfassungsrechtlicher Schutz des Mandatsgeheimnisses; Durchsuchung in Kanzleiräumen ist nur bei dringendem Tatverdacht gegen den Anwalt selbst zulässig; Beschlagnahmeverbot des § 97 StPO ist verfassungsrechtlich abgesichert.
-- **BGH, Beschl. v. 10.07.2019 – StB 23/19, NStZ 2019, 687 Rn. 12 ff.** — Reichweite des Beschlagnahmeverbots nach § 97 StPO bei Durchsuchung einer Rechtsanwaltskanzlei; Beweismittelgewahrsam des Verteidigers.
-- **BGH, Beschl. v. 07.11.2018 – XII ZB 2/16, NJW 2019, 374 Rn. 20** — Vorlageverweigerung nach § 142 ZPO; Grenzen des gerichtlichen Ermessens bei anwaltlichen Korrespondenzdokumenten.
-- **EuGH, Urt. v. 08.12.2022 – C-694/20 (Orde van Vlaamse Balies)** — Schutz anwaltlicher Kommunikation im EU-Recht; Pflicht zur Meldung von Steuergestaltungen (DAC6-Richtlinie) verletzt die Verteidigungsrechte, soweit Rechtsanwälte zur Offenbarung mandatsrelevanter Informationen verpflichtet werden; wegweisend für den Schutzumfang im EU-Kontext.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- `Meyer-Goßner/Schmitt, StPO, 67. Aufl. 2024, § 97 Rn. 4` — Beschlagnahmeverbot; Gewahrsam; Treuhandverhältnis (Doppelautoren-Kommentar).
-- `Greger, in: Zöller, ZPO, 35. Aufl. 2024, § 142 Rn. 5` — Urkundenvorlagepflicht; Weigerungsrechte; Verhältnismäßigkeit.
-- `Dittmann, in: Henssler/Prütting, BRAO, 5. Aufl. 2023, § 43a Rn. 44` — Verschwiegenheitspflicht; Schutzbereich; Durchbrechungen.
-- `Bär, in: BeckOK StPO, 52. Ed. (Stand 01.01.2024), § 53 Rn. 8` — Zeugnisverweigerungsrecht des Rechtsanwalts; Reichweite auf Dritte.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Schritt 0: Anwendbares Recht bestimmen
@@ -166,15 +159,15 @@ Ohne ausdrückliche Bestätigung wird die Liste nicht als vorlagebereits behande
 ## Risiken und typische Fehler
 
 - **Syndikusanwalt-Grenzfälle:** Die Schutzwürdigkeit von Korrespondenz des Syndikusrechtsanwalts hängt von seiner konkreten Funktion im Einzelfall ab (§ 46 Abs. 3 BRAO) — nie pauschal als "sicher geschützt" klassifizieren.
-- **EU-Kartellverfahren:** Im EU-Kartellverfahren und bei BKartA-Ermittlungen ist Korrespondenz mit Syndikusanwälten nicht geschützt (EuGH Akzo Nobel, C-550/07 P).
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Wirkung der Weitergabe:** Wird ein eigentlich geschütztes Dokument im Verfahren vorgelegt (auch versehentlich), kann der Schutz vollständig entfallen — Rückruf ist möglich, aber keineswegs sicher.
 - **Beschreibungstiefe:** Zu vage Beschreibungen können dazu führen, dass das Gericht eine In-Camera-Vorlage zur eigenen Prüfung anordnet.
-- **Fehlende Quellenverifizierung:** Alle Normen- und Entscheidungshinweise in der Ausgabe sind KI-generiert; vor einer Einreichung sind sie gegen Primärquellen (juris, beck-online, Wolters Kluwer) zu verifizieren.
+- **Fehlende Quellenverifizierung:** Alle Normen- und Entscheidungshinweise in der Ausgabe sind KI-generiert; vor einer Einreichung sind sie gegen Primärquellen (amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang, Wolters Kluwer) zu verifizieren.
 
 ## Quellenpflicht
 
 - Gesetzestexte: §§ 142, 144 ZPO; §§ 53, 53a, 97, 160a StPO; §§ 43a, 46 BRAO; § 203 StGB; §§ 86, 99 VwGO
-- Rechtsprechung: BVerfG, Beschl. v. 12.04.2005 – 2 BvR 1027/02, NJW 2005, 1917; BGH, Beschl. v. 10.07.2019 – StB 23/19, NStZ 2019, 687; EuGH, Urt. v. 08.12.2022 – C-694/20 (Orde van Vlaamse Balies)
-- Kommentare: Meyer-Goßner/Schmitt, StPO, 67. Aufl. 2024, § 97; Greger, in: Zöller, ZPO, 35. Aufl. 2024, § 142; Dittmann, in: Henssler/Prütting, BRAO, 5. Aufl. 2023, § 43a
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

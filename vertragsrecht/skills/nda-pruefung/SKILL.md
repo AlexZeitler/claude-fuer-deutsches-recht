@@ -223,12 +223,11 @@ Relevante Normen und Rspr.:
 - § 241 Abs. 2 BGB – Schutzpflichten im Schuldverhältnis
 - § 307 BGB – AGB-Inhaltskontrolle (bei vorformulierten Klauseln)
 - § 339 BGB – Vertragsstrafe; § 343 BGB – richterliche Herabsetzung
-- BGH, Urt. v. 26.02.2009 – I ZR 28/06, NJW 2009, 1902 – Schutz von Geschäftsgeheimnissen
-- BGH, Urt. v. 22.03.2012 – I ZR 18/11, GRUR 2012, 1048 – Postbankvertrieb: Wettbewerbsverbote und AGB
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Kommentare:
 - Köhler, in: Köhler/Bornkamm/Feddersen, UWG, 42. Aufl. 2024, § 2 GeschGehG Rn. 5 ff.
-- Grüneberg, in: Grüneberg, BGB, 83. Aufl. 2024, § 307 Rn. 1 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Harte-Bavendamm/Henning-Bodewig, UWG, 4. Aufl. 2016, § 17 (alt) UWG Rn. 1 ff. (Vorläufer)
 
 ## Risiken / typische Fehler

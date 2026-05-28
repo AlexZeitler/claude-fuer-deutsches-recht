@@ -103,41 +103,33 @@ Stundensätze nach Vergütungstabelle).
 
 ### Kanonische Rechtsprechung
 
-**BGH, Beschl. v. 02.07.2014 – XII ZB 120/14, FamRZ 2014, 1543 Rn. 9 ff.:**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Der Bericht des Betreuers ist Grundlage der gerichtlichen Aufsicht (§ 1862
 BGB n.F.) und muss inhaltlich so substantiiert sein, dass das Gericht die
 ordnungsgemäße Führung der Betreuung beurteilen kann. Pauschale Angaben
 (z. B. "Frau X geht es gut") genügen nicht (Rn. 12).
 
-**BGH, Beschl. v. 15.06.2022 – XII ZB 85/22, FamRZ 2022, 1391 Rn. 12 ff.:**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Zur Auslegung des § 1901 BGB a.F. (jetzt § 1821 BGB n.F.): Der Wille der
 betreuten Person ist auch bei Geschäftsunfähigkeit zu erforschen und zu
 respektieren, soweit nicht erhebliche Gefährdung droht. Im Jahresbericht
 ist darzulegen, wie der Betreuer den Willen ermittelt hat (Anhörung,
 Gespräche mit Angehörigen, Aktenstudium).
 
-**BGH, Beschl. v. 06.07.2016 – XII ZB 61/16, FamRZ 2016, 1668 Rn. 23 ff.:**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Persönliche Kontakte sind grundsätzlich durch persönliches Aufsuchen zu
 gewährleisten; rein telefonischer Kontakt genügt regelmäßig nicht. Frequenz
 und Form sind im Bericht konkret anzugeben (Datum, Dauer, Ort).
 
-**BGH, Beschl. v. 28.07.2015 – XII ZB 92/15, FamRZ 2015, 1880 Rn. 18:**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Bei stationärer Unterbringung in einem Heim hat der Betreuer regelmäßig,
 mindestens vierteljährlich, persönlichen Kontakt zu pflegen, um die
 Lebenssituation eigenständig zu beurteilen und sich nicht ausschließlich
 auf Heimberichte zu verlassen.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Götz, in: Grüneberg, BGB, 84. Aufl. 2025, § 1863 Rn. 1–8 (Berichtsinhalt,
-  Form, Folgen unterlassener Berichterstattung).
-- Schneider, in: MünchKomm BGB, 9. Aufl. 2024, § 1863 Rn. 5–20 (Anfangs-,
-  Jahres- und Schlussbericht; Anforderungen an Substantiierung).
-- Loer, FamRZ 2023, 1697 (1700 f.) (Praxisanforderungen an den Jahres-
-  bericht nach der Reform 2023).
-- Bienwald/Sonnenfeld/Harm, Betreuungsrecht, 7. Aufl. 2024, § 1863 BGB
-  Rn. 1 ff.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 1. **Eingabesichtung und Kategorisierung**
@@ -158,7 +150,7 @@ auf Heimberichte zu verlassen.
 
 3. **Persönliche Kontakte tabellarisch belegen**
    Pro Kontakt: Datum, Dauer, Ort, kurze Inhaltsangabe. Bei Heimbewohnern
-   mindestens vierteljährlich (BGH XII ZB 92/15 Rn. 18). Telefonische
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    Kontakte und Videogespräche können ergänzen, nicht ersetzen.
 
 4. **Wünsche und ihre Verwirklichung**
@@ -271,8 +263,8 @@ Ort, Datum                              [Name, Unterschrift Betreuer/in]
 > | … | … | … | … |
 >
 > Die Besuchsfrequenz entspricht den Anforderungen des BGH bei
-> stationärer Unterbringung (BGH, Beschl. v. 28.07.2015 – XII ZB 92/15,
-> FamRZ 2015, 1880 Rn. 18 — mindestens vierteljährlich). Telefonische
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 > Kontakte ergänzen, ersetzen aber nicht den persönlichen Eindruck.
 
 ## Risiken und typische Fehler
@@ -280,12 +272,12 @@ Ort, Datum                              [Name, Unterschrift Betreuer/in]
 **1. Pauschale Formulierungen**
 "Frau K. geht es gut, keine Besonderheiten" genügt nicht. Der Bericht muss
 substantiiert die persönlichen Verhältnisse darstellen, sodass das Gericht
-seine Aufsichtspflicht nach § 1862 BGB ausüben kann (BGH XII ZB 120/14
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Rn. 12).
 
 **2. Persönliche Kontakte zu selten dokumentiert**
 Bei stationärer Unterbringung verlangt die Rechtsprechung mindestens
-vierteljährliche persönliche Besuche (BGH XII ZB 92/15 Rn. 18). Rein
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 telefonischer Kontakt genügt nicht. Jeder Kontakt ist mit Datum, Ort,
 Dauer und Inhalt zu dokumentieren.
 
@@ -294,7 +286,7 @@ Der Bericht muss erkennen lassen, wie der Betreuer die Wünsche der
 betreuten Person ermittelt hat (Gespräch, Anhörung, Patientenverfügung).
 Die bloße Aussage "Die Betreute hat keine Wünsche geäußert" ist
 unzureichend, wenn nicht erkennbar ist, ob der Betreuer aktiv gefragt hat
-(§ 1821 Abs. 2, 3 BGB; BGH XII ZB 85/22 Rn. 12).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **4. Vermischung Bericht und Rechnungslegung**
 Der Jahresbericht (§ 1863 BGB) und die Rechnungslegung (§ 1865 BGB) sind
@@ -331,15 +323,15 @@ begründen.
 Bei jeder Ausgabe sind mindestens folgende Belege anzugeben:
 
 - § 1863 BGB (Berichtspflicht) und § 1821 BGB (Wünsche, persönlicher Kontakt)
-- BGH, Beschl. v. 02.07.2014 – XII ZB 120/14, FamRZ 2014, 1543 Rn. 9 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Substantiierungsanforderungen)
-- BGH, Beschl. v. 15.06.2022 – XII ZB 85/22, FamRZ 2022, 1391 Rn. 12 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Wunschermittlung)
-- BGH, Beschl. v. 28.07.2015 – XII ZB 92/15, FamRZ 2015, 1880 Rn. 18
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Kontaktfrequenz im Heim)
-- Götz, in: Grüneberg, BGB, 84. Aufl. 2025, § 1863 Rn. 1 ff.
-- Schneider, in: MünchKomm BGB, 9. Aufl. 2024, § 1863 Rn. 5 ff.
-- Loer, FamRZ 2023, 1697 (1700 f.)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 
 ---
 *Dieser Skill ersetzt keine konkrete fachliche Beratung im Einzelfall.

@@ -88,10 +88,7 @@ Mit freundlichen Grüßen
 
 ## Aktuelle Leitentscheidungen — Comfortletter
 
-- BGH, Urt. v. 20.09.2004 — II ZR 174/00, NZI 2005, 56 — Patronatserklaerung Abgrenzung: weiche Erklaerung (Comfortletter) begruendet keinen klagbaren Anspruch; Passivierungsverbot im insolvenzrechtlichen Status nur fuer harte externe Patronatserklaerung mit Durchgriffsrecht; Comfortletter bleibt als Passivum im Status.
-- BGH, Urt. v. 19.10.1992 — II ZR 234/91 — Haftung aus Comfortletter: je nach Formulierung kann Comfortletter Schadensersatzanspruch des Vertrauensglaeubiger begruenden; "Wir werden unsere Tochtergesellschaft finanziell staerken" als verbindliche Aussage auslegbar.
-- BGH, Urt. v. 20.03.1995 — II ZR 205/94 — Konzernleitungshaftung: Comfortletter als Signal fuer Konzernzugehoerigkeit; erhoehte Sorgfaltspflichten des Mutterunternehmens wenn Tochter in Krise und Comfortletter erteilt.
-- OLG Frankfurt, Urt. v. 12.04.2018 — 12 U 67/17 — Schieds-/Anwalts-Verhandlung: Comfortletter als Verhandlungs-Baustein bei Bankgespraechen; Banken muessen klar unterscheiden ob sie auf Comfortletter oder harte Patronatserklaerung vertrauen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Comfortletter
 
@@ -104,8 +101,6 @@ Mit freundlichen Grüßen
 3. **Formulierung?** Vage Formulierungen ("werden unterstuetzen") koennen trotzdem Haftung ausloesen.
 4. **Alternative?** Ersetze Comfortletter durch qualifizierten Rangruecktritt oder harte Patronatserklaerung wenn Fortbestehensprognose abgesichert werden soll.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MüKo InsO/Drukarczyk § 19 InsO Rn. 90-110 — Bereinigung bilanzieller Ueberschuldung durch Erklaerungen.
-- Uhlenbruck/Mock § 19 InsO Rn. 40-60 — Comfortletter und Patronatserklaerung im Status.
-- K. Schmidt/Uhlenbruck, GmbH in Krise, § 5 Rn. 5.25 ff. — Finanzierungsersatzmittel und ihre Wirkung.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

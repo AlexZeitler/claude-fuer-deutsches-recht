@@ -13,10 +13,7 @@ description: "Verwandte Skills zu einem Mandat oder Rechtsproblem vorschlagen: E
 4. Verarbeitet der zu empfehlende Skill Mandantendaten (DSGVO-Hinweis erforderlich)?
 
 ## Aktuelle Rechtsprechung
-- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Vor dem Einsatz eines Community-Skills mit Mandantendaten-Zugriff ist AVV nach Art. 28 DSGVO mit dem Registry-Anbieter zu prufen.
-- BGH, Urt. v. 26.04.2018 - I ZR 82/17, NJW 2018, 2329 — Einsatz externer Software-Tools in der Kanzlei erfordert Prüfung der Vertrauenswuerdigkeit des Anbieters; Community-Skills sind keine amtlichen Produkte.
-- BVerwG, Urt. v. 27.04.2022 - 6 C 8.20, NVwZ 2022, 1563 — Datensparsamkeit gilt auch fuer empfohlene Tools; Skill-Vorschlag darf keine unnoetigen Daten offenbaren.
-- BGH, Urt. v. 14.07.2022 - VI ZR 207/21, NJW 2022, 3215 — Datenschutz-Hinweis bei Weitergabe von Mandanteninformationen an Drittanbieter ist Pflicht; Community-Skill-Empfehlung muss diesen Hinweis enthalten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - Art. 28 DSGVO — AVV: jeder Community-Skill-Anbieter mit Datenzugriff ist Auftragsverarbeiter
@@ -24,10 +21,9 @@ description: "Verwandte Skills zu einem Mandat oder Rechtsproblem vorschlagen: E
 - § 43a Abs. 2 BRAO — Verschwiegenheitspflicht: Community-Skills duerfen keine Mandantengeheimnisse exponieren
 - § 203 StGB — Verletzung von Privatgeheimnissen: gilt auch bei Weiterleitung an Community-Skill-Infrastruktur
 
-## Kommentarliteratur
-- Sydow/Marsch DSGVO Art. 28 Rn. 1-30 (Auftragsverarbeitung: Community-Software als Auftragsverarbeiter)
-- Gaier/Wolf/Göcken BRAO § 43a Rn. 30-60 (Verschwiegenheit: Grenzen beim Einsatz externer Software)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Die Community könnte etwas gebaut haben, das Sie gerade selbst erstellen oder gesucht haben. Dieser Skill bemerkt dies und erwähnt es — einmal, kurz, nicht nervig. Keine Unterbrechung laufender Arbeit. Nur am Ende einer Aufgabe.

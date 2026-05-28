@@ -123,22 +123,12 @@ Die Lesefassung ist **kein** amtliches Dokument. Die amtliche Konsolidierung erf
 - `inkrafttreten-uebergangsrecht` — bei stufenweisem Inkrafttreten oder Übergangsregelungen
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- BVerfG, Beschl. v. 15.01.2002 — 1 BvR 1783/99, BVerfGE 104, 357 Rn. 25 — Normenklarheits-Gebot erfordert, dass Buerger und Gerichte Geltungsinhalt eines Gesetzes ohne unzumutbaren Aufwand ermitteln koennen; unuebersichtliche Aenderungskette kann Normenklarheit verletzen
-- BVerwG, Urt. v. 28.07.2011 — 2 C 28.10, NVwZ 2012, 26 — Lesefassung als Hilfsmittel hat keine eigenstaendige Rechtswirkung; Geltung richtet sich stets nach dem im BGBl. veroeffentlichten Originaltext; abweichende Lesefassung begrundet keine Rechte
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
 Art. 82 GG (Ausfertigung und Verkuendung) — § 1 BGBlG (Bundesgesetzblatt als amtliche Quelle) — §§ 1-5 NormDokVO (Normdokumentations-Verordnung) — Art. 20 Abs. 3 GG (Normklarheit als Rechtsstaatsprinzip)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Maunz/Dürig, GG, Art. 82 Rn. 1 ff. (Verkuendung, Normursprungs-Frage)
-- Schneider, Gesetzgebung, 3. Aufl. 2002, § 7 Rn. 1 ff. (Normfassung, Konsolidierung)
-
----
-<!-- AUDIT 27.05.2026 | Bundle 036
-Entfernt: BGH VIII ZR 233/15 (26.04.2017) — WRONG_TOPIC.
-Echtes Thema: SIS-Fahndungsausschreibung als Rechtsmangel beim Gebrauchtwagenkauf (NJW 2017, 3292).
-Behauptetes Thema: Kollision Originalgesetz vs. nichtamtliche Lesefassung (NJW 2017, 2268) — falsch; diese Fundstelle gehoert nicht zu VIII ZR 233/15.
-Aktion: Eintrag geloescht.
--->
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

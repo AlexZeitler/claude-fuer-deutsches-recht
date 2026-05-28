@@ -152,11 +152,8 @@ Das Entwicklungsgebot bindet den B-Plan an den FNP. Verletzung ist beachtlicher 
 
 ## Aktuelle Rechtsprechung — Leitsaetze
 
-- BVerwG, Urt. v. 28.02.1975 — 4 C 30.72, BVerwGE 48, 70 Rn. 12: Entwicklungsgebot des § 8 Abs. 2 BauGB erfordert, dass der Bebauungsplan die Darstellungen des FNP nicht kontraerklaert; geringfuegige Abweichungen sind nach Planerhaltungsrecht zu behandeln.
-- BVerwG, Urt. v. 26.02.1999 — 4 CN 6.98, NVwZ 1999, 1001 Rn. 18: Parallelverfahren nach § 8 Abs. 3 BauGB ist zulaessig; der FNP muss aber mit Bekanntmachung des B-Plans in Einklang gebracht werden, sonst Unwirksamkeit des B-Plans.
-- BayVGH, Urt. v. 05.10.2017 — 15 N 16.1652, NVwZ-RR 2018, 349 Rn. 22: Berichtigung nach § 13a Abs. 2 BauGB setzt voraus, dass der B-Plan der Innenentwicklung dient und der FNP lediglich redaktionell berichtigt werden muss.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Battis/Krautzberger/Loehr, BauGB, 15. Aufl. — § 8 Rn. 1 ff.
-- Ernst/Zinkahn, BauGB — § 8 BauGB Entwicklungsgebot
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

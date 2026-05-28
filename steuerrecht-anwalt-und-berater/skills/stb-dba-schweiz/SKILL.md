@@ -35,7 +35,7 @@ Das DBA-Schweiz vom 11.08.1971 ist eines der praxisrelevantesten DBA Deutschland
 - Aktuelle BFH-Rechtsprechung zur 60-Tage-Schaedlichkeit in juris abrufen.
 - Aktuelle BFH-Rechtsprechung zur Pauschalbesteuerung Schweiz in juris abrufen.
 - Aktuelle BFH-Rechtsprechung zu Pensions-Saeulen DBA-Schweiz in juris abrufen.
-- BVerfG 2 BvL 1/12 (Treaty Override, § 50d Abs. 8 EStG verfassungsgemaess), Urteil 15.12.2015, BVerfGE 141, 1.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BMF-Schreiben zu Grenzgaengern Schweiz (regelmaessig aktualisiert) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 - Konsultationsvereinbarung Home-Office Deutschland-Schweiz vom 11.06.2020 und Folgevereinbarungen — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 

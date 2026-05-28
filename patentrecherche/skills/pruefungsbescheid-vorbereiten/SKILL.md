@@ -169,8 +169,8 @@ Bevor die Antwort auf den Pruefungsbescheid formuliert wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 12.09.2013 — X ZR 22/10 (Anspruchsaenderung im Pruefungsverfahren):** Im Erteilungsverfahren koennen Patentansprueche geaendert werden, sofern die Aenderung durch die urspruengliche Offenbarung gestuetzt ist (§ 38 PatG / Art. 123 EPU); eine Erweiterung uber den ursprunglich offenbarten Gegenstand hinaus fuehrt zur Nichtigkeit des Patents.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **EPA, Erweiterte Beschwerdekammer, G 2/21 (Plausibilitaet):** Die technische Wirkung, auf die eine erfinderische Taetigkeit gestuetzt wird, muss in der Anmeldung plausibel offenbart sein; spaetere Versuchsbelege koennen die Plausibilitaet ersetzen, wenn der Fachmann den Effekt nachtraeglich als glaubhaft bestaetigt ansehen kann.
 
-> **BGH, Urt. v. 14.10.2010 — Xa ZR 36/08 (Hilfsantrag EPA):** Im EPA-Beschwerdeverfahren spaetest eingereichte Hilfsantraege koennen als verspaetet zurueckgewiesen werden; die Pruefungstaktik muss daher fruehzeitig eine vollstaendige Hilfsantragsstaffel vorbereiten, auch wenn der Hauptantrag als verteidbar erscheint.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

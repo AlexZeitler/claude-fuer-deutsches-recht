@@ -61,7 +61,7 @@ Die Direktversicherung ist der haeufigste bAV-Durchfuehrungsweg: AG schliesst ei
 
 ### Phase 3 — § 1a BetrAVG 15-Prozent-Zuschuss
 
-- Bei Entgeltumwandlung: AG muss 15 Prozent des Beitrags zuschiessen, wenn er SV-Beitraege erspart.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Geltung Direktversicherung/Pensionskasse/Pensionsfonds (nicht Direktzusage).
 - Seit 2019; fuer Altvertraege bis Ende 2021 noch Uebergangsregelung; seit 2022 voll wirksam.
 

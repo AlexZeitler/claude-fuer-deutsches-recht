@@ -46,11 +46,10 @@ Richtlinien-Verpflichtungen und Anwendungsfall-Register aus `CLAUDE.md`.
 
 **Leitentscheidungen**
 
-- EuGH, Urt. v. 07.12.2023 – C-634/21, NJW 2024, 126 (Schufa-Score):
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   KI-Richtlinie ohne Adressierung von Scoring-Systemen schafft materielle
   Lücke, wenn entsprechende Systeme operativ eingesetzt werden.
-- EuGH, Urt. v. 27.02.2025 - C-203/22 (Dun & Bradstreet Austria), NJW 2025, 1471: Art. 15 Abs. 1 lit. h DSGVO verlangt aussagekraeftige Informationen zur involvierten Logik automatisierter Bonitaetsbeurteilungen; Geschaeftsgeheimnisse sind im Einzelfall zu schuetzen.
-- BVerfG, Beschl. v. 06.11.2019 – 1 BvR 16/13, NJW 2020, 300 (Recht auf
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Vergessen I): Grundrechtliche Schutzpflichten gegenüber algorithmischen
   Systemen; Transparenzgebot beim KI-Einsatz.
 
@@ -162,7 +161,7 @@ nennen. Ergebnis: RICHTLINIENÄNDERUNG EMPFOHLEN.
 - **AI Act Art. 29** (Betreiberpflichten, Überwachung).
 - **DSGVO Art. 5 Abs. 2** (Rechenschaftspflicht) bei Richtlinien-Dokumentation.
 - **DSGVO Art. 22** bei automatisierten Entscheidungen.
-- **EuGH C-634/21 (Schufa-Score)** bei Scoring-/Profiling-Lücken.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 17.**
 - **Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 5 Rn. 62 ff.**
 
@@ -174,9 +173,7 @@ nennen. Ergebnis: RICHTLINIENÄNDERUNG EMPFOHLEN.
 5. Ist eine Betriebsrats-Beteiligung nach § 87 Abs. 1 Nr. 6 BetrVG relevant?
 
 ## Aktuelle Rechtsprechung (v14.2)
-- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Richtlinie ohne Adressierung von KI-Scoring schafft materielle DSGVO-Luecke; maßgeblich fuer Sweep-Priorisierung.
-- EuGH, Urt. v. 27.02.2025 - C-203/22 (Dun & Bradstreet Austria), NJW 2025, 1471: Art. 15 Abs. 1 lit. h DSGVO verlangt aussagekraeftige Informationen zur involvierten Logik automatisierter Bonitaetsbeurteilungen; Geschaeftsgeheimnisse sind im Einzelfall zu schuetzen.
-- BVerfG, Beschl. v. 06.11.2019 — 1 BvR 16/13, NJW 2020, 300: Grundrechtliche Schutzpflichten bei algorithmischen Systemen; Transparenzgebot beim KI-Einsatz in der Richtlinie verankern.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Output-Template — Richtlinien-Monitor-Bericht
 **Adressat:** KI-Governance-Verantwortlicher — Tonfall: sachlich-strukturiert

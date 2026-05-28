@@ -39,8 +39,7 @@ Das OECD-Musterabkommen (OECD-MA) in der Fassung 2017 ist Grundlage nahezu aller
 
 - **BMF-Schreiben zur Anwendung der DBA auf Personengesellschaften** vom 26.09.2014 (BStBl I 2014, 1258) (Bestandsschutz und Folgeschreiben) — aktuellen Stand und Aktualisierungen in BMF/juris pruefen.
 - **BMF-Schreiben zur Anwendung des MLI** — aktuellen Stand und Datum im BMF-Veroeffentlichungsverzeichnis pruefen.
-- BFH I R 42/20 (05.12.2023, BStBl II 2026 — Veroeffentlichung angekuendigt) zur statischen Auslegung von DBA-Begriffen (Wortlautgrenze); BMF-Schreiben vom 24.12.2025 passt Verwaltungsauffassung an.
-- BFH I R 44/16 (11.07.2018, BStBl II 2023 S. 430) und BFH I R 42/20 (05.12.2023) zur statischen DBA-Auslegung — seit BMF-Schreiben 24.12.2025 Verwaltungsauffassung angepasst.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Aufbau eines typischen DBA
 
@@ -149,6 +148,6 @@ Das OECD-Musterabkommen (OECD-MA) in der Fassung 2017 ist Grundlage nahezu aller
 
 ## Quellen und Updates
 
-Stand: 05/2026. OECD-MA 2017 mit BEPS-Anpassungen. MLI in Kraft fuer Deutschland ab 01.04.2021 (BGBl. 2020 II S. 946). BMF-Schreiben 26.09.2014 (BStBl I 2014, 1258) zu Personengesellschaften; BMF-Schreiben 24.12.2025 zur DBA-Auslegung (ersetzt 19.04.2023, BStBl I 2023, 630). BFH I R 42/20 (05.12.2023); BFH I R 44/16 (11.07.2018). § 50d EStG, § 34c EStG, § 20 AStG, § 2 AO. MLI-Wirkungszeitpunkte im BMF-DBA-Verzeichnis pruefen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: 3 belegt (Fundstelle/Datum bestaetigt), 3 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->

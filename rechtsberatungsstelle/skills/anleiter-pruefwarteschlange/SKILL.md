@@ -35,18 +35,11 @@ Ob eine formelle Prüf-Ablauf sinnvoll ist, hängt vom Erfahrungsstand der Studi
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 26.10.2017 – IX ZR 285/16, NJW 2018, 314 Rn. 10 — Haftung des aufsichtführenden Rechtsanwalts für Fehler nachgeordneter Personen; Prüfung muss tatsächlich stattfinden, nicht nur pro forma.
-- BGH, Urt. v. 14.06.2012 – IX ZR 145/11, NJW 2012, 2571 Rn. 15 — Dokumentationspflicht: Beratungsleistungen und Prüfvorgänge sind zu dokumentieren; Warteschlangenprotokoll ist Teil dieser Dokumentation.
-- BVerfG, Beschl. v. 12.04.2005 – 2 BvR 1027/02, NJW 2005, 1917 — Grundlage für die Vertraulichkeit von Beratungsunterlagen; spiegelbildlich für Prüfwarteschlangen.
-- BAG, Urt. v. 25.04.2018 – 2 AZR 6/18, NZA 2018, 987 Rn. 20 — Weisungsverhältnis und Aufsichtspflicht; Supervisor als Leitungsperson in der Beratungsstelle.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Deckenbrock/Henssler, RDG, 5. Aufl. 2021, § 6 Rn. 30 ff. — Anforderungen an die inhaltliche Aufsicht; formelle vs. informelle Supervision.
-- Kleine-Cosack, BRAO, 8. Aufl. 2022, § 43a Rn. 22 ff. — Verschwiegenheitspflicht bei gemeinschaftlicher Mandatsbearbeitung; Datentrennung.
-- Gola, DSGVO, 3. Aufl. 2022, Art. 32 Rn. 15 ff. — Technische Maßnahmen für die Datensicherheit; Zugangsbeschränkungen für Beratungsunterlagen.
-- Deckenbrock, in: BeckOK BRAO, 23. Ed. (Stand 01.03.2025), § 6 RDG Rn. 5 — Rechtsberatungsstellen; Supervisionsmodelle.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Konfigurationsprüfung

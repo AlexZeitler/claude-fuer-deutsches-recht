@@ -179,4 +179,4 @@ Bevor die Briefing-E-Mail an Whitman Brennan Forsythe LLP abgeschickt wird, klae
 
 > **ABA Model Rules of Professional Conduct, Rule 1.7 / Rule 1.10:** Konflikte muessen schon vor Mandatsbeginn gecheckt werden; ein spaeter entdeckter Interessenkonflikt erfordert Niederlegung des Mandats und kann US-Anwaltszulassung gefaehrden; internationale Kanzleien mit gemeinsamen Mandanten muessen einen konsolidierten Conflicts-Check fuehren.
 
-> **EuGH, Urt. v. 18.05.2021 — C-537/19 (Ryanair DAC / DelayFix):** Bei internationalen Mandatsverhaeltnissen bestimmt sich die anwendbare Berufsordnung nach dem Recht des Staates, in dem der Anwalt taetig wird; for US-Prozesshandlungen gilt ausschliesslich US-Anwaltsrecht, was direkte Konsequenzen fuer die Muenchener Instruktions-Praxis hat.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

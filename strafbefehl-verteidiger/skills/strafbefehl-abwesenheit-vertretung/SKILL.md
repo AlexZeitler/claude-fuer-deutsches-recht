@@ -24,16 +24,11 @@ description: "Mandant kann oder will zur Hauptverhandlung nach Strafbefehl-Einsp
 
 ## Aktuelle Rechtsprechung
 
-- OLG Hamm, Beschl. v. 20.01.2020 - 4 RVs 4/20, NStZ-RR 2020, 248 — Verwerfung nach § 412 StPO erfordert, dass Ausbleiben tatsaechlich unentschuldigt ist; Gericht muss prufen ob Entschuldigungsgruende vorliegen, bevor Einspruch verworfen wird.
-- OLG Celle, Beschl. v. 11.03.2021 - 3 Ss 11/21, NStZ-RR 2021, 182 — Nach Verwerfung nach § 412 StPO steht Wiedereinsetzung nach § 44 StPO offen wenn Ausbleiben tatsaechlich entschuldigt war; Attest genuegt als Glaubhaftmachungsmittel.
-- BVerfG, Beschl. v. 03.07.2018 - 2 BvR 1310/18, NJW 2018, 3248 — Verwerfung des Einspruchs nach § 412 StPO ist mit dem Grundrecht auf rechtliches Gehoer vereinbar solange Wiedereinsetzungsmittel offenstehen und tatsaechlich zugaenglich sind.
-- BGH, Beschl. v. 14.03.2019 - 4 StR 32/19, NStZ 2019, 374 — Verteidiger kann in der Hauptverhandlung nach § 411 Abs. 2 StPO alle prozessualen Rechte wahrnehmen; seine Prozesshandlungen binden den Angeklagten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Meyer-Gossner/Schmitt StPO § 411 Rn. 5-15 (Erscheinungspflicht, Entbindung)
-- Meyer-Gossner/Schmitt StPO § 412 Rn. 1-15 (Verwerfung, Wiedereinsetzung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Entscheidungsbaum Abwesenheits-Strategie
 
 ```

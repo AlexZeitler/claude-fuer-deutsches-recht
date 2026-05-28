@@ -64,8 +64,7 @@ Eskalation: [Falls Konflikt oder Insider-Verdacht → Partner sofort]
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 12.07.2018 - III ZR 183/17, NJW 2018, 2957 — Kanzlei-Interessenkonflikt faengt beim ersten Gespräch an; Sorgfaltspflicht ab Erstkontakt
-- BGH, Urt. v. 23.09.2020 - III ZR 453/19, NJW 2021, 148 — GwG-Pflichten entstehen vor Mandatsannahme; kein Aufschieben bis Mandatsvertrag
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Rote Schwellen
 
@@ -76,4 +75,4 @@ Eskalation: [Falls Konflikt oder Insider-Verdacht → Partner sofort]
 ## Quellen
 
 - § 43a BRAO; Art. 18 MAR; §§ 2-10 GwG; §§ 311 II BGB
-- BGH III ZR 183/17 (Interessenkonflikt); BGH III ZR 453/19 (GwG ab Erstkontakt)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

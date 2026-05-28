@@ -125,7 +125,7 @@ Drei haeufige Tatbestaende und ihre Substantiierungs-Anforderungen:
 
 - Vermoegensbetreuungspflicht: Rechtsgrund (Anstellungsvertrag, gesetzliche Pflicht, Geschaeftsfuehrer).
 - Pflichtverletzung: konkrete Handlung gegen das Innenverhaeltnis.
-- Vermoegensnachteil: bezifferbar, bei Risikogeschaeft Gefaehrdungsschaden mit Konkretisierungsgebot (BVerfG 2 BvR 2559/08).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Vorsatz auch hinsichtlich Pflichtwidrigkeit.
 
 ## Antrags-Muster nach Verfahrenstyp

@@ -44,35 +44,23 @@ Das Modell benötigt folgende Informationen:
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 17.07.2008 – I ZR 219/05, GRUR 2008, 996 – "Clone-CD": Anforderungen an die
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Wiederholungsgefahr und die Beseitigungswirkung einer Unterlassungserklärung; eine
   eingeschränkt abgegebene UE beseitigt die Wiederholungsgefahr nur für den konkret bezeichneten
   Verletzungsfall.
-- BGH, Urt. v. 11.06.2015 – I ZR 7/14, GRUR 2016, 526 – "Fressnapf": Zur Auslegung der
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Reichweite einer strafbewehrten Unterlassungserklärung; der Gläubiger muss konkret
   beschreiben, welche zukünftigen Handlungen erfasst sein sollen.
-- BGH, Urt. v. 26.01.2017 – I ZR 217/15, GRUR 2017, 918 Rn. 12 – "Vollständigkeit der
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Abmahnung": Die Abmahnung muss die beanstandete Verletzungshandlung so klar bezeichnen, dass
   der Abgemahnte die Berechtigung prüfen kann; andernfalls ist die Abmahnung unbeachtlich.
-- BGH, Urt. v. 04.03.2021 – I ZR 60/20, GRUR 2021, 752 Rn. 18 – "Bestellbestätigung I": Zur
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Dringlichkeitsvermutung im einstweiligen Verfügungsverfahren; selbst nach UWG-Reform 2021
   gilt die Dringlichkeitsfrist von 1 Monat ab Kenntnis als maßgeblich.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Köhler, in: Köhler/Bornkamm/Feddersen, UWG, 42. Aufl. 2024, § 13 Rn. 1 ff. (Pflichtinhalt
-  der Abmahnung: Name/Firma des Abmahnenden, Art der Verletzung, Ansprüche, Aufforderung zur
-  Unterlassung und Fristsetzung).
-- Feddersen, in: Köhler/Bornkamm/Feddersen, UWG, 42. Aufl. 2024, § 13a Rn. 5 ff.
-  (Gegenanspruch bei unberechtigter Abmahnung; insbesondere Kostenerstattung bei missbräuchlichen
-  Massenabmahnungen).
-- Brüning, in: Harte/Henning, UWG, 5. Aufl. 2023, § 13 Rn. 12 ff. (Form und Fristen der
-  Abmahnung; modifizierte Unterlassungserklärung; keine Formvorschrift, aber Schriftform aus
-  Beweisgründen dringend empfohlen).
-- Goldmann, in: Harte/Henning, UWG, 5. Aufl. 2023, Vor § 12 Rn. 80 ff. (Hamburger Brauch:
-  Schuldner darf den Gläubiger durch eigene Formulierung der UE binden; Gläubiger muss annehmen,
-  sofern Erklärung ausreichend ist).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 1. **Sachverhaltsaufnahme** (Tag 0): Wettbewerbsverstoß dokumentieren (Screenshot mit
@@ -122,8 +110,8 @@ Produkt übertragbar. Der Mandant, die Quickprint AG, ist Mitbewerber im selben 
 Stiftung Warentest 2023" ist eine Angabe über wesentliche Merkmale des Produkts (Qualität,
 Prüfungsdatum). Sie ist unwahr, da das Testergebnis aus 2018 stammt. Die angesprochenen
 Verkehrskreise verstehen die Jahreszahl als Beleg eines aktuellen Tests; eine irreführende
-Wirkung ist nach dem Erfahrungssatz des BGH zu bejahen (BGH, Urt. v. 11.06.2015 – I ZR 7/14,
-GRUR 2016, 526 Rn. 14 – "Fressnapf"). Die Wiederholungsgefahr folgt aus dem fortgesetzten
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Einsatz der Werbung.
 
 *Aktivlegitimation (§ 8 Abs. 3 Nr. 1 UWG)*: Die Quickprint AG steht mit der Musterprint GmbH

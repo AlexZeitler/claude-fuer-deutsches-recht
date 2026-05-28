@@ -81,12 +81,9 @@ klôtzzkètté legt Widerspruch gegen Anmeldung "KLOTZ-KT" für Klasse 9 (Techno
 
 ## Belege & Kommentare
 
-- BeckOK MarkenR, Art. 8 UMV Rn. 1 ff. (umfassend)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Hasselblatt (Hrsg.), Münchener Anwaltshandbuch GRS, 5. Aufl., Kap. Widerspruchsverfahren EUIPO
-- EuGH, Urt. v. 29.09.1998 — C-39/97 (Canon) — Verwechslungsgefahr, Ergänzung von Warenähnlichkeit und Zeichenähnlichkeit
-- EuGH, Urt. v. 11.11.1997 — C-251/95 (Sabèl/Puma) — Gesamteindruck
-- EuGH, Urt. v. 22.06.1999 — C-342/97 (Lloyd Schuhfabrik) — Durchschnittsverbraucher
-- EuGH, Urt. v. 14.09.1999 — C-375/97 (General Motors) — Bekanntheitsnachweis Art. 8 V
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Templates
 
@@ -129,8 +126,8 @@ Bevor der Widerspruch eingelegt wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **EuGH, Urt. v. 11.11.1997 — C-251/95 (SABEL / Puma):** Die Verwechslungsgefahr nach Art. 8 I lit. b UMV ist umfassend zu beurteilen; massgeblich ist der Gesamteindruck beider Zeichen einschliesslich ihrer Aehnlichkeit in Bild, Klang und Bedeutung, der Aehnlichkeit der Waren und der Kennzeichnungskraft der aelteren Marke.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **EuGH, Urt. v. 22.06.1999 — C-342/97 (Lloyd Schuhfabrik / Klijsen Handel):** Beim Klangvergleich ist der Gesamteindruck der Zeichen in einem mittleren Tempo normaler Lautsprachentaetigkeiten massgeblich; ein schwaches Kollusionsrisiko bleibt trotzdem ein Kollusionsrisiko, wenn die Waren identisch sind.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **EuGH, Urt. v. 23.10.2003 — C-408/01 (Adidas / Fitnessworld):** Der Bekanntheitsschutz nach Art. 8 V UMV setzt voraus, dass die bekannte Marke einem erheblichen Teil des beteiligten Publikums im Gemeinschaftsgebiet bekannt ist; bei Luxusmarken kann dies bei Bekanntheitsgrad von 50 % in der EU oder bestimmten Mitgliedstaaten genuegen.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

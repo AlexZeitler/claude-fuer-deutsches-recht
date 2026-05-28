@@ -74,8 +74,7 @@ Prüfe und dokumentiere:
 
 Für die Akte:
 
-- Safe Harbor: durch EuGH, Urt. v. 06.10.2015, C-362/14, Schrems I, ungültig.
-- EU-US Privacy Shield: durch EuGH, Urt. v. 16.07.2020, C-311/18, Schrems II, ungültig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EU-US Data Privacy Framework: aktueller Angemessenheitsbeschluss der EU-Kommission vom 10.07.2023; nutzbar nur für teilnehmende US-Organisationen im sachlichen Umfang der Zertifizierung.
 
 Formuliere nie, dass Safe Harbor oder Privacy Shield heute eine gültige Rechtsgrundlage seien.

@@ -37,11 +37,7 @@ description: "Umgangsregelungen nach §§ 1684 und 1685 BGB formulieren: Regelm�
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| BGH | XII ZB 234/19 | 11.12.2019 | Wechselmodell und Kindesunterhalt — Unterhaltsberechnung bei paritätischem Betreuungsmodell |
-| BGH | XII ZB 601/15 | 01.02.2017 | Wechselmodell kann gerichtlich angeordnet werden wenn im Kindeswohlinteresse und Kooperationsfähigkeit der Eltern gegeben |
-| BVerfG | 1 BvR 1263/18 | 10.01.2020 | Umgangsvereitelung — ein Elternteil der aktiv verhindert ist sanktionierbar; staatlicher Schutzauftrag |
-| BGH | XII ZB 225/17 | 17.01.2018 | Ordnungsmittel § 89 FamFG — setzen bestimmte und vollstreckbare Umgangsregelung voraus |
-| OLG Frankfurt | 4 UF 12/21 | 14.04.2022 | Begleitumgang — Voraussetzungen bei Kindeswohlbedenken; stufenweise Erweiterung zum freien Umgang |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Modelle im Überblick
 
@@ -49,7 +45,7 @@ description: "Umgangsregelungen nach §§ 1684 und 1685 BGB formulieren: Regelm�
 |-------|----------------------|----------------|-------------|
 | Residenzmodell Standard | Kind 70–85 % bei Hauptelternteil | Barunterhalt Nicht-Betreuender | Guter bis mittlerer Konflikt |
 | Residenzmodell erweitert | Kind 60–70 % bei Hauptelternteil | Barunterhalt anteilig | Guter Konflikt, Annäherung Wechselmodell |
-| Wechselmodell paritätisch | 50/50 % | Gegenseitige Verrechnung (BGH XII ZB 234/19) | Kooperative Eltern, kurze Entfernung |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Begleitumgang | Begleitung durch neutral Dritte | Normal | Kindeswohlbedenken, Wiederaufbau Beziehung |
 | Kein Umgang | Ausnahme § 1684 Abs. 4 BGB | Normal | Ernsthafte Kindeswohlgefährdung |
 
@@ -137,7 +133,7 @@ b) Andere Ferien: wie § 3 Residenzmodell
 
 § 4 Kindesunterhalt
 Beim paritätischen Wechselmodell verrechnen sich die
-Unterhaltspflichten gegenseitig (BGH XII ZB 234/19). Der
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Mehrverdiener zahlt Ausgleich an den Minderverdienenden
 nach Maßgabe der Einkommensunterschiede (berechnet nach
 aktueller Düsseldorfer Tabelle).
@@ -253,7 +249,7 @@ Vollstreckungstitel muss enthalten:
 - Ordnungsgeld bis EUR 25.000 je Verstoß
 - Ordnungshaft bis 6 Monate
 - Voraussetzung: Ermahnung durch Gericht; vorsätzliche Zuwiderhandlung
-- BGH XII ZB 225/17: Titel muss hinreichend bestimmt sein
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Vermittlungsverfahren § 165 FamFG
 
@@ -304,8 +300,7 @@ Vollstreckungstitel muss enthalten:
 | Gegenargument | Reaktion |
 |--------------|---------|
 | "Kind will keinen Umgang" | Kindeswille ab 14 erhebliches Gewicht; bei Jüngeren: Hintergründe prüfen (PAS?); Verfahrensbeistand § 158 FamFG |
-| "Umgang gefährdet das Kind" | Substanziierter Vortrag mit Belegen notwendig; pauschale Behauptungen reichen nicht (OLG Frankfurt 4 UF 12/21) |
-| "Wechselmodell funktioniert nicht" | BGH XII ZB 601/15: Wechselmodell anordnungsfähig wenn im Kindesinteresse; Kooperation nicht absolute Voraussetzung |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Vollstreckung sei zu hart" | § 89 FamFG: Kindesrecht auf Umgang ist vollstreckungsfähig; Ordnungsmittel verhältnismäßig bei wiederholter Verweigerung |
 
 ## Streitwert und Kosten
@@ -338,8 +333,7 @@ Vollstreckungstitel muss enthalten:
 
 - BGB §§ 1684, 1685, 1697a, 1671, 1666
 - FamFG §§ 89, 156, 158, 159, 165
-- BGH XII ZB 234/19 (11.12.2019); XII ZB 601/15 (01.02.2017); XII ZB 225/17 (17.01.2018)
-- BVerfG 1 BvR 1263/18 (10.01.2020)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Schwab Familienrecht, 29. Aufl.
 - Wendl/Dose Unterhaltsrecht, 11. Aufl.
 - Stand: 05/2026

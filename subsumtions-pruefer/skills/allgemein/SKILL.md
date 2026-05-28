@@ -111,7 +111,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `gegen-tbm-und-einreden-pruefen` | Prüft rechtshindernde, rechtsvernichtende und rechtshemmende Einwendungen und Einreden: Nichtigkeitsgründe, Anfechtung, Erfuellung, Aufrechnung, Verjährung, Zurückbehaltungsrecht, Verwirkung, Verzicht. Strukturierte… |
 | `generalklauseln-pruefen` | Prüft Generalklauseln wie Treu und Glauben (§ 242 BGB), gute Sitten (§ 138 BGB), billiges Ermessen, öffentliches Interesse und Verhältnismäßigkeit. Gibt Indizien und Fallgruppen statt mechanischer Subsumtion. Warnt vor… |
 | `grundrechte-pruefung-de-und-grch` | Prüft Grundrechte nach GG (Drei-Schritt: Schutzbereich, Eingriff, Rechtfertigung) und GRCh (Art. 51/52 GRCh). Unterscheidet Abwehr-, Leistungs- und Schutzpflichtdimension. Verhältnismäßigkeitsprüfung mit Zweck,… |
-| `kommentar-und-literatur-hinweis` | Weist auf Standardkommentare und Fachliteratur für die geprüften Normen hin: Palandt/Grueneberg, MüKomm, Staudinger, Maunz/Duerig, Calliess/Ruffert, Jarass/Pieroth u. a. Ohne Volltexte; nur Orientierungshilfe für die… |
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 | `konkurrenzen-anspruchsgrundlagen` | Klaert Konkurrenzfragen zwischen Anspruchsgrundlagen: Anspruchskonkurrenz, Anspruchsgrundlagenkonkurrenz, Spezialitaet, Subsidiaritaet, lex specialis/posterior/superior. Klaert Verhältnis von Vertrags- zu Deliktsrecht,… |
 | `mandatsabbruch-empfehlung-an-fachanwalt` | Erkennt Indikatoren für Komplexitaetsgrenzen des mechanischen Prüfens und empfiehlt Abbruch sowie Weiterleitung an Fachanwalt, Notar, Steuerberater oder Behoerde. Warnt bei Strafrecht, Verfassungsrecht, internationalem… |
 | `norm-historie-und-aenderungen` | Prüft die Norm-Historie: geltende Fassung zum massgeblichen Zeitpunkt, Übergangsvorschriften, intertemporales Recht, aenderungsrelevante Gesetzgebungsverfahren. Warnt bei Normen, die seit dem Wissensstand des Systems… |
@@ -222,7 +222,7 @@ Der Schwerpunkt liegt auf mechanisch nachvollziehbarer Subsumtion — nicht auf 
 - `output-fremdsprachig-en-fr` — Ausgabe auf Englisch oder Franzoesisch mit Hinweis auf nicht-amtliche Uebersetzung.
 - `output-pruefungsdokument-mit-warnhinweisen` — Vollstaendiges Pruefungsdokument mit Pflicht-Kopfhinweis und Disclaimern.
 - `rechtsprechung-recherche-strategie` — Strategie fuer die Rechtsprechungsrecherche mit Fundstellen-Hinweisen.
-- `kommentar-und-literatur-hinweis` — Weist auf Standardkommentare (Palandt, MueKomm, Staudinger usw.) hin.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 **Eskalation**
 

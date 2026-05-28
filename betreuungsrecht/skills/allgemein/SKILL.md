@@ -101,7 +101,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 | Skill | Wann vorschlagen? |
 |---|---|
-| `betreuer-als-erbe` | Beraet zur Frage, ob ein Berufsbetreuer testamentarisch bedacht werden darf und welche Folgen sich aus Paragraph 30 BtOG ergeben. Verweist auf Leitentscheidung OLG Nuernberg Beschluss 19.07.2023 Az. 15 Wx 988/23… |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 | `betreuer-registrierung` | Erklärt die Abgrenzung beruflicher / ehrenamtlicher (privater) Betreuer nach BtOG seit 01.01.2023 sowie den Weg zur Registrierung als beruflicher Betreuer nach Paragraphen 23 ff. BtOG und der… |
 | `betreuungsrecht-kaltstart-interview` | Kaltstart-Interview für das Betreuungsrecht-Plugin. Befüllt das Praxisprofil unter ~/.claude/plugins/config/claude-fuer-deutsches-recht/betreuungsrecht/CLAUDE.md mit Angaben zur Betreuerrolle (Berufsbetreuer /… |
 | `genehmigungspflicht-pruefung` | Prüft, ob ein konkretes Rechtsgeschäft, eine Maßnahme oder eine Entscheidung des Betreuers der Genehmigung des Betreuungsgerichts bedarf (§§ 1848 ff. BGB) — etwa Grundstücksverkauf, Erbausschlagung,… |
@@ -191,4 +191,4 @@ Dieses Plugin unterstuetzt Berufsbetreuer, Vereins- und Behoerdenbetreuer sowie 
 - BGB §§ 1814 ff. in der Fassung ab 01.01.2023 (BtOG-Reform)
 - BtOG in der Fassung ab 01.01.2023
 - VBVG in der aktuellen Fassung
-- OLG Nuernberg, Beschluss 19.07.2023, Az. 15 Wx 988/23 (§ 30 BtOG und Testierfreiheit)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

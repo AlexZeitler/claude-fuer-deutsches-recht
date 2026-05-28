@@ -16,9 +16,7 @@ description: "Statusabfrage Entfristungsklage: Anwalt oder Laie; bei Laie Warnun
 
 ## Warum anwaltliche Beratung besonders wichtig ist
 
-- BAG, Urt. v. 23.01.2019 – 7 AZR 733/16, NZA 2019, 1042 — Die 3-Wochen-Frist des § 17 TzBfG ist materiell-rechtliche Ausschlussfrist; nach Ablauf ist kein Angriff auf die Befristung mehr möglich, selbst bei evidentem Formfehler.
-- BAG, Urt. v. 16.04.2008 – 7 AZR 1048/06, NZA 2008, 999 — Schriftformfehler (elektronische Signatur) macht die Befristung automatisch unwirksam — aber nur wenn rechtzeitig Klage erhoben wird; ohne Klage tritt Fiktionswirkung ein.
-- BAG, Urt. v. 19.02.2008 – 9 AZR 70/07, NZA 2008, 1004 — Fehlende Rechtskenntnis des Arbeitnehmers ist kein Entschuldigungsgrund für nachträgliche Zulassung; die Frist läuft unabhängig von Kenntnis oder Unkenntnis.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zweck
 

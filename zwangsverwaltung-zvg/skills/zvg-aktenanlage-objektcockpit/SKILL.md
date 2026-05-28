@@ -61,19 +61,15 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 19.01.2006 - IX ZB 87/04, NZI 2006, 281 — Der Zwangsverwalter hat ab Besitzerlangung sämtliche Nutzungen einzuziehen; eine vollständige Aktenanlage mit Beteiligtenverzeichnis und Mieterliste ist unverzüglich zu erstellen und dem Vollstreckungsgericht mitzuteilen.
-- BGH, Beschl. v. 10.10.2013 - IX ZB 229/11, NZI 2014, 44 Rn. 8 — Die Pflichten des Zwangsverwalters umfassen die ordnungsgemäße Buchführung und Rechnungslegung; fehlende oder fehlerhafte Aktenanlage kann die Vergütung nach ZwVwV mindern.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Aktenanlage/Objektcockpit
 
 § 152 ZVG (Pflichten Zwangsverwalter) → § 153 ZVG (Nutzungen) → §§ 2-5 ZwVwV (Aufgaben Verwalter) → § 13 ZwVwV (Buchführung) → § 14 ZwVwV (Rechnungslegung) → § 154 ZVG (Gerichtliche Aufsicht) → § 159 ZVG (Aufhebung Zwangsverwaltung)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Stöber ZVG 22. Aufl., § 152 Rn. 20-45 (Pflichten Zwangsverwalter)
-- Böttcher ZVG 6. Aufl., § 153 Rn. 10-30 (Nutzungseinziehung und Verwalterpflichten)
-- Dassler/Schiffhauer/Hintzen/Engels ZVG 15. Aufl., § 152 Rn. 30-55 (Aktenführung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage Aktenanlage
 
 Kläre bei Übernahme:

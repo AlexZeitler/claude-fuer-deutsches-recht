@@ -60,10 +60,9 @@ Brezelmann Discount KG (Bad Mergentheim) hat "KLÖTZ-KETTE" in Klasse 25 beim DP
 
 - Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, §§ 32-40 (Anmeldeverfahren)
 - Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, Vor §§ 3-7 (Markenfähigkeit)
-- BeckOK MarkenR, Hrsg. Büscher, Stand 2024, § 32 MarkenG Rn. 1 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - EUIPO-Leitlinien zur Prüfung, Teil B: Untersuchung, Abschnitt 1 (Formvoraussetzungen)
-- BGH, Urt. v. 02.04.2009 — I ZR 78/06 (ATOZ / ATOZ II) — Klasseneinteilung und Ähnlichkeit
-- EuGH, Urt. v. 19.06.2012 — C-307/10 (IP Translator) — Klassenüberschriften dürfen nicht pauschal verwendet werden
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Templates
 
@@ -117,8 +116,8 @@ Bevor die Anmeldekaskade gestartet wird, kläre:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 12.11.2015 — I ZR 167/14 (Durchgerostetes Fahrzeug):** Maßgeblich für die Verwechslungsgefahr zwischen älteren und jüngeren Marken ist der Gesamteindruck; selbst gering unterscheidungskräftige ältere Marken können Schutz gegenüber jüngeren Anmeldungen beanspruchen, wenn die Ähnlichkeit der Zeichen und Waren hoch ist.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **EuGH, Urt. v. 19.06.2012 — C-307/10 (IP Translator):** Klassenüberschriften der Nizza-Klassifikation dürfen nicht pauschal für alle enthaltenen Waren/Dienstleistungen beansprucht werden; das Warenverzeichnis muss hinreichend klar und präzise sein. Übergangsfristenregelung für vor 2012 eingetragene Marken beachten.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **EuGH, Urt. v. 29.01.2020 — C-371/18 (Sky / SkyKick):** Ein zu unklares oder zu weitgefasstes Warenverzeichnis kann zwar nicht allein wegen Bösgläubigkeit nach Art. 59 I lit. b UMV angefochten werden, macht die Marke aber für Löschungsangriffe anfälliger. Präzise Warenverzeichnisse sind daher strategisch überlegen.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

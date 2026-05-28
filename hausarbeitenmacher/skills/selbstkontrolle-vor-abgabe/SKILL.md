@@ -13,9 +13,7 @@ description: "Student prüft Hausarbeit vor Abgabe auf inhaltliche und formale V
 4. Sind alle Formalia (Inhaltsverzeichnis, Literaturverzeichnis, Zitierweise, Seitenzahlen) geprueft?
 
 ## Aktuelle Rechtsprechung und Methodik
-- BGH, Urt. v. 14.12.2006 - VII ZR 166/05, NJW 2007, 819 — Sorgfaeltiger Endcheck einer juristischen Arbeit entspricht dem Sorgfaltsmassstab des § 276 BGB; Fehler bei erkennbarer Pruefungsmoeglichkeit sind vorwerfbar.
-- BGH, Urt. v. 15.07.2014 - VI ZR 313/13, NJW 2014, 3297 — Selbstkontrolle vor Herausgabe von Dokumenten ist anwaltliche Sorgfaltspflicht; im Studium zu ueben.
-- BVerfG, Beschl. v. 12.09.2006 - 2 BvR 2115/01, NJW 2007, 207 — Sorgfaeltige Begruendung als Qualitaetsmerkmal: Endfassung muss methodisch konsistent sein.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 276 BGB — Verschulden: Massstab fuer erforderliche Sorgfalt (Analogie: Hausarbeits-Endcheck)
@@ -23,10 +21,9 @@ description: "Student prüft Hausarbeit vor Abgabe auf inhaltliche und formale V
 - §§ 133, 157 BGB — Auslegungsgrundsaetze: Endcheck prueft Konsistenz der Auslegungsergebnisse
 - § 17 JAG NRW analog — Qualitaetsstandards fuer schriftliche Pruefungsleistungen
 
-## Kommentarliteratur
-- Larenz/Wolf Allgemeiner Teil BGB, 9. Aufl. 2004, § 2 Rn. 60-80 (Qualitaetssicherung in der Rechtsanwendung)
-- Bydlinski, Juristische Methodenlehre, 2. Aufl. 1991, § 5 (Sorgfalt und Endkontrolle juristischer Texte)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Bevor Du Deine Hausarbeit abgibst — eine letzte, sorgfältige Selbst-Kontrolle. Sie nimmt einen Tag in Anspruch, aber sie kann Dir eine ganze Note retten.

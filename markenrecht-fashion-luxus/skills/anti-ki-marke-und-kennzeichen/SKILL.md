@@ -71,10 +71,10 @@ Newcomer-Marke bewirbt sich mit "by Human & AI combined craftsmanship" für Mode
 ## Belege & Kommentare
 
 - EU AI Act VO (EU) 2024/1689, ABl. L 2024/1689 v. 12.07.2024 (insb. Art. 50: Transparenzpflichten)
-- BeckOK UrhR, § 2 UrhG Rn. 30 ff. (KI-generierte Werke; kein Urheberrechtsschutz)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, § 97 Rn. 1 ff. (Kollektivmarken)
 - EUIPO-Leitlinien zur Unionsgewährleistungsmarke, Art. 83 UMV (Certification Marks)
-- BGH, Urt. v. 28.03.2019 — I ZR 132/17 (Knochenschrauben — Kollektivmarke) — Nutzungsbedingungen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Europäische Kommission, Leitlinien EU AI Act Art. 50 (KI-Transparenzpflichten, Stand 2025)
 
 ## Templates
@@ -129,8 +129,8 @@ Bevor das Anti-KI-Label entwickelt wird, kläre:
 
 ## Aktuelle Rechtsprechung
 
-> **EuGH, Urt. v. 16.09.2004 — C-329/02 P (SAT.1):** Nur Marken, die hinreichend von der Norm oder Branchenüblichkeit der betroffenen Waren abweichen, besitzen Unterscheidungskraft; ein rein anpreisendes "Human Made"-Label ohne Besonderheit des Bildzeichens erfuellt diese Anforderung nur mit Nachweis von Verkehrsdurchsetzung.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Urt. v. 28.03.2019 — I ZR 132/17 (Knochenschrauben — Kollektivmarke):** Die Nutzungsordnung einer Kollektivmarke muss echte Qualitaets- und Herkunftskriterien enthalten; eine rein formelle Mitgliedschaft im Verband ohne inhaltliche Pruefung genuegt nicht. Konsequenz fuer Anti-KI-Kollektivmarken: Unabhaengige Pruefmechanismen einrichten.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **OLG Frankfurt, Urt. v. 14.11.2019 — 6 U 183/18 (Greenwashing Werbebehauptung):** Werbliche Aussagen zur nachhaltigen oder authentischen Herstellung sind greenwashing-faehig nach § 5 UWG, wenn keine belastbaren Nachweise vorliegen; die gleiche Wertung gilt analog fuer "100% Human Made"-Claims ohne Verifikationssystem.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

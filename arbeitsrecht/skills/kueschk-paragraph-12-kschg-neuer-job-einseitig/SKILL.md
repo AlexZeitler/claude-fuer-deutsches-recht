@@ -62,16 +62,11 @@ Urteil ergangen, kein neuer Job? → Weiterbeschaeftigungsantrag oder Vergleich
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 24.11.2011 – 2 AZR 429/10, NZA 2012, 610 — § 12 KSchG gibt dem Arbeitnehmer ein einseitiges Gestaltungsrecht; die Erklärung braucht keinen bestimmten Inhalt, muss aber klar zum Ausdruck bringen, dass das alte Arbeitsverhältnis nicht fortgesetzt wird.
-- BAG, Urt. v. 09.02.2011 – 7 AZR 279/09, NZA 2011, 847 — Die Wochenfrist des § 12 Satz 2 KSchG ist eine gesetzliche Ausschlussfrist; ihr Ablauf führt zur Verwirkung des Gestaltungsrechts ohne Möglichkeit der Wiedereinsetzung.
-- BAG, Urt. v. 25.10.2007 – 6 AZR 693/06, NZA 2008, 226 — Die Rechtsfolge des § 12 KSchG tritt nur ein, wenn das neue Arbeitsverhältnis tatsächlich aufgenommen wurde; eine Annahme eines Angebots ohne Arbeitsaufnahme genügt nicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Kiel, 24. Aufl. 2024, § 12 KSchG Rn. 1-10 — (Gestaltungsrecht, Frist, Rechtsfolge)
-- KR/Spilger, 13. Aufl. 2022, § 12 KSchG Rn. 1 ff. — (Abgrenzung zu § 9, Erklärungsinhalt)
-- APS/Biebl, 6. Aufl. 2022, § 12 KSchG Rn. 5 ff. — (Annahmeverzug, Anrechnung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Abgrenzung zu § 9 KSchG
 
 | | § 9 KSchG | § 12 KSchG |

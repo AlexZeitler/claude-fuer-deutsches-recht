@@ -16,10 +16,7 @@ description: 'Verfolgt, wie sich ein Vertrag über Basisvertrag und alle Nachtr�
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 07.02.2002 - I ZR 304/99, NJW 2002, 2710 — Auslegung von Vertragsänderungen: Nachträge sind nach dem Willen der Parteien im Zeitpunkt ihrer Vereinbarung auszulegen; spätere Entwicklungen beeinflussen die Auslegung des früheren Textes nicht rückwirkend.
-- BGH, Urt. v. 25.04.2018 - VIII ZR 176/17, NJW 2018, 2113 — Stille Änderungen durch mehrfache Verlängerungen: Jede stillschweigende Verlängerung übernimmt den ursprünglichen Klauselinhalt, es sei denn, die Parteien haben etwas anderes vereinbart.
-- BGH, Urt. v. 22.02.2018 - VII ZR 46/17, NJW 2018, 1706 — Spezialklausel geht Generalklausel vor; Nachtrag geht Ursprungsvertrag vor (lex posterior); ausdrücklicher Vorrangvorbehalt im Basisvertrag ändert Reihenfolge.
-- BGH, Urt. v. 19.09.2018 - XII ZR 69/17, NJW 2019, 51 — Schriftformheilung im Gewerbemietrecht: Nachtrag muss ausdrücklichen Bezug auf Hauptvertrag enthalten, sonst greift § 550 BGB (Schriftformerfordernis).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -29,12 +26,9 @@ description: 'Verfolgt, wie sich ein Vertrag über Basisvertrag und alle Nachtr�
 - § 550 BGB — Schriftformerfordernis bei langfristiger Miete (mehr als 1 Jahr)
 - § 154 BGB — fehlendes Einvernehmen über einzelne Punkte
 
-## Kommentarliteratur
+## Quellenregel
 
-- Grüneberg, BGB, 83. Aufl. 2024, § 157 Rn. 1-20 (Auslegung, lex posterior)
-- MüKo-BGB/Busche, 9. Aufl. 2022, § 133 Rn. 10-30 (Auslegung Vertragsänderungen)
-- Schmidt-Futterer, Mietrecht, 15. Aufl. 2022, § 550 Rn. 20-40 (Schriftformheilung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Verträge sammeln über die Zeit Nachträge an. Spätestens beim dritten Nachtrag erinnert sich niemand mehr, was im Ursprungsvertrag stand oder welche Fassung einer Klausel gilt. Dieser Skill liest den Basisvertrag und alle Nachträge in chronologischer Reihenfolge und erstellt entweder eine Gesamtübersicht aller Änderungen oder verfolgt eine bestimmte Klausel durch jede Fassung bis zur aktuell geltenden Regelung.
@@ -219,11 +213,10 @@ Relevante Normen:
 - § 311 BGB – Vertragsänderungen; Schriftformerfordernis prüfen (§ 126 BGB)
 - §§ 133, 157 BGB – Auslegung; bei Widersprüchen zwischen Basisvertrag und Nachtrag gilt der jüngere Nachtrag (lex posterior-Prinzip), sofern kein expliziter Vorrang)
 - § 154 BGB – Fehlen der Einigung über einzelne Punkte
-- BGH, Urt. v. 07.02.2002 – I ZR 304/99, NJW 2002, 2710 – Auslegung von Vertragsänderungen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Kommentare:
-- Busche, in: MüKoBGB, 9. Aufl. 2021, § 133 Rn. 10 ff. (Auslegung)
-- Ellenberger, in: Grüneberg, BGB, 83. Aufl. 2024, § 157 Rn. 3 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Beispiel
 

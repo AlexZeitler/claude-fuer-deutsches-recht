@@ -13,15 +13,11 @@ description: "Mandant hat Sozialleistungsbescheid erhalten und Anwalt formuliert
 5. Folgeantrag oder Widerspruch? Einige Leistungen müssen neu beantragt werden.
 
 ## Aktuelle Rechtsprechung
-- BSG, Urt. v. 27.10.2020 - B 14 AS 31/19 R, SozR 4-4200 § 11 Nr. 91 Rn. 18 — Bekanntgabe-Fiktion § 37 SGB X: Bescheid gilt am dritten Tag nach Aufgabe zur Post als bekanntgegeben (n.F.: vier Tage); Widerspruchsfrist beginnt ab diesem Tag; Behörde trägt Beweislast für rechtzeitige Aufgabe.
-- BSG, Urt. v. 26.09.2019 - B 9 SB 1/18 R, SozR 4-3250 § 2 Nr. 22 Rn. 14 — Fehlende Anhörung (§ 24 SGB X) führt zur Aufhebbarkeit des Bescheids; Heilung im Widerspruchsverfahren möglich (§ 41 Abs. 1 Nr. 3 SGB X), wenn Behörde im Widerspruchsbescheid auf Vortrag eingeht.
-- BSG, Urt. v. 17.08.2017 - B 4 AS 11/17 R, SozR 4-4200 § 22 Nr. 103 Rn. 16 — Überprüfungsantrag § 44 SGB X: Rückwirkung 4 Jahre ab Antragsjahr; unrichtige Anwendung des Rechts reicht; keine Verschuldensfrage des Mandanten.
-- BSG, Urt. v. 29.11.2012 - B 14 AS 6/12 R, SozR 4-4200 § 37 Nr. 5 Rn. 12 — Kostentragung im Widerspruchsverfahren (§ 63 SGB X): Erfolg des Widerspruchs verpflichtet Behörde zur vollen Erstattung notwendiger Aufwendungen; RA-Gebühren (VV RVG Nr. 2400) erfasst.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Hauck/Noftz SGB X §§ 24, 35, 37, 44 (Verfahrensrechte und Bestandskraft)
-- Kasseler Kommentar SGG §§ 84-87 (Widerspruchs- und Klagefristen)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Kaltstart-Rückfragen
 
 1. Welche Behörde hat den Bescheid erlassen (Jobcenter, Deutsche Rentenversicherung, Krankenkasse, Versorgungsamt, Pflegekasse, Sozialamt)?
@@ -65,10 +61,10 @@ Das Postmodernisierungsgesetz (PostModG) hat die Bekanntgabefiktion von drei auf
 
 | Aktenzeichen | Gericht/Datum | Leitsatz |
 |---|---|---|
-| B 8 SO 33/07 R | BSG, 28.10.2008 | Anforderungen an Begründung sozialrechtlicher Bescheide § 35 SGB X |
-| B 14 AS 30/13 R | BSG, 04.06.2014 | Mietobergrenzen SGB II; Schlüssiges Konzept |
-| 1 BvL 7/16 | BVerfG, 05.11.2019, BVerfGE 152, 68 | Sanktionen SGB II verfassungskonform nur bei Verschulden |
-| B 4 AS 29/10 R | BSG, 18.01.2011 | Widerspruchsfrist; Eingang bei Behörde maßgebend |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 
 ---
 
@@ -350,7 +346,7 @@ Bei Bescheiden über Aufhebung, Rückforderung oder Sanktion: Widerspruch hat ke
 
 ## Quellen
 
-Stand: 05/2026. SGG §§ 78, 84, 86a, 86b, 87, 88, 183. SGB X §§ 24, 25, 35, 37, 41, 44, 45, 48. § 37 Abs. 2 SGB X n.F. (PostModG, Vier-Tage-Fiktion ab 01.01.2025). BSG B 8 SO 33/07 R (28.10.2008). BSG B 14 AS 30/13 R (04.06.2014). BVerfG 1 BvL 7/16 (05.11.2019). BSG B 4 AS 29/10 R (18.01.2011).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 

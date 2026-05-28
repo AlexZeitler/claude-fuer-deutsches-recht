@@ -48,8 +48,7 @@ Der Skill gibt aus: pro Themenbereich eine Tabelle mit den enthaltenen Saetzen, 
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Zeugnisinhalt muss den gesetzlichen Anforderungen genügen; Widersprüche im Leistungsbild können Berichtigungsbedarf begründen.
-- **BAG, Urt. v. 27.04.2021 — 9 AZR 262/20** — Das qualifizierte Zeugnis verlangt eine individuelle verbale Beurteilung; schematische Bewertungen ersetzen das Gesamtbild nicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage — vor der Drift-Prüfung
 

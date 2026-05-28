@@ -267,9 +267,7 @@ Verbindliche Zitierweise gemäß `../references/zitierweise.md`.
   erwähnen. `[Modellwissen – prüfen]`
 
 ## Aktuelle Rechtsprechung (v14.2)
-- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Automatisiertes Scoring-System als Hochrisiko-KI nach Anhang III KI-VO — Inventar muss Risikoklasse je System korrekt erfassen.
-- EuGH, Urt. v. 27.02.2025 - C-203/22 (Dun & Bradstreet Austria), NJW 2025, 1471: Art. 15 Abs. 1 lit. h DSGVO verlangt aussagekraeftige Informationen zur involvierten Logik automatisierter Bonitaetsbeurteilungen; Geschaeftsgeheimnisse sind im Einzelfall zu schuetzen.
-- BVerwG, Urt. v. 04.04.2019 — 2 C 4/18, NVwZ 2019, 1283 Rn. 22: Dokumentation algorithmischer Verwaltungsentscheidungen — Inventarisierungspflicht fuer oeffentliche Stellen aus Transparenzgebot.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation (Nr. 1-8)
@@ -278,10 +276,9 @@ Verbindliche Zitierweise gemäß `../references/zitierweise.md`.
 - Art. 26 KI-VO — Betreiberpflichten (menschliche Aufsicht, Protokollierung)
 - Art. 99 KI-VO — Bussgeld bis 35 Mio. EUR / 7 % weltweiter Jahresumsatz
 
-## Kommentarliteratur
-- Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 6 Rn. 3 ff.: Hochrisiko-Klassifikation im KI-Inventar.
-- Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 35 Rn. 5: DSFA-Ausloesung bei Hochrisiko-Systemen im Inventar.
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Ist das Inventar bereits vorhanden oder wird es neu angelegt?
 2. Welche Systeme sind bereits produktiv — und wurden diese nach KI-VO klassifiziert?

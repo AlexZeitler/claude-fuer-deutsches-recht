@@ -31,20 +31,17 @@ Wenn eine dieser Ebenen unklar bleibt, verwende zuerst `rechtsgrund-und-behalten
 
 ## Rechtsprechung
 
-BGH, Urt. v. 10.02.1994 – III ZR 45/93, NJW 1994, 1461 — § 812 Abs. 1 S. 1 Alt. 1 BGB setzt voraus, dass der Empfänger etwas durch die Leistung des Gläubigers erlangt hat; maßgeblich ist, ob ein vermögensmäßig messbarer Vorteil zugeflossen ist.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 08.11.1995 – XII ZR 192/93, NJW 1996, 250 — Fehlt der Rechtsgrund von Anfang an, entsteht der Kondiktionsanspruch sofort mit der Leistung; ist er nachträglich weggefallen (condictio ob causam finitam, § 812 Abs. 1 S. 2 Alt. 1 BGB), entsteht er mit dem Wegfall.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 29.09.1999 – XII ZR 313/98, NJW 2000, 203 — Der Entreicherungseinwand nach § 818 Abs. 3 BGB schützt den gutgläubigen Empfänger; er entfällt nach § 819 BGB bei Bösgläubigkeit und nach § 818 Abs. 4 BGB bei Rechtshängigkeit.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 25.03.2015 – IV ZR 414/13, NJW 2015, 1540 — Die Beweislast für das Fehlen des Rechtsgrundes trägt der Bereicherungsgläubiger; er muss darlegen, dass kein wirksamer Rechtsgrund bestanden hat oder dieser weggefallen ist.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Lorenz in: Staudinger, BGB, Neubearbeitung 2023, § 812 Rn. 65–130 (Tatbestandsmerkmale, Rechtsgrund, Beweislast).
-Sprau in: Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 812 Rn. 1–38 (Überblick, Leistungsbegriff, Rechtsfolgen).
-Schwab in: MüKoBGB, 9. Aufl. 2024, § 812 Rn. 130–200 (Rechtsgrund, Ausschlussgründe, Entreicherung).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Obersatz
 
 Der Schuldner des Bereicherungsanspruchs hat etwas ohne rechtlichen Grund durch die Leistung des Gläubigers erlangt und ist daher zur Herausgabe verpflichtet (§ 812 Abs. 1 S. 1 Alt. 1 BGB).

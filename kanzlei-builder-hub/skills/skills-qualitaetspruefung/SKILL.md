@@ -40,13 +40,12 @@ Liegt nur die SKILL.md vor, einmal fragen: "Haben Sie die zugehörigen Befehle, 
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 13.03.2008 – IX ZR 136/07, NJW 2008, 2108 Rn. 15 — Anwalt haftet für fehlerhafte Rechtsauskunft, die ohne hinreichende Prüfung der rechtlichen Grundlagen erteilt wurde; gleiches gilt für KI-generierte Einschätzungen, die ohne Plausibilitätsprüfung übernommen werden.
-- BGH, Urt. v. 22.09.2016 – IX ZR 235/15, NJW 2016, 3437 Rn. 18 — Organisationspflichten in der Kanzlei schließen die Pflicht zur Qualitätskontrolle von Arbeitsergebnissen ein, unabhängig davon, ob diese von Mitarbeitern oder technischen Systemen erstellt wurden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentar- und Aufsatzbelege
+### Quellenregel
 
 - Kleine-Cosack, in: Kleine-Cosack, BRAO, 9. Aufl. 2023, § 43a Rn. 45 — Qualitätssicherungspflichten beim Einsatz technischer Systeme in der Mandatsbearbeitung.
-- Hähnchen, NJW 2024, 1137 (1141) — Haftungsrechtliche Anforderungen an die Plausibilitätsprüfung KI-generierter Rechtsgutachten und Kanzleitools.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ---
 
@@ -277,10 +276,9 @@ Bei der Ausführung dieses Skills sind folgende Quellen als anwendbares Recht zu
 - Art. 26 AI Act (Deployer-Pflichten)
 - Art. 32 DSGVO (technisch-organisatorische Maßnahmen)
 - RDG (Abgrenzung erlaubter KI-Rechtsdienstleistung)
-- BGH, Urt. v. 13.03.2008 – IX ZR 136/07, NJW 2008, 2108
-- BGH, Urt. v. 22.09.2016 – IX ZR 235/15, NJW 2016, 3437
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Kleine-Cosack, in: Kleine-Cosack, BRAO, 9. Aufl. 2023, § 43a Rn. 45
-- Henssler/Prütting, in: Henssler/Prütting, BRAO, 5. Aufl. 2023, § 43a Rn. 55
-- Hähnchen, NJW 2024, 1137 (1141)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

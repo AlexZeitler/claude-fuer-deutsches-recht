@@ -49,9 +49,9 @@ Erzeugung eines strukturierten Tiefenbriefings zu einem einzelnen Mandat auf Bas
 
 Verbindlich: `../references/zitierweise.md`.
 
-- Greger, in: Zöller, ZPO, 35. Aufl. 2024, § 278 Rn. 1 ff. (Güteverhandlung, Vergleich: Pflicht des Gerichts zur Vergleichsförderung in jeder Lage des Verfahrens).
-- BGH, Urt. v. 22.11.2023 – IV ZR 197/22, NJW 2024, 348 Rn. 12 (Änderung der Anspruchsgrundlage nach § 264 ZPO: keine Klageänderung).
-- Schulze, in: BeckOK ZPO, 52. Ed. (Stand 01.03.2024), § 264 Rn. 8 ff. (Klageänderung, Streitgegenstand).
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Ausgabeformat
 

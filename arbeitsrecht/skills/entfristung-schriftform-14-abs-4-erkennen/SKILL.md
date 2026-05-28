@@ -24,17 +24,11 @@ description: "KERNSKILL: Schriftform nach § 14 Abs. 4 TzBfG für Befristungsabr
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 16.04.2008 – 7 AZR 1048/06, NZA 2008, 999 — Das Schriftformgebot des § 14 Abs. 4 TzBfG ist eine konstitutive Wirksamkeitsvoraussetzung der Befristungsabrede; eine bloß digitale Abbildung oder E-Mail wahrt die Form nicht; die formwirksame Unterzeichnung muss vor Arbeitsaufnahme erfolgen.
-- BAG, Urt. v. 01.12.2004 – 7 AZR 198/04, NZA 2005, 337 — Das Schriftformgebot erfordert Einheitlichkeit der Urkunde: Beide Parteien müssen dieselbe körperliche Urkunde unterzeichnen; eine getrennte Unterzeichnung zweier gleichlautender Dokumente ohne erkennbaren Verbindungswillen genügt nicht.
-- BAG, Urt. v. 14.12.2016 – 7 AZR 797/14, NZA 2017, 704 — Anforderungen an die Schriftform und Auslegung der Befristungsabrede; Urkundeninhalt und Formbezug genau prüfen.
-- BAG, Urt. v. 26.07.2006 – 7 AZR 514/05, NZA 2006, 1268 — Eine Befristungsabrede ist formunwirksam, wenn sie zwar schriftlich vereinbart wurde, der Arbeitnehmer aber erst nach Arbeitsaufnahme unterschrieben hat; der Formzweck (Klarheit und Beweissicherung) wird nur gewährleistet, wenn die Unterschrift vor Arbeitsbeginn vorliegt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Müller-Glöge, 25. Aufl. 2025, § 14 TzBfG Rn. 80 ff. (Schriftformerfordernis im Detail)
-- Schaub Arbeitsrechts-Handbuch, 20. Aufl. 2023, § 38 Rn. 40 ff. (Schriftform der Befristungsabrede)
-- HWK/Schmalenberg, 11. Aufl. 2024, § 14 TzBfG Rn. 85 ff.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Entscheidungsbaum: Schriftformmangel erkennen
 
 ```

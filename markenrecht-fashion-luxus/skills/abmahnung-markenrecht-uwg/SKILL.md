@@ -18,7 +18,7 @@ Eine rechtssichere Abmahnung spart Gerichtskosten und schafft vollstreckbare Unt
 - **§ 13 UWG n.F. (seit 12.2021):** Abmahnkosten-Regulation im UWG — beachte: im reinen Markenrecht gilt das UWG-Abmahnkostenrecht nicht unmittelbar, ist aber Maßstab
 - **Hamburger Brauch:** Richterrechtliche Vertragsstrafe-Klausel bei unklarer Verletzungsart — Verletzer unterwirft sich einer Vertragsstrafe "nach billigem Ermessen der Gläubigerin, im Streitfall durch Gericht überprüfbar"
 - **Neue Hamburger Formel:** Alternativ: Feste Vertragsstrafe ab EUR 5.000 je Verletzungshandlung (planungssicherer, aber weniger flexibel)
-- **BGH I ZR 35/19:** Zur Bemessung der Vertragsstrafe — EUR 3.000 bei Erstverstoß im Internet nicht zu niedrig; EUR 5.100 bei Wiederholungsgefahr zulässig
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 8 IV UWG:** Missbrauchsverbot bei UWG-Abmahnungen (beschränkt auf UWG-Ansprüche)
 - **§ 12 UWG:** Prozessuale Absicherung (Unterlassungsklage nach erfolgloser Abmahnung)
 
@@ -66,10 +66,8 @@ Brezelmann hat bereits eine Unterlassungserklärung abgegeben (Hamburger Brauch)
 
 - Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, § 14 Rn. 1 ff. (Verletzungsrechtsfolgen)
 - Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, § 14 Rn. 400 ff.
-- BeckOK UWG, § 12 Rn. 50 ff. (Abmahnung im Wettbewerbsrecht)
-- BGH, Urt. v. 20.03.1997 — I ZR 246/94 (TURBO-TANKSTELLE) — Hamburger Brauch
-- BGH, Urt. v. 28.09.2011 — I ZR 145/10 (Vorweihnachtszeit) — Vertragsstrafe-Bemessung
-- BGH, Urt. v. 17.07.2008 — I ZR 168/05 (EROS) — Erstbegehungsgefahr
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Templates
 
@@ -126,8 +124,8 @@ Bevor die Abmahnung abgeschickt wird, kläre:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 30.07.2020 — I ZR 119/19 (Farbmarke Rot):** Die Dringlichkeitsvermutung bei Markenverletzungen entfällt, wenn der Abmahnende nach Kenntniserlangung mehr als vier Wochen zuwartet, bevor er gerichtliche Schritte einleitet.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **EuGH, Urt. v. 25.07.2018 — C-129/17 (Mitsubishi / Duma):** Das Aufbringen einer anderen Marke auf eine markenrechtlich bereits geschützte Ware unter Entfernung der Originalmarke ist eine eigenständige markenmäßige Benutzungshandlung nach Art. 9 UMV.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Urt. v. 11.04.2019 — I ZR 108/18 (tesa Tack):** Die dreifache Schadensberechnungsmethode steht gleichwertig nebeneinander; der Rechteinhaber kann die günstigste Methode wählen, ohne sie bei Klageerhebung endgültig festzulegen.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

@@ -122,8 +122,8 @@ Bevor der Problem-Solution-Approach angewendet wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 26.09.1996 — X ZR 72/94 (Elektrische Steckverbindung):** Die erfinderische Taetigkeit fehlt, wenn der Fachmann ausgehend vom Stand der Technik durch naheliegende Kombination bekannter Massnahmen zur beanspruchten Loesung gelangt waere; der massgebliche Zeitpunkt ist der Prioritaetstag, nicht der Anmeldezeitpunkt.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **EPA, Technische Beschwerdekammer, T 21/81 (Unerwarteter technischer Effekt):** Ein unerwarteter technischer Effekt, der ueber das aus dem Stand der Technik Vorhersehbare hinausgeht, ist ein Indiz fuer erfinderische Taetigkeit; er muss im Anspruch oder in der Beschreibung hinreichend offenbart sein.
 
-> **BGH, Urt. v. 30.04.2009 — Xa ZR 92/05 (Druckmaschine):** Kann der Fachmann ausgehend vom nächstliegenden Stand der Technik durch einfache Kombination mehrerer bekannter Massnahmen ohne erfinderisches Zutun zur Loesung gelangen, fehlt die erfinderische Taetigkeit; die Tatsache, dass die Kombination bisher nicht bekannt war, genuegt allein nicht.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

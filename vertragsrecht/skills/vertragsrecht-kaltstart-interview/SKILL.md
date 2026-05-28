@@ -57,22 +57,18 @@ Lädt beim ersten Einsatz des Plugins oder wenn `--redo` übergeben wird.
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 19.11.2019 – XI ZR 9/18, NJW 2020, 461 Rn. 22 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Transparenzgebot bei Zinsklauseln in AGB)
-- BGH, Urt. v. 25.10.2016 – VI ZR 516/15, NJW 2017, 1104 Rn. 14
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Haftungsbeschränkung in AGB; Inhaltskontrolle § 307 BGB)
-- BGH, Urt. v. 29.06.2011 – VIII ZR 212/08, BGHZ 190, 115 Rn. 20 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Einbeziehung von AGB im unternehmerischen Verkehr; § 305 Abs. 2 BGB)
-- BGH, Urt. v. 09.04.2014 – VIII ZR 404/12, NJW 2014, 2100 Rn. 30
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Überraschungsklausel § 305c BGB; Leitentscheidung zur Klauselkontrolle)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 305 Rn. 3 (Einbeziehungsvoraussetzungen AGB)
-- Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 307 Rn. 1 (Inhaltskontrolle, Transparenzgebot)
-- Wolf/Lindacher/Pfeiffer, AGB-Recht, 7. Aufl. 2020, § 307 BGB Rn. 100 (Generalklausel; Doppelautoren-Kommentar)
-- Coester-Waltjen, in: Staudinger, BGB, Neubearbeitung 2022, § 307 Rn. 200
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Schritt 0 — Vorabprüfung Konfigurationsstatus
@@ -411,8 +407,8 @@ Jede Vertragsanalyse und jedes Playbook-Ergebnis muss Nachweise führen aus:
 
 - Gesetzestexten (BGB, UWG, HGB, DSGVO/BDSG) mit konkretem Paragraphen
 - BGH-Rechtsprechung in korrekter Zitierweise
-  (z. B. BGH, Urt. v. 25.10.2016 – VI ZR 516/15, NJW 2017, 1104)
-- Kommentarliteratur im Bearbeiterstil "Bearbeiter, in: Werk"
-  (z. B. Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 307 Rn. 5)
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+  Ist eine Literaturquelle erforderlich, nur als "vom Nutzer bereitgestellte/lizenziert live geprüfte Quelle" mit exakter Fundstelle kennzeichnen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

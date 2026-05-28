@@ -19,18 +19,15 @@ description: "Rückforderung trotz Erfüllung einer einredebehafteten Verbindlic
 
 ## Rechtsprechung
 
-BGH, Urt. v. 14.12.1955 – IV ZR 174/55, NJW 1956, 417 — § 813 Abs. 1 S. 2 BGB schließt die Rückforderung aus, wenn der Leistende die Einrede kannte; unwissentliche Leistung auf eine verjährte Forderung ist dagegen kondizierbar.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 18.04.2002 – III ZR 199/01, NJW 2002, 2091 — Nur dauernde Einreden — solche, die die Verbindlichkeit auf Dauer entkräften — lösen § 813 BGB aus; bloße Stundungsabreden oder die Einrede des nicht fälligen Anspruchs sind keine dauernden Einreden.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 07.01.2014 – XI ZR 316/13, NJW 2014, 1230 — § 813 BGB ist neben § 814 BGB anwendbar, soweit der Leistende zwar die Einrede nicht kannte, aber wusste, dass er nicht schuldete; beide Normen schließen sich bei Tatbestandskonkurrenz nicht gegenseitig aus.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Lorenz in: Staudinger, BGB, Neubearbeitung 2023, § 813 Rn. 1–35 (dauernde Einreden, Kenntnis, § 813 Abs. 2 BGB).
-Sprau in: Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 813 Rn. 1–10.
-Schwab in: MüKoBGB, 9. Aufl. 2024, § 813 Rn. 1–30 (Abgrenzung dauernde/vorübergehende Einrede, Verjährung).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 § 813 BGB ist ein Sonderfall der Leistungskondiktion. Er erlaubt die Rückforderung einer Leistung, die zur Erfüllung einer Verbindlichkeit erbracht wurde, gegen die dem Leistenden eine dauernde Einrede zustand.

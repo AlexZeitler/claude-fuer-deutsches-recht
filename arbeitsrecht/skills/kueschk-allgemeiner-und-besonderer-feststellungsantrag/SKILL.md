@@ -15,16 +15,11 @@ description: "Erklärung des Unterschieds zwischen dem punktuellen Feststellungs
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 06.07.2006 – 2 AZR 215/05, NZA 2007, 161 — Der allgemeine Feststellungsantrag nach § 256 ZPO ist in der Kündigungsschutzklage zulässig und erforderlich, um gegen spätere Beendigungsversuche des Arbeitgebers (zweite Kündigung, Befristung) gesichert zu sein; er hat keine eigene Klagefrist.
-- BAG, Urt. v. 27.01.2011 – 2 AZR 826/09, NZA 2011, 798 — Der allgemeine Feststellungsantrag muss hinreichend bestimmt sein; er muss auf ein konkretes Datum bezogen werden, nach dem das Arbeitsverhältnis fortbestehen soll.
-- BAG, Urt. v. 05.12.2002 – 2 AZR 571/01, NZA 2003, 489 — Wird nur der punktuelle Antrag nach § 4 KSchG gestellt, deckt das Urteil nur diese eine konkrete Kündigung ab; eine zweite Kündigung des Arbeitgebers während des Verfahrens erfordert einen neuen Antrag und eine neue Klagefrist.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Spinner, 25. Aufl. 2025, § 4 KSchG Rn. 1 ff. (Klagefrist und Klageziel)
-- Schaub Arbeitsrechts-Handbuch, 20. Aufl. 2023, § 132 Rn. 30 ff. (Klageanträge in der KüSch-Klage)
-- HWK/Quecke, 11. Aufl. 2024, § 4 KSchG Rn. 1 ff.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Im Kündigungsschutzprozess gibt es zwei unterschiedliche Feststellungsanträge, die in ihrer Funktion und Reichweite grundlegend verschieden sind. Dieser Skill erklärt den Unterschied und empfiehlt, beide Anträge zu stellen.

@@ -32,18 +32,11 @@ Ohne diese Übergabe verlässt das Fallwissen die Beratungsstelle mit den Studie
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 21.06.2012 – IX ZR 32/10, NJW 2012, 2435 Rn. 14 — Handaktenpflicht des Rechtsanwalts; Inhalt und Aufbewahrung; sinngemäß für Klinikakten.
-- BGH, Urt. v. 15.04.2010 – IX ZR 189/09, NJW 2010, 2050 Rn. 8 — Verschwiegenheitspflicht bleibt auch nach Mandatsende bestehen; Übergabenachrichten an Dritte außerhalb der Kanzlei sind zu unterlassen.
-- BGH, Urt. v. 26.11.2015 – IX ZR 144/14, NJW 2016, 954 Rn. 18 — Kontinuitätspflicht bei Anwaltsübergaben; der übernehmende Anwalt muss vollständig informiert werden; Parallele für Studierende in der Beratungsstelle.
-- BVerfG, Beschl. v. 12.04.2005 – 2 BvR 1027/02, NJW 2005, 1917 — Beschlagnahmeschutz anwaltlicher Unterlagen; Grundlage für Vertraulichkeit aller Klinikakten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Kleine-Cosack, BRAO, 8. Aufl. 2022, § 43a Rn. 15 ff. — Verschwiegenheitspflicht; Umfang, Ausnahmen, Weitergabe an Dritte.
-- Deckenbrock/Henssler, RDG, 5. Aufl. 2021, § 6 Rn. 35 ff. — Dokumentations- und Übergabepflichten in der Rechtsberatungsstelle.
-- Gola, DSGVO, 3. Aufl. 2022, Art. 5 Rn. 25 ff. — Vertraulichkeit und Integrität; technische und organisatorische Maßnahmen bei der Datenweitergabe.
-- Zöller/Greger, ZPO, 35. Aufl. 2024, § 85 Rn. 8 — Anwaltswechsel und Kontinuität der Verfahrensführung; Parallele zur studentischen Fallübergabe.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Schritt 1: Fälle und Zuständigkeiten identifizieren

@@ -13,10 +13,7 @@ description: "Handelsregisterabruf über offizielle Quellen für Unternehmenspr�
 4. Ist eine Gesellschafterliste (GmbH) oder Prokura-Eintragung relevant?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 17.01.2012 - II ZR 197/10, NJW 2012, 1570 — Registerpublizitaet nach § 15 HGB: Eintragungen wirken fuer und gegen jeden; fehlende Kenntnisnahme schutzt nicht bei Vertragsschluss.
-- BGH, Urt. v. 14.02.2012 - II ZR 268/10, NJW 2012, 2180 — Vertretungsmacht: bei Zweifeln an der Geschaeftsfuehrerbefugnis ist Handelsregisterauszug als Nachweis zu verlangen.
-- BGH, Urt. v. 26.06.2018 - II ZR 92/17, NJW 2018, 3243 — Gesellschafterliste als Nachweis der Mitgliedschaft: massgebend ist die zum Zeitpunkt des Handelns im Register hinterlegte Liste.
-- OLG Frankfurt, Urt. v. 25.01.2021 - 19 U 65/20, NZG 2021, 567 — Zeitstempel des Registerabrufs als Beweis fuer Gutglaeubigkeit bei Vertragsschluss; Abruf muss zeitnah zum Vertragsschluss erfolgen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 15 HGB — Registerpublizitaet: Eintragungen und deren Wirkung
@@ -24,10 +21,9 @@ description: "Handelsregisterabruf über offizielle Quellen für Unternehmenspr�
 - § 40 GmbHG — Gesellschafterliste: Hinterlegung und Wirkung als Nachweis der Mitgliedschaft
 - § 3 GwG — Sorgfaltspflichten fuer risikobasierte KYC-Pruefung (Handelsregister als Beleg)
 
-## Kommentarliteratur
-- Baumbach/Hopt HGB § 15 Rn. 1-40 (Registerpublizitaet: Wirkungen und Gutglaeubigkeitsschutz)
-- MüKo GmbHG/Heidinger § 40 Rn. 1-50 (Gesellschafterliste: Anforderungen und Haftung)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill führt durch einen Handelsregisterabruf und macht daraus ein verwertbares Registerprotokoll für Klage, Vertrag, Mandatsanlage, KYC, Rechnungsadresse oder Zustellung. Er nutzt offizielle Quellen und dokumentiert Quelle, Zeitstempel und Unsicherheiten.

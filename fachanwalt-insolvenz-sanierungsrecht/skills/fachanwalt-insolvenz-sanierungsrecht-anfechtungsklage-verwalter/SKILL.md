@@ -109,13 +109,13 @@ V. Rechtsfolge
 
 ## Leitlinien
 
-BGH, Urt. v. 06.05.2021 — IX ZR 72/20: § 133 nicht schematisch allein aus erkannter Zahlungsunfähigkeit herleiten.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 03.03.2022 — IX ZR 78/20: Sanierungsversuche verlangen besondere Darlegung zur Untauglichkeit und Kenntnis.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 27.07.2023 — IX ZR 138/21: Verwalterermittlungen und grob fahrlässige Unkenntnis bei § 146 InsO differenziert prüfen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 18.04.2024 — IX ZR 129/22: Liquiditätsstatus und § 135-Gleichstellung müssen substantiiert sein.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Output
 

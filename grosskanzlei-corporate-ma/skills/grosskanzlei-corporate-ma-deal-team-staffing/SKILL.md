@@ -56,12 +56,11 @@ Plant Workstreams, Rollen, Kapazitäten, Review-Level und Eskalationswege für g
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 15.03.2012 - IX ZR 35/11, NJW 2012, 1800 — Beraterhaftung im Team: fehlende Spezialisierung im Team kann Pflichtverletzung begründen; Teamleiter haftet fuer unzureichendes Staffing
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schramm/Alexander, BRAO, § 49b Rn. 1-40 (Honorarvereinbarung, M&A-Mandate)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **Workstream-Matrix erstellen:** je Workstream: Leader, Reviewer, Associate, Deadline

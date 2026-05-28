@@ -35,9 +35,9 @@ Betriebsveranstaltungen (Sommerfest, Weihnachtsfeier, Betriebsausflug) sind Sach
 - BMF v. 14.10.2015 — Betriebsveranstaltung (IV C 5 - S 2332/15/10006; aktuelle ergaenzende BMF-Schreiben ueber BMF-Internet pruefen).
 - LStR R 19.5.
 
-### Leitentscheidungen (Aktenzeichen vor Uebernahme in juris/beck-online pruefen)
+### Leitentscheidungen (Aktenzeichen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken pruefen)
 
-- BFH-Linie zur Aufteilung der Gesamtkosten auf alle teilnehmenden Personen (statt nur AN-Anzahl). Die zur 110-EUR-Grenze ergangene Rechtsprechung ist umfangreich; aktuelle Entscheidungen vor Mandantengespraech in juris/beck-online pruefen.
+- BFH-Linie zur Aufteilung der Gesamtkosten auf alle teilnehmenden Personen (statt nur AN-Anzahl). Die zur 110-EUR-Grenze ergangene Rechtsprechung ist umfangreich; aktuelle Entscheidungen vor Mandantengespraech in amtliche/freie Quellen oder lizenzierte Datenbanken pruefen.
 
 ## Workflow
 

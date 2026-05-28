@@ -22,10 +22,7 @@ description: "Rechtsberatungsstelle-Plugin an spezifische Kanzlei oder Uni anpas
 4. Soll gleichzeitig ein Fachbereichsleitfaden angepasst werden oder nur das Hauptprofil?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Kanzleiorganisation (hier: Beratungsstellenorganisation) muss stets auf aktuellem Stand gehalten werden; veraltete Konfigurationen begruenden Haftungsrisiken.
-- BVerfG, Beschl. v. 14.01.2020 - 1 BvR 2316/19, NJW 2020, 897 — Berufsrechtliche Organisationspflichten gelten kontinuierlich; Semesterwechsel und Personalwechsel muessen sofort in der Konfiguration abgebildet werden.
-- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Aktuell geltende Gesetze und Regelbedarfe muessen in Beratungsunterlagen widergespiegelt sein; veraltete Normen-Referenzen begruenden Beratungsfehlerrisiko.
-- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Datenschutzrelevante Konfigurationsaenderungen erfordern Aktualisierung des Verarbeitungsverzeichnisses (Art. 30 DSGVO).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 6 Abs. 2 Nr. 2 RDG — Anleitungsstruktur muss aktuell und wirksam sein; Semesterwechsel erfordert Profil-Update
@@ -33,10 +30,9 @@ description: "Rechtsberatungsstelle-Plugin an spezifische Kanzlei oder Uni anpas
 - §§ 43, 43a BRAO — Berufspflichten des Anleiters: kontinuierliche Aktualitaet der Organisationsunterlagen
 - § 203 Abs. 4 StGB — Einbeziehung Dritter: bei Wechsel von Studierenden neue Verschwiegenheitsvereinbarungen pruefen
 
-## Kommentarliteratur
-- Krenzler (Hrsg.) RDG § 6 Rn. 44-52 (Anleitungsorganisation: Aktualitaetspflicht bei Semesterwechsel)
-- Kühling/Buchner DSGVO Art. 30 Rn. 1-25 (Verarbeitungsverzeichnis: Inhalt und Aktualisierungspflicht)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Nach der Ersteinrichtung (`/kaltstart-interview`) müssen Beratungsstellenprofile regelmäßig aktualisiert werden:

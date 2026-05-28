@@ -29,17 +29,12 @@ description: "Public M&A und Kapitalmarkt: Begleitet Öffentliche Angebote (Wpue
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 19.07.2010 - II ZB 18/09 (Stollwerck), BGHZ 186, 229 — Squeeze-Out-Abfindung: Börsenkurs als Untergrenze; Referenzzeitraum grundsätzlich drei Monate vor Bekanntgabe, bei Strukturmaßnahme ggf. Hochrechnung.
-- BGH, Urt. v. 25.11.2002 - II ZR 133/01 (Macrotron), BGHZ 153, 47 — historische Delisting-Linie; inzwischen durch Frosta-Rechtsprechung und § 39 BörsG n.F. überholt bzw. gesetzlich neu gefasst.
-- BGH, Beschl. v. 08.10.2013 - II ZB 26/12 (Frosta), BGHZ 198, 294 — reguläres Delisting nach damaliger Rechtslage ohne HV-Beschluss und ohne Pflichtangebot; heute § 39 BörsG n.F. mit Delisting-Erwerbsangebot beachten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BaFin, Bescheid vom 27.01.2023 (veroeffentl. BaFin-Jahresbericht 2023) — Pflichtangebot: Erwerb von Stimmrechten durch Konsortium als gemeinsam handelnde Person iSd § 2 V WpUeG; Zusammenrechnung der Anteile
 
-## Kommentarliteratur
+## Quellenregel
 
-- Assmann/Pötzsch/Schneider, WpUeG (4. Aufl. 2022) — Standardkommentar
-- Hopt/Wiedemann, AktG § 327a Rn. 1 ff. — Squeeze-Out
-- Hueffer/Koch, AktG (16. Aufl. 2023) § 327a — Squeeze-Out Grundlagen; § 93 Vorstandspflichten bei Uebernahme
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prozessablauf: Oeffentliches Uebernahmeangebot (WpUeG)
 
 | Phase | Inhalt | Norm | Frist |
@@ -148,10 +143,10 @@ weiterer ueblicher Vollzugsbedingungen. Der Vollzug wird fuer [QUARTAL] erwartet
 
 ## Vertiefung: Delisting-Linie Macrotron/Frosta
 
-Für Delisting-Fragen nicht bei der alten Macrotron-Formel stehen bleiben. Macrotron (BGH II ZR 133/01) ist historisch wichtig, wurde aber durch Frosta (BGH II ZB 26/12) und anschließend durch § 39 BörsG n.F. praktisch neu sortiert. Im aktuellen Mandat ist deshalb zuerst zu prüfen, ob ein Delisting-Erwerbsangebot erforderlich ist, wie der Mindestpreis berechnet wird und welche Veröffentlichungspflichten greifen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Quellen
 
 - §§ 1-68 WpUeG; §§ 327a-f AktG; §§ 38, 48 WpHG; Art. 17, 18 MAR; SpruchG
-- BGH II ZB 18/09 (Stollwerck, Squeeze-Out-Abfindung); BGH II ZR 133/01 (Macrotron, historisches Delisting); BGH II ZB 26/12 (Frosta, Delisting)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Assmann/Poetzsch/Schneider, WpUeG (4. Aufl. 2022); Hueffer/Koch AktG § 327a

@@ -55,12 +55,7 @@ Eine urheberrechtliche Abmahnung ist kein Routineschreiben. Die Fehler der Empf�
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| BGH I ZR 137/85 | BGH, 10.10.1991 | Kleine Münze: Selbst geringe Individualität begründet Urheberrechtschutz; keine überhöhte Kreativitätsschwelle |
-| BGH I ZR 69/08 | BGH, 29.04.2010 | Vorschaubilder: Bildersuchmaschinen-Thumbnails; Einwilligung durch öffentliche Bereitstellung |
-| BGH I ZR 121/08 | BGH, 12.05.2010 | Sommer unseres Lebens: WLAN-Störerhaftung eingeschränkt; offenes WLAN begründet keine Täterhaftung des Betreibers |
-| BGH I ZR 74/12 | BGH, 15.11.2012 | Morpheus: Elternhaftung bei Filesharing minderjähriger Kinder nur bei Pflichtverletzung (fehlende Belehrung) |
-| BGH I ZR 75/14 | BGH, 11.06.2015 | Tauschbörse III: Sekundäre Darlegungslast des Anschlussinhabers; muss zumutbar Alternativtäter benennen |
-| BGH I ZR 187/17 | BGH, 13.09.2018 | Lizenzbetrag für einfaches Foto: MFM-Tarife sind Ausgangspunkt, aber Gesamtumstände entscheidend; übertrieben hohe Forderungen werden reduziert |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ---
 
@@ -71,11 +66,11 @@ Eine urheberrechtliche Abmahnung ist kein Routineschreiben. Die Fehler der Empf�
 | 1 | Werkqualität: Werkart prüfen (§ 2 UrhG); persönliche geistige Schöpfung vorhanden? Kleine Münze ausreichend | § 2 UrhG |
 | 2 | Aktivlegitimation: Ist Abmahner Urheber, Inhaber ausschließlicher Lizenz oder VG-Wahrnehmungsberechtigter? Lizenzkette dokumentiert? | §§ 7, 31 UrhG |
 | 3 | Verletzungshandlung: Welcher Tatbestand (§§ 16, 17, 19a UrhG)? Zeitpunkt und Umfang der Handlung? | §§ 16, 17, 19a UrhG |
-| 4 | Passivlegitimation: Hat Mandant die Handlung begangen? Sekundäre Darlegungslast bei Filesharing (BGH I ZR 75/14) | § 97 Abs. 1 UrhG |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 5 | Schranken prüfen: Zitatrecht § 51, Parodie § 51a, Privatkopie § 53, Panoramafreiheit § 59? | §§ 51, 51a, 53, 59 UrhG |
 | 6 | Formelle Abmahnprüfung: § 97a Abs. 2 UrhG – Werk benannt, Verletzung konkret, Frist gesetzt, Vollmacht vorgelegt? | § 97a Abs. 2 UrhG |
 | 7 | Verbraucher-Abmahnung: § 97a Abs. 3 UrhG – Streitwert begrenzt auf EUR 1.000 bei einfach gelagerter Verletzung | § 97a Abs. 3 UrhG |
-| 8 | Schadenshöhe prüfen: Lizenzanalogie (MFM-Tarife, GEMA-Tarife); Berechtigung des Verletzeraufschlags; BGH I ZR 187/17 | § 97 Abs. 2 UrhG |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 9 | Unterlassungserklärung prüfen: Ist die vorformulierte Erklärung zu weit gefasst? Modifizierung nötig? | § 97a UrhG |
 | 10 | Verjährung prüfen: 3 Jahre ab Kenntnis (§ 102 UrhG i.V.m. § 195 BGB); Restschadensersatz 10 Jahre | § 102 UrhG |
 | 11 | Strategie festlegen: modifizierte UE, Zurückweisung, Vergleich, negative Feststellungsklage | § 256 ZPO |
@@ -169,7 +164,7 @@ II. Bestreiten der Verletzungshandlung
 
 [ggf.: Der Internet-Anschluss des Mandanten wurde zum behaupteten
 Zeitpunkt auch von [Dritten] genutzt. Sekundäre Darlegungslast
-gemäß BGH I ZR 75/14 wird hiermit erfüllt: Als alternative Täter
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 kommen [Familienangehörige, Gäste] in Betracht.]
 
 III. Streitwertbegrenzung § 97a Abs. 3 UrhG
@@ -229,7 +224,7 @@ ODER
 | Werkqualität | Abmahner trägt Schutzwürdigkeit; bei bekanntem Werktyp (Foto, Text) vermutet; bei sehr kurzem Text: bestreiten möglich |
 | Aktivlegitimation | Abmahner trägt Urheberschaft und Lizenzkette vollständig |
 | Verletzungshandlung (Filesharing) | Abmahner trägt IP-Adressen-Zuordnung und Zeitpunkt; Anschlussinhaber bedient sekundäre Darlegungslast |
-| Sekundäre Darlegungslast | Anschlussinhaber muss zumutbar nachforschen und alternative Täter benennen (BGH I ZR 75/14) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Schranke (Zitatrecht, Parodie) | Nutzer/Beklagte trägt Voraussetzungen der Schranke |
 
 ---
@@ -250,10 +245,9 @@ ODER
 | Gegenargument | Erwiderung |
 |---|---|
 | "Foto ist ohne Quelle verwendet und damit urheberrechtlich verletzt" | Werkqualität nach § 72 UrhG (Lichtbild) prüfen; Schöpfungshöhe für Lichtbildwerk höher; Quellenangabe allein heilt Verletzung nicht, zeigt aber fehlenden Vorsatz |
-| "Streitwert EUR 10.000 ist angemessen" | § 97a Abs. 3 UrhG: bei Verbraucher EUR 1.000 Limit; BGH I ZR 187/17: Schadenshöhe ist einzelfallbezogen |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Vorformulierte Unterlassungserklärung muss so unterschrieben werden" | Nein; modifizierte Erklärung ist zulässig und beseitigt ebenfalls die Wiederholungsgefahr wenn Hamburger Brauch eingehalten |
-| "Anschlussinhaber haftet für Filesharing aus eigenem Anschluss" | BGH I ZR 75/14: sekundäre Darlegungslast; Anschlussinhaber muss alternative Täter nicht beweisen, aber benennen |
-| "Eltern haften für Kinder unbegrenzt" | BGH I ZR 74/12 Morpheus: Elternhaftung setzt Pflichtverletzung voraus; bei erteilter Belehrung und Verbotbeachtung keine Haftung |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ---
 
@@ -263,7 +257,7 @@ ODER
 |---|---|
 | Abmahnkosten (Verbraucher, einfach gelagert) | § 97a Abs. 3 UrhG: Gegenstandswert EUR 1.000 → ca. EUR 124 Anwaltsgebühr (VV-RVG 2300, 1,3) |
 | Abmahnkosten (Unternehmen, gewerblich) | Streitwert EUR 6.000–50.000 je nach Werk und Reichweite; EUR 500–2.000 Anwaltskosten |
-| Schadensersatz Foto (einfaches Lichtbild) | MFM-Tarife als Ausgangspunkt; BGH I ZR 187/17: Reduzierung möglich; typisch EUR 50–500 |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Verletzeraufschlag | Umstritten; BGH lässt bis 100 % zu; in der Praxis oft 50–100 % |
 | Unberechtigte Abmahnung | § 97a Abs. 4 UrhG: Kostenerstattung; Streitwert = Abmahnforderung |
 
@@ -292,7 +286,7 @@ ODER
 
 ## Quellen
 
-UrhG §§ 2, 7, 15–17, 19a, 31, 51–53, 59, 69a, 72, 97, 97a, 101, 102. BGH I ZR 137/85 (kleine Münze). BGH I ZR 69/08 (Vorschaubilder). BGH I ZR 121/08 (WLAN Störerhaftung). BGH I ZR 74/12 (Morpheus). BGH I ZR 75/14 (Tauschbörse III). BGH I ZR 187/17 (Lizenzbetrag Foto). KUG §§ 22, 23. Dreier/Schulze UrhG, aktuelle Auflage. Schricker/Löwenheim UrhG. Stand: 05/2026.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage-Fragen bei Urheber-Abmahnungs-Pruefung
 
@@ -304,15 +298,15 @@ Bevor die Handlungsempfehlung ausgesprochen wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **EuGH, Urt. v. 03.09.2014 — C-201/13 (Deckmyn):** Eine Parodie muss einerseits an ein bestehendes Werk erinnern, andererseits ihm gegenueber wahrnehmbare Unterschiede aufweisen und einen Ausdruck von Humor oder Verspottung darstellen; eine blosse Nachahmung ohne eigenen kuenstlerischen Beitrag ist keine Parodie. Die Schranke § 51a UrhG (Parodie, Karikatur, Pastiche) ist im Lichte dieser Leitentscheidung auszulegen.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Urt. v. 29.04.2010 — I ZR 69/08 (Vorschaubilder I):** Wer ein urheberrechtlich geschuetztes Bild im Internet fuer Suchmaschinen zugaenglich macht, erklaert konkludent die Einwilligung in die technische Verarbeitung durch Suchmaschinen; diese Einwilligung gilt aber nicht fuer eine eigenhaendige Weiternutzung des Bildes durch Dritte.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Urt. v. 17.12.2020 — I ZR 228/19 (Teppichboden):** Das Zitatrecht nach § 51 UrhG setzt voraus, dass das Zitat als Beleg oder zur Auseinandersetzung mit dem Original dient; ein dekoratives oder bloess ornamentales Zitat ohne inhaltlichen Zusammenhang faellt nicht unter § 51 UrhG.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
 <!-- AUDIT 27.05.2026
 Halluzinations-Reparatur Bundle 026:
-- BGH I ZR 187/12 (alle Vorkommen mit Datum 13.09.2018): Auf dejure.org existiert I ZR 187/12 als BGH 24.09.2013, Thema GEMA/Verteilungsplan – nicht Lichtbild/MFM-Lizenz. Korrektes AZ für den Lichtbild-Schadensersatz-Fall (13.09.2018, MFM-Tarife, Lizenzanalogie) ist BGH I ZR 187/17. Alle betroffenen Referenzen auf I ZR 187/17 korrigiert.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->

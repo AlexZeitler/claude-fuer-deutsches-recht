@@ -47,17 +47,15 @@ Die Prompt-Matrix löst ein klassisches Problem in der M&A-Due-Diligence: Wenn 2
 - §§ 311 Abs. 2, 241 Abs. 2 BGB (vorvertragliche Aufklärungspflichten)
 - §§ 443, 444 BGB (Garantien, Haftungsausschluss)
 - § 442 BGB (Kenntnis des Käufers, Ausschluss der Gewährleistung)
-- BGH, Urt. v. 27.03.2009 – V ZR 30/08, NJW 2009, 2064 Rn. 25 (Due-Diligence-Pflicht des Käufers; Kenntnis von Mängeln)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Change-of-Control:**
-- BGH, Urt. v. 29.04.2008 – KZR 2/07, NJW 2008, 3055 Rn. 18 (Kündigung bei mittelbarem Kontrollwechsel)
-- BGH, Urt. v. 10.11.2016 – I ZR 193/15, NJW-RR 2017, 877 Rn. 14 (Vertragsübernahme ohne Schuldnerzustimmung)
-- OLG Frankfurt, Urt. v. 10.09.2020 – 26 U 35/19 (unzureichende Disclosure im Datenraum)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Abtretungsverbote:**
 - § 399 BGB (Abtretungsausschluss durch Parteivereinbarung)
 - § 354a HGB (Unwirksamkeit im kaufmännischen Verkehr)
-- BGH, Urt. v. 14.11.1991 – IX ZR 31/91, NJW 1992, 1026
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **MAC-Klauseln:**
 - §§ 313, 314 BGB (Wegfall der Geschäftsgrundlage; außerordentliche Kündigung) als gesetzlicher Hintergrund
@@ -76,10 +74,10 @@ Die Prompt-Matrix löst ein klassisches Problem in der M&A-Due-Diligence: Wenn 2
 - §§ 305 ff. BGB (Inhaltskontrolle; überraschende Klauseln; unangemessene Benachteiligung)
 - § 307 Abs. 1 BGB (Generalklausel AGB-Kontrolle)
 
-**Kommentarliteratur:**
-- Westermann, in: MüKoBGB, 9. Aufl. 2022, § 453 Rn. 12 (Unternehmenskauf, Due Diligence)
-- Bayer, in: Lutter/Hommelhoff, GmbHG, 21. Aufl. 2023, § 15 Rn. 5 (Abtretung GmbH-Anteile)
-- Hopt, in: Baumbach/Hopt, HGB, 41. Aufl. 2024, § 354a Rn. 1 (Abtretungsverbot)
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Ablauf
 
@@ -138,7 +136,7 @@ spalten:
       - sonstige
     prompt: >
       Hat die Gegenpartei ein Sonderrecht bei Kontrollwechsel beim Mandanten?
-      Auch mittelbaren Kontrollwechsel beachten (BGH KZR 2/07). Wörtliches
+      Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
       Zitat der einschlägigen Klausel als Begleitfeld.
 
   - id: abtretung
@@ -152,7 +150,7 @@ spalten:
       - keine_regelung
     prompt: >
       Welche Regelung zur Abtretung? Bei absolutem Verbot zwischen Kaufleuten
-      § 354a HGB-Vorbehalt prüfen (BGH NJW 1992, 1026).
+      Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
   - id: haftungsobergrenze
     label: Haftungsobergrenze
@@ -374,7 +372,7 @@ Strukturierte Tabelle (Markdown sitzungsintern + Excel/CSV als Dateien) + `revie
 |---|---|---|
 | Gegenpartei | wörtlich | "Wer ist die Gegenpartei? Genaue Firmierung mit Rechtsform aus dem Rubrum." |
 | Wirksamkeitsdatum | datum | "Wann tritt der Vertrag in Kraft? Bei verschiedenen Unterschriftsdaten: das spätere." |
-| CoC | klassifizieren | "Sonderrecht bei Kontrollwechsel? Auch mittelbaren Kontrollwechsel (BGH KZR 2/07) prüfen." |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Abtretung | klassifizieren | "Welche Abtretungsregelung? Bei Verbot zwischen Kaufleuten § 354a HGB prüfen." |
 | Haftungsobergrenze | betrag | "Betragsmäßige Haftungsobergrenze in EUR. Mehrere Limits separat." |
 
@@ -486,14 +484,13 @@ Strukturierte Tabelle (Markdown sitzungsintern + Excel/CSV als Dateien) + `revie
 
 Jede rechtliche Beurteilung im Schema-Aufbau und in der Normalisierung mit Norm belegen:
 - Abtretungsverbote: `§ 399 BGB`, `§ 354a HGB`
-- Change-of-Control: `BGH, Urt. v. 29.04.2008 – KZR 2/07, NJW 2008, 3055 Rn. 18`
-- Due-Diligence-Pflichten: `BGH, Urt. v. 27.03.2009 – V ZR 30/08, NJW 2009, 2064 Rn. 25`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Konzernrecht bei Zeilenprompt: `§§ 15 ff., 308, 311 AktG`
-- Gewerberaummiete: `Häublein, in: MüKoBGB, 9. Aufl. 2023, § 535 Rn. 1` (zit.)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Indexmietklausel: `§ 557b BGB`
 - AGB-Kontrolle bei Stapel: `§§ 305 ff. BGB`
 - Sub-AV: `Art. 28 Abs. 4 DSGVO`
-- Kommentare: `Hopt, in: Baumbach/Hopt, HGB, 41. Aufl. 2024, § 354a Rn. 1`
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Wettbewerbsverbot: `§ 74 HGB`
 - GeschGehG: `§ 1 GeschGehG`
 - Open-Source: Copyleft-Systematik GPL, AGPL

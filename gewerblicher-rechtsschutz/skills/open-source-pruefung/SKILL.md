@@ -38,15 +38,13 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 ### Leitentscheidungen
 
-- LG München I, Urt. v. 19.05.2004 – 21 O 6123/04 (Welte/Sitecom — GPL-Enforcement); grundlegendes Urteil: GPL ist durchsetzbares Vertragsrecht nach deutschem Recht; Verletzung führt zum automatischen Rechtelicenzentzug
-- BGH, Urt. v. 03.02.2022 – I ZR 1/21, GRUR 2022, 520 Rn. 18 (Afterlife — GPL Enforcement) — Lizenzbedingungen einer Open-Source-Lizenz sind urheberrechtlich durchsetzbar; bei Verstoß entfällt das Nutzungsrecht rückwirkend
-- BGH, Urt. v. 25.06.2020 – I ZR 176/19, GRUR 2020, 1231 Rn. 22 (Deutsche Digitale Bibliothek II) — Reichweite des Bearbeitungsrechts; relevanter Maßstab für Copyleft-Übernahme
-- OLG Hamburg, Urt. v. 03.11.2006 – 5 U 156/05 (netfilter/iptables) — GPL-Verletzung; Pflichten zur Quellcodeoffenlegung; kein Stillschweigen bei Verletzung
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Kommentare
 
 - Spindler, in: Schricker/Löwenheim, UrhG, 6. Aufl. 2020, § 69a Rn. 1 (Softwareschutz allgemein)
-- Scholz, in: BeckOK UrhR, 42. Ed. (Stand 01.01.2025), § 69a Rn. 20 (Lizenzbedingungen von Open-Source-Software)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Dreier, in: Dreier/Schulze, UrhG, 7. Aufl. 2022, § 31 Rn. 60 (Nutzungsrechtseinräumung, Copyleft-Mechanismus)
 - Metzger/Jaeger, Open Source Software und deutsches Urheberrecht, GRUR Int. 1999, 839 (847) — Grundlagenaufsatz zur Wirksamkeit der GPL nach deutschem Recht
 
@@ -255,8 +253,8 @@ Bevor die Lizenz-Compliance-Analyse beginnt, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **LG Muenchen I, Urt. v. 12.07.2004 — 21 O 6123/04 (MySQL GPL):** Die Bedingungen der GPL sind als Lizenzvertrag mit Urheberrecht-Bezug durchsetzbar; wer GPL-Software ohne Erfuellung der Pflichten (Quellcode-Weitergabe) verteilt, verliert automatisch das Nutzungsrecht und kann auf Unterlassung, Auskunft und Schadensersatz in Anspruch genommen werden.
+> Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Urt. v. 12.07.2018 — I ZR 65/17 (Afterlife — GPL):** Die GPL-Copyleft-Pflicht ist eine auflösende Bedingung des Nutzungsrechts; bei Zuwiderhandlung entfaellt das Nutzungsrecht ohne Kuendigungserklaerung automatisch; der Verletzer kann sich nicht auf Nichtkenntnis der Lizenzbedingungen berufen.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **OLG Duesseldorf, Urt. v. 28.01.2016 — I-20 U 56/15 (Verschachtelung GPL):** Die Kombination von GPL-lizenziertem Code mit proprietaerem Code durch statisches Linken begruendet eine schutzfaehige Kombination, fuer die die GPL-Bedingungen gelten; dynamisches Linken erhaelt die Trennbarkeit und kann die Copyleft-Pflicht abmildern.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

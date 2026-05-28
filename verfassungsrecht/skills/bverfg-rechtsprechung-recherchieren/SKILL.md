@@ -16,7 +16,7 @@ Verfassungsrechtliche Prüfungen sind hochkomplex und mandantenrelevant. Diese R
 1. **Primär:** [www.bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de) — offizielle Entscheidungssammlung, Pfad `/SharedDocs/Entscheidungen/DE/<Jahr>/<Monat>/<Az.>.html`. Pressemitteilungen unter `/SharedDocs/Pressemitteilungen/`.
 2. **Sekundär:** Eigene Kanon-Referenz `references/bverfg-leitentscheidungen.md`.
 3. **Ersatzweise:** [servat.unibe.ch/dfr/](https://www.servat.unibe.ch/dfr/) (DFR-Volltextsammlung BVerfGE), [opinioiuris.de](https://opinioiuris.de), [dejure.org](https://dejure.org).
-4. **Kommentarliteratur:** Maunz/Dürig (Loseblatt), Sachs (Kommentar), Dreier (Kommentar).
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 **Modellwissen ohne Quelle ist verboten.** Wo Computer kein Pinpoint-Zitat liefern kann, ist die Aussage als `[zu verifizieren auf bundesverfassungsgericht.de]` zu markieren.
 
@@ -43,10 +43,10 @@ Konsultiere zuerst `references/bverfg-leitentscheidungen.md`. Wenn dort einschl�
 
 Pflichtangaben für jede Aussage:
 
-- **Aktenzeichen** (z. B. `1 BvR 2656/18`)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Datum** der Entscheidung
 - **Randnummer** der einschlägigen Passage (z. B. `Rn. 117`)
-- **BVerfGE-Fundstelle**, soweit zugewiesen (z. B. `BVerfGE 157, 30`)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **URL** der amtlichen Sammlung
 
 ### Schritt 5 — Zitat formatieren
@@ -54,7 +54,7 @@ Pflichtangaben für jede Aussage:
 Standardformat in allen Outputs dieses Plugins:
 
 ```
-BVerfG, Urteil vom 24.03.2021 - 1 BvR 2656/18 u.a., BVerfGE 157, 30 Rn. 117 - Klimabeschluss
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/03/rs20210324_1bvr265618.html
 ```
 
@@ -77,13 +77,13 @@ Bei Beschluss statt Urteil entsprechend.
 ### Routine B — Verhältnismäßigkeit überprüfen
 
 1. Kanon: legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit.
-2. Leiturteile: Apotheken (Drei-Stufen, BVerfGE 7, 377), Cannabis (BVerfGE 90, 145), Großer Lauschangriff (BVerfGE 109, 279).
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 3. Live-Recherche: BVerfG-Linie der letzten 5 Jahre zum konkreten Grundrechtseingriff.
 
 ### Routine C — Gesetzgebungskompetenz prüfen
 
 1. Art. 70–74 GG durchgehen.
-2. Bei konkurrierender Gesetzgebung: Erforderlichkeitsklausel Art. 72 Abs. 2 GG (Altenpflege BVerfGE 106, 62; Juniorprofessur BVerfGE 111, 226).
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 3. Live-Recherche bei Spezialmaterien.
 
 ## Output-Vorgaben für andere Skills

@@ -117,10 +117,6 @@ Für den vollständigen Mandatsablauf empfiehlt sich die Reihenfolge:
 
 - **§ 109 GewO** — Zeugnisanspruch: Anspruch auf einfaches oder qualifiziertes Zeugnis, Wahrheitspflicht, Wohlwollensgebot
 - **§ 16 BBiG** — Zeugnisanspruch für Auszubildende
-- **BAG, Urt. v. 12. August 2008 – 9 AZR 632/07** — Anspruch auf wohlwollendes Zeugnis, das das berufliche Fortkommen nicht unnötig erschwert
-- **BAG, Urt. v. 18. November 2014 – 9 AZR 584/13** — Beweislastverteilung: Arbeitnehmer muss Tatsachen für eine bessere als "befriedigende" Schlussbeurteilung vortragen und beweisen
-- **BAG, Urt. v. 11. Dezember 2012 – 9 AZR 227/11** — Dank, Bedauern und Zukunftswünsche gehören nicht zum gesetzlichen Mindestinhalt des Arbeitszeugnisses; Schlussformeln bleiben gleichwohl ein wichtiges Praxissignal
-- **BAG, Urt. v. 15. November 2011 – 9 AZR 386/10** — Keine schematische Geheimcode-Unterstellung; maßgeblich sind objektiver Empfängerhorizont und Gesamtzusammenhang
-- **BAG, Urt. v. 14. Oktober 2003 – 9 AZR 12/03** — Zeugnisberichtigung: Kein Anspruch auf bestimmte Formulierung, aber Anspruch auf wahre und wohlwollende Formulierung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Kein Ersatz für anwaltliche Beratung. Für die gerichtliche Geltendmachung eines Zeugnisberichtigungsanspruchs ist die Beauftragung eines Rechtsanwalts empfohlen.

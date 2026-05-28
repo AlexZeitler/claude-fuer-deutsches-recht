@@ -64,7 +64,7 @@ Kritisch sind insbesondere folgende Stellen:
 - Auslassung der Aussage zur Vorgesetztenbeurteilung trotz Fuehrungsverantwortung
 - Steigerungsadverb "im Grossen und Ganzen" in der Gesamtzufriedenheit
 
-Diese Befunde sind nach der staendigen Rechtsprechung des Bundesarbeitsgerichts berichtigungspflichtig. Der Anspruch ergibt sich aus Paragraf 109 GewO.
+Diese Befunde werden am Maßstab des Paragraf 109 GewO und nur mit live verifizierter Rechtsprechung eingeordnet.
 
 ## Anschluss
 
@@ -81,5 +81,4 @@ Der Bericht ist fertig, wenn vier Kriterien erfuellt sind. Er kommt ohne juristi
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung bei der Schlussbeurteilung: Für eine bessere als befriedigende Bewertung muss der Arbeitnehmer Tatsachen vortragen und beweisen; eine unterdurchschnittliche Bewertung muss der Arbeitgeber tragen.
-- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot: Formulierungen, die Fortkommen unnötig erschweren, sind berichtigungspflichtig, auch wenn wahr.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

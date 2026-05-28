@@ -24,13 +24,13 @@ Dieses Repository enthält Plugins für deutsche Kanzleien. Wenn du in diesem Re
 - Kommentare: Bearbeiter, "in:" Kommentar, Auflage, Jahr (ggf. Stand), Norm, Randnummer.
 - Aufsätze: Autor, Zeitschrift, Jahrgang, Anfangsseite (konkrete Seite).
 - Reihenfolge: Rspr. vor Lit., neueste zuerst.
-- Im civil law sind **Kommentare und Aufsätze argumentativ tragend**, nicht nur Rspr. Verwende sie aktiv, insbesondere wenn keine einschlägige Rspr. vorliegt.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Verboten
 
 - Präjudizienbindungs-Argumente. In Deutschland gibt es keine Präjudizienbindung (außer § 31 BVerfGG).
 - Vorprozessuale Beweiserhebung im deutschen Recht ist auf eng begrenzte gesetzliche Instrumente beschränkt: §§ 142, 144, 421–432 ZPO, § 810 BGB, § 242 BGB, Art. 15 DSGVO, Auskunfts- und Stufenklage (§ 254 ZPO).
-- Halluzinierte Aktenzeichen oder Fundstellen. Bei Unsicherheit: kennzeichnen und Verifizierung in Beck-Online/juris empfehlen.
+- Halluzinierte Aktenzeichen oder Fundstellen. Bei Unsicherheit: kennzeichnen und Verifizierung in amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang empfehlen.
 - Mandantengeheimnis-Verletzung (§ 43a Abs. 2 BRAO, § 203 StGB). Mandantendaten nur in Tools mit AVV.
 
 ## Standardstruktur für Memos
@@ -69,4 +69,4 @@ Dieses Repository enthält Plugins für deutsche Kanzleien. Wenn du in diesem Re
 
 - Frage nach (Skill, Mandat, Gegenstand, Frist).
 - Nenne offene rechtliche Fragen explizit.
-- Empfehle Verifizierung in Beck-Online / juris.
+- Empfehle Verifizierung in amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang.

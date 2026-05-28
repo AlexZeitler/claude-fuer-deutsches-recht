@@ -17,10 +17,7 @@ Familiensachen folgen FamFG statt ZPO (mit Verweisen auf ZPO).
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 26.10.2022 - XII ZB 234/22, NJW 2023, 288 — Kindeswohl (§ 1697a BGB) ist Leitprinzip; bei Umgangsstreit ist stets eine Kindeswohlprüfung durchzuführen, auch wenn beide Elternteile zustimmen.
-- BGH, Beschl. v. 01.02.2023 - XII ZB 57/22, NJW 2023, 1215 — Versorgungsausgleich ist im Verbund zwingend zu behandeln (§ 137 FamFG); Abtrennung nur in engen Ausnahmen möglich.
-- BGH, Beschl. v. 15.06.2016 - XII ZB 419/15, NJW 2016, 2497 — Die persönliche Anhörung des Kindes ist im Sorgerechtsverfahren grundsätzlich erforderlich, regelmäßig auch bei einem noch nicht 14 Jahre alten Kind (§ 159 FamFG); unterlassene Anhörung stellt einen Verfahrensmangel dar.
-- BVerfG, Beschl. v. 22.09.2014 - 1 BvR 2102/14, NJW 2014, 3784 — Umgangsrecht des Vaters aus Art. 6 Abs. 2 GG; Einschränkung nur bei konkreter Kindeswohlgefährdung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -32,12 +29,9 @@ Familiensachen folgen FamFG statt ZPO (mit Verweisen auf ZPO).
 - §§ 1 ff. VersAusglG — Versorgungsausgleich
 - §§ 58 ff. FamFG — Rechtsmittel (Beschwerde, Frist 1 Monat)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller/Lorenz, FamFG, 35. Aufl. 2024, § 38 Rn. 1-20 (Beschluss Form und Inhalt)
-- Musielak/Borth/Frank, FamFG, 7. Aufl. 2022, § 137 Rn. 1-30 (Verbund und Folgesachen)
-- MüKo-FamFG/Schumann, 4. Aufl. 2023, § 158 Rn. 1-20 (Verfahrensbeistand)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Verfahrenskategorie bestimmen:** Welche Familiensache (§ 111 FamFG)?

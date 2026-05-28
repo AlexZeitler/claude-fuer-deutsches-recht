@@ -44,10 +44,7 @@ Die Schulungsunterlagen und -inhalte werden jährlich — spätestens bis [Monat
 Neue Leitlinien des Europäischen KI-Büros zur Auslegung des Art. 4 KI-VO sowie EU-FAQs zur KI-Kompetenz (FAQ der EU-Kommission zur KI-Kompetenz) und Hinweise der Bundesnetzagentur sind in die Schulungsunterlagen aufzunehmen. Die Schulung sollte zudem aktuelle Urteile zur KI-Haftung einbeziehen.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- BAG, Urt. v. 18.07.2017 — 1 ABR 59/15, NJW 2017, 3673 Rn. 28: Weiterbildungspflichten als Teil der arbeitgeberseitigen Fuersorgepflicht bei Einfuehrung neuer Technologien.
-- BGH, Urt. v. 05.12.2002 — III ZR 251/01, NJW 2003, 826 Rn. 18: Sorgfaltspflicht § 43 BRAO erfordert Kompetenz im eingesetzten Instrument — gilt auch fuer KI-Werkzeuge.
-- EuGH, Urt. v. 04.05.2023 — C-300/21 (Oesterreichische Post), NJW 2023, 1985 Rn. 42: Rechenschaftspflicht Art. 5 Abs. 2 DSGVO erfordert ausgebildetes Personal bei der DSGVO-Umsetzung.
-- OLG Koblenz, Urt. v. 16.06.2023 — 6 U 1292/22, NJW-RR 2023, 1105 Rn. 22: Fehlendes KI-Grundwissen des Anwalts bei Verwendung unzuverlaessiger KI-Ausgaben als Sorgfaltspflichtverletzung gewertet.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 4 KI-VO — KI-Kompetenzverpflichtung fuer Anbieter und Betreiber

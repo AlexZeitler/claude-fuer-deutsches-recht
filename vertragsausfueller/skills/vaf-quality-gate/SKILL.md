@@ -15,10 +15,7 @@ description: "Quality Gate vor Vertragsausgabe: Vollständigkeit Plausibilitaet 
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 06.04.2016 - VIII ZR 79/15, NJW 2016, 2645 — AGB-Klauselverstoß nach § 307 BGB: Verstoß führt zur Gesamtnichtigkeit der Klausel, nicht zur geltungserhaltenden Reduktion; Ersatz durch dispositives Recht.
-- BGH, Urt. v. 14.11.2018 - IV ZR 141/17, NJW 2019, 293 — Qualitätssicherungsklausel in Verträgen: wirksam, wenn klar und transparent (§ 307 Abs. 1 S. 2 BGB Transparenzgebot).
-- BGH, Urt. v. 25.11.2015 - VIII ZR 360/14, NJW 2016, 934 — Vertragsstrafe: muss bei Abschluss klar und bestimmt sein; nachträgliche Anpassung nur im Rahmen der Inhaltskontrolle.
-- BGH, Urt. v. 09.05.2018 - III ZR 67/17, NJW 2018, 2401 — Transparenzgebot: unklare Klausel geht zu Lasten des Verwenders; Quality Gate muss auf Unklarheiten prüfen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -26,11 +23,9 @@ description: "Quality Gate vor Vertragsausgabe: Vollständigkeit Plausibilitaet 
 - § 139 BGB — Teilnichtigkeit (unwirksame Klausel → Gesamtvertrag nur bei separabler Klausel)
 - § 306 BGB — Rechtsfolge unwirksamer AGB (dispositives Recht tritt ein)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Grüneberg, BGB, 83. Aufl. 2024, § 307 Rn. 30-60 (Transparenzgebot)
-- MüKo-BGB/Basedow, 9. Aufl. 2022, § 306 Rn. 1-20 (Rechtsfolgen unwirksamer AGB)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Letzte Schleuse, bevor ein Vertragsentwurf, eine Redline oder ein Track-Changes-Dokument an den Mandanten oder die Gegenseite herausgeht. Verhindert sechs typische Fehlerklassen: leere Pflichtfelder, ungeklärte Wahlklauseln, Rechenfehler, normwidrige Formulierungen, fehlende Anlagen, fehlende Freigaben. Liefert ein Pruefprotokoll mit Go / Go mit Warnungen / No-go.
@@ -68,7 +63,7 @@ Prüfen, ob alle Pflichtfelder belegt sind:
 
 ### Stufe 2 — Platzhalter-Reste
 
-Prüfen, ob alle `[...]`, `XXX`, `TBD`, `noch zu klaeren`, `tba`, `t.b.a.`, `‹...›` aufgeloest sind. Auch in Fußnoten, Anlagen-Verweisen und unterschriftsblocken.
+Prüfen, ob alle `[...]`, `XXX`, `TBD`, `noch zu klaeren`, `tba`, `t.b.a.`, `'...'` aufgeloest sind. Auch in Fußnoten, Anlagen-Verweisen und unterschriftsblocken.
 
 **Stopper-Kriterium**: Ein Platzhalter im Hauptteil -> No-go. In Anlagen-Verweis -> Warnung mit Hinweis.
 
@@ -94,7 +89,7 @@ Prüfen gegen typische AGB-Fallen und Klauselverbote:
 | Schadensersatzbeschraenkung auf Eigenleistung | Paragraf 309 Nr. 7a, b BGB | Ausschluss für Personenschäden -> nichtig |
 | Schiedsgerichtsklausel ohne Klarheit | Paragraf 1031 ZPO | Verbraucher ohne Sondervereinbarung -> nichtig |
 | Lange Bindungsfrist bei Verbrauchern | Paragraf 309 Nr. 9 BGB | Verlängerung > 1 Jahr automatisch -> Risiko |
-| Salvatorische Klausel als Lückenfueller | BGH NJW 2009, 2671 Rn. 13 | wirkt nicht heilend bei AGB |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 **Stopper-Kriterium**: Bei klarem Klauselverstoß B2C -> No-go. Bei B2B-Streitfall -> Warnung mit Risiko-Hinweis.
 

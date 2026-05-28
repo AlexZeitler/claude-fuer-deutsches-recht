@@ -113,7 +113,7 @@ Empfohlene Datenbanken für deutsches IP-Recht:
 - **WIPO Global Brand DB** – Internationale Marken (Madrid)
 - **Espacenet / DPMApaplus** – Patente, Gebrauchsmuster
 - **GRUR / WRP / MMR / NJW** – juristische Zeitschriften
-- **Beck-Online / juris** – Rechtsprechungsdatenbanken
+- **amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang** – Rechtsprechungsdatenbanken
 
 ## Schnellstart
 

@@ -19,7 +19,7 @@ description: "Arbeitgeber oder Arbeitnehmer fragt, ob Befristung, Kündigung ode
 
 ### § 14 Abs. 4 TzBfG — Befristungsabrede
 
-Das BAG (Bundesarbeitsgericht) verlangt für die Wirksamkeit einer Befristungsabrede:
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Schriftlichkeit vor Arbeitsbeginn**: Die Befristungsabrede muss eigenhändig von Arbeitgeber und Arbeitnehmer unterschrieben und dem Arbeitnehmer vor Beginn der Arbeit zugegangen sein.
 - **Kein Beginn vor Unterzeichnung**: Nimmt der Arbeitnehmer die Arbeit auf, bevor er die schriftliche Befristungsabrede unterschrieben hat oder bevor ihm das unterschriebene Dokument zugegangen ist, gilt der Arbeitsvertrag als unbefristet (§ 16 TzBfG).
 - **Heilung ausgeschlossen**: Eine nachträgliche Unterschrift heilt den Formmangel bei § 14 Abs. 4 TzBfG nicht.

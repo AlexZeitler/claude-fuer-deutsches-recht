@@ -23,16 +23,14 @@ description: "Empfangende Seite soll NDA der Gegenseite prüfen und verhandeln o
 - § 203 StGB (Mandatsgeheimnis)
 
 ## Rechtsprechung
-1. BGH, Urt. v. 26.02.2020 – I ZR 178/17, NJW 2020, 1513 — Ein Geschäftsgeheimnis i.S.d. GeschGehG setzt neben dem objektiven Geheimhaltungsinteresse die Ergreifung angemessener Geheimhaltungsmaßnahmen voraus; ein NDA ist eine solche Maßnahme.
-2. BGH, Urt. v. 23.02.2012 – I ZR 21/11, NJW 2012, 2108 — Nachvertragliche Geheimhaltungsklauseln müssen zeitlich und sachlich bestimmt sein; unbegrenzte Nachwirkungsfristen können bei Arbeitnehmern gegen § 74a HGB verstossen.
-3. BGH, Urt. v. 29.04.2010 – I ZR 68/08, GRUR 2010, 1090 — Vertragsstrafen in NDA-Klauseln unterliegen der gerichtlichen Herabsetzung nach § 343 BGB; eine Überhöhung begründet Anpassungsrecht.
-4. OLG München, Urt. v. 25.01.2018 – 29 U 2799/17, GRUR-RR 2018, 276 — Die Klärung der Frage, ob bestimmte Informationen dem NDA-Schutzbereich unterfallen, richtet sich nach dem objektivierten Empfängerhorizont bei Vertragsschluss.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Fuhlrott/Hierlemann, GeschGehG, 2. Aufl. 2022, § 2 Rn. 1 ff. (Geschäftsgeheimnis und NDA als Schutzmaßnahme).
-- Köhler/Bornkamm/Feddersen, UWG, 42. Aufl. 2024, § 4 GeschGehG Rn. 1 ff.
-- Grüneberg, BGB, 83. Aufl. 2024, § 305 Rn. 1 ff. (AGB-Kontrolle bei NDA-Klauseln).
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Wann diesen Skill aufrufen
 
 Wenn der Anwender (typischerweise als Inhouse-Jurist oder externer Anwalt der **empfangenden Seite**) entweder seinen eigenen NDA-Standard erst noch **erarbeiten** muss oder einen NDA-Entwurf der Gegenseite bekommen hat, den er **nicht durch einen eigenen Entwurf ersetzen** kann oder will, aber dessen interne Haltelinien er dennoch durchsetzen muss.

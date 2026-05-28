@@ -22,7 +22,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 | Skill | Zweck |
 | --- | --- |
-| `fachanwalt-vergaberecht-orientierung` | Orientierung im Vergaberecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. EU-Schwellenwertabhängiges Vergaberecht GWB §§ 97 ff. VgV (Vergabeverordnung) SektVO (Sektorenverordnung) KonzVgV.… |
+| `fachanwalt-vergaberecht-orientierung` | Orientierung im Vergaberecht — FAO Voraussetzungen Normen typische Mandate Fristen Quellenprüfung. EU-Schwellenwertabhängiges Vergaberecht GWB §§ 97 ff. VgV (Vergabeverordnung) SektVO (Sektorenverordnung) KonzVgV.… |
 
 ## Lizenz
 

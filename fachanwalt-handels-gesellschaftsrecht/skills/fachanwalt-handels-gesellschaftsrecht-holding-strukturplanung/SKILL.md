@@ -38,11 +38,7 @@ description: "Holding-Strukturplanung: § 8b KStG Schachtelprivileg (95 % steuer
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| BFH | I R 20/13 | 28.10.2015 | § 8b KStG: Schachtelprivileg gilt auch bei mittelbarer Beteiligung über Personengesellschaft |
-| BFH | I R 80/07 | 19.10.2011 | Erweiterte Kürzung § 9 Nr. 1 S. 2 GewStG: gewerbliche Beimengung durch Nebentätigkeit schadet |
-| BFH | I R 31/03 | 22.02.2006 | § 8b Abs. 4 KStG Mindestbeteiligung: Tag der Dividendenausschüttung maßgeblich |
-| BGH | II ZR 256/10 | 25.01.2011 | GmbH-Konzernhaftung: Holding haftet für Tochtergesellschaft bei qualifizierter Einflussnahme |
-| BFH | I R 14/08 | 21.01.2009 | § 6 AStG Wegzugsbesteuerung: Ratenzahlung möglich; keine sofortige Liquidität nötig |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | OFD Frankfurt | S 2241 A – 11 – St 211 | 2019 | Praktische Anwendung § 8b KStG: Kettenausschüttung Tochter → Holding → Privat |
 
 ## Struktur-Varianten im Vergleich
@@ -274,4 +270,4 @@ Kosten ca.:
 - § 6a GrEStG: https://www.gesetze-im-internet.de/grestg_1983/__6a.html
 - § 6 AStG: https://www.gesetze-im-internet.de/astg/__6.html
 - UmwStG: https://www.gesetze-im-internet.de/umwstg_2006/
-- BFH I R 20/13: https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE201510183/
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

@@ -155,8 +155,7 @@ Verteidigung bei drohender oder bestehender Untersuchungshaft.
 
 ## 10) BGH-Linien
 
-- BGH, Beschl. v. 22.9.2016 — StB 22/16 (Verhältnismaessigkeit)
-- BVerfG, Beschl. v. 23.1.2019 — 2 BvR 2429/18 (6-Monats-Frist)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 

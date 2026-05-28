@@ -13,10 +13,7 @@ description: "Student prüft zivilrechtliche Ansprüche in der Hausarbeit: Reihe
 4. Gibt es Einreden oder Einwendungen (Erloeschung, Verjährung, § 320 BGB)?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 26.10.2015 - II ZR 404/13, NJW 2016, 311 — V-C-G-D-D-B-Reihenfolge als methodischer Standard: Vertrag ist dem Delikt vorrangig; kein Bereicherungsanspruch solange Vertragsanspruch besteht.
-- BGH, Urt. v. 14.12.2006 - VII ZR 166/05, NJW 2007, 819 — Anspruchsgrundlagen-Pruefung erfordert vollstaendige Tatbestandspruefung auch bei scheinbar eindeutigen Sachverhalten.
-- BGH, Urt. v. 16.01.2009 - V ZR 133/08, NJW 2009, 1061 — Bereicherungsanspruch (§ 812 BGB) ist subsidiaer gegenueber vertraglichen Rueckforderungsanspruechen; § 812 greift nur bei Rechtsgrundlosigkeit.
-- BGH, Urt. v. 20.06.2012 - VIII ZR 268/11, NJW 2012, 3234 — § 280 Abs. 1 BGB erfordert Schuldverhaeltnis, Pflichtverletzung, Vertretenmüssen und Schaden; alle vier Voraussetzungen muessen geprueft werden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - §§ 433, 634, 611, 677 BGB — Vertragsrecht als erste Pruefungsstufe der V-C-G-D-D-B
@@ -24,10 +21,9 @@ description: "Student prüft zivilrechtliche Ansprüche in der Hausarbeit: Reihe
 - §§ 823 ff. BGB — Deliktsrecht als vierte Stufe
 - §§ 812 ff. BGB — Bereicherungsrecht als letzte Auffangnorm
 
-## Kommentarliteratur
-- Grüneberg/Grüneberg BGB Vorbem § 241 Rn. 1-50 (Anspruchsgrundlagen-System und V-C-G-D-D-B-Reihenfolge)
-- Brox/Walker, Allgemeines Schuldrecht, 48. Aufl. 2024, § 1 Rn. 1-40 (Anspruchsgrundlagen im Zivilrecht)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Im Zivilrecht ist die Reihenfolge der Anspruchsgrundlagen entscheidend. Wer durcheinander prüft, kommt zu falschen Konkurrenzen.

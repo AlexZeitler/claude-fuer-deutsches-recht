@@ -28,17 +28,11 @@ Dieser Modus-Skill aktiviert die verfahrensspezifischen Einstellungen für sozia
 
 ## Rechtsprechung (BSG / BVerfG — Leitsätze)
 
-- BSG, Urt. v. 26.05.2020 - B 4 AS 27/19 R, BSGE 130, 210 — Zur einstweiligen Anordnung nach § 86b Abs. 2 SGG: Anordnungsanspruch und Anordnungsgrund müssen glaubhaft gemacht werden; besondere Eilbedürftigkeit bei Grundsicherungsleistungen.
-- BSG, Urt. v. 14.03.2019 - B 14 AS 51/18 R, SozR 4-4200 § 22 Nr. 103 — Zur Berücksichtigung tatsächlicher Unterkunftskosten nach § 22 SGB II; Angemessenheitsgrenze muss konkret und transparent berechnet werden.
-- BSG, Urt. v. 28.06.2018 - B 3 KR 12/17 R, BSGE 126, 149 — Zur Leistungspflicht der GKV bei neuen Behandlungsmethoden; Nutzen-Risiko-Abwägung nach § 2 Abs. 1 SGB V.
-- BVerfG, Beschl. v. 12.05.2005 - 1 BvR 569/05, BVerfGK 5, 237 — Verfassungswidrige Leistungsversagung verletzt Menschenwürde (Art. 1 Abs. 1 GG) wenn dadurch Existenzminimum nicht gesichert; Eilrechtsschutz ist zu gewähren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Keller in: Meyer-Ladewig/Keller/Leitherer SGG § 86b Rn. 1 ff. (Eilrechtsschutz)
-- Littmann/Biesel SGB II § 7 Rn. 1 ff. (Leistungsberechtigte in der Grundsicherung)
-- Hauck/Noftz SGB V § 27 Rn. 1 ff. (Krankenbehandlung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Sachgebiete der Sozialgerichtsbarkeit
 
 - Krankenversicherung (SGB V)

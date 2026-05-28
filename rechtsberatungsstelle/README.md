@@ -150,6 +150,5 @@ Nur der anleitende Jurist kann diesen Vermerk entfernen. Dokumente, die diesen V
 ## Zitierweise
 
 Alle juristischen Quellen folgen `../references/zitierweise.md`. Beispiele:
-- BSG, Urt. v. 14.03.2018 – B 14 AS 17/17 R, BSGE 125, 210 Rn. 18 – "Sanktionsrecht".
-- BVerwG, Urt. v. 20.02.2020 – 1 C 1.19, BVerwGE 167, 319 Rn. 24.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Krenzler, in: Krenzler (Hrsg.), RDG, 2. Aufl. 2021, § 6 Rn. 45.

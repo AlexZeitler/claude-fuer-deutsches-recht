@@ -46,10 +46,10 @@ Vier klassische Kanones plus zwei Querschnittskanones. **Eine starre Rangfolge g
 
 ## Verfassungskonforme und unionsrechtskonforme Auslegung
 
-**Verfassungskonforme Auslegung:** Bei mehreren möglichen Auslegungen ist die zu wählen, die den verfassungsrechtlichen Vorgaben (Grundrechte, Verhältnismäßigkeit, Bestimmtheitsgebot) entspricht. Grenze: Wortlaut des Gesetzes; eine Auslegung *contra legem* ist nicht zulässig (BVerfGE 138, 296 — Kopftuch II — und ständige Rechtsprechung).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Unionsrechtskonforme Auslegung des nationalen Rechts:**
-- Pflicht aus Art. 4 Abs. 3 EUV; EuGH, Marleasing, C-106/89; EuGH, Pfeiffer, C-397/01 bis C-403/01.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Grenze am Wortlaut des nationalen Rechts; keine Auslegung *contra legem*.
 - Bei Richtlinien zusätzlich: keine horizontale Direktwirkung zwischen Privaten (EuGH, Marshall, 152/84). Wer sich gegen einen Privaten auf eine Richtlinie beruft, muss über die richtlinienkonforme Auslegung des nationalen Umsetzungsrechts argumentieren.
 
@@ -57,7 +57,7 @@ Vier klassische Kanones plus zwei Querschnittskanones. **Eine starre Rangfolge g
 - Begriffe des Unionsrechts werden unabhängig vom nationalen Begriffsverständnis ausgelegt. "Schaden" in Art. 82 DSGVO ist nicht der Schadensbegriff der §§ 249 ff. BGB.
 - Erwägungsgründe sind **Auslegungshilfe**, nicht **Auslegungssubstitut**. Sie dürfen nicht **entgegen** dem klaren Wortlaut des verfügenden Teils herangezogen werden.
 - Bei zweifelhaftem Wortlaut Sprachfassungen vergleichen; alle Amtssprachen sind verbindlich.
-- Bei letztinstanzlichen Gerichten **Vorabentscheidungsverfahren** Art. 267 AEUV, soweit nicht *acte clair* oder *acte éclairé* (CILFIT-Doktrin, EuGH 283/81).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Lückenfüllung
 

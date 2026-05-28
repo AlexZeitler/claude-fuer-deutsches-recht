@@ -29,16 +29,11 @@ Anwälte mit mehreren Mandanten und Verfahren arbeiten parallel an verschiedenen
 
 ### Leitentscheidungen
 
-- **BGH, Urt. v. 05.11.2009 – IX ZR 214/08, NJW 2010, 73 Rn. 16** — Anwaltliche Verschwiegenheitspflicht und Haftung bei unzulässiger mandatsübergreifender Nutzung von Informationen; strikte Trennung der Mandate als Berufspflicht.
-- **BGH, Urt. v. 14.07.2016 – IX ZR 291/14, NJW 2016, 3235 Rn. 22 ff.** — Aufbewahrung von Handakten; Herausgabepflicht nach § 50 BRAO; Haftung bei vorzeitiger Vernichtung.
-- **BVerfG, Beschl. v. 12.04.2005 – 2 BvR 1027/02, NJW 2005, 1917** — Schutz der Mandatsunterlagen vor staatlichem Zugriff; anwaltliche Verschwiegenheit als Verfassungsposition.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- `Dittmann, in: Henssler/Prütting, BRAO, 5. Aufl. 2023, § 43a Rn. 55` — Verschwiegenheitspflicht; Reichweite und Grenzen; mandatsübergreifende Nutzung.
-- `Greger, in: Zöller, ZPO, 35. Aufl. 2024, § 84 Rn. 3` — Vollmacht und Aktenführung im Prozess; Wechsel des Prozessbevollmächtigten.
-- `Römermann, in: BeckOK BRAO, 21. Ed. (Stand 01.03.2024), § 50 Rn. 12` — Handaktenpflicht, Aufbewahrung, Vernichtung.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 
@@ -200,7 +195,7 @@ Aufnahme abgeschlossen. Slug: `[slug]`. Status: aktiv.
 ## Quellenpflicht
 
 - Gesetzestexte: §§ 43a, 45, 46, 50 BRAO; § 3 BORA; Art. 32 DSGVO; § 1 BDSG
-- Rechtsprechung: BGH, Urt. v. 05.11.2009 – IX ZR 214/08, NJW 2010, 73; BGH, Urt. v. 14.07.2016 – IX ZR 291/14, NJW 2016, 3235
-- Kommentare: Dittmann, in: Henssler/Prütting, BRAO, 5. Aufl. 2023, § 43a; Römermann, in: BeckOK BRAO, 21. Ed. 2024, § 50
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

@@ -22,7 +22,7 @@ Dieser Skill extrahiert aus hochgeladenen Transaktionsdokumenten (Term Sheet, SP
 - § 194 AktG analog (Wandelschuldverschreibungen und Klassen – Orientierung)
 
 ### Rechtsprechung
-- BGH, Urt. v. 15. März 2010 – II ZR 4/09 (Auslegung von Term Sheets im GmbH-Bereich)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -80,9 +80,9 @@ Stand: 05/2026. Bei Änderung GmbHG/HGB-Eigenkapitalausweis aktualisieren.
 
 ### Normen-Ergänzung und Rechtsprechung
 
-BGH, Urt. v. 01.12.2014 — **II ZR 241/13**, NJW 2015, 565 Rn. 14: Vertragsunterlagen für Kapitalerhöhung bei Wandlung müssen vollständig und inhaltlich konsistent sein; lückenhafte oder widersprüchliche Dokumente führen zu Zurückweisung durch den Notar und verzögern die Handelsregistereintragung; der Geschäftsführer trägt die Pflicht zur vollständigen Vorlage.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 05.11.2020 — **III ZR 110/19**, NJW 2021, 222 Rn. 12: Bei elektronisch eingereichten Unterlagen nach § 12 HRV muss die Authentizität durch qualifizierte elektronische Signatur nach eIDAS-VO oder notarielle Bestätigung sichergestellt sein; unsignierte PDF-Scans genügen nicht für rechtserhebliche Eingaben.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen
 

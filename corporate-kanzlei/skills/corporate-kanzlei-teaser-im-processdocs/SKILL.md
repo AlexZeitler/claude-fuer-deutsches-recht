@@ -24,15 +24,11 @@ description: "Teaser, Information Memorandum und Prozessdokumente für M&A-Aukti
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 15.09.2023 - V ZR 77/22 — Datenraum-Offenlegung erfüllt Aufklärungspflichten nur, wenn der Verkäufer nach den Umständen berechtigterweise erwarten darf, dass der Käufer die Information tatsächlich zur Kenntnis nimmt.
-- BGH, Urt. v. 04.04.2001 - VIII ZR 32/00, NJW 2001, 2163 — ungefragte Aufklärungspflicht über Umstände, die für den Vertragsentschluss wesentlich sind und den Vertragszweck gefährden können.
-- OLG Frankfurt, Urt. v. 20.11.2018 - 1 U 98/18, NZG 2019, 175 — Disclaimer und Haftungsfreizeichnung im Transaktionsprozess ersetzen keine Offenlegung bei Arglist oder wesentlichen Falschangaben.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 2 — Prozessdokumente und IM
-- MueKo BGB/Lorenz § 311 Rn. 40 ff. — c.i.c.; Haftung fuer Prospekte und IM
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Dokumententypen im M&A-Prozess
 
 | Dokument | Inhalt | Vertraulichkeit | Zeitpunkt |
@@ -114,5 +110,5 @@ ANLAGEN (Phase II)
 ## Quellen
 
 - §§ 311 II, 241 II, 123 BGB; Art. 17 MAR; §§ 11, 14, 15 WpUeG; §§ 8-15 UWG
-- BGH V ZR 77/22 (Datenraum-Aufklärung); BGH VIII ZR 32/00 (vorvertragliche Aufklärung); OLG Frankfurt 1 U 98/18 (Disclaimer)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 2

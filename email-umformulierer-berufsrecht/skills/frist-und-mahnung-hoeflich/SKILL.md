@@ -16,10 +16,7 @@ Dieser Skill stellt abgestufte Vorlagen für Erinnerungen, Mahnungen und Fristse
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 25.01.2007 - III ZR 4/06, NJW 2007, 1584 — Mahnung muss so formuliert sein, dass der Schuldner die Ernsthaftigkeit der Forderung erkennt; bloss hoefliche Bitte genuegt nicht fuer Verzug nach § 286 BGB.
-- BGH, Urt. v. 11.11.2008 - VIII ZR 265/07, NJW 2009, 197 — Konkludente Mahnung durch Rechnung mit Zahlungsfrist; Frist muss eindeutig benannt sein.
-- BAG, Urt. v. 20.01.2016 - 10 AZR 386/14, NZA 2016, 809 — Arbeitsrechtliche Abmahnungen muessen so formuliert sein, dass der Arbeitnehmer klar versteht, welches Verhalten beanstandet wird.
-- BGH, Urt. v. 23.01.2014 - III ZR 37/13, NJW 2014, 1380 — Noetigungstatbestand (§ 240 StGB) wird nicht durch foermliche Mahnungen erfuellt, solange angekuendigte Massnahmen zulaessige Rechtsverfolgung darstellen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 286 BGB — Schuldnerverzug: Mahnungserfordernis und -wirkung
@@ -27,10 +24,9 @@ Dieser Skill stellt abgestufte Vorlagen für Erinnerungen, Mahnungen und Fristse
 - § 240 StGB — Noetigung: Grenze zwischen zulaessigem Folgehinweis und strafbarer Drohung
 - § 43a Abs. 3 BRAO — Sachlichkeitsgebot bei anwaltlichen Mahnschreiben
 
-## Kommentarliteratur
-- Grüneberg/Grüneberg BGB § 286 Rn. 15-40 (Mahnung: Form, Inhalt, Wirkung)
-- Gaier/Wolf/Goebel, BRAO § 43a Abs. 3 Rn. 60-75 (Sachlichkeitsgebot in Mahnschreiben)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Strategische Optionen (vor dem Template entscheiden)
 
 Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.

@@ -19,9 +19,9 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 - §§ 133, 134, 157 HGB (Auseinandersetzung Personengesellschaft; Haftungskontinuität)
 - §§ 242, 249 ff. BGB (Gewährleistung, Schadensersatz, SPA-Garantien)
 - W&I-Versicherung: VVG §§ 49 ff. (versicherungsvertragsrechtliche Grundlagen), marktübliche Policy-Bedingungen
-- BAG 26.9.2017 — 3 AZR 72/16 (§ 613a BGB und BAV — Eintritt in Versorgungsverpflichtungen)
-- BAG 24.1.2017 — 3 AZR 372/15 (BAV-Garantien und Informationspflichten bei Betriebsübergang)
-- EuGH C-235/10 u.a. (Scattolon) — § 613a-Grundsätze europäisch
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IAS 36 (Impairment of Assets — Goodwill-Werthaltigkeitsprüfung nach Akquisition; Pensionslasten als Faktor)
 - IFRS 3 (Business Combinations — Ansatz und Bewertung übernommener Pensionsverpflichtungen)
 
@@ -110,7 +110,7 @@ Pensionsverpflichtungen, die in Anlage [X] nicht enthalten sind.
 
 (b) Rechtmäßigkeit: Alle Versorgungsordnungen, Betriebsvereinbarungen und
 Einzelzusagen der Zielgesellschaft zur BAV entsprechen den Anforderungen des
-BetrAVG, insbesondere der Drei-Stufen-Theorie gem. BAG GS 1/82 und BAG 3 AZR
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 392/06. Es bestehen keine rechtlichen Angriffspunkte gegen die Wirksamkeit
 bestehender Eingriffe in Versorgungsrechte.
 
@@ -216,5 +216,4 @@ EMPFEHLUNG:
 
 ## Ergaenzende Rechtsprechung (v14.2)
 
-- **BAG, Urt. v. 17.11.2021 — 10 AZR 174/20**, NZA 2022, 263 — Haftungsuebergang bei Betriebsuebergang nach § 613a BGB; bisheriger Arbeitgeber haftet neben Erwerber gesamtschuldnerisch fuer vor Uebergang entstandene Versorgungsansprueche.
-- **BAG, Urt. v. 10.09.2019 — 3 AZR 401/17**, NZA 2020, 91 — Versorgungsordnung als kollektive Regelung; beim Asset Deal gehen Betriebsvereinbarungen als solche nicht ueber, aber ihre Inhalte werden individualvertraglich fortgefuehrt (§ 613a Abs. 1 S. 2 BGB); Sperrfrist ein Jahr.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

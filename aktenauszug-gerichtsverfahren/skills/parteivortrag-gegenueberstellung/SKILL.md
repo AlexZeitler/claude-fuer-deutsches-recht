@@ -26,17 +26,11 @@ Die Parteivortrag-Tabelle stellt streitige Sachverhaltsangaben der Kläger- und 
 
 ## Rechtsprechung zum Parteivortrag und Bestreiten
 
-- BGH, Urt. v. 04.07.2017 - XI ZR 233/16, NJW 2017, 3376 — Unsubstantiiertes Bestreiten genügt nicht; eine Partei muss auf spezifischen Vortrag des Gegners konkret eingehen (§ 138 Abs. 2 ZPO).
-- BGH, Urt. v. 12.07.2016 - II ZR 153/15, NJW 2016, 3237 — Einfaches Bestreiten mit Nichtwissen (§ 138 Abs. 4 ZPO) nur bei eigenen Handlungen unzulässig; bei Handlungen Dritter unter Voraussetzungen möglich.
-- BGH, Urt. v. 23.04.2015 - VII ZR 131/13, BGHZ 205, 107 — Anforderungen an die hinreichende Bestimmtheit eines Architektenvertrages; fehlende Bestimmtheit des Vertragsinhalts führt nicht zur Unwirksamkeit, wenn den Vertragsparteien ein Leistungsbestimmungsrecht nach §§ 315 f. BGB zusteht.
-- BGH, Urt. v. 29.01.2019 - XI ZR 265/17, NJW 2019, 1375 — Zum Bestreiten mit Nichtwissen nach § 138 Abs. 4 ZPO: auch für juristische Personen bei Vorgängen im eigenen Organisationsbereich unzulässig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller/Greger ZPO, § 138 Rn. 1 ff. (Erklärungspflicht und Bestreiten)
-- MüKo ZPO/Fritsche, § 286 Rn. 1 ff. (Freie Beweiswürdigung)
-- Thomas/Putzo ZPO, § 139 Rn. 1 ff. (Richterliche Prozessleitung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Tabellenstruktur
 
 ```markdown
@@ -88,6 +82,6 @@ Unstreitige Sachverhaltselemente werden unterhalb der Tabelle als Block "Unstrei
 <!-- AUDIT 27.05.2026 bundle_055
 Halluzinations-Reparatur: BGH VII ZR 131/13 (WRONG_TOPIC) korrigiert.
 Echtes Thema laut dejure.org: Anforderungen an die Bestimmtheit eines Architektenvertrages
-(BGHZ 205, 107), nicht "Darlegungs- und Beweislast im Werkvertrag NJW 2015 2111".
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Beschreibung entsprechend angepasst.
 -->

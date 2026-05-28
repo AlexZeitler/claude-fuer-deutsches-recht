@@ -22,7 +22,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 | Skill | Zweck |
 | --- | --- |
-| `fachanwalt-migrationsrecht-orientierung` | Orientierung im Migrationsrecht — FAO Voraussetzungen Normen typische Mandate Notfristen Standardliteratur. AufenthG (Aufenthaltsgesetz) AsylG (Asylgesetz) GFK Genfer Flüchtlingskonvention 1951 EU-Dublin-VO Verfahren… |
+| `fachanwalt-migrationsrecht-orientierung` | Orientierung im Migrationsrecht — FAO Voraussetzungen Normen typische Mandate Notfristen Quellenprüfung. AufenthG (Aufenthaltsgesetz) AsylG (Asylgesetz) GFK Genfer Flüchtlingskonvention 1951 EU-Dublin-VO Verfahren… |
 
 ## Lizenz
 

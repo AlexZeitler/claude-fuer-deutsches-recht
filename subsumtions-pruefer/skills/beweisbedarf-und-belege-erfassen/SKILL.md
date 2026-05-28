@@ -31,8 +31,7 @@ Jede Subsumtion steht und fällt mit dem Beweisergebnis. Dieser Skill erfasst f�
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 08.07.2020 - VIII ZR 163/18, NJW 2020, 2944 — Die sekundäre Darlegungslast des Beklagten greift, wenn der Kläger ausserhalb des maßgeblichen Geschehensablaufs steht und ihm nähere Einzelheiten nicht zugänglich sind; der Gegner muss dann zumutbar Auskunft geben.
-- BGH, Urt. v. 15.03.2017 - VIII ZR 295/15, NJW 2017, 2113 — Digitale Dokumente (E-Mails, Screenshots) unterliegen dem Urkundsbeweis analog §§ 415 ff. ZPO nur bei unbestrittener Echtheit; andernfalls Augenschein nach § 371 ZPO.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Beweismittel-Katalog (ZPO)
 
@@ -100,12 +99,9 @@ Das System fragt nach vollständigem Namen und Adresse des Zeugen. Es weist dara
 
 Das System weist darauf hin, dass Originale stets vorzuziehen sind. Kopien können bestritten werden (§ 420 ZPO).
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller/Greger §§ 355-484 ZPO (Beweisrecht) — Standard-Prozessrechtspraxis
-- Thomas/Putzo ZPO §§ 286, 287 (Beweiswürdigung und -mass) — Kurzkommentar mit BGH-Nachweisen
-- MüKo ZPO/Prütting §§ 284 ff. (Beweisrecht Gesamtdarstellung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Beweis-Tracking-Liste
 
 Am Ende der Beweiserfassung erstellt das System eine tabellarische Übersicht:

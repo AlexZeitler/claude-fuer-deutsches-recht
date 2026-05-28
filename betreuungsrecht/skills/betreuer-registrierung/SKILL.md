@@ -17,14 +17,11 @@ Wenn der Nutzer wissen will, **wer** überhaupt Betreuer werden darf, **wie** si
 5. Subsidiarität: Besteht Vorrang einer ehrenamtlichen Lösung (§ 1816 Abs. 5 BGB)?
 
 ## Aktuelle Rechtsprechung
-- BGH, Beschl. v. 06.06.2018 - XII ZB 601/17, FamRZ 2018, 1506 Rn. 14 — Anforderungen an die Sachkunde des Betreuers: ein Rechtsanwalt erfüllt die Sachkunde-Anforderungen für betreuungsrechtliche Vermögenssorge grundsätzlich aufgrund seiner Ausbildung; ergänzende Kenntnisse zu Betreuung und Gesundheit müssen nachgewiesen werden.
-- BGH, Beschl. v. 13.09.2017 - XII ZB 252/17, FamRZ 2017, 1986 Rn. 18 — Berufsmassigkeit i.S.v. § 1 VBVG: bereits das Führen von mehr als zehn Betreuungen lässt auf Berufsmassigkeit schliessen; einzelne Betreuung neben Hauptberuf schliept Berufsmässigkeit nicht automatisch aus.
-- OLG Hamm, Beschl. v. 12.03.2019 - 15 W 23/19, FamRZ 2019, 1287 Rn. 11 — Widerruf der Registrierung nach § 27 BtOG (a.F.): grobe Pflichtverletzung muss konkreter Nachweis erbracht werden; bloss objektiver Verstoß ohne Verschulden genügt nicht für sofortigen Widerruf.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Jurgeleit BtOG §§ 19-32 (Berufsbetreuer, Registrierung, Zuwendungsverbot)
-- Dodegge/Roth FamFG § 271 ff. (Verfahren Betreuerbestellung)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## I. Der "rechtliche Betreuer" als Oberbegriff
 
 Der Gesetzgeber spricht systematisch vom **rechtlichen Betreuer** im Sinne des § 1814 Abs. 1 BGB n.F. — er handelt für volljährige Personen, die ihre Angelegenheiten wegen Krankheit oder Behinderung ganz oder teilweise rechtlich nicht selbst besorgen können.

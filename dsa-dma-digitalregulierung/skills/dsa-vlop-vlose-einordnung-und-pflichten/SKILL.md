@@ -72,10 +72,8 @@ Stand 2026: bereits designiert sind u.a. mehrere große soziale Netzwerke, Video
 
 ## Aktuelle Rechtsprechung
 
-- EuG, Urt. v. 14.09.2023 — T-779/22 (ByteDance/Kommission), NJW 2024, 188 Rn. 55–78: Erstes Urteil zur VLOP-Designation nach Art. 33 DSA; Kommission hat weiten Ermessensspielraum bei Feststellung der 45-Mio.-Schwelle; ByteDance (TikTok) als VLOP designiert.
-- EuGH, Urt. v. 03.10.2019 — C-18/18 (Eva Glawischnig-Piesczek), NJW 2019, 3571 Rn. 28: Zur Reichweite von Pflichten sozialer Netzwerke bei illegalen Inhalten; DSA-Pflichtenkatalog für VLOPs baut auf dieser Rechtslinie auf.
-- OVG Hamburg, Beschl. v. 15.03.2023 — 14 Bs 12/23, NVwZ 2023, 890 Rn. 22: Zur nationalen Durchsetzung von Plattformpflichten; nach DSA liegt Zuständigkeit primär bei Kommission (Art. 65 DSA) und nationalem digitalen Koordinator.
-- EuGH, Urt. v. 26.04.2022 — C-401/19 (Polen/Parlament und Rat), NJW 2022, 1663 Rn. 47: Grundrechtsabwägung bei Pflichten von Online-Plattformen; die besondere Bedeutung des Internets fuer die in Art. 11 GRCh gewaehrleistete Freiheit der Meinungsaeusserung ist bei der Auslegung von Plattformpflichten gebührend zu berücksichtigen; Eingriffe durch automatisierte Verfahren beduerfen ausreichender Garantien.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -84,11 +82,9 @@ Stand 2026: bereits designiert sind u.a. mehrere große soziale Netzwerke, Video
 - Art. 52–53 DSA — Sanktionen bis 6 % Jahresumsatz
 - Art. 65 DSA — Durchsetzung durch Kommission
 
-## Kommentarliteratur
+## Quellenregel
 
-- Spindler, NJW 2022, 1305: Überblick VLOP-Pflichtenkatalog Art. 34–43 DSA.
-- Paal/Pauly, Medienrecht, 2024, DSA Art. 33 Rn. 1–60: Zum Designationsverfahren und der 45-Mio.-Schwelle.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 
 1. Überschreitet die Plattform 45 Mio. monatlich aktive EU-Nutzer (Art. 33 Abs. 1 DSA)?

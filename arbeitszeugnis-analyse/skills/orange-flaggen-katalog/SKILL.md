@@ -50,6 +50,4 @@ Der Skill listet alle orange Signale mit Zitat, Signaltyp (fehlende Steigerung/E
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung bei der Schlussbeurteilung: bessere als befriedigende Bewertung muss der Arbeitnehmer mit Tatsachen tragen.
-- **BAG, Urt. v. 11.12.2012 — 9 AZR 227/11** — Kein allgemeiner Anspruch auf Dank, Bedauern und Zukunftswünsche.
-- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot: Arbeitgeber muss Formulierungen wählen, die Fortkommen nicht unnötig erschweren; Berichtigungsanspruch bei Verstoß.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

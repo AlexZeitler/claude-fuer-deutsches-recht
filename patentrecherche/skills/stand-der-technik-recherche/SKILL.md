@@ -104,8 +104,8 @@ Bevor die Recherche begonnen wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 23.01.2018 — X ZR 166/15 (Stand der Technik — NPL):** Nicht-Patent-Literatur kann ebenso gut neuheitsschaedlich sein wie Patentdokumente; Hochschulschriften, Fachaufsaetze und Produktkataloge sind dem Stand der Technik zuzurechnen, wenn sie vor dem Prioritaetstag oeffentlich zugaenglich waren.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Urt. v. 17.04.2007 — X ZR 208/05 (Offenkundige Vorbenutzung):** Eine offenkundige Vorbenutzung der Erfindung durch den Anmelder selbst vor dem Anmeldetag zerstoert die Neuheit, auch wenn keine Drittveroeffentlichung stattgefunden hat; ein Messevortrag, eine Produktdemonstration oder ein Prospekt genuechen als Oeffentlichmachung.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BPatG, Beschl. v. 14.04.2015 — 13 W (pat) 53/11 (Fachmann-Standard):** Der Fachmann ist eine Hilfskonstruktion mit durchschnittlichem Fachwissen im betreffenden Technikgebiet und Zugang zum gesamten relevanten Stand der Technik; interdisziplinaere Erfindungen koennen ein Fachteam erfordern, das verschiedene Spezialisierungen vereint.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

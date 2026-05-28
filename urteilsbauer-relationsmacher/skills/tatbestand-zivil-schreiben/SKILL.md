@@ -18,8 +18,7 @@ Form und Inhalt: Paragraf 313 Abs. 2 ZPO. Knapp, nuechtern, objektiv, im Praesen
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 17.03.2015 - II ZR 15/14, NJW 2015, 2041 — Streitiges Vorbringen ist im Tatbestand als Parteivorbringen zu kennzeichnen ("Der Kläger behauptet ..."); nicht als festgestellte Tatsache darstellen.
-- BVerfG, Beschl. v. 25.07.2012 - 1 BvR 2640/11, NJW 2013, 289 — Tatbestand muss den Streitgegenstand klar umreißen; lückenhafter Tatbestand verletzt Anspruch auf rechtliches Gehör.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -30,12 +29,9 @@ Form und Inhalt: Paragraf 313 Abs. 2 ZPO. Knapp, nuechtern, objektiv, im Praesen
 
 
 <!-- AUDIT 27.05.2026: BGH V ZR 282/16 (22.09.2017) entfernt – Aktenzeichen auf dejure nicht auffindbar (NOT_FOUND). BGH VI ZR 94/03 (10.02.2004) entfernt – real topic § 540 ZPO Berufungsurteilsinhalt (BGHZ 158,60; NJW 2004,1389), nicht § 313 ZPO Bezugnahme (WRONG_TOPIC). -->
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller/Heßler, ZPO, 35. Aufl. 2024, § 313 Rn. 10-20 (Tatbestand Inhalt und Form)
-- Thomas/Putzo, ZPO, 45. Aufl. 2024, § 314 Rn. 1-10 (Beweiskraft)
-- MüKo-ZPO/Musielak, 6. Aufl. 2022, § 320 Rn. 1-15 (Tatbestandsberichtigung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 

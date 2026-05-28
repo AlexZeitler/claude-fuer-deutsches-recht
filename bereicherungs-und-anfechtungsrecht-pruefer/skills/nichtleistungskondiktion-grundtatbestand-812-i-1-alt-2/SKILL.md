@@ -19,18 +19,15 @@ description: "Nichtleistungskondiktion nach § 812 Abs. 1 S. 1 Alt. 2 BGB prüfe
 
 ## Rechtsprechung
 
-BGH, Urt. v. 29.04.2010 – I ZR 68/08, NJW-RR 2010, 1631 — Die Nichtleistungskondiktion nach § 812 Abs. 1 S. 1 Alt. 2 BGB setzt voraus, dass die Bereicherung nicht durch eine Leistung des Gläubigers, sondern in sonstiger Weise eingetreten ist; sie ist gegenüber der Leistungskondiktion subsidiär.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 18.01.2012 – I ZR 187/10, NJW 2012, 3774 — Die Eingriffskondiktion ist ein Unterfall der Nichtleistungskondiktion; sie setzt voraus, dass der Schuldner in den Zuweisungsgehalt einer fremden Rechtsposition eingegriffen hat, der die Rechtsordnung dem Gläubiger exklusiv zuweist.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 09.03.2012 – V ZR 115/11, NJW 2012, 1793 — Bei der Verwendungskondiktion nach § 812 Abs. 1 S. 1 Alt. 2 BGB sind die engeren Voraussetzungen des EBV (§§ 994 ff. BGB) zu beachten; § 812 BGB tritt zurück, wenn das EBV als lex specialis eingreift.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Lorenz in: Staudinger, BGB, Neubearbeitung 2023, § 812 Rn. 120–180 (Nichtleistungskondiktion, Eingriffskondiktion, Verwendungskondiktion).
-Sprau in: Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 812 Rn. 55–85 (Abgrenzung Alt. 1 / Alt. 2, Anwendungsfälle).
-Schwab in: MüKoBGB, 9. Aufl. 2024, § 812 Rn. 200–270 (Nichtleistungskondiktion, Subsidiarität).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Obersatz
 
 Wer etwas in sonstiger Weise auf Kosten eines anderen ohne rechtlichen Grund erlangt, ist zur Herausgabe verpflichtet (§ 812 Abs. 1 S. 1 Alt. 2 BGB).

@@ -15,8 +15,7 @@ Kyoto-Büro: Yuki Yamamoto-Brennecke (bengoshi + RAin, Shijō-dōri, Gion-Higash
 
 - IORP II (EU-Richtlinie 2016/2341/EU) — Einrichtungen der betrieblichen Altersversorgung, insb. Art. 11–18 (Cross-border)
 - BetrAVG §§ 1–30g (deutsches Recht als Mutterrecht)
-- EuGH C-168/18 (Bauer/Willmeroth) — Mindeststandards Unverfallbarkeit
-- EuGH C-396/22 (Generali) — Portabilitätsrechte
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - UK Pension Schemes Act 2021 / The Occupational Pension Schemes (Scheme Funding) Regulations 2005 (SI 2005/3377)
 - ERISA (Employee Retirement Income Security Act 1974, USA) — §§ 404–412 (fiduciary duty)
 - Code de la Sécurité Sociale Art. L. 137-11 (Frankreich — régimes à prestations définies — "Article 39"-Pläne)
@@ -174,10 +173,8 @@ JP    |   [X] |          [X] |      [X]% | Mittel      | DC-Reform
 
 ## Aktuelle Rechtsprechung und Leitsaetze (Ergaenzung v14.2)
 
-- **EuGH, Urt. v. 26.01.2017 — C-396/22 (Generali)**, NZA 2017, 490 — Portabilitaetsrichtlinie 2014/50/EU verlangt Uebertragbarkeit von Anwartschaften bei Arbeitgeberwechsel innerhalb der EU; konzernweite Harmonisierungskonzepte muessen Portabilitaetsrecht beachten.
-- **BAG, Urt. v. 15.02.2011 — 3 AZR 196/09**, NZA 2012, 272 — Aenderung von Versorgungsordnungen bei grenzueberschreitenden Konzernumstrukturierungen; dreistufige Pruefung gilt fuer in Deutschland beschaeftigte Arbeitnehmer auch wenn Konzernmutter im Ausland sitzt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur (Ergaenzung)
+## Quellenregel
 
-- HWK/Schipp, 11. Aufl. 2024, BetrAVG § 1b Rn. 1 ff. (Unverfallbarkeit, internationale Sachverhalte)
-- Schaub Arbeitsrechts-Handbuch/Linck, 20. Aufl. 2023, § 173 Rn. 80 ff. (grenzueberschreitende Harmonisierung, IORP II)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

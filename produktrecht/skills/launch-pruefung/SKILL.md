@@ -35,21 +35,20 @@ Der Skill lädt automatisch, wenn der Nutzer eine Markteinführung, eine CE-Prü
 **Produkthaftung**
 - §§ 1–15 ProdHaftG: Haftung des Herstellers für fehlerhafte Produkte, unabhängig vom Verschulden
 - §§ 823 Abs. 1, 826 BGB: deliktische Haftung (Parallelweg)
-- BGH, Urt. v. 16.06.2009 – VI ZR 107/08, BGHZ 181, 253: Entwicklungsfehler setzen voraus, dass die Produktgefahr nach dem Stand von Wissenschaft und Technik beim Inverkehrbringen nicht erkennbar war; bekannte Risiken müssen konstruktiv, instruktiv oder durch Nichtinverkehrbringen beherrscht werden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Verbraucher- und Wettbewerbsrecht**
 - §§ 433 ff. BGB: Kaufvertrag, Gewährleistung, Beschaffenheitsgarantie (§ 443 BGB)
 - § 5 UWG: Irreführende Werbung (betrifft auch Produktbeschreibungen)
-- BGH, Urt. v. 27.06.2024 – I ZR 98/23 (klimaneutral): Umweltbezogene Produktwerbung braucht klare, eindeutige und in der Werbung selbst zugängliche Erläuterungen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Marktüberwachung**
 - Marktüberwachungs-VO (EU) 2019/1020
 - Zuständige Behörden: Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAuA) für den Geräte- und Produktsicherheitsbereich; Bundesnetzagentur für Funkanlagen und Elektromagnetische Verträglichkeit; Landesbehörden im Vollzug
 
-### Kommentarliteratur und Aufsätze
+### Quellenregel
 
-Kommentarliteratur und Aufsätze nur mit konkretem Datenbankzugriff und geprüftem Pinpoint verwenden. Geeignete Startpunkte sind Klindt/Schucht zu ProdSG/GPSR, Kullmann zum ProdHaftG sowie Foerste/Graf von Westphalen zum Produkthaftungsrecht. Wenn kein Zugriff besteht, bleibt der Prüfvermerk bei Primärquellen, Behördenleitlinien und gesicherter Rechtsprechung.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Schritt 1: Eingaben erfassen
@@ -196,8 +195,8 @@ Prüfvermerk im internen Format gemäß CLAUDE.md. Falls kein Hausformat vorgege
 Jede Norm, Entscheidung oder Behördenaussage im Prüfvermerk muss belegt sein:
 
 - **Primärquellen:** EUR-Lex (Verordnungen, Richtlinien), BAuA-Website, BfArM (Medizinprodukte), BVL (Lebensmittel)
-- **Rechtsprechung:** juris, beck-online, NJW, GRUR, Gewerblicher Rechtsschutz und Urheberrecht (GRUR-RS)
-- **Kommentare:** Klindt ProdSG, Kullmann ProdHaftG, Foerste/von Westphalen Produkthaftungshandbuch
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **Quellenregel:** Klindt ProdSG, Kullmann ProdHaftG, Foerste/von Westphalen Produkthaftungshandbuch
 - **Zitierhinweis:** Entscheidungen in der Form `BGH, Urt. v. TT.MM.JJJJ – Az., Fundstelle Rn. X`; Normen stets mit §-Zeichen und Absatz-/Nummerierungsangabe
 
 Quellen, die nur aus Modellwissen stammen, nicht als zitierfähige Fundstelle ausgeben. Pinpoint-Zitate nur verwenden, wenn Randnummer, Seite oder amtlicher Leitsatz aus der konkreten Quelle geprüft wurde.

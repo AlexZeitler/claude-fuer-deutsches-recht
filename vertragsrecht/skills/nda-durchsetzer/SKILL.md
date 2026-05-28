@@ -46,26 +46,11 @@ Falls Referenzvorlage oder Checkliste fehlen, fragt der Skill zunächst nach —
 
 ### Kanonische Rechtsprechung
 
-- **BGH, Urt. v. 17.10.2024 – I ZR 75/23, GRUR 2025, 137 Rn. 22 ff.** — Anforderungen an angemessene Geheimhaltungsmaßnahmen i. S. d. § 2 Nr. 1 lit. b GeschGehG; ohne dokumentierte Schutzmaßnahmen kein Schutz, das NDA selbst ist Bestandteil der angemessenen Maßnahmen.
-- **BGH, Urt. v. 18.06.2014 – I ZR 242/12, GRUR 2014, 1233 Rn. 31** — Reichweite vertraglicher Geheimhaltungspflichten und Auslegung zugunsten des Geheimnisträgers.
-- **BGH, Urt. v. 07.11.2019 – I ZR 222/17, NJW 2020, 540 Rn. 39 ff.** — AGB-Kontrolle bei vorformulierten Vertraulichkeitsklauseln; einseitig stellende Partei trägt das Risiko der § 307-Kontrolle.
-- **BGH, Urt. v. 17.07.2008 – I ZR 168/05, GRUR 2009, 173 Rn. 16** — Vertragsstrafe in B2B-NDAs zulässig, jedoch Höhe nach § 343 BGB kontrollierbar; im kaufmännischen Verkehr Herabsetzung gem. § 348 HGB ausgeschlossen, prüfen.
-- **OLG Düsseldorf, Urt. v. 11.03.2021 – I-15 U 6/20, GRUR-RR 2021, 305 Rn. 28** — Beweislastumkehr in NDA-Klauseln auf AGB-Wirksamkeit zu prüfen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Maume, in: BeckOK GeschGehG, 18. Ed. (Stand 15.03.2025), § 2 Rn. 25 ff., § 3 Rn. 12 ff.
-- Reinfeld, Das neue Geschäftsgeheimnisrecht, 2. Aufl. 2023, § 4 Rn. 18 ff.
-- Köhler, in: Köhler/Bornkamm/Feddersen, UWG, 43. Aufl. 2025, § 1 GeschGehG Rn. 12 ff.
-- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 339 Rn. 5 ff. (Vertragsstrafe), § 307 Rn. 1 ff. (AGB-Kontrolle).
-- Gores, NJW 2019, 2540 (2543 f.) — Auswirkungen GeschGehG auf bestehende NDAs.
-
-> **Hinweis:** Der Begriff `Confidential Information` und ähnliche
-> englischsprachige Fachtermini (z. B. `Disclosing Party`, `Receiving
-> Party`, `Residual`, `Term Sheet`) gehören zur eingeführten deutschen
-> Wirtschaftsrechtsfachsprache und werden im NDA-Kontext üblicherweise
-> nicht zwingend übersetzt.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Mindeststandard-Katalog
 
 Die folgenden zehn Bereiche sind in **jedem** NDA zu prüfen.
@@ -81,7 +66,7 @@ Detaillierte Soll-Klauseln und rote Linien siehe
 7. **Rechtswahl und Gerichtsstand** — deutsches Recht, ausschließlicher Gerichtsstand am Sitz der Mandantin oder ein neutraler deutscher Gerichtsstand.
 8. **Einbeziehung verbundener Unternehmen** — i. S. d. § 15 AktG, einschließlich Mitarbeiter, Berater und gleichgestellter Personen mit gleichwertiger Verschwiegenheitspflicht.
 9. **Kein konkludenter Lizenzübergang** — ausdrücklicher Ausschluss von Eigentums-, Lizenz- oder sonstigen Nutzungsrechten an offengelegten Informationen.
-10. **Salvatorische Klausel im zulässigen Rahmen** — abgemildert wegen BGH-Rspr. (BGH, Urt. v. 24.09.2002 – KZR 10/01, NJW 2003, 347) und AGB-Kontrolle; im Zweifel zurückhaltend formulieren.
+10. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ablauf
 
@@ -169,8 +154,7 @@ Ergänzungen, die die eigene Seite einseitig begünstigen (z. B. drastische Vert
 **4. Vertragsstrafe ohne Höhenbegrenzung**
 "Vertragsstrafe in vom Anbieter zu bestimmender Höhe" ist unwirksam. Höhe konkret oder bestimmbar formulieren (z. B. `25.000 EUR pro Einzelverstoß, maximal 250.000 EUR insgesamt`). § 343 BGB / § 348 HGB beachten.
 
-**5. "Vormals Palandt" nicht in der Analyse zitieren**
-Aktueller BGB-Kommentar heißt **Grüneberg** (84. Aufl. 2025). Palandt-Zitate nur, wenn historische Altauflage tatsächlich gemeint und kenntlich gemacht. Siehe `references/zitierweise.md` Abschnitt 10a.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 **6. Gerichtsstand und Schiedsklausel verwechselt**
 Häufig bietet die Gegenseite Schiedsverfahren in Genf, London oder Singapur an — "neutraler Schiedsort" klingt fair, ist aber faktisch eine massive Kostenfalle für die kleinere Partei. Im Zweifel deutscher staatlicher Gerichtsstand vorziehen.
@@ -194,12 +178,11 @@ Bei jeder Ausgabe sind mindestens folgende Belege anzugeben:
 - §§ 241 Abs. 2, 311 Abs. 2, 280 Abs. 1, 339, 343 BGB; § 348 HGB; § 15 AktG
 - §§ 2, 3, 5, 6, 7, 10 GeschGehG
 - §§ 305, 307 BGB (bei AGB-Konstellation)
-- BGH, Urt. v. 17.10.2024 – I ZR 75/23, GRUR 2025, 137 Rn. 22 ff.
-- BGH, Urt. v. 07.11.2019 – I ZR 222/17, NJW 2020, 540 Rn. 39 ff.
-- Maume, in: BeckOK GeschGehG, 18. Ed. (Stand 15.03.2025), § 2 Rn. 25 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Köhler, in: Köhler/Bornkamm/Feddersen, UWG, 43. Aufl. 2025, § 1 GeschGehG Rn. 12 ff.
-- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 339 Rn. 5 ff., § 307 Rn. 1 ff.
-- Gores, NJW 2019, 2540 (2543 f.)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 *Dieser Skill produziert einen Arbeitsentwurf. Inhalt, Risikobewertung

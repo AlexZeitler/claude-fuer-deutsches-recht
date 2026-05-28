@@ -117,9 +117,7 @@ Interaktiver Dialog: Karte → Auswahl → aktueller Wert / neuer Wert → Best�
   Änderungen sequenziell vorgehen und jede vor dem Weitermachen bestätigen.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Profilbasierte KI-Entscheidungen fallen unter Art. 22 DSGVO — Anpassung der Risikoeinstellung muss DSGVO-Widerspruchsrecht berucksichtigen.
-- EuGH, Urt. v. 27.02.2025 - C-203/22 (Dun & Bradstreet Austria), NJW 2025, 1471: Art. 15 Abs. 1 lit. h DSGVO verlangt aussagekraeftige Informationen zur involvierten Logik automatisierter Bonitaetsbeurteilungen; Geschaeftsgeheimnisse sind im Einzelfall zu schuetzen.
-- BVerwG, Urt. v. 04.04.2019 — 2 C 4/18, NVwZ 2019, 1283 Rn. 22: Transparenz algorithmischer Entscheidungen als Pflicht auch im Verwaltungsbereich; Eskalationsmatrix-Aenderungen muessen nachvollziehbar dokumentiert werden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 5 KI-VO — verbotene Praktiken (jede Profileinstellung muss dagegen gecheckt werden)
@@ -128,10 +126,9 @@ Interaktiver Dialog: Karte → Auswahl → aktueller Wert / neuer Wert → Best�
 - Art. 35 DSGVO — DSFA-Ausloeser
 - § 87 Abs. 1 Nr. 6 BetrVG — Mitbestimmungsrecht bei Mitarbeiter-KI
 
-## Kommentarliteratur
-- Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 26 Rn. 5: Betreiberpflichten und Governance-Dokumentation.
-- Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22 Rn. 10: Widerspruchsrecht und Konfigurationsanforderungen.
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Welcher Abschnitt des Praxisprofils soll geaendert werden — Risikoeinstellung, Register, Eskalation?
 2. Hat die Aenderung nachgelagerte Auswirkungen auf andere Skills (Triage, Folgenabschaetzung)?

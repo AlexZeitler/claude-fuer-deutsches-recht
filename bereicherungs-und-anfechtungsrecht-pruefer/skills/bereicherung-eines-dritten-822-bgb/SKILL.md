@@ -19,18 +19,15 @@ description: "Bereicherungsanspruch gegen Dritten bei unentgeltlicher Weitergabe
 
 ## Rechtsprechung
 
-BGH, Urt. v. 26.09.1995 – XI ZR 159/94, NJW 1996, 191 — § 822 BGB setzt voraus, dass der Primäranspruch gegen den Erstempfänger dem Grunde nach besteht und nur an dessen Entreicherung scheitert; die Norm begründet keinen eigenständigen deliktischen Anspruch.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 19.01.2012 – III ZR 7/11, NJW-RR 2012, 823 — Der Dritte kann gegenüber dem Anspruch aus § 822 BGB die Einrede der Entreicherung (§ 818 Abs. 3 BGB) erheben, sofern er bei Empfang der Leistung gutgläubig war; bei Bösgläubigkeit gilt § 819 BGB.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 12.07.2018 – IX ZR 167/17, NJW 2018, 3239 — § 816 Abs. 1 S. 2 BGB und § 822 BGB können konkurrieren; welche Norm einschlägig ist, richtet sich danach, ob der Erstempfänger berechtigt oder nichtberechtigt über den Gegenstand verfügt hat.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Lorenz in: Staudinger, BGB, Neubearbeitung 2023, § 822 Rn. 1–40 (Direktanspruch, Entreicherung, Verhältnis zu § 816).
-Sprau in: Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 822 Rn. 1–10.
-Schwab in: MüKoBGB, 9. Aufl. 2024, § 822 Rn. 1–35 (Schutzlücke, Tatbestandsmerkmale, Konkurrenzen).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 § 822 BGB schließt eine Schutzlücke: Hat der Erstempfänger das Erlangte unentgeltlich an einen Dritten weitergegeben und ist er dadurch entreichert (§ 818 Abs. 3 BGB), hätte der Bereicherungsgläubiger keine Ansprüche mehr. § 822 BGB gibt ihm einen Direktanspruch gegen den Dritten.

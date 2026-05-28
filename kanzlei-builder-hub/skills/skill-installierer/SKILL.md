@@ -47,13 +47,12 @@ Dies dient zugleich der Einhaltung kanzleiinterner Informationssicherheitspflich
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 26.09.2002 – IX ZR 399/99, NJW 2003, 211 Rn. 8 — Rechtsanwalt haftet für unzureichende Überprüfung eingesetzter Software in der Mandatsbearbeitung, wenn dadurch Datenverlust entsteht.
-- BGH, Urt. v. 26.09.2002 – IX ZR 399/99, NJW 2003, 211 Rn. 8 — Rechtsanwalt haftet für unzureichende Überprüfung eingesetzter Software in der Mandatsbearbeitung, wenn dadurch Datenverlust entsteht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentar- und Aufsatzbelege
+### Quellenregel
 
-- Henssler/Prütting, in: Henssler/Prütting, BRAO, 5. Aufl. 2023, § 43a Rn. 55 — Verschwiegenheitspflicht und technische Schutzmaßnahmen beim Einsatz von KI-Werkzeugen.
-- Hähnchen, NJW 2024, 1137 — KI-gestützte Rechtsdienstleistung: Anforderungen an Qualitätssicherung und Haftung beim Einsatz von KI-basierten Tools.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ---
 
@@ -235,10 +234,10 @@ Bei jeder Ausführung dieser Skill sind folgende Quellen als anwendbares Recht z
 - § 203 StGB (Berufsgeheimnis)
 - Art. 32 DSGVO (technisch-organisatorische Maßnahmen)
 - AI Act Art. 26 (Deployer-Pflichten)
-- BGH, Urt. v. 26.09.2002 – IX ZR 399/99, NJW 2003, 211
-- Henssler/Prütting, in: Henssler/Prütting, BRAO, 5. Aufl. 2023, § 43a Rn. 55
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Kleine-Cosack, in: Kleine-Cosack, BRAO, 9. Aufl. 2023, § 43a Rn. 45
-- Hähnchen, NJW 2024, 1137
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 

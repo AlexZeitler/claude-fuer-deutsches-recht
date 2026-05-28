@@ -52,10 +52,10 @@ Nur diese Forderungen lassen sich nach Restschuldbefreiung weiterhin vollstrecke
 
 ## Leitentscheidungen
 
-- BGH 18.5.2006 – IX ZR 187/04 (Wirkung der Feststellung)
-- BGH 13.10.2009 – XI ZR 18/09 (Verjährung § 197 Abs. 1 Nr. 5 BGB)
-- BGH 17.1.2008 – IX ZR 220/06 (§ 302 InsO Eintragungserfordernis)
-- BGH 18.12.2008 – IX ZR 124/08 (Forderung aus Tabelle nach Restschuldbefreiung)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
 

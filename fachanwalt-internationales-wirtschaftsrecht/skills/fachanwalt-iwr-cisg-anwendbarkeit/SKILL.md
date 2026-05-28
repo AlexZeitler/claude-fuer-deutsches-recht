@@ -40,7 +40,7 @@ Prüfung, ob das UN-Kaufrecht (CISG) auf grenzüberschreitenden Warenkauf anwend
 ### Voraussetzung
 
 - **Eindeutiger** Vertraglicher Ausschluss
-- Verweis auf nationales Recht reicht nicht (BGH NJW 2009, 2306)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - "Es gilt deutsches Recht" -> CISG bleibt (Teil deutschen Rechts)
 - Korrekt: "Es gilt deutsches Recht unter Ausschluss des UN-Kaufrechts (CISG)"
 
@@ -63,8 +63,7 @@ Prüfung, ob das UN-Kaufrecht (CISG) auf grenzüberschreitenden Warenkauf anwend
 ### Ruegepflicht Art. 39 CISG
 
 - **Innerhalb angemessener Frist** nach Entdeckung
-- BGH-Faustregel: ca. **1 Monat** (BGH NJW 1995, 2099 / BGH NJW 1999, 1259)
-- BGH VIII ZR 159/94 BGHZ 129, 75 (Knochenmehl) zur Frist-Berechnung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bei Versäumnis: Verlust der Gewaehrleistungs-Rechte
 
 ### Spaetestens Art. 39 II CISG
@@ -114,9 +113,7 @@ Prüfung, ob das UN-Kaufrecht (CISG) auf grenzüberschreitenden Warenkauf anwend
 
 ## 9) BGH-Linien
 
-- BGH, Urt. v. 11.1.2006 — VIII ZR 268/04 (Ruegepflicht)
-- BGH, Urt. v. 23.7.2007 — VIII ZR 159/94 BGHZ 129, 75 (Knochenmehl)
-- BGH, Urt. v. 25.6.1997 — VIII ZR 300/96 (Ausschluss-Erfordernis)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 
@@ -131,12 +128,11 @@ Prüfung, ob das UN-Kaufrecht (CISG) auf grenzüberschreitenden Warenkauf anwend
 1. Haben beide Parteien Niederlassung in CISG-Vertragsstaaten? → Art. 1 Abs. 1 lit. a CISG
 2. Fuehrt IPR-Verweisung in CISG-Staat? → Art. 1 Abs. 1 lit. b CISG (von DE nicht erklaert; kein Problem)
 3. Ist Warenkauf (kein Verbraucherkauf, keine Dienstleistung, kein Strom)?
-4. Wurde CISG ausgeschlossen (Art. 6 CISG)? → AGB-Klausel "deutsches Recht" schliesst CISG NICHT automatisch aus (BGH VIII ZR 67/04)
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Ergaenzende Leitsaetze
 
-- BGH, Urt. v. 25.11.1998 - VIII ZR 259/97, NJW 1999, 1260 — CISG gilt auch fuer Kauf von Computeranlage als Ware; gemischte Kauf/Dienstleistungsvertraege nach Art. 3 Abs. 2 CISG: Schwerpunkt Ware oder Dienstleistung entscheidend.
-- OLG Frankfurt, Urt. v. 17.09.2014 - 4 U 97/14, IPRax 2015, 344 — CISG schliesst ergaenzende Anwendung deutschen AGB-Rechts aus soweit CISG Frage abschliessend regelt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Output-Template Checkliste CISG-Anwendbarkeit
 **Adressat:** Intern (Kaltstart) — Tonfall: schnell, checkboxorientiert

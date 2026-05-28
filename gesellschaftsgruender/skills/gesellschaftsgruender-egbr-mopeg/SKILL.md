@@ -29,17 +29,11 @@ Klaere bei jedem eGbR-Mandat zuerst:
 
 ## Aktuelle Rechtsprechung
 
-- **BGH, Urt. v. 29.01.2001 – II ZR 331/00, BGHZ 146, 341** — (Grundsatz-Entscheidung zur Rechtsfaehigkeit der Aussen-GbR vor MoPeG) Die GbR ist als Aussengesellschaft rechts- und parteifaehig; sie kann im eigenen Namen klagen und verklagt werden. Durch MoPeG nun in Paragraf 705 II BGB kodifiziert.
-- **BGH, Beschl. v. 28.04.2011 – V ZB 194/10, BGHZ 189, 274** — Bei Grundbuch-Eintragung einer GbR muss jeder einzelne Gesellschafter eingetragen werden; unpraktikabel bei wechselnder Zusammensetzung. Durch MoPeG / Paragraf 707b BGB geloest: kuenftig Eintragung der eGbR im Grundbuch.
-- **OLG Duesseldorf, Beschl. v. 17.05.2024 – I-3 Wx 99/23, NZG 2024, 843** — Erste Entscheidung nach MoPeG-Inkrafttreten: Grundbuchamt muss eGbR unmittelbar als Eigentuemerin eintragen; Eintragung der Gesellschafter-Namen genuegt nicht mehr; Paragraph 707b BGB ist zwingend.
-- **BGH, Urt. v. 22.09.2020 – II ZR 37/20, NJW 2021, 314** — Haftung ausgeschiedener GbR-Gesellschafter; § 721a BGB-neu kodifiziert die Nachhaftungsbeschraenkung auf 5 Jahre nach Ausscheiden (Paragraf 728b BGB n.F.); Glaeubiger muessen sich an Nachfolger-Gesellschaft halten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MüKo BGB/Schaefer, 9. Aufl. 2023 (MoPeG-Ergaenzungslieferung), §§ 705-740 BGB (GbR nach MoPeG; Uebergangsrecht)
-- Westermann/Wertenbruch, Handbuch Personengesellschaften, 4. Aufl. 2023, Teil I Rn. 1-200 (GbR-Recht nach MoPeG; eGbR-Eintragung)
-- Henssler/Strohn, Gesellschaftsrecht, 6. Aufl. 2023, BGB § 707 Rn. 1-50 (Gesellschaftsregister; Eintragungsverfahren)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfschema: eGbR-Eintragungsentscheidung
 
 | Schritt | Frage | Norm | Ergebnis |
@@ -105,8 +99,8 @@ Unterschriften aller Gesellschafter (notariell beglaubigt)
 
 - §§ 705-740 BGB (MoPeG-Fassung ab 1.1.2024)
 - §§ 707, 707a, 707b, 720, 721, 723, 728b BGB
-- BGH BGHZ 146, 341 (2001); BGHZ 189, 274 (2011); BGH NJW 2021, 314; OLG Duesseldorf NZG 2024, 843
-- MüKo BGB/Schaefer §§ 705-740; Westermann/Wertenbruch Handbuch Personengesellschaften; Henssler/Strohn BGB § 707
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Uebergabe an andere Skills
 

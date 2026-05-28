@@ -39,8 +39,8 @@ Betriebsvereinbarung zur Unternehmensführung erforderlich.
 
 **Detektivkosten**: Kosten für externe Ermittler sind nach der
 BAG-Rechtsprechung nur unter engen Voraussetzungen als Schadensersatz
-vom Arbeitnehmer ersatzfähig (BAG, Urt. v. 28.10.2010 – 8 AZR 547/09,
-NZA 2011, 345).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Rechtlicher Rahmen
 
@@ -63,21 +63,21 @@ NZA 2011, 345).
 
 **Leitentscheidungen:**
 
-- BAG, Urt. v. 20.06.2013 – 2 AZR 546/12, NZA 2014, 143 Rn. 14 ff.:
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Verdachtskündigung — Voraussetzungen: dringender Tatverdacht auf Basis
   objektiver Umstände, Verhältnismäßigkeit, vorherige Anhörung des
   Arbeitnehmers als zwingende Wirksamkeitsvoraussetzung
-- BAG, Urt. v. 28.10.2010 – 8 AZR 547/09, NZA 2011, 345 Rn. 26 ff.:
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Erstattungsfähigkeit von Detektivkosten — nur soweit konkrete Verdachtslage
   bei Beauftragung bestand und Verhältnismäßigkeit gewahrt ist
-- BAG, Urt. v. 13.12.2007 – 2 AZR 537/06, NZA 2008, 1008 Rn. 18 ff.:
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Verwertungsverbot rechtswidrig erlangter Erkenntnisse — heimliche
   Videoüberwachung ohne Mitbestimmung des Betriebsrats; Beweisverwertungsverbot
-- BAG, Urt. v. 23.08.2018 – 2 AZR 133/18, NZA 2018, 1329 Rn. 29 ff.:
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Anhörung vor Verdachtskündigung — inhaltliche Mindestanforderungen und
   Fehlerfolgen bei fehlerhafter Anhörung
 
-**Kommentarliteratur:**
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 - Erfurter Kommentar/Müller-Glöge, 24. Aufl. 2024, § 626 BGB Rn. 165 ff.:
   Verdachtskündigung — Voraussetzungen, Verfahren, Anhörung
@@ -708,8 +708,7 @@ soll sie unterstützen?
 Bei jeder Ausgabe zu Untersuchungsverfahren zitieren:
 - § 26 BDSG (Beschäftigtendatenschutz, Verhältnismäßigkeit)
 - § 87 Abs. 1 Nr. 6 BetrVG (Mitbestimmung bei technischer Überwachung)
-- BAG, Urt. v. 20.06.2013 – 2 AZR 546/12, NZA 2014, 143 (Verdachtskündigung)
-- BAG, Urt. v. 23.08.2018 – 2 AZR 133/18, NZA 2018, 1329 (Anhörung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Gola/Heckmann/Schomerus, BDSG, 13. Aufl. 2022, § 26 Rn. 120 ff.
 - Erfurter Kommentar/Müller-Glöge, 24. Aufl. 2024, § 626 BGB Rn. 165 ff.
 

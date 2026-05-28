@@ -27,13 +27,12 @@ Community-Skills verbessern sich. Dieser Skill bemerkt, wenn eine neue Version v
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 10.02.2011 – IX ZR 49/10, NJW 2011, 1594 Rn. 9 — Haftung bei Verletzung von Organisationspflichten in der Kanzlei; sorgfaltsgemäße Einrichtung und Überwachung technischer Systeme ist geschuldeter Anwaltspflichtstandard.
-- BGH, Urt. v. 26.09.2002 – IX ZR 399/99, NJW 2003, 211 — Rechtsanwalt haftet für unzureichende Überprüfung eingesetzter Software in der Mandatsbearbeitung, wenn dadurch Datenverlust entsteht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentar- und Aufsatzbelege
+### Quellenregel
 
-- Henssler/Prütting, in: Henssler/Prütting, BRAO, 5. Aufl. 2023, § 43a Rn. 55 — Verschwiegenheitspflicht und technische Schutzmaßnahmen beim Einsatz von KI-Werkzeugen in der Kanzlei.
-- Hähnchen, NJW 2024, 1137 (1141) — KI-gestützte Rechtsdienstleistung: Anforderungen an Qualitätssicherung; einschlägig zu Update-Kontrolle als Bestandteil des Qualitätsmanagements.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Ablauf
 
@@ -161,9 +160,8 @@ Bei der Ausführung dieses Skills sind folgende Quellen zu berücksichtigen:
 - Art. 32 DSGVO (technisch-organisatorische Maßnahmen)
 - § 50 BRAO (Aktenführung; Versionsprotokollierung)
 - AI Act Art. 26 (Deployer-Pflichten; Überwachung von KI-Systemänderungen)
-- BGH, Urt. v. 10.02.2011 – IX ZR 49/10, NJW 2011, 1594 Rn. 9
-- BGH, Urt. v. 26.09.2002 – IX ZR 399/99, NJW 2003, 211
-- Henssler/Prütting, in: Henssler/Prütting, BRAO, 5. Aufl. 2023, § 43a Rn. 55
-- Hähnchen, NJW 2024, 1137 (1141)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

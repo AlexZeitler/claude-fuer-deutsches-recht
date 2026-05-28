@@ -67,7 +67,7 @@ Bei vielen Rechtsfragen — vor allem im Zivilrecht, Verbraucherschutz, Datensch
 ### Marleasing-Doktrin
 
 - Nationales Gericht muss nationales Recht **im Lichte und im Sinne der Richtlinie** auslegen
-- EuGH C-106/89 Marleasing
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Auch bei nicht-rechtzeitiger Umsetzung
 - Auslegungs-Grenze: nationale Methodenlehre, Wortlaut, contra-legem-Verbot
 
@@ -200,12 +200,12 @@ Wenn Du argumentierst: "Hier könnte ein Vorabentscheidungs-Verfahren nach Art. 
 ### Identitäts-Kontrolle
 
 - BVerfG kontrolliert EU-Recht auf Vereinbarkeit mit der Verfassungs-Identität (Art. 79 III GG)
-- BVerfGE Band 123 Seite 267 (Lissabon-Urteil)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Ultra-Vires-Kontrolle
 
 - BVerfG kontrolliert EU-Akte auf Befugnis-Überschreitung
-- BVerfGE Band 154 Seite 17 (PSPP-Urteil)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Hilfsfragen für Deine Reflexion
 

@@ -19,20 +19,17 @@ description: "Triage-Entscheidung: welcher Regelungskreis ist einschlägig - Ber
 
 ## Rechtsprechung
 
-BGH, Urt. v. 25.02.1999 – IX ZR 30/98, NJW 1999, 1704 — Ist der Rechtsgrund für die Vermögensverschiebung von Anfang an nicht entstanden oder nachträglich weggefallen, ist § 812 Abs. 1 S. 1 BGB die einschlägige Anspruchsgrundlage; Anfechtungsrecht setzt dagegen einen (zunächst) wirksamen Rechtsgrund voraus.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 12.07.2007 – IX ZR 235/03, NJW 2007, 3069 — Mit Eröffnung des Insolvenzverfahrens (§ 27 InsO) ist das Anfechtungsrecht nach §§ 1 ff. AnfG für den Einzelgläubiger ausgeschlossen; an die Stelle tritt das Recht des Insolvenzverwalters nach §§ 129 ff. InsO.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 07.07.2005 – IX ZR 221/04, NJW 2005, 2983 — Das AnfG setzt als unverzichtbare Voraussetzung einen vollstreckbaren Titel (§ 2 AnfG) und die fruchtlose Zwangsvollstreckung voraus; fehlt der Titel, ist die Anfechtungsklage nach AnfG unzulässig.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 19.01.2012 – IX ZR 2/11, NJW 2012, 1209 — § 985 BGB ist vorrangig gegenüber § 812 BGB, solange das Eigentum des Anspruchstellers besteht; erst nach Eigentumsübergang (z. B. gutgläubiger Erwerb) ist § 812 BGB einschlägig.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Lorenz in: Staudinger, BGB, Neubearbeitung 2023, § 812 Rn. 1–30 (Abgrenzung Bereicherungsrecht / Anfechtungsrecht).
-Kayser in: MüKoInsO, 4. Aufl. 2023, § 129 Rn. 1–20 (Abgrenzung InsO-Anfechtung / AnfG / § 812 BGB).
-Huber in: AnfG, 12. Aufl. 2022, § 1 Rn. 1–30, § 2 Rn. 1–25 (Titelerfordernis, Abgrenzung zu InsO).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Weichenstellungs-Schema
 
 ### Frage 1: Liegt ein Rechtsgrund für die Vermögensverschiebung vor?

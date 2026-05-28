@@ -36,16 +36,13 @@ Das Modell benötigt:
 
 ### Leitentscheidungen
 
-1. EuGH, Urt. v. 14.12.2023 – C-340/21 (Natsionalna agentsia za prihodite/VB), NJW 2024, 685 Rn. 55–79: Allein der unbefugte Zugang zu personenbezogenen Daten durch Dritte begründet keinen automatischen Schadensersatzanspruch; das nationale Gericht muss das tatsächliche Risiko zukünftiger Schäden prüfen. Für die Meldepflicht nach Art. 33 DSGVO ist jedoch schon die bloße Möglichkeit eines Risikos ausreichend, um die 72-Stunden-Frist auszulösen.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-2. BVerwG, Urt. v. 27.04.2022 – 6 C 8.20, BVerwGE 175, 234 Rn. 38–42: Zur Kompetenz der deutschen Aufsichtsbehörden bei grenzüberschreitenden Datenschutzverstößen; Meldung an federführende Behörde nach Art. 56 DSGVO bei international tätigen Verantwortlichen, ohne dass nationale Zuständigkeit entfällt, wenn inländische Betroffene beschwert sind.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-1. Reif, in: Gola/Heckmann, DSGVO/BDSG, 3. Aufl. 2022, Art. 33 DSGVO Rn. 14–40: Ausführlich zur Schwellenwertprüfung "voraussichtlich kein Risiko für Rechte und Freiheiten" (Art. 33 Abs. 1 a.E. DSGVO); Abgrenzung meldepflichtiger von nicht meldepflichtiger Verletzung anhand der EDSA-Fallgruppen; zur Kenntniserlangung durch Auftragsverarbeiter.
-
-2. Bergt, in: Kühling/Buchner, DSGVO/BDSG, 4. Aufl. 2024, Art. 33 DSGVO Rn. 22–55: Zu gestufter Meldung, Nachreichung von Informationen, Inhalt der Meldung im Einzelnen und zur Frage, wann die 72-Stunden-Frist zu laufen beginnt (Kenntniserlangung des verantwortlichen Organs vs. beliebiger Mitarbeiter).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ### EDSA-Leitlinien
 
 EDSA, Guidelines 9/2022 on personal data breach notification under GDPR, angenommen 28.03.2023: Enthält Fallkatalog typischer Datenpannen (Ransomware, Fehlversand, Datenverlust) mit Musterlösungen zur Risikoeinschätzung und Meldepflicht. Verbindliche Auslegungshilfe für Art. 33/34 DSGVO.
@@ -115,7 +112,7 @@ EDSA, Guidelines 9/2022 on personal data breach notification under GDPR, angenom
 
 ## Quellenpflicht
 
-Alle Aussagen in Meldeformularen, Memos und Betroffenenbriefen sind nach `references/zitierweise.md` zu belegen. Mindestens zwei Rechtsprechungsbelege im BGH-Stil und zwei Kommentarbelege im Bearbeiter-Stil. Die EDSA-Guidelines 9/2022 sind als EU-Soft-Law-Quelle stets anzugeben. Wo Rspr. fehlt, ausdrücklich auf Kommentarliteratur und EDSA-Leitlinien verweisen.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Quellen / Updates
 
@@ -128,5 +125,4 @@ Stand: 05/2026. Aktualität prüfen bei neuen EuGH-Entscheidungen zum Schadenser
 
 ## Aktuelle Rechtsprechung (v14.2)
 
-- EuGH, Urt. v. 04.05.2023 — C-300/21 (UI/Österreichische Post), NJW 2023, 1985 Rn. 44–55: Art. 82 DSGVO setzt für immateriellen Schadensersatz voraus, dass ein konkreter immaterieller Schaden feststellbar ist; bloßer Datenschutzverstoß ohne spürbaren Nachteil genügt nicht. Für die Meldepflicht ist dies irrelevant — Art. 33 DSGVO ist unabhängig vom Schadenseintritt.
-- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

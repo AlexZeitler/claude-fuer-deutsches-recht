@@ -44,10 +44,10 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 | 1 | `anmeldung-strategie-portfolio` | Strategie DE/EU/Madrid-Protokoll, Nizza-Klassen, Multi-Class-Portfolio (Kl. 3/14/18/25/35), Prioritätskaskade, Kostenoptimierung | "Markenstrategie", "Portfolio", "Nizza-Klassen", "Madrid-Protokoll" |
 | 2 | `wortmarke-anmeldung-dpma` | DPMA-Anmeldung Wortmarke, §§ 32 ff. MarkenG, absolute Schutzhindernisse § 8 MarkenG, Beanstandungsbescheid-Antwort | "Wortmarke", "DPMA-Anmeldung", "Unterscheidungskraft", "Markenprüfung" |
 | 3 | `bildmarke-und-wort-bild` | Bildmarke Couture-Logo, Wort-Bild-Marke, Farbansprüche RGB/Pantone, EUIPO Vienna Classification | "Bildmarke", "Wort-Bild-Marke", "Logo-Marke", "Farbanspruch" |
-| 4 | `slogan-marke` | Slogan-Marken, Unterscheidungskraft, EuGH C-398/08, BGH darferdas, BGH Quadratisch Praktisch Gut | "Slogan-Marke", "Werbeslogan schützen", "Kampagnen-Claim" |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 5 | `soundmarke-und-bewegungsmarke` | Hörmarke MMA-Verfahren, Sonogramm, Notenschrift, MP3-Hinterlegung, Bewegungsmarke | "Höermarke", "Soundmarke", "Jingle schützen", "Bewegungsmarke" |
 | 6 | `duftmarke-und-geschmacksmarke` | Riechmarken Sieckmann-Kriterien, faktisch nicht eintragbar, Workarounds: Patente/UWG/GeschGehG | "Duftmarke", "Riechmarke", "Parfum Marke", "Duft schützen" |
-| 7 | `dreidimensionale-marke` | 3D-Formmarke Flakon/Schuhform, § 3 II MarkenG, EuGH Louboutin C-163/16, EuG Lego T-508/08 | "Formmarke", "3D-Marke", "Flakon Marke", "Schuhform Marke" |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 | 8 | `positionsmarke` | Positionsmarke roter Sohlenstreifen, Adidas-Drei-Streifen, Bottega-Intrecciato, Burberry-Karo | "Positionsmarke", "Stripe Marke", "Sohlen-Marke", "Muster Marke" |
 | 9 | `anti-ki-marke-und-kennzeichen` | Kennzeichenklassen für KI-frei-Garantie, EU AI Act 2024/1689, Human-Made-Label-Strategien | "Anti-KI Marke", "Human-Made Label", "KI-frei Zertifikat", "AI Act" |
 | 10 | `haptik-und-tastmarke` | Tastmarken/Haptik-Marken Stoffstruktur/Flakon, Sieckmann-Kriterien analog, DesignG-Workaround, USPTO David Yurman | "Tastmarke", "Haptik-Marke", "Stoff-Struktur-Schutz", "Materialfühlung" |
@@ -71,7 +71,7 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 | 14 | `messe-verletzung-und-gv-einsatz` | Verletzende Ware auf Messen, Eilantrag §§ 935/940 ZPO, einstweilige Verfügung, GV-Sicherstellung, § 19 MarkenG | "Messe Verletzung", "GV Sicherstellung", "einstweilige Verfügung Marke" |
 | 15 | `abmahnung-markenrecht-uwg` | Abmahnung mit strafbewehrter Unterlassungserklärung, Hamburger Brauch Vertragsstrafe, § 14 MarkenG | "Abmahnung Marke", "Unterlassungserklärung", "Vertragsstrafe Marke" |
 | 16 | `produktpiraterie-und-zoll` | Anti-Counterfeiting, Grenzbeschlagnahme VO (EU) 608/2013, Zoll-AWA-Antrag, Vernichtung | "Produktpiraterie", "Zollbeschlagnahme", "AWA-Antrag", "Grenzbeschlagnahme" |
-| 17 | `plattform-piraterie-donauzon` | Notice-and-Action nach DSA VO (EU) 2022/2065, Plattform-Sperrverfügung, BGH mySpace I ZR 140/14 | "Plattform Verletzung", "DSA Notice and Action", "Donauzon sperren" |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ---
 
@@ -79,9 +79,9 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 | # | Skill-Name | Beschreibung | Lade-Trigger (Beispiele) |
 |---|---|---|---|
-| 18 | `selektiver-vertrieb-coty` | Selektives Vertriebssystem EuGH C-230/16 Coty Germany, Plattformverbot, EuGH Pierre Fabre C-439/09 | "Selektiver Vertrieb", "Coty Urteil", "Plattformverbot Luxus", "Pierre Fabre" |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 19 | `vertikale-preisbindung-vbe-vo` | Vertikal-GVO (EU) 2022/720, Hardcore-Beschränkungen Art. 4, UPE vs. Mindestpreis, Dual Pricing | "Preisbindung", "Vertikal-GVO", "Mindestpreis Händler", "UPE Empfehlung" |
-| 20 | `discounter-und-graumarkt-brezelmann` | Erschöpfungsdoktrin § 24 MarkenG / Art. 15 UMV, EuGH Copad C-59/08, EuGH Dior C-337/95 | "Erschöpfung", "Graumarkt", "Parallelimport Luxus", "Brezelmann Discount" |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 | 21 | `agb-haendlervertrag-luxus` | AGB im Selektivvertrieb §§ 305 ff. BGB im B2B, BGH-Klauselverbote, MFN-Klauseln nach Coty II | "AGB Händler", "Händlervertrag Luxus", "MFN-Klausel", "AGB-Kontrolle B2B" |
 
 ---

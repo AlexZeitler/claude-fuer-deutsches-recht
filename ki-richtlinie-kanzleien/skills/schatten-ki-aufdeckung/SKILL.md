@@ -33,10 +33,7 @@ Für Fragen zum zulässigen Einsatz von KI-Systemen steht [Name Datenschutzbeauf
 Mit zunehmender Verbreitung von KI-Funktionen in alltäglichen Arbeitstools (MS Office, E-Mail-Clients) wird die Abgrenzung zwischen autorisierter und nicht autorisierter KI-Nutzung schwieriger. Die Richtlinie muss angepasst werden, sobald neue KI-Integrationen in bestehende Kanzlei-Software eingeführt werden.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 87: Personenbezogene Daten in nicht freigegebenen KI-Systemen (Privat-Accounts) können unzulaessigen Drittlandtransfer darstellen.
-- BGH, Urt. v. 26.09.2019 — AnwSt (R) 1/21, NJW 2021, 2883 Rn. 15: Verschwiegenheitspflicht gilt technologieneutral — auch Verwendung privater KI-Tools mit Mandatsdaten ist Verstoss.
-- EuGH, Urt. v. 04.05.2023 — C-300/21 (Oesterreichische Post), NJW 2023, 1985 Rn. 42: Rechenschaftspflicht Art. 5 Abs. 2 DSGVO — Verantwortlicher muss auch Schatten-IT-Verstoeße durch Mitarbeiter kontrollieren.
-- BAG, Urt. v. 18.07.2017 — 1 ABR 59/15, NJW 2017, 3673 Rn. 28: IT-Nutzungsrichtlinien sind verbindlich — Verstoss kann arbeitsrechtliche Konsequenzen haben.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - § 43a Abs. 2 BRAO — Verschwiegenheit (gilt auch bei privaten Accounts)

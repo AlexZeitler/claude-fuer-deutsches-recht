@@ -136,4 +136,4 @@ Beispiel 5: "Mein Vermieter macht keine Reparatur, Wasser tropft."
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. BGB-Normen unveraendert in dieser Hinsicht. Bei komplexen Anspruchskonkurrenzen Kommentarliteratur konsultieren oder Anwalt fragen.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

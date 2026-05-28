@@ -57,7 +57,7 @@ Die Country-by-Country Benefits-Matrix ist das zentrale Steuerungsinstrument fü
 | Insolvenzsicherung | PSV (§ 7 ff. BetrAVG) — Direktzusage/UK/PF |
 | Governance | IORP II (§§ 232 ff. VAG) für PK/PF; Mitbestimmung § 87 BetrVG |
 | Expat | Typischerweise GRV-pflichtig; Doppelversicherung bei Kurzentsendung durch A1-Bescheinigung vermieden |
-| Portabilität | § 4 BetrAVG — Übertragung möglich; EuGH C-396/22 (Portabilitätsrechte) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ### Vereinigtes Königreich (UK)
 
@@ -188,15 +188,11 @@ J. Lokaler Rechtsberater-Kontakt: [...]
 
 ## Aktuelle Rechtsprechung und Leitsaetze
 
-- **EuGH, Urt. v. 19.09.2019 — C-168/18 (Bauer/Willmeroth)**, NZA 2019, 1627 — Portabilitaet von Rentenanwartschaften in der EU; laenderspezifische Unverfallbarkeitsregeln muessen EU-Mindeststandards beachten; relevant fuer die Matrix-Dimension Portabilitaet.
-- **EuGH, Urt. v. 26.01.2017 — C-396/22 (Generali)**, NZA 2017, 490 — Portabilitaetsrichtlinie 2014/50/EU; Mitgliedstaaten muessen kurze Wartezeiten bei betrieblicher Altersversorgung sicherstellen; Uebertragungsanspruch bei Arbeitgeberwechsel innerhalb der EU.
-- **BAG, Urt. v. 20.04.2010 — 3 AZR 553/08**, NZA 2010, 873 — Gleichbehandlungsgrundsatz bei anbieterbezogenen Versorgungswerken; konzernweite Harmonisierung darf nicht einzelne Laender-Belegschaften diskriminieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Steinmeyer, 25. Aufl. 2025, BetrAVG Einleitung Rn. 1 ff. (Internationales BAV-Recht, EU-Portabilitaet, laenderspezifische Besonderheiten)
-- Schaub Arbeitsrechts-Handbuch/Linck, 20. Aufl. 2023, § 173 (Internationales BAV im Konzern, laenderspezifische Compliance)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage — vor der Matrix-Erstellung
 
 1. Welche Laender sind im Konzern-Fussabdruck enthalten?

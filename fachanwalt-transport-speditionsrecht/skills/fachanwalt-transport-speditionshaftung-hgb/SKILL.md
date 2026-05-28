@@ -93,8 +93,7 @@ Schaden bei Spediteur-Vertrag — Pflichten, Haftung, Anspruchs-Grundlagen.
 
 ## 8) BGH-Linien
 
-- BGH, Urt. v. 24.10.2018 — I ZR 178/17 (Speditions-Haftung)
-- BGH, Urt. v. 23.7.2020 — I ZR 119/19 (ADSp-Einbeziehung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 

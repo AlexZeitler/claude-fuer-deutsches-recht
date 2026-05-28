@@ -31,9 +31,9 @@ Spezial-Mandat: Mandant nutzt DeFi-Protokolle (Aave, Compound, Curve, Yearn, Uni
 
 ### Leitentscheidungen
 
-- BFH, Urt. v. 14.2.2023 — **IX R 3/22** (Krypto als Wirtschaftsgut)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BFH-anhängig zu DeFi-Spezifika (2025/2026)
-- FG Münster, Urt. v. 25.5.2023 — 9 K 26/23 (Staking-Rewards § 22 Nr. 3 EStG)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - FG Baden-Württemberg-anhängig zu Liquidity-Mining-Token-Tausch
 
 ## Steuerliche Behandlung pro Aktivität
@@ -122,4 +122,4 @@ Spezial-Mandat: Mandant nutzt DeFi-Protokolle (Aave, Compound, Curve, Yearn, Uni
 
 ## Quellen und Updates
 
-Stand: 05/2026. BMF-Schreiben 22.11.2024. BFH IX R 3/22. FG Münster 9 K 26/23. KryptoStG 1.1.2026. DAC8 Erstmeldung 31.1.2027. Bei BFH-Linie zu DeFi-Tausch aktualisieren.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

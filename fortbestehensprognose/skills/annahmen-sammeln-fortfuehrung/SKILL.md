@@ -160,9 +160,7 @@ annahmen:
 
 ## Aktuelle Leitentscheidungen — Annahmen-Sammlung Fortbestehensprognose
 
-- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Fortbestehensprognose: konkrete, nachvollziehbare Annahmen fuer den 12-Monats-Prognosehorizont erforderlich; pauschale Annahmen oder blosse Hoffnungen genuegen nicht; Geschaeftsfuehrer traegt Verantwortung fuer Annahmen-Qualitaet.
-- BGH, Urt. v. 06.06.2013 — IX ZR 204/12, NZI 2013, 793 — Umsatz-Prognose als Fortbestehensprognose-Kernannahme: Auftragsbestand und Kundenvertraege als belastbarste Grundlage; Annahmen ohne konkreten Auftragsbestand sind kritisch zu wuerdigen.
-- BGH, Urt. v. 07.03.2013 — IX ZR 64/12, NZI 2013, 477 — Sanierungskonzept-Qualitaet: Annahmen muessen auf konkreten betriebswirtschaftlichen Daten basieren; externe Markt-Analyse ersetzbarer fuer neue Maerkte, nicht fuer Stammageschaeft.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage — Annahmen-Vollstaendigkeit
 
@@ -175,8 +173,6 @@ annahmen:
 
 § 19 Abs. 2 InsO (Fortbestehensprognose) → IDW S 11 Rn. 30-65 (Annahmen-Basis) → § 43 GmbHG (Sorgfaltspflicht GF bei Prognose)
 
-## Kommentarliteratur
+## Quellenregel
 
-- IDW S 11, Stand 11/2022 Rn. 30-65 — Annahmen-Sammlung und Dokumentation.
-- MüKo InsO/Drukarczyk § 19 InsO Rn. 50 ff. — Prognose-Annahmen und Prognosehorizont.
-- K. Schmidt/Uhlenbruck, GmbH in Krise Sanierung und Insolvenz, § 5 Rn. 5.10 — Fortbestehensprognose in der Praxis.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

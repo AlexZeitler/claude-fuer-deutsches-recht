@@ -17,10 +17,7 @@ Die Incoterms (International Commercial Terms) der Internationalen Handelskammer
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 17.03.2004 - VIII ZR 161/03, NJW 2004, 2160 — CIF-Klausel: Gefahrübergang mit Verladung am Verschiffungshafen, nicht erst bei Ankunft; Verkäufer schuldet nur Transportversicherung.
-- BGH, Urt. v. 03.11.1999 - VIII ZR 35/99, NJW 2000, 594 — Incoterms sind als Handelsbrauch auch ohne ausdrückliche Vereinbarung im Kaufmannsverkehr anwendbar (§ 346 HGB).
-- BGH, Urt. v. 25.09.2018 - VIII ZR 36/17, NJW 2019, 434 — Lieferort nach Incoterms FOB bestimmt Erfüllungsort im Sinne § 269 BGB und damit örtliche Zuständigkeit (§ 29 ZPO).
-- OLG Hamburg, Urt. v. 28.02.2014 - 12 U 155/12, NJW-RR 2014, 889 — EXW-Klausel: Käufer trägt alle Kosten und Risiken ab Bereitstellung im Werk des Verkäufers; Exportkontrolle liegt beim Käufer.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -31,12 +28,9 @@ Die Incoterms (International Commercial Terms) der Internationalen Handelskammer
 - § 346 HGB — Handelsgebräuche
 - § 305 ff. BGB — AGB-Einbeziehung (bei B2C-Geschäften)
 
-## Kommentarliteratur
+## Quellenregel
 
-- MüKo-BGB/Gruber, 8. Aufl. 2019, Art. 67 CISG Rn. 1-30 (Gefahrübergang bei Versendung)
-- Staudinger/Magnus, CISG, 2018, Art. 31 Rn. 1-40 (Lieferort)
-- Baumbach/Hopt, HGB, 42. Aufl. 2024, § 346 Rn. 1-20 (Handelsgebräuche Incoterms)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Klausel identifizieren:** Welche Klausel, welche Fassung? Im Vertrag oder AGB?

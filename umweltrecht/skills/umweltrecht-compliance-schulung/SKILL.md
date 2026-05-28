@@ -26,17 +26,11 @@ description: "Anlagenbetreiber muss Umwelt-Compliance-Schulungen und Jahresaudit
 
 ## Leitentscheidungen
 
-- BVerwG, Urt. v. 23.09.2010 — 7 C 22.09, NVwZ 2011, 176 — § 53 BImSchG; ISB-Pflicht; Betreiber muss fachkundige Person bestellen; fehlendes Fachwissen rechtfertigt nicht Nichtbestellung; Organisationsverschulden.
-- OVG Muenster, Urt. v. 14.06.2018 — 8 A 1123/17 — § 59 KrWG; Abfallbeauftragter muss Zugang zu relevanten Unterlagen haben; fehlende Dokumentation fuehrt zu Beanstandung im behordlichen Audit.
-- BGH, Beschl. v. 27.04.2021 — KRB 12/20, NJW 2021, 2287 — § 130 OWiG; Leitungspflicht-Verletzung durch fehlende Compliance-Organisaiton; Bussgeld auch ohne direkten Vorsatz der Leitungsperson.
-- EuGH, Urt. v. 10.09.2015 — C-383/14 — Umweltbeauftragte-Verpflichtung nach EU-Industrieemissionsrichtlinie (IED 2010/75/EU); Mitgliedstaaten muessen effektiven Vollzug sicherstellen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Jarass BImSchG §§ 53-58 Rn. 1-50 (Immissionsschutzbeauftragte)
-- Kloepfer Umweltrecht § 14 Rn. 250-300 (Compliance-Instrumente)
-- Rehbinder/Schink Grundzuege des Umweltrechts § 8 (Umwelt-Compliance und Inhouse-Management)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 

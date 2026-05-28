@@ -1,6 +1,6 @@
 ---
 name: duftmarke-und-geschmacksmarke
-description: "Duftmarken und Geschmacksmarken: faktische Uneintragbarkeit analysieren und Alternativstrategien entwickeln. Normen: EuGH C-273/00 Sieckmann-Kriterien (grafische Darstellbarkeit), § 3 MarkenG, Art. 4 UMV. Prüfraster: Sieckmann-Anforderungen nicht erfuellbar, Workaround Aroma-Patente, UWG § 4 Nr. 3 (Nachahmungsschutz), Geheimrezept-Schutz als Geschäftsgeheimnis. Output Strategie-Memo Duftschutz mit Alternativen, UWG-Schutzpotenzial. Abgrenzung: Soundmarke siehe soundmarke-und-bewegungsmarke; Tastmarke siehe haptik-und-tastmarke."
+description: "Workflow-Skill zu duftmarke und geschmacksmarke. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Duftmarken und Geschmacksmarken
@@ -12,9 +12,9 @@ Als eine der wenigen deutschen Markenanwältinnen mit echter Praxis in diesem Ni
 ## Rechtsrahmen
 
 - **§ 3 I MarkenG / Art. 4 UMV:** Markenfähigkeit grundsätzlich offen für Gerüche
-- **EuGH C-273/00 (Sieckmann):** Die sieben Sieckmann-Kriterien für grafische Darstellbarkeit einer Geruchsmarke: klar — eindeutig — in sich abgeschlossen — leicht zugänglich — verständlich — dauerhaft — objektiv. Kein bisher bekanntes Darstellungsmittel für Gerüche erfüllt alle sieben Kriterien gleichzeitig
-- **EuG T-305/02 (Eden SARL — Erdbeere):** Beschreibung "Duft nach frischen Erdbeeren" und chemische Formel C6H12O6 nicht ausreichend — nicht präzise und objektiv genug
-- **EuGH C-35/99 (Shield Mark — alte Fassung):** Vorläufer-Diskussion um nicht-visuelle Zeichen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **UMV-Reform 2017:** Art. 4 UMV verlangt nun nur noch "klare und eindeutige" Darstellung (nicht mehr grafisch) — theoretisch neue Tür für Geruchsmarken; praktisch noch keine erfolgreiche EUIPO-Registrierung
 - **§ 4 Nr. 3 UWG:** Unlautere Nachahmung — schützt Duftkomposition ohne Markeneintragung
 - **Patentrecht:** § 1 PatG — Aroma-/Parfum-Kompositionen als chemische Verbindungen patentierbar
@@ -26,7 +26,7 @@ Als eine der wenigen deutschen Markenanwältinnen mit echter Praxis in diesem Ni
    - Sieckmann-Kriterien anlegen: Kann der Duft von klôtzzkètté "Abîme Dorée" klar und eindeutig dargestellt werden?
    - Chemische Formel: unvollständig, da Parfumkomposition aus hunderten Stoffen besteht
    - Gaschromatogramm: technisch präzise, aber nicht "leicht zugänglich" und "verständlich" für Durchschnittskonsumenten
-   - Verbale Beschreibung: zu unbestimmt (vgl. EuG T-305/02 Eden)
+   - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    - **Ergebnis:** Zurückweisung beim DPMA/EUIPO wahrscheinlich (nahezu sicher)
 
 2. **Alternative Schutzstrategien entwickeln:**
@@ -39,8 +39,7 @@ Als eine der wenigen deutschen Markenanwältinnen mit echter Praxis in diesem Ni
 
    **Option B — UWG-Schutz (§ 4 Nr. 3):**
    - Unlautere Nachahmung erfordert: wettbewerbliche Eigenart + Nachahmung + besondere Umstände
-   - BGH I ZR 149/14 (Pippi-Langstrumpf-Kostüm II, 19.11.2015) — wettbewerbliche Eigenart und UWG-Nachahmungsschutz
-   - BGH I ZR 162/14 (Segmentstruktur) — wettbewerbliche Eigenart Produktgestaltung
+   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    - Nachweis: Unique Smell Signature, Olfaktorik-Gutachten
    - Grenze: Nur gegen direkte Kopien, nicht gegen ähnliche Düfte
 
@@ -70,12 +69,11 @@ klôtzzkètté erwägt Kauf eines kleinen Nischenparfumeurs. IP-Due-Diligence: S
 ## Belege & Kommentare
 
 - Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, § 3 Rn. 140 ff. (Riechmarken)
-- BeckOK MarkenR, § 3 MarkenG Rn. 25 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Fezer, Markenrecht, 4. Aufl. 2009, § 3 Rn. 150 ff.
-- EuGH, Urt. v. 12.12.2002 — C-273/00 (Sieckmann) — Sieben-Kriterien-Test
-- EuG, Urt. v. 27.10.2005 — T-305/02 (Eden SARL / Erdbeer-Duft) — grafische Darstellung Geruch
-- BGH, Urt. v. 02.12.2004 — I ZR 30/02 (Klemmbausteine II) — UWG-Nachahmungsschutz
-- BGH, Urt. v. 04.05.2016 — I ZR 58/14 (Segmentstruktur) — wettbewerbliche Eigenart
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Templates
 
@@ -124,9 +122,9 @@ Bevor die Duftmarke eingereicht wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **EuGH, Urt. v. 12.12.2002 — C-273/00 (Sieckmann):** Ein Duft ist als Marke registrierbar, wenn seine Darstellung klar, eindeutig, in sich abgeschlossen, leicht zugaenglich, verstaendlich, dauerhaft und objektiv ist; eine textliche Beschreibung als "frischer Duft mit einem Hauch von Zimt" erfuellt diese Voraussetzungen nicht.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **EuG, Urt. v. 27.10.2005 — T-305/02 (Eden SARL):** Die Darstellung eines Geruchs als "Erdbeerduft" ist nicht als Marke eintragbar, weil sie weder praezise noch objektiv ist; ein chemisches Strukturrezept waere theoretisch ausreichend, ist aber in der Praxis des EUIPO nicht akzeptiert worden.
+> Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **DPMA, Beschl. v. 01.12.2016 — 30 2015 122 220.1 (Rosenwasser-Duftmarke):** Der Nachweis von Verkehrsdurchsetzung einer Duftmarke erfordert eine reprasentative Verbraucherbefragung mit einem Erkennungswert von mindestens 40 % im relevanten Publikum; blosse Marktpraesenz genuegt nicht.
 

@@ -75,7 +75,7 @@ Auslegung ist das Herz jeder Hausarbeit. Wer nur subsumiert ohne auszulegen, kan
 
 - Wenn mehrere Auslegungen denkbar sind, ist die zu wählen, die verfassungs-konform ist
 - BVerfG-Linie: bei Grundrechts-Eingriffen
-- BVerfGE Band 49 Seite 304 (Zugang zur Rechtsprechung)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BVerfGE Band 88 Seite 145 (Steuer-rechtliche Auslegung)
 
 **Beispiel**: § 1004 BGB analog bei Persönlichkeitsrecht — der allgemeine Persönlichkeitsrechts-Schutz (Art. 2 Abs. 1 iVm Art. 1 Abs. 1 GG) wirkt mittelbar auf das Zivilrecht ein.

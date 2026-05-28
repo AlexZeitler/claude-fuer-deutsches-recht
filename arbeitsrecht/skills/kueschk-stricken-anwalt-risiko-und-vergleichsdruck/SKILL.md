@@ -22,18 +22,11 @@ Kein neuer Job, keine Unzumutbarkeit? → Prozess führen, § 102 Abs. 5 BetrVG 
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 24.11.2011 – 2 AZR 429/10, NZA 2012, 610 — Der Arbeitnehmer kann jederzeit bis zum Ablauf der Wochenfrist des § 12 KSchG erklären, das Arbeitsverhältnis nicht fortsetzen zu wollen; das Gestaltungsrecht ist einseitig und bedarf keiner Zustimmung des Arbeitgebers.
-- BAG, Urt. v. 08.10.2009 – 2 AZR 682/08, NZA 2010, 627 — Auflösungsantrag nach § 9 KSchG setzt voraus, dass dem Arbeitnehmer eine Weiterbeschaeftigung unzumutbar ist; eine bloss abstrakte Befuerchtung genuegt nicht — konkrete Umstände müssen dargelegt werden.
-- BAG, Urt. v. 26.10.2012 – 2 AZR 314/11, NZA 2013, 429 — Ein Vergleich, der eine Abfindung nach §§ 9, 10 KSchG vorsieht, ist endgültig; der Arbeitnehmer kann später nicht mehr Wiederherstellung des Arbeitsverhältnisses verlangen.
-- BAG, Urt. v. 11.07.2013 – 2 AZR 994/12, NZA 2014, 254 — Annahmeverzugslohn nach § 615 BGB entsteht auch dann, wenn der Arbeitnehmer nach der Kündigung eine zumutbare Arbeit nicht annimmt; er muss sich Ersparnisse anrechnen lassen (§ 615 Satz 2 BGB).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Kiel, 24. Aufl. 2024, § 9 KSchG Rn. 1-20 — (Auflösungsantrag, Unzumutbarkeit, Abfindung)
-- ErfK/Kiel, 24. Aufl. 2024, § 12 KSchG Rn. 1-8 — (Gestaltungsrecht, Wochenfrist, Rechtsfolge)
-- KR/Spilger, 13. Aufl. 2022, § 12 KSchG Rn. 1 ff. — (Stricken-Strategie Praxishinweise)
-- Schaub/Linck, ArbeitsR-HdB, 20. Aufl. 2023, § 145 Rn. 10 ff. — (Annahmeverzug, Zwischenverdienst)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Das zentrale Risiko — bitte genau lesen
 
 **Das Szenario:**

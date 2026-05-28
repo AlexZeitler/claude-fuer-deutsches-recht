@@ -54,13 +54,9 @@ description: "Orientierungs-Skill Transport- und Speditionsrecht: richtigen Skil
 - BGH I. Zivilsenat Transportrecht (Sondersenat).
 - Ausländische Gerichte bei Auslandsbezug.
 
-## Standardliteratur
+## Quellenregel
 
-- Koller, Transportrecht.
-- Baumbach/Hopt, HGB Frachtrecht.
-- MüKoHGB Transportrecht.
-- Thume, CMR.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Berufsverband
 
 - ARGE Transportrecht DAV.

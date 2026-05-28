@@ -15,10 +15,7 @@ Dieser Skill erkennt die Sprache der eingehenden Mandantenanfrage und schaltet d
 4. Ist die Anfrage moeglicherweise automatisch uebersetzt worden (Qualitaet der Sprache pruefen)?
 
 ## Aktuelle Rechtsprechung
-- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Informationspflichten nach Art. 13 DSGVO muessen in einer fuer die betroffene Person verstaendlichen Sprache erteilt werden; Datenschutzhinweis auf Deutsch bei fremdsprachiger Anfrage genuegt nicht.
-- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Mandantenkommunikation muss fuer den Mandanten verstaendlich sein; Sprachbarrieren erhoehen Haftungsrisiko bei Beratungsfehlern.
-- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Kostenbelehrung nach § 49b Abs. 5 BRAO muss fuer den Mandanten verstaendlich sein; fremdsprachiger Mandant hat Anspruch auf Belehrung in verstaendlicher Sprache.
-- BVerfG, Beschl. v. 12.01.2016 - 2 BvR 2557/14, NJW 2016, 1155 — Effektive Rechtswahrnehmung erfordert verstaendliche Kommunikation; Sprachbarriere bei Mandantenanfragen muss durch Kanzlei ueberwunden werden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - Art. 13 DSGVO — Informationspflicht in verstaendlicher Sprache: gilt bei Fremdsprachler uneingeschraenkt
@@ -26,10 +23,9 @@ Dieser Skill erkennt die Sprache der eingehenden Mandantenanfrage und schaltet d
 - § 49b Abs. 5 BRAO — Kostenbelehrung: muss fuer Mandanten verstaendlich sein (Sprache relevant)
 - § 43 BRAO — Sorgfaltspflicht: Sprachbarriere als organisatorisches Risiko in der Kanzlei
 
-## Kommentarliteratur
-- Kühling/Buchner DSGVO Art. 12, 13 Rn. 1-20 (Verstaendliche Sprache als Transparenzanforderung)
-- Gaier/Wolf/Göcken BRAO § 43 Rn. 1-30 (Sorgfaltspflicht: Umgang mit fremdsprachigen Mandanten)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Sprach-Erkennung
 
 | Erkannte Sprache | Antwortsprache | Fallback |

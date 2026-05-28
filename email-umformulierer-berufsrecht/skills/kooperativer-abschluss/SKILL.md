@@ -15,10 +15,7 @@ Dieser Skill stellt Formulierungsbausteine für positive, kooperative Schlusspas
 4. Ist der Kontext streitig (eher sachlicher Ausblick) oder kooperativ (eher herzlicher Abschluss)?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 09.05.1995 - XVI ZR 195/94, NJW 1995, 2232 — Kooperative Grundhaltung in Korrespondenz als Ausdruck der Treu-und-Glauben-Pflicht nach § 242 BGB; abrupte oder drohende Abschluesse koennen als Verstoss gewertet werden.
-- BVerfG, Beschl. v. 14.02.1973 - 1 BvR 112/65, BVerfGE 34, 269 — Aussergerichtliche Konfliktloesung als verfassungsrechtlich wertvoll; kooperativer Ton unterstuetzt diesen Ansatz.
-- OLG Celle, Urt. v. 15.10.2019 - 11 U 76/19 — Abrupte Ablehnung von Gespraechen kann als mangelnde Kooperation gewertet werden und Kostentragung beeinflussen (§ 93 ZPO).
-- BGH, Urt. v. 23.01.2014 - III ZR 37/13, NJW 2014, 1380 — Prozessualer Grundsatz: Kooperationsbereitschaft wird von Gerichten positiv bewertet und kann bei Kostenentscheidung nach § 91a ZPO einfliessen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 17 BORA — Aussergerichtliche Streitbeilegung: kooperativer Abschluss unterstuetzt diesen Grundsatz
@@ -26,10 +23,9 @@ Dieser Skill stellt Formulierungsbausteine für positive, kooperative Schlusspas
 - § 91a ZPO — Kostenentscheidung bei Erledigung: Kooperationsbereitschaft beeinflusst Abwaegung
 - § 278 ZPO — Gueteversuch: kooperativer Ton staerkt Aussichten auf guetige Einigung
 
-## Kommentarliteratur
-- Hartung/Scharmer, BORA § 17 Rn. 15-25 (Kooperationsgebot und praktische Umsetzung)
-- Grüneberg/Grüneberg BGB § 242 Rn. 50-75 (Treu und Glauben als Massstab kooperativer Kommunikation)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Kooperativer Abschluss (gestuft)
 
 | Kontext | Abschlussformel |

@@ -15,10 +15,7 @@ Dieser Skill regelt die korrekte Wahl von Anrede und Schlussformel in berufliche
 4. Wie eng ist die Beziehung: erstmalig, laufend, langjahrig bekannt?
 
 ## Aktuelle Rechtsprechung
-- BGH, Beschl. v. 05.11.2012 - AnwZ (Brfg) 1/12, NJW 2013, 175 — Korrekte Berufsbezeichnung in anwaltlicher Korrespondenz als Teil der Berufsidentitaet; fehlerhafte Anrede kann berufsrechtliche Ruege ausloesen.
-- BVerfG, Beschl. v. 14.07.1987 - 1 BvR 537/81, NJW 1988, 325 — Akademische Grade sind Bestandteil der geschuetzten Persoenlichkeit; fehlerhafte Titelanrede verletzt Persoenlichkeitsrecht.
-- OLG Frankfurt, Urt. v. 19.12.2013 - 16 U 89/13 — Fehlerhafte Anrede in Schriftsatz kann als Indiz fuer mangelnde Sorgfalt gewertet werden; Prozesskostenhilfe-Antrag hieran aber nicht zu messen.
-- BGH, Urt. v. 22.11.2001 - I ZR 255/99, NJW 2002, 2031 — Korrekte Personendarstellung in Kommunikation als Ausfluss des Persoenlichkeitsschutzes nach § 823 BGB.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 25 BORA — Kollegialitaetsgebot: korrekte Anrede als Ausdruck gegenseitigen Respekts
@@ -26,10 +23,9 @@ Dieser Skill regelt die korrekte Wahl von Anrede und Schlussformel in berufliche
 - § 823 Abs. 1 BGB — Persoenlichkeitsrecht; fehlerhafte Titelanrede kann Verletzung sein
 - § 1 BJagdG analog — Respekt vor Amtstiteln in hoheitlichem Schriftverkehr
 
-## Kommentarliteratur
-- Hartung/Scharmer, Berufs- und Fachanwaltsordnung, 6. Aufl. 2016, § 25 BORA Rn. 1-20 (Kollegialitaet und Anredekonventionen)
-- Gaier/Wolf/Goebel, BRAO § 43a Rn. 40-55 (Wuerde des Berufs in der Kommunikation)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Anrede-Empfehlung
 
 **Situation:** [Beschreibung Adressat und Kontext]

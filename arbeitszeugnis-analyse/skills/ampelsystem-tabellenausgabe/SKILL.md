@@ -57,15 +57,11 @@ Die Ausgabe umfasst: (1) Übersichtstabelle aller Sätze mit Ampelzuordnung, (2)
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung bei der Schlussbeurteilung: Für eine bessere als befriedigende Bewertung braucht der Arbeitnehmer tragfähige Tatsachen; das Ampelsystem ist nur eine Arbeitshilfe für die Prognose.
-- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot: Arbeitgeber muss Zeugnis ausstellen, das Fortkommen nicht unnötig erschwert; auch wahre Aussagen können gegen Wohlwollensgebot verstoßen, wenn sie kodiert Negatives signalisieren.
-- **BAG, Urt. v. 11.12.2012 — 9 AZR 227/11** — Schlussformeln nicht schematisch als Pflichtinhalt bewerten; in der Tabelle Signalwirkung und Anspruch getrennt ausweisen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Müller-Glöge, 25. Aufl. 2025, § 109 GewO Rn. 1 ff. (Anspruch, Wohlwollensgebot, Wahrheitspflicht)
-- Schaub Arbeitsrechts-Handbuch/Koch, 20. Aufl. 2023, § 147 (Zeugnisrecht, Berichtigungsanspruch)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage — vor der Tabellenausgabe klären
 
 1. Welche Analyse-Skills wurden bereits ausgeführt? (Leistungsbeurteilung, Verhaltensbeurteilung, Schlussformel)

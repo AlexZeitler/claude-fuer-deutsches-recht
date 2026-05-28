@@ -28,25 +28,20 @@ Diese Skill bewertet die Struktur einer eingereichten Klausurbearbeitung oder er
 Der Gutachtenstil ist keine Gesetzesnorm, sondern methodische Grundlage deutschen juristischen Denkens. Maßgeblich sind:
 
 **Methodenlehre und Auslegungslehre:**
-- Larenz/Wolf, BGB Allgemeiner Teil, 9. Aufl. 2004, § 4 — Subsumtionsmethode
 - Looschelders/Roth, Juristische Methodik im Prozess der Rechtsanwendung, 1996
 - Schmalz, Methodenlehre für das juristische Studium, 4. Aufl. 1998
 
 **Anspruchsgrundlagenprüfung (BGB):**
-- BGH, Urt. v. 19.09.2006 – XI ZR 204/04, BGHZ 169, 109 Rn. 20 ff. — Anspruchskonkurrenz und Prüfungsreihenfolge
-- BGH, Urt. v. 14.10.2003 – VI ZR 425/02, NJW 2004, 356 Rn. 8 — Anspruchsgrundlage § 823 Abs. 1 BGB, Subsumtion unter Schutzgut
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Strafrecht — Deliktsaufbau:**
-- BGH, Urt. v. 22.03.2012 – 4 StR 558/11, NJW 2012, 1524 Rn. 9 — Prüfung des Tatbestandsvorsatzes
-- BGH, Beschl. v. 04.11.1988 – GSSt 1/88, BGHSt 36, 1 — dolus eventualis (Lederriemen-Fall)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kommentare und Literatur:**
-- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, Einl. Rn. 1 — zur Auslegung und Subsumtionstechnik (vormals Palandt; seit 81. Aufl. 2022 unter dem Namen Grüneberg)
-- Schubert, in: MüKoBGB, 9. Aufl. 2021, § 242 Rn. 5 — Treu und Glauben als Korrektiv
-- Roxin/Greco, Strafrecht AT I, 5. Aufl. 2020, § 7 Rn. 1 — Aufbau der Straftat (Lehrbuch, keine Kommentarzitierung)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 **EU-Recht im Gutachten:**
-- EuGH, Urt. v. 05.04.2016 – C-689/13, NJW 2016, 2175 (Puligienica) — Vorrang des Unionsrechts und Nichtanwendungsgebot
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Art. 288 AEUV: Verordnungen direkt anwendbar; Richtlinien nach Umsetzung oder bei unmittelbarer Wirkung
 
 ## Ablauf
@@ -174,6 +169,6 @@ Typischer Defizit-Befund: Studierende nennen § 985 BGB (Eigentumsherausgabe) vo
 
 ## Quellenpflicht
 
-Normangaben und Entscheidungszitate im Feedback entstammen gefestigter Rechtsprechung und Literatur. Für klausurrelevante Definitionen: stets gegen aktuelles Skript (Alpmann, Hemmer, Jura Intensiv, Kaiser) oder Kommentar (Grüneberg — vormals Palandt, seit 81. Aufl. 2022 umbenannt; MüKoBGB) abgleichen. Keine Inhalte aus diesem Feedback ohne Verifikation in eine Hausarbeit übernehmen.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Diese Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

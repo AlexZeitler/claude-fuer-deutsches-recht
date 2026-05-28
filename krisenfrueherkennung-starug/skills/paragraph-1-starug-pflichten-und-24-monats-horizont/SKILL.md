@@ -53,7 +53,7 @@ Einzelkaufleute und Personengesellschaften ohne Haftungsbeschränkung sind vom W
 
 Der 24-Monats-Horizont ergibt sich systematisch aus dem Zusammenspiel mehrerer Normen:
 
-- **§ 18 InsO** definiert drohende Zahlungsunfähigkeit als Unfähigkeit, die "voraussichtlich" fälligen Verbindlichkeiten zu erfüllen — der BGH (IX ZR 285/14) und die h.M. legen den Prognosezeitraum mit 24 Monaten aus.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 29 Abs. 2 StaRUG** setzt für die Antragsstellung auf Eröffnung des Restrukturierungsverfahrens voraus, dass drohende Zahlungsunfähigkeit noch nicht eingetreten ist — der Zugang zum StaRUG-Verfahren erfordert also zwingend eine belastbare 24-Monats-Sicht.
 - **IDW S 11** und **IDW S 6** verankern den 24-Monats-Horizont in der Praxis der Sanierungsberatung.
 
@@ -168,7 +168,4 @@ Unterschriften: _________________ / _________________
 
 ## Weitere Leitentscheidungen
 
-- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Fortbestehensprognose § 19 Abs. 2 InsO und Handlungspflichten: positive Prognose heilt Ueberschuldung; negative Prognose loest Antragspflicht aus; Dokumentation ist Haftungsschutz.
-- BGH, Urt. v. 15.03.2016 — II ZR 119/14, NJW 2016, 2493 — § 43 GmbHG / § 15b InsO: Geschaeftsfuehrer haftet persoenlich; ordnungsgemaesse Krisenfrueherkennung und Dokumentation als Entlastungsbeweis.
-- BGH, Urt. v. 26.01.2017 — IX ZR 285/14 — Antragspflicht § 15a InsO: Fristbeginn mit Kenntnis; spaeteres Handeln erhoht Haftungsrisiko erheblich.
-- BGH, Urt. v. 06.05.2021 — IX ZR 72/20, NZI 2021, 631 — Sanierungs-Konzept-Pflicht: echter Sanierungsversuch mit dokumentiertem Konzept schutzt vor Strafbarkeit und Anfechtung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

@@ -36,7 +36,7 @@ Erstgespräch klärt die Rolle systembezogen (nicht unternehmensweit).
   i.V.m. Anhang III: Hochrisiko-KI. Art. 9–15: Anbieterpflichten. Art. 25–29:
   Betreiberpflichten.
 - **DSGVO Art. 22**: Automatisierte Einzelentscheidungen; Widerspruchsrecht
-  und Transparenzpflichten. Maßstab: EuGH C-634/21 (Schufa-Score).
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **GeschGehG §§ 2, 4**: Schutz von Geschäftsgeheimnissen bei Trainingsdaten.
 - **UrhG § 44b**: Text-und-Data-Mining-Schranke bei KI-Training.
 - **BSI-Gesetz (BSIG)**: KI-Systeme in kritischer Infrastruktur.
@@ -45,13 +45,12 @@ Erstgespräch klärt die Rolle systembezogen (nicht unternehmensweit).
 
 **Leitentscheidungen**
 
-- EuGH, Urt. v. 07.12.2023 – C-634/21, NJW 2024, 126 (Schufa-Score):
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Automatisiertes Profiling als Art. 22 Abs. 1 DSGVO-Entscheidung, wenn
   KI-Note maßgebliche Grundlage für Drittentscheidung ist.
-- EuGH, Urt. v. 27.02.2025 - C-203/22 (Dun & Bradstreet Austria), NJW 2025, 1471: Art. 15 Abs. 1 lit. h DSGVO verlangt aussagekraeftige Informationen zur involvierten Logik automatisierter Bonitaetsbeurteilungen; Geschaeftsgeheimnisse sind im Einzelfall zu schuetzen.
-- BGH, Beschl. v. 26.11.2020 – I ZB 58/19, GRUR 2021, 612: Haftungs-
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   maßstäbe für automatisierte Informationssysteme, übertragbar auf KI.
-- BVerfG, Beschl. v. 06.11.2019 – 1 BvR 16/13, NJW 2020, 300 (Recht auf
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Vergessen I): Grundrechtliche Schutzpflichten gegenüber algorithmischen
   Systemen.
 
@@ -164,17 +163,14 @@ Mittelständischer Softwarehersteller (500 MA, Sitz Deutschland, Kunden EU/UK):
 
 - **AI Act Art. 3, 5, 6 i.V.m. Anhang III, 9–15, 25–29** — VO (EU) 2024/1689.
 - **DSGVO Art. 22** bei automatisierten Einzelentscheidungen.
-- **EuGH C-634/21 (Schufa-Score)** bei Scoring-/Profiling-Anwendungsfällen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 3 Rn. 12 ff.**
 - **Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22 Rn. 5 ff.**
 - Ausgaben auf Basis von Gesprächsangaben: `[ANGABEN AUS INTERVIEW —
   anwaltliche Prüfung empfohlen]` kennzeichnen.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Ersterfassung von KI-Systemen muss Art. 22 DSGVO-Scoring-Kontext beruecksichtigen; Anbieter-/Betreiber-Rolle bestimmt Pflichtumfang nach KI-VO.
-- EuGH, Urt. v. 27.02.2025 - C-203/22 (Dun & Bradstreet Austria), NJW 2025, 1471: Art. 15 Abs. 1 lit. h DSGVO verlangt aussagekraeftige Informationen zur involvierten Logik automatisierter Bonitaetsbeurteilungen; Geschaeftsgeheimnisse sind im Einzelfall zu schuetzen.
-- BGH, Beschl. v. 26.11.2020 — I ZB 58/19, GRUR 2021, 612 Rn. 18: Haftungsmasstabe fuer automatisierte Informationssysteme; bei Ersterfassung Haftungsregime klaren.
-- BVerfG, Beschl. v. 06.11.2019 — 1 BvR 16/13, NJW 2020, 300: Grundrechtliche Schutzpflichten gegenueber algorithmischen Systemen; Erstgespräch muss regulatorischen Fussabdruck vollstaendig erfassen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 3 Nr. 3/4 KI-VO — Definitionen Anbieter / Betreiber

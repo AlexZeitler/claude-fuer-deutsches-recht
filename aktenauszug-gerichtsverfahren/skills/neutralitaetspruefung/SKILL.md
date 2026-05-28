@@ -23,16 +23,11 @@ Der Aktenauszug muss neutral formuliert sein — er gibt den Stand eines Verfahr
 
 ## Rechtsprechung zum Sachlichkeitsgebot und Neutralität
 
-- BGH, Urt. v. 16.09.2021 - IX ZR 165/19, NJW 2021, 3324 — Anwaltshaftung bei Fortführung eines aussichtslosen Rechtsstreits: Pflicht zur Aufklärung über Verschlechterung der Erfolgsaussichten und zum Hinweis auf sichersten Weg; Haftung nach § 280 Abs. 1 i.V.m. § 675 BGB.
-- BVerfG, Beschl. v. 14.07.1987 - 1 BvR 537/81, BVerfGE 76, 171 — Zu den Anforderungen des rechtlichen Gehörs (Art. 103 Abs. 1 GG): vollständige und neutrale Darstellung des Prozessstoffs ist Grundvoraussetzung.
-- BGH, Urt. v. 05.02.2009 - III ZR 164/08, NJW 2009, 987 — Interne Rechtsauskunft, die relevante Gegenargumente nicht berücksichtigt, begründet Haftung bei Fehlberatung nach § 280 Abs. 1 i.V.m. § 675 BGB.
-- BGH, Beschl. v. 23.11.2017 - IX ZR 45/17, NJW 2018, 395 — Zur Sachverhaltsaufbereitung durch Anwalt: einseitige Darstellung zugunsten der eigenen Partei kann bei internen Dokumenten zur Haftung führen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller/Greger ZPO, § 286 Rn. 1 ff. (Freie Beweiswürdigung)
-- Dittmann BRAO-Kommentar § 43a Rn. 1 ff. (Sachlichkeitsgebot)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Verbotene Formulierungstypen
 
 ### Erfolgsprognosen (absolut verboten)

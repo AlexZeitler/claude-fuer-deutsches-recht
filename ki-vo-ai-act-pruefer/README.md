@@ -141,6 +141,7 @@ Drei mögliche Diagnose-Ergebnisse, drei Workflows:
 ### Zum Ausprobieren: Testakte
 
 - [`testakten/ki-vo-konformitaetsbescheinigung-bewerberpilot`](../testakten/ki-vo-konformitaetsbescheinigung-bewerberpilot/) — fiktive Hochrisiko-Recruiting-KI mit Art.-3-/Art.-6-Vermerk, Risikoregister, Daten-Governance, Human Oversight, Art.-43-Checkliste, Konformitätsvermerk, EU-Konformitätserklärung-Entwurf und Lückenliste.
+- Download: [testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip)
 
 ---
 

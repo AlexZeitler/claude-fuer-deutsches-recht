@@ -19,20 +19,17 @@ description: "Nichtleistungskondiktion wegen Eingriffs in fremde Rechtsposition 
 
 ## Rechtsprechung
 
-BGH, Urt. v. 18.01.2012 – I ZR 187/10, NJW 2012, 3774 (Pippi-Langstrumpf) — Beim Eingriff in das Urheberrecht richtet sich der bereicherungsrechtliche Anspruch auf Herausgabe der ersparten Lizenzgebühr (Lizenzanalogie); Verschulden ist nicht erforderlich.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 29.04.2010 – I ZR 68/08, NJW-RR 2010, 1631 — Der Zuweisungsgehalt einer Rechtsposition ist das entscheidende Kriterium der Eingriffskondiktion; fehlt es daran (z. B. bei bloßen Chancen), scheidet § 812 Abs. 1 S. 1 Alt. 2 BGB aus.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 17.11.2005 – III ZR 350/04, NJW 2006, 615 — Die Eingriffskondiktion ist gegenüber vertraglichen Ansprüchen nicht subsidiär; sie kann neben §§ 97 ff. UrhG geltend gemacht werden.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 30.10.2003 – I ZR 253/01, NJW 2004, 594 — Bei Persönlichkeitsrechtsverletzungen mit kommerziellem Bezug (Namensrecht, Bildrecht) steht dem Verletzten ein Anspruch auf Herausgabe des durch den Eingriff erzielten Gewinns nach § 812 Abs. 1 S. 1 Alt. 2 BGB zu.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Lorenz in: Staudinger, BGB, Neubearbeitung 2023, § 812 Rn. 65–120 (Eingriffskondiktion, Zuweisungsgehalt, Lizenzanalogie).
-Sprau in: Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 812 Rn. 38–55 (Fallgruppen, Verhältnis zu Schadensersatz).
-Schwab in: MüKoBGB, 9. Aufl. 2024, § 812 Rn. 200–280 (Immaterialgüterrechte, Persönlichkeitsrecht).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Grundprinzip
 
 Die Eingriffskondiktion schützt den Inhaber einer Rechtsposition gegen wirtschaftliche Ausbeutung seiner Position ohne Rechtsgrund. Maßgeblich ist der Zuweisungsgehalt der verletzten Rechtsposition.

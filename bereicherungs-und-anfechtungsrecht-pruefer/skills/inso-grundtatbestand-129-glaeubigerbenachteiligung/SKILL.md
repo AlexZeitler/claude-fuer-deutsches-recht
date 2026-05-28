@@ -20,18 +20,15 @@ description: "Grundvoraussetzungen der Insolvenzanfechtung nach § 129 InsO klä
 
 ## Rechtsprechung
 
-BGH, Urt. v. 09.06.2016 – IX ZR 314/14, NJW 2016, 2580 — Der Begriff der Rechtshandlung in § 129 InsO ist weit auszulegen; er umfasst jedes rechtserhebliche Handeln oder Unterlassen des Schuldners, das eine rechtliche Wirkung auslöst und das Schuldnervermögen berührt.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 29.11.2007 – IX ZR 121/06, NJW-RR 2008, 573 — Mittelbare Benachteiligung ist ausreichend, wenn der Kausalzusammenhang zwischen der Rechtshandlung und der Schlechterstellung der Gläubiger feststeht; bloße Befürchtungen oder Vermutungen genügen nicht.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 06.04.2006 – IX ZR 185/04, NJW 2006, 2701 — Das Anfechtungsrecht nach §§ 129 ff. InsO steht ausschließlich dem Insolvenzverwalter zu; der einzelne Gläubiger hat außerhalb des Insolvenzverfahrens nur das Recht nach §§ 1 ff. AnfG, das einen vollstreckbaren Titel erfordert.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Kayser in: MüKoInsO, 4. Aufl. 2023, § 129 Rn. 1–80 (Rechtshandlung, Benachteiligung, Kausalität).
-Gehrlein in: Uhlenbruck, InsO, 15. Aufl. 2023, § 129 Rn. 1–60 (Grundtatbestand, Abgrenzungen).
-Brinkmann in: Uhlenbruck, InsO, 15. Aufl. 2023, Vorbem. §§ 129–147 Rn. 1–25 (Systematik der Insolvenzanfechtung).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 § 129 InsO ist die Generalklausel der Insolvenzanfechtung. Sie bildet die Voraussetzungen, die jeder besondere Anfechtungstatbestand (§§ 130–135 InsO) zusätzlich erfüllen muss.

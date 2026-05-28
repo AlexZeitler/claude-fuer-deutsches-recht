@@ -17,9 +17,7 @@ Die persönliche Haftung des Geschäftsführers ist kein theoretisches Konstrukt
 - § 15a InsO (Insolvenzantragspflicht)
 - § 15b InsO (Zahlungsverbote nach Insolvenzreife)
 - § 1 StaRUG (Krisenfrüherkennungspflicht)
-- BGH II ZR 88/99 vom 08.01.2001 (BGHZ 146, 264) (GmbH-Geschäftsführerhaftung, Zahlungen nach Insolvenzreife)
-- BGH II ZR 234/17 (Haftung bei Verletzung der Überwachungspflicht)
-- BGH IX ZR 285/14 (Sorgfaltspflicht, Sanierungsberatung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IDW S 6 (Sanierungskonzepte)
 
 ---
@@ -52,7 +50,7 @@ Die Business Judgment Rule (§ 93 Abs. 1 S. 2 AktG, GmbH analog) schützt den Ge
 
 § 93 Abs. 2 S. 2 AktG enthält eine der empfindlichsten Regelungen des deutschen Gesellschaftsrechts: **Im Haftungsprozess muss das Vorstandsmitglied beweisen, dass es die Sorgfalt eines ordentlichen und gewissenhaften Geschäftsleiters angewendet hat.**
 
-Diese Beweislastumkehr gilt analog für GmbH-Geschäftsführer (BGH II ZR 88/99 vom 08.01.2001 (BGHZ 146, 264)) und hat praktische Konsequenzen von erheblichem Gewicht:
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - Wer keine Protokolle führt, kann seine Pflichterfüllung nicht beweisen.
 - Wer keine Liquiditätsplanung vorhält, kann nicht nachweisen, dass er § 1 StaRUG erfüllt hat.

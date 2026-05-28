@@ -187,8 +187,7 @@ ERGEBNIS:
 ## Aktuelle Leitentscheidungen — Cross-Class Cramdown
 
 
-- LG Hamburg, Beschl. v. 22.06.2021 — 344 T 62/21, NZI 2021, 790 — Absolute Priority Rule: abgeleitete Anforderung aus § 26 StaRUG; nachrangige Glaeubiger duerfen keine Vorteile erhalten wenn vorrangige Klasse ablehnt.
-- BGH, Urt. v. 16.11.2023 — IX ZB 63/22, NZI 2024, 117 — Cramdown-Pruefung: Gericht prueft Cramdown-Voraussetzungen selbstaendig; mangelhafte Vergleichsrechnung fuehrt zur Ablehnung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Cross-Class Cramdown
 
@@ -201,12 +200,6 @@ ERGEBNIS:
 3. **Mehrheit der Klassen vorhanden?** Mindestens Haelfte aller Klassen muss zugestimmt haben.
 4. **Gleichbehandlung?** Kein Glaeubiger gleichen Rangs darf schlechter gestellt sein als abgelehnende Klasse.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Braun/Herzig, StaRUG §§ 26-28 — Cramdown und Minderheitenschutz.
-- MüKo InsO/Eidenmüller § 245 InsO Rn. 1 ff. — Obstruktionsverbot.
-- Uhlenbruck/Lüer §§ 245-246 InsO Rn. 1 ff. — InsO Cramdown.
-
-<!-- AUDIT 27.05.2026
-Halluzinations-Reparatur Bundle 035:
--->
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

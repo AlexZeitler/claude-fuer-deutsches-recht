@@ -211,7 +211,7 @@ Die folgenden Klauseltypen lassen sich sowohl im Asset-Deal-Vertrag (Regelverfah
 | (c) rechtliche Verpflichtung | nein | Plan-Bestätigung schafft keine datenschutzrechtliche Pflicht |
 | (d) lebenswichtige Interessen | nein | unpraktisch |
 | (e) öffentliches Interesse | nein | bei privatwirtschaftlichem Asset Deal nicht einschlägig |
-| (f) berechtigtes Interesse + Interessenabwägung | umstritten | siehe BGH IV ZR 225/17 (Lebensversicherung-Bestandsübertragung) — Interessenabwägung erforderlich; bei sensitiven Daten kritisch |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 **Empfehlung Praxisstandard "Opt-in mit Anreiz":**
 
@@ -245,7 +245,7 @@ Die folgenden Klauseltypen lassen sich sowohl im Asset-Deal-Vertrag (Regelverfah
 | besondere Kategorien (Art. 9 DSGVO) — Gesundheitsdaten, Religion, Gewerkschaft etc. | Einwilligung praktisch zwingend, Interessenabwägung Art. 6 Abs. 1 lit. f scheidet aus |
 | Daten Minderjähriger | Art. 8 DSGVO: Einwilligung der Erziehungsberechtigten erforderlich |
 | Bank-/Zahlungsdaten | aufsichtsrechtliche Sonderregeln (BaFin), ggf. KWG/ZAG |
-| Patientendaten | § 203 StGB Schweigepflicht; OLG-Rspr. zur Praxisveräußerung (z.B. BGH IX ZR 80/14) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Telekommunikationsdaten | § 3 TDDDG, § 9 TKG |
 | Bestandskunden vs. Interessenten | Interessenten ohne abgeschlossenen Vertrag i.d.R. nur mit Einwilligung übertragbar |
 
@@ -364,9 +364,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Strukturhilfe für Insolvenz- und Sta
 
 ## Weitere Leitentscheidungen — Uebertragende Sanierung
 
-- BGH, Urt. v. 22.04.2021 — IX ZR 213/19, NZI 2021, 589 — Asset-Deal Verwertungspflicht: IV muss Asset-Deal mit Insolvenzplan-Alternative vergleichen; Entscheidung fuer Asset-Deal muss erklaert und dokumentiert sein.
-- BGH, Urt. v. 01.12.2011 — IX ZR 11/11, NZI 2012, 190 — Betriebsuebergang § 613a BGB in Insolvenz: § 613a BGB gilt auch im Insolvenzverfahren; Erwerber tritt in bestehende Arbeitsverhaeltnisse ein; Kuendigung allein wegen Betriebsuebergang unwirksam.
-- BAG, Urt. v. 25.06.2020 — 6 AZR 480/19, NZA 2020, 1352 — Personalabbau im Asset-Deal: IV kann vor Betriebsuebergang kuerzen wenn betriebliche, wirtschaftliche Gruende vorliegen (nicht: weil Erwerber es will).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Output-Template Asset-Deal-Memo
 

@@ -17,10 +17,7 @@ Alle Platzhalter in eckigen Klammern `[...]` werden durch den Skill `telefon-kon
 4. Soll das Muster in Deutsch oder einer Fremdsprache ausgegeben werden?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Standardisierte Erstantwort-Vorlagen als Qualitaetssicherungsmassnahme in der Kanzlei; vereinheitlichte Templates reduzieren Haftungsrisiko.
-- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Vorlage muss Kostenbelehrung nach § 49b Abs. 5 BRAO enthalten; fehlendes Element begruendet Pflichtverletzung.
-- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Datenschutzhinweis nach Art. 13 DSGVO als Pflichtbestandteil des Erstantwort-Templates; fehlendes Element begruendet Datenschutzverstoß.
-- OLG Hamm, Urt. v. 23.03.2021 - 28 U 115/20, NJW-RR 2021, 895 — Kein-Mandat-Disclaimer im Template als Haftungsschutz: vorab etablierter Text verhindert individuelle Formulierungsfehler durch Sachbearbeiter.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 49b Abs. 5 BRAO — Kostenbelehrungspflicht: im Erstantwort-Template vorzusehen
@@ -28,10 +25,9 @@ Alle Platzhalter in eckigen Klammern `[...]` werden durch den Skill `telefon-kon
 - § 43 BRAO — Sorgfaltspflicht: standardisierte Qualitaetssicherung durch Templates
 - § 43a Abs. 2 BRAO — Verschwiegenheit: Template darf keine vertraulichen Informationen enthalten
 
-## Kommentarliteratur
-- Gaier/Wolf/Göcken BRAO § 43 Rn. 1-30 (Qualitaetssicherung: Vorlagen als Mittel der Sorgfalt)
-- Kühling/Buchner DSGVO Art. 13 Rn. 1-30 (Informationspflicht: Template-Integration als Best Practice)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Platzhalter-Verzeichnis
 
 | Platzhalter | Beschreibung | Quelle |

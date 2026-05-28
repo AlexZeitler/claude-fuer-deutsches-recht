@@ -43,17 +43,10 @@ Hinweis: Ein direktes Pendant zur US-amerikanischen "Subpoena" existiert im deut
 
 ### Leitentscheidungen
 
-- **BVerfG, Beschl. v. 12.04.2005 – 2 BvR 1027/02, NJW 2005, 1917** — Kanzleidurchsuchung; Beschlagnahmeverbot des § 97 StPO ist verfassungsrechtlich in Art. 12 Abs. 1 GG und im Rechtsstaatsprinzip verankert; Verhältnismäßigkeitsmaßstab.
-- **BGH, Beschl. v. 10.07.2019 – StB 23/19, NStZ 2019, 687 Rn. 14 ff.** — Reichweite des Beschlagnahmeverbots § 97 StPO bei Kanzleidurchsuchung; Verteidiger-Mandant-Gewahrsam; Beweismittelbeschlagnahme nur bei nicht-verteidigungsrelevanten Gegenständen.
-- **BGH, Beschl. v. 07.11.2018 – XII ZB 2/16, NJW 2019, 374 Rn. 18 ff.** — § 142 ZPO Urkundenvorlage; richterliche Ermessensgrenzen; Verweigerung wegen anwaltlicher Verschwiegenheit wirksam.
-- **EuGH, Urt. v. 08.12.2022 – C-694/20 (Orde van Vlaamse Balies u.a.), NJW 2023, 197** — Schutz anwaltlicher Kommunikation im EU-Recht; Meldepflichten aus DAC6-Richtlinie verletzen bei Rechtsanwälten den Schutz vertraulicher Kommunikation; maßgeblich für alle grenzüberschreitenden Sachverhalte mit EU-Bezug.
-### Kommentarliteratur
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+### Quellenregel
 
-- `Meyer-Goßner/Schmitt, StPO, 67. Aufl. 2024, § 97 Rn. 5 ff.` — Beschlagnahmeverbot; Gewahrsam; Treuhandverhältnis; Durchsuchungsschutz in Kanzleiräumen.
-- `Zöller/Greger, ZPO, 35. Aufl. 2024, § 142 Rn. 3 ff.` — Urkundenvorlageanordnung; Weigerungsrechte; Verhältnismäßigkeit und Zumutbarkeit.
-- `Kopp/Schenke, VwGO, 29. Aufl. 2023, § 99 Rn. 10 ff.` — In-camera-Verfahren bei behördlichem Geheimhaltungsinteresse; Reichweite der Vorlage­pflicht.
-- `BeckOK StPO/Bär, 52. Ed. (Stand 01.01.2024), § 53 Rn. 6 ff.` — Zeugnisverweigerungsrecht; Bezugnahme auf Dritte (§ 53a StPO).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Schritt 0: Anwendbares Recht bestimmen
@@ -63,9 +56,9 @@ Vor der Analyse der Beweisanordnung: Welches Verfahren und welche Normen gelten?
 - **ZPO-Verfahren**: §§ 142, 144, 273 ZPO; Verweigerungsrechte nach §§ 383, 384 ZPO; Fristberechnung nach §§ 214 ff. ZPO.
 - **StPO-Verfahren**: §§ 94, 97, 102, 103, 161a StPO; § 53 StPO bei Zeugnisverweigerungsrecht; sofortiger Widerspruch bei Beschlagnahme von Verteidigerunterlagen.
 - **VwGO**: §§ 86, 99, 111 VwGO; behördliche Vorlagebeschlüsse; In-camera-Verfahren.
-- **EU-Bezug**: EuGH C-694/20 beachten für anwaltliche Kommunikation im grenzüberschreitenden Kontext.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Quellenattribuierung: Jeden Normen- und Entscheidungshinweis mit Herkunft versehen: `[Primärquelle]`, `[Kommentar – prüfen]`, `[Trainingsdaten – prüfen]`. Vor Einreichung in Schriftsätzen oder gegenüber dem Gericht sind alle Angaben gegen eine Primärquelle (juris, beck-online) zu verifizieren.
+Quellenattribuierung: Jeden Normen- und Entscheidungshinweis mit Herkunft versehen: `[Primärquelle]`, `[Kommentar – prüfen]`, `[Trainingsdaten – prüfen]`. Vor Einreichung in Schriftsätzen oder gegenüber dem Gericht sind alle Angaben gegen eine Primärquelle (amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang) zu verifizieren.
 
 ### Schritt 1: Klassifizieren
 
@@ -267,7 +260,7 @@ Alle Fristen sofort im Fristenkontrollsystem notieren.
 
 ## Quellenverifizierung
 
-Jeder Normen-, Entscheidungs- und Regelhinweis in dieser Triage — einschließlich der Schritt-0-Recherchequellen, Einwendungsgrundlagen und Verweisungen auf das Vertraulichkeitsregister — ist KI-generiert und ungeprüft. Vor Verwendung in Schriftsätzen, Einwendungskorrespondenz oder Antragsstellungen ist eine Verifikation gegen eine Primärquelle (juris, beck-online, Wolters Kluwer) erforderlich: Richtigkeit, Aktualität, lokale Varianten. Fabrizierte oder fehlerhafte Zitate in eingereichten Schriftsätzen können Sanktionen auslösen.
+Jeder Normen-, Entscheidungs- und Regelhinweis in dieser Triage — einschließlich der Schritt-0-Recherchequellen, Einwendungsgrundlagen und Verweisungen auf das Vertraulichkeitsregister — ist KI-generiert und ungeprüft. Vor Verwendung in Schriftsätzen, Einwendungskorrespondenz oder Antragsstellungen ist eine Verifikation gegen eine Primärquelle (amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang, Wolters Kluwer) erforderlich: Richtigkeit, Aktualität, lokale Varianten. Fabrizierte oder fehlerhafte Zitate in eingereichten Schriftsätzen können Sanktionen auslösen.
 ```
 
 ### Schritt 9: Übergabe
@@ -288,16 +281,16 @@ Ohne ausdrückliche Bestätigung keine Weiterleitung. Triage, Scoping und intern
 ## Risiken und typische Fehler
 
 - **Beschlagnahmeschutz § 97 StPO:** Bei Kanzleidurchsuchungen sofort Widerspruch erklären; jede Herausgabe ohne Prüfung kann den Schutz endgültig beseitigen.
-- **Syndikusanwalt-Korrespondenz:** Im EU-Kartellverfahren und bei Behördenermittlungen kein Schutz (EuGH Akzo Nobel C-550/07 P) — nicht pauschal § 43a BRAO geltend machen.
-- **EuGH C-694/20:** Bei grenzüberschreitenden Sachverhalten und EU-Bezug: Schutz anwaltlicher Kommunikation nach EU-Recht beachten.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Einwendungsfristen:** Laufen teilweise bereits ab Zustellung; kein einheitliches Datum ohne Normprüfung annehmen.
 - **Quellenverifizierung:** Alle Norm- und Entscheidungshinweise sind vor Einreichung zu verifizieren.
 
 ## Quellenpflicht
 
 - Gesetzestexte: §§ 142, 144, 273, 373 ff., 383, 384 ZPO; §§ 53, 94, 97, 102, 103, 160a, 161a, 163a StPO; §§ 86, 99 VwGO; § 43a BRAO; GeschGehG
-- Rechtsprechung: BVerfG, Beschl. v. 12.04.2005 – 2 BvR 1027/02, NJW 2005, 1917; BGH, Beschl. v. 10.07.2019 – StB 23/19, NStZ 2019, 687; EuGH, Urt. v. 08.12.2022 – C-694/20, NJW 2023, 197
-- Kommentare: Meyer-Goßner/Schmitt, StPO, 67. Aufl. 2024, § 97; Zöller/Greger, ZPO, 35. Aufl. 2024, § 142; Kopp/Schenke, VwGO, 29. Aufl. 2023, § 99
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 

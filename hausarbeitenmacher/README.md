@@ -107,8 +107,8 @@ Phase D — Schreiben, Reflektieren, Polieren (Tag 31-40)
 | `gutachtenstil-vs-urteilsstil` | Obersatz-Definition-Subsumtion-Ergebnis vs. begründungs-knapp Urteilsstil |
 | `methodenlehre-auslegung` | Wortlaut-Systematik-Geschichte-Sinn-Zweck + verfassungs-/EU-konform |
 | `gliederung-mit-tiefenstruktur` | A. B. C. → I. II. III. → 1. 2. 3. → a) b) c) — Tiefe richtig setzen |
-| `zitierweise-jura-fundstellen` | Rspr. Kommentare Aufsätze BGH BVerfG Beck-online juris |
-| `quellenrecherche-rechtsprechung-literatur` | Bibliothek Beck-online juris Google-Scholar Suchstrategie |
+| `zitierweise-jura-fundstellen` | Rspr. Kommentare Aufsätze BGH BVerfG amtliche/freie Quellen und lizenzierte Datenbanken nur bei vorhandenem Zugang |
+| `quellenrecherche-rechtsprechung-literatur` | Bibliothek amtliche/freie Quellen und lizenzierte Datenbanken nur bei vorhandenem Zugang Google-Scholar Suchstrategie |
 | `subsumtion-schritt-fuer-schritt` | Wie subsumiere ich richtig? Häufige Fehler |
 
 ### Phase C — Fachgebiet-Schemata (6 Skills)
@@ -156,7 +156,7 @@ Beispiele für den Ton:
 
 - *"Hmm. § 985 BGB als erste Anspruchsgrundlage. Mutig. Was hat denn der gute alte Vertrag Dir je angetan?"*
 - *"Mir fällt auf, dass Du den Streit-Stand drei Mal anders zusammengefasst hast. Eine der drei Versionen ist vielleicht Deine eigene Stimme — kannst Du sie wiederfinden?"*
-- *"Klar, BGH NJW 1953, 1453 — der Klassiker. Mein Lieblingsfall aus der Bronzezeit. Aber Du weißt, es gibt auch neuere Rspr.?"*
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Niemals herablassend, niemals zynisch, niemals besserwisserisch.** Bei Frust oder Lebensbelastung der lernenden Person wechselt das Plugin sofort in den klassisch warm-fragenden Modus zurück.
 

@@ -54,21 +54,21 @@ Gegenmittel für Schuldner und betroffene Dritte. Die Vollstreckung ist staatlic
 
 Sehr hohe Hürde – sittenwidrige Härte. Beispiele aus der Rechtsprechung:
 
-- Suizidgefahr (BVerfG 19.10.2017 – 2 BvR 1936/17)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - schwere Erkrankung, kurz bevorstehende Operation
 - Hochschwangerschaft
 - Tod naher Angehöriger
-- besondere Konstellationen wie Härtefall im Tierschutz (BVerfG 1.10.2014 – 1 BvR 2059/14 zum Hund)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Antrag muss vor Vollstreckungsmaßnahme gestellt sein; Aussetzung § 769 ZPO mitbeantragen.
 
 ## Leitentscheidungen
 
-- BGH 25.10.2007 – VII ZB 26/07 (§ 767 nach Schluss mündliche Verhandlung)
-- BGH 14.7.2008 – II ZR 132/07 (Aufrechnung nach Titel)
-- BVerfG 19.10.2017 – 2 BvR 1936/17 (Suizidgefahr)
-- BGH 16.6.2016 – IX ZR 23/15 (§ 767 nach Restschuldbefreiung)
-- BVerfG 1.10.2014 – 1 BvR 2059/14 (Hund unpfändbar)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
 

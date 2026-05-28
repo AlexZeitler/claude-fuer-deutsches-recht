@@ -46,7 +46,7 @@ Klar, knapp, vollstreckbar. **Imperative Form**, keine Konditionalsätze.
 
 ### Gründe
 
-Knapper als beim Urteil — meist 1-3 Absätze. Aber: **vollständig genug, dass das Beschwerdegericht die Prüfung nachvollziehen kann** (Paragraf 567 ff. ZPO). Bei Hinweisbeschluss müssen die rechtlichen Hinweise so konkret sein, dass die Parteien angemessen reagieren koennen (BGH NJW 2020, 1740 Rn. 14).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Rechtsmittelbelehrung
 
@@ -191,7 +191,7 @@ gegeben.
 
 1. **Tenor unvollstreckbar.** Tenor muss aus sich heraus vollstreckbar sein. "Der Antrag wird teilweise zurueckgewiesen" reicht nicht — der zugesprochene Teil ist zu bezeichnen.
 2. **PKH-Beschluss ohne Beiordnung.** Bei Anwaltszwang (LG, OLG, FamG mit Anwaltszwang) muss die Beiordnung mit ausgesprochen werden (Paragraf 121 ZPO).
-3. **Hinweisbeschluss zu unkonkret.** "Die Klage ist substanziierungsbedürftig" reicht nicht. Konkret muss benannt werden, was vorgetragen werden soll. BGH NJW 2020, 1740 Rn. 14; BGH NJW 2017, 3155.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. **Streitwertbeschluss zu spaet.** Festsetzung bis zur nächsten Instanz möglich, aber meist mit Urteil/Endbeschluss (Paragraf 63 II GKG).
 5. **Erledigungsbeschluss ohne Begründung der Kostenentscheidung.** Paragraf 91a ZPO verlangt billiges Ermessen; mindestens kurze Begründung der Kostenquote.
 6. **Rechtsmittelbelehrung falsch.** Bei sofortiger Beschwerde 2 Wochen ab Zustellung; bei Einspruch gegen Versäumnisbeschluss 2 Wochen ab Zustellung; bei Beschwerde gegen Streitwertfestsetzung 6 Monate ab Festsetzung (Paragraf 68 GKG).

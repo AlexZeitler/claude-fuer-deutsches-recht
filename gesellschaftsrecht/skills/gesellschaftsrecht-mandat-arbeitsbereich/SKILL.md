@@ -55,11 +55,9 @@ Bei M&A-Mandaten (Kauf/Verkauf von Unternehmen) gilt der Rechtsanwalt als Verpfl
 
 | Gericht | Aktenzeichen | Fundstelle | Leitsatz / Relevanz |
 |---|---|---|---|
-| BGH | IX ZR 199/14 | NJW 2015, 3239 | Anwaltliche Verschwiegenheitspflicht; Schadensersatz nach § 280 Abs. 1 BGB bei schuldhafter Verletzung durch den Anwalt |
-| BGH | IX ZR 280/14 | NJW 2016, 317 | Interessenkonflikt; fristlose Kündigung des Mandatsvertrags bei Pflichtenkollision; Schadensersatz des Mandanten |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | <!-- IX ZR 221/15 entfernt (27.05.2026): AZ existiert nicht auf dejure.org; V ZR 221/15 ist ein WEG-Sachenrechtsfall (NJW-RR 2017, 260); NJW 2017, 2835 nicht verifizierbar --> | | | |
-| BVerfG | 1 BvR 2241/16 | NJW 2018, 2392 | Beschlagnahmeverbot für Handakten des Rechtsanwalts (§ 97 StPO); Schutzbereich der Verschwiegenheitspflicht |
-| OLG München | 15 U 3248/19 | NJW-RR 2020, 638 | Schadensersatz wegen Verletzung des Interessenkonfliktverbots; Mandant kann Herausgabe von Vorteilen verlangen |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema: Mandats-Workspace
 
@@ -107,7 +105,7 @@ Bei M&A-Mandaten (Kauf/Verkauf von Unternehmen) gilt der Rechtsanwalt als Verpfl
 |---|---|---|
 | Mandatsworkspace für In-house-Juristen unnötig | In-house-Jurist arbeitet nur für einen Mandanten (das eigene Unternehmen) | Richtig — Skill bei In-house-Standard deaktiviert; nur bei tatsächlichem Mehrfachmandatsverhältnis aktivieren |
 | Mandatsinformationen können zusammengefasst werden | Effizienzgewinn bei mandatsübergreifendem Vergleich | § 43a Abs. 2 BRAO gilt für jedes einzelne Mandat; mandatsübergreifende Auswertung nur mit ausdrücklicher Erlaubnis jedes Mandanten |
-| Interessenkonfliktprüfung übertrieben | Kein Interessenkonflikt bei reinen Transaktionsmandaten | § 43a Abs. 4 BRAO ist streng; bereits latente Interessenkollision begründet Pflicht zur Niederlegung (BGH IX ZR 280/14) |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Digitale Trennung nicht ausreichend | Mandatsinhalte sind ohnehin in unterschiedlichen Softwaresystemen gespeichert | Verschwiegenheitspflicht gilt auch für KI-gestütztes Drafting und Kontextverarbeitung; mandatsübergreifender Kontext-Schalter muss bewusst gesetzt werden |
 | Slug-System zu komplex | Einfachere Identifikation reicht | Slug-Eindeutigkeit ist zentral für fehlerfreies Routing; klares Muster (Mandant-Typ-Jahr) verhindert Verwechslungen |
 
@@ -389,17 +387,16 @@ Abgeschlossen: [NEIN / JA — TT.MM.JJJJ; archiviert]
 
 Zitierweise nach `../../references/zitierweise.md`.
 
-Kommentarliteratur:
-- Roth/Altmeppen, GmbHG, 11. Aufl. 2024, Einl. Rn. 15 ff. (Mandatsverhältnis im Gesellschaftsrecht).
-- Baumbach/Hopt, HGB, 41. Aufl. 2024, Einl. vor § 1 Rn. 10 ff. (Berufsrecht der rechtsberatenden Berufe).
-- BGH, Urt. v. 25.06.2015 – IX ZR 199/14, NJW 2015, 3239 Rn. 18 (Anwaltliche Verschwiegenheitspflicht).
-- BGH, Urt. v. 17.09.2015 – IX ZR 280/14, NJW 2016, 317 Rn. 20 (Interessenkonflikt; Kündigung des Mandats).
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall und keine Interessenkonfliktprüfung.
 
 ---
 ## Audit-Hinweis (27.05.2026)
 
-Geprüfte AZ: BGH IX ZR 221/15.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Status: WRONG_TOPIC — AZ IX ZR 221/15 existiert auf dejure.org nicht. Das reale Urteil V ZR 221/15 (18.11.2016) betrifft WEG-Sachenrecht (Nutzungsbeendigung/Unterlassung, NJW-RR 2017, 260), nicht Verschwiegenheitspflicht bei Kanzleiwechsel. NJW 2017, 2835 nicht verifizierbar.
 Maßnahme: Tabellenzeile mit IX ZR 221/15 entfernt. Kein Ersatz eingefuegt; der Verschwiegenheitspflicht-Stoff ist ueber BGH IX ZR 199/14 und IX ZR 280/14 sowie die Normtexte (§ 43a BRAO, § 203 StGB) abgedeckt.

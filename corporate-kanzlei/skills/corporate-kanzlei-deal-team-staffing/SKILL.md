@@ -24,14 +24,11 @@ description: "Transaktionsteam zusammenstellen und Workstreams verteilen für M&
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 12.07.2018 - III ZR 183/17, NJW 2018, 2957 — Taetigkeitsverbot nach § 43a BRAO gilt fuer die gesamte Kanzlei (Organisationspflicht); nicht nur fuer den mandatsbearbeitenden Anwalt
-- BGH, Urt. v. 15.06.2021 - IX ZR 225/17, NJW 2021, 2425 — Informed Consent des Mandanten beim Konflikt: nur wirksam wenn vollstaendig informiert; kein pauschaler Verzicht auf Loyalitaetspflichten
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Henssler/Pruestell BRAO § 43a Rn. 1 ff. — Taetigkeitsverbot und Kanzlei-Organisationspflicht
-- Zuck/Lissner, BRAO (8. Aufl. 2020) § 45 — Taetigkeitsverbot
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Team-Staffing-Matrix
 
 | Workstream | Seniorität | Verantwortlich | Stunden (Plan) | Status |
@@ -98,5 +95,5 @@ Strategische Fragen → [Fuehrender Partner NAME]
 ## Quellen
 
 - §§ 43a, 45 BRAO; § 3 BORA; Art. 18 MAR; §§ 666, 675 BGB
-- BGH III ZR 183/17 (Kanzlei-Organisationspflicht); BGH IX ZR 225/17 (Informed Consent)
-- Henssler/Pruestell BRAO § 43a
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.

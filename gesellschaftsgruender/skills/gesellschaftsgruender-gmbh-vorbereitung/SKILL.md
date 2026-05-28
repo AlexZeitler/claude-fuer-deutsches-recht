@@ -26,17 +26,11 @@ description: "GmbH-Gründung vorbereiten: Gründerprüfung, Kapitalplanung, Nota
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 11.02.2008 - II ZR 171/06, NJW 2008, 1589 Rn. 10 — Vorbelastungshaftung: Gesellschafter haften für Verbindlichkeiten, die zwischen notarieller Beurkundung und Eintragung entstehen, anteilig nach Stammkapitalquoten.
-- BGH, Urt. v. 27.01.1997 - II ZR 123/94, BGHZ 134, 333 — Einmann-GmbH: Selbstkontrahieren nach § 181 BGB zulässig, wenn Satzung Befreiung erteilt; ohne Befreiung schwebend unwirksam.
-- BGH, Urt. v. 04.03.1996 - II ZR 89/95, NJW 1996, 1476 — Differenzhaftung (§ 9 GmbHG): bei Sacheinlage trägt Gesellschafter das Werthaltigkeitsrisiko bis zur Einzahlungspflicht.
-- OLG München, Beschl. v. 20.04.2017 - 31 Wx 134/17, NZG 2017, 826 — Firmenbildung: Handelsregister darf Eintragung verweigern, wenn Firma keine ausreichende Unterscheidungskraft aufweist (§ 18 Abs. 1 HGB).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Scholz/Emmerich, GmbHG, § 5 Rn. 1-50 (Stammkapital, Sacheinlage, Differenzhaftung)
-- Lutter/Hommelhoff, GmbHG, § 7 Rn. 1-30 (Anmeldevoraussetzungen)
-- Baumbach/Hueck, GmbHG, § 9 Rn. 1-20 (Differenzhaftung Praxis)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Sieben-Bausteine-Prüfschema
 
 | Baustein | Kernfrage | Fallstrick | Ergebnis |
@@ -126,10 +120,9 @@ Anstellungsvertrag: [vorhanden / noch abzuschließen]
 
 - §§ 2, 5, 7, 9, 53 GmbHG (Gründung, Stammkapital, Differenzhaftung, Satzungsänderung)
 - §§ 17-18, 30 HGB (Firmenrecht, Verwechslungsgefahr)
-- BGH II ZR 171/06, NJW 2008, 1589 (Vorbelastungshaftung)
-- BGH II ZR 123/94, BGHZ 134, 333 (§ 181 BGB Befreiung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Scholz/Emmerich, GmbHG, § 5 Rn. 1-50
-- Baumbach/Hueck, GmbHG, § 9 Rn. 1-20
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Übergabe an andere Skills
 

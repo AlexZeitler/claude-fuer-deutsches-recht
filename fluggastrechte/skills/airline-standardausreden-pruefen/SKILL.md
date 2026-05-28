@@ -17,9 +17,9 @@ description: "Katalog typischer Standardausreden der Fluggesellschaften mit Gege
 
 **Gegenargument**:
 
-> EuGH, Urt. v. 22.12.2008 — C-549/07 (Wallentin-Hermann): Technische Probleme die im Rahmen der Wartung oder während des regulaeren Betriebs auftreten sind **kein außergewöhnlicher Umstand**. Sie gehören zur normalen Ausübung der Tätigkeit eines Luftfahrtunternehmens.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 > 
-> EuGH C-257/14 (van der Lans 17.09.2015): Auch ein versteckter Fabrikationsfehler oder frühzeitiger Verschleiss ist regelmäßig kein außergewöhnlicher Umstand.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Nur ausnahmsweise gilt etwas anderes wenn zB ein vom Hersteller bekannt gegebener Fehler kurz vor dem Flug entdeckt wird oder Sabotage durch Dritte vorliegt.
 
@@ -27,13 +27,13 @@ Nur ausnahmsweise gilt etwas anderes wenn zB ein vom Hersteller bekannt gegebene
 
 **Gegenargument**:
 
-> EuGH, Urt. v. 17.04.2018 — C-195/17 ua (Kruesemann): Ein wilder Streik des eigenen Personals — unabhängig davon ob durch eine offizielle Gewerkschaftsentscheidung gedeckt — ist **kein außergewöhnlicher Umstand**. Der Streik gehört zu den Risiken die mit der Personalstruktur einer Airline einhergehen.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 3. "Streik einer Gewerkschaft mit ordentlichem Aufruf"
 
 **Differenziertes Bild**:
 
-> EuGH, Urt. v. 23.03.2021 — C-28/20 (Airhelp / SAS): Streiks die nach den nationalen rechtlichen Voraussetzungen organisiert werden können außergewöhnliche Umstände sein **wenn** die Airline alle zumutbaren Maßnahmen ergriffen hat (Reserveflugzeug Umbuchung andere Airline). Beweislast bei der Airline.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Praktisch: oft im Detail strittig — Airlines berufen sich pauschal; aber zumutbare Maßnahmen sind regelmäßig nicht hinreichend dargelegt.
 
@@ -65,7 +65,7 @@ Praktisch: oft im Detail strittig — Airlines berufen sich pauschal; aber zumut
 
 **Außergewöhnlich aber**:
 
-> EuGH, Urt. v. 04.05.2017 — C-315/15 (Pesokova): Vogelschlag ist ein außergewöhnlicher Umstand.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 > 
 > ABER: die Airline muss zusätzlich nachweisen dass alle **zumutbaren Maßnahmen** ergriffen wurden — z. B. zuegige technische Prüfung schnellstmögliche Wiederinbetriebnahme Umbuchung auf anderen Flug.
 

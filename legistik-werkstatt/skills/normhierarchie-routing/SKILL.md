@@ -89,11 +89,9 @@ Dann zu `formulierungshilfe-bauen` routen, aber als Antrag/Entschließungsantrag
 
 Art. 70-74 GG — Art. 76-78 GG — Art. 80 GG — Art. 28 Abs. 2 GG — Art. 31 GG — Art. 1 Abs. 3 GG — Art. 93 Abs. 1 Nr. 2 GG — Art. 100 GG — Art. 288 AEUV — GO-BT — jeweilige Landesverfassung und Landtags-GO
 
-## Kommentarliteratur
+## Quellenregel
 
-- Maunz/Dürig, GG, Art. 31 Rn. 1 ff. (Bundesrecht bricht Landesrecht) und Art. 100 Rn. 1 ff. (Normenkontrolle)
-- Jarass/Pieroth, GG, 17. Aufl. 2022, Art. 31 Rn. 1 ff. und Art. 93 Rn. 1 ff. (Hierarchie, Normenkontrolle)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 - Entscheidung institutionelle Startbahn

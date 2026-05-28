@@ -142,8 +142,8 @@ Nächster Schritt: /regulatorisches-recht:lücken-aufzeiger
 - **Mandantengeheimnis:** Inhalte aus `mandat.md` und den mandat-spezifischen Trackern sind vertraulich nach § 43a Abs. 2 BRAO. Nie in gemeinsame Kontexte oder Protokolle exportieren.
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- BGH, Urt. v. 22.10.2015 — III ZR 24/15, NJW 2016, 319 — korrekte Mandatsfuehrung im regulatorischen Bereich; Workspace-Trennung verhindert Konflikte bei parallelen Mandaten; Dokumentationspflicht des Beraters
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kernnormen:** §§ 611-630 BGB (Dienstvertrag, Mandatsrecht) — §§ 48-49 VwVfG — §§ 3-7 BORA (Berufsrecht Rechtsanwaelte)
 
-**Kommentarliteratur:** Grüneberg (Palandt), BGB, 83. Aufl. 2024, §§ 611 ff. Rn. 1 ff. (Anwaltsmandat)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

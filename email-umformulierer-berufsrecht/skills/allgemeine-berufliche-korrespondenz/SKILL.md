@@ -15,8 +15,7 @@ Dieser Skill deckt die Umformulierung beruflicher E-Mails und Schreiben ab, die 
 4. Welcher Stil ist gewuenscht: sehr foermlich, foermlich, sachlich-freundlich oder kollegial?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 22.11.2001 - I ZR 255/99, NJW 2002, 2031 — Rufschaedigende Auesserungen in Geschaeftskorrespondenz koennen Ansprueche aus § 824 BGB ausloesen.
-- BAG, Urt. v. 24.04.2014 - 8 AZR 416/13, NJW 2014, 2906 — Sachliche Korrespondenz mit Mitarbeitern als Teil der Fuersorgepflicht des Arbeitgebers nach § 241 Abs. 2 BGB.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 242 BGB — Treu und Glauben als Massstab fuer sachliche Korrespondenz
@@ -24,10 +23,9 @@ Dieser Skill deckt die Umformulierung beruflicher E-Mails und Schreiben ab, die 
 - § 241 Abs. 2 BGB — Ruecksichtnahmepflichten im Schuldverhaeltnis (auch bei Kommunikation)
 - § 5 UWG — Irrefuehrung durch unwahre Angaben in geschaeftlicher Kommunikation
 
-## Kommentarliteratur
-- Grüneberg/Grüneberg BGB § 242 Rn. 1-30 (Treu und Glauben in der Korrespondenz)
-- MüKoBGB/Wagner § 823 Rn. 350-380 (Persoenlichkeitsverletzung durch Aeusserungen)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Ueberarbeitete Korrespondenz
 
 **Adressat:** [NAME / FUNKTION] — **Tonfall:** [sachlich-hoeflich / foermlich / kollegial]
@@ -84,4 +82,4 @@ Für allgemeine Korrespondenz ohne Berufsrechtsbezug gelten keine spezifischen b
 
 Der Skill gibt aus: (1) Überarbeiteter Text in sachlich-höflichem Stil. (2) Erläuterung der wichtigsten Änderungen. (3) Hinweis auf Stilkonsistenz.
 
-<!-- AUDIT 27.05.2026: BGH III ZR 198/80 (WRONG_TOPIC: Finanzierungskauf/Einwendungsdurchgriff BGHZ 83, 301 — kein Bezug zu Sachlichkeit in Korrespondenz) geloescht. OLG Hamburg 3 U 48/17 (NOT_FOUND: AZ nicht auf dejure.org auffindbar) ebenfalls geloescht. Kein Ersatz eingefuegt. Quellen: dejure.org/1982,336 -->
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

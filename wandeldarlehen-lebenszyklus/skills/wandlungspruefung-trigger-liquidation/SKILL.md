@@ -27,7 +27,7 @@ Dieser Skill prüft, ob ein Liquidationsereignis (Exit/Trade Sale/IPO/Fusion) al
 - § 20 UmwStG analog (steuerliche Behandlung der Wandlung bei Tauschvorgang)
 
 ### Rechtsprechung
-- OLG München, Urt. v. 7. April 2016 – 23 U 3396/15 (Liquidationspräferenz bei Exit)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 

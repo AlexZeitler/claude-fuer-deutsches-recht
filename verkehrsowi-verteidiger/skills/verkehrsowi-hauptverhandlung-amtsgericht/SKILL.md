@@ -26,18 +26,11 @@ description: "Hauptverhandlung in OWi-Sache am Amtsgericht vorbereiten und führ
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 30.10.1997 - 4 StR 24/97, BGHSt 43, 277 — Im OWi-Verfahren bei standardisiertem Messverfahren keine detaillierte Urteilsbegruendung notwendig; aber konkrete Einwaende muessen beschieden werden.
-- OLG Bamberg, Beschl. v. 08.05.2017 - 3 Ss OWi 626/17, NZV 2017, 494 — Sachverstaendigenantrag zu Messfehlerursachen muss beschieden werden wenn konkrete Angriffspunkte.
-- OLG Saarbruecken, Beschl. v. 18.10.2021 - Ss BS 49/21 OWi, NZV 2022, 84 — Verwerfung eines Sachverstaendigenantrags ohne Begruendung verletzt faires Verfahren.
-- OLG Koblenz, Beschl. v. 17.11.2020 - 1 OWi 6 SsBs 65/20, NZV 2021, 156 — Vor Verwerfung nach § 74 OWiG muss Gericht Entschuldigungsgruende wirklich pruefen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- KK-OWiG / Senge § 77 Rn. 1-40 (Beweisaufnahme OWi)
-- Goehler OWiG § 73 Rn. 1-15 (Erscheinungspflicht)
-- Goehler OWiG § 74 Rn. 1-20 (Verwerfung Einspruch)
-- KK-OWiG / Mitsch § 79 Rn. 1-25 (Rechtsbeschwerde)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Vorbererungs-Checkliste (1 Woche vor HV)
 
 ```

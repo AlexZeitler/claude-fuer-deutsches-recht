@@ -23,17 +23,11 @@ description: "Qualitaetskontrolle und Quellenvalidierung im Corporate/M&A-Mandat
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 14.07.2008 - II ZR 202/07, NJW 2008, 3361 — GmbH-Geschäftsführer muss Entscheidungsgrundlagen sorgfältig ermitteln; eine ungeprüfte oder lückenhafte Datenbasis gefährdet das BJR-Haftungsprivileg.
-- BGH, Urt. v. 21.04.1997 - II ZR 175/95, BGHZ 135, 244 (ARAG/Garmenbeck) — Aufsichtsrat muss eigenverantwortlich prüfen, ob Ersatzansprüche gegen Vorstandsmitglieder zu verfolgen sind; eigene Informations- und Abwägungspflicht.
-- OLG Frankfurt, Urt. v. 07.12.2021 - 5 U 134/20, ZIP 2022, 310 — Unvollständige Disclosure-Schedules als Garantieverletzung: Verkäufer haftet, wenn bekannte Datenmängel nicht offengelegt werden.
-- BGH, Urt. v. 26.06.2012 - II ZR 66/11, NZG 2012, 1030 Rn. 16 — Informationspflicht des Aufsichtsrats: Unklare Zahlengrundlage begründet Nachforschungspflicht vor Beschlussfassung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Spindler, in: MüKo AktG, § 93 Rn. 60 ff. (Informationsbeschaffungspflicht als BJR-Voraussetzung)
-- Fleischer, in: MüKo GmbHG, § 43 Rn. 75 ff. (Sorgfaltspflicht GF bei datenbasierter Entscheidung)
-- Hüffer/Koch, AktG, § 93 Rn. 18-25 (angemessene Information, Verlässlichkeit)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfmatrix Datenqualitätskontrolle
 
 | Dimension | Prüffrage | Ampel | Massnahme bei Rot |
@@ -123,10 +117,9 @@ OFFENE PUNKTE (TODO)
 - §§ 93 AktG, 43 GmbHG (BJR-Informationspflicht)
 - §§ 242, 264 HGB (Buchführungsqualität als Datengrundlage)
 - Art. 5 Abs. 1 lit. d DSGVO (Datenrichtigkeit)
-- BGH II ZR 202/07, NJW 2008, 3361 (GmbH-GF Informationsgrundlage / BJR)
-- BGH II ZR 175/95, BGHZ 135, 244 (ARAG/Garmenbeck)
-- Spindler, in: MüKo AktG, § 93 Rn. 60 ff.
-- Hüffer/Koch, AktG, § 93 Rn. 18-25
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Übergabe an andere Skills
 

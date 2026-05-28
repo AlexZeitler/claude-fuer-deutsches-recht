@@ -13,10 +13,7 @@ description: "Tatbestaende lernen für Jurastudium und Examensvorbereitung: Anwe
 4. Gibt es einen Klausur-/Examens-Druck oder dient die Übung der Grundlagen-Vertiefung?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 28.06.2018 - 3 StR 108/18, NStZ 2019, 28 — § 242 StGB: Gewahrsamsbruch als mehrstuftiges Tatbestandsmerkmal; Bruch erfordert Aufhebung gegen den Willen des Inhabers.
-- BGH, Urt. v. 20.06.2012 - VIII ZR 268/11, NJW 2012, 3234 — § 280 BGB: Pflichtverletzung als zentrales Tatbestandsmerkmal; muss konkret benannt und subsumiert werden.
-- BGH, Urt. v. 30.01.2018 - VI ZR 531/16, NJW 2018, 1884 — § 823 BGB: Verletzung eines absolut geschuetzten Rechtsguts als Tatbestandsmerkmal; Abgrenzung allgemeines Vermoegen vs. absolutes Recht.
-- BVerwG, Urt. v. 09.06.1967 - IV C 38.67, BVerwGE 27, 141 — Verwaltungsrechtlicher Tatbestand: Ermessensnorm erfordert Pruefung Tatbestandsstufe und Rechtsfolgenstufe getrennt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - §§ 433, 280, 823 BGB — Zivil-Kerntatbestaende fuer Drill-Lernen
@@ -24,10 +21,9 @@ description: "Tatbestaende lernen für Jurastudium und Examensvorbereitung: Anwe
 - §§ 40, 42 VwGO — VwR-Grundtatbestaende fuer Drill-Lernen
 - §§ 133, 157 BGB — Auslegung als Querschnittskompetenz bei jedem Tatbestand
 
-## Kommentarliteratur
-- Fischer StGB § 242 Rn. 1-60, § 263 Rn. 1-80 (Klassik-Tatbestaende Strafrecht)
-- Grüneberg/Grüneberg BGB §§ 280, 823 Rn. 1-50 (Kerntatbestaende Zivilrecht)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Die Subsumtion (siehe `subsumtionslehre`) ist nur möglich, wenn die Tatbestandsmerkmale abrufbar sind. Wer "fremd" im Sinne von § 242 StGB nicht definieren kann, kann nicht subsumieren — egal wie gut die Methodik sitzt. Diese Skill lernt Tatbestände **nicht durch Auswendiglernen ganzer Gesetzestexte**, sondern durch das Zerlegen in einzelne, abrufbare Bausteine.
@@ -110,5 +106,5 @@ Diese Skill arbeitet eng mit `karteikarten`:
 ## Was diese Skill nicht tut
 
 - Sie liefert keine vorgefertigten Karteikartendecks, die der Studierende nur konsumiert. Lernzweck wäre dann verfehlt. Die Definitionen muss der Studierende formulieren — die Skill korrigiert.
-- Sie ersetzt keinen Palandt/Grüneberg, keinen Schönke/Schröder, keinen Kopp/Ramsauer — sie lehrt den Umgang mit dem Kommentar.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Sie übt keine ganzen Klausuren (siehe `gutachten-uebung`).

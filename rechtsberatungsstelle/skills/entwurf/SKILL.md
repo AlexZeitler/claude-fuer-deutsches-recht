@@ -35,18 +35,11 @@ Beachte: Rechtliche Beratungsleistungen an Einzelpersonen durch Studierende erfo
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 16.07.2015 – IX ZR 197/14, NJW 2015, 3087 Rn. 20 — Anwaltliche Sorgfaltspflicht bei der Erstellung von Schriftsätzen; sinngemäß auf Beratungsstellen unter Aufsicht übertragbar.
-- BAG, Urt. v. 27.02.2020 – 2 AZR 570/19, NZA 2020, 901 Rn. 12 — Formvoraussetzungen und Klarheit eines Beendigungsschreibens im Arbeitsrecht; Schriftformgebot des § 623 BGB.
-- BVerwG, Urt. v. 20.02.2019 – 6 C 1/18, NVwZ 2019, 735 Rn. 8 — Formwirksamkeit des Widerspruchs im Verwaltungsverfahren; Anforderungen an Bestimmtheit und Begründung.
-- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Deckenbrock/Henssler, RDG, 5. Aufl. 2021, § 6 Rn. 20 ff. — Voraussetzungen unentgeltlicher Rechtsdienstleistung; studentische Beratungsstellen.
-- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 242 Rn. 34 — Gestaltung von Schreiben im Schuldrecht; Grundsatz von Treu und Glauben als Stilprinzip.
-- Kopp/Ramsauer, VwVfG, 24. Aufl. 2023, § 70 Rn. 3 — Formvorschriften für den Widerspruch (Doppelautoren-Kommentar).
-- Vorwerk, in: BeckOK ZPO, 53. Ed. (Stand 01.03.2025), § 114 Rn. 5 — Voraussetzungen der Prozesskostenhilfe.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Schritt 1: Welches Schriftstück?
@@ -152,6 +145,6 @@ Entwurf enthält: Rubrum (AG Berlin), Anträge, Klagebegründung mit `[PRÜFEN: 
 
 ## Quellenpflicht
 
-Jede Rechtsbehauptung im Entwurf ist mit der einschlägigen Norm oder Entscheidung zu belegen. Vorgeschlagene Quellen aus dem Modell sind mit `[Modellwissen — verifizieren]` zu kennzeichnen und vor Verwendung gegen aktuelle Datenbanken (beck-online, juris, dejure) zu prüfen. Niemals ohne Quellangabe und Supervisoren-Freigabe einreichen.
+Jede Rechtsbehauptung im Entwurf ist mit der einschlägigen Norm oder Entscheidung zu belegen. Vorgeschlagene Quellen aus dem Modell sind mit `[Modellwissen — verifizieren]` zu kennzeichnen und vor Verwendung gegen aktuelle Datenbanken (amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang, dejure) zu prüfen. Niemals ohne Quellangabe und Supervisoren-Freigabe einreichen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

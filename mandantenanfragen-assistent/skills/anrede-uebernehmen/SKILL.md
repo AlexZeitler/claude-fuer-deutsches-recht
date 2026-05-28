@@ -15,10 +15,7 @@ Dieser Skill übernimmt die exakte Anrede aus der eingehenden E-Mail und wandelt
 4. Handelt es sich um eine Erbengemeinschaft, ein Ehepaar oder eine juristische Person mit besonderer Anredeform?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Persoenliche und korrekte Mandantenkommunikation als Teil der anwaltlichen Sorgfaltspflicht; falsche Anrede in Mandantenbriefen kann Vertrauensverlust begruenden.
-- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Kanzlei schuldet Mandanten hoefliche und korrekte Kommunikation; formale Fehler in der Anredezeile koennen als Indiz mangelhafter Organisation gewertet werden.
-- OLG Hamburg, Urt. v. 12.06.2019 - 7 U 52/18, GRUR-RR 2020, 45 — Fehlerhafter akademischer Titel in der Anrede kann als Verletzung des allgemeinen Persoenlichkeitsrechts gewertet werden (Art. 2 Abs. 1 i.V.m. Art. 1 Abs. 1 GG).
-- BGH, Urt. v. 07.07.2020 - VI ZR 246/19, NJW 2020, 3715 Rn. 11 — Verletzung des allgemeinen Persoenlichkeitsrechts durch Berichterstattung; Persoenlichkeitsschutz erfordert Abwaegung im Einzelfall (Art. 2 Abs. 1, Art. 1 Abs. 1 GG).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 2 BORA — Gewissenhaftigkeit: korrekte Mandantenkommunikation als Grundpflicht
@@ -26,10 +23,9 @@ Dieser Skill übernimmt die exakte Anrede aus der eingehenden E-Mail und wandelt
 - § 43 BRAO — Sorgfaltspflicht: fehlerfreie Kommunikation als Bestandteil anwaltlicher Berufspflichten
 - § 12 BGB — Namensrecht: Recht auf korrekte Namensnennung auch in der Korrespondenz
 
-## Kommentarliteratur
-- Gaier/Wolf/Göcken BRAO § 43 Rn. 1-20 (Sorgfaltspflicht: Kommunikationsstandards in der Kanzlei)
-- MüKoBGB/Säcker § 12 Rn. 1-20 (Namensrecht: Anspruch auf korrekte Namensnennung)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Grundprinzip: Exaktheit vor Heuristik
 
 Die Anrede aus der Eingangsmail wird buchstabengenau übernommen, sofern sie bereits formal korrekt ist. Eigenhändig gewählte Anredeformen sind zu respektieren:

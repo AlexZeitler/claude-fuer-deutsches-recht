@@ -66,15 +66,12 @@ Mustergliederung der Abrechnung als Markdown plus Checkliste vor Versand. Vor de
 
 ## Aktuelle Rechtsprechung — Leitsaetze
 
-- BGH, Urt. v. 15.03.2023 — VIII ZR 77/22, NJW 2023, 1756 Rn. 18: Der Vermieter ist bei Belegeinsichtsverlangen verpflichtet, vollstaendige Originalbelege oder beglaubigte Kopien vorzulegen; Verweigung berechtigt den Mieter zur Zahlungsverweigerung bezueglich der Nachzahlung.
-- BGH, Urt. v. 31.05.2023 — VIII ZR 143/22, NJW 2023, 2735 Rn. 22: Betriebskostenpositionen sind nur umlagefaehig, wenn sie unter den Katalog der BetrKV fallen; der Vermieter tragt die Darlegungslast fuer die Umlagefaehigkeit.
-- BGH, Urt. v. 22.11.2023 — VIII ZR 94/22, NJW 2024, 512 Rn. 20: Abrechnung muss den verwendeten Verteilerschluessel mit nachvollziehbarer Berechnung angeben; intransparente Schluessel machen die Abrechnung formell unwirksam.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette
 
 § 556 BGB, BetrKV, HeizkostenV — Abrechnungsfrist, Umlagefaehigkeit, Verteilerschluessel
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schmidt-Futterer, Mietrecht, 15. Aufl. — § 556 BGB Rn. 1 ff. Betriebskosten
-- BeckOK Mietrecht — BetrKV Anlage 3
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

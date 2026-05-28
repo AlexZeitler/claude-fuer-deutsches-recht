@@ -33,7 +33,7 @@ Ein Schriftsatz ist prozessual nach § 130a Abs. 3 ZPO wirksam eingereicht, wenn
 
 Das ist aber nicht automatisch die materielle elektronische Form nach § 126a BGB. Für § 126a BGB braucht das elektronische Dokument den Namen des Ausstellers und eine qES. Die bloße sichere Übermittlung aus dem beA ersetzt diese qES nicht, solange keine gesetzliche Formfiktion eingreift.
 
-### BGH VIII ZR 155/23 und VIII ZR 159/23
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Vor § 130e ZPO musste bei einer schriftformbedürftigen Kündigung in einem qES-Schriftsatz geprüft werden, ob die qES-Datei dem Erklärungsempfänger elektronisch mit prüfbarer Signatur zugegangen ist. Ein Ausdruck mit Transfervermerk nach § 298 Abs. 3 ZPO genügte nicht. Auch eine beA-Weiterleitung war nicht allein deshalb ausreichend, weil die Einreichung gegenüber dem Gericht prozessual ordnungsgemäß war. Entscheidend blieb die Verifikationsfunktion gegenüber dem materiell-rechtlichen Empfänger.
 
@@ -154,7 +154,7 @@ Vollmachtsurkunde im Original vorgelegt wurde (§ 174 Satz 1 BGB).
 - **Keine Vollmacht vorgelegt**: Kündigung durch Vertreter ohne Originalvollmacht kann nach § 174 BGB unverzüglich zurückgewiesen werden.
 - **qES des Rechtsanwalts ist nicht automatisch qES des Mandanten**: Entscheidend ist, wer die Erklärung abgibt und ob Vertretung offengelegt ist.
 - **beA ohne qES**: Eine einfache Signatur plus beA kann § 130a ZPO erfüllen, aber nicht automatisch § 126a BGB. Erst § 130e ZPO oder § 46h ArbGG kann die materielle Formfrage über eine gesetzliche Fiktion lösen.
-- **§ 130e ZPO nicht als Zustellungsnorm missverstehen**: Die Norm fingiert Form und Zugang der Willenserklärung, wenn Zustellung oder Mitteilung ordnungsgemäß erfolgt ist. Sie ersetzt nicht die Prüfung des Zustellungswegs.
+- **§ 130e ZPO nicht als Zustellungsnorm missverstehen**: Die Norm fingiert Form und Zugang der Willenserklärung, wenn Zustellung oder Mitteilung ordnungsgemäß erfolgt ist. Sie ersetzt keine bereitgestellten Lehrmaterialien und keine verifizierte Quellenarbeit.
 - **Andere Prozessordnungen**: VwGO, SGG, FGO, FamFG und StPO haben eigene ERV-Regeln. Eine Formfiktion wie § 130e ZPO nur anwenden, wenn die jeweilige Prozessordnung sie ausdrücklich enthält oder eindeutig verweist.
 
 ## Querverweise

@@ -40,12 +40,7 @@ description: "Geschmacksmuster- oder Designverletzung prüfen und Ansprüche dur
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| BGH | I ZR 23/10 | 28.09.2011 | Kinderwagen I: Maßstab "informierter Benutzer" beim Gesamteindrucksvergleich; kein Durchschnittskunde |
-| BGH | I ZR 211/08 | 24.03.2011 | Schreibgeräte: Schutzumfang Geschmacksmuster abhängig vom Grad der Eigenart |
-| EuGH | C-281/10 | 20.10.2011 | PepsiCo/Grupo Promer: Informierter Benutzer nimmt Designs nacheinander wahr; kein direkter Vergleich nötig |
-| OLG Düsseldorf | I-20 U 261/20 | 17.03.2022 | Designverletzung im Online-Handel: Produktbild auf Amazon-Plattform als öffentliches Anbieten i. S. § 38 DesignG |
-| OLG Frankfurt | 6 U 111/19 | 28.11.2019 | Nicht eingetragenes Gemeinschaftsgeschmacksmuster setzt bei Verletzungsklage Nachweis der Kopie voraus |
-| BGH | I ZR 120/16 | 23.11.2017 | Selbstwiderlegung Dringlichkeit: 4 Wochen als Faustregel; Einzelfall entscheidend |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema Designverletzung
 
@@ -137,7 +132,7 @@ weist kein identisches vorbekanntes Design auf. Es besitzt Eigenart nach
 Designs einen anderen Gesamteindruck erhält: [Ausführung der prägenden Merkmale].
 
 IV. Designverletzung § 38 DesignG
-Das Verletzungsmuster ruft beim informierten Benutzer (BGH I ZR 23/10 –
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Kinderwagen I) denselben Gesamteindruck hervor wie das Klagedesign.
 Folgende prägende Gestaltungsmerkmale sind vollständig übernommen:
 [tabellarische Gegenüberstellung Klagedesign vs. Verletzungsmuster].
@@ -173,7 +168,7 @@ vertreiben oder zu bewerben.
 
 Dringlichkeit:
 Kenntnis am [Datum] durch [Testkauf / Hinweis]. Antrag nach [X] Tagen;
-keine Selbstwiderlegung (BGH I ZR 120/16).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Glaubhaftmachung:
 Anlage EV 1: Eidesstattliche Versicherung [Name];
@@ -229,7 +224,7 @@ den Rechteinhabern autorisiert sind.
 
 | Frist | Inhalt | Norm |
 |-------|--------|------|
-| 4 Wochen | Faustregel Dringlichkeit einstweilige Verfügung ab Kenntnis | BGH I ZR 120/16 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 3 Monate | Widerspruch Eintragung bei DPMA | § 42 DesignG |
 | 5 Jahre | Verlängerungsperiode Schutzdauer; max. 25 Jahre | § 47 DesignG |
 | 3 Jahre | Schadensersatzanspruch-Verjährung ab Kenntnis | §§ 195, 199 BGB iVm § 49 DesignG |
@@ -241,7 +236,7 @@ den Rechteinhabern autorisiert sind.
 | Gegenargument | Herkunft | Reaktion |
 |--------------|---------|----------|
 | "Design fehlt Eigenart" | Beklagte | Sachverständigengutachten einholen; Designvergleich mit Stand der Technik aufbereiten; hohe Hürde für Nichtigkeitsgegenklage |
-| "Kein gleicher Gesamteindruck" | Beklagte | BGH Kinderwagen I (I ZR 23/10): Gesamteindruck, nicht Detailvergleich; prägende Merkmale herausarbeiten |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 | "Vorveröffentlichung durch Klägerin beseitigt Neuheit" | Beklagte | Neuheitsschonfrist § 5 DesignG (12 Monate) bei Eigenoffenbarung; Datum der Erstveröffentlichung prüfen |
 | "Erschöpfung § 48 DesignG" | Beklagte | War Erstinverkehrbringen durch Rechteinhaber autorisiert? Nachweis der Lieferkette |
 | "Antrag nicht dringlich — zu lange gewartet" | Beklagte | Genaues Kenntnis-Datum dokumentieren; subjektive Dringlichkeit (ab tatsächlicher Kenntnis, nicht Erkennbarkeitszeitpunkt) |
@@ -301,11 +296,11 @@ Bevor das Designverletzungsverfahren eingeleitet wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **EuGH, Urt. v. 20.10.2011 — C-281/10 P (PepsiCo / Grupo Promer):** Der informierte Benutzer nach Art. 10 GGV ist weder ein Durchschnittsverbraucher noch ein Fachmann; er kennt das Formschatz-Umfeld und beurteilt den Gesamteindruck unter Beruecksichtigung der Gestaltungsfreiheit des Entwerfers; groessere Gestaltungsfreiheit fuehrt zu groesseren Schutzumfang.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Urt. v. 28.01.2016 — I ZR 40/14 (Armbanduhr):** Ein eingetragenes Geschmacksmuster ist nichtig, wenn zum Anmeldezeitpunkt ein identisches Muster im Formenschatz der Oeffentlichkeit zugaenglich war; ein nicht zugaengliches Vorlaeufer-Design des Herstellers selbst zerstoert die Neuheit nicht (keine neuheitsschaedliche Eigenoffenbarung vor Schonfrist).
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **OLG Duesseldorf, Urt. v. 10.07.2018 — I-20 U 180/16 (Kinderwagen-Design):** Bei der Beurteilung der Designverletzung ist nicht das einzelne Merkmal, sondern der Gesamteindruck massgeblich; selbst eine starke Aehnlichkeit in Einzelmerkmalen fuehrt nicht zur Verletzung, wenn der Gesamteindruck erheblich verschieden ist.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 

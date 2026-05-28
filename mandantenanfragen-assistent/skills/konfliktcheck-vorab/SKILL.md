@@ -15,10 +15,7 @@ Dieser Skill erinnert an die berufsrechtliche Pflicht zum Interessenkonflikt-Che
 4. Bei Interessenkonflikt: welche Konsequenz (Mandatsablehnug, Hinweis an Suchenden auf andere Kanzlei)?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 08.11.2007 - IX ZR 5/06, NJW 2008, 371 — Verstoß gegen § 43a Abs. 4 BRAO durch gleichzeitige Vertretung gegenlaeufiger Interessen: Honoraranspruch kann verlustig gehen; Mandat muss niedergelegt werden.
-- BGH, Urt. v. 25.02.2016 - IX ZR 109/15, NJW 2016, 1590 — Ehemalige-Mandanten-Konflikt: § 43a Abs. 4 BRAO gilt auch bei vorangegangener Beratung in derselben Sache; Kanzlei muss Altakten pruefen.
-- BGH, Urt. v. 01.04.2014 - IX ZB 73/11, NJW 2014, 2298 — Parteiverrat nach § 356 StGB: Strafbarkeit setzt voraus, dass Anwalt in derselben Sache mit widerstrebenden Interessen taetig war; berufsrechtliche Pflichtverletzung geniegt nicht.
-- BVerfG, Beschl. v. 12.01.2016 - 2 BvR 2557/14, NJW 2016, 1155 — Interessenkonflikt-Check vor Mandatsannahme als verfassungsrechtlich gebotene Massnahme zur Sicherung des Vertrauens in die Rechtspflege.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 43a Abs. 4 BRAO — Verbot der Vertretung widerstreitender Interessen
@@ -26,10 +23,9 @@ Dieser Skill erinnert an die berufsrechtliche Pflicht zum Interessenkonflikt-Che
 - § 356 StGB — Parteiverrat: strafrechtliche Konsequenz bei gleichzeitiger Vertretung gegenlaeufiger Interessen
 - § 14 BRAO — Widerruf der Zulassung bei schwerwiegenden Berufsrechtsverletzungen
 
-## Kommentarliteratur
-- Gaier/Wolf/Göcken BRAO § 43a Rn. 150-200 (Interessenkonflikt: Tatbestand, Ausnahmen und Rechtsfolgen)
-- Henssler/Prütting BRAO § 3 BORA Rn. 1-30 (Konkretisierung: Ehemalige Mandanten und Sozietaets-Konflikt)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Rechtsgrundlage
 
 ### § 43a Abs. 4 BRAO — Verbot der Vertretung widerstreitender Interessen

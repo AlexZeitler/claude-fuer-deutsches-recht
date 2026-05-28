@@ -46,13 +46,11 @@ welche Abschnitte welchem Instrument zugehören.
 
 ### Leitentscheidungen
 
-- EuGH, Urt. v. 07.12.2023 – C-634/21, NJW 2024, 126 Rn. 49 (Schufa-Score): Automatisiertes Profiling als Art. 22 Abs. 1 DSGVO-Entscheidung, wenn KI-Note maßgebliche Grundlage für Drittentscheidung; Maßstab für KI-Scoring in der DSFA.
-- EuGH, Urt. v. 16.07.2020 – C-311/18, ECLI:EU:C:2020:559 (Schrems II), NJW 2020, 2613 Rn. 65: Drittstaatentransfer bei Anbieter-APIs; Prüfmaßstab für Art. 28 DSGVO-Auftragsverarbeitung durch KI-Anbieter in Drittstaaten.
-- BGH, Urt. v. 13.01.2015 – VI ZR 204/14, NJW 2015, 1236 Rn. 12: Produkthaftung für fehlerhafte Informationsprodukte; übertragbarer Maßstab auf KI-Haftung für fehlerhafte Folgenabschätzungen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Kommentare
 
-- Kühling/Buchner, in: Kühling/Buchner (Hrsg.), DSGVO BDSG, 4. Aufl. 2024, Art. 35 Rn. 21 (Voraussetzungen der DSFA-Pflicht).
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Wendehorst/Grinzinger, in: Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 27 Rn. 3 (FRIA-Anforderungen für Betreiber).
 
 ## Ablauf
@@ -398,12 +396,10 @@ Verbindliche Zitierweise gemäß `../references/zitierweise.md`.
 - § 203 StGB – Mandantengeheimnis `[Primärquelle – gesetze-im-internet.de]`
 
 **Leitentscheidungen:**
-- EuGH, Urt. v. 16.07.2020 – C-311/18, ECLI:EU:C:2020:559 (Schrems II), NJW 2020, 2613 Rn. 65 – Drittstaatentransfer bei Anbieter-APIs; Prüfmaßstab für Auftragsverarbeiter-APIs in KI-Systemen `[Modellwissen – prüfen]`
-- EuGH, Urt. v. 07.12.2023 – C-634/21, NJW 2024, 126 Rn. 49 – Schufa-Score: Automatisiertes Profiling als Art. 22 Abs. 1 DSGVO-Entscheidung bei maßgeblicher Grundlage für Drittentscheidung; Maßstab für KI-Scoring in DSFA `[Modellwissen – prüfen]`
-- BGH, Urt. v. 13.01.2015 – VI ZR 204/14, NJW 2015, 1236 Rn. 12 – Produkthaftung für fehlerhafte Informationsprodukte; übertragbarer Maßstab auf KI-Haftung `[Modellwissen – prüfen]`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-**Kommentarliteratur:**
-- Kühling/Buchner, in: Kühling/Buchner (Hrsg.), DSGVO BDSG, 4. Aufl. 2024, Art. 35 Rn. 21
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Frenzel, in: Paal/Pauly, DSGVO BDSG, 3. Aufl. 2021, Art. 22 Rn. 12
 - Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 27 Rn. 3 (FRIA-Anforderungen)
 

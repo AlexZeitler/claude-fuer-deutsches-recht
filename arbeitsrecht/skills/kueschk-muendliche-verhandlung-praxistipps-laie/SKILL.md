@@ -86,16 +86,11 @@ Ein Vergleich, den du im Stress unterschreibst, ist bindend. Meist gibt es zumin
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 27.09.1984 – 2 AZR 62/83, BAGE 47, 26 — Ein gerichtlicher Vergleich im Arbeitsgerichtsverfahren bedarf der Übereinstimmung beider Parteien und des Gerichts; er entfaltet sofort Rechtskraft und ist vollstreckbar.
-- BAG, Beschl. v. 14.06.2006 – 7 AZR 365/05, NZA 2006, 1285 — Im Kammertermin können Laien ohne Anwalt als Partei auftreten; das Gericht hat auf vollständigen Sachvortrag hinzuwirken (§ 139 ZPO).
-- BAG, Urt. v. 28.09.1989 – 2 AZR 107/89, NZA 1990, 545 — Kein Protokollirrtum ohne Rüge: Ein Vergleichsprotokoll, das dem Willen der Parteien entspricht, wird auch dann wirksam, wenn eine Seite später behauptet, sie habe sich geirrt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- GMP/Germelmann, 9. Aufl. 2017, § 54 ArbGG Rn. 1-20 — (Güterverhandlung, Vergleichszwang)
-- ErfK/Koch, 24. Aufl. 2024, § 54 ArbGG Rn. 5 ff. — (Ablauf Gütetermin)
-- GWBG/Benecke, ArbeitsgerichtsG, § 60 ArbGG Rn. 1-10 — (Kammertermin, Besetzung, Beweisaufnahme)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Nach dem Termin
 
 - Protokoll des Vergleichs oder Sitzungsprotokoll aufheben

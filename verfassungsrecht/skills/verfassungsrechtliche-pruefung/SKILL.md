@@ -21,7 +21,7 @@ Vor Beginn der Prüfung ist zu klären, was eigentlich geprüft wird:
 - **Rechtsverordnung** (Prüfung gegen Ermächtigungsnorm und unmittelbar gegen GG)
 - **Satzung**
 - **Verwaltungsakt** oder sonstige Maßnahme der vollziehenden Gewalt
-- **Gerichtsentscheidung** (Prüfungsmaßstab: spezifisches Verfassungsrecht, Lüth BVerfGE 7, 198)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Gesamtschema
 
@@ -47,7 +47,7 @@ Vor Beginn der Prüfung ist zu klären, was eigentlich geprüft wird:
 3. **Form**
    - Bestimmtheitsgebot (rechtsstaatliches Erfordernis)
    - Zitiergebot (Art. 19 Abs. 1 S. 2 GG bei Grundrechtseinschränkungen)
-   - Wesentlichkeitstheorie / Parlamentsvorbehalt (Kalkar BVerfGE 49, 89)
+   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### B. Materielle Verfassungsmäßigkeit
 
@@ -67,7 +67,7 @@ Pro betroffenem Grundrecht und pro betroffener Verfassungsnorm separat:
    - Demokratieprinzip Art. 20 Abs. 1, 2 GG
    - Rechtsstaatsprinzip Art. 20 Abs. 3 GG (Vertrauensschutz, Rückwirkungsverbot, Bestimmtheit)
    - Sozialstaatsprinzip Art. 20 Abs. 1 GG
-   - Europarechtsfreundlichkeit (Lissabon BVerfGE 123, 267; PSPP BVerfGE 154, 17)
+   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### C. Gesamtergebnis
 
@@ -95,7 +95,7 @@ A. Formelle Verfassungsmäßigkeit
 3. Form
    - Bestimmtheit: ___
    - Zitiergebot Art. 19 Abs. 1 S. 2 GG: ___
-   - Wesentlichkeit (Kalkar BVerfGE 49, 89): ___
+   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 B. Materielle Verfassungsmäßigkeit
 1. Grundrecht ___

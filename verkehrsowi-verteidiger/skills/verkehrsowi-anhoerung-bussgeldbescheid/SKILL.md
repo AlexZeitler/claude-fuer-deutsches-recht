@@ -25,18 +25,11 @@ description: "Anhoerung vor Bußgeldbescheid und Reaktion auf Bußgeldbescheid: 
 
 ## Aktuelle Rechtsprechung
 
-- OLG Hamm, Beschl. v. 09.02.2021 - 4 RBs 32/21, NZV 2021, 426 — Schweigen auf Anhoerung ist im OWi-Verfahren neutral; kein Schluss auf Schuld oder Schuldgestaendnis erlaubt.
-- OLG Muenchen, Beschl. v. 12.04.2021 - 3 Ss OWi 340/21, NZV 2021, 362 — Anhoerungsbogen-Unterzeichnung durch Betroffenen gilt als Einraeuming der Fahrereigenschaft wenn Fahreridentitaet darin bestaetigt wurde; Vorsicht bei unterschriebenen Formularen.
-- OLG Koeln, Beschl. v. 16.09.2020 - 2 RVs 97/20, NZV 2021, 42 — Bussgeldbescheid ohne vollstaendige Tatbeschreibung verletzt § 66 OWiG; Einspruch und Ruege der Formfehler.
-- OLG Celle, Beschl. v. 23.06.2020 - 3 Ss OWi 72/20, NZV 2020, 523 — Einspruchsfrist § 67 OWiG beginnt nur mit ordnungsgemaesser Zustellung; fehlerhafte Zustellungsurkunde fuehrt zu spaeterem Fristbeginn.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Goehler OWiG § 55 Rn. 1-15 (Anhoerung, Schweigerecht)
-- Goehler OWiG § 66 Rn. 1-25 (Bussgeldbescheid Pflichtinhalt)
-- Goehler OWiG § 67 Rn. 1-20 (Einspruch, Frist)
-- KK-OWiG / Lutz § 66 Rn. 1-20
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Anhoerungsbogen — Strategie
 
 ```

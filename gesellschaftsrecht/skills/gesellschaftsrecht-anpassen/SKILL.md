@@ -31,11 +31,10 @@ Der Nutzer möchte eine einzelne Einstellung im Praxisprofil ändern — ein Ris
 Das Praxisprofil bildet den rechtlichen Rahmen der vom Nutzer betreuten Mandate ab. Änderungen an Wesentlichkeitsschwellen, Modulen oder Eskalationslogiken haben unmittelbare Auswirkungen auf sämtliche Skill-Ausgaben.
 
 Relevante Vorschriften je Bereich (Referenz für Konsistenzprüfung):
-- M&A-Wesentlichkeit: § 311 AktG, § 15 GmbHG, §§ 241 ff. AktG analog (Beschlussmängel GmbH); BGH, Urt. v. 23.09.2014 – II ZR 44/13, NZG 2014, 1332 Rn. 15 (Beschlussmängelrecht GmbH)
-- Beschlussfassung: § 48 Abs. 2 GmbHG (schriftliches Verfahren GmbH); § 130 AktG (Niederschrift HV); BGH, Urt. v. 11.02.2008 – II ZR 187/06, NZG 2008, 381 Rn. 12 (Zustimmungspflicht bei schriftlichen GmbH-Beschlüssen)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Mitbestimmung: MitbestG, DrittelbG — eine Moduländerung, die ein mitbestimmungspflichtiges Unternehmen betrifft, ist zu flaggen
-- Kapitalmarkt: Art. 17 MAR (Ad-hoc), §§ 33 ff. WpHG (Stimmrechtsmitteilungen); Roth/Altmeppen, GmbHG, 11. Aufl. 2024, § 48 Rn. 10 ff.
-- Kommentarliteratur allgemein: Baumbach/Hopt, HGB, 41. Aufl. 2024, § 105 Rn. 1 ff. (Personengesellschaften); Hüffer/Koch, AktG, 16. Aufl. 2024, Einl. Rn. 5 ff.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Ablauf
 
@@ -142,7 +141,7 @@ Ausgabe: "Wesentlichkeitsschwelle geändert: 100.000 EUR → 250.000 EUR. `/Due-
 
 Bei Änderungen, die rechtliche Schwellenwerte oder Verfahrensregeln betreffen:
 - Einschlägige Norm zitieren: `§ 48 Abs. 2 GmbHG`, `Art. 17 Abs. 1 MAR`
-- BGH-Entscheidungen: `BGH, Urt. v. 11.02.2008 – II ZR 187/06, NZG 2008, 381 Rn. 12`
-- Kommentare im Bearbeiterstil: `Hüffer/Koch, AktG, 16. Aufl. 2024, § 130 Rn. 5`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

@@ -25,16 +25,11 @@ description: "Commercial Contracts Due Diligence: Prüft wesentliche Vertraege i
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 27.01.2022 - I ZR 43/21, NJW 2022, 1234 — Change-of-Control-Klausel in Lizenzvertrag berechtigt zur ordentlichen Kuendigung nur wenn vertraglich so vereinbart; Auslegung eng
-- BGH, Urt. v. 25.02.2016 - IX ZR 146/15, BGHZ 209, 152 — Langfristige Exklusivitaetsvereinbarungen koennen nach § 138 BGB sittenwidrig sein, wenn keine angemessene Gegenleistung
-- OLG Frankfurt, Urt. v. 14.11.2019 - 6 U 114/18, NZG 2020, 350 — Kuendigungsklauseln in Rahmenvertraegen bei M&A-Transaktion: Kaeufer muss CoC-Risiko im DD ausweisenund SPA-Schutz einfordern
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MueKo BGB/Wurmnest §§ 307-309 Rn. 1 ff. — AGB-Recht Unternehmensvertraege
-- Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 7 — Commercial Contracts Workstream
-- Gruen in: Heidel/Schall HGB § 74 Rn. 1 ff. — Wettbewerbsverbot
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Pruefungsmatrix: Wesentliche Vertragsklauseln
 
 | Klausel | Pruefungsinhalt | Hauptrisiko | Handlungsempfehlung |
@@ -115,8 +110,8 @@ Lizenzvertraege fuer Software koennen Open-Source-Copyleft-Pflichten enthalten (
 ## Quellen
 
 - §§ 307, 309, 314, 613a BGB; §§ 74 ff. HGB; §§ 1, 19 GWB
-- BGH I ZR 43/21 (CoC-Klausel); BGH IX ZR 146/15 (Exklusivitaet); OLG Frankfurt 6 U 114/18 (CoC-Risiko)
-- MueKo BGB/Wurmnest §§ 307-309 Rn. 1 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 7
 
 <!-- AUDIT 27.05.2026: BGH VIII ZR 94/17 (17.10.2018) entfernt. Tatsaechliches Thema: Mietrecht — Miethoehungszustimmung, kein fernabsatzrechtliches Widerrufsrecht (NJW 2019, 303). SKILL behauptete: Haftungsbegrenzungsklausel in B2B-Vertrag bei grober Fahrlaessigkeit (NJW 2019, 52) — falsch in Thema und Fundstelle. Eintrag geloescht. Kein Ersatz gefunden. Bundle 017, Task 2. -->

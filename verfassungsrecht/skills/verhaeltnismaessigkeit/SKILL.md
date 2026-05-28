@@ -37,7 +37,7 @@ Skill `bverfg-rechtsprechung-recherchieren` zuerst. Pinpoint pro tragender Aussa
 **Frage:** Ist das Mittel zur Erreichung des Zwecks geeignet?
 
 - **Maßstab:** Das Mittel muss den Zweck **fördern können** (nicht: vollständig erreichen).
-- **Einschätzungsprärogative des Gesetzgebers:** Bei komplexen Sachverhalten Einschätzungsspielraum (Cannabis BVerfGE 90, 145 — Pinpoint live; Mitbestimmung BVerfGE 50, 290).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Eingeschränkter Maßstab: **Evident ungeeignet** bedeutet verfassungswidrig.
 
 ### Stufe 3 — Erforderlichkeit
@@ -63,7 +63,7 @@ Skill `bverfg-rechtsprechung-recherchieren` zuerst. Pinpoint pro tragender Aussa
 
 **Indikatoren für hohe Eingriffsintensität** (Verschärfung der Anforderungen):
 
-- Kernbereich privater Lebensgestaltung (Großer Lauschangriff BVerfGE 109, 279 — Pinpoint live)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Heimliche Eingriffe ohne Kenntnis des Betroffenen
 - Streubreite (viele Unbeteiligte betroffen)
 - Lange Dauer / Dauerwirkung
@@ -86,15 +86,15 @@ Bei Eingriff in ein vorbehaltlos gewährtes Grundrecht und kollidierendem Verfas
 
 ### Klimaschutz und intertemporale Freiheitssicherung
 
-**Klimabeschluss** (1 BvR 2656/18 u.a., BVerfGE 157, 30 — Pinpoint live): Der Staat muss heute treffen, was nicht in der Zukunft erst durch erdrückende Restkürzungen geleistet werden kann. Verhältnismäßigkeit erstreckt sich auf künftige Freiheitsbeschränkungen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Triage
 
-**Triage-Beschluss** (1 BvR 1541/20, BVerfGE 161, 299 — Pinpoint live): aus Art. 3 Abs. 3 S. 2 GG folgt eine Schutzpflicht des Gesetzgebers gegen Benachteiligung wegen Behinderung in pandemischen Verteilungsentscheidungen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Online-Durchsuchung / IT-Grundrecht
 
-**Grundrecht auf Vertraulichkeit und Integrität informationstechnischer Systeme** (Online-Durchsuchung BVerfGE 120, 274 — Pinpoint live): Auch eine staatliche Online-Durchsuchung muss am strikten Maßstab der Verhältnismäßigkeit gemessen werden; nur bei überragend wichtigen Rechtsgütern und konkreter Gefahr.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Output-Format
 

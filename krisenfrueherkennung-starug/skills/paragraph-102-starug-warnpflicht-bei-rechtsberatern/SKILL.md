@@ -1,6 +1,6 @@
 ---
 name: paragraph-102-starug-warnpflicht-bei-rechtsberatern
-description: "§ 102 StaRUG Warnpflicht für Rechtsberater rechtlich bewerten: Steuerberater, WP oder Anwalt prüft eigene Haftungsrisiken bei Krisenmandat. Normen: § 102 StaRUG (Hinweis- und Warnpflicht), BGH IX ZR 285/14 (Sanierungsberater-Haftung), § 43 GmbHG. Prüfraster: Warnpflicht-Auslöser, Dokumentationspflicht, Haftungsrisiken bei Unterlassen, praktische Umsetzung. Output Haftungsanalyse Berater, Handlungsempfehlung. Abgrenzung: Template für den Warnbrief selbst siehe mandantenbrief-warnung-paragraph-102-starug-template; Krisenstadien siehe krisenstadien-stakeholder-strategie-ergebnis-liquiditaet."
+description: "Workflow-Skill zu paragraph 102 starug warnpflicht bei rechtsberatern. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # § 102 StaRUG — Warnpflicht der Rechtsberater
@@ -15,9 +15,7 @@ description: "§ 102 StaRUG Warnpflicht für Rechtsberater rechtlich bewerten: S
 - § 43 StBerG (Allgemeine Berufspflichten des Steuerberaters)
 - § 43 WPO (Berufspflichten des Wirtschaftsprüfers)
 - § 43a BRAO (Grundpflichten des Rechtsanwalts)
-- BGH IX ZR 285/14 — Sanierungsberater-Haftung: Pflicht zur unaufgeforderten Warnung des Mandanten vor Insolvenzrisiken
-- BGH IX ZR 228/13 — Steuerberater-Haftung bei unterlassenem Hinweis auf drohende Insolvenz
-- BGH II ZR 88/99 vom 08.01.2001 (BGHZ 146, 264) — Haftung bei Verletzung der Überwachungspflicht
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IDW PS 340 n.F. (Risikofrüherkennungssysteme)
 
 ---
@@ -54,7 +52,7 @@ Die Warnung muss konkret, verständlich und nachweisbar sein. Bloßer Hinweis in
 4. **Fristsetzung** — bis wann erwartet der Berater Rückmeldung?
 5. **Hinweis auf Insolvenzantragspflicht** — § 15a InsO und Drei-Wochen-Frist benennen
 
-### 4. BGH IX ZR 285/14 — Die Leitentscheidung
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Der BGH hat in dieser Entscheidung klargestellt: Ein Steuerberater, der bei der Erstellung des Jahresabschlusses auf Anzeichen einer Unternehmenskrise stößt, ist verpflichtet, den Mandanten unaufgefordert auf das Risiko einer Insolvenzantragspflicht hinzuweisen. Diese Pflicht besteht auch dann, wenn der Berater nur mit einem Teilauftrag (z.B. nur Jahresabschluss, kein Sanierungsauftrag) betraut ist. Der Schutzbereich des Beratungsvertrags umfasst den wirtschaftlichen Gesamtschaden des Mandanten.
 

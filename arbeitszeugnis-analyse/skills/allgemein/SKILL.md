@@ -63,8 +63,8 @@ Wähle einen dieser Wege und sage dem Nutzer, welchen Weg du nimmst.
 - **§ 109 GewO:** Anspruch auf einfaches oder qualifiziertes Zeugnis; bei qualifiziertem Zeugnis Angaben zu Leistung und Verhalten.
 - **§ 16 BBiG:** Ausbildungszeugnis; auf Verlangen auch Angaben zu Verhalten und Leistung.
 - **Wahrheit vor Wohlwollen:** Ein gutes Zeugnis darf nicht unwahr sein. Wohlwollen steuert die Ausdrucksweise, ersetzt aber keine Tatsachen.
-- **Beweislast:** Nach BAG 18.11.2014 - 9 AZR 584/13 muss der Arbeitnehmer Tatsachen für eine bessere als befriedigende Beurteilung vortragen und beweisen; bei unterdurchschnittlicher Bewertung liegt die Darlegungslast praktisch beim Arbeitgeber.
-- **Schlussformel:** Dank, Bedauern und Zukunftswünsche sind im Bewerbungsverkehr starke Signale. Nach BAG 11.12.2012 - 9 AZR 227/11 gehören sie aber nicht zum gesetzlichen Mindestinhalt. Deshalb immer trennen: Signalwert ja, einklagbarer Anspruch nur nach Einzelfall.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Geheimcode:** Nicht jede unglückliche Formulierung ist automatisch ein unzulässiger Code. Prüfe den objektiven Empfängerhorizont und den Gesamtzusammenhang.
 - **Keine Mathematik-Illusion:** Ampel, Note und Drift sind Arbeitsinstrumente. Die Ausgabe muss als begründete Spanne erscheinen, nicht als Scheingenauigkeit.
 

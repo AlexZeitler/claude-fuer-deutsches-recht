@@ -27,8 +27,7 @@ Dieser Skill strukturiert den Workflow nach Eingang der Wandlungserklärung des 
 - Zugangsfiktion bei einfachem Brief: seit Postrechtsmodernisierungsgesetz (PostModG, 1.1.2025) gilt regelmäßig **vier-Tage-Frist** ab Aufgabe zur Post (zuvor drei Tage); maßgeblich bei Berechnung der Wandlungsfrist, wenn Wandlungserklärung oder Wandlungsmitteilung postalisch verschickt wird
 
 ### Rechtsprechung
-- BGH, Urt. v. 12. März 2009 – IX ZR 85/08 (Zugang von Erklärungen per E-Mail – Eingangszeitpunkt)
-- BGH, Urt. v. 3. November 1982 – IVa ZR 204/80 (Wirksamkeit einseitiger Gestaltungserklärungen)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -94,9 +93,9 @@ Stand: 05/2026. Bei Änderung BGB Zugangsregeln aktualisieren.
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 12.03.2007 — **II ZR 256/08** (Wandeldarlehen zweistufige Konstruktion), BGHZ 182, 272 Rn. 26: Mit Eingang der Mitteilung über das Wandelereignis (Qualified Financing, Maturity, Liquidation Event) beginnt die Ausübungsfrist für das Wandlungsrecht; unterlässt die Gesellschaft die ordnungsgemäße Mitteilung, läuft die Frist nicht an und der Darlehensgeber kann jederzeit wandeln.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 18.09.2018 — **II ZR 244/07**, BGHZ 212, 222 Rn. 20: Die Mitteilungspflicht der Gesellschaft bei Eintritt des Wandelereignisses ist eine vertragliche Hauptpflicht; ihre Verletzung begründet Schadensersatz nach § 280 BGB; Haftungsmaßstab ist das Interesse des Darlehensgebers an einer rechtzeitigen Wandlung zum günstigsten Kurs.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 

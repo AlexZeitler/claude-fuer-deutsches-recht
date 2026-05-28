@@ -28,18 +28,11 @@ Rechtsberatungsstellen erstellen eine Vielzahl von Statusmitteilungen — an Man
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 14.06.2012 – IX ZR 145/11, NJW 2012, 2571 Rn. 12 — Aufklärungspflicht des Rechtsanwalts gegenüber dem Mandanten; unverständliche Erklärungen genügen der Pflicht nicht.
-- BGH, Urt. v. 20.01.2005 – IX ZR 403/00, NJW 2005, 1116 Rn. 8 — Pflicht zur vollständigen und rechtzeitigen Information des Mandanten über Verfahrensstände und Fristen.
-- BVerwG, Urt. v. 29.01.2019 – 2 C 1/18, NJW 2019, 2041 Rn. 15 — Anforderungen an Begründung von Behördenmitteilungen; sinngemäß für behördengerichtete Statusberichte.
-- BGH, Urt. v. 25.06.2015 – IX ZR 199/14, NJW 2015, 3305 Rn. 20 — Anwaltliche Haftung für Verzögerung bei Mandantenunterrichtung; Parallele für Studierende in der Beratungsstelle.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Kleine-Cosack, BRAO, 8. Aufl. 2022, § 43a Rn. 22 ff. — Mandanteninformation; Form und Umfang der Unterrichtungspflicht.
-- Bacher, in: BeckOK ZPO, 53. Ed. (Stand 01.03.2025), § 128 Rn. 5 — Schriftliche Verfahren; Formanforderungen.
-- Greger/Unberath/Steffek, Recht der alternativen Konfliktlösung, 3. Aufl. 2023, § 2 MediationsG Rn. 8 — Verständlichkeitspflicht bei der Mandanteninformation.
-- Kopp/Ramsauer, VwVfG, 24. Aufl. 2023, § 25 Rn. 1 ff. — Beratungspflichten der Behörde; spiegelbildliche Anforderungen an Verfahrensvertreter.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Modus: Mandantengerichtet

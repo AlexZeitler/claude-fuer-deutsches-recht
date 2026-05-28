@@ -18,18 +18,16 @@ Die Funktion des Aktenauszugs unterscheidet sich grundlegend von der Funktion ei
 
 Die Struktur des Aktenauszugs orientiert sich an den Anforderungen des deutschen Prozessrechts, wie es insbesondere in folgenden Standardwerken dargestellt wird:
 
-- **Zöller, Zivilprozessordnung** (Kommentar, C.H. Beck) — maßgebend für die Darstellung des Zivilverfahrens, der Fristen und der Verfahrensstruktur
-- **Thomas/Putzo, Zivilprozessordnung** (Kommentar, C.H. Beck) — ergänzend für Verfahrensfragen und Rechtsprechungshinweise
-- **Münchener Kommentar zur Zivilprozessordnung** (C.H. Beck) — für dogmatische Fragen zur Struktur der Schriftsätze und Beweisaufnahme
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Für strafprozessuale Verfahren:
 
-- **Meyer-Goßner/Schmitt, Strafprozessordnung** (Kommentar, C.H. Beck) — für StPO-Verfahrensschritte und Fristen
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - **Löwe-Rosenberg, Die Strafprozessordnung** (Großkommentar, de Gruyter) — für komplexe strafprozessuale Fragen
 
 Für verwaltungsgerichtliche Verfahren:
 
-- **Kopp/Schenke, Verwaltungsgerichtsordnung** (Kommentar, C.H. Beck) — für VwGO-Fristen und Verfahrensstruktur
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - **Schoch/Schneider, Verwaltungsgerichtsordnung** (Kommentar, C.H. Beck) — für vertiefte Fragen
 
 ---

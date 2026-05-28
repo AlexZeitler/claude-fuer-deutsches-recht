@@ -28,8 +28,7 @@ Dieser Skill erstellt die aktualisierte Gesellschafterliste nach der Kapitalerh�
 - § 19 GwG (Transparenzregister – wirtschaftlich Berechtigte nach Änderung melden; Vollregister seit August 2021)
 
 ### Rechtsprechung
-- BGH, Urt. v. 17. November 2008 – II ZR 244/07 (Gutglaubenswirkung § 16 GmbHG – nur eingetragene Gesellschafter)
-- BGH, Urt. v. 20. September 2011 – II ZR 234/09 (Gesellschafterliste und unrichtige Angaben)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -97,9 +96,9 @@ Stand: 05/2026. Bei Änderung GmbHG § 40/§ 16 aktualisieren.
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 17.07.2012 — **II ZR 244/07**, BGHZ 194, 132 Rn. 22: Gesellschafterliste nach § 40 GmbHG ist unverzüglich nach Eintragung der Kapitalerhöhung beim Handelsregister einzureichen; der neueingetragene Gesellschafter (gewandelt aus Darlehensgeber) erwirbt seine formelle Legitimation erst mit Listeneintragung; bis dahin kann er keine Gesellschafterrechte ausüben.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 11.07.2011 — **II ZR 109/10**, BGHZ 191, 84 Rn. 18: Unrichtige Gesellschafterliste führt zur Haftung des Geschäftsführers nach § 40 Abs. 3 GmbHG; der gutgläubige Erwerb nach § 16 Abs. 3 GmbHG ist nur möglich, wenn die Liste mindestens drei Jahre bei der Gesellschaft geführt wurde; daher ist nach Wandlung die sofortige Aktualisierung und Einreichung essenziell.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 

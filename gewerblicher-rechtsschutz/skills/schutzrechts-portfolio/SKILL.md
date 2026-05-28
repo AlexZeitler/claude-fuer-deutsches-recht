@@ -51,8 +51,7 @@ Befehlsargument:
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 10.01.2008 – I ZR 38/05, GRUR 2008, 616 (Schmuck) — Löschungsklage wegen Nichtbenutzung (§ 49 MarkenG); Maßstab ernsthafte Benutzung; relevanter Zeitraum
-- BGH, Urt. v. 17.08.2011 – I ZB 59/10, GRUR 2012, 180 (Lernfox) — Verlängerung der Markenschutzfrist; maßgeblicher Zeitpunkt der Zahlung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Kommentare
 
@@ -270,6 +269,4 @@ Alle Fristenangaben müssen auf konkreten Normen beruhen. Pflichtquellen:
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 18.10.2017 – I ZR 6/16, GRUR 2018, 417 Rn. 22 – Resistograph: Erneuerung einer Marke nach § 47 MarkenG begründet keine neue Schutzfrist fuer Benutzungszwang; 5-Jahres-Frist laeuft ab Original-Eintragung.
-- BGH, Urt. v. 07.10.2020 – I ZR 236/19, GRUR 2021, 482 Rn. 17 – Goliathbbier: Portfolio-Ueberwachung muss auch kollidierendes Gemeinschaftszeichen erkennen; fehlende Überwachung kann zum Verlust des Markenstatus fuehren.
-- BGH, Urt. v. 20.12.2011 – X ZR 33/09, GRUR 2012, 380 Rn. 35 – Beschlagfreie Scheibe: Jahresgebühren-Säumnis fuehrt zu Erloschen des Patents; keine Wiedereinsetzung nach Ablauf der Schonfrist möglich (Art. 86 EPUe; § 17 PatG).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

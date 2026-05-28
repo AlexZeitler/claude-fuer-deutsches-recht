@@ -21,14 +21,11 @@ description: "Strukturierte Datentabellen aus M&A-Datenräumen prüfen und quali
 
 ## Aktuelle Rechtsprechung
 
-- OLG Frankfurt, Urt. v. 14.09.2021 - 5 U 63/21, NZG 2022, 112 — Tabelleneintrag ersetzt nicht das Originaldokument; Kaeufer muss auch einzelne Originalvertraege pruefen; Tabellenfehler bleibt Haftungsrisiko
-- BGH, Urt. v. 15.03.2022 - II ZR 4/21, NJW 2022, 1940 — Download-Log zeigt auch Tabellen-Dateien; Kaeufer-Kenntnis-Nachweis moeglich
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 5 — Datenraum-Qualitaet und Review
-- MueKo BGB/Lorenz § 311 Rn. 45 ff. — vorvertragliche Aufklaerungspflichten
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Tabellen-Pruefungskatalog
 
 ### Vertragsliste (Contract Schedule)
@@ -124,5 +121,5 @@ GESAMTBEWERTUNG: [Gut / Akzeptabel mit Einschraenkungen / Erhebliche Luecken]
 ## Quellen
 
 - § 444 BGB; § 311 II BGB; Art. 18 MAR
-- OLG Frankfurt 5 U 63/21 (Tabelle vs. Original); BGH II ZR 4/21 (Download-Log)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 5

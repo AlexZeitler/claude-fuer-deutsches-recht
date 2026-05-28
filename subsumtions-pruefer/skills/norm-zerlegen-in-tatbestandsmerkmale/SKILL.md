@@ -82,12 +82,6 @@ Bei EU-Normen benennt das System zusätzlich:
 - EuGH-Leitentscheidungen zur Normauslegung
 - Unterschied zwischen autonomer unionsrechtlicher Auslegung und mitgliedstaatlichem Ermessen
 
-## Kommentarliteratur
+## Quellenregel
 
-- Grüneberg BGB § 276 (Fahrlässigkeit/Vorsatz — Definitionskern)
-- MüKo BGB § 823 Rn. 1 ff. (TBM-Zerlegung Deliktsrecht — umfassend)
-- Larenz/Canaris Methodenlehre der Rechtswissenschaft (Auslegung, TBM-Ermittlung)
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

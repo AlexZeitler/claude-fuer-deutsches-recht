@@ -15,10 +15,7 @@ description: "Gläubiger oder Kreditinstitut fragt: Was aendert sich durch die D
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 14.01.2021 - IX ZB 26/20, NJW 2021, 933 — Zuständigkeit § 946 ZPO bei elektronischen Vollstreckungsverfahren; Vollstreckungsgericht bestimmt sich nach Wohnsitz des Schuldners.
-- BGH, Beschl. v. 20.04.2017 - VII ZB 19/16, NJW 2017, 1972 — Formvorschriften im Vollstreckungsverfahren sind strikt einzuhalten; Formfehler führen zur Unzulässigkeit des Vollstreckungsantrags.
-- BGH, Beschl. v. 10.07.2020 - V ZB 68/19, NJW 2020, 3661 — Zustellungsnachweis ist Voraussetzung für den Beginn der Vollstreckung (§ 750 ZPO); elektronischer Zustellnachweis steht dem Papiernachweis gleich.
-- BGH, Beschl. v. 05.11.2020 - I ZB 32/20, NJW 2021, 389 — Aktive Nutzungspflicht § 130d ZPO für Rechtsanwälte gilt seit 1.1.2022 uneingeschränkt; Formverstoß führt zur Zurückweisung des Schriftsatzes.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -29,12 +26,9 @@ description: "Gläubiger oder Kreditinstitut fragt: Was aendert sich durch die D
 - § 840 ZPO — Drittschuldnererklärung
 - § 750 ZPO — Voraussetzungen der Vollstreckung (Zustellnachweis)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller/Geimer, ZPO, 35. Aufl. 2024, § 130a Rn. 1-20 (elektronischer Rechtsverkehr)
-- Thomas/Putzo, ZPO, 45. Aufl. 2024, § 750 Rn. 1-15 (Vollstreckungsvoraussetzungen)
-- MüKo-ZPO/Wöstmann, 6. Aufl. 2022, § 829 Rn. 1-30 (Pfändungs- und Überweisungsbeschluss)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Aufgabe
 
 Praktische Begleitung der größten ZPO-Reform der letzten Jahre für die Zwangsvollstreckung. Skill stellt sicher, dass Anträge ab Inkrafttreten formgerecht eingereicht und an die richtigen Empfänger über den richtigen Weg zugestellt werden.

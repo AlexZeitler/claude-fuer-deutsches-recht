@@ -24,7 +24,7 @@ Dieser Skill erzeugt aus der bilingualen Fassung eine rein deutsche Vertragsfass
 - Keine gesonderten Anforderungen: Die einsprachige Fassung unterliegt denselben Formregeln wie die bilinguale Fassung.
 
 ### Rechtsprechung
-- BGH, Urt. v. 18. Juni 2012 – II ZR 50/11 (Auslegung schriftlicher Verträge – Wortlaut maßgeblich)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -95,9 +95,9 @@ Stand: 05/2026. Bei Änderung BGB-Formvorschriften aktualisieren.
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 12.03.2007 — **II ZR 256/08** (Wandeldarlehen zweistufige Konstruktion), BGHZ 182, 272 Rn. 18: Das Wandeldarlehen als deutschrechtliche Konstruktion erfordert eine deutschsprachige Vertragsfassung für die gesellschaftsrechtlichen Elemente; die Wandlungsabrede selbst — soweit sie Gesellschafterpflichten begründet — unterliegt § 55 Abs. 2 GmbHG (notarielle Beurkundung in Deutsch).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-OLG München, Beschl. v. 10.03.2016 — **31 Wx 79/16**, GmbHR 2016, 543 Rn. 14: Bei einsprachig deutschem Wandeldarlehensvertrag muss die Definition der wesentlichen Begriffe (Qualified Financing, Cap, Discount, Wandlungspreis) präzise sein; Unklarheiten in der deutschen Fassung werden nach §§ 133, 157 BGB gegen den Verwender ausgelegt.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 

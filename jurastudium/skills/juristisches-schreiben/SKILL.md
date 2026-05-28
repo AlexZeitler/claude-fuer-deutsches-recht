@@ -30,12 +30,10 @@ Wissenschaftlicher juristischer Stil folgt Konventionen, die in Stil- und Method
 - Wissenschaftliche Schreibweise gemäß Hinweisen der Deutschen Vereinigung für Internationales Recht (DVIR) und Zeitschriftenrichtlinien JuS/NJW
 
 **Leitentscheidungen für Zitiergenauigkeit:**
-- BGH, Urt. v. 26.02.2013 – VI ZR 116/12, NJW 2013, 1679 — Haftungsverteilung nach Straßenverkehrsunfall; Zurechnungszusammenhang bei Sturz auf eisglatter Fahrbahn als Unfallfolge (als Zitierbeispiel für eine korrekte BGH-Entscheidungsangabe mit Datum, Aktenzeichen und NJW-Fundstelle)
-- BVerfG, Beschl. v. 06.11.2019 – 1 BvR 16/13, NJW 2020, 300 (Recht auf Vergessen I) — Zitierbeispiel für Entscheidungszitate mit Kurznamen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kommentare und Formatnachweise:**
-- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 280 Rn. 28 — Musterformat für Kommentarzitat (vormals Palandt, seit 81. Aufl. 2022 Grüneberg)
-- Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 307 Rn. 45 — Bearbeiterstil im Großkommentar
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Creifelds, Rechtswörterbuch, 24. Aufl. 2023 — Begriffsdefinitionen
 
 ## Ablauf
@@ -146,7 +144,7 @@ Strukturiertes Feedback nach dem Schema in Schritt 3. Einschätzung nach Notente
 
 - **Normen nur zitieren, nicht auslegen**: "Gemäß § 280 Abs. 1 BGB ist Schadensersatz zu leisten" ist keine juristische Argumentation. Die Norm muss auf die Rechtsfrage ausgelegt und angewendet werden.
 - **Literaturverzeichnis als Legitimation**: Viele Fußnoten ersetzen keine Argumentation. Jede Quellenangabe muss einer inhaltlichen Aussage im Text entsprechen.
-- **Fehlerhafte Zitierweise**: Geltende Konvention je Zeitschrift / Einrichtung einhalten. Randnummern (Rn.) statt Seitenzahlen, wo verfügbar. Kommentare im Bearbeiterstil: "Bearbeiter, in: Kommentar, Auflage, Jahr, § Norm Rn. X" (z. B. "Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 280 Rn. 28"). Der bisherige Palandt heißt seit 81. Aufl. 2022 Grüneberg.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - **Kein Forschungsstand in Seminar- und Dissertationsarbeiten**: Wissenschaftliche Arbeiten müssen den Stand der Diskussion aufnehmen — Monografien, Aufsätze in NJW, JZ, AcP, ZHR, DÖV — nicht nur Kommentare.
 - **These ≠ Fragestellung**: Eine Hausarbeit, die nur referiert, ist kein wissenschaftlicher Text. Eine eigene Stellungnahme ist strukturell erforderlich.
 

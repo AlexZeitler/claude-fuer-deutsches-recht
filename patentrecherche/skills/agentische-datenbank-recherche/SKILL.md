@@ -165,8 +165,8 @@ Bevor die Datenbankrecherche gestartet wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 16.04.2013 — X ZR 49/12 (Fahrzeuggetriebesteuerung):** Die Aufgabe-Loesung-Methode des EPA ist bei deutschen Gerichten anerkannt; der naechstliegende Stand der Technik wird durch eine amtliche oder private Recherche ermittelt und bestimmt, welche Loesungsschritte dem Fachmann naheliegend erschienen.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Urt. v. 14.08.2012 — X ZR 3/10 (Rohrverzweigung):** Vorveröffentlichungen, die nach dem Prioritaetsdatum, aber vor dem Anmeldetag veroffentlicht wurden, koennen den Stand der Technik nach § 3 II PatG bilden (aeltere Anmeldungen); eine grindliche Recherche muss auch diese Kategorie abdecken.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **EPA, Technische Beschwerdekammer, T 1090/12 (Funktionale Merkmale):** Eine Entgegenhaltung nimmt ein funktionales Merkmal vorweg, wenn sie eine Vorrichtung beschreibt, die geeignet ist, die beanspruchte Funktion zu erfuellen; die tatsaechliche Ausfuehrung der Funktion ist nicht erforderlich.

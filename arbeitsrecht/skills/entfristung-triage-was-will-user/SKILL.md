@@ -16,8 +16,7 @@ description: "Einstieg Entfristungsklage-Workflow: Erkennung ob Nutzer Befristun
 
 ## Aktuelle Rechtsprechung (Kurzüberblick für Triage)
 
-- BAG, Urt. v. 16.04.2008 – 7 AZR 1048/06, NZA 2008, 999 — Häufigster Unwirksamkeitsgrund: elektronische Unterzeichnung des Arbeitsvertrags (DocuSign, E-Mail-Signatur) verletzt § 14 Abs. 4 TzBfG — Befristung automatisch unwirksam, Rechtsfolge § 16 TzBfG.
-- BAG, Urt. v. 23.01.2019 – 7 AZR 733/16, NZA 2019, 1042 — Vorbeschäftigungsverbot gilt zeitlich unbegrenzt; auch mehrere Jahre zurückliegende frühere Tätigkeiten beim selben Arbeitgeber sperren die sachgrundlose Befristung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zweck
 

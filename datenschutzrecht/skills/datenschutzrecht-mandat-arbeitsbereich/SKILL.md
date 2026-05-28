@@ -129,10 +129,7 @@ Stand: 05/2026. Aktualität prüfen bei Änderungen der BRAO (Aktenaufbewahrungs
 
 ## Aktuelle Rechtsprechung (v14.2)
 
-- EuGH, Urt. v. 04.07.2023 — C-252/21 (Meta Platforms/Bundeskartellamt), NJW 2023, 2555 Rn. 88: Datenschutzrechtliche Verantwortlichkeit ist mandatsbezogen zu bewerten; Kontext-Isolation zwischen Mandaten ist datenschutzrechtlich geboten, wenn unterschiedliche Verantwortliche betroffen sind.
-- BGH, Urt. v. 15.06.2021 — AnwSt (R) 1/21, NJW 2021, 2883 Rn. 28: Berufsgeheimnis nach § 43a Abs. 2 BRAO gilt mandatsbezogen; keine mandatsübergreifende Nutzung von Mandatsgeheimnissen ohne Einwilligung.
-- BGH, Urt. v. 22.02.2022 — StB 7/21, NJW 2022, 1524 Rn. 14: Zur Abgrenzung der Berufshelfer-Stellung (§ 53a StPO) im mandatsbezogenen Kontext; ein mandatsübergreifender KI-Kontext kann das Zeugnisverweigerungsrecht gefährden.
-- BVerfG, Beschl. v. 12.10.2021 — 2 BvR 1368/21, NJW 2022, 55 Rn. 44: Berufsgeheimnis erfordert strikte Trennung der Mandatssphären; IT-Systeme müssen diese Trennung technisch sicherstellen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage zu Beginn
 

@@ -59,18 +59,15 @@ Führt Bieter oder Berater durch die Vorbereitung, Teilnahme und Nachbereitung e
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 18.11.2004 - IX ZB 110/03, NZI 2005, 109 Rn. 15 — Der Zwangsverwalter ist grundsätzlich nicht zur Teilnahme am Versteigerungstermin verpflichtet; er kann aber vom Vollstreckungsgericht aufgefordert werden, Auskunft über den Objektzustand und die Mietverhältnisse zu erteilen.
-- BGH, Beschl. v. 05.11.2004 - IX ZB 183/03, NZI 2005, 108 Rn. 12 — Der Zwangsverwalter hat dem Verfahrensgericht auf Verlangen alle für die Versteigerung relevanten Unterlagen vorzulegen; eine Verweigerung begründet Pflichtwidrigkeit.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Versteigerungsteilnahme
 
 § 66 ZVG (Versteigerungstermin) → § 71 ZVG (Bekanntmachungen) → § 82 ZVG (Bieter-Erklärungen) → § 87 ZVG (Zuschlag Bedingungen) → §§ 152-153 ZVG (Verwalterpflichten bis Zuschlag) → §§ 56-57a ZVG (Rechtsfolgen Zuschlag)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Stöber ZVG 22. Aufl., §§ 66-90 Rn. 1-50 (Versteigerungsverfahren)
-- Böttcher ZVG 6. Aufl., § 66 Rn. 5-25 (Termin und Ablauf)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage Versteigerungsteilnahme
 
 1. Hat das Gericht die Anwesenheit oder Auskunftserteilung angefordert?

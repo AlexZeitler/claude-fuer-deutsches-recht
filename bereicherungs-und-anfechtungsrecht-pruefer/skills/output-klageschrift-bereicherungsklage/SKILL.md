@@ -19,20 +19,17 @@ description: "Klageschrift aus Bereicherungsrecht §§ 812 ff. BGB aufbauen: Kla
 
 ## Rechtsprechung
 
-BGH, Urt. v. 25.03.2015 – IV ZR 414/13, NJW 2015, 1540 — Die Beweislast für das Fehlen des Rechtsgrundes trägt der Bereicherungsgläubiger; er muss darlegen und beweisen, dass kein wirksamer Rechtsgrund bestanden hat oder dieser nachträglich weggefallen ist.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 29.09.1999 – XII ZR 313/98, NJW 2000, 203 — Die Entreicherungseinrede nach § 818 Abs. 3 BGB schützt den gutgläubigen Empfänger; bei Bösgläubigkeit nach § 819 BGB entfällt die Einrede und der Schuldner haftet nach den allgemeinen Vorschriften.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 08.11.1995 – XII ZR 192/93, NJW 1996, 250 — Prozesszinsen nach § 291 BGB beginnen bei Bereicherungsansprüchen mit Rechtshängigkeit (Klageerhebung); davor können Verzugszinsen (§§ 286, 288 BGB) nur bei vorherigem Verzug geschuldet sein.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 07.05.1997 – IV ZR 35/96, NJW 1997, 2381 — § 814 BGB setzt voraus, dass der Leistende im Zeitpunkt der Leistung positive Kenntnis der Nichtschuld hatte; bloße Zweifel schließen § 814 BGB nicht aus, so dass der Kondiktionsanspruch bestehen bleibt.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Lorenz in: Staudinger, BGB, Neubearbeitung 2023, § 812 Rn. 65–130 (Darlegungslast, Beweislast, Klageantrag).
-Sprau in: Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 812 Rn. 1–38, § 818 Rn. 1–25 (Klageaufbau, Rechtsfolgen).
-Schwab in: MüKoBGB, 9. Aufl. 2024, § 818 Rn. 1–60 (Entreicherung, Bösgläubigkeit, Wertersatz).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Hinweis
 
 Dieser Skill liefert ein strukturiertes Muster für eine Klageschrift auf Grundlage der §§ 812 ff. BGB. Er ersetzt keine anwaltliche Leistung. Bezeichnungen und Beträge sind Platzhalter.

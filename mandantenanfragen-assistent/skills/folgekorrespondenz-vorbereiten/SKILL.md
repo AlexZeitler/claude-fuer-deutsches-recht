@@ -15,10 +15,7 @@ Dieser Skill erstellt auf Basis der geparsten Eingangsanfrage einen fertigen Ske
 4. Soll der Eintrag automatisch oder nach manueller Freigabe gespeichert werden?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — CRM-Eintrag und Aktenanlage als Teil der Kanzlei-Organisationspflicht; fehlende Dokumentation begruendet Haftungsrisiko.
-- BGH, Urt. v. 26.04.2018 - I ZR 82/17, NJW 2018, 2329 — Nachweis der Mandatseingabe als Beweisfrage; strukturierter CRM-Eintrag mit Zeitstempel ist Beweisnachricht fuer Eingangsdatum.
-- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Speicherung von Mandantenanfrage-Daten im CRM erfordert Rechtsgrundlage nach Art. 6 DSGVO; Vertragsanbahnung (lit. b) oder berechtigtes Interesse (lit. f) als Grundlage.
-- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Vollstaendigkeit des Akteneintrags: alle Kontaktdaten, Anliegen-Stichwort und Dringlichkeit muessen im CRM erfasst sein; lueckenhafte Eintragung begruendet spaetere Nachweisschwierigkeiten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - Art. 6 Abs. 1 lit. b DSGVO — Vertragsanbahnung als Rechtsgrundlage fuer CRM-Speicherung
@@ -26,10 +23,9 @@ Dieser Skill erstellt auf Basis der geparsten Eingangsanfrage einen fertigen Ske
 - § 43 BRAO — Sorgfaltspflicht: vollstaendige und sofortige Akten-/CRM-Dokumentation
 - § 51 BRAO — Haftung: mangelnde Dokumentation als Organisationspflichtverletzung
 
-## Kommentarliteratur
-- Gaier/Wolf/Göcken BRAO § 43 Rn. 1-30 (Dokumentationspflicht: CRM und Aktenanlage als Teil der Sorgfalt)
-- Kühling/Buchner DSGVO Art. 5 Rn. 60-80 (Speicherbegrenzung: Grundsaetze und CRM-Praxis)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Skeleton-Eintrag: Standardformat
 
 ```

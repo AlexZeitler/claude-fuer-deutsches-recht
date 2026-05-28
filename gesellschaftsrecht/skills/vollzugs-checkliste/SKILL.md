@@ -68,12 +68,7 @@ In deutschen SPA-Formulierungen wird MAC häufig als "wesentliche nachteilige Ve
 
 | Gericht | Aktenzeichen | Fundstelle | Leitsatz / Relevanz |
 |---|---|---|---|
-| BGH | KVZ 57/17 | NJW 2019, 1067 | Vollzugsverbot § 41 GWB; rechtswidriger Vollzug vor Freigabe; Bußgeld und Unwirksamkeit |
-| BGH | II ZB 22/19 | NZG 2020, 1067 | § 179a AktG; HV-Beschlusserfordernis bei wesentlicher Vermögensübertragung |
-| BGH | II ZR 15/16 | NJW 2018, 2114 | § 15 GmbHG Abtretungsform; Heilung nach § 15 Abs. 4 GmbHG |
-| EuGH | C-633/16 | NJW 2018, 1735 (Ernst & Young) | Art. 7 FKVO; Vollzugsverbot gilt erst ab Begründung der Kontrolle; vorbereitende Maßnahmen ausgenommen |
-| OLG Frankfurt | 11 U 26/17 | NZG 2018, 712 | MAC-Klausel im SPA; enge Auslegung nach deutschem Recht; § 313 BGB subsidiär |
-| OLG Düsseldorf | 16 U 105/19 | NZG 2020, 1264 | Change-of-Control-Klausel; Drittpartei-Zustimmungspflicht als blockierende Vollzugsbedingung |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema: Vollzugscheckliste
 
@@ -407,11 +402,11 @@ Vor Ausstellung einer Vollzugsfreigabe oder eines Vollzugsmemos: Falls Rolle **N
 
 Zitierweise nach `../../references/zitierweise.md`.
 
-Kommentarliteratur:
-- MüKoGmbHG/Fleischer, 4. Aufl. 2022, § 15 Rn. 90 ff. (Abtretungsform).
-- Hüffer/Koch, AktG, 16. Aufl. 2023, § 179a Rn. 5 ff.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Mestmäcker/Veelken, in: Immenga/Mestmäcker, GWB, 6. Aufl. 2021, § 35 Rn. 1 ff. (Fusionskontrolle).
-- BGH, Urt. v. 08.01.2019 – KVZ 57/17, NJW 2019, 1067 (Fusionskontrolle, Vollzugsverbot).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Output-Template
 

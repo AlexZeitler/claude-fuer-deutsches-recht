@@ -40,7 +40,7 @@ Bevor das Protokoll erstellt wird, sind folgende Punkte zu klären:
 **§ 107 Abs. 2 AktG — Niederschriftspflicht Aufsichtsrat**
 > "Über jede Sitzung des Aufsichtsrats ist eine Niederschrift anzufertigen, die Ort und Tag der Sitzung, die Teilnehmer, die Gegenstände der Tagesordnung, den wesentlichen Inhalt der Verhandlungen und die Beschlüsse des Aufsichtsrats enthält. [...] Die Niederschrift ist vom Vorsitzenden zu unterzeichnen."
 
-Inhaltspflichten: Ort, Tag, Teilnehmer, Gegenstände der Tagesordnung, wesentlicher Inhalt der Verhandlungen, Beschlüsse, Abstimmungsergebnisse. Die Formulierung "wesentlicher Inhalt der Verhandlungen" ist streitig (s. Hüffer/Koch § 107 Rn. 11): Herrschende Meinung: keine wortgetreue Wiedergabe erforderlich, aber die tragenden Erwägungen müssen erkennbar sein.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 **§ 48 GmbHG — Gesellschafterversammlung**
 > "Die Beschlüsse der Gesellschafter werden in Versammlungen gefasst. [...] Die Gesellschafterversammlung wird durch die Geschäftsführer berufen."
@@ -81,12 +81,7 @@ Zusätzlich: Mindestens die Hälfte der Gesamtzahl der Mitglieder muss anwesend 
 
 | Gericht | Aktenzeichen | Fundstelle | Leitsatz / Relevanz |
 |---|---|---|---|
-| BGH | II ZR 41/96 | BGHZ 134, 364 (Gelatine) | GmbH-Beschlussmängelklage analog §§ 243 ff. AktG; Nichtigkeits- und Anfechtungsklage des GmbH-Gesellschafters gegen fehlerhafte Gesellschafterbeschlüsse |
-| BGH | II ZR 230/09 | NZG 2012, 427 | Protokollpflicht bei Aufsichtsratsbeschlüssen; fehlende Unterzeichnung durch den Vorsitzenden lässt Beschluss zwar wirksam werden, begründet aber Beweisprobleme |
-| BGH | II ZR 47/98 | NJW 1999, 3113 | Beschlussmängel GmbH; Anfechtungsfrist analog § 246 AktG auch bei GmbH-Gesellschafterbeschlüssen |
-| BGH | II ZR 6/03 | NZG 2004, 712 | Formerfordernis Gesellschafterbeschluss; § 48 Abs. 2 GmbHG — schriftliches Umlaufverfahren nur mit Einvernehmen aller |
-| BGH | II ZR 193/10 | NJW 2012, 2945 | Stimmverbot nach § 47 Abs. 4 GmbHG bei Befreiung von Verbindlichkeiten |
-| OLG München | 7 U 2843/19 | NZG 2020, 418 | Beschlussfähigkeit AR bei Videokonferenz; technische Anforderungen an die Sitzungsleitung |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema: Sitzungsprotokoll
 
@@ -127,7 +122,7 @@ Zusätzlich: Mindestens die Hälfte der Gesamtzahl der Mitglieder muss anwesend 
 | Frist | Norm | Inhalt | Folge bei Versäumnis |
 |---|---|---|---|
 | Anfechtung HV-Beschluss | § 246 Abs. 1 AktG | 1 Monat ab Beschlussfassung | Beschluss wird unanfechtbar; Anfechtungsrecht erlischt |
-| Anfechtung GmbH-Beschluss | § 246 AktG analog (BGH II ZR 41/96) | 1 Monat (h.M.); umstritten: auch 3 Jahre § 195 BGB | Rechtsunsicherheit; bei wichtigen Beschlüssen frühzeitig klagen |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Nichtigkeit (§ 241 AktG) | Keine Frist | Nichtigkeitsklage zu jederzeit möglich | Dauerhafter Schwebezustand; Heilungsmöglichkeit nach § 244 AktG prüfen |
 | Einladungsfrist AR | § 110 Abs. 2 AktG | Mind. 14 Tage vor Sitzung | Anfechtbarkeit der gefassten Beschlüsse; Verzicht dokumentieren |
 | Protokollierung AR | § 107 Abs. 2 AktG | Keine gesetzliche Frist; Best Practice: 2 Wochen | Beweisschwierigkeiten; ggf. Beschlussfassung unwirksam wenn Inhalt unrekonstruierbar |
@@ -139,9 +134,7 @@ Zusätzlich: Mindestens die Hälfte der Gesamtzahl der Mitglieder muss anwesend 
 | Einwand | Begründung Gegenseite | Erwiderung |
 |---|---|---|
 | Beschluss gültig trotz fehlendem Protokoll | Protokoll ist nur Beweismittel, kein Wirksamkeitserfordernis | Beweislastrisiko liegt beim Beschlussführer; ohne Protokoll kein verlässlicher Nachweis gegenüber M&A-Käufern, Behörden, Gerichten |
-| Stimmverbot greift nicht, weil kein eigener Vorteil | § 47 Abs. 4 GmbHG ist nicht auf Vorteilserwerb beschränkt; formelle Stimmverbotstatbestände sind abschließend | Objektiver Tatbestand entscheidend; subjektiver Vorteil irrelevant (BGH NJW 2012, 2945) |
-| Einladungsfrist-Versäumnis geheilt durch Erscheinen | Erscheinen heilt Einberufungsmangel nur, wenn alle Mitglieder erschienen und kein Widerspruch (BGH NZG 2010, 744) | Wenn ein Mitglied ausgeblieben ist: keine Heilung; Sitzung zu wiederholen |
-| GmbH-Umlaufbeschluss ohne Einvernehmen aller | § 48 Abs. 2 GmbHG lässt schriftliches Verfahren zu | § 48 Abs. 2 GmbHG verlangt ausdrücklich Einvernehmen aller Gesellschafter; ohne dieses unwirksam (BGH II ZR 6/03) |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Protokoll erst 3 Monate nach Sitzung erstellt | Gesetz sieht keine Frist vor | Beweiswert des Protokolls leidet erheblich; Erinnerungsprotokoll mit deutlichem Hinweis auf späte Erstellung versehen |
 | Videokonferenz ohne ausdrückliche Satzungsermächtigung | § 108 Abs. 4 AktG erlaubt Videokonferenz des AR | GmbH: GmbHG sieht keine ausdrückliche Regelung vor; gesellschaftsvertragliche Ermächtigung prüfen oder Einvernehmen aller sicherstellen |
 
@@ -565,11 +558,9 @@ AR-Vorsitzender               [FUNKTION]
 
 Zitierweise nach `../../references/zitierweise.md`.
 
-Kommentarliteratur:
-- Hüffer/Koch, AktG, 16. Aufl. 2023, § 107 Rn. 10 ff.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Schmidt/Lutter, AktG, 4. Aufl. 2020, § 243 Rn. 5 ff.
-- Roth/Altmeppen, GmbHG, 10. Aufl. 2021, § 48 Rn. 3 ff.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Scholz, GmbHG, 12. Aufl. 2018, § 47 Rn. 110 ff.
-- BGH, Urt. v. 17.02.1997 – II ZR 41/96, BGHZ 134, 364 (Gelatine) — GmbH-Beschlussmängelklage analog AktG.
-- BGH, Urt. v. 07.02.2012 – II ZR 230/09, NZG 2012, 427 — Protokollpflicht bei Aufsichtsratsbeschlüssen.
-- BGH, Urt. v. 24.09.2007 – II ZR 6/03, NZG 2008, 103 — § 48 Abs. 2 GmbHG; Umlaufverfahren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

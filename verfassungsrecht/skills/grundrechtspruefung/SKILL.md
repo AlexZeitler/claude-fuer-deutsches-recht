@@ -19,9 +19,9 @@ Skill `bverfg-rechtsprechung-recherchieren` zuerst aufrufen. Pinpoint Az. + Rn. 
 
 #### 1a. Persönlicher Schutzbereich
 
-- **Deutschengrundrechte:** Art. 8, 9, 11, 12, 16 GG — nur Deutsche im Sinne des Art. 116 GG. Für Unionsbürger jedoch Art. 18 AEUV-konforme Auslegung (Hochschulzulassung Bayern BVerfGE 129, 78 — Pinpoint live).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Jedermanngrundrechte:** Art. 1, 2, 3, 4, 5, 10, 13, 14, 17 GG — alle natürlichen Personen.
-- **Juristische Personen:** Art. 19 Abs. 3 GG — Grundrechte gelten für inländische juristische Personen, soweit sie ihrem Wesen nach auf sie anwendbar sind (typischerweise nicht: Art. 1, Art. 2 Abs. 2, Art. 6 GG; typischerweise ja: Art. 12, 14, 5 GG). Ausländische juristische Personen mit Sitz in der EU sind den inländischen gleichgestellt (BVerfGE 129, 78).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 #### 1b. Sachlicher Schutzbereich
 
@@ -29,8 +29,7 @@ Was schützt das Grundrecht? Wortlaut, Systematik, Telos. Bei der Bestimmung **n
 
 **Standard-Schutzbereiche** (mit Pinpoint live nachrecherchieren):
 
-- **Art. 2 Abs. 1 GG:** allgemeine Handlungsfreiheit (Elfes BVerfGE 6, 32) — Auffanggrundrecht.
-- **Art. 2 Abs. 1 i.V.m. Art. 1 Abs. 1 GG:** allgemeines Persönlichkeitsrecht und Ausprägungen (informationelle Selbstbestimmung BVerfGE 65, 1; IT-Grundrecht BVerfGE 120, 274).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Art. 4 Abs. 1, 2 GG:** Glaubens-, Gewissens- und Bekenntnisfreiheit — vorbehaltlos.
 - **Art. 5 Abs. 1 GG:** Meinungs-, Informations-, Presse-, Rundfunk- und Filmfreiheit.
 - **Art. 5 Abs. 3 GG:** Kunst- und Wissenschaftsfreiheit — vorbehaltlos.
@@ -51,7 +50,7 @@ Final, unmittelbar, rechtsförmig, mit Befehl und Zwang.
 
 Jede dem Staat zurechenbare Beeinträchtigung des grundrechtlich geschützten Verhaltens. Erfasst auch:
 
-- **Mittelbare Eingriffe** (z. B. staatliche Warnungen Glykol BVerfGE 105, 252 — Pinpoint live).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Faktische Eingriffe** (Maßnahmen ohne Zwang, die das geschützte Verhalten erschweren).
 - **Schutzpflicht-Verletzungen** (untermaß-Verbot bei Schutz vor Dritten).
 
@@ -79,13 +78,13 @@ Die Schranke darf ihrerseits nicht gegen Verfassungsrecht verstoßen:
 2. **Wesensgehaltsgarantie** (Art. 19 Abs. 2 GG): absoluter Kernbereich darf nicht verletzt werden.
 3. **Zitiergebot** (Art. 19 Abs. 1 S. 2 GG, nur bei einschränkenden Gesetzen mit Wirkungsabsicht auf das Grundrecht).
 4. **Allgemeinheit** (Art. 19 Abs. 1 S. 1 GG).
-5. **Wechselwirkungslehre** (Lüth BVerfGE 7, 198): bei "allgemeinen Gesetzen" i.S.d. Art. 5 Abs. 2 GG müssen die schrankenziehenden Normen ihrerseits im Licht des eingeschränkten Grundrechts ausgelegt werden ("Wechselwirkung").
+5. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 6. **Spezifische Vorgaben des qualifizierten Vorbehalts** (z. B. Allgemeinheit des Gesetzes bei Art. 5 Abs. 2 GG).
 7. **Bestimmtheitsgebot, Wesentlichkeit** (siehe Skill `formelle-verfassungsmaessigkeit`).
 
 ### Schritt 4 — Spezielle Strukturen einzelner Grundrechte
 
-#### 4a. Art. 12 GG — Drei-Stufen-Theorie (Apothekenurteil BVerfGE 7, 377)
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 | Stufe | Charakter | Rechtfertigungsanforderung |
 | --- | --- | --- |
@@ -98,19 +97,19 @@ Eingriff stets auf der **geringstmöglichen Stufe**.
 #### 4b. Art. 14 GG — Eigentum
 
 - Drei Eingriffsformen: **Inhalts- und Schrankenbestimmung** (Art. 14 Abs. 1 S. 2 GG), **Enteignung** (Art. 14 Abs. 3 GG), **ausgleichspflichtige Inhalts- und Schrankenbestimmung**.
-- Strikte Trennung Enteignung / Inhaltsbestimmung (Nassauskiesung BVerfGE 58, 300 — Pinpoint live).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 #### 4c. Art. 8 GG — Versammlung
 
 - Versammlungsbegriff: gemeinsame Erörterung oder Kundgabe auf Teilnahme an öffentlicher Meinungsbildung gerichtet.
 - Versammlungen **unter freiem Himmel:** qualifizierter Gesetzesvorbehalt Art. 8 Abs. 2 GG.
 - **In geschlossenen Räumen:** vorbehaltlos.
-- Brokdorf BVerfGE 69, 315 als Schlüsselentscheidung (Pinpoint live).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 #### 4d. Art. 5 Abs. 1 GG — Meinungsfreiheit
 
 - Tatsachenbehauptungen sind geschützt, **soweit** sie Voraussetzung der Meinungsbildung sind; **unwahre und bewusst unwahre** Tatsachenbehauptungen sind nicht geschützt.
-- Bei mehrdeutigen Äußerungen: günstigste Auslegung (Stolpe BVerfGE 114, 339 — Pinpoint live), außer im Unterlassungsfall.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Wechselwirkungslehre Lüth.
 
 ### Schritt 5 — Konkurrenzen

@@ -31,7 +31,7 @@ Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische T
 
 | Skill | Zweck |
 | --- | --- |
-| `fachanwalt-sozialrecht-orientierung` | FAO § 11, SGB I bis XII, Sozialgerichtsbarkeit, Standardliteratur. |
+| `fachanwalt-sozialrecht-orientierung` | FAO § 11, SGB I bis XII, Sozialgerichtsbarkeit, Quellenprüfung. |
 | `fachanwalt-sozialrecht-widerspruch-sozialleistung` | Widerspruch gegen Sozialleistungsbescheid, § 84 SGG, Frist ein Monat. |
 | `fachanwalt-sozialrecht-sgb-ii-bescheid` | Bürgergeld-Bescheid SGB II — Bedarfsberechnung, Regelbedarf, Sanktionen. |
 | `fachanwalt-sozialrecht-erwerbsminderungsrente` | Volle / teilweise Erwerbsminderungsrente nach §§ 43, 240 SGB VI. |

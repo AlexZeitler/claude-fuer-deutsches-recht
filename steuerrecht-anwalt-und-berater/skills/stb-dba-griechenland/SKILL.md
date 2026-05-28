@@ -30,7 +30,7 @@ Das DBA-Griechenland vom 18.04.1966 (BGBl. 1967 II S. 853) ist eines der aeltest
 - **MLI**: Deutschland und Griechenland beide Unterzeichner und ratifiziert. Gemaess MLI-Anwendungsgesetz (BGBl. 2024 I Nr. 196) finden MLI-Modifikationen fuer DBA-Griechenland ab 01.01.2025 Anwendung.
 
 ### Leitentscheidungen und BMF-Schreiben
-- Aktuelle BFH-Rechtsprechung zu Griechenland-Renten und DBA-Griechenland in juris abrufen (Az. I R 38/16 nicht verifizierbar).
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Land-spezifisches
 

@@ -43,11 +43,7 @@ Für vor dem 05.04.2017 eröffnete Verfahren Übergangsrecht prüfen. Für aktue
 
 | Entscheidung | Arbeitsregel |
 |---|---|
-| BGH, Urt. v. 06.05.2021 — IX ZR 72/20 | subjektive Voraussetzungen des § 133 nicht schematisch allein aus erkannter Zahlungsunfähigkeit ableiten |
-| BGH, Urt. v. 03.03.2022 — IX ZR 78/20 | Sanierungsversuch entlastet, wenn Verwalter Untauglichkeit und Kenntnis nicht beweist |
-| BGH, Entsch. v. 26.10.2023 — IX ZR 112/22 | Widerlegung der Kenntnisvermutung braucht tragfähige Tatsachengrundlage |
-| BGH, Urt. v. 27.07.2023 — IX ZR 138/21 | Verjährung und grob fahrlässige Unkenntnis des Verwalters erfordern schwere Ermittlungspflichtverletzung |
-| BGH, Urt. v. 18.04.2024 — IX ZR 129/22 | außenstehender Dritter muss nicht jeden nicht belegten Liquiditätsstatus im Einzelnen bestreiten; wirtschaftliche Gleichstellung bei § 135 nur mit tragfähigen Einflussrechten |
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## KI-Einsatz bei Schuldnerakten
 

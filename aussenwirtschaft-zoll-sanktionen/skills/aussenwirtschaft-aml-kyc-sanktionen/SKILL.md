@@ -62,10 +62,7 @@ Kläre vor der Pruefung:
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- EuGH, Urt. v. 10.03.2016 - C-235/14 (Safe Interenvios) — Anforderungen an verstaerkte Sorgfaltspflichten nach 4. Geldwaesche-RL bei Hochrisikolaendern; Korrespondenzbanken muessen eigenstaendige Risikoanalyse durchfuehren.
-- BGH, Urt. v. 09.12.2014 - II ZR 360/13, NJW 2015, 1014 — Haftung des Geschaftsfuehrers fuer AML-Compliance-Versaeumnisse; Organpflicht schliesst GwG-Pflichten der Gesellschaft ein.
-- BVerwG, Urt. v. 21.06.2016 - 8 C 5.15 — Zum Umfang der Aufzeichnungs- und Aufbewahrungspflichten nach GwG; BaFin-Massnahmen gegenueber Verpflichteten sind grundsatzlich verhaltensmaessig.
-- EuGH, Urt. v. 02.09.2021 - C-790/19 (LG/MH/BV gegen Bundesanstalt) — Zur Vertraulichkeit von Geldwaescheverdachtsmeldungen; verpflichtete Stellen duerfen Betroffene nicht vorab informieren (Tipping Off).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette AML/KYC/Sanktionen
 
@@ -76,11 +73,9 @@ Kläre vor der Pruefung:
 - FATF Recommendations 10, 15, 20 — Internationale Standards KYC/AML
 - 6. Geldwaesche-Richtlinie (EU) 2018/1673 — Strafbarkeit Geldwaesche
 
-## Kommentarliteratur
+## Quellenregel
 
-- Herzog/Achtelik, GwG-Kommentar, 4. Aufl. — massgeblich §§ 10-43 GwG
-- Zentes/Glaab, Handbuch Geldwaescherecht — AML-Praxis Banken und Finanzdienstleister
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: AML/KYC-Pruefungsvermerk
 
 **Adressat:** Compliance-Abteilung / Vorstand — **Tonfall:** dokumentationsintensiv, risikoorientiert

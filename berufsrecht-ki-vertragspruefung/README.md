@@ -79,4 +79,4 @@ Die Dienstleisterregelungen sind nahezu wortgleich aufgebaut. Das Plugin abstrah
 - BT-Drs. 18/12940 für historische Genese von § 43e BRAO
 - BRAK-Leitfaden Dezember 2024 nur am Rande
 - BGH-Pinpoint mit Aktenzeichen und Randnummer
-- Kommentarliteratur: Grüneberg / MüKo (nicht Palandt)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

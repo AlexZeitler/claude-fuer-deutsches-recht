@@ -60,19 +60,15 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 10.05.2007 - IX ZB 23/06, NZI 2007, 546 Rn. 17 — Der Zwangsverwalter ist berechtigt, Mietrückstände einzuklagen; er muss dabei zwischen Rückständen aus der Zeit vor Beschlagnahme (Altforderungen des Schuldners) und Rückständen nach Beschlagnahme (Masseforderungen) unterscheiden.
-- BGH, Beschl. v. 12.01.2006 - IX ZB 239/04, NZI 2006, 234 Rn. 13 — Unterlässt der Zwangsverwalter die Einziehung von Mietrückständen schuldhaft, haftet er persönlich für den entstehenden Schaden; eine zeitnahe Mahnung und ggf. Klage ist Pflicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Mieteinzug/Rückstände
 
 § 153 ZVG (Einziehung Nutzungen) → § 535 Abs. 2 BGB (Mietzinszahlungspflicht) → § 543 Abs. 2 Nr. 3 BGB (Kündigung wegen Zahlungsverzug) → § 286 BGB (Verzug) → § 288 BGB (Verzugszinsen) → §§ 12-13 ZwVwV (Buchführung Rückstände)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Stöber ZVG 22. Aufl., § 153 Rn. 20-45 (Mieteinzug)
-- Böttcher ZVG 6. Aufl., § 153 Rn. 30-50 (Rückstände und Einzug)
-- Schmidt-Futterer Mietrecht 15. Aufl., § 543 BGB Rn. 80-120 (Kündigung Zahlungsverzug)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage Mieteinzug/Rückstände
 
 1. Rückstand vor oder nach Beschlagnahme entstanden? (Unterschiedliche Behandlung)

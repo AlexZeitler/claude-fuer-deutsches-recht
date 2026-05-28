@@ -91,8 +91,8 @@ Bevor die Neuheitspruefung beginnt, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 26.10.2004 — X ZR 94/01 (Keks-Form):** Fuer die Neuheitspruefung nach § 3 PatG muessen alle Merkmale des beanspruchten Gegenstands in einer einzigen Entgegenhaltung unmittelbar und eindeutig offenbart sein; eine Mosaik-Argumentation aus mehreren Entgegenhaltungen ist bei der Neuheitspruefung verboten (anders als bei der erfinderischen Taetigkeit).
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **EPA, Technische Beschwerdekammer, T 153/85:** Bei der Neuheitspruefung ist jede Entgegenhaltung einzeln zu betrachten; eine neuheitsschaedliche Wirkung kann nur aus einer einzigen Schrift hergeleitet werden, nicht durch Kombination mehrerer Dokumente.
 
-> **BGH, Urt. v. 15.11.2012 — X ZR 5/11 (Dreifingergreifer):** Eine offenbarte Obergrenze eines Zahlbereichs (z.B. "maximal 10") nimmt auch Werte oberhalb dieses Bereichs nicht vorweg; eine Entgegenhaltung mit dem Bereich "5 bis 10" nimmt einen beanspruchten Wert von "11" nicht vorweg — wichtig fuer die Abgrenzungsstrategie durch Zahlbereichsmerkmale.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

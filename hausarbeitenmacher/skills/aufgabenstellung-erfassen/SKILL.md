@@ -13,10 +13,7 @@ description: "Student erhaelt Hausarbeit-Aufgabenstellung und will den Sachverha
 4. Wie viel Zeit bleibt bis zur Abgabe?
 
 ## Aktuelle Rechtsprechung und Methodik
-- BGH, Urt. v. 16.01.2009 - V ZR 133/08, NJW 2009, 1061 — Auslegung eines Sachverhalts nach dem Empfängerhorizont (§§ 133, 157 BGB analog): Tatsachen sind nach objektiv erkennbarer Bedeutung zu werten, nicht nach subjektivem Verstaendnis des Lernenden.
-- BVerfG, Beschl. v. 11.06.1980 - 1 PBvU 1/79, BVerfGE 54, 277 — Sorgfaeltige Sachverhaltserfassung als Grundlage rechtsstaatlicher Pruefung; fehlende Tatsachenerfassung fuehrt systematisch zu falschen Subsumtionsergebnissen.
-- BGH, Urt. v. 14.10.2003 - VI ZR 425/02, NJW 2004, 356 — Zeitstrahl-Methode zur Verjährungspruefung: Datum des Vertragsschlusses, der Pflichtverletzung und der Klageerhebung sind zwingend zu erfassen.
-- BGH, Urt. v. 20.06.2012 - VIII ZR 268/11, NJW 2012, 3234 — Auslegung des Bearbeitungsvermerks nach Auslegungs-Grundsaetzen (grammatisch, systematisch, teleologisch): Pruefungsumfang wird durch Bearbeitungsvermerk abschliessend bestimmt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - §§ 133, 157 BGB — Auslegung von Willenserklärungen und Vertraegen: Massstab fuer Sachverhaltswuerdigung
@@ -24,10 +21,9 @@ description: "Student erhaelt Hausarbeit-Aufgabenstellung und will den Sachverha
 - § 199 BGB — Verjährungsbeginn: Kenntnis und grob fahrlässige Unkenntnis
 - § 204 BGB — Hemmung der Verjährung durch Rechtsverfolgung
 
-## Kommentarliteratur
-- Grüneberg/Ellenberger BGB §§ 133, 157 Rn. 1-30 (Auslegung: Grundsätze und Methoden)
-- Larenz/Wolf Allgemeiner Teil des Bürgerlichen Rechts, 9. Aufl. 2004, § 28 (Auslegung von Rechtsgeschäften)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Der erste Schritt jeder Hausarbeit: den Sachverhalt verstehen, **bevor** Du anfängst zu prüfen. Ohne sauberes Sachverhaltsbild ist jede Subsumtion willkürlich.
@@ -139,8 +135,7 @@ Wozu? Bei Schuldrechts-Sachverhalten (Verzug, Verjährung, Fristen) hilft der Ze
 
 Bevor Du anfängst zu schreiben:
 
-- Welcher Kommentar deckt das Rechts-Gebiet ab? (MüKo, Palandt/Grüneberg, Beck-OK)
-- Welche Skripten / Lehrbücher? (Medicus, Wolf, Brox/Walker für Zivilrecht; Wessels/Beulke für Strafrecht)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Welche aktuellen Aufsätze in NJW, JuS, JA, JURA?
 
 ## Hilfsfragen für Deine eigene Reflexion

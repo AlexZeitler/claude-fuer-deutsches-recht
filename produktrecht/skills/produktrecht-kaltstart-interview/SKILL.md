@@ -265,11 +265,11 @@ Vor den strukturierten Fragen: "Haben Sie ein bestehendes Launch-Review-Framewor
 ## Zentrale Normen & Aktuelle Rechtsprechung
 
 <!-- AZ VIII ZR 72/20 entfernt: Urteil existiert nicht (NOT_FOUND, verifiziert via dejure.org); beanspruchtes Thema Kaltstart-Onboarding ist ohne Rspr.-Beleg; Eintrag geloescht. Audit 27.05.2026 -->
-- BVerfG, Beschl. v. 19.01.2021 — 1 BvR 2396/20, NJW 2021, 1088 — Datenschutz bei digitalen Profilen; DSGVO-Konfirmation bei Onboarding-Daten; Kaltstart-Interview darf keine datenschutzwidrige Verarbeitung ausloesen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kernnormen:** §§ 312 ff. BGB — §§ 1-4 ProdHaftG — §§ 5-6 DDG — § 11 PAngV — EU AI Act
 
-**Kommentarliteratur:** Grüneberg (Palandt), BGB, 83. Aufl. 2024, §§ 312 ff. Rn. 1 ff. (Verbraucherrecht, Produktrecht-Grundlagen)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Ausgaben
 

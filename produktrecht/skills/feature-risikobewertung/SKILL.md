@@ -92,9 +92,7 @@ Nur einbeziehen wenn eine Behörde sich aktiv für diesen Bereich interessiert. 
 Hat ein anderes Unternehmen etwas Ähnliches gemacht? Was passierte?
 
 **Relevante Präzedenzfälle im deutschen Produktrecht:**
-- *BGH, Urt. v. 24.07.2014 – I ZR 161/13 – "Kolumbus"* [Modellwissen – prüfen]: Irreführende Rabattwerbung ohne tatsächliche Preissenkung
-- *OLG München, Urt. v. 08.04.2021 – 29 U 2091/20*: Cookie-Banner-Anforderungen
-- *LG Berlin, Urt. v. 26.11.2020 – 16 O 341/15 – "Airbnb"*: AGB-Kontrolle, Transparenzgebot
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Vorrang nicht überschätzen. Regulierungsbehörden ändern Prioritäten; dass ein Unternehmen damit durchgekommen ist bedeutet nicht dass das nächste es auch tut.
 
@@ -136,7 +134,7 @@ Vor der Fertigstellung gegen `~/.claude/plugins/config/claude-fuer-deutsches-rec
 
 Prüfen:
 - Könnte das Feature Verbraucher über wesentliche Merkmale irren? (§ 5 UWG)
-- Enthält das Feature Dark Patterns die Nutzerentscheidungen unlauter manipulieren? (§ 3 UWG; vgl. BGH, Urt. v. 06.06.2019 – I ZR 67/18 – "Influencer")
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Werden wesentliche Informationen verschwiegen? (§ 5a UWG)
 - Werden Verbraucher unzumutbar belästigt? (§ 7 UWG: unerwünschte E-Mail, Telefonwerbung, Push-Nachrichten)
 - Vergleichende Werbung: objektiv, kein Anschwärzen, Vergleich wesentlicher Merkmale? (§ 6 UWG)
@@ -203,19 +201,16 @@ Speichern wo `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/
 
 ## Quellen und Zitierweise
 
-Alle Zitate nach `../references/zitierweise.md` (BGH-Stil für Rechtsprechung, Kommentarzitate im Ernst/MüKo-Format).
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 **Pflicht-Beispielzitate für häufige Konstellationen:**
 
-- BGH, Urt. v. 14.01.2016 – I ZR 65/14 – "Freunde finden", GRUR 2016, 946 Rn. 25 (Dark Patterns, Adressbuch-Import)
-- BGH, Urt. v. 12.07.2018 – I ZR 74/17 – "Testsiegel auf der Verpackung", GRUR 2018, 1166 (Werbung mit Testergebnissen)
-- EuGH, Urt. v. 01.10.2019 – C-673/17 – "Planet49", NJW 2019, 3503 (Cookie-Einwilligung)
-- BGH, Urt. v. 28.05.2020 – I ZR 7/16 – "Cookie-Einwilligung II", NJW 2020, 2540
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Köhler, in: Köhler/Bornkamm/Feddersen UWG, 42. Aufl. 2024, § 5 Rn. 1.50 ff.
 
 ## Zitierprüfung
 
-Wenn die Bewertung Fälle, Normen, Verordnungen oder Vollzugsmaßnahmen zitiert – insbesondere in der Regulierungslandschaft und Präzedenz-Abschnitten – wurden diese Zitate von einem KI-Modell generiert und wurden nicht gegen eine Primärquelle verifiziert. Vor Verwendung des Entscheidungsdokuments für Entscheidungsträger jeden Verweis gegen juris, beck-online oder die BGH-Website auf Richtigkeit, Status als geltendes Recht und aktuellen Vollzugsstand prüfen. Eine Risikobewertung die auf einem erfundenen Bußgeldbescheid aufbaut ist schlimmer als keine Bewertung.
+Wenn die Bewertung Fälle, Normen, Verordnungen oder Vollzugsmaßnahmen zitiert – insbesondere in der Regulierungslandschaft und Präzedenz-Abschnitten – wurden diese Zitate von einem KI-Modell generiert und wurden nicht gegen eine Primärquelle verifiziert. Vor Verwendung des Entscheidungsdokuments für Entscheidungsträger jeden Verweis gegen amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang oder die BGH-Website auf Richtigkeit, Status als geltendes Recht und aktuellen Vollzugsstand prüfen. Eine Risikobewertung die auf einem erfundenen Bußgeldbescheid aufbaut ist schlimmer als keine Bewertung.
 
 ## Risiken / typische Fehler
 

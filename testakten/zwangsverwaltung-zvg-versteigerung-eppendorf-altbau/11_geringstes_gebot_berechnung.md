@@ -12,7 +12,7 @@
 
 Das **geringste Gebot** (§ 49 Abs. 1 ZVG) ist die gesetzliche Untergrenze, unterhalb derer kein Zuschlag erteilt werden darf. Es setzt sich aus dem **Bargebot** und den **bestehenbleibenden Rechten** zusammen. Das geringste Gebot wird erst im Versteigerungstermin vom Rechtspfleger festgestellt, wenn die Versteigerungsbedingungen bekannt gegeben und bestehenbleibende Rechte endgültig bestimmt sind.
 
-Diese Berechnung ist eine Vorab-Schätzung auf Grundlage der Aktenlage. Sie ersetzt nicht die Angaben im Termin.
+Diese Berechnung ist eine Vorab-Schätzung auf Grundlage der Aktenlage. Sie ersetzt keine bereitgestellten Lehrmaterialien und keine verifizierte Quellenarbeit.
 
 ---
 

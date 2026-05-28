@@ -201,17 +201,17 @@ Pflichtinhalte am Ende der Analyse:
   § 15 AktG; §§ 2, 3, 5, 6, 7, 10 GeschGehG; § 138 ZPO.
 - Rechtsprechung: mindestens zwei BGH-Belege mit Pinpoint nach
   Standard-Zitierweise (siehe `references/zitierweise.md`).
-- Kommentarliteratur: mindestens zwei Belege nach Schema
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
   "Bearbeiter, in: Werk, Aufl. Jahr, § X Rn. Y" (siehe
   `references/zitierweise.md`).
-- Aufsätze: nach Schema "Verfasser, NJW 2019, 2540 (2543 f.)" (ohne
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Heftnummer, ohne "S.").
 
-**Palandt-Hinweis:** Wenn im Prüfling oder in Bestandsdokumenten
-"Palandt" zitiert wird, im Analyse-Dokument den Hinweis aufnehmen:
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+"lizenzpflichtige Literaturquelle" zitiert wird, im Analyse-Dokument den Hinweis aufnehmen:
 
-> Der BGB-Kommentar "Palandt" heißt seit der 81. Aufl. 2022
-> **Grüneberg**. Sofern im Bestand auf eine konkrete Palandt-Altauflage
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 > Bezug genommen werden soll, ist die Auflage (z. B. 80. Aufl. 2021)
 > ausdrücklich zu kennzeichnen.
 

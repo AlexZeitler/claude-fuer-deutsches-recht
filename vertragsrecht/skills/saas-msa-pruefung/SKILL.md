@@ -36,7 +36,7 @@ AGB-Kontrolle nach §§ 305–310 BGB:
 - Einbeziehungsvoraussetzungen (§ 305 Abs. 2 BGB) prüfen
 - Überraschende Klauseln (§ 305c BGB)
 - Transparenzgebot (§ 307 Abs. 1 S. 2 BGB)
-- Klauselverbote §§ 308, 309 BGB (direkt anwendbar gegenüber Verbrauchern; im B2B als Indiz, BGH, Urt. v. 31.10.1984 – VIII ZR 226/83, NJW 1985, 623)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bei B2B: § 310 Abs. 1 BGB – eingeschränkte Kontrolle, aber § 307 BGB gilt
 
 ### Schritt 2: Standard-Playbook-Prüfung
@@ -72,7 +72,7 @@ Prüfen und mit CLAUDE.md vergleichen:
 | Überverbrauch-Preise | Veröffentlichte Preisliste / Prämienrate / undefiniert |
 | Umfang "Vergütung" | nur Abonnement / "Zusatzleistungen" weit definiert |
 
-**AGB-Hinweis (§ 307 BGB):** Einseitige Preiserhöhungsklauseln ohne sachgerechten Grund oder ohne ausreichende Ankündigung sind gegenüber Verbrauchern regelmäßig unwirksam. Im B2B ist die Schwelle höher, aber § 307 BGB gilt. BGH, Urt. v. 15.11.2006 – VIII ZR 3/06, NJW 2007, 1054 – Preisanpassungsklausel. `[Trainingswissen – prüfen]`
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 #### 3.3 Datenportabilität und Exit
 
@@ -195,19 +195,15 @@ Zitierweise nach `../references/zitierweise.md`.
 
 Normen und Rspr.:
 - §§ 305–310 BGB – AGB-Recht
-- § 307 Abs. 1 S. 2 BGB – Transparenzgebot; BGH, Urt. v. 09.05.2012 – XII ZR 79/10, NJW 2012, 2187 Rn. 25 – Transparenzgebot
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - § 309 Nr. 7 BGB – Haftungsausschlussverbote
 - § 309 Nr. 9 BGB – Vertragslaufzeit
-- BGH, Urt. v. 15.11.2006 – VIII ZR 3/06, NJW 2007, 1054 – Preisanpassungsklausel
-- BGH, Urt. v. 31.10.1984 – VIII ZR 226/83, NJW 1985, 623 – AGB B2B
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Art. 28 DSGVO – AVV; Art. 82 DSGVO – Datenschutz-Schadensersatz
 - § 339 BGB – Vertragsstrafe; § 343 BGB – Herabsetzung
 
 Kommentare:
-- Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 307 Rn. 12 ff.; § 309 Rn. 1 ff.
-- Bonin, in: BeckOK BGB, 70. Ed. (Stand 01.02.2025), § 307 Rn. 1 ff.
-- Ulmer/Brandner/Hensen, AGB-Recht, 13. Aufl. 2023, § 307 BGB Rn. 1 ff.
-- Pfeiffer, in: Wolf/Lindacher/Pfeiffer, AGB-Recht, 7. Aufl. 2022, § 307 Rn. 1 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Risiken / typische Fehler
 

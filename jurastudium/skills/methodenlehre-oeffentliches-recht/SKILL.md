@@ -126,6 +126,6 @@ Faustregel: Erst die Maßnahme qualifizieren (VA oder nicht?), dann die Klageart
 
 ## Was diese Skill nicht tut
 
-- Sie ersetzt nicht Jarass/Pieroth, Maurer/Waldhoff, Hufen oder Schmidt-Aßmann.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Sie ist kein Klagereihen-Skript.
 - Sie schreibt keine ausgewerteten Klausuren — sie übt die Methodik.

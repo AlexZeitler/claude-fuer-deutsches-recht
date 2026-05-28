@@ -21,15 +21,11 @@ description: "Kongruente und inkongruente Deckung sowie mittelbare Gläubigerben
 
 ## Rechtsprechung (BGH — Benachteiligung und Kongruenz)
 
-- BGH, Urt. v. 06.04.2017 - IX ZR 300/15, NJW 2017, 2095 — Zur inkongruenten Deckung als Indiz für Benachteiligungsvorsatz: inkongruente Leistung begründet starke Vermutung für Vorsatz des Schuldners und Kenntnis des Empfängers.
-- BGH, Urt. v. 21.01.2016 - IX ZR 32/14, NJW-RR 2016, 430 — Zahlungsunfähigkeit und Benachteiligungsvorsatz bei Steuerzahlungen unter Vollstreckungsdruck (§ 133 Abs. 1 InsO); Indizien für Zahlungseinstellung und Kenntnis des Gläubigers.
-- BGH, Urt. v. 08.12.2016 - IX ZR 37/14, NJW 2017, 554 — Zur mittelbaren Benachteiligung durch Erlösverwendung: Veräußerung zu Marktpreis schließt Benachteiligung nicht aus wenn Erlös dem Schuldnervermögen nicht zugeführt wird.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MüKo InsO/Kirchhof § 1 AnfG Rn. 1 ff. (Benachteiligungsbegriff)
-- Uhlenbruck InsO § 3 AnfG Rn. 1 ff. (Kongruenz und Inkongruenz)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Gläubigerbenachteiligung als Voraussetzung
 
 Alle Anfechtungstatbestände des AnfG setzen voraus, dass Gläubiger durch die Rechtshandlung benachteiligt werden. Unterschieden wird zwischen unmittelbarer und mittelbarer Benachteiligung.

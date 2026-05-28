@@ -30,7 +30,7 @@ Anwaltliche Beratung und schriftliche Dokumentation gegenüber der Geschäftsfü
 - **§ 15a Abs. 1 Satz 1 InsO** — Insolvenzantragspflicht. Zahlungsunfähigkeit (§ 17 InsO) → drei Wochen. Überschuldung (§ 19 InsO) → sechs Wochen.
 - **§ 15a Abs. 4 InsO** — Strafbarkeit Insolvenzverschleppung (Freiheitsstrafe bis 3 Jahre / Geldstrafe; bei Fahrlässigkeit bis 1 Jahr).
 - **§ 15b InsO** — Zahlungsverbote nach Insolvenzreife. Geschäftsführerhaftung gegen die Gesellschaft (löste § 64 GmbHG a.F. ab; SanInsFoG, 1.1.2021).
-- **§ 17 InsO** — Zahlungsunfähigkeit (BGH IX ZR 123/04 — 10-%-Schwelle, 3-Wochen-Horizont).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 19 InsO** — Überschuldung (zweistufig: rechnerisch und Fortbestehensprognose; vgl. `stb-ueberschuldungspruefung-19-inso`).
 - **§ 18 InsO** — Drohende Zahlungsunfähigkeit (24-Monats-Horizont; Antragsrecht, keine Pflicht — Zugangstor StaRUG).
 - **§ 102 StaRUG** — Krisenfrüherkennungspflicht GF; ergänzt § 91 Abs. 2 AktG analog auf alle haftungsbeschränkten Gesellschaften.
@@ -39,12 +39,7 @@ Anwaltliche Beratung und schriftliche Dokumentation gegenüber der Geschäftsfü
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 24.5.2005 — **IX ZR 123/04**, BGHZ 163, 134 (Grundsatz Zahlungsunfähigkeit; 10-%-Schwelle, 3-Wochen-Horizont).
-- BGH, Urt. v. 19.11.2019 — **II ZR 233/18**, NJW 2020, 1809 (Fortbestehensprognose § 19 II InsO).
-- BGH, Urt. v. 19.12.2017 — **II ZR 88/16**, BGHZ 217, 129 (Passiva II; Substantiierungslast bestreitender GF).
-- BGH, Urt. v. 6.6.1994 — **II ZR 292/91** ("Girmes"; Außenhaftung GF gegenüber Neugläubigern).
-- BGH, Urt. v. 27.3.2012 — **II ZR 171/10** (Quotenschaden Altgläubiger).
-- BGH, Urt. v. 4.7.2017 — **II ZR 319/15** (§ 64 GmbHG a.F. — Zahlungsverbot nach Insolvenzreife; Aktiventausch und Rückgewähranspruch des GF).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -122,7 +117,7 @@ sechs Wochen ab Eintritt der Ueberschuldung].
    gemaess § 15b InsO (verbotene Zahlungen nach Insolvenzreife).
 3. Persoenliche Haftung gegenueber Neuglaeubigern aus § 823 Abs. 2
    BGB i.V.m. § 15a InsO bzw. § 826 BGB (Quotenschaden Altglaeubiger,
-   Vertrauensschaden Neuglaeubiger; vgl. BGH II ZR 292/91).
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Empfehlung:**
 

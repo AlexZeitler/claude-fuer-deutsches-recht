@@ -131,8 +131,7 @@ Mandate für Vertragsärzte bei Honorar-Streitigkeiten mit Kassenärztlicher Ver
 
 ## 10) BSG-Linien
 
-- BSG, Urt. v. 17.7.2013 — B 6 KA 49/12 R (RLV-Berechnung)
-- BSG, Urt. v. 21.3.2018 — B 6 KA 35/16 R (Wirtschaftlichkeit)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 
@@ -144,21 +143,15 @@ Mandate für Vertragsärzte bei Honorar-Streitigkeiten mit Kassenärztlicher Ver
 
 ### Leitsatz-Zitate
 
-- BSG, Urt. v. 17.07.2013 — **B 6 KA 49/12 R**, BSGE 114, 170 Rn. 18: Das Regelleistungsvolumen ist nach Fachgruppendurchschnitt und regionalen Punktwerten zu berechnen; individuelle Abweichungen durch Praxisbesonderheiten sind gesondert nachzuweisen.
-- BSG, Urt. v. 21.03.2018 — **B 6 KA 35/16 R**, SozR 4-2500 § 106 Nr. 63 Rn. 22: Wirtschaftlichkeitsprüfung verlangt konkreten Fachgruppenvergleich; pauschale Verweise auf statistische Abweichungen genügen nicht für Regress.
-- BSG, Urt. v. 15.07.2020 — **B 6 KA 6/19 R**, NZS 2021, 456 Rn. 14: Praxisbesonderheiten müssen vom Vertragsarzt konkret belegt werden; bloße Angabe atypischer Patientenstruktur ohne Dokumentation ist unzureichend.
-- BSG, Urt. v. 12.08.2020 — **B 6 KA 19/19 R**, MedR 2021, 234 Rn. 9: Bei Zulassungsentziehung wegen gröblicher Pflichtverletzung § 95 Abs. 6 SGB V ist der Verhältnismäßigkeitsgrundsatz streng zu wahren; mildere Maßnahmen (Ruhen, Disziplinar) sind vorrangig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Paragrafenkette
 
 § 87b SGB V (Honorarverteilungsmaßstab) → § 106 SGB V (Wirtschaftlichkeitsprüfung) → § 106a SGB V (Qualitätsprüfung) → § 106d SGB V (Plausibilitätsprüfung) → § 95 SGB V (Zulassung) → § 95 Abs. 6 SGB V (Zulassungsentziehung) → § 51 SGG (Sozialgerichtsweg) → § 86b SGG (Einstweiliger Rechtsschutz).
 
-### Kommentarliteratur
+### Quellenregel
 
-- Spickhoff Medizinrecht, 3. Aufl. 2021, § 87b SGB V Rn. 1 ff.
-- Hauck/Noftz SGB V, §§ 87b, 106, 106d (aktuelle Aufl.).
-- Krauskopf Soziale Krankenversicherung Pflegeversicherung, § 106 SGB V.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ### Fristen
 
 | Frist | Dauer | Norm |

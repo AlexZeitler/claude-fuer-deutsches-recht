@@ -14,10 +14,7 @@ description: 'Stellt klassische Lösungsschemata für die deutsche Juristenklaus
 4. Soll das Schema als Gedaechtnisstuetze oder zum Verstaendnis-Aufbau verwendet werden?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 26.10.2015 - II ZR 404/13, NJW 2016, 311 — V-C-G-D-D-B-Reihenfolge als anerkannter Standard der Anspruchspruefung; Abweichungen beduerfen Begruendung.
-- BGH, Urt. v. 02.11.2011 - 2 StR 375/11, NJW 2012, 1093 — Dreistufiger Verbrechensaufbau (Tatbestand-Rechtswidrigkeit-Schuld) ist von BGH stets angewandt; Abweichung vom Schema begruendet methodischen Fehler.
-- BVerfG, Beschl. v. 14.01.2014 - 1 BvR 2998/11, NJW 2014, 1362 — Grundrechtspruefung nach Schutzbereich-Eingriff-Rechtfertigung als BVerfG-Standard; Schematabweichung fuehrt zu Fehlerrisiko.
-- BVerwG, Urt. v. 09.06.1967 - IV C 38.67, BVerwGE 27, 141 — Zulässigkeit-Begruendetheit-Schema als verwaltungsgerichtlicher Standard: Klageart-Bestimmung ist erster Schritt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - §§ 433, 280 BGB — Vertrag und Leistungsstoerung: Kern des Anspruchspruefungs-Schemas
@@ -25,10 +22,9 @@ description: 'Stellt klassische Lösungsschemata für die deutsche Juristenklaus
 - Art. 1, 19 GG — Grundrechte: Schutzbereich als erster Schritt des Grundrechtsschemas
 - §§ 40, 42 VwGO — Rechtsweg und Klageart als erster Schritt des Verwaltungsrecht-Schemas
 
-## Kommentarliteratur
-- Larenz/Wolf Allgemeiner Teil BGB, 9. Aufl. 2004, §§ 1-5 (BGB-Anspruchspruefungs-Grundlagen)
-- Fischer StGB Vor §§ 13-35 Rn. 1-30 (Verbrechensaufbau: Systemdarstellung)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ehrlicher Disclaimer vorweg
 
 **Schemata sind nicht das Gesetz, nicht die Lehre und nicht das Examen. Sie sind didaktische Krücken — manchmal sehr gute, manchmal irreführende.**
@@ -175,7 +171,7 @@ Im Drill-Modus stellt die Skill Schritt-für-Schritt-Fragen, die der Studierende
 ## Was diese Skill nicht tut
 
 - Sie ist **nicht** das Lehrbuch. Wer nur das Schema lernt, geht durch das Examen wie ein Roboter mit fehlerhafter Firmware: erkennt einen 80%-passenden Sachverhalt nicht.
-- Sie ersetzt nicht die juristische Argumentation. Schemata sind Aufbauten, nicht Argumente.
+- Sie ersetzt keine bereitgestellten Lehrmaterialien und keine verifizierte Quellenarbeit.
 - Sie ist nicht universell. Manche Fälle passen in kein Schema — dann hilft das Verständnis der Methodenlehre (siehe `methodenlehre-grundlagen`), nicht das Krampfhalten am Schema.
 
 ## Schlusswort

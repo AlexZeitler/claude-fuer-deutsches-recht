@@ -26,7 +26,7 @@ Skill `bverfg-rechtsprechung-recherchieren` zuerst. Jede Aussage benötigt BVerf
 
 - Materiebestimmung (Schwerpunkt)
 - Art. 70–74 GG durchgehen
-- Bei konkurrierender Gesetzgebung: Art. 72 Abs. 2 GG (Erforderlichkeitsklausel) — Begründung dafür in der Gesetzesbegründung **substantiiert** vortragen (Altenpflege BVerfGE 106, 62 — Pinpoint live).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bei Abweichungsgesetzgebung Art. 72 Abs. 3 GG: Verhältnis Bund/Land klären.
 
 ### Schritt 3 — Formelle Verfassungsmäßigkeit (Aufruf Skill `formelle-verfassungsmaessigkeit`)
@@ -35,7 +35,7 @@ Skill `bverfg-rechtsprechung-recherchieren` zuerst. Jede Aussage benötigt BVerf
 - **Zustimmungs- oder Einspruchsgesetz?** Prüfung früh, da Mehrheitsverhältnisse im Bundesrat berücksichtigt werden müssen.
 - **Bestimmtheit:** Tatbestandsmerkmale, Rechtsfolgen, Zuständigkeiten klar regeln. Generalklauseln vermeiden, soweit Grundrechtsrelevanz hoch.
 - **Zitiergebot Art. 19 Abs. 1 S. 2 GG:** Falls ein Grundrecht eingeschränkt wird, im Eingangsabschnitt das eingeschränkte Grundrecht unter Angabe des Artikels nennen.
-- **Wesentlichkeit:** Wesentliche Entscheidungen selbst regeln, nicht der Exekutive überlassen (Kalkar BVerfGE 49, 89 — Pinpoint live).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Schritt 4 — Materielle Verfassungsmäßigkeit pro betroffenes Grundrecht
 
@@ -69,7 +69,7 @@ Für jedes betroffene Grundrecht (Aufruf Skill `grundrechtspruefung`):
 
 #### 5c. Sozialstaatsprinzip (Art. 20 Abs. 1 GG)
 
-- Existenzminimum (Hartz IV BVerfGE 125, 175 — Pinpoint live; Asylbewerberleistungen BVerfGE 132, 134).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Gleichmäßige Lastenverteilung.
 
 #### 5d. Bundesstaatsprinzip (Art. 20 Abs. 1 GG)
@@ -79,8 +79,7 @@ Für jedes betroffene Grundrecht (Aufruf Skill `grundrechtspruefung`):
 
 #### 5e. Europarechtsfreundlichkeit
 
-- Lissabon BVerfGE 123, 267 — Identitätskontrolle, Ultra-vires-Kontrolle.
-- PSPP BVerfGE 154, 17 — Ultra-vires-Kontrolle im konkreten Fall (Pinpoint live).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Mit Unionsrecht vereinbar? Verstoß gegen Grundrechtecharta?
 
 ### Schritt 6 — Begründung des Entwurfs

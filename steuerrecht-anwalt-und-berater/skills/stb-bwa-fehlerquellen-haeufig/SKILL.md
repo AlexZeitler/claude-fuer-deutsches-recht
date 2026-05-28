@@ -38,7 +38,7 @@ BWA-Fehler sind nicht nur Schoenheitsmaengel — sie verfaelschen die Steuerung,
 
 - BMF v. 28.11.2019 zu GoBD.
 - IDW PS 480 (Erstellung).
-- BGH IX ZR 285/14 — Hinweispflicht bei erkannten Buchhaltungsfehlern.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Workflow
 
@@ -124,6 +124,6 @@ Stand: 05/2026.
 - AO §§ 146, 147.
 - StBerG §§ 33, 57.
 - BMF v. 28.11.2019 zu GoBD.
-- BGH IX ZR 285/14, NJW 2017, 1611.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 3 Marker aufgeloest: 1 bestaetigt (SV-Beitragssaetze Stand 2025 eingesetzt), 2 ersetzt (DATEV-Kontonummern-Hinweise ohne Marker neu formuliert) -->

@@ -24,16 +24,11 @@ description: "DD-Reporting: Konsolidiert Legal, Tax, Financial und Commercial Du
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 14.07.2008 - II ZR 202/07, NJW 2008, 3361 — Vorstand/GF muss sich auf angemessene Information stützen; fehlende oder unzureichende DD kann das BJR-Haftungsprivileg gefährden.
-- BGH, Urt. v. 07.05.2021 - V ZR 299/19, NJW 2021, 2359 — Wesentliche Risiken muss Verkaefer ungefragt offenbaren; DD-Report belegt, was offenbart wurde
-- OLG Frankfurt, Urt. v. 26.05.2022 - 5 U 53/21, NZG 2022, 1052 — W&I-Versicherer kann Deckung verweigern, wenn DD-Report wesentliche bekannte Risiken unterschlaegt (Materiality Scrape und Sandbagging-Problematik)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 6 — Reporting und Dokumentation
-- Mueller/Strate, M&A — Due Diligence (2018) — integriertes Reporting
-- MueKo AktG/Spindler § 93 Rn. 60 ff. — Informationsgrundlage als BJR-Voraussetzung
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Integriertes DD-Reporting: Workstream-Matrix
 
 | Workstream | Hauptbefunde | Risikobewertung | SPA-Empfehlung |
@@ -148,6 +143,6 @@ Beim Verkaefer-initiierten Vendor DD erstellt ein unabhaengiger Berater den Repo
 ## Quellen
 
 - §§ 311 II, 444 BGB; § 93 AktG; §§ 35 ff. GWB
-- BGH II ZR 202/07 (BJR, angemessene Information); BGH V ZR 299/19 (Offenbarungspflicht)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022)
-- MueKo AktG/Spindler § 93 Rn. 60 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

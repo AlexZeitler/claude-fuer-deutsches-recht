@@ -102,7 +102,7 @@ StB-typische KI-Nutzung (Recherche, Textgenerierung, Buchungsvorschlaege) ist re
 - Bei ChatGPT/Claude in Konsumfassung: Mandantendaten zwingend anonymisieren / pseudonymisieren; Trainings-Opt-Out aktivieren; bei Geschaeftskonten mit AVV (z.B. ChatGPT Enterprise, Claude for Work) sind die Anforderungen erfuellbar, jeweils Vertragsstand pruefen.
 - Berufsverschwiegenheit ist strafrechtlich abgesichert (§ 203 StGB) — jeder Verstoss ist Offizialdelikt; zusaetzlich drohen DSGVO-Bussgelder bis 4 % Jahresumsatz.
 - KI-VO-Compliance: Bis 02.02.2025 verbotene Praktiken vermeiden; Schulung der Sachbearbeiter zur Output-Kontrolle (Halluzinationsrisiko); ab 02.08.2026 Pruefung der eingesetzten KI auf Hochrisiko-Einstufung.
-- Output-Verantwortung verbleibt beim Berufstraeger: jede inhaltliche Aussage ist vor Mandantenkommunikation durch den Berufstraeger zu pruefen (Beck-Online, juris).
+- Output-Verantwortung verbleibt beim Berufstraeger: jede inhaltliche Aussage ist vor Mandantenkommunikation durch den Berufstraeger zu pruefen (amtliche/freie Quellen oder lizenzierte Datenbanken bei vorhandenem Zugang).
 
 ## Querverweise
 

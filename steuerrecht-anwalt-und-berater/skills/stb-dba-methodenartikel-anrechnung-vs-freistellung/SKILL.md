@@ -40,7 +40,7 @@ Nach DBA-Pruefung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 
 - Aktuelle BFH-Rechtsprechung zu Aktivitaetsklauseln in juris abrufen.
 - Aktuelle BFH-Rechtsprechung zu Subject-to-Tax-Klauseln in juris abrufen.
-- BVerfG 2 BvL 1/12 zum Treaty Override (§ 50d Abs. 8 EStG verfassungsgemaess), Urteil vom 15.12.2015, BVerfGE 141, 1.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BMF-Schreiben zur Anwendung des § 34c EStG — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 - BMF-Schreiben zur Anrechnungsmethode und Per-Country-Limitation — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 
@@ -149,6 +149,6 @@ Nach DBA-Pruefung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 
 ## Quellen und Updates
 
-Stand: 05/2026. Art. 23A/B OECD-MA. § 32b EStG, § 34c EStG, § 34d EStG, § 50d EStG, § 20 AStG, § 26 KStG. BVerfG 2 BvL 1/12 (Treaty Override, Urteil 15.12.2015, BVerfGE 141, 1). Aktuelle BMF-Schreiben zu § 34c EStG und Niedrigsteuer-Schwelle § 20 AStG im BMF-Veroeffentlichungsverzeichnis abrufen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 9 Marker aufgeloest: 1 belegt (BVerfG 2 BvL 1/12, 15.12.2015, BVerfGE 141, 1 bestaetigt), 8 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->

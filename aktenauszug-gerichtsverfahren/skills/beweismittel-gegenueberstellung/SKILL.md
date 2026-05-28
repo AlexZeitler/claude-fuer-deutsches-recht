@@ -26,25 +26,11 @@ Die Beweismitteltabelle listet alle in den Schriftsätzen angebotenen Beweismitt
 
 ## Rechtsprechung zum Beweisrecht
 
-- BGH, Urt. v. 19.02.2019 - VI ZR 505/17, NJW 2019, 1677 — Zum Beweismaß nach § 286 ZPO: Gericht muss von der Wahrheit der behaupteten Tatsache im persönlichen Gewissen überzeugt sein; reine Wahrscheinlichkeit genügt nicht.
-- BGH, Urt. v. 08.07.2020 - VIII ZR 163/18, NJW 2020, 3251 — Zur Präklusion verspätet vorgetragener Beweismittel nach § 531 Abs. 2 ZPO in der Berufungsinstanz; Verspätung muss vom Gericht ausdrücklich festgestellt werden.
-- BGH, Urt. v. 22.09.2021 - IV ZR 91/20, NJW 2022, 144 — Beweis des ersten Anscheins (prima-facie-Beweis) gilt bei typischen Geschehensabläufen; kann durch Erschütterung des Anscheinsbeweises entkräftet werden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller/Greger ZPO, § 286 Rn. 1 ff. (Beweismaß; freie Beweiswürdigung)
-- MüKo ZPO/Damrau, § 402 Rn. 1 ff. (Sachverständigenbeweis)
-- Greger/Stenger Beweisrecht, Teil B Rn. 1 ff. (Beweisrecht in der Praxis)
-- BeckOK ZPO/Bacher, § 373 Rn. 1 ff. (Zeugenbeweis)
-
----
-
-<!-- AUDIT 27.05.2026
-Problem : BGH VI ZR 937/20 vom 15.03.2022, NJW 2022, 1956 – Urteil auf dejure.org nicht auffindbar (NOT_FOUND). Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=15.03.2022&Aktenzeichen=VI+ZR+937%2F20
-Kein verifizierter Ersatz mit identischen Koordinaten ermittelt. Eintrag ersatzlos gelöscht.
-Aktion   : Zeile entfernt
--->
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Tabellenstruktur
 
 ```markdown

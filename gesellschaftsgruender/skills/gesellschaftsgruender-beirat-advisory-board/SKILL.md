@@ -28,16 +28,11 @@ Klaere vor Ausarbeitung der Beiratsstruktur:
 
 ## Aktuelle Rechtsprechung
 
-- **BGH, Urt. v. 06.04.1964 – II ZR 75/62, BGHZ 41, 282** — Beirat in der GmbH ist gesellschaftsvertraglich gestaltbar; Grenzen liegen in unabdingbaren Gesellschafterrechten; Paradigma-Entscheidung zur GmbH-Beiratszulaessigkeit.
-- **OLG Muenchen, Urt. v. 24.03.2021 – 7 U 3975/20, GmbHR 2021, 1056** — Beiratsordnung kann Zustimmungsvorbehalt fuer Geschaeftsfuehrer-Kreditaufnahme vorsehen; Verletzung des Zustimmungsvorbehalts hat jedoch keine Aussenwirkung gegenueber Dritten (Gutglaubensschutz).
-- **BGH, Beschl. v. 29.01.2020 – II ZB 18/19, NZG 2020, 463** — Beschlussfaehigkeit des Beirats muss nach der Beiratsordnung bestimmt werden; fehlt eine Regelung, gilt das Mehrheitsprinzip analog GmbH-Recht; Beschluesse sind anfechtbar analog Paragraf 243 AktG.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Scholz/Schneider, GmbHG, 13. Aufl., § 52 Rn. 1-80 (Beirat und freiwilliger Aufsichtsrat; Gestaltungsspielraum)
-- Baumbach/Hueck/Zöllner/Noack, GmbHG, 23. Aufl., § 52 Rn. 1-60 (Aufsichtsrat / Beirat; Haftung der Mitglieder)
-- Lutter/Hommelhoff, GmbHG, 21. Aufl., § 52 Rn. 1-55 (Gestaltungsfreiheit; Mitbestimmung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfschema: Beirat-Einrichtung
 
 | Schritt | Frage | Inhalt | Ergebnis |
@@ -201,17 +196,16 @@ Kuendigung: 3 Monate vor Ablauf; ausserordentlich aus wichtigem Grund
 
 - Satzungs-Klausel mit Zustimmungsvorbehalten: Notar-Beurkundung der Satzungsaenderung beachten
 - Pflicht-Aufsichtsrat bei > 500 AN (DrittelbG) oder > 2.000 AN (MitbestG): nicht durch Beirats-Gestaltung umgehbar
-- Beiratsbeschluss ersetzt nicht Gesellschafterbeschluss nach Gesetz (BGH BGHZ 43, 261)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Zustimmungsvorbehalt entfaltet keine Aussenwirkung gegenüber Dritten (OLG Muenchen 2021)
 
 ## Quellen und Vertiefung
 
-- BGH BGHZ 41, 282 (1964) — Beirat bei GmbH zulaessig
-- BGH BGHZ 43, 261 (1965) — Grenzen der Beirats-Befugnisse
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - OLG Muenchen, GmbHR 2021, 1056 — Aussenwirkung des Zustimmungsvorbehalts
-- BGH NZG 2020, 463 — Beschlussfaehigkeit des Beirats
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - § 52 GmbHG, §§ 95, 111, 116 AktG, §§ 1, 4 DrittelbG, §§ 1, 7 MitbestG
-- Scholz/Schneider GmbHG § 52; Baumbach/Hueck § 52; Lutter/Hommelhoff § 52
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Uebergabe an andere Skills
 

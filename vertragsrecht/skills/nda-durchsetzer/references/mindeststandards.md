@@ -36,7 +36,7 @@ ursprüngliche Struktur des Prüflings nicht verletzt wird.
 > Offenlegung erkennbar ist.
 
 ### Typische Abweichungen
-- "Vertraulich sind nur Informationen, die schriftlich als 'vertraulich'
+- "Vertraulich sind nur Informationen, die schriftlich als ‚vertraulich'
   gekennzeichnet sind." — **NACHTEILIG**, Schutzlücke bei mündlicher
   Offenlegung.
 - "Mündlich offengelegte Informationen sind nur vertraulich, wenn sie
@@ -162,7 +162,7 @@ Geschäftsgeheimnisse zwingend.
 ### Rote Linien
 - Klausel: "Eine Pflichtverletzung wird vermutet, wenn die offengelegten
   Informationen bei einem Dritten auftauchen." — **NACHTEILIG**, gegen
-  § 138 ZPO und § 307 BGB; OLG Düsseldorf I-15 U 6/20.
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Klausel: "Die empfangende Partei trägt die Beweislast für das Eingreifen
   von Ausnahmen." — **akzeptabel**, bewährter Marktstandard.
 
@@ -308,7 +308,7 @@ Geschäftsgeheimnisse zwingend.
 
 ### Soll-Inhalt
 - Salvatorische Klausel **zurückhaltend** formulieren wegen BGH-Rspr.
-  (BGH, Urt. v. 24.09.2002 – KZR 10/01, NJW 2003, 347) und AGB-Kontrolle:
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   pauschale Salvatorik kann § 307 BGB verletzen, weil sie die Risikoverteilung
   zulasten des Vertragspartners verlagert.
 - Klassische Formulierung: "die Parteien werden eine wirksame Regelung

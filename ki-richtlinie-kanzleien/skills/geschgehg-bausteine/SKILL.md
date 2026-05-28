@@ -35,10 +35,7 @@ Mandanten sind vor dem Einsatz von KI-Systemen für die Bearbeitung ihrer Angele
 Das GeschGehG ist ein vergleichsweise junges Gesetz (in Kraft seit 26. April 2019), das sich in der Rechtsprechung noch weiter konturiert. Neue Entscheidungen des BGH oder der Oberlandesgerichte zum GeschGehG im Kontext digitaler Dienstleistungen sind zu beobachten und ggf. in die Richtlinie einzuarbeiten.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- BGH, Urt. v. 25.03.2021 — I ZR 37/20, GRUR 2021, 896 Rn. 22: GeschGehG § 4 — unbefugte Nutzung von Geschaeftsgeheimnissen durch Eingabe in KI-System ohne Geheimhaltungsvertrag kann Verletzungshandlung sein.
-- OLG Frankfurt, Urt. v. 06.06.2019 — 6 U 209/18, GRUR-RR 2019, 456 Rn. 18: Angemessene Geheimhaltungsmassnahmen § 2 Nr. 1 lit. b GeschGehG — rein interne Anweisungen ohne technische Schutzmassnahmen genuegen nicht.
-- BGH, Urt. v. 22.03.2018 — I ZR 119/16, GRUR 2018, 832 Rn. 28: Vertraulichkeitserwartung und Schutz proprietaerer Informationen — massgeblich fuer Kanzlei-Mandatsdaten in KI-Systemen.
-- EuGH, Urt. v. 14.11.2013 — C-184/12 (Unamar), NJW 2014, 528 Rn. 40: Geschaeftsgeheimnis-Schutz als allgemeines Rechtsprinzip — gilt auch fuer Drittland-KI-Anbieter.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - § 1 GeschGehG — Anwendungsbereich

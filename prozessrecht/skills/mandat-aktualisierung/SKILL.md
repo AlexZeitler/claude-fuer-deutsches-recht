@@ -31,16 +31,11 @@ Ein Prozessportfolio bleibt nur dann nützlich, wenn es aktuell ist. Dieser Skil
 
 ### Leitentscheidungen
 
-- **BGH, Urt. v. 22.04.2010 – IX ZR 160/09, NJW 2010, 2655 Rn. 14 ff.** — Anwaltliche Haftung bei versäumter Berufungsbegründungsfrist; lückenlose Fristkontrolle als Grundpflicht.
-- **BGH, Beschl. v. 26.11.2019 – VIII ZB 61/19, NJW 2020, 765 Rn. 10** — Wiedereinsetzung in den vorigen Stand; Voraussetzungen und Dokumentationspflichten bei Fristversäumnis.
-- **BVerwG, Beschl. v. 08.03.2018 – 2 B 31/17, NVwZ-RR 2018, 591 Rn. 6** — Fristenberechnungsgrundlagen im verwaltungsgerichtlichen Rechtsmittelverfahren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- `Greger, in: Zöller, ZPO, 35. Aufl. 2024, § 233 Rn. 12` — Wiedereinsetzung bei Fristversäumnis; Anforderungen an die Fristenkontrolle einer Kanzlei.
-- `Gehrlein, in: MüKoZPO, 6. Aufl. 2020, § 214 Rn. 5` — Fristberechnung und Fristenkontrolle; organisatorische Anforderungen.
-- `Meyer-Goßner/Schmitt, StPO, 67. Aufl. 2024, § 317 Rn. 3` — Berufungsfrist im Strafverfahren; Beginn und Wahrung (Doppelautoren-Kommentar).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Schritt 0: Konfliktsschranke
@@ -183,7 +178,7 @@ Berufungsbegründung fristgerecht beim OLG Frankfurt eingereicht (§ 520 Abs. 2 
 In der Verlaufsakte und bei Wesentlichkeitsprüfungen sind folgende Quellen heranzuziehen und, soweit angegeben, zu zitieren:
 
 - Gesetzestexte: §§ 214 ff., 516, 520, 548, 569 ZPO; §§ 317 ff. StPO; § 116 VwGO; § 43a BRAO; § 11 BORA
-- Rechtsprechung: BGH, Urt. v. 22.04.2010 – IX ZR 160/09, NJW 2010, 2655; BGH, Beschl. v. 26.11.2019 – VIII ZB 61/19, NJW 2020, 765
-- Kommentare: Greger, in: Zöller, ZPO, 35. Aufl. 2024, § 233; Gehrlein, in: MüKoZPO, 6. Aufl. 2020, § 214
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

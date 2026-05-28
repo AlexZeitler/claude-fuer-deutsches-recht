@@ -19,20 +19,17 @@ description: "Bereicherungsausgleich in Mehrpersonenverhältnissen prüfen: Leis
 
 ## Rechtsprechung
 
-BGH, Urt. v. 20.06.1990 – XII ZR 98/89, NJW 1990, 2880 — Im Anweisungsfall leistet A an B (Deckungsverhältnis); C empfängt zwar die Zahlung, aber im Valutaverhältnis von B. Bei Fehler im Deckungsverhältnis richtet sich der Bereicherungsanspruch des A nur gegen B, nicht gegen C.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 06.10.1994 – III ZR 165/93, NJW 1995, 53 — Beim Doppelmangel gilt: Jedes Verhältnis ist für sich abzuwickeln; eine Direktkondiktion (Durchgriffskondiktion) scheidet grundsätzlich aus; bei Insolvenz des Mittlers ist nach § 242 BGB im Einzelfall ein Direktanspruch möglich (str.).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 27.09.2012 – IX ZR 43/12, NJW 2013, 161 — Ist die Anweisung des B an A unwirksam oder gar nicht erteilt worden, fehlt es an einer Leistungsbeziehung A-B; A kann direkt gegen C kondizieren (Direktkondiktion wegen unwirksamer Anweisung).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 17.01.2002 – III ZR 241/00, NJW 2002, 1073 — Drittleistung nach § 267 BGB (Zahlung des Dritten D an C zur Tilgung der Schuld des A) bewirkt, dass D keinen Bereicherungsanspruch gegen C hat (C hat Rechtsgrund: Tilgung); D hat einen Rückgriffsanspruch gegen A (§ 812 BGB oder § 670 BGB).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Lorenz in: Staudinger, BGB, Neubearbeitung 2023, § 812 Rn. 40–80 (Anweisungsfälle, Leistungsbeziehungen, Durchgriffskondiktion).
-Sprau in: Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 812 Rn. 55–80 (Mehrpersonenverhältnisse, Doppelmangel).
-Schwab in: MüKoBGB, 9. Aufl. 2024, § 812 Rn. 130–180 (Direktkondiktion, Drittleistung, Ausnahmen).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Grundsatz: Keine Durchgriffskondiktion im Anweisungsfall
 
 Im Leistungsdreieck (A schuldet B, B schuldet C, A zahlt auf Anweisung des B direkt an C):

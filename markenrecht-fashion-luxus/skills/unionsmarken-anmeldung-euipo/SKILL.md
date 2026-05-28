@@ -79,10 +79,10 @@ Frist für Prioritätsanspruch (6 Monate nach DPMA-Anmeldung) um 3 Tage versäum
 ## Belege & Kommentare
 
 - Hasselblatt (Hrsg.), Münchener Anwaltshandbuch Gewerblicher Rechtsschutz, 5. Aufl. 2017, Teil C (Unionsmarken)
-- BeckOK MarkenR, Art. 7 UMV Rn. 1 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Eisenmann/Jautz, Grundriss des gewerblichen Rechtsschutzes, 10. Aufl. 2015
 - EUIPO-Leitlinien zur Prüfung, Teil B (Untersuchung), Stand 2024
-- EuGH, Urt. v. 06.09.2013 — C-96/11 P (August Storck / OHIM) — EUIPO-Verfahren Absolut. Hürden
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Templates
 
@@ -122,8 +122,8 @@ Bevor das e-Filing startet, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **EuGH, Urt. v. 22.06.2006 — C-24/05 P (Storck / OHIM):** Einfache geometrische oder allgemein dekorative Formen besitzen keine inhärente Unterscheidungskraft nach Art. 7 I lit. b UMV; Luxuslabel-Bildmarken muessen genuine Eigenart aufweisen, die ueber rein ornamentale Merkmale hinausgeht.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **EuGH, Urt. v. 18.06.2002 — C-299/99 (Philips):** Eine Marke, die aus einer technisch notwendigen Form besteht, kann nicht durch Verkehrsdurchsetzung errettete werden; Art. 7 I lit. e UMV schützt die technische Freiheit des Mitbewerbers absolut — auch Luxuslabel unterliegen diesem Grundsatz.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Beschl. v. 01.03.2001 — I ZB 54/98 (marktfrisch):** Wortmarken, die ausschliesslich aus beschreibenden oder anpreisenden Angaben bestehen, koennen keine Unterscheidungskraft erlangen; bei Luxus-Slogans ist daher stets Wort-Bild-Kombination oder Secondary-Meaning-Nachweis zu bevorzugen.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

@@ -15,9 +15,7 @@ description: "Vollständige Klageschrift Entfristungsklage mit Pflicht-Disclaime
 
 ## Rechtsprechungshinweise
 
-- BAG, Urt. v. 16.04.2008 – 7 AZR 1048/06, NZA 2008, 999 — Begründungsbaustein Schriftformmangel: § 14 Abs. 4 TzBfG verlangt formwirksame Unterzeichnung vor Arbeitsaufnahme; Scan, E-Mail oder einfache digitale Signatur genügen nicht.
-- BAG, Urt. v. 01.12.2004 – 7 AZR 198/04, NZA 2005, 337 — Einheitlichkeit der Urkunde: Beide Parteien müssen dieselbe körperliche Urkunde unterzeichnen.
-- BAG, Urt. v. 23.01.2019 – 7 AZR 733/16, NZA 2019, 1042 — Vorbeschäftigungsverbot zeitlich unbegrenzt; bei Verstoß gegen § 14 Abs. 2 Satz 2 TzBfG gilt Vertrag als unbefristet.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vollständige Klageschrift
 

@@ -83,7 +83,7 @@ Im Migrationsrecht gibt es kein klassisches Schiedsverfahren / ADR — Verfahren
 
 - Anhörungs-Protokoll prüfen
 - Korrektur-Schriftsatz fristgerecht
-- Bei Ablehnung: Klage VG Notfrist 1 Woche § 36 AsylG
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Phase 5 — Bei Erfolg
 
@@ -113,10 +113,9 @@ Stand: 05/2026. AsylG, AufenthG. GEAS-Reform ab 12.6.2026 wirksam.
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- BVerwG, Urt. v. 21.04.2022 - 1 C 10.21, BVerwGE 175, 227 — Wertung von Aussagen bei BAMF-Anhoerung: Widersprueche zwischen Erst- und Zweitanhoerung duerfen nicht automatisch zur Unglaubwuerdigkeit fuehren; Trauma-Symptome und Gedaechtnisluecken sind angemessen zu beruecksichtigen.
-- BVerfG, Beschl. v. 14.05.2019 - 2 BvR 1094/19, NVwZ 2019, 1039 — Recht auf anwaltlichen Beistand § 25 Abs. 6 AsylG: Beschraenkung des Beistands auf Beobachterrolle darf nicht das Recht auf effektive Rechtsverteidigung aushöhlen.
-- VGH Bayern, Beschl. v. 05.12.2019 - 21 ZB 19.33392, BeckRS 2019, 33891 — Anhoerungsprotokoll als Beweismittel im VG-Verfahren: Korrektur eines offensichtlich unrichtigen Dolmetscher-Protokolls ist zulaessig; schriftliche Richtigstellung durch Anwalt unmittelbar nach Anhoerung hat Beweiskraft.
-- EuGH, Urt. v. 02.12.2014 - C-148/13, C-150/13 (A,B,C v. Niederlande), NVwZ 2015, 217 — Bewertung sexueller Orientierung im Asylverfahren: behordliche Befragung darf keine Details zur sexuellen Praxis verlangen; stereotype Annahmen als Kriterium verboten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette BAMF-Anhoerung
 
@@ -127,12 +126,9 @@ Stand: 05/2026. AsylG, AufenthG. GEAS-Reform ab 12.6.2026 wirksam.
 - **§ 36 AsylG** — beschleunigtes Verfahren mit 1-Wochen-Klagefrist
 - **§ 74 Abs. 1 AsylG** — Klagefrist zwei Wochen (Standardbescheid), eine Woche (§ 36 AsylG)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Marx, Asyl- und Fluechtlingsrecht, § 25 AsylG Rn. 1-40 — Anhoerungsverfahren und Beistandsrecht
-- Bergmann/Dienelt, Auslaenderrecht, § 25 AsylG Rn. 1-30
-- Funke-Kaiser/Goebel-Zimmermann, GK-AsylG, § 25 Rn. 1-50 — umfassend
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage vor Anhörungsvorbereitung
 
 Bevor losgelegt wird, klaere:

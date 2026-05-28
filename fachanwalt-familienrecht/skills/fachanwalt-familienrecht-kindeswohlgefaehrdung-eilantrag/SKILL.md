@@ -182,8 +182,7 @@ Mandate in Hochkonflikt-Familien — Eltern unter Verdacht, Eltern unter Belastu
 
 ## 12) BGH-/BVerfG-Linien
 
-- BVerfG, Beschl. v. 13.7.2017 — 1 BvR 1202/17 (Verhältnismaessigkeit Entzug)
-- BGH, Beschl. v. 17.2.2010 — XII ZB 68/09 (Anhörung Kind)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 

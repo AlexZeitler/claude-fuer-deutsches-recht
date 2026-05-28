@@ -84,7 +84,7 @@ Ruege als Pflicht-Vorstufe zum Nachprüfungsverfahren.
 
 ## 6) BGH-/OLG-Linien
 
-- BGH, Beschl. v. 26.10.2020 — XIII ZB 26/19 (Präklusion)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - OLG Duesseldorf-Linie zur "unverzueglich"-Auslegung
 
 ## Anschluss
@@ -120,10 +120,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 ### Ergaenzende Leitsaetze Ruegeschriftsatz
 
-- BGH, Beschl. v. 03.07.2020 - X ZB 12/19, NJW 2020, 2880 Rn. 38 — Ruegeobliegenheit als Zulaessigkeitsvoraussetzung fuer Nachpruefungsantrag; Praeklusion bei verspäteter Ruege.
-- EuGH, Urt. v. 15.09.2022 - C-669/20, NZBau 2022, 722 — Nationales Ruegeerfordernis unionsrechtskonform wenn Frist angemessen ist.
-- OLG Dusseldorf, Beschl. v. 29.06.2022 - Verg 18/22, NZBau 2022, 511 — Ruege muss konkreten Verstoss benennen.
-- BGH, Beschl. v. 18.06.2019 - X ZB 4/19, NJW 2019, 3151 — 15-Tage-Frist Antrag nach Ruegerueckweisung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Output-Template Ruegeschriftsatz § 160 GWB
 **Adressat:** Vergabestelle [AUFTRAGGEBER] — Tonfall: sachlich-juristisch, fristsetzend

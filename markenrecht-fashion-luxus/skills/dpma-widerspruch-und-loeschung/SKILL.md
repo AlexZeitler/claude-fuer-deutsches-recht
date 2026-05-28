@@ -80,10 +80,8 @@ Ein ehemaliger Vertragshändler meldet "klotzkette" in Klasse 35 beim DPMA an �
 
 - Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, §§ 42/43/49/50 (jeweils vollständig)
 - Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, § 42 Rn. 1 ff.
-- BeckOK MarkenR, §§ 42/49/50 MarkenG Rn. 1 ff.
-- BGH, Beschl. v. 02.04.2015 — I ZB 2/14 (Sparkassen-Rot II) — Bekanntheit als Widerspruchsgrundlage
-- BGH, Beschl. v. 03.04.2008 — I ZB 46/05 (Metrosex) — Zeichenähnlichkeit
-- BGH, Beschl. v. 09.02.2012 — I ZB 100/10 (pjur/pure) — Verwechslungsgefahr klanglich
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Templates
 
@@ -138,8 +136,8 @@ Bevor der Widerspruch eingelegt wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Beschl. v. 06.07.2006 — I ZB 13/04 (BOSS-Club):** Im Widerspruchsverfahren bestimmt sich die Verwechslungsgefahr nach Identitaet oder Aehnlichkeit der Waren/Dienstleistungen, Aehnlichkeit der Zeichen und Kennzeichnungskraft der aelteren Marke; eine bekannte Marke geniesst erhoehten Schutz auch bei verringerter Warenaehnlichkeit.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Beschl. v. 29.07.2021 — I ZB 14/20 (MICRO COTTON):** Fuer den Benutzungsnachweis nach § 26 MarkenG genuegt keine symbolische Benutzung; ernsthafte wirtschaftliche Verwendung im relevanten Klassen-Segment ist nachzuweisen, wobei der Widerspruchsinhaber die Darlegungslast traegt.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **EuGH, Urt. v. 10.06.2010 — C-487/07 (L'Oreal / Bellure):** Benutzung einer bekannten Marke ohne sachlichen Grund, die die Unterscheidungskraft oder den Ruf der aelteren Marke beeintraechtige, ist nach Art. 9 I lit. c UMV unzulaessig, auch wenn keine Verwechslungsgefahr besteht.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

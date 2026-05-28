@@ -1,6 +1,6 @@
 ---
 name: pflichtenkollision-und-shift-of-fiduciary-duties
-description: "Shift of Fiduciary Duties in der Unternehmenskrise analysieren: GF prüft ob Pflichten nun Gläubigern gegenüber bestehen. Normen: EuGH C-594/14 Kornhaas (Gläubigerschutz EU), § 43 GmbHG, § 93 AktG. Prüfraster: Wandel vom Eigentuemer- zum Gläubiger-Interesse, COMI-Verlagerungs-Verbote, Pflichtenkollision und Lösungsstrategien. Output Pflichtenkollisions-Memo, Handlungsempfehlung in Krisensituation. Abgrenzung: GF-Haftung siehe gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg; Insolvenzantragspflicht siehe insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist."
+description: "Workflow-Skill zu pflichtenkollision und shift of fiduciary duties. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Pflichtenkollision und Shift of Fiduciary Duties in der Krise
@@ -17,9 +17,7 @@ Im Normalzustand schuldet der Geschäftsführer seine Loyalität den Gesellschaf
 - § 43 GmbHG (Sorgfaltspflicht GF)
 - § 93 AktG (Sorgfaltspflicht Vorstand)
 - § 19 Abs. 2 InsO (Fortführungsprognose bei Überschuldung)
-- EuGH C-594/14 Kornhaas (Anwendung deutschen Insolvenzrechts auf EU-Auslandsgesellschaften)
-- BGH II ZR 234/17 (Sorgfaltspflichten in der Krise)
-- BGH II ZR 88/99 vom 08.01.2001 (BGHZ 146, 264) (Zahlung nach Insolvenzreife als Haftungsauslöser)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EuInsVO Art. 3 Abs. 1 (COMI — Centre of Main Interests)
 
 ---
@@ -50,9 +48,9 @@ Der Pflichtenwandel vollzieht sich graduell, nicht schlagartig:
 
 Der "tipping point" liegt regelmäßig beim Eintritt der drohenden Zahlungsunfähigkeit nach § 18 InsO: Ab diesem Moment sind Maßnahmen, die ausschließlich dem Gesellschafterinteresse dienen (Gewinnausschüttung, riskante Investitionen), haftungsrechtlich gefährlich.
 
-### 3. EuGH C-594/14 Kornhaas — Europarecht bestätigt deutschen Ansatz
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Der EuGH hat in der Rechtssache Kornhaas (C-594/14, Urt. v. 10.12.2015) entschieden: § 64 S. 1 GmbHG a.F. (heute § 15b InsO) kann gegenüber dem Geschäftsführer einer englischen Limited, die ihren Sitz in Deutschland hatte, angewendet werden — ohne Verstoß gegen die Niederlassungsfreiheit (Art. 49, 54 AEUV). Damit ist klargestellt:
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 1. Das Recht des Niederlassungsstaates regelt die Haftung des Geschäftsführers nach Insolvenzreife.
 2. Eine Flucht in ausländische Gesellschaftsformen (Limited, S.à r.l.) schützt nicht vor dem deutschen Haftungsregime, wenn das operative Zentrum in Deutschland liegt.

@@ -82,9 +82,8 @@ Bewertung: [belastbar / eingeschränkt belastbar / nicht belastbar]
 ## Leitentscheidungen Elastizitaeten / Diversion Ratios
 
 - EK, Horizontal Merger Guidelines 2004 Rn. 22-29 — Diversion Ratios als Evidenz fuer Marktabgrenzung; hohe Diversion zwischen Produkten A und B indiziert gemeinsamen Markt.
-- EuGH, Urt. v. 10.07.2008 — C-413/06 P (Bertelsmann/Sony), Slg. 2008, I-4951 — Quantitative Marktanalyse; oekonomische Sachverstaendige; Beweiswuerdigung durch Gericht.
-- BGH, Beschl. v. 23.06.2020 — KVR 69/19, NZKart 2020, 557 — Oekonomische Methoden Marktabgrenzung; Diversion Ratios und UPP-Test als ergaenzende Instrumente.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bechtold/Bosch GWB § 18 Rn. 5-20 (Oekonomische Methoden Marktabgrenzung)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

@@ -38,12 +38,12 @@ Die Betriebswirtschaftliche Auswertung (BWA) ist das zentrale unterjaehrige Steu
 
 ### Leitentscheidungen und Verwaltungsanweisungen
 
-- BGH, Urt. v. 26.01.2017 - IX ZR 285/14, NJW 2017, 1611 — Hinweispflicht des StB bei Krisensignalen aus laufender Buchhaltung und BWA (stabile Leitentscheidung).
-- BFH-Rechtsprechung zur periodengerechten Zuordnung von Aufwand und Ertrag: massgeblich sind die allgemeinen Grundsaetze des § 252 HGB und die EStG-Periodenregelungen; konkrete BFH-Aktenzeichen zur Periodenabgrenzung in juris/beck-online unter den Suchbegriffen "Periodenabgrenzung Betriebsausgaben" abrufbar.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BFH-Rechtsprechung zur periodengerechten Zuordnung von Aufwand und Ertrag: massgeblich sind die allgemeinen Grundsaetze des § 252 HGB und die EStG-Periodenregelungen; konkrete BFH-Aktenzeichen zur Periodenabgrenzung in amtliche/freie Quellen oder lizenzierte Datenbanken unter den Suchbegriffen "Periodenabgrenzung Betriebsausgaben" abrufbar.
 - BMF-Schreiben zu GoBD: massgeblich ist das BMF-Schreiben v. 28.11.2019, BStBl I 2019, 1269; etwaige Aktualisierungen ueber juris/bundesfinanzministerium.de pruefen.
 - IDW PS 480 — Grundsaetze fuer die Erstellung von Jahresabschluessen (analog fuer hochwertige BWA-Erstellung).
 
-Aktenzeichen und Fundstellen vor Uebernahme in juris/beck-online gegenpruefen.
+Aktenzeichen und Fundstellen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken gegenpruefen.
 
 ## Workflow
 
@@ -123,6 +123,6 @@ Stand: 05/2026.
 - BMF-Schreiben zu GoBD (massgeblich: BMF v. 28.11.2019, BStBl I 2019, 1269; etwaige Folgeschreiben ueber juris/bundesfinanzministerium.de abrufen).
 - DATEV Standard-BWA Form 01.
 - StBerG §§ 1, 33, 57 Abs. 3.
-- Verifikations-Hinweis: Bei Reformen des Kontenrahmens (DATEV-Updates jaehrlich) Aktualisierung der BWA-Konfiguration pruefen. Aktenzeichen vor Mandantenversand in juris/beck-online gegenpruefen.
+- Verifikations-Hinweis: Bei Reformen des Kontenrahmens (DATEV-Updates jaehrlich) Aktualisierung der BWA-Konfiguration pruefen. Aktenzeichen vor Mandantenversand in amtliche/freie Quellen oder lizenzierte Datenbanken gegenpruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: 1 bestaetigt (GoBD-Fundstelle BMF 28.11.2019 bestaetigt), 4 ersetzt (Formulierungen ohne Marker neu gefasst) -->

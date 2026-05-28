@@ -62,9 +62,9 @@ Kläre vor der Pruefung:
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- EuGH, Urt. v. 29.03.2012 - C-565/08 (Kommission/Italien) — Zum Grundsatz der Nichtdiskriminierung bei handelsbezogenen Umweltmassnahmen; Massnahmen zur CO2-Bepreisung sind mit AEUV vereinbar, wenn sie nichtdiskriminierend ausgestaltet sind.
-- EuG, Urt. v. 08.09.2021 - T-525/19 — Zur Emissionshandels-Systemkonformitaet von CBAM; keine Verletzung von WTO-Grundsaetzen, wenn Drittlands-Karbonpreis angerechnet wird.
-- Bundesfinanzhof (fuer kuenftige Streitigkeiten): BFH, Urt. v. 14.11.2006 - VII R 19/05 — Analoge Anwendung zur Frage, wann CBAM-Zertifikatkosten als Einfuhrabgaben gelten (Pendenz, da CBAM ab 2026 erst Vollpflicht).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Kommission, Durchfuehrungsverordnung (EU) 2023/1773 — CBAM-Ubergangszeitraum-Berichte; Berichtsformat und Sanktionen bei Fehlern.
 
 ## Normen-Kette CBAM
@@ -75,11 +75,9 @@ Kläre vor der Pruefung:
 - § 3 BEHG — Brennstoffemissionshandelsgesetz als nat. Karbonpreis (anrechenbar)
 - Art. 30 AEUV, Art. 110 AEUV — Verbot gleichwirkender Abgaben und diskriminierender Besteuerung
 
-## Kommentarliteratur
+## Quellenregel
 
-- Frenz, Emissionshandel und CBAM, 2023 — aktuelles Werk
-- Europaeische Kommission, CBAM-Leitfaden fuer Importeure (aktuelle Fassung, taxation-customs.ec.europa.eu)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: CBAM-Berichtspruefung
 
 **Adressat:** Importeur / Nachhaltigkeitsbeauftragter — **Tonfall:** technisch-klimabezogen, normkonform

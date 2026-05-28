@@ -226,10 +226,7 @@ Verbindliche Zitierweise gemäß `../references/zitierweise.md`.
   niemals löschen.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- BGH, Urt. v. 15.07.2015 — XII ZB 288/15, NJW 2015, 2944 Rn. 18: Anwaltliche Verschwiegenheitspflicht (§ 43a Abs. 2 BRAO) gilt auch fuer digitale Mandatsdaten — Workspace-Trennung technisch erforderlich.
-- BVerfG, Beschl. v. 12.04.2005 — 2 BvR 1027/02, NJW 2005, 1917 Rn. 22: Beschlagnahmeschutz anwaltlicher Handakten und digitaler Aequivalente; Mandats-Workspace schutzt Mandantengeheimnis § 203 StGB.
-- BGH, Urt. v. 28.10.2014 — VI ZR 135/13, NJW 2015, 404 Rn. 18: Anwaltshaftung bei Interessenkonflikt ohne Konflikt-Check — Mandats-Workspace-Trennung als organisatorische Vorkehrung.
-- OLG Frankfurt, Urt. v. 22.06.2020 — 12 U 77/19, NJW-RR 2020, 1456 Rn. 14: Aktenstandard und digitale Dokumentationspflicht; mandatsbezogene Ausgaben muessen dem richtigen Mandat zugeordnet sein.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - § 43a Abs. 2 BRAO — Verschwiegenheitspflicht des Anwalts

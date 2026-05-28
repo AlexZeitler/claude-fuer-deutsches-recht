@@ -103,11 +103,9 @@ Welche Stufe ist plausibel? Bundesgesetz, Landesgesetz, Rechtsverordnung Bund, R
 
 Art. 76 Abs. 1 GG (Initiativrecht Bundesregierung, Bundestag, Bundesrat) — Art. 70-74 GG (Gesetzgebungskompetenz) — Art. 80 GG (Rechtsverordnung) — Art. 28 Abs. 2 GG (kommunale Selbstverwaltung) — GGO (ministerieller Regierungsweg) — GO-BT und Landtags-Geschäftsordnungen (parlamentarischer Weg) — Landesverfassungen und Verkündungsrecht
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schneider, Gesetzgebung, 3. Aufl. 2002, §§ 1-2 Rn. 1 ff. (Gesetzgebungsauftrag, Auftragsaufnahme-Systematik)
-- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020, § 4 Rn. 1 ff. (Normgebungsauftrag und -programme)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 Strukturiertes Auftragsblatt als Markdown, das durch alle weiteren Skills mitgeführt wird.

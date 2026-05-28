@@ -20,7 +20,7 @@ description: "Aktuelle Rechtsprechung zur elektronischen Signatur bei Befristung
 
 ### Linie 1: Eingescannte Unterschrift — unwirksam (LAG Berlin-Brandenburg)
 
-**LAG Berlin-Brandenburg, Urteil vom 16.03.2022 — 23 Sa 1133/21**:
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Eine lediglich auf das Vertragsdokument gescannte Unterschrift wahrt die Schriftform nach § 14 Abs. 4 TzBfG **nicht**.
 - Es handelt sich weder um eine eigenhändige Unterschrift im Sinne von § 126 BGB noch um eine qualifizierte elektronische Signatur im Sinne von § 126a BGB.
 - Folge: Befristung ist unwirksam, der Arbeitsvertrag gilt nach § 16 TzBfG als unbefristet.
@@ -35,7 +35,7 @@ description: "Aktuelle Rechtsprechung zur elektronischen Signatur bei Befristung
 
 ### Linie 3: Qualifizierte elektronische Signatur — wirksam (ArbG Gera)
 
-**ArbG Gera, Urteil vom 07.03.2024 — 2 Ca 936/23**:
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Eine über DocuSign eingesetzte qualifizierte elektronische Signatur (qES) erfüllt die Voraussetzungen des § 126a BGB.
 - Damit ist die Schriftform nach § 14 Abs. 4 TzBfG durch die elektronische Form ersetzt.
 - Die Befristungsabrede ist formwirksam.
@@ -46,11 +46,11 @@ description: "Aktuelle Rechtsprechung zur elektronischen Signatur bei Befristung
 | Signaturform | Wirksamkeit nach § 14 Abs. 4 TzBfG |
 |----|----|
 | Eigenhändige Unterschrift auf Papier (Original) | Wirksam (§ 126 BGB) |
-| Eingescannte Unterschrift / Foto der Unterschrift im PDF | **Unwirksam** (LAG Berlin-Brandenburg 23 Sa 1133/21) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Maus-Signatur / Touch-Signatur ohne qES-Zertifikat | **Unwirksam** (ArbG Berlin) |
 | Einfache E-Mail-Bestätigung "ich akzeptiere" | **Unwirksam** — nur Textform |
 | Fortgeschrittene elektronische Signatur (FES) ohne qES-Zertifikat | **Unwirksam** |
-| Qualifizierte elektronische Signatur (qES) — z. B. DocuSign mit qES-Zertifikat | **Wirksam** (ArbG Gera 2 Ca 936/23, in Linie mit § 126a BGB) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Prüfungsschema für die Praxis
 
@@ -91,7 +91,7 @@ Für **Kündigung** und **Aufhebungsvertrag** gilt § 623 BGB: Schriftform mit *
 
 | Vorgang | Form | qES möglich? |
 |----|----|----|
-| Befristungsabrede (§ 14 Abs. 4 TzBfG) | Schriftform | **Ja** (ArbG Gera 2 Ca 936/23) |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Kündigung des Arbeitsverhältnisses (§ 623 BGB) | Schriftform — elektronische Form ausgeschlossen | direkt nein; § 46h ArbGG im Prozess prüfen |
 | Aufhebungsvertrag (§ 623 BGB) | Schriftform — elektronische Form ausgeschlossen | direkt nein; § 46h ArbGG im Prozess prüfen |
 | Arbeitszeugnis (§ 109 GewO) | Schriftform — elektronische Form ausgeschlossen | **Nein** |
@@ -112,11 +112,11 @@ Wirksame Varianten:
 2. Qualifizierte elektronische Signatur (qES) beider Parteien
    über einen nach eIDAS-VO zertifizierten Anbieter
    (z. B. DocuSign mit qES-Zertifikat, bestätigt durch
-   ArbG Gera 07.03.2024 — 2 Ca 936/23)
+   Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 NICHT ausreichend (Befristung unwirksam, Vertrag unbefristet):
 - eingescannte Unterschrift im PDF
-  (LAG Berlin-Brandenburg 16.03.2022 — 23 Sa 1133/21)
+  Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - einfache elektronische Signatur ohne qES-Zertifikat
 - Maus- oder Touch-Signatur ohne Zertifikat
 - E-Mail-Bestätigung ohne qES
@@ -145,7 +145,7 @@ Prüfen Sie:
   Signatur?
 
 Wenn nur eingescannt oder einfach signiert:
-Die Befristung ist unwirksam (LAG Berlin-Brandenburg 23 Sa 1133/21
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 und ArbG Berlin). Ihr Vertrag gilt nach § 16 TzBfG als unbefristet.
 
 Achtung: Sie müssen binnen 3 Wochen nach dem vereinbarten
@@ -168,7 +168,7 @@ Befristungsende Klage erheben (§ 17 TzBfG — Entfristungsklage).
 
 ## Strategische Hinweise
 
-- **Arbeitgeberseite**: Im Zweifel Papier wählen — qES ist zwar möglich, aber bei jedem Zertifikatsanbieter neu zu prüfen. ArbG Gera 07.03.2024 — 2 Ca 936/23 ist Instanzrechtsprechung; LAG- oder BAG-Linie steht noch aus.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Arbeitnehmerseite**: Bei elektronischer Befristung sehr genau prüfen, ob es eine echte qES war oder nur eine einfache elektronische Signatur. Im Zweifel Entfristungsklage erwägen.
 - **Mischformen**: Wenn ein Vertrag teilweise eigenhändig (Arbeitgeber) und teilweise qES (Arbeitnehmer) unterzeichnet wurde, ist die Lage unklar. § 126a Abs. 2 BGB verlangt grundsätzlich elektronische Form für beide Seiten. Saubere Lösung: einheitliche Form.
 - **Kündigung nicht direkt elektronisch**: § 623 BGB schließt die elektronische Form ausdrücklich aus. qES-DocuSign-Kündigungen, E-Mails und beA-Nachrichten außerhalb einer gesetzlichen Formfiktion sind kein sicherer Kündigungsweg.

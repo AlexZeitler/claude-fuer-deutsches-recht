@@ -28,19 +28,11 @@ description: "Planfeststellung für Strassenbau, Schienenstrecken und OEPNV-Infr
 
 ## Aktuelle Rechtsprechung
 
-- BVerwG, Urt. v. 07.07.2022 - 9 A 1.21, NVwZ 2023, 246 — Planfeststellungsbeschluss ist rechtmaessig wenn alle oeffentlichen und privaten Belange in der Abwaegung beruecksichtigt wurden; fehlerhafte Abwaegung fuehrt zur Aufhebung, nicht zur Nichtigkeit.
-- BVerwG, Urt. v. 28.09.2021 - 9 A 11.19, NVwZ 2022, 558 — Praeklusion nach § 73 Abs. 4 Satz 3 VwVfG gilt nur fuer nicht fristgerecht vorgetragene Einwendungen; spaetere Aenderungen des Plans eeroeffnen neue Einwendungsmoeglichkeit.
-- BVerwG, Urt. v. 16.03.2021 - 4 A 10.19, NVwZ 2022, 88 — Klagebefugnis nach § 42 Abs. 2 VwGO setzt voraus, dass die moegliche Verletzung eines eigentuemlichen Rechts (Eigentumsrecht § 14 GG, Raumordnungsplan) dargelegt wird.
-- BVerfG, Beschl. v. 17.12.2013 - 1 BvR 3139/08, NVwZ 2014, 584 — Art. 14 GG schuetzt den Eigentuemer vor enteignungsgleichen Beeintraechtigungen durch Planfeststellungsbeschluesse; entschaedigungslose Duldungspflicht nur bei verhältnismäßigem Eingriff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Kopp/Ramsauer VwVfG § 73 Rn. 1-50 (Planfeststellungsverfahren)
-- Kopp/Ramsauer VwVfG § 74 Rn. 1-30 (Planfeststellungsbeschluss)
-- Kopp/Schenke VwGO § 42 Rn. 1-70 (Klagebefugnis)
-- Maurer/Waldhoff, Allgemeines Verwaltungsrecht § 16 (Planfeststellung)
-- Stelkens/Bonk/Sachs VwVfG § 73 Rn. 1-80
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 

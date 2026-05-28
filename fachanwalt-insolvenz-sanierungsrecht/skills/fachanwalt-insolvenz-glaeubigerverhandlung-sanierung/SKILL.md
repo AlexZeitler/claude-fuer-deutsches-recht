@@ -129,20 +129,15 @@ Bevor losgelegt wird, klaere:
 
 ## Aktuelle Leitentscheidungen
 
-- BGH, Urt. v. 04.05.2017 — IX ZR 285/16, NZI 2017, 617 — Sanierungsprivileg § 39 Abs. 4 InsO Gesellschafterdarlehen: gilt nur fuer frisches Kapital mit konkreter externer Sanierungschance; Sanierungskonzept IDW S 6 Qualitaet erforderlich; gestuetztes Darlehen bei Krisenbeitritt nachrangig.
-- BGH, Urt. v. 12.01.2017 — IX ZR 130/16, NZI 2017, 385 — Stillhalte-Vereinbarung und Anfechtung: Stundungsvereinbarung durch Glaeubiger waehrend Insolvenzreife = Kenntnis der Zahlungsunfaehigkeit; spaetere Ratenzahlungen nach § 130 InsO anfechtbar.
-- BGH, Urt. v. 06.05.2021 — IX ZR 72/20, NZI 2021, 631 — Vorsatzanfechtung § 133 InsO: Sanierungsvergleich mit Teilzahlung bei echter Sanierungschance schluiesst Benachteiligungsvorsatz aus wenn Sanierungskonzept ex ante schlueissig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Glaeubigerverhandlung
 
 § 18 InsO (drohende ZU) → § 31 StaRUG (Anzeige) → §§ 7-39 StaRUG (Plan) → § 25 StaRUG (Mehrheiten) → § 26 StaRUG (Cramdown) → § 39 Abs. 4 InsO (Sanierungsprivileg) → § 142 InsO (Bargeschaeft) → § 133 InsO (Vorsatzanfechtung) → § 165 SGB III (Insolvenzgeld)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Braun/Herzig, StaRUG, 1. Aufl. 2021, Beck — Plan-Mehrheiten und Cramdown §§ 25-27 StaRUG.
-- MüKo InsO/Kirchhof §§ 129-147 InsO Rn. 1 ff. — Anfechtungsrisiken bei Sanierungsvergleichen.
-- Uhlenbruck/Sinz § 39 InsO Rn. 50-80 — Sanierungsprivileg Gesellschafterdarlehen.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Workflow — 5-Phasen-Glaeubigerverhandlung
 
 1. **Lageanalyse:** Liquiditaetsstatus 3-Wochen und 13-Wochen-Forecast; Fortbestehensprognose § 19 Abs. 2 InsO; IDW S 6 beauftragen wenn Sanierung ernsthaft.

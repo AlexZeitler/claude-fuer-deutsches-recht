@@ -109,11 +109,11 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `arbeitsrecht-mandat-arbeitsbereich` | Mandatsakten verwalten – neu anlegen, auflisten, wechseln, schließen oder vom aktiven Mandat trennen. Verhindert, dass Kontext von einem Mandat in ein anderes übergeht. Relevant für Kanzleien mit mehreren Mandanten;… |
 | `aufhebungsvertrag` | Begleitet Entwurf, Prüfung und Verhandlung eines Aufhebungsvertrags. Lädt, wenn ein Arbeitsverhältnis einvernehmlich beendet werden soll – mit Fokus auf Schriftform (§ 623 BGB), Sperrzeit nach § 159 SGB III, Abfindung,… |
 | `aufhebungsvertrag-sperrzeit-prognose` | Mandant hat Aufhebungsvertrag erhalten und fragt ob er Sperrzeit beim Arbeitslosengeld riskiert. Prüfraster wichtiger Grund § 159 SGB III Selbst-Kündigungsaequivalenz. Faustformel Abfindungsschutz 0.25 bis 0.5… |
-| `bag-equal-pay-paarvergleich-8azr30024` | BAG 23.10.2025 8 AZR 300/24 Equal Pay durch Paarvergleich. Eine Arbeitnehmerin muss keine ganze Vergleichsgruppe statistisch auswerten. Ein einziger besser bezahlter maennlicher Kollege bei gleicher oder gleichwertiger… |
-| `bag-freistellungsklausel-unwirksam-5azr10825` | BAG 25.03.2026 5 AZR 108/25 pauschale Freistellungsklausel nach Kündigung unwirksam. Eine formularmäßige Klausel die Arbeitgeber nach Ausspruch einer Kündigung einseitig zur Freistellung unter Fortzahlung berechtigt… |
-| `bag-mindesturlaub-kein-verzicht-9azr10424` | BAG 03.06.2025 9 AZR 104/24 kein Verzicht auf gesetzlichen Mindesturlaub. Im bestehenden Arbeitsverhältnis koennen Arbeitnehmer auf den gesetzlichen Mindesturlaub nicht wirksam verzichten. Auch nicht durch… |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 | `betriebsrat-anhoerung` | Prüft und dokumentiert die ordnungsgemäße Anhörung des Betriebsrats vor Kündigungen nach § 102 BetrVG. Lädt, wenn die Wirksamkeit einer BR-Anhörung (Inhalt, Fristen, Reaktion des BR) beurteilt oder ein… |
-| `betriebsrat-beschluss-heilung-nachtraeglich` | Heilung eines unwirksamen Betriebsratsbeschlusses durch nachträgliche ordnungsgemäße Beschlussfassung. BAG 25.09.2024 — 7 ABR 37/23: Genehmigung wirkt rückwirkend nach § 184 Abs. 1 BGB; Heilung der Anwaltsbeauftragung… |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 | `betriebsrat-ladung-und-ersatzmitglieder-pruefen` | Prüfung der ordnungsgemäßen Ladung und Besetzung einer Betriebsratssitzung nach § 29 Abs. 2 BetrVG und § 25 Abs. 2 BetrVG. Wer war geladen, wer war verhindert, wer ist nachgerückt, hat das richtige Ersatzmitglied… |
 | `betriebsuebergang-613a-pruefen` | Unternehmen wird verkauft oder Betrieb geht auf neuen Inhaber über und Arbeitnehmer fragen nach Rechten oder Kündigungsschutz. Prüfraster Identitätswahrung wirtschaftliche Einheit EuGH-Suezen-Kriterien § 613a BGB.… |
 | `einstellungspruefung` | Prüfung von Arbeitsvertrag und Befristung bei Neueinstellungen: TzBfG (Sachgrund, Vorbeschaeftigungsverbot), AGG (diskriminierungsfreie Ausschreibung), AUeG (Abgrenzung Arbeitnehmerüberlassung), Nachweisgesetz sowie… |
@@ -172,7 +172,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `lohnsteuer-sozialversicherung` | Beurteilt den sozialversicherungsrechtlichen Status (Scheinselbständigkeit, § 7a SGB IV) und lohnsteuerliche Fragen im Arbeitsverhältnis. Lädt, wenn ein Statusfeststellungsverfahren, Scheinselbständigkeit,… |
 | `mandat-triage-arbeitsrecht` | Eingangs-Abfrage für arbeitsrechtliche Mandate — Mandant fragt nach Kündigung Aufhebungsvertrag Abmahnung Lohn Urlaub Befristung Betriebsuebergang Diskriminierung oder Betriebsrats-Streit. Klaert Mandantenrolle… |
 | `massenentlassung-17-kschg` | Arbeitgeber plant Entlassung mehrerer Arbeitnehmer und fragt ob Massenentlassungsanzeige erforderlich ist oder Gewerkschaft und Betriebsrat anfechten. Prüfraster § 17 KSchG Schwellenwerte abhaengig von Betriebsgroesse.… |
-| `mindestlohn-arbeitszeit-erfassung` | Arbeitnehmer klagt auf Mindestlohn oder Überstunden und Arbeitgeber hat keine Arbeitszeitdokumentation. Prüfraster EuGH C-55/18 CCOO BAG 1 ABR 22/21 Pflicht zur Zeiterfassung nach § 3 Abs. 2 Nr. 1 ArbSchG. Mindestlohn… |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | `richtlinien-entwurf` | Entwirft eine betriebliche Regelung (Richtlinie, Betriebsordnung, Policy) mit standortspezifischen Ergänzungen, wo das Recht oder Tarifverträge abweichende Regeln erfordern. Prüft Mitbestimmungsrechte des Betriebsrats… |
 | `untersuchung-abfrage` | Beantwortet Fragen gegen ein laufendes Untersuchungsprotokoll — was Zeugen gesagt haben, wo Schilderungen im Widerspruch stehen, welche Lücken bestehen, was die stärksten Belege zu jeder Frage sind. Lädt, wenn der… |
 | `untersuchung-ergaenzen` | Fügt einer laufenden internen Untersuchung neue Daten hinzu — Dokumente, Befragungsnotizen oder Beobachtungen. Verarbeitet Dokumentenpakete anhand dokumentierter Auswahlkriterien, markiert relevante Funde und… |
@@ -301,7 +301,7 @@ Das Plugin richtet sich an Kanzleien und Syndikusrechtsanwaelte, die sowohl Arbe
 
 **Lohn, Arbeitszeit und sonstige Themen**
 - `lohn-arbeitszeit-fragen` — ArbZG, MiLoG, EFZG, Tarifvertraege: standortbezogene Lohn- und Arbeitszeitfragen.
-- `mindestlohn-arbeitszeit-erfassung` — Mindestlohn und Pflicht zur Arbeitszeiterfassung (EuGH C-55/18, BAG 1 ABR 22/21).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - `lohnsteuer-sozialversicherung` — Sozialversicherungsrechtlicher Status und lohnsteuerliche Fragen.
 - `fehlzeit-erfassen` — Neue Abwesenheit im Register anlegen: BUrlG, EFZG, MuSchG, BEEG.
 - `fehlzeiten-register` — Offene Abwesenheiten und Fristen ueberpruefen.
@@ -338,7 +338,7 @@ Das Plugin richtet sich an Kanzleien und Syndikusrechtsanwaelte, die sowohl Arbe
 - Betriebsratsanhoerung nach Ausspruch der Kuendigung nachgeholt: Die Anhoerung muss vor der Kuendigung abgeschlossen sein; nachtraegliche Heilung ist ausgeschlossen.
 - Aufhebungsvertrag ohne Schriftformkontrolle: § 623 BGB verlangt Schriftform und schliesst elektronische Form aus; muendlich, per E-Mail oder per QES geschlossene Aufhebungsvertraege sind nichtig.
 - AGG-Fristen versaeumt: Entschaedigungsanspruch nach § 15 Abs. 4 AGG verfaellt in zwei Monaten ab Benachteiligung; Frist wird selten beachtet.
-- Massenentlassungsanzeige nach der Kuendigung gestellt: EuGH Junk C-188/03 verlangt die Anzeige vor Ausspruch der Kuendigung; Verstoss macht alle Kuendigungen unwirksam.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Querverweise
 
@@ -351,7 +351,7 @@ Das Plugin richtet sich an Kanzleien und Syndikusrechtsanwaelte, die sowohl Arbe
 
 - Stand: 05/2026
 - KSchG, TzBfG, BetrVG, BUrlG, EFZG, MuSchG, BEEG, SGB III, AGG, HinSchG in geltender Fassung
-- BAG 23.10.2025 — 8 AZR 300/24 (Equal Pay Paarvergleich)
-- BAG 25.03.2026 — 5 AZR 108/25 (Freistellungsklausel unwirksam)
-- BAG 03.06.2025 — 9 AZR 104/24 (kein Verzicht auf Mindesturlaub)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Mindestlohn: 12.82 EUR ab 01.01.2025; 13.90 EUR ab 01.01.2026

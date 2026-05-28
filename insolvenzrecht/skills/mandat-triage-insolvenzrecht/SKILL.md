@@ -148,12 +148,10 @@ Insolvenz-Mandate sind hochzeitkritisch — die Drei-Wochen-Frist § 15a InsO is
 - StGB §§ 283 ff.
 - SGB III § 165
 - BGH IX. Zivilsenat
-- Uhlenbruck InsO
-- MüKo InsO
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 
 ## Weitere Leitentscheidungen — Mandats-Triage
 
-- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Fortbestehensprognose in der Triage: erste Frage bei jedem Mandat ob Ueberschuldung vorliegt (zweistufig); positive Prognose heilt; negative Prognose loest Antragspflicht aus.
-- BGH, Urt. v. 24.05.2005 — IX ZR 123/04, BGHZ 163, 134 — ZU-Schnellcheck in Triage: 10%-Luecken-Test; Zahlungsstockung 3-Wochen-Fenster; rasches Screening ermoeglichen.
-- BGH, Urt. v. 06.05.2021 — IX ZR 72/20, NZI 2021, 631 — Mandats-Triage Anfechtungsrisiko: fruehere Anwaltstatigkeit des Mandatsanwalts in der Krise kann selbst Anfechtung ausloesen wenn Zahlungen an Kanzlei in letzten 3 Jahren; Konflikt-Check zwingend.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

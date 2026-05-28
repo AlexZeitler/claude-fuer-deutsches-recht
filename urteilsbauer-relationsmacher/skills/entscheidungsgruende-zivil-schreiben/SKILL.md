@@ -17,9 +17,7 @@ Im Urteilsstil (nicht im Gutachtenstil). Reihenfolge: Ergebnis - Begründung.
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 04.07.2017 - XI ZR 562/15, NJW 2017, 2986 — Entscheidungsgründe müssen die tatsächlichen und rechtlichen Grundlagen der Entscheidung nachvollziehbar darlegen; pauschalisierende Formulierungen verletzen das Begründungsgebot.
-- BGH, Urt. v. 16.01.2020 - III ZR 23/19, NJW 2020, 1069 — Anspruchskonkurrenz zwischen vertraglichem und deliktischem Schadensersatz: jeder Anspruch eigenständig prüfen; günstigerer für Kläger anwenden.
-- BVerfG, Beschl. v. 19.01.2021 - 1 BvR 2681/19, NJW 2021, 1431 — Art. 103 Abs. 1 GG: Gericht muss wesentliche Klagebegründung im Tatbestand und Entscheidungsgründen berücksichtigen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -31,12 +29,9 @@ Im Urteilsstil (nicht im Gutachtenstil). Reihenfolge: Ergebnis - Begründung.
 - § 91, 92 ZPO — Kosten
 - § 708, 709 ZPO — vorläufige Vollstreckbarkeit
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller/Heßler, ZPO, 35. Aufl. 2024, § 313 Rn. 20-40 (Entscheidungsgründe Anforderungen)
-- Thomas/Putzo, ZPO, 45. Aufl. 2024, § 286 Rn. 1-25 (Beweiswürdigung in Entscheidungsgründen)
-- Grüneberg, BGB, 83. Aufl. 2024, § 288 Rn. 1-15 (Verzugszinsen Berechnung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Obersatz:** "Die Klage ist [zulässig und] begründet / [zulässig, aber] unbegründet / teilweise begründet."

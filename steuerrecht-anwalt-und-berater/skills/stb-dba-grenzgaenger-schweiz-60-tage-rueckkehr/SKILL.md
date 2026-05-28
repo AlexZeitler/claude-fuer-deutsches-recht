@@ -29,8 +29,7 @@ Die Grenzgaengerregelung Art. 15a DBA-Schweiz (eingefuehrt durch Aenderungsproto
 - **Konsultationsvereinbarung Home-Office Deutschland-Schweiz** vom 11.06.2020 und Folgevereinbarungen — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 
 ### Leitentscheidungen und BMF-Schreiben
-- Aktuelle BFH-Rechtsprechung zur 60-Tage-Schaedlichkeit (vgl. BFH I R 32/19, Urteil 01.06.2022) in juris abrufen.
-- BFH I R 22/16 zu Krankheits- und Reisezeiten beim Grenzgaenger — aktuellen Fundstellennachweis in juris pruefen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BMF-Schreiben zu Grenzgaengern Schweiz (regelmaessig aktualisiert) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 - Konsultationsvereinbarung Home-Office — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 

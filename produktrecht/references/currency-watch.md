@@ -39,11 +39,9 @@ Das Produktsicherheits- und Produkthaftungsrecht wandelt sich insbesondere durch
 
 | Entscheidung | Relevanz |
 |---|---|
-| BGH, Urt. v. 16.6.2009, VI ZR 107/08 (Airbag) | Produzentenhaftung, Instruktionsfehler |
-| BGH, Urt. v. 9.11.2021, VI ZR 38/20 (Dieselabgase II) | Hersteller-Deliktsrecht, § 826 BGB |
-| BGH, Urt. v. 25.9.2018, VI ZR 316/17 (Produktregress) | Innenausgleich im Produkthaftungsverbund |
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Für aktuelle BGH-Entscheidungen prüfen Sie [BGH Rechtsprechungsdatenbank](https://www.bundesgerichtshof.de) sowie die Zeitschrift GRUR (gewerblicher Rechtsschutz und Urheberrecht) für produktbezogene Wettbewerbsfragen.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Behördliche Quellen — Prüfpflichten
 

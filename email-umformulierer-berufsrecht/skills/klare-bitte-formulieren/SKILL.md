@@ -15,10 +15,7 @@ Dieser Skill wandelt fordernde, vorwurfsvolle oder unklare Handlungsaufforderung
 4. Ist die Bitte Teil einer Mahnung (beachte § 286 BGB Mahnungswirkung) oder reine organisatorische Anforderung?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 25.01.2007 - III ZR 4/06, NJW 2007, 1584 — Unterschied zwischen bloss hoeflicher Bitte und rechtswirksamer Mahnung nach § 286 BGB; erstere genügt nicht fuer Verzugseintritt.
-- BGH, Urt. v. 11.11.2008 - VIII ZR 265/07, NJW 2009, 197 — Klare und praezise Fristsetzung als Wirksamkeitsvoraussetzung der Mahnung; unbestimmte Bitten wie "bald" oder "zeitnah" setzen keine Frist.
-- BAG, Urt. v. 27.05.2014 - 3 AZR 635/12, NZA 2015, 162 — Klare Handlungsaufforderungen in Korrespondenz mit Verbraucher/Arbeitnehmer muessen Gegenstand und Frist eindeutig benennen.
-- OLG Muenchen, Urt. v. 20.10.2016 - 3 U 1718/16 — Forderungsschreiben ohne konkrete Fristangabe setzt keinen Verzug gemaess § 286 Abs. 1 BGB; nachtraeglich benannte Frist zaehlt ab Zugang.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 286 BGB — Verzug: Mahnungserfordernis; klare Bitte mit Frist loest Verzug aus
@@ -26,10 +23,9 @@ Dieser Skill wandelt fordernde, vorwurfsvolle oder unklare Handlungsaufforderung
 - § 43a Abs. 3 BRAO — Sachlichkeitsgebot bei anwaltlichen Aufforderungsschreiben
 - § 315 BGB — Bestimmungsrecht bei Fristsetzung: Frist muss billigem Ermessen entsprechen
 
-## Kommentarliteratur
-- Grüneberg/Grüneberg BGB § 286 Rn. 10-30 (Mahnung: Form, Inhalt, Wirkung)
-- MüKoBGB/Ernst § 286 Rn. 40-70 (Fristsetzung als qualifizierte Mahnung)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Anatomie einer guten Bitte
 
 Eine wirksame Bitte enthält folgende Elemente: (1) klare Beschreibung des Gewünschten (Was soll getan werden?), (2) Frist oder Zeitrahmen (Bis wann?), (3) Adressat oder Zuständigkeit (Von wem?), (4) ggf. Begründung (Warum?), (5) optionaler Ausblick auf Folgeschritte. Beispiel: "Ich darf Sie bitten, mir die Originalrechnung vom TT.MM.JJJJ bis TT.MM.JJJJ zu übersenden, da ich diese für die Einreichung bei Gericht benötige."

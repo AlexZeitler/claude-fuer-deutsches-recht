@@ -65,4 +65,4 @@ Jede Frist führt `confidence`- und `verifizierung_erforderlich`-Felder. Der Ber
 - **Arbeitsgericht:** § 61b ArbGG (Kündigungsschutzklage: 3 Wochen), §§ 64, 66 ArbGG (Berufung)
 - **Berechnung:** §§ 186–193 BGB (Fristenberechnung), § 222 ZPO
 - **Zustellung:** §§ 166 ff. ZPO, beA-Verordnung (BRAV)
-- **Wiedereinsetzung:** BGH, Beschl. v. 27.09.2022 – VI ZB 67/21, NJW-RR 2022, 1571 (Anforderungen an anwaltliche Fristenkontrolle)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

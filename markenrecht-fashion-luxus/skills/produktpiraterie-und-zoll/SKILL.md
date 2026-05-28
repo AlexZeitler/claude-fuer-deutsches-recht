@@ -84,15 +84,14 @@ Zoll Hamburg beschlagnahmt Container mit 4.000 gefälschten klôtzzkètté-Handt
 Zollamt Frankfurt-Flughafen beschlagnahmt täglich 2-5 Päckchen mit Einzel-Fälschungen (Direktkauf aus China durch Endverbraucher). AWA deckt auch diese Kleinstsendungen ab. Vereinfachtes Vernichtungsverfahren. Kein Klagen gegen Endverbraucher (Ressourcen-Frage, Reputationsrisiko).
 
 ### Konstellation 3: Freie Zone / Transitware
-Ware transitiert durch EU ohne Einfuhr — technisch kein Verstoß gegen EU-Markenrecht? Nach EuGH C-446/09 (Philips/Nokia) und VO 608/2013 Art. 1 II: Auch Transitware ist beschlagnahmefähig, wenn hinreichende Anhaltspunkte vorliegen, dass sie in den EU-Markt gelangen soll.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Belege & Kommentare
 
 - VO (EU) 608/2013 des Europäischen Parlaments und des Rates v. 12.06.2013
-- BeckOK MarkenR, § 14 MarkenG Rn. 800 ff. (Zollrecht, Grenzbeschlagnahme)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, § 14 Rn. 600 ff.
-- EuGH, Urt. v. 01.12.2011 — C-446/09 (Philips/Nokia) — Transitsendungen, Grenzbeschlagnahme
-- EuGH, Urt. v. 12.07.2011 — C-324/09 (L'Oréal/eBay) — Online-Plattform und Zollansprüche
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EUIPO, Anti-Counterfeiting-Leitfaden für Rechteinhaber, 2024
 
 ## Templates
@@ -132,7 +131,7 @@ beantragt. Der Importeur wurde von uns unterrichtet.
 
 - **3-Werktage-Frist:** Zoll informiert, klôtzzkètté hat 3 Werktage — Notfall-Kontakt 24/7 muss beim Zoll hinterlegt sein
 - **Lagerkosten trägt Rechteinhaber:** Bei großen Containern entstehen erhebliche Lagergebühren — schnelle Entscheidung über Vernichtung/Klage nötig
-- **Transitware-Unsicherheit:** Nach EuGH C-446/09 ist Transitware beschlagnahmefähig, aber nicht jedes Gericht folgt dieser Linie konsequent
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Falsche Beschlagnahme:** Bei Irrtum über Verletzung haftet klôtzzkètté für Schäden des Importeurs (Art. 28 VO 608/2013) — gründliche Prüfung jeder Beschlagnahme
 
 ## Triage-Fragen bei Produktpiraterie
@@ -145,9 +144,9 @@ Bevor der AWA-Antrag oder die Vernichtung veranlasst wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 11.06.2015 — I ZR 19/14 (Goldbaerenbarren):** Wer Waren vertreibt, ohne sich ueber die Herkunft zu informieren, handelt schuldhaft im Sinne von § 14 VI MarkenG; der Importeur von Fälschungen kann sich nicht mit Unkenntnis von der Verletzung entschuldigen, wenn er keine Sorgfaltspruefung vorgenommen hat.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **EuGH, Urt. v. 01.12.2011 — C-446/09 (Philips / Nokia):** Die Zolldurchsetzungs-VO (damals 1383/2003) erlaubt den Mitgliedstaaten, Waren aus Drittlaendern auch bei Transit durch die EU zu beschlagnahmen, wenn eine reale Gefahr der Markteinleitung in der EU besteht; die Beweislast liegt beim Rechteinhaber.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 
 ## Output-Template: AWA-Verlängerungs-Checkliste

@@ -11,7 +11,7 @@ description: "Rechtsfolge unwirksamer Befristung nach § 16 Satz 1 TzBfG: Vertra
 2. Oder wird die Unwirksamkeit noch streitig festgestellt (läuft Klage)?
 3. Wurde der Arbeitnehmer nach dem vereinbarten Ende weiterbeschäftigt?
 4. Hat der Arbeitgeber zwischenzeitlich eine ordentliche Kündigung ausgesprochen?
-5. Liegt ein Weiterbeschäftigungsantrag vor (GS BAG 27.02.1985 – GS 1/84)?
+1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -24,17 +24,11 @@ description: "Rechtsfolge unwirksamer Befristung nach § 16 Satz 1 TzBfG: Vertra
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 23.01.2019 – 7 AZR 733/16, NZA 2019, 1042 — Die Rechtsfolge des § 16 Satz 1 TzBfG tritt ipso iure ein, wenn die Befristung unwirksam ist und die Klagefrist des § 17 TzBfG gewahrt wurde; das Gericht stellt nur deklaratorisch fest, was kraft Gesetzes bereits gilt.
-- BAG, Urt. v. 16.04.2008 – 7 AZR 1048/06, NZA 2008, 999 — § 16 Satz 2 TzBfG ist eine Schutzvorschrift für den Arbeitnehmer: Der Arbeitgeber kann nach Feststellung der Unwirksamkeit frühestens zum vereinbarten Befristungsende ordentlich kündigen; eine sofortige Kündigung wäre treuwidrig.
-- BAG, Urt. v. 19.05.2010 – 5 AZR 253/09, NZA 2010, 939 — Verweigert der Arbeitgeber die Weiterbeschäftigung nach Feststellung der Unbefristetheit, gerät er in Annahmeverzug (§ 615 BGB); der Arbeitnehmer muss sich anderweitigen Verdienst nach § 615 Satz 2 BGB anrechnen lassen.
-- BAG, GS, Beschl. v. 27.02.1985 – GS 1/84, BAGE 48, 122 — Der Weiterbeschäftigungsantrag ist begründet, wenn die Kündigung resp. das Befristungsende offensichtlich unwirksam ist; im Entfristungsverfahren nach rechtskräftiger Feststellung der Unbefristetheit besteht regelmäßig Anspruch auf Weiterbeschäftigung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Müller-Glöge, 25. Aufl. 2025, § 16 TzBfG Rn. 1 ff. (Rechtsfolge unwirksamer Befristung)
-- Schaub Arbeitsrechts-Handbuch, 20. Aufl. 2023, § 40 Rn. 70 ff. (§ 16 TzBfG Praxis)
-- HWK/Schmalenberg, 11. Aufl. 2024, § 16 TzBfG Rn. 1 ff.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt: Was folgt aus § 16 TzBfG?
 
 ### Schritt 1: Feststellung der Rechtsfolge

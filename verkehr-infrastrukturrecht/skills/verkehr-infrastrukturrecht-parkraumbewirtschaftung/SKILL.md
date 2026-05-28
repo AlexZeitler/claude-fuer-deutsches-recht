@@ -25,18 +25,12 @@ description: "Parkraumbewirtschaftung kommunalrechtlich gestalten und anfechten:
 
 ## Aktuelle Rechtsprechung
 
-- BVerwG, Urt. v. 29.01.2019 - 3 C 7.17, NVwZ 2019, 882 — Bewohnerparkausweis nach § 45 Abs. 1b Nr. 2a StVO setzt Nachweis des Hauptwohnsitzes im betroffenen Gebiet voraus; Zweitwohnungsinhaber kann ausgeschlossen werden.
-- OVG Berlin-Brandenburg, Urt. v. 18.12.2020 - OVG 1 B 4.20, NZV 2021, 374 — Anordnung eines Bewohnerparkgebiets benoetigt sachliche Begruendung (Parkraumnot); rein fiskalische Motivation ist rechtswidrig.
-- BVerwG, Urt. v. 14.09.2020 - 3 C 24.18, NJW 2021, 698 — Abschleppkosten koennen vom Halter des falsch parkenden Fahrzeugs verlangt werden; kein Uebernahme-Abzug wenn Polizei nicht erreichbar war.
-- OLG Frankfurt a.M., Urt. v. 14.01.2021 - 15 U 31/20, NJW-RR 2021, 412 — Privater Parkplatzbetreiber kann Vertragsstrafe fuer unbefugtes Parken verlangen wenn Tafel klar sichtbar und Betrag verhaeltnismaessig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Hentschel/Koenig/Dauer StVO § 45 Rn. 1-30 (Verkehrszeichen-Anordnungen)
-- Hentschel/Koenig/Dauer StVO § 12 Rn. 1-20 (Halteverbote)
-- Kopp/Ramsauer VwVfG § 49a Rn. 1-15 (Erstattungspflicht Sofortvollzug)
-- Maurer/Waldhoff Allgemeines Verwaltungsrecht § 21 (Sofortvollzug, Unmittelbarer Zwang)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow bei Abschleppung
 
 1. **Abschleppung vollzogen:** Datum, Ort, Fahrzeug, Einsatzkraefte dokumentieren.

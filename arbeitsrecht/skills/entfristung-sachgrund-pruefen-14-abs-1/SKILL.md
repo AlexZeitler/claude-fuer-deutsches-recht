@@ -23,24 +23,18 @@ description: "Sachgrundprüfung Befristung nach § 14 Abs. 1 TzBfG: acht Sachgr�
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 14.04.2010 – 7 AZR 121/09, NZA 2010, 1152 — Beim Sachgrund Vertretung (§ 14 Abs. 1 Nr. 3 TzBfG) muss der Arbeitgeber im Prozess konkret darlegen, welcher konkrete Arbeitnehmer vertreten wird und warum dessen Rückkehr erwartet werden konnte; pauschale Behauptungen einer "Urlaubsvertretung" reichen nicht.
-- BAG, Urt. v. 18.07.2012 – 7 AZR 443/09, NZA 2013, 161 — Dauerhafter Beschäftigungsbedarf auf einer Stelle widerlegt den Sachgrund "vorübergehender Bedarf" (§ 14 Abs. 1 Nr. 1 TzBfG); der Arbeitgeber muss darlegen, dass bei Vertragsschluss eine konkrete Prognose eines nur vorübergehenden Bedarfs bestand.
-- BAG, Urt. v. 02.06.2010 – 7 AZR 136/09, NZA 2010, 1248 — Der Sachgrund Erprobung (§ 14 Abs. 1 Nr. 5 TzBfG) trägt nur eine einmalige Erstbefristung von in der Regel maximal 6 Monaten; bei mehrjähriger vorheriger Tätigkeit entfällt der Erprobungszweck.
-- BAG, Urt. v. 04.12.2013 – 7 AZR 468/12, NZA 2014, 564 — Kettenbefristungen können auch bei Vorliegen von Sachgründen missbräuchlich sein; das Gericht prüft bei einer Vielzahl aufeinanderfolgender Befristungen eine institutionelle Rechtsmissbräuchlichkeit.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Müller-Glöge, 25. Aufl. 2025, § 14 TzBfG Rn. 30–75 (Sachgründe im Einzelnen)
-- Schaub Arbeitsrechts-Handbuch, 20. Aufl. 2023, § 38 Rn. 25 ff. (Sachgrundbefristung Praxis)
-- HWK/Schmalenberg, 11. Aufl. 2024, § 14 TzBfG Rn. 1 ff.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Die acht Sachgründe § 14 Abs. 1 TzBfG
 
 ### Nr. 1 — Vorübergehender Betriebsbedarf
 
 **Voraussetzung:** Der betriebliche Bedarf an der Arbeitsleistung ist nur vorübergehend (z.B. Saisonarbeit, zeitlich begrenztes Projekt).
 
-**Prüfung:** Kann der Arbeitgeber eine **konkrete Prognose** bei Vertragsschluss dartun, dass der Bedarf tatsächlich nur zeitlich begrenzt war? Wird nach Vertragsende dieselbe Stelle wieder besetzt, fehlt es an der Vorübergehenheit (BAG 7 AZR 443/09).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Entscheidungsbaum:**
 ```
@@ -57,7 +51,7 @@ Stelle nach Vertragsende wieder besetzt?
 
 **Voraussetzung:** Der Arbeitnehmer wird zur Vertretung eines anderen Arbeitnehmers beschäftigt (z.B. Elternzeitvertretung, Krankheitsvertretung).
 
-**Prüfung (BAG 7 AZR 121/09):** Konkret darlegen: Welcher Arbeitnehmer? Welche Verhinderung? Welche Rückkehrerwartung?
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Indirekter Vertretungsbedarf:** BAG erkennt auch indirekte Vertretung an (Mitarbeiter A vertritt B, C übernimmt Aufgaben von A), wenn kausal nachweisbar.
 
@@ -69,7 +63,7 @@ Stelle nach Vertragsende wieder besetzt?
 
 **Voraussetzung:** Befristung zur Erprobung des Arbeitnehmers.
 
-**Wichtig (BAG 7 AZR 136/09):** Nur als Erstbefristung am Beginn des Arbeitsverhältnisses; in der Regel max. 6 Monate; bei langjähriger Vorbeschäftigung entfällt der Erprobungszweck.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Nr. 6 — In der Person des Arbeitnehmers liegende Gründe
 
@@ -79,7 +73,7 @@ Stelle nach Vertragsende wieder besetzt?
 
 **Voraussetzung:** Arbeitnehmer wird aus Haushaltsmitteln vergütet, die haushaltsrechtlich für eine befristete Beschäftigung bestimmt sind.
 
-**Anwendungsbereich:** Vor allem öffentlicher Dienst. Wird streng geprüft (BVerfG, Beschl. v. 14.03.2012 – 1 BvR 1453/11).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Nr. 8 — Gerichtlicher Vergleich
 

@@ -95,7 +95,7 @@ Nicht jeder Anspruch gehört in die Tabelle. Erst klären, **welcher Forderungst
 
 - **ausdrücklich** unter Angabe des Tatbestands anmelden
 - Bedeutung: solche Forderungen sind von der **Restschuldbefreiung ausgeschlossen** (§ 302 Nr. 1 InsO) — Gläubiger kann nach Beendigung des Insolvenzverfahrens weiter vollstrecken
-- **wer ohne ausdrückliche Berufung auf den Vorsatz-Tatbestand anmeldet, verliert dieses Privileg** (Tabelle hat insoweit präjudizielle Wirkung — vgl. BGH IX ZR 178/03)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Beispiele Vorsatz-Forderungen:
 - Schadensersatz aus Betrug (§ 263 StGB), Untreue (§ 266 StGB), Unterschlagung (§ 246 StGB)
@@ -352,9 +352,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Strukturhilfe für Forderungsanmeldun
 
 ## Weitere Leitentscheidungen — Forderungsanmeldung
 
-- BGH, Urt. v. 25.01.2007 — IX ZR 120/04, NZI 2007, 281 — Bestreiten durch IV: begruendetes Bestreiten erforderlich; pauschales Bestreiten zur Verzoegerung unwirksam; IV haftet wenn Bestreiten ohne Grundlage.
-- BGH, Urt. v. 22.09.2005 — IX ZB 55/04 — Tabellenwirkung § 178 InsO: Eintragung in Tabelle hat Rechtskraft-Wirkung wie Urteil fuer den Betrag und Rang; Berichtigung nur durch Feststellungsklage § 183 InsO moeglich.
-- BGH, Urt. v. 27.01.2011 — IX ZR 196/10, NZI 2011, 229 — Nachtraegliche Forderungsanmeldung § 177 InsO: moeglich bis Schlussverteilung; Kosten des verspaeteten Prufungstermins traegt Spaet-Glaeubiger; kein Fristversaeumnis-Nachteil ausser Kosten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 

@@ -22,16 +22,14 @@ description: "Mandant muss einen Vertrag notar-beurkunden lassen (GmbH-Kauf Grun
 - § 311b Abs. 1 BGB (Grundstückskauf — Heilung)
 
 ## Rechtsprechung
-1. BGH, Urt. v. 17.02.2000 – IX ZR 32/99, NJW 2000, 1560 — Der Beurkundungsmangel bei der GmbH-Anteilsabtretung (§ 15 Abs. 4 GmbHG) ist nicht durch Erfüllung heilbar; eine Nachbeurkundung ist erforderlich.
-2. BGH, Urt. v. 07.02.1986 – V ZR 176/84, NJW 1986, 1167 — Beim Grundstückskauf tritt Heilung des Beurkundungsmangels nach § 311b Abs. 1 S. 2 BGB erst mit vollständiger Eintragung im Grundbuch ein; blosse Auflassung genügt nicht.
-3. BGH, Urt. v. 12.01.2001 – V ZR 468/99, NJW 2001, 1127 — Die notarielle Beurkundungspflicht nach § 1410 BGB für Eheverträge ist zwingend; ein privatschriftlicher Ehevertrag ist ohne Ausnahme nichtig.
-4. BGH, Urt. v. 29.11.2018 – III ZR 7/18, NJW 2019, 305 — Öffentliche Beglaubigung nach § 129 BGB bescheinigt nur die Echtheit der Unterschrift, nicht den Inhalt des Dokuments; für die Urkundsinhaltsbescheinigung ist notarielle Beurkundung erforderlich.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Grüneberg, BGB, 83. Aufl. 2024, § 128 Rn. 1 ff. (Notarielle Beurkundung).
-- MuKo-BGB/Einsele, 9. Aufl. 2023, § 128 Rn. 1 ff.
-- Schöner/Stöber, Grundbuchrecht, 16. Aufl. 2020, Rn. 100 ff. (Heilung Grundstückskauf).
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Rechtsgrundlagen
 
 - **§ 128 BGB** — Notarielle Beurkundung: gesetzlich angeordnete notarielle Beurkundung nach Beurkundungsgesetz (BeurkG)

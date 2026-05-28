@@ -16,10 +16,7 @@ Lesekompetenz oder hohem Barrierefreiheitsbedarf verständlich werden soll.
 4. Sollen Bilder oder Piktogramme eingesetzt werden (Hinweis auf Grafik-Ressourcen erforderlich)?
 
 ## Aktuelle Rechtsprechung
-- BVerfG, Beschl. v. 19.10.1993 - 1 BvR 567/89, BVerfGE 89, 214 — Selbstbestimmung setzt Verstaendlichkeit voraus; besondere Verstaendlichkeitspflicht bei schutzbeduerftigen Personengruppen.
-- EGMR, Urt. v. 21.02.1975 - 4451/70 (Golder vs. UK) — Zugang zum Recht setzt voraus, dass rechtliche Informationen tatsaechlich zugaenglich und verstehbar sind.
-- BVerwG, Urt. v. 21.09.2010 - 4 C 1.10, NVwZ 2011, 115 — Verstaendlichkeit von Behordendokumenten als Wirksamkeitsvoraussetzung von Fristen.
-- BGH, Urt. v. 15.11.2006 - VIII ZR 3/06, NJW 2007, 504 — Informationspflicht muss so erfuellt werden, dass auch Personen mit eingeschraenkter Lesekompetenz sie wahrnehmen koennen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 11 BGG — Anspruch auf barrierefreie Kommunikation gegenueber Behoerden
@@ -27,10 +24,9 @@ Lesekompetenz oder hohem Barrierefreiheitsbedarf verständlich werden soll.
 - § 12a BGG — Webzugaenglichkeitsgesetz: Anforderungen an oeffentliche digitale Dokumente
 - DIN EN ISO 9241-171 — Ergonomie der Mensch-System-Interaktion: Barrierefreiheit
 
-## Kommentarliteratur
-- Bredel/Maaß, Leichte Sprache, 2016, Teil III (Pruefprozesse und Qualitaetsstandards)
-- Kellner, Einfache Sprache im Recht, 2. Aufl. 2022, Kap. 4 (Leichte Sprache im Behoerdenkontext)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Leichte-Sprache-Fassung
 
 **Adressat:** Personen mit Leseschwierigkeiten / Barrierefreiheitsbedarf

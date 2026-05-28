@@ -30,7 +30,7 @@ Das DBA-Portugal vom 15.07.1980 (BGBl. 1982 II S. 129, in Kraft 08.10.1982) rege
 - **MLI**: Portugal hat das MLI am 28.02.2020 ratifiziert; Deutschland ebenfalls. Das DBA DE-PT ist jedoch bislang nicht im deutschen MLI-Anwendungsgesetz erfasst (Gesetzesentwurf zur Erweiterung vom 28.01.2026 in Vorbereitung) — DBA DE-PT gilt Stand 05/2026 nicht als MLI-modifiziert.
 
 ### Leitentscheidungen und BMF-Schreiben
-- BFH X R 1/24 (Urteil vom 03.09.2025) zur Subject-to-Tax-Klausel (§ 50d Abs. 9 EStG) bei DBA-Portugal-Renten — massgeblich fuer NHR-Konstellationen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Aktuelle BMF-Schreiben zum DBA-Portugal und zur NHR-Reform im BMF-Schreiben-Verzeichnis abrufen.
 
 ## Land-spezifisches
@@ -77,7 +77,7 @@ Das DBA-Portugal vom 15.07.1980 (BGBl. 1982 II S. 129, in Kraft 08.10.1982) rege
 
 ## Strategie und Praxis-Tipps
 
-- NHR-Status: deutsches FA pruegt mit § 50d Abs. 9 EStG (Rueckfallklausel) bei Pension, die in PT durch NHR nicht besteuert wird — Doppelbefreiung verhindert (BFH X R 1/24).
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - NHR-Programm seit 2024 weitgehend beendet — Bestandsschutz; Neuzugaenge nur in Sonderfaellen (IFICI).
 - Madeira-Holding: spezifischer Substanztest, da Madeira International Business Center privilegiert.
 - Pensionsbesteuerung bei Wohnsitz Algarve: Anrechnungsmethode in DBA-Portugal — Anrechnungslimit kann zu hoeherer Belastung fuehren als bei DBA mit Freistellung.
@@ -89,6 +89,6 @@ Das DBA-Portugal vom 15.07.1980 (BGBl. 1982 II S. 129, in Kraft 08.10.1982) rege
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Portugal 15.07.1980, in Kraft 08.10.1982 (BGBl. 1982 II S. 129). NHR-Reform 2024 (IFICI-Nachfolgeregime). DBA DE-PT Stand 05/2026 nicht MLI-modifiziert. Subject-to-Tax: BFH X R 1/24 (03.09.2025).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 11 Marker aufgeloest: 4 geprueft (Fundstelle/Datum bestaetigt), 7 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->

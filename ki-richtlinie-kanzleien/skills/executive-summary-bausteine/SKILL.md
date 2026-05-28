@@ -71,10 +71,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 Die Eckpunkte sind zu überarbeiten, wenn neue BRAK-Hinweise oder DAV-Stellungnahmen veröffentlicht werden oder wenn die KI-VO durch Durchführungsrechtsakte konkretisiert wird. Auch neue Gerichtsentscheidungen zur Haftung bei KI-Nutzung können eine Anpassung erforderlich machen.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- BGH, Urt. v. 26.09.2019 — AnwSt (R) 1/21, NJW 2021, 2883 Rn. 15: Verschwiegenheitspflicht als Kern des Berufsrechts — Executive Summary muss Mandantengeheimnis als oberste Prioritaet klar vermitteln.
-- OLG Koblenz, Urt. v. 16.06.2023 — 6 U 1292/22, NJW-RR 2023, 1105 Rn. 22: Haftungsrisiko bei unkritischer Verwendung von KI-Ausgaben — Executive Summary muss Pruefpflicht als Non-Negotiable klar stellen.
-- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 87: Kein Privat-Account-Einsatz ohne DSGVO-Sicherheitsnetz — Executive Summary muss das klar kommunizieren.
-- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - § 43a Abs. 2 BRAO — Verschwiegenheit (Kern jedes Executive Summary)

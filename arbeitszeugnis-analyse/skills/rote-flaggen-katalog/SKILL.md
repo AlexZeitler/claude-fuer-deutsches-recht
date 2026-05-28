@@ -33,7 +33,7 @@ Das Wort "zufriedenstellend" ist im deutschen Zeugniscode besonders hinterhälti
 
 **Beispiel 1 – Klassische "bemüht"-Falle:** "Herr Mayer war stets bemüht, seinen Aufgaben gerecht zu werden, und zeigte dabei guten Willen." → Klares Note-4-Signal durch "bemüht".
 
-**Beispiel 2 – Kühle Schlussformel:** "Wir wünschen Frau Keller für ihren weiteren Weg alles Gute." — Kein Bedauern, kein Dank, minimaler Wunsch. Das ist ein deutliches Distanzsignal, rechtlich aber gesondert nach BAG 9 AZR 227/11 zu prüfen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Beispiel 3 – Erwartungserfüllung als Negativsignal:** "Er hat unsere Erwartungen stets erfüllt und war ein zuverlässiger Mitarbeiter." — "Erfüllt" statt "übertroffen" → Note 4.
 
@@ -52,6 +52,4 @@ Der Skill listet alle erkannten roten Signale mit Zitat, Signaltyp (Direktformul
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung bei der Schlussbeurteilung: bessere als befriedigende Bewertung muss der Arbeitnehmer mit Tatsachen tragen.
-- **BAG, Urt. v. 11.12.2012 — 9 AZR 227/11** — Schlussformeln nicht schematisch als Pflichtinhalt behandeln.
-- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot: Arbeitgeber muss Formulierungen wählen, die Fortkommen nicht unnötig erschweren; Berichtigungsanspruch bei Verstoß.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

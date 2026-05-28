@@ -34,7 +34,7 @@ Das DBA-USA vom 29.08.1989 (BGBl. 1991 II S. 354) mit Aenderungsprotokollen vom 
 - **MLI**: USA nicht Unterzeichner — DBA-USA bleibt bilateral.
 
 ### Leitentscheidungen und BMF-Schreiben
-- BVerfG 2 BvL 1/12 (15.12.2015): Treaty Override bei § 50d Abs. 8 EStG a.F. — grundsaetzlich verfassungsrechtlich zulaessig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BMF-Schreiben zur steuerrechtlichen Einordnung von US-LLCs vom 19.03.2004 (BStBl. I 2004, 411): Pruefung anhand Merkmalskatalog (Haftung, Geschaeftsfuehrung, Anteilsuebertragung, Lebensdauer, Gewinnverteilung), ob PersGes oder KapGes.
 - BMF-Schreiben zu Pension Protection und IRA/401(k): aktuellen Stand beim BMF pruefen.
 

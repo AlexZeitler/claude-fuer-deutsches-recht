@@ -19,18 +19,15 @@ description: "Bereicherungsanspruch des Berechtigten nach § 816 BGB gegen verf�
 
 ## Rechtsprechung
 
-BGH, Urt. v. 12.07.2018 – IX ZR 167/17, NJW 2018, 3239 — § 816 Abs. 1 S. 1 BGB setzt voraus, dass die Verfügung des Nichtberechtigten dem wahren Berechtigten gegenüber wirksam ist (Gutglaubenserwerb oder Genehmigung); fehlt es daran, scheidet § 816 BGB aus und der Berechtigte behält § 985 BGB.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 24.09.2009 – IX ZR 5/08, NJW-RR 2010, 357 — Bei § 816 Abs. 1 S. 1 BGB schuldet der Nichtberechtigte dem wahren Berechtigten das durch die Verfügung Erlangte (Gegenleistung); heraus zu geben ist nicht der Gegenstand selbst, sondern der Erlös.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 22.10.2015 – IX ZR 171/14, NJW 2016, 405 — § 816 Abs. 2 BGB schützt den Sicherungszessionar bei Doppelabtretung: Tilgt der Drittschuldner gegenüber dem zweiten (nichtberechtigten) Zessionar, hat der erste Zessionar einen Kondiktionsanspruch gegen diesen auf Herausgabe des Geleisteten.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Lorenz in: Staudinger, BGB, Neubearbeitung 2023, § 816 Rn. 1–60 (Tatbestand, Gegenleistung, Abgrenzung zu §§ 812, 822 BGB).
-Sprau in: Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 816 Rn. 1–20.
-Schwab in: MüKoBGB, 9. Aufl. 2024, § 816 Rn. 1–55 (entgeltlich, unentgeltlich, § 816 Abs. 2 BGB).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 § 816 BGB schließt eine Lücke: Wenn ein Nichtberechtigter wirksam über einen Gegenstand verfügt, verliert der wahre Berechtigte sein Recht. § 816 BGB gibt ihm einen Ausgleichsanspruch gegen den Verfügenden.

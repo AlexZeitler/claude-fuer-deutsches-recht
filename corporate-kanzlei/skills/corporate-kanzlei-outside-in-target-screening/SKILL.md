@@ -24,15 +24,11 @@ description: "Outside-In-Zielunternehmen-Screening aus öffentlichen Quellen fü
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 23.05.2023 - VII ZB 69/21 — im Online-Handelsregister veröffentlichte Informationen können als offenkundige Tatsachen berücksichtigt werden; Registerdaten bleiben gegen Aktualität und Kontext zu prüfen.
-- EuGH, Urt. v. 22.11.2022 - C-37/20 und C-601/20 — uneingeschränkter öffentlicher Zugang zu Angaben wirtschaftlich Berechtigter ist unionsrechtlich nicht grenzenlos; Transparenzregister-Zugriff braucht die jeweils geltende gesetzliche Grundlage.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 1 — Target Screening und Vorbereitung
-- MueKo HGB/Schmidt § 9 Rn. 1 ff. — Handelsregister-Einsicht
-- Richter/Schuurman GwG § 3 — UBO im Screening-Prozess
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Outside-In-Quellen-Matrix
 
 | Quelle | Informationen | Verfuegbarkeit | Verlaesslichkeit |
@@ -144,5 +140,5 @@ VERTRAULICH
 ## Quellen
 
 - § 3 GwG; § 9 HGB; § 325 HGB; §§ 33 ff. WpHG; Art. 14 DSGVO
-- BGH VII ZB 69/21 (Online-Handelsregister als offenkundige Quelle); EuGH C-37/20 und C-601/20 (Transparenzregister-Zugang)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 1

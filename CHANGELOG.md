@@ -1,10 +1,28 @@
+# v23.0.1 — Download-Abdeckung und Quellenhygiene
+
+- Alle 102 Plugin-READMEs geprüft: jedes Plugin nennt sein Plugin-ZIP aus dem `latest`-Release.
+- Alle 57 Testakten sind im Testakten-Index mit ZIP-Download eingetragen; jede Testakte ist aus mindestens einem passenden Plugin-README verlinkt.
+- Die zentrale README-Übersicht nennt alle 102 Plugins, inklusive `liquiditaetsplanung` und der beiden Selbstvertreter-Plugins.
+- Zitierweise v4.0 repo-weit nachgezogen: keine BeckRS-, Kommentar-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei/amtlich oder per lizenziertem Live-Zugriff verifizierter Quelle.
+- Unsichere oder nicht frei belegte Rechtsprechungs- und Literaturzeilen in Skills, README-Texten, Generatorvorlagen und Beispiel-Hausregeln durch Live-Verifikationshinweise ersetzt.
+- Alle Plugin-Manifeste und die zentrale `.claude-plugin/marketplace.json` auf Version `23.0.1` gezogen; der `v23.0.0`-Stand bleibt enthalten.
+
+## Qualitätssicherung
+
+- `node scripts/validate-plugin-structure.mjs`
+- `git diff --check`
+- Zusatzcheck: 102/102 Plugin-READMEs mit Plugin-ZIP, 57/57 Testakten-ZIPs im Index und aus Plugin-READMEs erreichbar, 0 unsichere Zitations-Treffer im engeren Audit.
+- lokaler Build und Validierung aller Plugin- und Testakten-ZIPs mit `scripts/validate-release-zips.py`
+
+---
+
 # v23.0.0 — Selbstvertreter-Ausbau und ASCII-Anführungszeichen
 
 - Alle 102 Plugin-Manifeste und die zentrale `.claude-plugin/marketplace.json` auf Version `23.0.0` gezogen.
 - Beide Selbstvertreter-Testakten (`selbstvertreter-amtsgericht-kuechentisch-kaufpreis` und `selbstvertreter-sozialgericht-heizkosten-eilantrag`) deutlich ausgebaut: je drei neue Dokumente, alle bestehenden Dateien stark erweitert, mittlerer bis höherer Schwierigkeitsgrad. Neu in der Amtsgericht-Akte: AGB-Klauseln zur Prüfung, privat eingeholte Voreinschätzung eines Tischlermeisters, Foto-Inventar mit EXIF-Metadaten, zehn widersprüchliche Internet-Treffer. Neu in der Sozialgericht-Akte: vollständiger Bürgergeld-Bescheid mit Berechnungsblatt, Attest mit Mindesttemperaturangabe wegen kindlichem Asthma, vier Telefonnotizen, KdU-Konzept der Stadt Leipzig.
 - Beide Selbstvertreter-Plugins `selbstvertreter-amtsgericht` und `selbstvertreter-sozialgericht` in der Plugin-Übersichtstabelle im Root-README ergänzt (waren bislang versehentlich nicht in der Tabelle).
 - Steuerrecht-Plugin: Plugin-README-H1 von "Steuerrecht für Anwaltschaft und Steuerberatung" auf "Steuerrecht - Steuerberater und Anwälte" geändert (Slug `steuerrecht-anwalt-und-berater` bleibt — keine Breaking Changes).
-- Repo-weiter Sweep: alle typografischen Anführungszeichen (`„` `"` `'` `'` `«` `»`) durch ASCII `"`/`'` ersetzt in 909 Dateien. Verhindert HTML-Entity-Darstellung (`&#x201E;` etc.) in Plugin-Outputs bei Clients, die Markdown durch HTML-Escaping schicken.
+- Repo-weiter Sweep: alle typografischen Anführungszeichen (`"` `"` `'` `'` `"` `"`) durch ASCII `"`/`'` ersetzt in 909 Dateien. Verhindert HTML-Entity-Darstellung (`&#x201E;` etc.) in Plugin-Outputs bei Clients, die Markdown durch HTML-Escaping schicken.
 - Stand jetzt 102 Plugins, 2410 Skills und 55 Testakten.
 
 ---
@@ -247,21 +265,9 @@ Der Boost erfolgte in 12 Wellen mit jeweils 90 bis 250 Skills.
 | 11 | Verwaltungs- Verfassungs- Energie- Umwelt- Kartell- Verbraucherrecht | 135 |
 | 12 | Prozessrecht Vertragsrecht Forderungsmanagement Compliance Kanzlei-Methodik Jurastudium | 308 |
 
-## Wichtigste Kommentarliteratur die jetzt zitiert wird
+## Quellenhygiene-Hinweis
 
-- **Zivilrecht** — Gruenneberg MüKo BGB BeckOK BGB Erman BGB
-- **Arbeitsrecht** — ErfK Schaub HWK
-- **Handels- und Gesellschaftsrecht** — MüKo HGB MüKo GmbHG MüKo AktG Baumbach Hueck Scholz Hueffer Koch
-- **Strafrecht** — Schoenke Schroeder MüKo StGB NK-StGB Fischer
-- **Insolvenz** — MüKo InsO Uhlenbruck Jaeger K. Schmidt Uhlenbruck
-- **Familienrecht** — MüKoBGB Band 9 und 10 Wendl Dose
-- **Mietrecht** — Schmidt-Futterer Staudinger BeckOK Mietrecht
-- **Steuerrecht** — Tipke Lang MüKo AO BeckOK Steuerrecht
-- **Verwaltungsrecht** — Maurer Waldhoff Kopp Schenke Stelkens Bonk Sachs
-- **Verfassungsrecht** — Maunz Duerig Jarass Pieroth Sachs GG
-- **IT- und Datenschutzrecht** — Sydow Marsch Kuehling Buchner Paal Pauly Wendehorst Grinzinger
-- **Bank- und Kapitalmarktrecht** — Schimansky Bunte Lwowski Hopt KapMarktR
-- **Berufsrecht** — Henssler Pruetting Feuerich Weyland
+Kommentar-, Handbuch- und Aufsatzfundstellen werden nicht aus Modellwissen erzeugt. Literatur darf nur mit vom Nutzer bereitgestellter Quelle oder lizenziertem Live-Zugriff verwendet werden.
 
 ## Strukturelle Bereinigung
 

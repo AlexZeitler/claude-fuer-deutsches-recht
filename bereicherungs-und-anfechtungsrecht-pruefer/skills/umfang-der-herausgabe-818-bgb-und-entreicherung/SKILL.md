@@ -19,20 +19,17 @@ description: "Umfang der Bereicherungshaftung nach § 818 BGB bestimmen: Erlangt
 
 ## Rechtsprechung
 
-BGH, Urt. v. 29.09.1999 – XII ZR 313/98, NJW 2000, 203 — § 818 Abs. 3 BGB schützt den gutgläubigen Empfänger vor der Pflicht zur Herausgabe einer Bereicherung, die er nicht mehr hat; der Einwand setzt voraus, dass kein Surrogat an die Stelle des Verbrauchten getreten ist und keine Ersparnis eigener Aufwendungen vorliegt.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 14.07.1993 – IV ZR 153/92, NJW 1993, 2876 — Wer das Erlangte für Ausgaben verwendet, die er ohne die Bereicherung sowieso hätte tätigen müssen (Ersparnis eigener Aufwendungen), ist trotz Verbrauchs noch bereichert; § 818 Abs. 3 BGB greift nicht.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 17.02.2004 – XI ZR 140/03, NJW 2004, 1521 — Bei Bösgläubigkeit nach § 819 BGB haftet der Bereicherungsschuldner nach den allgemeinen Regeln (§§ 292, 987 ff. BGB); die Haftung beginnt mit dem Zeitpunkt der Kenntnis vom Mangel des Rechtsgrundes.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 19.10.2005 – XII ZR 224/03, NJW 2006, 219 — Surrogate i.S.d. § 818 Abs. 1 Alt. 2 BGB sind Gegenstände, die der Empfänger aufgrund des erlangten Rechts oder als Ersatz für Zerstörung/Beschädigung des erlangten Gegenstands erworben hat; dazu gehören Schadensersatz- und Versicherungsleistungen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Lorenz in: Staudinger, BGB, Neubearbeitung 2023, §§ 818–819 Rn. 1–80 (Umfang Herausgabe, Entreicherung, Bösgläubigkeit).
-Sprau in: Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 818 Rn. 1–35, § 819 Rn. 1–20.
-Schwab in: MüKoBGB, 9. Aufl. 2024, § 818 Rn. 1–90 (Wertersatz, Ersparnis eigener Aufwendungen, Surrogate).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Primäranspruch: Herausgabe des Erlangten (§ 818 Abs. 1 BGB)
 
 **Gegenstand:** Alles Erlangte einschließlich:

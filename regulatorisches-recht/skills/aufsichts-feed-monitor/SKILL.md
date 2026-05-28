@@ -38,16 +38,16 @@ IT-Sicherheit, Datenschutz, KI-Regulierung (EU-KI-VO), ESG/CSRD.
 
 ### Leitentscheidungen
 
-- `BVerfG, Beschl. v. 17.11.1992 – 1 BvL 8/87, BVerfGE 87, 234 Rn. 25 ff.`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   — Normenklarheitsgebot: Normen müssen nach Inhalt, Zweck und Ausmaß hinreichend
   bestimmt sein; relevant für Einordnung von Leitlinien ohne Rechtsverordnungscharakter.
-- `BVerfG, Beschl. v. 03.03.2004 – 1 BvF 3/92, BVerfGE 110, 33 Rn. 56 ff.`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   — Wesentlichkeitsgrundsatz (Art. 20 Abs. 3 GG): grundrechtlich erhebliche Regelungen
   erfordern gesetzliche Grundlage; zentral für Abgrenzung Gesetz / Merkblatt / Leitlinie.
-- `EuGH, Urt. v. 04.05.2023 – C-300/21, NJW 2023, 2253 Rn. 30 ff.`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   — Zur Auslegung von Art. 82 DSGVO; Wechselwirkung EU-Sekundärrecht / nationale
   Umsetzung als Muster für Regulierungsmonitoring im Datenschutzrecht.
-- `BGH, Urt. v. 25.03.2021 – I ZR 203/19, GRUR 2021, 1047 Rn. 18`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   — Anwendung geänderter Compliance-Norm (§ 13 Abs. 4 UWG n. F.); Beispiel für
   unmittelbare Praxisauswirkung einer Feed-relevantenNormänderung.
 
@@ -55,7 +55,7 @@ IT-Sicherheit, Datenschutz, KI-Regulierung (EU-KI-VO), ESG/CSRD.
 
 - `Sachs (Hrsg.), GG, 10. Aufl. 2021, Art. 20 Rn. 78 ff.` — Rechtsstaatsprinzip
   und Normenklarheit als Bewertungsmaßstab für behördliche Verlautbarungen.
-- `Maunz/Dürig/Herzog, GG, 99. Lfg. 2023, Art. 80 Rn. 20 ff.` — Delegation von
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
   Rechtsetzungskompetenzen; relevant für Verbindlichkeitsgrad von BaFin-Rundschreiben.
 - `Schwennicke/Auerbach (Hrsg.), KWG/CRR, 4. Aufl. 2022, § 6 KWG Rn. 5 ff.`
   — Praxis der BaFin-Verlautbarungen und deren Rechtswirkung.
@@ -77,13 +77,12 @@ bekannt und akzeptiert ist.
 | ABl. EU / EUR-Lex | EU-Rechtsakte, konsolidierter Bestand |
 | BaFin (bafin.de/RSS) | Rundschreiben, Merkblätter, Allgemeinverfügungen |
 | BSI (bsi.bund.de) | Technische Richtlinien, Kritis-Warnungen |
-| BGH / BVerwG / BAG / BFH | Entscheidungen (juris, rechtsprechung-im-internet.de) |
-| EuGH (curia.europa.eu) | Urteile, Schlussanträge |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich |
 | BMJ | Referentenentwürfe, Pressemitteilungen |
 | Bundesrat | Drucksachen, Stellungnahmen |
 | Bundesanzeiger | Behördenbekanntmachungen |
 
-Kostenpflichtige Dienste (Beck-online, juris Premium, Wolters Kluwer) werden genutzt,
+Kostenpflichtige Dienste (amtliche/freie Quellen oder lizenzierte Datenbanken bei vorhandenem Zugang Premium, Wolters Kluwer) werden genutzt,
 wenn konfiguriert. Duplikate ebenenübergreifend entfernen.
 
 **Keine stille Ergänzung.** Bei wenigen Treffern keine eigenständige Webrecherche —
@@ -176,6 +175,6 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 Jeder Eintrag muss enthalten: Behörde, Dokumenttyp, Datum, Direktlink zur Primärquelle,
 Quellenkennung und ggf. Kommentierungsfrist. Zitierweise Rechtsprechung:
-`BVerfG, Beschl. v. 17.11.1992 – 1 BvL 8/87, BVerfGE 87, 234 Rn. 25`
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Zitierweise Kommentare:
 `Sachs/Sachs, GG, 10. Aufl. 2021, Art. 20 Rn. 78`

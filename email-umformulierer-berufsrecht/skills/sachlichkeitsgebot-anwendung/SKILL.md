@@ -21,11 +21,11 @@ Tatsachenbehauptungen sind einer Wahrheitsprüfung zugänglich und müssen wahr 
 
 ## BVerfG-Rechtsprechung
 
-Das Bundesverfassungsgericht hat in der Entscheidung 1 BvR 2477/08 bestätigt, dass das Sachlichkeitsgebot für Rechtsanwälte die Meinungsfreiheit verfassungsgemäß einschränkt. Anwälte genießen Meinungsfreiheit, müssen aber als Organe der Rechtspflege einen höheren Sachlichkeitsstandard wahren als der allgemeine Bürger. Die Grenze zur unzulässigen Äußerung liegt dort, wo der sachliche Bezug zur Rechtsverfolgung fehlt.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Berufsrechtlicher Hintergrund
 
-§ 43a Abs. 3 BRAO und § 59b Abs. 2 Nr. 1 Buchst. d BRAO (Satzungsermächtigung). Ergänzend: § 6 BORA. Einschlägige Entscheidungen: BVerfG 1 BvR 2477/08 zur Verfassungsmäßigkeit des Sachlichkeitsgebots; BGH AnwZ (Brfg) 2/12 zur Abgrenzung Kritik und Herabsetzung; AGH NRW Entscheidung zur Schmähkritik in Schriftsätzen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Beispiele Vorher/Nachher
 

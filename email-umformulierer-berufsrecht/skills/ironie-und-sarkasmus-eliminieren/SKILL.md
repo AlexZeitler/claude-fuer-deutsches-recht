@@ -15,10 +15,9 @@ Dieser Skill identifiziert ironische und sarkastische Formulierungen in beruflic
 4. Gibt es Hinweise auf strafrechtlich relevante Herabsetzung (§ 185 StGB)?
 
 ## Aktuelle Rechtsprechung
-- BVerfG, Beschl. v. 02.07.2013 - 1 BvR 1751/12, NJW 2013, 3153 — Ironische Zuspitzung anwaltlicher Kritik bleibt von der Meinungsfreiheit geschuetzt, sofern sachlicher Kern erkennbar; Sarkasmus mit Herabsetzungscharakter kann Schmahkritik darstellen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - AGH Muenchen, Beschl. v. 25.03.2015 - BayAGH III-4-14, AnwBl 2015, 560 — Sarkastische Formulierungen in Schriftsaetzen verletzen berufsrechtliches Sachlichkeitsgebot nach § 43a Abs. 3 BRAO.
-- OLG Frankfurt, Urt. v. 19.08.2010 - 6 U 70/10, NJW-RR 2011, 105 — Ironie in Korrespondenz mit Gericht verstaesst gegen die Wuerde des Verfahrens.
-- BGH, Beschl. v. 05.11.2012 - AnwZ (Brfg) 1/12, NJW 2013, 175 — Stil und Wortwahl in anwaltlichen Schriften unterliegen Sachlichkeitsgebot; sarkastische Obertone koennen berufsrechtliche Ruege ausloesen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 43a Abs. 3 BRAO — Sachlichkeitsgebot: Verbot herabsetzender Aeusserungen (auch durch Ironie)
@@ -26,10 +25,9 @@ Dieser Skill identifiziert ironische und sarkastische Formulierungen in beruflic
 - Art. 5 GG — Meinungsfreiheit: Schutz scharfer Kritik, nicht von Schmahkritik
 - § 185 StGB — Beleidigung: sarkastische Aussagen koennen Beleidigungscharakter haben
 
-## Kommentarliteratur
-- Gaier/Wolf/Goebel, BRAO § 43a Abs. 3 Rn. 50-70 (Ironie und Sarkasmus als unzulaessige Stilmittel)
-- Schoenke/Schroeder/Lenckner StGB § 185 Rn. 20-35 (Grenze zwischen Meinungsfreiheit und Beleidigung)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Warum Ironie und Sarkasmus problematisch sind
 
 In mündlicher Kommunikation kann Ironie durch Tonfall und Körpersprache erkannt werden. Im Schreiben fehlen diese Signale. Selbst wenn die Ironie erkannt wird, verletzt sie: Sie signalisiert Überlegenheit, wertet den Adressaten ab und vergiftet das Kommunikationsklima. Zudem kann Ironie beweisrechtliche Probleme schaffen, wenn das Schreiben in einem Verfahren als Beleg verwendet wird.

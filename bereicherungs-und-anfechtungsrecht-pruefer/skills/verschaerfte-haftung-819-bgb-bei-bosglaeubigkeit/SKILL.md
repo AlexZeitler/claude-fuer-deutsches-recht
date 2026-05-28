@@ -20,20 +20,17 @@ description: "Verschärfte Bereicherungshaftung nach § 819 BGB bei Bösgläubig
 
 ## Rechtsprechung
 
-BGH, Urt. v. 17.02.2004 – XI ZR 140/03, NJW 2004, 1521 — § 819 Abs. 1 BGB setzt positive Kenntnis des Empfängers vom Mangel des Rechtsgrundes voraus; Kenntnis muss nicht bei Empfang vorliegen, sondern kann zu einem späteren Zeitpunkt eintreten; ab diesem Zeitpunkt tritt die verschärfte Haftung ein.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 29.09.1999 – XII ZR 313/98, NJW 2000, 203 — Die verschärfte Haftung nach § 819 BGB schließt die Entreicherungseinrede des § 818 Abs. 3 BGB aus; der bösgläubige Empfänger haftet auch für den Wert von Nutzungen, die er hätte ziehen können aber nicht gezogen hat.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 14.07.1993 – IV ZR 153/92, NJW 1993, 2876 — § 819 Abs. 2 BGB ordnet die verschärfte Haftung ab Empfang an, wenn der Empfang der Leistung für den Empfänger mit einem Gesetz- oder Sittenverstoß verbunden war (§ 817 S. 1 BGB); ein späteres Entstehen der Bösgläubigkeit ist nicht erforderlich.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 08.03.2007 – III ZR 181/05, NJW 2007, 2110 — Ab Rechtshängigkeit (§ 818 Abs. 4 BGB) gelten dieselben verschärften Regeln wie bei Bösgläubigkeit, ohne dass es auf die Kenntnis des Empfängers ankommt; auch gutgläubige Empfänger haften ab Zustellung der Klageschrift verschärft.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Lorenz in: Staudinger, BGB, Neubearbeitung 2023, § 819 Rn. 1–50 (Bösgläubigkeit, Rechtsfolge, Rechtshängigkeit).
-Sprau in: Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 819 Rn. 1–20, § 818 Rn. 30–50.
-Schwab in: MüKoBGB, 9. Aufl. 2024, § 819 Rn. 1–40 (Kenntnis, Zeitpunkt, Umfang der Haftung).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 § 819 BGB schließt die Entreicherungseinrede aus und unterwirft den bösgläubigen Bereicherungsschuldner einer verschärften Haftung.

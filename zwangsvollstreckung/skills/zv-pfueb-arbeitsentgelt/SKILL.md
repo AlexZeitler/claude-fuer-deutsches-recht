@@ -46,8 +46,8 @@ Gültig seit 1.7.2025 (Bekanntmachung BMJ). Die Tabelle wird zum 1.7. jeden unge
 
 ## Leitentscheidungen
 
-- BGH 5.4.2005 – VII ZB 17/05 (Vollstreckungsprivileg § 850f Abs. 2 ZPO – Anforderungen an privilegierten Gläubiger)
-- BGH 26.6.2014 – IX ZB 88/13 (Drittschuldnererklärung Arbeitgeber)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
 

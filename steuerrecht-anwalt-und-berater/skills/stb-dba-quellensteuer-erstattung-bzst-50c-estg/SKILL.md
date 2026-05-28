@@ -35,7 +35,7 @@ Deutsche Vergueterschuldner (Kapitalgesellschaften, Auftraggeber, Lizenznehmer) 
 
 ### Leitentscheidungen und BMF-Schreiben
 
-- EuGH C-504/16 (Deister Holding) und C-613/16 (Juhler Holding) vom 20.12.2017 — § 50d Abs. 3 EStG alte Fassung EU-rechtswidrig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Folge: § 50d Abs. 3 EStG mit Wirkung 2021 neu gefasst durch AbzStEntModG (BGBl. 2021 I S. 1259) — aktuellen Stand der Folgeregelungen im BMF-Veroeffentlichungsverzeichnis pruefen.
 - Aktuelle BFH-Rechtsprechung zu Voraussetzungen der Freistellungsbescheinigung in juris abrufen.
 - BMF-Schreiben zur Anwendung § 50d Abs. 3 EStG — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
@@ -153,6 +153,6 @@ Die konkreten Formularnummern aendern sich periodisch; **stets ueber das BZSt-On
 
 ## Quellen und Updates
 
-Stand: 05/2026. § 50a, § 50c, § 50d, § 50g, § 50j EStG. § 43b EStG. Mutter-Tochter-RL 2011/96/EU. Zins-/Lizenz-RL 2003/49/EG. EuGH Deister Holding C-504/16 und C-613/16 (20.12.2017). AbzStEntModG 2021 (BGBl. 2021 I S. 1259). BZSt-Formularnummern stets ueber das BZSt-Online-Portal abrufen; aktuelle BMF-Schreiben im BMF-Veroeffentlichungsverzeichnis pruefen.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 8 Marker aufgeloest: 2 belegt (EuGH C-504/16 / C-613/16 20.12.2017 bestaetigt; AbzStEntModG BGBl. 2021 I S. 1259 bestaetigt), 6 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->

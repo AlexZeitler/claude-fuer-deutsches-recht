@@ -45,14 +45,9 @@ Verbindlich: `../references/zitierweise.md`.
 
 Einschlägige Kommentare und Rechtsprechung:
 
-- Greger, in: Zöller, ZPO, 35. Aufl. 2024, § 253 Rn. 12 ff. (Klageschrift, Bestimmtheit der Anträge).
-- Gruber, in: MüKoZPO, 6. Aufl. 2020, § 520 Rn. 30 ff. (Berufungsbegründung, Berufungsangriffe).
-- Wulf, in: BeckOK ZPO, 52. Ed. (Stand 01.03.2024), § 520 Rn. 20 ff.
-- BGH, Urt. v. 26.04.2023 – VIII ZR 121/22, NJW 2023, 2253 Rn. 18 (Schlüssigkeit der Klageschrift).
-- BGH, Urt. v. 19.01.2022 – IV ZR 295/19, NJW 2022, 1097 Rn. 22 (Berufungsangriff, § 520 Abs. 3 Nr. 2 ZPO).
-- BGH, Beschl. v. 21.02.2017 – VIII ZB 74/16, NJW 2017, 2273 Rn. 14 (Anforderungen § 551 Abs. 3 ZPO).
-- Heßler, in: Zöller, ZPO, 35. Aufl. 2024, § 520 Rn. 28 ff.
-- Steinmetz, in: Musielak/Voit, ZPO, 21. Aufl. 2024, § 520 Rn. 15 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Ausgabeformat
 
@@ -70,13 +65,13 @@ Schriftsatzformat im deutschen Standard:
 >
 > Das Landgericht hat das Beweisangebot der Klägerin auf Vernehmung des Zeugen Müller (Schriftsatz v. 14.03.2023, S. 7) übergangen, ohne dies in den Entscheidungsgründen zu begründen. Dies verletzt Art. 103 Abs. 1 GG und § 286 Abs. 1 ZPO.
 >
-> Nach ständiger Rechtsprechung des BGH ist ein Beweisangebot nur dann ohne Fehler übergehen, wenn es entweder unerheblich, unzulässig oder eindeutig untauglich ist (BGH, Urt. v. 29.03.2023 – IV ZR 28/22, NJW 2023, 1891 Rn. 23; Greger, in: Zöller, ZPO, 35. Aufl. 2024, § 286 Rn. 14). Keine dieser Voraussetzungen liegt hier vor.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 >
 > *Beweis: Zeugnis des Herrn Max Müller, [Anschrift] – Beweis-Nr. 5.*
 
 ## Risiken / typische Fehler
 
-- **Unbestimmter Antrag** (§ 253 Abs. 2 Nr. 2 ZPO): Der Klageantrag muss vollstreckbar formuliert sein; das Gericht darf nicht selbst nach billigem Ermessen ergänzen (BGH, Urt. v. 26.04.2023 – VIII ZR 121/22, NJW 2023, 2253 Rn. 18).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Berufungsbegründungsfrist:** § 520 Abs. 2 ZPO: 2 Monate ab Urteilszustellung; verlängerbar auf Antrag, aber nur mit gegnerischer Zustimmung oder wichtigem Grund.
 - **Neue Tatsachen in der Berufung:** § 531 Abs. 2 ZPO begrenzt neues Vorbringen; stets prüfen, ob Nachlässigkeit im ersten Rechtszug vorlag.
 - **Revisionsanforderungen:** § 543 Abs. 2 ZPO – Grundsatzbedeutung oder Sicherung einheitlicher Rechtsprechung; ohne NZB-Begründung keine Revision (§ 544 ZPO).

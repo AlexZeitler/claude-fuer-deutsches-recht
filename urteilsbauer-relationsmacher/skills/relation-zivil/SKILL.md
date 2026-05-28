@@ -42,7 +42,7 @@ Chronologisch neutral ohne Wertung. Verben im Praesens (Die Klägerin behauptet 
 | Rechtsweg | Paragraf 13 GVG |
 | Internationale Zuständigkeit | EuGVVO Artikel 4 ff oder Artikel 7 Nummer 1 b |
 | Örtliche Zuständigkeit | Paragraf 12 ff ZPO |
-| Sachliche Zuständigkeit | Paragraf 23 GVG (AG bis 5000 EUR) Paragraf 71 GVG (LG darüber) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Streitwert | Paragraf 3 ZPO Paragraf 1 GKG |
 | Partei- und Prozessfähigkeit | Paragraf 50 ff ZPO |
 | Postulationsfähigkeit | Paragraf 78 ZPO Anwaltszwang |

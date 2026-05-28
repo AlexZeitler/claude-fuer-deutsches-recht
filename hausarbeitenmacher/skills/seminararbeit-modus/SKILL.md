@@ -13,10 +13,7 @@ description: "Student schreibt Seminararbeit mit persoenlicher Lekture durch Leh
 4. In welchem Format soll der Vortrag erfolgen und wie viel Zeit steht fuer Disputation zur Verfügung?
 
 ## Aktuelle Rechtsprechung und Methodik
-- BVerfG, Beschl. v. 11.06.1980 - 1 PBvU 1/79, BVerfGE 54, 277 — Wissenschaftliche Eigenstaendigkeit nach Art. 5 Abs. 3 GG schützt die freie Entfaltung wissenschaftlicher Positionen in Seminararbeiten.
-- BGH, Urt. v. 22.11.2001 - I ZR 255/99, NJW 2002, 2031 — Eigenstaendige Argumentation mit Belegkette ist Standard der juristischen Wissenschaft; Seminararbeit als erster Schritt in den Wissenschaftsbetrieb.
-- BGH, Urt. v. 27.11.2008 - VII ZR 206/06, NJW 2009, 580 — These und Gegenthese muessen vollstaendig und fair dargestellt werden; unvollstaendige Literaturdiskussion begruendet Mangel der wissenschaftlichen Leistung.
-- BVerfG, Beschl. v. 12.12.2000 - 2 BvR 1290/99, NJW 2001, 1269 — Muendliche Verteidigung wissenschaftlicher Positionen als integraler Bestandteil juristischer Ausbildung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - Art. 5 Abs. 3 GG — Wissenschaftsfreiheit als Grundlage der Seminararbeit
@@ -24,10 +21,9 @@ description: "Student schreibt Seminararbeit mit persoenlicher Lekture durch Leh
 - §§ 133, 157 BGB — Auslegungs-Methoden als inhaltlicher Massstab
 - § 242 BGB — Treu und Glauben: auch wissenschaftliche Auseinandersetzung muss fair und vollstaendig sein
 
-## Kommentarliteratur
-- Larenz/Wolf Allgemeiner Teil BGB, 9. Aufl. 2004, Einl. Rn. 15-35 (Wissenschaftlicher Anspruch und Methodik im Studium)
-- Bydlinski, Juristische Methodenlehre, 2. Aufl. 1991, Einl. (Wissenschaftliche Argumentation in der juristischen Dogmatik)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Eine Seminararbeit unterscheidet sich von einer Hausarbeit wesentlich — in Erwartung, Tiefe, Form und Adressat. Dieser Skill schaltet das Plugin in den **Seminararbeit-Modus**, wenn Du nicht eine Falllösung, sondern eine **wissenschaftliche Auseinandersetzung** schreibst.
@@ -136,8 +132,8 @@ Wenn Du diese Frage nicht in einem Satz formulieren kannst, ist Dein Thema noch 
 
 ### Such-Strategie
 
-- Beck-online / juris: Suchstring zum Thema + Norm
-- Beck-online-Trefferliste: rückwärts ältere Kommentar-Auflagen prüfen
+- amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang: Suchstring zum Thema + Norm
+- Bei bereitgestellten oder lizenziert verifizierten Quellen: ältere Auflagen nur gezielt und nachvollziehbar prüfen
 - **Schneeball**: Aus einer guten Quelle die Quellen-Verweise mitnehmen
 - **Zitations-Recherche**: Wer hat den Schlüssel-Aufsatz zitiert?
 

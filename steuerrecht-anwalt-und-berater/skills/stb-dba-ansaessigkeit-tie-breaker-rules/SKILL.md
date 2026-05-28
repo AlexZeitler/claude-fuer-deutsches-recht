@@ -37,7 +37,7 @@ Die Ansaessigkeit nach Art. 4 OECD-MA ist Gateway-Voraussetzung fuer jede DBA-An
 
 ### Leitentscheidungen und BMF-Schreiben
 
-- Aktuelle BFH-Rechtsprechung zu Mittelpunkt der Lebensinteressen, gewoehnlichem Aufenthalt und Gesellschafts-Ansaessigkeit in juris/beck-online abrufen (Suche: BFH I. Senat, Art. 4 OECD-MA).
+- Aktuelle BFH-Rechtsprechung zu Mittelpunkt der Lebensinteressen, gewoehnlichem Aufenthalt und Gesellschafts-Ansaessigkeit in amtliche/freie Quellen oder lizenzierte Datenbanken abrufen (Suche: BFH I. Senat, Art. 4 OECD-MA).
 - BMF-Schreiben zur Wegzugsbesteuerung nach ATAD-Umsetzung 2022 — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 
 ## Land-spezifisches

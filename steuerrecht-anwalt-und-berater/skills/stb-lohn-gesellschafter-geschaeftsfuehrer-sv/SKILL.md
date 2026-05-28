@@ -38,12 +38,9 @@ Bei Gesellschafter-Geschaeftsfuehrern (GGF) einer GmbH ist die SV-Pflicht haeufi
 
 | Gericht | Aktenzeichen | Leitsatz |
 |---|---|---|
-| BSG | B 12 R 22/13 R | Familien-GGF: Beherrschende Stellung trotz Minderheitsbeteiligung moeglich |
-| BSG | B 12 KR 13/17 R | Schwiegersohn-GF einer Familien-GmbH: Statuspruefung |
-| BSG | B 12 R 13/12 R | Mehrheits-GGF in der Regel selbstaendig |
-| BSG | B 12 KR 25/10 R | Sperrminoritaet schliesst Weisungsgebundenheit aus |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
-(Aktenzeichen vor Uebernahme in juris/beck-online pruefen.)
+(Aktenzeichen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken pruefen.)
 
 ## Workflow
 
@@ -85,7 +82,7 @@ Bei Gesellschafter-Geschaeftsfuehrern (GGF) einer GmbH ist die SV-Pflicht haeufi
 ### Phase 5 — Sonderfaelle
 
 - Fremd-Geschaeftsfuehrer (keine Kapitalbeteiligung): in der Regel abhaengig.
-- Familien-GGF: Einzelfallpruefung; nach BSG-Wende (B 12 R 21/14 R v. 29.07.2015; B 12 KR 22/15 R v. 14.03.2018 — Aktenzeichen in juris pruefen) reicht "Familieneinigkeit" als Argument fuer Selbstaendigkeit ALLEIN nicht mehr; satzungsmaessige Sperrminoritaet erforderlich.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Geschaeftsfuehrer mit echter Sperrminoritaet ueber satzungsmaessige Beschluesse (typisch >25 Prozent bei Mehrheitsklauseln; einzelfallabhaengig): selbstaendig.
 - 50/50-GGF mit zwei Gesellschaftern und Vetoposition: selbstaendig (kein Beschluss gegen ihn moeglich).
 - Wichtig: Stimmrechtsvereinbarungen ausserhalb der Satzung (Pool-Vertrag) werden vom BSG seit ca. 2015 nicht mehr als Sperrminoritaet anerkannt.
@@ -127,7 +124,7 @@ Stand: 05/2026.
 - SGB IV §§ 7, 7a, 28a, 28p.
 - GmbHG §§ 37, 47.
 - StGB § 266a.
-- BSG-Rechtsprechung GGF-SV: B 12 R 21/14 R, B 12 KR 22/15 R u.a.; aktuelle Entscheidungen in juris pruefen.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Gemeinsame Rundschreiben Spitzenverbaende KK.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 3 Marker aufgeloest: 2 bestaetigt (BSG-Az recherchiert), 1 ersetzt (Pruefhinweis ohne Marker) -->

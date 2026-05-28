@@ -38,7 +38,7 @@ description: "Rechtsfolgen der Insolvenzanfechtung nach §§ 143-147 InsO bestim
 - § 146 InsO enthält keine einfache Sonderregel "zehn Jahre ab Rechtshandlung". Er verweist auf die regelmäßige Verjährung nach dem BGB. Anfechtungsfristen und Verjährung bleiben getrennt.
 - Zinsen laufen nicht automatisch ab Insolvenzeröffnung oder Rechtshandlung; § 143 Abs. 1 S. 3 InsO verlangt Verzug oder § 291 BGB.
 
-BGH, Urt. v. 27.07.2023 — IX ZR 138/21: Grob fahrlässige Unkenntnis des Insolvenzverwalters von Anfechtungsvoraussetzungen setzt eine besonders schwere, auch subjektiv vorwerfbare Vernachlässigung seiner Ermittlungspflichten voraus.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Prüfschema
 

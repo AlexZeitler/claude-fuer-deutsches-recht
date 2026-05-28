@@ -52,10 +52,10 @@ Die häufigsten Fehlbewertungen:
 
 ## Leitentscheidungen
 
-- BGH 19.3.2004 – IXa ZB 321/03 (Wertgrenze Pfändbarkeit)
-- BGH 28.7.2009 – VII ZB 38/08 (Austauschpfändung)
-- BGH 28.5.2009 – VII ZB 79/08 (Berufsausübung PC)
-- BVerfG 1.10.2014 – 1 BvR 2059/14 (Hund unpfändbar)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
 

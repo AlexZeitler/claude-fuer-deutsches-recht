@@ -122,8 +122,7 @@ D&O-Versicherung (Directors and Officers) bei Pflichtverletzungs-Anspruch gegen 
 
 ## 8) BGH-Linien
 
-- BGH, Urt. v. 13.4.2016 — IV ZR 220/14 (Selbstbehalt)
-- BGH, Urt. v. 18.11.2020 — IV ZR 217/19 (D&O-Deckungsschutz; Zahlungen nach Insolvenzreife § 64 GmbHG)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 9) Praxis-Hinweise
 
@@ -155,23 +154,21 @@ D&O-Versicherung (Directors and Officers) bei Pflichtverletzungs-Anspruch gegen 
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 13.04.2016 — **IV ZR 220/14**, NJW 2016, 2184 Rn. 26: Bei D&O-Versicherungen ist der Selbstbehalt nach § 93 Abs. 2 Satz 3 AktG eine zwingende gesetzliche Vorgabe; entsprechende Klauseln in Versicherungsbedingungen, die den Selbstbehalt ausschließen oder reduzieren, sind nach § 134 BGB nichtig, soweit sie zugunsten von Vorstandsmitgliedern börsennotierter Gesellschaften vereinbart werden.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 18.11.2020 — **IV ZR 217/19**, NJW 2021, 231: D&O-Versicherung; Deckungsschutz bei Haftung des GmbH-Geschäftsführers nach § 64 GmbHG (Zahlungen nach Insolvenzreife); Eintrittspflicht des Versicherers bei Ansprüchen aus § 64 Satz 1 GmbHG.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 13.04.2010 — **IV ZR 118/09**, BGHZ 185, 252 Rn. 22: Das "Claims-made"-Prinzip in der D&O-Versicherung (Versicherungsschutz knüpft an Anspruchserhebung, nicht an schadensbegründendes Ereignis an) ist mit dem deutschen AGB-Recht vereinbar; Nachhaftungsklauseln müssen klar und transparent formuliert sein.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-OLG Frankfurt, Urt. v. 24.02.2021 — **7 U 74/19**, VersR 2021, 812 Rn. 14: Bei D&O-Streitigkeiten über die Deckungsablehnung wegen Vorsatz ist die Forderungsstellung der Gesellschaft gegen den Geschäftsführer von der Deckungsfrage zu trennen; der Versicherer kann dem Versicherten im Deckungsprozess Einwendungen aus § 43 GmbHG nicht selbst entgegenhalten.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Paragrafenkette
 
 § 43 GmbHG (Sorgfaltspflicht Geschäftsführer, Haftungsanspruch) → § 93 AktG (Sorgfaltspflicht Vorstand) → §§ 100 ff. VVG (Haftpflichtversicherung) → § 103 VVG (Ausschluss bei Vorsatz) → § 106 VVG (Deckungsschutz) → §§ 19, 28, 81 VVG (Anzeigepflichten, Obliegenheiten) → § 93 Abs. 2 Satz 3 AktG (Selbstbehalt-Pflicht börsennotiert) → § 15b InsO (früher § 64 GmbHG aF — Haftung bei Insolvenzreife) → §§ 133, 157 BGB (AVB-Auslegung D&O-Bedingungen)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Beckmann/Matusche-Beckmann, Versicherungsrechts-Handbuch, 3. Aufl. 2015, § 28 (D&O-Versicherung): Deckungsstruktur, Claims-made-Prinzip, Selbstbehalt, Abgrenzung Vorsatz/grobe Fahrlässigkeit.
-- Langheid/Wandt, MüKo VVG, 3. Aufl. 2022, §§ 100, 103 VVG: Haftpflichtversicherung, Vorsatzausschluss in D&O-Konstellationen.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ### Fristen-Übersicht
 
 | Maßnahme | Frist | Norm |

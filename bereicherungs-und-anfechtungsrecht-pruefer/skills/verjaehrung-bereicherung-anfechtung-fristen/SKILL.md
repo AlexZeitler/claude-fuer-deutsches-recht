@@ -19,20 +19,17 @@ description: "Verjährung und Anfechtungsfristen trennen: § 195 und § 199 BGB 
 
 ## Rechtsprechung
 
-BGH, Urt. v. 15.10.2004 – V ZR 100/04, NJW 2005, 136 — Die Regelverjährung nach § 195 BGB beginnt gemäß § 199 Abs. 1 BGB mit dem Schluss des Jahres, in dem der Anspruch entstanden ist und der Gläubiger Kenntnis von den anspruchsbegründenden Umständen und der Person des Schuldners erlangt hat oder ohne grobe Fahrlässigkeit erlangen musste.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 27.07.2023 – IX ZR 138/21 — Grob fahrlässige Unkenntnis des Insolvenzverwalters von den tatsächlichen Voraussetzungen eines Anfechtungsanspruchs setzt eine besonders schwere, auch subjektiv vorwerfbare Vernachlässigung seiner Ermittlungspflichten voraus.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 21.01.2010 – IX ZR 65/09, NJW 2010, 1144 — § 15 AnfG enthält eine eigenständige dreijährige Verjährungsfrist; die Anfechtungsfristen der §§ 3, 4 AnfG (zehn bzw. vier Jahre) sind keine Verjährungsfristen, sondern materiell-rechtliche Ausschlussfristen, nach deren Ablauf keine anfechtbare Rechtshandlung mehr vorliegt.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 14.07.2011 – IX ZR 195/10, NJW 2011, 3084 — Verhandlungen zwischen Insolvenzverwalter und Anfechtungsgegner über den Rückgewähranspruch hemmen die Verjährung nach § 203 BGB; der Verwalter muss die Hemmungswirkung aktiv aufrechterhalten.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Lorenz in: Staudinger, BGB, Neubearbeitung 2023, § 195 Rn. 1–40, § 199 Rn. 1–60 (Verjährungsbeginn, Kenntnis, absolute Frist).
-Kayser in: MüKoInsO, 4. Aufl. 2023, § 146 Rn. 1–40 (Verjährung InsO-Anfechtungsanspruch).
-Huber in: AnfG, 12. Aufl. 2022, § 15 Rn. 1–30 (Verjährung AnfG, Abgrenzung Anfechtungsfristen).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Übersicht Verjährungsfristen
 
 | Anspruchsgrundlage | Verjährungsfrist | Beginn | Absolute Grenze |

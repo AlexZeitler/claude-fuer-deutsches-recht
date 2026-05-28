@@ -30,17 +30,11 @@ Die Trennung zwischen "Formularerstellung" und "Schriftsatzerstellung" war in de
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 10.10.2013 – IX ZR 337/12, NJW 2014, 145 Rn. 8 — PKH-Antrag: Vollständige Darlegung der wirtschaftlichen Verhältnisse als Wirksamkeitsvoraussetzung; unvollständige Angaben führen zu Ablehnung.
-- BVerfG, Beschl. v. 14.07.1987 – 1 BvR 537/81, NJW 1988, 191 — Recht auf Zugang zu Rechtsberatung; Beratungshilfe als Grundlage für die Formularerstellung im sozialen Bereich.
-- BVerwG, Urt. v. 25.03.2019 – 2 C 11/18, NVwZ 2019, 1050 Rn. 10 — Formvoraussetzungen behördlicher Antragsformulare; fehlerhafte Formulare können Fristen versäumen lassen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Schütz, Das Recht der Beratungshilfe, 3. Aufl. 2020, § 1 BerHG Rn. 5 ff. — Voraussetzungen; Antragstellung; Formular BerH 1.
-- Vorwerk, in: BeckOK ZPO, 53. Ed. (Stand 01.03.2025), § 117 Rn. 5 — PKH-Antrag: Inhalt, Form, Beilagen.
-- Deckenbrock/Henssler, RDG, 5. Aufl. 2021, § 6 Rn. 20 — Aufsichtspflicht auch bei vermeintlich formalen Tätigkeiten wie Formularausfüllung (Doppelautoren-Kommentar).
-- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 242 Rn. 18 — Treu und Glauben bei der Antragstellung; keine unvollständigen oder irreführenden Angaben.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 **Stattdessen `/entwurf [Schriftstücktyp]` verwenden.**
@@ -89,6 +83,6 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 ---
 
 <!-- AUDIT 27.05.2026
-Geprueft: BGH IX ZR 115/15
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Befund: GELOESCHT. Echtes Datum 22.10.2015 (Skill hatte 14.01.2016); echtes Thema Streitwert der Vollstreckungsgegenklage (§§ 3, 4 ZPO) — kein Bezug zu Beratungshilfe oder anwaltlicher Antragspruefungspflicht. Quelle: dejure.org/2015,32471. Ersatz: kein passender Beleg gefunden; Zeile entfernt.
 -->

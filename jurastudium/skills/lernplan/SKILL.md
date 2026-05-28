@@ -36,18 +36,17 @@ Der Pflichtstoffkatalog richtet sich nach dem jeweiligen Juristenausbildungsgese
 **Prüfungsrelevante Leitentscheidungen (Planungsmaßstab):**
 
 Für BGB-Schwerpunktplanung:
-- BGH, Urt. v. 25.11.2009 – VIII ZR 318/08, NJW 2010, 610 Rn. 12 — Leistungsstörungsrecht, dauerhaft examensrelevant
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Für Strafrecht-Schwerpunktplanung:
-- BGH, Beschl. v. 04.11.1988 – GSSt 1/88, BGHSt 36, 1 (Lederriemen) — Dauerklassiker mündliche Prüfung
-- BGH, Urt. v. 22.09.1995 – 2 StR 310/95, BGHSt 41, 292 — § 25 Abs. 2 StGB Mittäterschaft
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kanonische Repetitorien-Literatur:**
 - Alpmann Schmidt, Gesamtdarstellungen — kompakt, examensnah
 - Hemmer/Wüst, Skriptenreihe — dogmatisch strukturiert nach Prüfungsreihenfolge
 - Jura Intensiv, Skriptenreihe — Schwerpunkt Definitionen und Falllösung
 - Kaiser-Skripten — starke Farbcodierung, schnell navigierbar
-- MüKoBGB, 9. Aufl. 2021/2022 — für Tiefenerschließung in der Wiederholungsphase
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Ablauf
 

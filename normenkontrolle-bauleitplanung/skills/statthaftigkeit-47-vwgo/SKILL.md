@@ -130,10 +130,8 @@ Klärung, ob die angegriffene Vorschrift überhaupt Gegenstand eines Normenkontr
 
 ## Ergänzende Rechtsprechung
 
-- BVerwG, Urt. v. 26.04.2007 - 4 CN 3.06, BVerwGE 128, 382 Rn. 9 — Flächennutzungsplan-Darstellungen über Konzentrationsflächen für Windenergie (§ 35 Abs. 3 S. 3 BauGB) haben Außenwirkung gegenüber Eigentümern und sind statthafter Normenkontrollgegenstand.
-- BVerwG, Urt. v. 20.11.2003 - 4 CN 6.03, BVerwGE 119, 217 Rn. 7 — Ein B-Plan nach § 13a BauGB im beschleunigten Verfahren ist ebenfalls als Satzung ergangene Norm und damit statthafter Normenkontrollgegenstand; die Wahl des vereinfachten Verfahrens kann selbst Gegenstand der materiellen Prüfung sein.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Kopp/Schenke VwGO 29. Aufl., § 47 Rn. 20-50 (Antragsgegenstand)
-- Sodan/Ziekow VwGO 5. Aufl., § 47 Rn. 50-80 (Statthaftigkeit BauGB-Satzungen)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

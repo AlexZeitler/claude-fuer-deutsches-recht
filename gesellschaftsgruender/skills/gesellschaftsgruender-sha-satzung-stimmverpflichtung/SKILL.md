@@ -70,7 +70,7 @@ Schadensersatz nach den allgemeinen Vorschriften.
 
 ## 3) BGH-Linie zu schuldrechtlichen Stimmbindungen
 
-- Schuldrechtliche Stimmbindung ist grundsaetzlich **zulaessig** (BGH BGHZ 48, 163; BGHZ 102, 172)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Sie kann **gegen die Gesellschaft selbst** unwirksam sein, wenn sie der Gesellschaft schadet
 - Im Innenverhältnis (Gesellschafter zu Gesellschafter) wirksam
 - Erfüllungsklage möglich: Gesellschafter kann verlangen, dass anderer Gesellschafter so abstimmt wie versprochen
@@ -185,17 +185,11 @@ Klaere bei Stimmverpflichtungs-Gestaltung:
 
 ## Aktuelle Rechtsprechung
 
-- **BGH, Urt. v. 29.05.1967 – II ZR 105/66, BGHZ 48, 163** — Schuldrechtliche Stimmbindungsvereinbarungen zwischen Gesellschaftern sind grundsaetzlich wirksam; sie verpflichten die Gesellschafter im Innenverhältnis; der Beschluss in der GV bleibt aber auch bei Verstoss gegen die Stimmbindung wirksam.
-- **BGH, Urt. v. 07.02.1983 – II ZR 25/82, BGHZ 102, 172** — Erfuellungsklage auf Abgabe einer bestimmten Stimme nach § 894 ZPO ist moeglich; die Stimmabgabe wird durch Rechtskraft des Urteils als abgegeben angesehen; praktisch allerdings nur bei noch nicht abgehaltener GV.
-- **BGH, Urt. v. 06.11.2018 – II ZR 22/17, NZG 2019, 62** — Bei Verletzung einer SHA-Stimmverpflichtung hat der verletzte Gesellschafter Anspruch auf Schadensersatz; daneben kann eine Vertragsstrafe geltend gemacht werden; Kumulierung moeglich, soweit Vertrag keine Ausschlussklausel enthaelt.
-- **OLG Hamburg, Urt. v. 14.11.2018 – 11 U 174/17, GmbHR 2019, 411** — Eine Stimmverpflichtung im SHA, die Gesellschafter verpflichtet, alle satzungsaendernden Beschluesse nur mit Zustimmung des Lead-Investors zu fassen, ist wirksam; sie verstoesst nicht gegen § 138 BGB, solange der Lead-Investor seinerseits Treuepflichten unterliegt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Scholz/Karsten Schmidt, GmbHG, 13. Aufl., § 47 Rn. 240-280 (Stimmbindungsvereinbarungen; Joinder; Drittwirkung)
-- Lutter/Hommelhoff, GmbHG, 21. Aufl., § 15 Rn. 80-100 (Vinkulierung; Anteilsabtretung; Joinder)
-- Seibt, in: Fleischer/Goette (Hrsg.), Muenchener Kommentar GmbHG, 4. Aufl. 2022, § 47 Rn. 200-250
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Stimmverpflichtungs-Klausel SHA
 
 **Adressat:** Gesellschaftervereinbarung — Tonfall rechtspraezise

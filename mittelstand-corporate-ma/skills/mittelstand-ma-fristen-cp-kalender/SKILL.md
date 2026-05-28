@@ -54,14 +54,11 @@ Dieser Skill führt die Transaktionsfristen im Plugin selbst. Er bündelt Q&A-De
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 15.05.2012 - VI ZR 157/11, NJW 2012, 2178 — Fristenversaeumnis: Anwalt haftet fuer schuldhaft versaeumte Fristen; Wiedervorlage und Fristenkalender sind Kernpflicht der Mandatsfuehrung; systematisches Fristenmanagement ist Standard
-- BGH, Urt. v. 07.07.2021 - VIII ZR 54/20, NJW 2021, 3172 — Longstop Date: bei Ablauf des Longstop Date ohne CP-Erfullung entsteht Ruecktrittsrecht kraft Vertrags; keine erneute Fristsetzung erforderlich
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Picot, Unternehmenskauf, Kapitel 5 (CP-Kalender, Signing, Closing), 5. Auflage
-- MueKo BGB/Grothe, §§ 187-193 Rn. 1-60 (Fristenrecht)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **Fristenregister anlegen:** alle Fristen aus SPA, Regulatorik und Gesetz extrahieren

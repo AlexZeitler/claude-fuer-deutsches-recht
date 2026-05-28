@@ -56,11 +56,10 @@ Strukturierter Abschluss eines Mandats im Portfolio: Ergebnis dokumentieren, Kos
 
 Verbindlich: `../references/zitierweise.md`.
 
-- BGH, Beschl. v. 30.05.2018 – XII ZB 308/16, NJW 2018, 2794 Rn. 14 (Prozessvergleich: Vollstreckbarkeit und Widerrufsvorbehalt).
-- Greger, in: Zöller, ZPO, 35. Aufl. 2024, § 269 Rn. 1 ff. (Klagerücknahme: Einwilligung, Kostenfolge).
-- Greger, in: Zöller, ZPO, 35. Aufl. 2024, § 91a Rn. 1 ff. (Erledigungserklärung: übereinstimmende Erklärungen, Kostentragungspflicht nach bisherigem Sach- und Streitstand).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - BRAO § 50 (Aufbewahrungspflicht Handakten: 6 Jahre); § 43a Abs. 5 BRAO (Fremdgelder).
-- BGH, Beschl. v. 19.09.2018 – IX ZB 16/17, NJW 2018, 3710 Rn. 22 (Kostenfestsetzungsverfahren §§ 103 ff. ZPO: Antragsfrist, sofortige Beschwerde).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
 
@@ -75,7 +74,7 @@ MANDATSGEHEIMNIS – § 43a Abs. 2 BRAO
 ──────────────────────────────────────
 ERGEBNIS
 ──────────────────────────────────────
-[Kurzbeschreibung: z. B. "Vergleich: Beklagter zahlt EUR 25.000; gegenseitige Erledigung aller Ansprüche. Protokolliert am TT.MM.JJJJ vor LG Frankfurt a. M., Az. 2-08 O 123/23."]
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ──────────────────────────────────────
 ENDEXPOSITION

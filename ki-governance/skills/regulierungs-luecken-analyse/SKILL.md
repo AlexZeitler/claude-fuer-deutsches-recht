@@ -46,10 +46,7 @@ konservative Lesart nennen, bei Materialität externe Beratung empfehlen.
 
 **Leitentscheidungen**
 
-- EuGH, Urt. v. 07.12.2023 – C-634/21, NJW 2024, 126 Rn. 49 (Schufa-Score): Maßstab für Lückenanalysen zu DSGVO Art. 22 bei Scoring-Systemen; automatisiertes Profiling als Art. 22 Abs. 1-Entscheidung bei maßgeblicher Grundlage für Drittentscheidung.
-- EuGH, Urt. v. 27.02.2025 - C-203/22 (Dun & Bradstreet Austria), NJW 2025, 1471: Art. 15 Abs. 1 lit. h DSGVO verlangt aussagekraeftige Informationen zur involvierten Logik automatisierter Bonitaetsbeurteilungen; Geschaeftsgeheimnisse sind im Einzelfall zu schuetzen.
-- BGH, Urt. v. 13.01.2015 – VI ZR 204/14, NJW 2015, 1236 Rn. 12: Produkthaftung für fehlerhafte Informationsprodukte; übertragbar auf KI-Haftung unter RL 2024/2853.
-- BVerwG, Urt. v. 04.04.2019 – 2 C 4/18, NVwZ 2019, 1283 Rn. 22: Transparenz algorithmischer Verwaltungsentscheidungen; relevant bei Behörden-KI.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kommentare**
 
@@ -132,7 +129,7 @@ Auch bei "keine Lücken" dokumentieren — nützlicher Compliance-Nachweis.
 **Quellen-Tagging:**
 - `[gesichert]` — stabile Normen (z. B. DSGVO Art. 22, VO (EU) 2024/1689).
 - `[prüfen]` — Durchführungsrechtsakte, Leitlinien, Schwellenwerte.
-- **Pinpoint-Pflicht** — konkrete Artikelnummern, Anhang-Referenzen und Erwägungsgründe immer gegen die Primärquelle (ABl./EUR-Lex, beck-online, juris) verifizieren. AI-Act-Artikelnummern haben sich während der Konsolidierung verschoben; im Output keine ungeprüften Pinpoint-Tags stehen lassen.
+- **Pinpoint-Pflicht** — konkrete Artikelnummern, Anhang-Referenzen und Erwägungsgründe immer gegen die Primärquelle (ABl./EUR-Lex, amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang) verifizieren. AI-Act-Artikelnummern haben sich während der Konsolidierung verschoben; im Output keine ungeprüften Pinpoint-Tags stehen lassen.
 
 ## Beispiel
 
@@ -152,7 +149,7 @@ Auch bei "keine Lücken" dokumentieren — nützlicher Compliance-Nachweis.
 
 - **AI Act Art. 5, Art. 6 i.V.m. Anhang III, Art. 9–15, Art. 26/29, Art. 99.**
 - **DSGVO Art. 22** bei automatisierten Entscheidungsverfahren.
-- EuGH, Urt. v. 27.02.2025 - C-203/22 (Dun & Bradstreet Austria), NJW 2025, 1471: Art. 15 Abs. 1 lit. h DSGVO verlangt aussagekraeftige Informationen zur involvierten Logik automatisierter Bonitaetsbeurteilungen; Geschaeftsgeheimnisse sind im Einzelfall zu schuetzen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **RL 2024/2853/EU** (Produkthaftung) bei Haftungslücken.
 - **DSGVO Art. 35** bei Folgenabschätzungspflicht.
 - **Wendehorst/Grinzinger, in: Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 6 Rn. 5.**

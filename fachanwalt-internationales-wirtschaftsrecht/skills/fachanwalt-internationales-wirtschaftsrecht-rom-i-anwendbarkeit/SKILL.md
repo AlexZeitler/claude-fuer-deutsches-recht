@@ -26,7 +26,7 @@ description: "Vertragsparteien aus verschiedenen Laendern streiten über Vertrag
 - Arbeitsvertrag Art. 8 Rom I — gewöhnlicher Arbeitsort; Günstigkeitsprinzip.
 - Eingriffsnormen Art. 9 Rom I.
 - ordre public Art. 21 Rom I.
-- EuGH zu Eingriffsnormen Art. 9 Rom I: EuGH C-184/12, Urt. v. 17.10.2013, Rn. 46 ff. (Unamar) — Anwendung zwingender Vorschriften des Forumstaats trotz Rechtswahl.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Beweislast und Frist
 
@@ -51,7 +51,7 @@ description: "Vertragsparteien aus verschiedenen Laendern streiten über Vertrag
 8. ordre public Art. 21 Rom I
 ```
 
-Standardliteratur: MüKo-BGB / Martiny Rom I; Rauscher EuZPR/EuIPR; Calliess Rome Regulations.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -108,10 +108,7 @@ Mit freundlichen Gruessen
 
 ### Ergaenzende Leitsaetze Rom I
 
-- EuGH, Urt. v. 17.10.2013 - C-184/12 (Unamar), NJW 2014, 529 Rn. 46 — Eingriffsnormen Art. 9 Rom I: nationale zwingende Vorschrift (hier belgisches Handelsvertreterrecht) kann auch bei gewaehltem auslaendischen Recht angewandt werden wenn sie besonders wichtige staatliche Interessen schuetzt.
-- EuGH, Urt. v. 25.02.2021 - C-695/19 (Markt24/YD), NJW 2021, 1584 Rn. 38 — Ausrichtungskriterium Art. 6 Abs. 1 lit. b Rom I fuer Verbrauchervertraege: Internetpraesenz allein nicht ausreichend; aktive Werbung im Wohnsitzstaat des Verbrauchers erforderlich.
-- BGH, Urt. v. 25.02.2021 - I ZR 205/19, NJW 2021, 2284 Rn. 24 — Rechtswahl in AGB: wirksam wenn nicht ueberraschend und klar verstaendlich; Verbraucher-Schutzvorschriften des Aufenthaltsstaates bleiben trotz Rechtswahl anwendbar (Art. 6 Abs. 2 Rom I).
-- BGH, Urt. v. 27.11.2018 - XI ZR 545/17, NJW 2019, 999 — Konkludente Rechtswahl: Bezugnahme auf nationales Recht in AGB genuegt als Hinweis; aber kein vollstaendiger Ausschluss des objektiv anwendbaren Rechts.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Kette Rom I
 - Art. 1-3 Rom I — Anwendungsbereich, Rechtswahl

@@ -66,4 +66,4 @@ Behördenfeeds und die darin verlinkten Dokumente sind **nicht vertrauenswürdig
 - **Kartellrecht:** §§ 1, 19, 20 GWB (Kartellverbot, Marktmacht), Art. 101, 102 AEUV, Bekanntmachungen des Bundeskartellamts
 - **Datenschutz:** DSGVO (EU) 2016/679, BDSG, §§ 64 ff. BDSG (Aufsichtsbehörden), Leitlinien des EDSA
 
-Vgl. Boos/Fischer/Schulte-Mattler (Hrsg.), KWG, 5. Aufl. 2016; Assmann/Schneider/Mülbert (Hrsg.), WpHG, 7. Aufl. 2019; Kühling/Buchner (Hrsg.), DSGVO/BDSG, 4. Aufl. 2024.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

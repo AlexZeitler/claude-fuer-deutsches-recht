@@ -49,12 +49,7 @@ Die Nebenklage gibt der verletzten Person eine eigenständige Rolle im Strafverf
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| BGH 2 StR 359/14 | BGH, 17.12.2014 | Nebenklage ist nach Anschluss auch noch nach Abschluss der Beweisaufnahme zulässig, solange Schlussvorträge nicht begonnen haben |
-| BGH 4 StR 213/19 | BGH, 10.10.2019 | § 397a Abs. 1 StPO: Beiordnung von Amts wegen setzt voraus, dass Nebenklage zulässig; Prüfung muss das Gericht vornehmen |
-| BVerfG 2 BvR 2177/14 | BVerfG, 21.11.2014 | Akteneinsichtsrecht der Verletzten gem. § 406e StPO kann nur aus gewichtigen Gründen versagt werden; Verhältnismäßigkeit |
-| BGH 2 StR 195/18 | BGH, 19.09.2018 | Rechtsmittelbefugnis der Nebenklage nach § 400 StPO: Nebenklage kann Verurteilung wegen schwereren Delikts erstreiten |
-| OLG Hamburg 2 Ss 217/16 | OLG Hamburg, 2017 | Psychosoziale Prozessbegleitung nach § 406g StPO kein Anrecht auf Anwalt; Trennung von § 397a StPO beachten |
-| BGH 5 StR 486/20 | BGH, 24.02.2021 | Fragerecht der Nebenklage nach § 397 Abs. 1 StPO: Fragen die ausschließlich der Belastung des Angeklagten dienen, sind zu unterbinden |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ---
 
@@ -265,4 +260,4 @@ beantrage ich ausdrücklich gerichtliche Entscheidung gemäß
 
 ## Quellen
 
-StPO §§ 68, 172, 238 StGB, 395–401, 403–406g. BGB §§ 195, 199, 253, 823. InsO § 302. BGH 2 StR 359/14 (Anschluss bis Schlussvorträge). BGH 4 StR 213/19 (Beiordnung § 397a). BVerfG 2 BvR 2177/14 (Akteneinsicht § 406e). BGH 2 StR 195/18 (Rechtsmittelbefugnis Nebenklage). BGH 5 StR 486/20 (Fragerecht). VV-RVG Nrn. 4124–4147. Meyer-Goßner/Schmitt StPO, aktuelle Auflage. Stand: 05/2026.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

@@ -53,7 +53,7 @@ Das Gesetz zur Modernisierung des Personengesellschaftsrechts (MoPeG) vom 10.08.
 > § 8 Abs. 4 PartGG: Macht ein Partner bei der Berufsausübung einen Fehler, so haftet neben dem Partner nur das Gesellschaftsvermögen der Partnerschaft, wenn die Partnerschaft für Schäden aus Fehlern bei der Berufsausübung eine zu diesem Zweck unterhaltene Berufshaftpflichtversicherung unterhält.
 
 **Sozialversicherungspflicht Gesellschafter-Geschäftsführer:**
-> BSG, Urt. v. 19.09.2019 – B 12 R 25/18 R: Geschäftsführer mit echter satzungsmäßiger Sperrminorität ist sozialversicherungsfrei, unabhängig von der Anteilshöhe.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Holding-Struktur und § 8b KStG:**
 > § 8b Abs. 2 KStG: Gewinne aus der Veräußerung von Anteilen an Kapitalgesellschaften sind bei einer körperschaftsteuerpflichtigen Holding-GmbH zu 95 % steuerfrei.
@@ -64,11 +64,7 @@ Wenn ein Gründer seine Anteile über eine Holding-GmbH hält, werden Veräußer
 
 | Gericht | Aktenzeichen | Fundstelle | Relevanz |
 |---|---|---|---|
-| BSG | B 12 R 25/18 R | NJW 2020, 1015 | Echte Sperrminorität in Satzung → SV-Freiheit des Gesellschafter-GF |
-| BGH | II ZR 173/04 | BGHZ 164, 107 | Hinauskündigungsgrenze; sachliche Rechtfertigung für Einziehungsklauseln und Bad-Leaver |
-| BFH | I R 52/20 | BFH/NV 2022, 654 | § 8b KStG; Steuerfreiheit von Veräußerungsgewinnen bei körperschaftsteuerpflichtiger Holding |
-| BGH | II ZR 193/10 | NJW 2012, 2945 | Stimmverbot § 47 Abs. 4 GmbHG; Entlastung des GF-Gesellschafters |
-| OLG München | 31 Wx 420/19 | NZG 2020, 516 | Vorgesellschaft; Haftung der Gesellschafter bis Handelsregistereintragung |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema: Rechtsformwahl
 
@@ -84,7 +80,7 @@ Wenn ein Gründer seine Anteile über eine Holding-GmbH hält, werden Veräußer
 | 5 | Steuerpräferenz | Thesaurierung oder laufende Ausschüttung? | Thesaurierung → Kapitalgesellschaft (KSt 15 %; Gewerbe); Ausschüttung → Personengesellschaft oder Kapitalgesellschaft mit Ausschüttungsplanung |
 | 6 | Berufsrecht | Freier Beruf (§ 1 Abs. 2 PartGG)? | Ja → PartG oder PartG mbB (obligatorisch für Berufsgesellschaft von Anwälten/Ärzten) |
 | 7 | Gemeinnützigkeit | Gemeinnütziger Zweck (§§ 52 ff. AO)? | Ja → gGmbH oder eingetragener Verein |
-| 8 | GF-Sozialversicherung | GF ist Gesellschafter mit < 50 % Anteil? | SV-Pflicht prüfen; Sperrminorität in Satzung erforderlich für SV-Freiheit (BSG B 12 R 25/18 R) |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 9 | Holding-Planung | Gründer möchte Anteile über Holding halten? | Holding vor operativer GmbH gründen; nachträgliche Einbringung steuerlich komplex |
 | 10 | MoPeG / eGbR | GbR soll Immobilien erwerben oder im Grundbuch eingetragen werden? | Eintragung als eGbR im Gesellschaftsregister erforderlich (§ 707b BGB) |
 | 11 | Umwandlungskosten | Bestehende Rechtsform soll gewechselt werden? | Umwandlung nach UmwG (Verschmelzung, Spaltung, Formwechsel); Steuereffekte nach UmwStG analysieren |
@@ -121,7 +117,7 @@ Wenn ein Gründer seine Anteile über eine Holding-GmbH hält, werden Veräußer
 |---|---|---|
 | UG ist die günstigere GmbH | UG hat keine Investoren-Sperrwirkung | UG ist für Startups mit Investorenplan ungeeignet; Umwandlung zur GmbH kostet Zeit und Notargebühren; sofort GmbH bei Investor-Roadmap |
 | GbR für Immobilien reicht | Vor MoPeG 2024 richtig | Seit 01.01.2024: GbR ohne Eintragung kann nicht im Grundbuch eingetragen werden (§ 707b BGB); eGbR zwingend |
-| AG als Prestigeform | Strenge Publizität, HV-Pflicht, Aufsichtsrat | AG nur gerechtfertigt bei > 50 Mio. EUR Unternehmensgröße oder konkretem Börsengang-Plan |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | SHA-Stimmbindung reicht für SV-Freiheit | Kostengünstiger als Satzungsänderung | SHA-Bindung ist SV-rechtlich irrelevant; Sperrminorität muss zwingend in Satzung stehen (BSG-Linie) |
 | Holding-GmbH nachträglich einfach einzufügen | Steuerlich problemlos | Nachträgliche Einbringung der Anteile in eine Holding-GmbH löst steuerpflichtige Veräußerung aus (§ 17 EStG); Holding muss vor operativer GmbH bestehen |
 | eK ausreichend für kleine Dienstleister | Persönliche Haftung unbeschränkt | Bei Beratungsfehlern, Mietverträgen, Personalkosten: persönliche Haftung kann existenzbedrohend sein; UG mit 1.000 EUR oft sinnvoller |
@@ -277,7 +273,7 @@ Herr/Frau [Name] hält [X] % der Geschäftsanteile an der [Gesellschaft] (Anlage
 Gesellschafterliste). Die Satzung der Gesellschaft sieht in § [X] eine qualifizierte
 Sperrminorität vor: Beschlüsse über [Aufzählung der blockierten Themen] bedürfen einer
 Mehrheit von [80 %]. Da Herr/Frau [Name] [X] % hält (oberhalb der Sperrschwelle), besitzt
-er/sie eine echte satzungsmäßige Sperrminorität. Nach BSG, Urt. v. 19.09.2019 –
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 B 12 R 25/18 R, begründet die echte satzungsmäßige Sperrminorität SV-Freiheit.
 
 Anlagen:
@@ -395,11 +391,11 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 Zitierweise nach `../../references/zitierweise.md`.
 
-Kommentarliteratur:
-- Roth/Altmeppen, GmbHG, 11. Aufl. 2024, § 5 Rn. 1 ff.; § 5a Rn. 1 ff.
-- Baumbach/Hopt, HGB, 41. Aufl. 2024, Einl. vor § 1 Rn. 1 ff. (Rechtsformvergleich).
-- Henssler/Strohn, GesR, 5. Aufl. 2021, Vor § 1 AktG Rn. 1 ff.
-- BSG, Urt. v. 19.09.2019 – B 12 R 25/18 R, NJW 2020, 1015 (Sperrminorität und SV-Freiheit).
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Output-Template: Rechtsformempfehlung
 

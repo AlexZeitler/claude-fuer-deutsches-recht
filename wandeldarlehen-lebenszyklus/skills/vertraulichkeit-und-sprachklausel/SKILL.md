@@ -27,8 +27,7 @@ Dieser Skill formuliert die Vertraulichkeitsklausel (§ 8) und die Schlussbestim
 - Art. 6 Abs. 1 lit. b EuGVVO (Gerichtsstand bei unternehmerischem Vertrag)
 
 ### Rechtsprechung
-- BGH, Urt. v. 15. November 2006 – XII ZR 120/04 (Salvatorische Klausel und § 139 BGB)
-- BGH, Urt. v. 5. Oktober 2017 – I ZR 184/16 (Vertraulichkeit in Unternehmenstransaktionen)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -93,7 +92,7 @@ Stand: 05/2026. DIS-Schiedsordnung 2018. Bei Änderung BGB oder DIS-Schiedsordnu
 
 ### Leitsatz-Zitate
 
-OLG Frankfurt, Urt. v. 14.04.2022 — **6 U 112/21**, NJW-RR 2022, 912 Rn. 12: NDA/Vertraulichkeitsklausel im Wandeldarlehensvertrag muss klar definieren, was als vertraulich gilt; pauschal formulierte Klauseln ohne Definition des Schutzgegenstands sind nach § 307 BGB unwirksam, wenn sie AVB-Charakter haben; individuelle Vereinbarungen können weiter gefasst sein.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 
@@ -101,6 +100,6 @@ OLG Frankfurt, Urt. v. 14.04.2022 — **6 U 112/21**, NJW-RR 2022, 912 Rn. 12: N
 
 <!-- AUDIT 27.05.2026
 Problem : BGH VI ZR 171/18 (NJW 2019, 2077) – WRONG_TOPIC; tatsächlich: Anforderungen Berufungsurteil/§ 313 ZPO, kein Vertraulichkeitsbezug.
-Maßnahme: Leitsatz-Zitat entfernt. Kein verifizierter BGH-Ersatz für Vertraulichkeit im Wandeldarlehen gefunden; OLG Frankfurt 6 U 112/21 (NJW-RR 2022, 912) verbleibt als valide Quelle.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Quelle: https://dejure.org/2019,11230
 -->

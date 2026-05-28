@@ -43,7 +43,7 @@ Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-rec
 | `verlagsredaktion.zip`                    | Redaktioneller Assistent für juristische Publikationen                                                                     |
 | `nda-abgleich.zip`                        | NDA-Review aus Empfängersicht, Markup mit Begründungen                                                                     |
 | `methodenlehre-buergerliches-recht.zip`       | Gutachten- vor Urteilsstil, juristische Methodenlehre                                                                      |
-| `zitierweise-deutsches-recht.zip`         | Deutsche Hauszitierweise (Datum + Aktenzeichen, BGHZ-Pinpoint mit Randnummer)                                              |
+| `zitierweise-deutsches-recht.zip`         | Deutsche Hauszitierweise mit Datum, Aktenzeichen, verifizierbarer Quelle und Sperre gegen Blindzitate                     |
 | `common-law-kompass.zip`                  | Common Law, English Law und US Law für deutsche Wirtschaftsjuristen: False Friends, Vertragsbegriffe, Consideration, UCC, Discovery und bilinguale Reviews |
 | `europarecht-kompass.zip`                 | Europarecht ohne deutsche Denkfehler: Vorrang, unmittelbare Wirkung, Richtlinien, Verordnungen, Charta, Beihilfen und Vorlageverfahren |
 | `einfache-leichte-sprache-jura.zip`       | Juristische Texte wahlweise in Einfache Sprache oder Leichte Sprache übertragen, mit Rechtsinhalt-Sicherung und Qualitätsgate |
@@ -52,8 +52,8 @@ Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-rec
 
 | ZIP                                       | Was steckt drin                                                                                                            |
 | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| `liquiditaetsplanung.zip`                 | 3-Wochen-Vorschau, 13/26/52-Wochen-Planung, BGH-Schema Passiva II                                                          |
-| `insolvenzrecht.zip`                      | §§ 17, 19 InsO, Antragspflicht § 15a InsO, BGH-Volltexte als PDF                                                           |
+| `liquiditaetsplanung.zip`                 | 3-Wochen-Vorschau, 13/26/52-Wochen-Planung, Quote/Lücken-Ampel und Dokumentationspaket                                    |
+| `insolvenzrecht.zip`                      | §§ 17, 19 InsO, Antragspflicht § 15a InsO, Gläubigerantrag, Anfechtung und Live-Verifikation von Rechtsprechung           |
 | `insolvenzverwaltung.zip`                | Insolvenzverwaltung aus IV-/Sachwalter-Sicht: Eröffnungsgutachten, Masse, Tabelle, Anfechtung, § 15b, Insolvenzplan-/StaRUG-Planwerkstatt, § 208, Berichte, Schlussrechnung |
 | `insolvenzforderungsanmeldungspruefung.zip` | Freistehende Forderungsanmeldungsprüfung: Intake, § 174 InsO, Belege, Grund/Betrag/Rang, Bestreiten, Feststellung, Tabelle, Prüfungstermin und § 189-Nachlauf |
 | `insolvenzplan-starug-planwerkstatt.zip` | Freistehende Insolvenzplan- und StaRUG-Planwerkstatt: Sanierungskonzept, integrierte Planung, Vergleichsrechnung, Gruppen/Klassen, Planentwurf, Abstimmung, Cram-down, Minderheitenschutz, Gericht und Vollzug |
@@ -73,7 +73,7 @@ Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-rec
 | `phishing-vorfall-pruefer.zip` | Online-Banking-Phishing, pushTAN, Call-ID-Spoofing, § 675u/§ 675v BGB, Banklogs, Ombudsmann und Klage |
 | `vertragsausfueller.zip` | DOCX-Vorlagen und Altverträge strippen, Felder erkennen, Term Sheets mappen, Rückfragen führen, Clean-Verträge erzeugen und Track Changes nur nach ausdrücklicher Nachfrage |
 | `vertragsrecht.zip`                       | NDA, AGB, SaaS, Lieferantenverträge                                                                                        |
-| `fluggastrechte.zip`                      | VO 261/2004, EuGH-Rspr., Ticketprüfung, Pauschalklage                                                                      |
+| `fluggastrechte.zip`                      | VO 261/2004, Ticketprüfung, Pauschalklage und Rechtsprechungsrecherche nur mit Live-Verifikation                         |
 | `arbeitsrecht.zip`                        | Kündigung (KSchG, 3-Wochen-Frist), Aufhebungsvertrag inkl. Sperrzeit, Abmahnung, BR-Anhörung                               |
 | `mietrecht.zip`                           | Mieterhöhung, Mietspiegel-Quellen, Eigenbedarf, Schönheitsreparaturen                                                      |
 | `nachbarschaftsstreit-pruefer.zip`        | Überbau, Überhang, Äste/Wurzeln, Grenzbaum, Zaun, Immissionen, Baugrube, Notweg, Hammerschlagsrecht, Beweise, Schreiben und Vergleich |

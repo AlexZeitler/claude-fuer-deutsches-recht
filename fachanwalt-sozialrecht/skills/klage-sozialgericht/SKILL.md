@@ -98,12 +98,8 @@ Bei wirtschaftlicher Bedürftigkeit: PKH nach § 73a SGG iVm §§ 114 ff. ZPO. V
 
 ## Aktuelle Rechtsprechung
 
-- BSG, Urt. v. 12.09.2018 - B 4 AS 39/17 R, SozR 4-4200 § 22 Nr. 97 Rn. 14 — Das Sozialgericht ist nach § 103 SGG verpflichtet, den Sachverhalt von Amts wegen zu ermitteln; die Beteiligten sind zur Mitwirkung verpflichtet, ein Beweisantrag muss aber konkrete Tatsachen bezeichnen, die das Gericht klären soll.
-- BSG, Urt. v. 14.02.2018 - B 14 AS 17/17 R, SozR 4-1500 § 87 Nr. 3 Rn. 18 — Die Klagefrist des § 87 SGG beginnt mit der Bekanntgabe des Widerspruchsbescheids; bei fehlerhafter Rechtsbehelfsbelehrung gilt die Jahresfrist des § 66 Abs. 2 SGG auch für den Widerspruchsbescheid.
-- BSG, Urt. v. 27.09.2011 - B 4 AS 155/10 R, SozR 4-4200 § 7 Nr. 25 Rn. 21 — Im Sozialgerichtsprozess trägt grundsätzlich der Kläger die objektive Beweislast für anspruchsbegründende Tatsachen; bei Amtsermittlung (§ 103 SGG) werden Beweisanträge jedoch nicht mit strikter Beweislast verknüpft.
-- BSG, Urt. v. 29.03.2022 - B 4 AS 8/21 R, SozR 4-1500 § 193 Nr. 8 Rn. 11 — Kostenentscheidungen nach § 193 SGG stehen im billigen Ermessen des Gerichts; bei Obsiegen im Wesentlichen ist dem Kläger Kostenerstattung zuzusprechen, auch wenn einzelne Anträge abgewiesen wurden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Krasney/Udsching, Handbuch des Sozialgerichtsprozesses, Kap. III Rn. 1 ff. (Klageerhebung, Klagearten)
-- Meyer-Ladewig/Keller/Leitherer/Schmidt, SGG, § 54 Rn. 1 ff. (Klagarten) und § 103 Rn. 1 ff. (Amtsermittlung)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

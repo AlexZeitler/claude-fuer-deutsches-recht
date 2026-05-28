@@ -39,7 +39,7 @@ description: "Gesellschafterdarlehen und gleichgestellte Forderungen nach § 135
 | externer Kreditgeber ohne Einfluss | grundsätzlich kein § 135 Abs. 1; § 133 oder § 130 gesondert prüfen |
 | Gesellschafter als Bürge oder Sicherungsgeber | § 135 Abs. 2 und § 143 Abs. 3 prüfen |
 
-BGH, Urt. v. 18.04.2024 — IX ZR 129/22: Ein außenstehender Dritter kann § 135 Abs. 1 InsO unterfallen, wenn seine Rechte ihm gesellschaftergleichen unternehmerischen Einfluss vermitteln. Ohne belastbare Tatsachen zur Einflussstellung darf die KI diese Gleichstellung nicht behaupten.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Sanierungs- und Kleinbeteiligtenprüfung
 

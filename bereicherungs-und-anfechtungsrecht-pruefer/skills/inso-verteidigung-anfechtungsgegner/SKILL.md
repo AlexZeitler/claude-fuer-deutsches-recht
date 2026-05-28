@@ -42,13 +42,13 @@ Die Verteidigung muss Indizien zerlegen, nicht nur bestreiten.
 | Sanierung war aussichtslos | Gibt es ein Sanierungskonzept, Beraterkorrespondenz, Finanzierungszusage oder Vollbefriedigungsperspektive? |
 | Liquiditätsstatus beweist Zahlungsunfähigkeit | Ist der Liquiditätsstatus einzelfallbezogen substantiiert und belegt? |
 
-BGH, Urt. v. 06.05.2021 — IX ZR 72/20: Die subjektiven Voraussetzungen der Vorsatzanfechtung dürfen nicht schematisch allein aus erkannter Zahlungsunfähigkeit abgeleitet werden.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 03.03.2022 — IX ZR 78/20: Bei Sanierungsversuchen muss der Verwalter darlegen und beweisen, dass der Versuch untauglich war und der Schuldner dies erkannte oder billigend in Kauf nahm.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Entsch. v. 26.10.2023 — IX ZR 112/22: Wird die Kenntnis vermutet, braucht der Gegner eine hinreichend verlässliche Beurteilungsgrundlage, um die Vermutung zu widerlegen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 18.04.2024 — IX ZR 129/22: Ein außerhalb der Gesellschaft stehender Dritter muss einen nicht näher belegten Liquiditätsstatus nicht ohne Weiteres im Einzelnen bestreiten.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Bargeschäft § 142 InsO
 
@@ -65,7 +65,7 @@ Keine pauschale 30-Tage-Regel verwenden; der zeitliche Zusammenhang ist geschäf
 
 § 146 InsO verweist auf die regelmäßige Verjährung nach BGB. Der Verwalter muss seine Kenntnis- und Ermittlungslage offenlegen, wenn Verjährung streitig wird.
 
-BGH, Urt. v. 27.07.2023 — IX ZR 138/21: Grob fahrlässige Unkenntnis des Insolvenzverwalters setzt eine besonders schwere, auch subjektiv vorwerfbare Vernachlässigung seiner Ermittlungspflichten voraus.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Zinsen: Nach § 143 Abs. 1 S. 3 InsO ist eine Geldschuld nur bei Verzug oder nach § 291 BGB zu verzinsen; Nutzungsherausgabe darüber hinaus ist ausgeschlossen.
 

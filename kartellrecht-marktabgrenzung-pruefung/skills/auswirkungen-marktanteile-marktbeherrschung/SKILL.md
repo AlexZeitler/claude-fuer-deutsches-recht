@@ -26,7 +26,7 @@ Die Wahl der Marktdefinition ist selten neutral: Sie bestimmt, welcher Marktante
 | < 25% | Keine FKVO-Bedenken bei Fusion | EU-Fusionsleitlinien 2004 |
 | < 30% | GVO-Freistellung Vertikales (je Partei) | VO 2022/720 |
 | 40% | Marktbeherrschungsvermutung Deutschland | § 18 Abs. 4 GWB |
-| 50% | AKZO-Vermutung Marktmacht | EuGH Rs. C-62/86 |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 | > 50% (kumuliert 3 Unternehmen) | Oligopol-Vermutung | § 18 Abs. 6 Nr. 1 GWB |
 | > 66⅔% (kumuliert 5 Unternehmen) | Oligopol-Vermutung | § 18 Abs. 6 Nr. 2 GWB |
 
@@ -74,10 +74,9 @@ Marktdefinitionsabhängigkeit des Ergebnisses: **gering (< 5 Prozentpunkte Unter
 
 ## Leitentscheidungen Marktanteile / Marktbeherrschung
 
-- EuGH, Urt. v. 13.02.1979 — Rs. 85/76 (Hoffmann-La Roche), Slg. 1979, 461 — Marktanteil als primaerer Indikator Marktbeherrschung; Stabilitaet des Marktanteils ueber Zeit als Verstaerker.
-- BGH, Beschl. v. 07.11.2023 — KZR 67/21, WuW 2024, 90 — Widerlegung Marktbeherrschungsvermutung; trotz 40 Prozent Marktanteil wesentlicher Wettbewerb nachweisbar; Gesamtwuerdigung aller Faktoren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BKartA, Beschl. v. 01.02.2022 — B6-22/21 (Facebook/Meta) — Ueberragende Marktstellung § 18 Abs. 3a GWB; Marktanteil plus Netzwerkeffekte plus Datenzugang kumulativ.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bechtold/Bosch GWB § 18 Rn. 40-70 (Vermutungsregel, Faktoren, Marktanteil)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

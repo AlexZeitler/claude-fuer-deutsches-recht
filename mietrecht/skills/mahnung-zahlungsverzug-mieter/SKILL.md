@@ -88,15 +88,12 @@ Vor Versand der fristlosen Kündigung: fachanwaltliche Prüfung der Rückstandsb
 
 ## Aktuelle Rechtsprechung — Leitsaetze
 
-- BGH, Urt. v. 13.07.2022 — VIII ZR 317/21, NJW 2022, 2996 Rn. 22: Die Schonfristzahlung nach § 569 Abs. 3 Nr. 2 BGB heilt nur die fristlose Kuendigung; eine ordentliche Kuendigung nach § 573 Abs. 2 Nr. 1 BGB wegen Zahlungsverzugs bleibt wirksam, wenn der Rueckstand erheblich war.
-- BGH, Urt. v. 17.02.2021 — VIII ZR 68/19, NJW 2021, 1661 Rn. 28: Aufrechnungsverbot des Vermieters gegen Mietkautionsrueckgabeanspreche greift nicht als AGB; Aufrechnung mit Gegenforderungen ist zulaessig, soweit konkret beziffert.
-- BGH, Urt. v. 19.11.2019 — VIII ZR 238/18, NJW 2020, 395 Rn. 22: Zwei-Monats-Rueckstand an zwei aufeinanderfolgenden Terminen begruendet fristlose Kuendigung nach § 543 Abs. 2 Nr. 3 lit. a BGB; Teilzahlungen, die unter diesem Schwellenwert bleiben, geneuegen nicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette
 
 §§ 543, 569, 573 BGB — Kuendigungsvoraussetzungen Zahlungsverzug; § 286 BGB — Verzug; § 569 Abs. 3 BGB — Schonfrist
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schmidt-Futterer, Mietrecht, 15. Aufl. — § 543 BGB Rn. 1 ff. Zahlungsrueckstand
-- BeckOK Mietrecht — § 569 Abs. 3 BGB Schonfristzahlung
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

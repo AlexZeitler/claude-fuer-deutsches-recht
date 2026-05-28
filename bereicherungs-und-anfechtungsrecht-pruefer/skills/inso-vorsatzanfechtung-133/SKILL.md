@@ -34,13 +34,13 @@ Wichtig: Die Vier-Jahres-Frist des § 133 Abs. 2 InsO gilt für Deckungshandlung
 
 ## Rechtsprechungsleitlinien
 
-BGH, Urt. v. 06.05.2021 — IX ZR 72/20: Die subjektiven Voraussetzungen der Vorsatzanfechtung dürfen nicht schematisch allein aus erkannter Zahlungsunfähigkeit abgeleitet werden. Es braucht eine einzelfallbezogene Gesamtwürdigung.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 03.03.2022 — IX ZR 78/20: Bei Sanierungsversuchen muss der Verwalter für den Benachteiligungsvorsatz darlegen und beweisen, dass der Sanierungsversuch untauglich war und der Schuldner dies erkannt oder billigend in Kauf genommen hat.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Entsch. v. 26.10.2023 — IX ZR 112/22: Die Vermutung der Kenntnis nach § 133 Abs. 1 S. 2 InsO kann widerlegt werden, erfordert aber eine tragfähige Tatsachengrundlage für die Annahme vollständiger Befriedigung der übrigen Gläubiger.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 18.04.2024 — IX ZR 129/22: Ein nicht näher belegter Liquiditätsstatus des Verwalters muss von einem außenstehenden Dritten nicht ohne Weiteres im Einzelnen konkret bestritten werden.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## § 133 als Human-Review-Norm
 

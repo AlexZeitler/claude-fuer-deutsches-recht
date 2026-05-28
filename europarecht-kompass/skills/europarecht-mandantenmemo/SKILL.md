@@ -50,8 +50,7 @@ Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf 
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- EuGH, Urt. v. 19.06.1990 - C-213/89 (Factortame), EuGHE 1990 I-2433 — nationales Gericht muss EU-Recht-Anspruch vorrang gegenueber nationalem Recht geben; vorlaeufiger Rechtsschutz EU-Recht-Basis.
-- EuGH, Urt. v. 15.06.2000 - C-365/98 (Brinkmann), EuZW 2000, 556 — Staatshaftung: Hinweis in Mandantenmemo: EU-Recht-Verstoß und Schaden reichen nicht; qualifizierter Verstoß (hinreichend qualifiziert) erforderlich.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage vor Mandantenmemo
 

@@ -50,13 +50,11 @@ Der Skill gibt eine azubi-spezifische Checkliste aus (Lernfortschritt / Praxis /
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Allgemeine Beweislastlinie zur besseren als befriedigenden Bewertung; bei Ausbildungszeugnissen vorsichtig übertragen und stets am konkreten Ausbildungsstand messen.
-- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Berichtigung oder Ergänzung bei Zeugnissen, die den gesetzlichen Anforderungen nicht genügen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Schlachter, 25. Aufl. 2025, § 16 BBiG Rn. 1 ff. (Zeugnisanspruch, Inhalt, Berichtigungsklage)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage — vor der Azubi-Analyse
 
 1. Abschlusszeugnis oder Zwischenzeugnis (§ 16 Abs. 2 BBiG)?

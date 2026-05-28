@@ -16,10 +16,7 @@ description: 'Ordnet ein Vertragsproblem dem richtigen Genehmiger per Eskalation
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 14.04.2005 - IX ZR 148/03, NJW 2005, 2086 — Vollmacht: Handeln ohne Vertretungsmacht begründet schwebende Unwirksamkeit; Genehmigung nach § 177 BGB möglich, aber unsicher.
-- BGH, Urt. v. 11.02.2016 - III ZR 322/14, NJW 2016, 1583 — Culpa in contrahendo: Abbruch von Vertragsverhandlungen ohne sachlichen Grund nach Erweckung eines Vertrauenstatbestands ist schadensersatzpflichtig (§ 311 Abs. 2 BGB).
-- BGH, Urt. v. 18.04.2018 - VIII ZR 168/17, NJW 2018, 2317 — Haftungsbeschränkungen in AGB: Ausschluss grober Fahrlässigkeit nach § 309 Nr. 7b BGB unwirksam; automatischer Eskalationsauslöser bei ungemessenem Haftungsausschluss.
-- BGH, Urt. v. 25.07.2017 - II ZR 233/16, NJW 2017, 3579 — Gesellschafterbeschluss bei außerordentlichen Verträgen: für Vertragsabschlüsse über Geschäftsführerkompetenz hinaus ist Gesellschafterbeschluss erforderlich.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -30,12 +27,9 @@ description: 'Ordnet ein Vertragsproblem dem richtigen Genehmiger per Eskalation
 - Art. 33, 34 DSGVO — Meldepflichten bei Datenpannen (Eskalationsauslöser)
 - § 43a Abs. 2 BRAO — anwaltliche Verschwiegenheitspflicht
 
-## Kommentarliteratur
+## Quellenregel
 
-- MüKo-BGB/Schubert, 9. Aufl. 2022, § 164 Rn. 1-40 (Vertretungsmacht Umfang)
-- Grüneberg, BGB, 83. Aufl. 2024, § 311 Rn. 30-50 (culpa in contrahendo)
-- Henssler/Prütting, BRAO, 5. Aufl. 2019, § 43a Rn. 1-30 (Verschwiegenheitspflicht)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Jede Rechtsabteilung hat eine Eskalationsmatrix – geschrieben oder ungeschrieben. Dieser Skill liest die geschriebene (in `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md`), ordnet ein Vertragsproblem darin ein, nennt den Genehmiger beim Namen und entwirft die Anfrage – damit der Jurist nicht abends schnell eine "hast du kurz?"-E-Mail schreibt.

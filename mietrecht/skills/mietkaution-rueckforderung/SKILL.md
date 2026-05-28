@@ -1,6 +1,6 @@
 ---
 name: mietkaution-rueckforderung
-description: Strukturierte Prüfung Mietkaution-Rückforderung nach Auszug. Hoechstgrenze drei Monatsmieten netto kalt § 551 BGB. Anlage-Pflicht Vermieter getrennt insolvenzgesichert Zinsen mit Kontoführungs-Spareinlage § 551 Abs. 3 BGB. Abrechnungs-Frist Vermieter angemessen typisch sechs Monate nach Auszug BGH VIII ZR 71/05. Einbehalt-Voraussetzungen offene Mietforderungen Schaden Nachzahlung Betriebskosten. Verjährung drei Jahre § 195 BGB. Mahn- und Klageverfahren. Verzugsfolgen nach § 286 BGB. Bei nicht-getrennter Anlage Schadensersatz-Anspruch Mieter.
+description: "Workflow-Skill zu mietkaution rueckforderung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Mietkaution-Rückforderung
@@ -23,7 +23,7 @@ Nach Auszug aus der Wohnung ist die Rückforderung der Mietkaution ein häufiges
 
 - **Maximal drei Monatsmieten netto kalt**
 - Bei überhöhter Kaution Rückforderungs-Anspruch des Überschusses
-- BGH VIII ZR 344/02 — Teilunwirksamkeit überhöhter Kautionsvereinbarung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt 2 — Anlage-Pflicht § 551 Abs. 3 BGB
 
@@ -38,13 +38,13 @@ Nach Auszug aus der Wohnung ist die Rückforderung der Mietkaution ein häufiges
 
 - Mieter-Anspruch auf vorzeitige Rückforderung
 - Schadensersatz wegen Pflichtverletzung
-- BGH VIII ZR 36/12 Schaden-Berechnung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt 3 — Abrechnungs-Pflicht des Vermieters
 
 ### Angemessene Frist
 
-- **Typisch sechs Monate** nach Auszug BGH VIII ZR 71/05
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bei längerer Frist Recht-fertigungsbedarf des Vermieters
 - Bei kurzfristigen Konstellationen drei Monate
 
@@ -72,12 +72,12 @@ Nach Auszug aus der Wohnung ist die Rückforderung der Mietkaution ein häufiges
 ### Nachzahlung Betriebskosten
 
 - **Sicherheits-Einbehalt** zulässig bis Abrechnung der laufenden Periode
-- BGH VIII ZR 226/16
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Schönheitsreparaturen
 
 - **Wirksamkeit der Klausel** prüfen — viele Klauseln unwirksam
-- BGH VIII ZR 361/03 zur Unwirksamkeit starrer Fristen-Klauseln
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt 5 — Forderungs-Schreiben
 
@@ -176,7 +176,7 @@ Mit freundlichen Grüßen
 - § 551 BGB **nicht** anwendbar
 - Vertragliche Vereinbarung gilt
 - AGB-Kontrolle Klausel
-- BGH XII ZR 13/12 zur Kautions-Anlage Gewerbe
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt 11 — Strategie
 

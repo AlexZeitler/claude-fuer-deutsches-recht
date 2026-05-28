@@ -34,7 +34,7 @@ Die Skill lädt automatisch, wenn der Nutzer Werbetexte, Landingpages, Produktbe
 - Anlage 1 zu § 3 Abs. 3 UWG: Stets unzulässige geschäftliche Handlungen (Schwarze Liste)
 
 **Klimaaussagen und Nachhaltigkeitswerbung**
-- BGH, Urt. v. 27.06.2024 – I ZR 98/23 (klimaneutral): Für Werbung mit Umweltschutzbegriffen gelten strenge Anforderungen an Richtigkeit, Eindeutigkeit und Klarheit. Bei mehrdeutigen Angaben wie "klimaneutral" muss die konkrete Bedeutung regelmäßig schon in der Werbung selbst klar erläutert werden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - RL (EU) 2024/825 (EmpCo-RL, Umsetzung bis 27.03.2026): Verschärfte Anforderungen an Nachhaltigkeitsaussagen, insbesondere gegen unbelegte generische Umweltaussagen und nicht transparente Kompensations-/Klimaneutralitätsclaims.
 
 **Gesundheitsbezogene Angaben**
@@ -43,17 +43,15 @@ Die Skill lädt automatisch, wenn der Nutzer Werbetexte, Landingpages, Produktbe
 - LMIV VO (EU) 1169/2011: Irreführungsverbot für Lebensmittelkennzeichnung und -werbung
 
 **Vergleichende Werbung und Konkurrentennennung**
-- BGH, Urt. v. 02.04.2015 – I ZR 167/13, GRUR 2015, 1136: Vergleichende Werbung mit fremden Kennzeichen kann zulässig sein, wenn § 6 UWG eingehalten wird; die Prüfung muss objektiven Informationsnutzen, Nachprüfbarkeit, Irreführung, Herabsetzung und Rufausnutzung trennen.
-- BGH, Urt. v. 11.10.2017 – I ZR 78/16, GRUR 2018, 431 (Tiegelgröße): Irreführende Packungsgestaltung nach § 5 UWG bei unverhältnismäßig großer Verpackung im Verhältnis zur Füllmenge (Mogelpackung); zugleich Marktverhaltensregel i.S.d. § 3a UWG i.V.m. § 43 Abs. 2 MessEG.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Influencer-Werbung und Kennzeichnungspflicht**
-- BGH, Urt. v. 09.09.2021 – I ZR 90/20 (Influencer I), I ZR 125/20 (Influencer II) und I ZR 126/20 (Influencer III): Kennzeichnungspflichten bei Social-Media-Posts hängen von geschäftlicher Handlung, Gegenleistung, werblichem Überschuss und Erkennbarkeit des kommerziellen Zwecks ab. Tap Tags, Eigenwerbung und Drittwerbung nicht schematisch behandeln.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - § 22 MStV (Medienstaatsvertrag): Werbekennzeichnungspflicht für Telemedien und Social Media
 
-### Kommentarliteratur
+### Quellenregel
 
-Kommentarliteratur nur mit kanzleiinternem Zugriff und geprüfter Randnummer verwenden; keine Randnummer aus Modellwissen ausgeben. Geeignete Startpunkte sind insbesondere Köhler/Bornkamm/Feddersen, UWG, zu §§ 5, 5a, 6 UWG; Harte-Bavendamm/Henning-Bodewig, UWG, zu § 6 UWG; Sosnitza, UWG, zu Alleinstellungs- und Spitzenstellungsbehauptungen; Streinz/Kraus, LFGB, zu lebensmittelrechtlicher Irreführung.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Schritt 1: Standards laden und Branchenkontext klären
@@ -99,7 +97,7 @@ Messbare, spezifische Aussagen, auf die ein vernünftiger Verbraucher vertraut.
 
 **Klimaneutralitäts- und Nachhaltigkeitsaussagen (besonderer Fokus)**
 
-Seit BGH, Urt. v. 27.06.2024 – I ZR 98/23, GRUR 2024, 1166 gilt: Die Aussage "klimaneutral" ist ohne unmittelbar zugängliche, vollständige Erläuterung des Kompensationswegs irreführend i. S. d. § 5 Abs. 1 UWG.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 | Aussage | Prüfmuster |
 |---|---|
@@ -203,17 +201,17 @@ Prüfvermerk im internen Format gemäß CLAUDE.md. Für kurze Assets (Tagline, H
 
 **Beispiel-Ergebnis:**
 - **(1) "Stärkt Ihr Immunsystem"** → 🔴 **Streichen oder ersetzen.** Gesundheitsbezogene Angabe für Nahrungsergänzungsmittel nur zulässig, wenn in der Positivliste der Health-Claims-VO (EG) 1924/2006 gelistet. "Vitamin C trägt zur normalen Funktion des Immunsystems bei" wäre zulässig (Art. 13-Claim, zugelassen). Allgemein gehaltener Immunsystem-Claim ohne Nährstoffbezug ist nicht gelistet → Abmahnrisiko.
-- **(2) "Klimaneutral produziert"** → ⚠️ **Umformulierung nötig.** Nach BGH, Urt. v. 27.06.2024 – I ZR 98/23, GRUR 2024, 1166 ist der Claim ohne unmittelbar zugängliche Erläuterung irreführend. Alternativ: "Produziert mit vollständig kompensierten CO₂-Emissionen — [Link zu Kompensationspartner und Methodik]."
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **(3) "50 % wirksamer als…"** → ⚠️ **Nachweis erforderlich.** Vergleichende Werbung (§ 6 UWG) zulässig nur mit objektivem, aktuellem, nachweisbarem Vergleich. Head-to-Head-Studie mit offengelegter Methodik vorlegen oder Formulierung streichen.
 
 ## Risiken und typische Fehler
 
-- **Klimaneutralitäts-Claims ohne Transparenz:** Seit BGH GRUR 2024, 1166 konstant hohes Abmahnrisiko. Sämtliche Nachhaltigkeitsaussagen auf Plausibilität und Belegbarkeit prüfen; Kompensationspartner und Methodik immer offenlegen. Verschärfte Anforderungen durch Green Claims-RL 2024/825/EU (Umsetzungsfrist beachten).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Ungesicherte Alleinstellungsbehauptungen:** "Die Nr. 1", "Marktführer", "Einzig" — nur zulässig mit aktuellem, belastbarem Beleg (Marktanteilsstudie, Zertifikat o. Ä.).
-- **Influencer-Posts ohne Werbekennzeichnung:** Nach BGH GRUR 2022, 160 (Influencer II) und §§ 5a Abs. 4 UWG, 22 MStV muss kommerzielle Kommunikation klar als Werbung erkennbar sein. "#ad" oder "Werbung" prominent am Anfang des Beitrags; nicht versteckt im Hashtag-Block.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Health-Claims außerhalb der Positivliste:** Jede gesundheitsbezogene Angabe für Lebensmittel und Nahrungsergänzungsmittel benötigt einen zugelassenen Claim nach Art. 13 oder 14 VO 1924/2006. Eigene Formulierungen sind grundsätzlich unzulässig.
 - **HWG-Verstöße in Heilmittelwerbung:** § 3 HWG verbietet irreführende Werbung für Arzneimittel, Medizinprodukte und Verfahren. § 11 HWG verbietet spezifisch Laienempfehlungen, Vorher-Nachher-Bilder, Angst- und Druckwerbung gegenüber Verbrauchern.
-- **Veraltete vergleichende Werbung:** BGH GRUR 2018, 431 — Preisvergleiche und Leistungsvergleiche müssen aktuell sein; veraltete Benchmarks machen die Werbung irreführend.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Fehlende Substantiierung bei absoluten Behauptungen:** "100 %" und "immer" unterliegen einem Nulltoleranzmaßstab; ein einziges dokumentiertes Gegenbeispiel genügt für eine begründete Abmahnung.
 
 ## Quellenpflicht
@@ -221,8 +219,8 @@ Prüfvermerk im internen Format gemäß CLAUDE.md. Für kurze Assets (Tagline, H
 Jede Norm, Entscheidung oder Behördenaussage im Prüfvermerk muss belegt sein:
 
 - **Primärquellen:** Gesetze und Verordnungen im Volltext (gesetze-im-internet.de, EUR-Lex), BfR-Stellungnahmen (Health Claims), Bundeskartellamt-Leitfäden
-- **Rechtsprechung:** juris, beck-online, GRUR, NJW, GRUR-RS — BGH-Entscheidungen zur Zitierform `BGH, Urt. v. TT.MM.JJJJ – Az., Fundstelle Rn. X`
-- **Kommentare:** Köhler/Bornkamm/Feddersen UWG, Harte-Bavendamm/Henning-Bodewig UWG, Sosnitza UWG
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **Quellenregel:** Köhler/Bornkamm/Feddersen UWG, Harte-Bavendamm/Henning-Bodewig UWG, Sosnitza UWG
 - **Branchenspezifisch:** BfArM (Arzneimittelwerbung), BVL (Lebensmittelkennzeichnung), DAZ (Apothekenwesen)
 
 Quellen, die nur aus Modellwissen stammen, nicht als zitierfähige Fundstelle ausgeben. Pinpoint-Zitate nur verwenden, wenn Randnummer, Seite oder amtlicher Leitsatz aus der konkreten Quelle geprüft wurde.

@@ -1,6 +1,6 @@
 ---
 name: fa-vwgo-widerspruchsbescheid-abschleppen-oepnv
-description: "Widerspruchsbescheid einer Widerspruchsstelle bei einem ÖPNV-Verkehrsbetrieb gegen Gebührenbescheid wegen Umsetzung/Abschleppen eines Fahrzeugs aus Haltestelle Busspur oder Gleisbereich. Adressat: Sachbearbeitung der Widerspruchsstelle z.B. BVG Rechtsabteilung HHA Hochbahn MVG KVB RNV. Eingang: Aktenmaterial Lichtbilder Halterabfrage Umsetzungsprotokoll Gebührenbescheid Widerspruchsschreiben. Output: vollständiger Widerspruchsbescheid mit Tenor Sachverhalt Gründen und Rechtsbehelfsbelehrung — zurückweisend teilabhelfend oder vollabhelfend. Rechtsgrundlagen: § 23 MobG BE plus § 6 GebBtrG BE plus BVGBenGebO Berlin; §§ 68-73 VwGO Vorverfahren; § 80 Abs. 2 Satz 1 Nr. 1 VwGO Sofortvollzug. Leitentscheidung BVerwG vom 09.04.2014 Az 3 C 5.13 Verhältnismäßigkeit. Abgrenzung: Widerspruchsschrift aus Halter-Sicht siehe fachanwalt-verwaltungsrecht-widerspruchsschrift; Anfechtungsklage siehe fachanwalt-verwaltungsrecht-anfechtungsklage."
+description: "Workflow-Skill zu fa vwgo widerspruchsbescheid abschleppen oepnv. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Widerspruchsbescheid Abschleppkosten ÖPNV-Verkehrsbetrieb
@@ -57,7 +57,7 @@ Bei Fahrzeugen über 3,5 t zulässiger Gesamtmasse:
 
 **BVerwG, Urteil vom 09.04.2014 — 3 C 5.13** — Die Einleitung einer kostenpflichtigen Abschleppmaßnahme wegen eines verbotswidrig an einem Taxenstand abgestellten Fahrzeugs ist regelmäßig auch ohne Einhaltung einer bestimmten Wartezeit mit dem bundesverfassungsrechtlichen Verhältnismäßigkeitsgrundsatz vereinbar. Nach Maßgabe der konkreten Umstände kann es allerdings geboten sein, von Abschleppmaßnahmen abzusehen — etwa wenn eine Beeinträchtigung des reibungslosen Taxen- oder ÖPNV-Verkehrs ausgeschlossen ist — oder mit der Abschleppanordnung zu warten, wenn konkrete Anhaltspunkte dafür vorliegen, dass der Verantwortliche kurzfristig wieder am Fahrzeug erscheinen und es unverzüglich selbst entfernen wird.
 
-**VG Berlin, Urteil vom 30.05.2022 — VG 11 K 298/21** — Das Verwaltungsgericht Berlin hat die eigenständige BVG-Umsetzungsbefugnis nach § 23 MobG BE bestätigt. Nach der veröffentlichten Gerichtsmitteilung genügt die verkehrswidrige Nutzung einer ÖPNV-Fläche; eine konkrete Behinderung des Busverkehrs muss nicht zusätzlich festgestellt werden, wenn die gesetzliche Blockadesituation vorliegt.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Gebührenschuldner Halter oder Fahrer** — § 23 Abs. 5 MobG BE benennt Halter und Fahrer als mögliche Schuldner der Umsetzungsgebühren. Die Widerspruchsstelle muss deshalb sauber festhalten, wen der Ausgangsbescheid in Anspruch nimmt, ob der Fahrer bekannt und kurzfristig greifbar war und ob besondere Umstände gegen die Heranziehung des Halters sprechen. Allgemeines Polizei- und Ordnungsrecht bleibt für Verantwortlichkeit, Verhältnismäßigkeit und Ermessensausübung wichtig; § 7 StVG ist dafür keine eigenständige Analogiegrundlage.
 
@@ -76,7 +76,7 @@ Bei Fahrzeugen über 3,5 t zulässiger Gesamtmasse:
 - Verkehrsfläche tatsächlich eine ÖPNV-Fläche im Sinne von § 23 MobG BE — Bushaltestelle mit Zeichen 224, Sonderfahrstreifen Zeichen 245, Gleiskörper Tram?
 - Beschilderung ordnungsgemäß sichtbar zum Zeitpunkt des Abstellens — keine Verdeckung durch Begrünung, kein verdrehtes Schild, keine zwischenzeitliche Aufstellung als mobiles Haltverbot ohne ausreichende Vorlaufzeit?
 - Verstoß gegen Verkehrsregeln oder Verkehrszeichen tatsächlich gegeben?
-- Verhältnismäßigkeit der Umsetzung — Geeignetheit, Erforderlichkeit, Angemessenheit; bei ÖPNV-Flächen regelmäßig keine Wartezeit erforderlich (BVerwG 3 C 5.13).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Auswahl des Gebührenschuldners ermessensfehlerfrei — Fahrer, wenn anwesend, bekannt und kurzfristig handlungsbereit; sonst regelmäßig Halter, soweit keine aktenkundigen Sonderumstände gegen die Heranziehung sprechen.
 
 ### 3. Rechtmäßigkeit der Gebührenfestsetzung
@@ -200,5 +200,5 @@ Eine vollständige Schulungsakte mit sechs Fallvarianten und allen Ausgangsdokum
 - Berliner Verkehrsbetriebe-Benutzungsgebührenordnung (BVGBenGebO) — [gesetze.berlin.de](https://gesetze.berlin.de/bsbe/document/jlr-BVGBenGebOBEV1Anlage)
 - BVG Busspurberäumung — [bvg.de](https://www.bvg.de/de/service-und-kontakt/busspurbetreuung)
 - BVerwG, Urteil vom 09.04.2014 — 3 C 5.13 — [bverwg.de](https://www.bverwg.de/090414U3C5.13.0)
-- VG Berlin, Urteil vom 30.05.2022 — VG 11 K 298/21 — Bestätigung der BVG-Umsetzungsbefugnis; Pressemitteilung des VG Berlin vom 04.07.2022 — [berlin.de](https://www.berlin.de/gerichte/verwaltungsgericht/presse/pressemitteilungen/2022/pressemitteilung.1222565.php)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - VwGO §§ 68 bis 80 — [gesetze-im-internet.de](https://www.gesetze-im-internet.de/vwgo/__73.html)

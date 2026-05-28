@@ -31,7 +31,7 @@ eigenen Mitarbeiter / Crew-Engpass / sonstige Standardausrede] handelt es
 sich nach ständiger EuGH-Rechtsprechung regelmäßig NICHT um
 außergewöhnliche Umstaende im Sinn des Art. 5 Abs. 3 VO 261/2004:
 
-  EuGH, Urt. v. [Datum] — C-[Nummer] ([Name])
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   [Inhalt der Kernaussage]
 
 Die Beweislast für außergewöhnliche Umstaende und für die Ergreifung
@@ -55,7 +55,7 @@ Im Klagefall werden Sie zudem die Gerichtskosten Anwaltskosten und alle
 ueberfälligen Verzugszinsen zu tragen haben. Die sachliche Zuständigkeit
 des Amtsgerichts ergibt sich aus § 23 Nr. 1 GVG bei Streitwerten bis
 zehntausend Euro (i. d. F. seit 01.01.2026). Die oertliche Zuständigkeit
-ergibt sich nach EuGH C-204/08 (Rehder) wahlweise aus Abflug- oder
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Zielflughafen oder aus § 13 ZPO Ihrem Sitz / Niederlassung in Deutschland.
 
 Mit freundlichen Grüßen
@@ -71,10 +71,9 @@ Wenn die Airline mit einer typischen Begründung argumentiert siehe Skill
 
 | Airline-Begründung | Kerngegenargument | Rspr. |
 |---|---|---|
-| "technischer Defekt" | nicht außergewöhnlich solange im Routinebetrieb | EuGH C-549/07 (Wallentin-Hermann) |
-| "wilder Streik unserer Mitarbeiter" | nicht außergewöhnlich | EuGH C-195/17 (Kruesemann) |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Crew-Engpass" | nicht außergewöhnlich | st. Rspr. — Teil normalen Betriebs |
-| "verdeckter Konstruktionsfehler" | nicht außergewöhnlich | EuGH C-257/14 (van der Lans) |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Sie haben uns nicht innerhalb von 30 Tagen informiert" | VO 261/2004 sieht keine solche Frist vor | Verjährung drei Jahre § 195 BGB |
 | "Sie haben Umbuchung akzeptiert" | Akzeptanz schließt Ausgleichsanspruch nicht aus | EuGH ständig |
 | "Sie haben Voucher erhalten" | wenn nicht ausdrücklich als Ausgleichszahlung gewidmet — kein Ausschluss | st. Rspr. |
@@ -125,16 +124,11 @@ Wichtig: Die Mahnung nimmt regelmäßig dieselben Anlagen wie das Erstschreiben 
 
 ## Aktuelle Rechtsprechung
 
-- EuGH, Urt. v. 22.12.2008 — C-549/07 (Wallentin-Hermann), NJW 2009, 347 — technische Defekte im Routinebetrieb sind keine aussergewoehnlichen Umstaende und entlasten die Airline nicht von der Ausgleichspflicht
-- EuGH, Urt. v. 17.04.2018 — C-195/17 (Kruesemann u.a.), NJW 2018, 1877 — wilder Streik des eigenen Kabinenpersonals stellt keine aussergewoehnlichen Umstaende dar; die Airline kann sich nicht auf unvorhersehbare Ereignisse innerhalb ihres Betriebs berufen
-- EuGH, Urt. v. 04.05.2017 — C-315/15 (Pesova und Pesl), NJW 2017, 1933 — auch bei Vogelschlag (aussergewoehnlicher Umstand) muss Airline alle zumutbaren Massnahmen ergriffen haben; Beweislast liegt vollstaendig bei der Airline
-- BGH, Urt. v. 21.08.2012 — X ZR 138/11, NJW 2012, 3372 — die dreijaehrige Verjährungsfrist des § 195 BGB gilt fuer Fluggastrechteansprueche; keine Ausschlussfristen ausserhalb der Verordnung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Staudinger/Keiler, Fluggastrechteverordnung, 5. Aufl. 2023, Art. 5 Rn. 80 ff. (Beweislast aussergewoehnliche Umstaende)
-- Geigel/Freymann, Haftpflichtprozess, 30. Aufl. 2024, Kap. 28 Rn. 40 ff. (Verzug und Mahnung im Luftrecht)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage vor Mahnung — Checkliste
 
 1. Erste Stufe versendet und Frist abgelaufen? → Datum prüfen (typisch 14 Tage nach Erstschreiben)

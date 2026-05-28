@@ -121,9 +121,7 @@ Klage gegen ohne Ausschreibung erfolgte Auftragsvergabe.
 
 ## 9) BGH-/EuGH-Linien
 
-- BGH, Beschl. v. 25.6.2019 — X ZB 1/19 (Unwirksamkeit)
-- EuGH C-26/03 Stadt Halle (Inhouse)
-- EuGH C-107/98 Teckal
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 

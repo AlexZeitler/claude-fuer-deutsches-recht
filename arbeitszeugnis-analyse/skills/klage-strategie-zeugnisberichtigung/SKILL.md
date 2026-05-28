@@ -78,7 +78,7 @@ Erstens, in der Leistungsbeurteilung statt "war stets bemueht" die Formulierung 
 
 Zweitens, in der Verhaltensbeurteilung statt "Kollegen und Vorgesetzten" die Reihenfolge "Vorgesetzten, Kollegen und Kunden" mit dem Steigerer "stets" und dem Praedikat "einwandfrei".
 
-Drittens, soweit der Schlussformelpunkt nach dem Einzelfall klagegeeignet ist, die Aufnahme der konkreten Vergleichs- oder Anspruchsformulierung im Wortlaut: "Wir bedauern ihr Ausscheiden, danken ihr für die geleistete Arbeit und wünschen ihr für ihren weiteren beruflichen und privaten Lebensweg alles Gute und weiterhin viel Erfolg". Vor Aufnahme in den Antrag gesondert prüfen: BAG 9 AZR 227/11.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Beispiel 3 – Streitwert-Begruendung
 
@@ -104,12 +104,8 @@ Der Skill liefert: eine Bewertung der Klagbarkeit pro Befund aus der Ampelanalys
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung bei der Schlussbeurteilung: Wer eine bessere als befriedigende Bewertung verlangt, muss die tragenden Tatsachen darlegen und beweisen; eine unterdurchschnittliche Bewertung muss der Arbeitgeber substantiiert tragen.
-- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot als Anspruchsgrundlage; Formulierungen, die das Fortkommen erschweren, sind berichtigungspflichtig auch ohne Notenstreit.
-- **BAG, Urt. v. 11.12.2012 — 9 AZR 227/11** — Kein allgemeiner Anspruch auf Dank, Bedauern und Zukunftswünsche; Schlussformel-Anträge nur mit tragfähigem Einzelfallkontext.
-- **BAG, Urt. v. 27.04.2021 — 9 AZR 262/20** — Qualifiziertes Zeugnis verlangt eine individuelle verbale Beurteilung; tabellarische Schulnotenform reicht regelmäßig nicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Müller-Glöge, 25. Aufl. 2025, § 109 GewO Rn. 30-50 (Berichtigungsklage, Beweislast, Streitwert, Verjährung)
-- Schaub Arbeitsrechts-Handbuch/Koch, 20. Aufl. 2023, § 147 Rn. 50 ff. (Klageantrag, Formulierungsanforderungen)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

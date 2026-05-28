@@ -62,10 +62,7 @@ Kläre vor der Pruefung:
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- EuGH, Urt. v. 11.01.2007 - C-288/05 (Krupp Hoesch Stahl) — Verbindlichkeit und zeitliche Grenzen einer vZTA bei nachträglicher Nomenklaturaenderung; Uebergangsfrist von 6 Monaten zur Aufbrauchwirkung.
-- BFH, Urt. v. 14.11.2006 - VII R 19/05, BFH/NV 2007, 545 — Bindungswirkung einer vZTA fuer Zollstellen; Zollstelle darf nur bei wesentlicher Veraenderung der Ware abweichen.
-- EuGH, Urt. v. 16.06.2016 - C-291/15 (EURO 2004) — Ungueltige Ursprungsauskunft entfaltet keine Bindungswirkung; hat Auskunftsstelle Rechtsirrtum begangen, tragt Importeur das Risiko.
-- EuGH, Urt. v. 20.01.2022 - C-432/20 (Hauptzollamt Hamburg-Hafen) — Zur Anerkennung von Ursprungsnachweisen aus Drittlaendern; Zollstellen koennen Nachweise zurueckweisen, wenn Pruefungsverfahren mit Ursprungsland ergebnislos blieb.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette VUB/Einfuhr-Ausfuhr
 
@@ -75,11 +72,9 @@ Kläre vor der Pruefung:
 - Art. 103 UZK — Verjaehrungsfrist Zollschuld (3 Jahre; 10 Jahre bei Hinterziehung)
 - Art. 9 UZK — Recht auf gerichtliche Ueberpruefung von Zollentscheidungen
 
-## Kommentarliteratur
+## Quellenregel
 
-- Witte/Henke, Zollkodex-Kommentar, Art. 33-37 UZK (VUB/vUA)
-- Lux, Leitfaden Zoll, 9. Aufl. — Kap. VZT-A und Ursprungsauskuenfte
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: VUB/Einfuhr-Ausfuhr-Antrag-Checkliste
 
 **Adressat:** Zollabteilung / Importeur — **Tonfall:** verfahrenstechnisch, fristenbewusst

@@ -17,8 +17,7 @@ Impulsvorträge zu § 1 StaRUG und Krisenfrüherkennung sind mehr als akademisch
 - §§ 49-59 StaRUG (Stabilisierungsanordnung)
 - §§ 15a, 15b InsO (Insolvenzantragspflicht und Zahlungsverbot)
 - § 43 GmbHG, § 93 AktG (GF-Haftung)
-- BGH IX ZR 285/14 (Sanierungsberater-Haftung)
-- EuGH C-594/14 Kornhaas
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IDW S 6, IDW S 11, IDW PS 340 n.F.
 
 ---
@@ -77,7 +76,7 @@ FOLIE 6 — DIE HAFTUNG (7:00 — 9:30)
 
 FOLIE 7 — § 102 StaRUG — DIE BERATER-PFLICHT (9:30 — 11:00)
   Steuerberater, WP, RA: unaufgeforderter Warnhinweis bei Krisensignalen
-  BGH IX ZR 285/14: "Auch wenn kein Sanierungsmandat — Pflicht besteht."
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Dokumentationspflicht beider Seiten
   Talking Point: "Jede BWA, die der StB ausliest und schweigt — potenzielle Haftung."
 
@@ -127,7 +126,7 @@ FOLIE 11 — Q&A VORBEREITUNG (17:00 — 20:00)
 "§ 102 StaRUG schützt den Berater, der warnt. Und er schadet dem Berater, der schweigt. Es gibt keine sichere Mitte. Wer als Steuerberater monatlich die BWA liest und krisenrelevante Signale ignoriert, sitzt auf einer Zeitbombe."
 
 ### Point 5 — Die Kornhaas-Entscheidung als Warnung für Gesellschaftsform-Optimierer
-"EuGH C-594/14 Kornhaas hat klargestellt: Wer in Deutschland eine englische Limited betreibt, unterliegt dem deutschen Haftungsregime der §§ 15a, 15b InsO. Die Gesellschaftsform ist nicht der Befreiungsschlag aus der persönlichen Haftung. Das gilt sinngemeäß auch für die COMI-Verlagerung in andere EU-Staaten — Gerichte prüfen das sehr genau."
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 

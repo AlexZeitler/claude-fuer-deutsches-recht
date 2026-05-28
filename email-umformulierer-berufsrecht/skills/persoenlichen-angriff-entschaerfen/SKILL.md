@@ -15,9 +15,7 @@ Dieser Skill vermittelt konkrete Techniken zur Entschärfung persönlicher Angri
 4. Muss der Angriff vollstaendig entfernt oder kann der sachliche Kern erhalten werden?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 30.01.2018 - VI ZR 531/16, NJW 2018, 1884 — Persoenliche Angriffe in Korrespondenz koennen Unterlassungs- und Schadensersatzansprueche nach § 823 Abs. 1 BGB (Persoenlichkeitsrecht) ausloesen.
-- BVerfG, Beschl. v. 02.07.2013 - 1 BvR 1751/12, NJW 2013, 3153 — Schutz der Meinungsfreiheit bei persoenlicher Kritik endet, wo Schmahcharakter dominiert; bei Geschaeftskorrespondenz wird strenger Massstab angelegt.
-- BAG, Urt. v. 27.09.2012 - 2 AZR 646/11, NZA 2013, 334 — Beleidigende persoenliche Angriffe in Korrespondenz koennen Kuendigungsrecht (§ 626 BGB) und Abmahnpflicht ausloesen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 43a Abs. 3 BRAO — Sachlichkeitsgebot: persoenliche Angriffe unzulaessig
@@ -25,10 +23,9 @@ Dieser Skill vermittelt konkrete Techniken zur Entschärfung persönlicher Angri
 - § 823 Abs. 1 BGB — Persoenlichkeitsrecht: Schadenersatz bei Persoenlichkeitsverletzung
 - § 1004 BGB — Unterlassungsanspruch bei andauernden persoenlichen Angriffen
 
-## Kommentarliteratur
-- Gaier/Wolf/Goebel, BRAO § 43a Abs. 3 Rn. 90-110 (Sachlichkeitsgebot: persoenliche Angriffe)
-- MüKoBGB/Wagner § 823 Rn. 340-370 (Persoenlichkeitsrecht und Aeusserungen in Korrespondenz)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Technik 1: Vom Vorwurf zur Beobachtung
 
 Ein Vorwurf bewertet und verletzt: "Sie haben X getan." Eine Beobachtung beschreibt neutral: "X ist eingetreten." Statt: "Sie haben meine E-Mail ignoriert." → "Auf meine E-Mail vom TT.MM.JJJJ ist bisher keine Antwort eingegangen." Diese Technik ist die wirksamste Einzelmaßnahme zur Entschärfung.
@@ -65,4 +62,4 @@ Den persönlichen Angriff durch Sachverhaltsbezug ersetzen: Statt "Sie" als hand
 
 Der Skill gibt aus: (1) Identifizierte persönliche Angriffe im Text. (2) Eingesetzte Entschärfungstechnik. (3) Neutralisierte Alternativformulierung. (4) Überarbeiteter Gesamttext ohne persönliche Angriffe.
 
-<!-- AUDIT 27.05.2026: OLG Hamburg 3 U 48/17 (NOT_FOUND: nicht auf dejure.org auffindbar, kein verifiziertes Urteil zu Persoenlichkeitsverletzung E-Mails / Unterlassungsanspruch § 1004 BGB) geloescht. Kein Ersatz eingefuegt. -->
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

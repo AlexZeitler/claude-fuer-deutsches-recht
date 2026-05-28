@@ -21,7 +21,7 @@ description: "Prüfung von Softwaremangelansprüchen nach Kauf-Werk- oder Dienst
 - SaaS/Cloud: Mietrecht § 535 BGB — fortlaufende Gebrauchsgewährung, Mangel § 536 BGB führt zu Minderung kraft Gesetzes.
 - Nacherfüllungspflicht: § 439 BGB (Kauf) bzw. § 635 BGB (Werk) — Nachbesserung oder Neulieferung.
 - Sekundäre Rechte nach erfolglosem Fristablauf: Rücktritt § 437 Nr. 2 i.V.m. § 323 BGB, Minderung § 441 BGB, Schadensersatz § 437 Nr. 3 i.V.m. §§ 280, 281 BGB.
-- BGH zu Standardsoftware als Sache: BGH VIII ZR 219/06, Urt. v. 15.11.2006, Rn. 12 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Beweislast und Frist
 
@@ -42,7 +42,7 @@ description: "Prüfung von Softwaremangelansprüchen nach Kauf-Werk- oder Dienst
 7. Verjaehrung im Kalender notieren
 ```
 
-Standardliteratur: Grüneberg BGB §§ 434, 633; Schneider IT-Vertragsrecht; MüKo-BGB / Westermann § 434.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -95,8 +95,7 @@ Mit freundlichen Gruessen
 
 ## Aktuelle Rechtsprechung (v14.2)
 
-- OLG Frankfurt, Urt. v. 15.04.2021 — 6 U 152/20, NJW-RR 2021, 912 Rn. 22: Fristsetzung nach § 439 BGB muss konkrete Mangelbeseitigung benennen; pauschale "Nachbesserungsaufforderung" setzt Frist nicht wirksam.
-- LG Berlin, Urt. v. 28.09.2021 — 52 O 83/20, CR 2022, 145 Rn. 18: Zur Mängelrüge bei SaaS; SLA-Unterschreitung als Sachmangel; Schlechtleistung begründet Minderungsrecht nach §§ 536, 536a BGB analog.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage zu Beginn
 

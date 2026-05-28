@@ -16,7 +16,7 @@ description: "Drohende Zahlungsunfähigkeit nach § 18 InsO feststellen: Berater
 - § 19 InsO (Überschuldung)
 - § 29 Abs. 2 StaRUG (drohende ZU als Zugangsvoraussetzung)
 - § 15a InsO (Insolvenzantragspflicht bei eingetretener ZU oder Überschuldung)
-- BGH IX ZR 285/14 (Prognosezeitraum und Wahrscheinlichkeitsmaßstab)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IDW S 11 Tz. 23 ff. (Liquiditätsstatus und -planung)
 - IDW S 11 Tz. 50 ff. (drohende Zahlungsunfähigkeit)
 
@@ -30,7 +30,7 @@ description: "Drohende Zahlungsunfähigkeit nach § 18 InsO feststellen: Berater
 
 **Drei Kernelemente:**
 
-1. **Prognosezeitraum:** "voraussichtlich" — h.M. und IDW S 11 setzen den Horizont auf 24 Monate. BGH IX ZR 285/14 stützt diese Auslegung. Kürzer ist vertretbar (z.B. 12 Monate in der Praxis einzelner Gerichte), länger ist methodisch schwieriger zu begründen.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 2. **Wahrscheinlichkeitsmaßstab:** "überwiegend wahrscheinlich" — mehr als 50 % Wahrscheinlichkeit, dass die Zahlungsfähigkeit nicht aufrechterhalten werden kann. Kein Gewissheitsmaßstab erforderlich.
 

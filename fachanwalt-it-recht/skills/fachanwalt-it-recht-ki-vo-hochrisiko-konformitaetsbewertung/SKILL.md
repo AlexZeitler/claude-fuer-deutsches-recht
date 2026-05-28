@@ -263,9 +263,7 @@ Mit freundlichen Gruessen
 
 ## Aktuelle Rechtsprechung (v14.2)
 
-- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA Holding/Datenschutzbeauftragter Hessen), NJW 2024, 248 Rn. 55–78: Automatisches Scoring kann Art. 22 DSGVO unterliegen; bei KI-Systemen die in Anhang III KI-VO (Nr. 5 lit. b Kreditbewilligung) gelistet sind, bestehen parallele Pflichten nach KI-VO und DSGVO — DSFA (Art. 35 DSGVO) und FRIA (Art. 27 KI-VO) müssen kombiniert werden.
-- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
-- BVerwG, Urt. v. 25.09.2019 — 8 C 25.18, BVerwGE 166, 308 Rn. 38: Zur Zulässigkeit automatisierter Verwaltungsentscheidungen; Art. 22 DSGVO und Hochrisiko-KI-VO-Anforderungen (menschliche Aufsicht Art. 14) setzen Grenzen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 

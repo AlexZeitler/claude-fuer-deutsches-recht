@@ -137,11 +137,9 @@ Auch bei schnellen parlamentarischen Texten intern prüfen und sichtbar dokument
 
 Art. 76 Abs. 1 GG — GO-BT Vorlagen/Anträge — Art. 70-74 GG — Art. 20 Abs. 3 GG — Art. 103 Abs. 2 GG bei Straf- oder Bußgeldnormen — Landesverfassung und Landtags-GO bei Landesvorhaben — GGO bei ministerieller Zulieferung
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schneider, Gesetzgebung, 3. Aufl. 2002, §§ 3-5 Rn. 1 ff. (Sprachregeln, Bestimmtheitsgrundsatz, Normenklarheit)
-- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020, § 4 Rn. 20 ff. (Bestimmtheit, unbestimmte Rechtsbegriffe)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 - `Parlamentarische_Vorlage_[Kurztitel].md` mit Normtext oder Antrag, Begründung und internem Kurzvermerk
