@@ -1,3 +1,15 @@
+# v46.0.0 — Corporate-Legal-English-Akte: Gesamt-PDF und Cap-Table-Abgleich
+
+Nachlauf für `gesellschaftsrecht-legal-english` und die Frankfurt-Startup-Akte:
+
+- `18-cap-table-und-waterfall.xlsx` auf den Aktenstand aus Datei 02 gebracht: Kunigunde/Meinhard/Walburga, 900 VSOP, 5.000 Pool, 6.700 Convertible, 16.679 Northbridge- und 1.390 Krämer-Angel-Anteile.
+- `18-cap-table-und-waterfall.pdf` als PDF-Ausdruck des Excel-Arbeitsmodells ergänzt.
+- `26-gesamtakte-kometenfalter-series-a.pdf` als 64-seitige zusammengeführte Lesefassung der Aktenbestandteile ergänzt, inklusive Excel-Ausdruck, Bildfragmenten und E-Mail-Anhang.
+- WhatsApp-PDF im Chatlook neu erzeugt; die Bildfragmente 20 bis 22 von Rookie-/Lernhinweisen bereinigt.
+- README-Dateien, Marketplace und Plugin-Manifest für `gesellschaftsrecht-legal-english` aktualisiert; Plugin-Version jetzt `46.0.0`.
+
+---
+
 # v45.0.0 — Sammel-ZIPs für Plugins und Testakten
 
 Release-Infrastruktur und Übersichten nachgezogen:
