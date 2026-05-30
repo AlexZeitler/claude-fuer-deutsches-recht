@@ -27,4 +27,4 @@ Die Akte ist keine echte Portalbekanntmachung. Die nachfolgenden Unterlagen simu
 2. Bundesland `Hamburg` wählen.
 3. Ort `Hamburg`, Ortsteil `Eppendorf` eintragen.
 4. Suchergebnis mit Datum, Trefferzahl und etwaigen Detail-URLs dokumentieren.
-5. Bei Treffern Gutachten und Fotos nur vermerken; Fotos nicht in Demoakten übernehmen.
+5. Bei Treffern Gutachten und Fotos nur vermerken; Fotos nicht ungeprüft in den Aktenordner übernehmen.

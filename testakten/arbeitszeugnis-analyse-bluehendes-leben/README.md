@@ -2,15 +2,15 @@
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
-## 📕 Gesamt-PDF (alles in einer Datei)
+## Gesamt-PDF (alles in einer Datei)
 
-> **Doppelt gemoppelt:** Diese Akte gibt es als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken (Schriftsaetze, Tabellen, Anhaenge) hintereinander – ideal zum Lesen oder Ausdrucken.
+Diese Arbeitsakte gibt es zusätzlich als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstücken, Tabellen, Anhängen und Bildanlagen hintereinander. Das ist praktisch zum Lesen, Ausdrucken und für schnelle Durchsichten.
 
-| Datei | Format | Groesse |
+| Datei | Format | Größe |
 | --- | --- | --- |
 | [`gesamt-pdf/arbeitszeugnis-analyse-bluehendes-leben_gesamt.pdf`](gesamt-pdf/arbeitszeugnis-analyse-bluehendes-leben_gesamt.pdf) | PDF | 54 KB |
 
-Im Release-ZIP `testakte-arbeitszeugnis-analyse-bluehendes-leben.zip` ist das Gesamt-PDF mit enthalten.
+Im separaten Akten-ZIP ist das Gesamt-PDF mit enthalten.
 
 <!-- END gesamt-pdf-section (autogen) -->
 
@@ -23,13 +23,13 @@ Im Release-ZIP `testakte-arbeitszeugnis-analyse-bluehendes-leben.zip` ist das Ge
 Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
-Diese Akte enthält **zehn Arbeitszeugnisse aus zehn verschiedenen Branchen und Berufen**, jeweils ein bis zwei Seiten lang, alle formal freundlich und im üblichen Wohlwollens-Stil verfasst. Die Akte ist als realistisches Trainingsmaterial für das Plugin [`arbeitszeugnis-analyse`](../../arbeitszeugnis-analyse) gedacht.
+Diese Akte enthält **zehn Arbeitszeugnisse aus zehn verschiedenen Branchen und Berufen**, jeweils ein bis zwei Seiten lang, alle formal freundlich und im üblichen Wohlwollens-Stil verfasst.
 
 ## Zweck der Akte
 
 Die Zeugnisse sehen oberflächlich höflich, vollständig und unkritisch aus. Tatsächlich verteilen sich die Bewertungen über die gesamte Notenskala. Die Aufgabe für jeden Skill dieses Plugins ist es, aus Briefkopf, Aufbau, Wortwahl, Steigerungsadverbien, Zufriedenheitsformeln, Beendigungsgrund, Schlussformel und Unterzeichnerstruktur die wahre Bewertung herauszulesen.
 
-Es liegt **keine vorgefertigte Lösung bei**. Welche Note sich hinter dem jeweiligen Zeugnis verbirgt, soll der Skill selbst aus dem Material herleiten.
+Welche Note sich hinter dem jeweiligen Zeugnis verbirgt, ergibt sich nur aus Briefkopf, Aufbau, Wortwahl, Steigerungsadverbien, Zufriedenheitsformeln, Beendigungsgrund, Schlussformel und Unterzeichnerstruktur.
 
 ## Aktenübersicht
 
@@ -72,6 +72,6 @@ Alle Zeugnisse enthalten:
 ## Technisches
 
 - Format der Zeugnisse: PDF, A4, deutsche Typographie mit Anführungszeichen "...", Halbgeviertstrich und korrekt gesetzten Umlauten
-- Keine Blindtexte, keine leeren Lücken und keine vorgefertigte Lösung im Aktenbestand
+- Keine Blindtexte und keine leeren Lücken im Aktenbestand
 Personenbezogene Angaben und Kontaktdaten sind anonymisiert; die rechtliche Arbeit richtet sich nach den in der Akte dokumentierten Unterlagen.
 - Die Zeugnisse sind als Aktenpaket gedacht und ersetzen keine rechtliche Beratung

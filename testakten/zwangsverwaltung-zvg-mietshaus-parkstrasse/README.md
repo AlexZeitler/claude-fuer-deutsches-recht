@@ -2,15 +2,15 @@
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
-## 📕 Gesamt-PDF (alles in einer Datei)
+## Gesamt-PDF (alles in einer Datei)
 
-> **Doppelt gemoppelt:** Diese Akte gibt es als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken (Schriftsaetze, Tabellen, Anhaenge) hintereinander – ideal zum Lesen oder Ausdrucken.
+Diese Arbeitsakte gibt es zusätzlich als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstücken, Tabellen, Anhängen und Bildanlagen hintereinander. Das ist praktisch zum Lesen, Ausdrucken und für schnelle Durchsichten.
 
-| Datei | Format | Groesse |
+| Datei | Format | Größe |
 | --- | --- | --- |
 | [`gesamt-pdf/zwangsverwaltung-zvg-mietshaus-parkstrasse_gesamt.pdf`](gesamt-pdf/zwangsverwaltung-zvg-mietshaus-parkstrasse_gesamt.pdf) | PDF | 171 KB |
 
-Im Release-ZIP `testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip` ist das Gesamt-PDF mit enthalten.
+Im separaten Akten-ZIP ist das Gesamt-PDF mit enthalten.
 
 <!-- END gesamt-pdf-section (autogen) -->
 
@@ -23,7 +23,7 @@ Im Release-ZIP `testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip` ist das
 Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
-Arbeitsakte für die Demonstration einer vollständigen gerichtlichen Zwangsverwaltung über ein vermietetes Mehrfamilienhaus mit Gewerbeanteilen. Die Akte deckt den vollständigen Verfahrensablauf ab: Anordnungsbeschluss, Besitzübernahme, Mietverhältnisse, Betriebskosten, Instandhaltungsnotfälle, Gläubigerkorrespondenz, Schuldnerwiderspruch, Insolvenzschnittstelle und Schlussrechnung.
+Arbeitsakte einer gerichtlichen Zwangsverwaltung über ein vermietetes Mehrfamilienhaus mit Gewerbeanteilen. Die Akte deckt den vollständigen Verfahrensablauf ab: Anordnungsbeschluss, Besitzübernahme, Mietverhältnisse, Betriebskosten, Instandhaltungsnotfälle, Gläubigerkorrespondenz, Schuldnerwiderspruch, Insolvenzschnittstelle und Schlussrechnung.
 
 ---
 

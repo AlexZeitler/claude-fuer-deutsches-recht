@@ -1,3 +1,37 @@
+# v50.5.0 — Testakten-Qualitätssprung und Gesamt-PDF-Regel
+
+User-Wunsch: Die Testakten sollen sich wie echte, disparat gewachsene Mandatsakten anfühlen und zugleich jeweils als ein sauberes Gesamt-PDF bereitstehen. Besonders die Rosengarten-Nachbarschaftsakte sollte nach Perplexitys Ausbau nochmals dichter, realistischer und technisch sauberer werden.
+
+## Änderungen
+
+- Rosengarten-Akte `testakten/nachbarschaftsstreit-horrorfall-rosengarten/` weiter ausgebaut:
+  - neue Aktenstücke `15_starkregen_dachrinne_kellerfeuchte.md`, `16_notweg_hammerschlag_handwerkertermin.md`, `17_kamera_licht_drohne_datenschutz.md`, `18_ortstermin_konfliktmatrix.md`,
+  - zwei neue `.eml`-Mails zu Starkregen/Kellerfeuchte und Kamera/Licht/Drohne,
+  - vier neue JPEG-Anlagen (Dachrinne/Starkregen, Risslineal, Kamera/Lichtstrahler, Chat-Screenshot),
+  - neue PDF-Anlagen zur Versicherung und zur Fotoanlage,
+  - neue Excel-Konfliktmatrix mit Beweisproblemen, Fristsachen und Risikoeinschätzung.
+- Doppelte Rosengarten-Gesamt-PDF entfernt; maßgeblich ist jetzt nur `gesamt-pdf/nachbarschaftsstreit-horrorfall-rosengarten_gesamt.pdf`.
+- `scripts/build-testakte-gesamt-pdf.py` verbessert:
+  - Gesamt-PDFs heißen im Dokument jetzt "Arbeitsakte" statt "Testakte",
+  - Metadaten/Footer vermeiden Demo-Sprache,
+  - JPEG/PNG-Bildanlagen werden in Gesamt-PDFs eingebunden,
+  - alle 63 Gesamt-PDFs neu erzeugt.
+- `scripts/inject-gesamt-pdf-section.py` glättet den Auto-Block in allen Akten-READMEs: "Arbeitsakte", Umlaute, Größe, keine doppelte Demo-Sprache.
+- Neues `scripts/validate-testakten-gesamt-pdf.py`: prüft je Akte auf vorhandenes `gesamt-pdf/<slug>_gesamt.pdf`, PDF-Signatur, EOF-Marker, Seitenobjekte, README-/00-Aktenübersicht-Link und doppelte Gesamt-PDFs.
+- Release-Workflow validiert Gesamt-PDFs vor dem ZIP-Build.
+- Neuer Standard `testakten/QUALITAETSSTANDARD.md`: jede Akte hat künftig zwei parallele Zugänge, nämlich Originalformate als gewachsener Datenraum plus ein sauberes Gesamt-PDF.
+- Mehrere Akten-READMEs und Aktenübersichten von Test-/Demo-Formulierungen bereinigt, damit die Unterlagen stärker aus ihrer eigenen Aktenlogik sprechen.
+- Integriert auf den bereits veröffentlichten v50.4.0-Stand mit aufgeteilter `SKILLS.md` und `skills-index/`.
+
+## Versionen
+
+- Marketplace top-level 50.4.0 -> 50.5.0
+- Plugin-Versionen unverändert (nur Testakten, Generatoren, Validatoren und Übersichten)
+
+Validatoren grün: validate-plugin-structure OK, validate-testakten-gesamt-pdf 63/63 OK, validate-yaml-frontmatter 0/0, Release-ZIP-Probe OK, git diff --check OK.
+
+---
+
 # v50.4.0 — SKILLS.md aufgeteilt + Mega-ZIP-Download prominent oben
 
 User-Meldung: Die SKILLS.md liess sich auf github.com kaum oeffnen, weil sie 2 MB gross war und 2617 Tabellenzeilen enthielt -- GitHubs Markdown-Renderer hat die Seite endlos neu geladen oder gar nicht angezeigt. GitHubs offizielles Renderer-Limit liegt bei ca. 512 KB.

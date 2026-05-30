@@ -1,4 +1,4 @@
-# Freestanding Selftest — Projekt Silberfalke
+# Freestanding Workflow-Prüfvermerk — Projekt Silberfalke
 
 **Aktenzeichen:** MA-2026-SF-001
 **Erstellt:** 01.04.2026
@@ -7,9 +7,9 @@
 
 ---
 
-## 1. Testkriterium
+## 1. Prüfkriterium
 
-Der Skill besteht den Freestanding-Test, wenn er alle nachfolgend genannten Workflows aus dem eigenen Wissensstand heraus vollständig ausführen kann — ohne Verweis auf ein anderes Plugin, eine externe Datenbank oder ein externes Tool.
+Der jeweilige Workflow ist freigegeben, wenn er alle nachfolgend genannten Arbeitsschritte aus dem eigenen Wissensstand heraus vollständig ausführen kann — ohne Verweis auf ein anderes Plugin, eine externe Datenbank oder ein externes Tool.
 
 ---
 
@@ -17,7 +17,7 @@ Der Skill besteht den Freestanding-Test, wenn er alle nachfolgend genannten Work
 
 ### grosskanzlei-ma-aktenanlage
 
-| Testfall | Erwartetes Ergebnis | Ergebnis |
+| Prüfpunkt | Erwartetes Ergebnis | Ergebnis |
 |---|---|---|
 | Mandant + Target + Transaktionstyp → Aktenzeichen | Kanzleiformat MA-YYYY-[Code]-[Nr.] | ✓ Bestanden |
 | Beteiligtenmatrix generieren | Vollständige Matrix mit Rollen, Parteien, Kontakten | ✓ Bestanden |
@@ -26,7 +26,7 @@ Der Skill besteht den Freestanding-Test, wenn er alle nachfolgend genannten Work
 
 ### grosskanzlei-ma-tabellenreview
 
-| Testfall | Erwartetes Ergebnis | Ergebnis |
+| Prüfpunkt | Erwartetes Ergebnis | Ergebnis |
 |---|---|---|
 | Vertragsliste mit Ampel-Klassifizierung | Rot/Gelb/Grün je Risikodimension | ✓ Bestanden |
 | Change-of-Control-Scan | Identifikation aller CoC-Klauseln | ✓ Bestanden |
@@ -34,7 +34,7 @@ Der Skill besteht den Freestanding-Test, wenn er alle nachfolgend genannten Work
 
 ### grosskanzlei-ma-liquiditaetsvorschau
 
-| Testfall | Erwartetes Ergebnis | Ergebnis |
+| Prüfpunkt | Erwartetes Ergebnis | Ergebnis |
 |---|---|---|
 | 13-Wochen-Cash-Bridge aus Rohdaten | Wöchentliche Spalten, Saldo, Kommentar | ✓ Bestanden |
 | Kritische Wochen markieren | Negativsaldo-Alarm, Covenant-Waiver-Hinweis | ✓ Bestanden |
@@ -42,7 +42,7 @@ Der Skill besteht den Freestanding-Test, wenn er alle nachfolgend genannten Work
 
 ### grosskanzlei-ma-insolvenzreife
 
-| Testfall | Erwartetes Ergebnis | Ergebnis |
+| Prüfpunkt | Erwartetes Ergebnis | Ergebnis |
 |---|---|---|
 | § 17 InsO Zahlungsunfähigkeit | Dreistufentest, nicht grün geben ohne Belege | ✓ Bestanden |
 | § 18 InsO drohende Zahlungsunfähigkeit | 24-Monats-Horizont, Datenlücken identifizieren | ✓ Bestanden |
@@ -51,7 +51,7 @@ Der Skill besteht den Freestanding-Test, wenn er alle nachfolgend genannten Work
 
 ### grosskanzlei-ma-fristen-cp-kalender
 
-| Testfall | Erwartetes Ergebnis | Ergebnis |
+| Prüfpunkt | Erwartetes Ergebnis | Ergebnis |
 |---|---|---|
 | Regulatorische Fristen (BKartA, BMWK) | Fristberechnung auf Basis Signing-Datum | ✓ Bestanden |
 | Long-Stop-Date Warnfunktion | Alert wenn < 30 Tage | ✓ Bestanden |
@@ -59,7 +59,7 @@ Der Skill besteht den Freestanding-Test, wenn er alle nachfolgend genannten Work
 
 ### grosskanzlei-ma-erechnung-gobd
 
-| Testfall | Erwartetes Ergebnis | Ergebnis |
+| Prüfpunkt | Erwartetes Ergebnis | Ergebnis |
 |---|---|---|
 | Zeitnachweise → Billing-Narrativ | Mandantengerechtes Narrative Ledger | ✓ Bestanden |
 | XRechnung-Datenblock | Strukturierter Datensatz (ohne PDF/A-3-Validierung) | ✓ Bestanden |
@@ -68,7 +68,7 @@ Der Skill besteht den Freestanding-Test, wenn er alle nachfolgend genannten Work
 
 ### grosskanzlei-ma-schreibcanvas
 
-| Testfall | Erwartetes Ergebnis | Ergebnis |
+| Prüfpunkt | Erwartetes Ergebnis | Ergebnis |
 |---|---|---|
 | Aktenvermerk generieren | Vollständig mit AV-Nummer, Verfasser, Rubrum | ✓ Bestanden |
 | SPA-Markupkommentar | Stichpunktkommentar je Klausel | ✓ Bestanden |

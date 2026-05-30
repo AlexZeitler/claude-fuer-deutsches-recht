@@ -2,15 +2,15 @@
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
-## 📕 Gesamt-PDF (alles in einer Datei)
+## Gesamt-PDF (alles in einer Datei)
 
-> **Doppelt gemoppelt:** Diese Akte gibt es als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken (Schriftsaetze, Tabellen, Anhaenge) hintereinander – ideal zum Lesen oder Ausdrucken.
+Diese Arbeitsakte gibt es zusätzlich als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstücken, Tabellen, Anhängen und Bildanlagen hintereinander. Das ist praktisch zum Lesen, Ausdrucken und für schnelle Durchsichten.
 
-| Datei | Format | Groesse |
+| Datei | Format | Größe |
 | --- | --- | --- |
 | [`gesamt-pdf/verlagsredaktion-morgenlage-fachverlag_gesamt.pdf`](gesamt-pdf/verlagsredaktion-morgenlage-fachverlag_gesamt.pdf) | PDF | 16 KB |
 
-Im Release-ZIP `testakte-verlagsredaktion-morgenlage-fachverlag.zip` ist das Gesamt-PDF mit enthalten.
+Im separaten Akten-ZIP ist das Gesamt-PDF mit enthalten.
 
 <!-- END gesamt-pdf-section (autogen) -->
 
@@ -29,7 +29,7 @@ Die Akte simuliert den Montagmorgen einer Sachbearbeiterin im juristischen Fachv
 | `05_bildrechte_tabellen_screenshots.md` | Abbildungen, Screenshots, Tabellen, Credits und Rechteprobleme |
 | `06_satzfahne_korrekturlauf.md` | Satzfahnennotiz mit Umbruchfehlern und Freigabeproblemen |
 | `07_metadaten_marketing_vertrieb.md` | Klappentext, Schlagworte, Newsletter und Vertriebskurztext |
-| `08_erwarteter_output.md` | Qualitätsanforderungen ohne vorgefertigte Lösung |
+| `08_erwarteter_output.md` | Qualitätsanforderungen für die redaktionelle Bearbeitung |
 
 ## Testziele
 

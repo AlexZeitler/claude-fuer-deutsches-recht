@@ -31,6 +31,9 @@ jobs:
       - name: Validator
         run: node scripts/validate-plugin-structure.mjs
 
+      - name: Gesamt-PDFs der Testakten validieren
+        run: python3 scripts/validate-testakten-gesamt-pdf.py
+
       - name: Liste aller Plugins aus marketplace.json lesen
         id: plugins
         run: |

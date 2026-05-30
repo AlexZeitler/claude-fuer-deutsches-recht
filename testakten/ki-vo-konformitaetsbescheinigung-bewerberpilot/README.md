@@ -2,15 +2,15 @@
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
-## 📕 Gesamt-PDF (alles in einer Datei)
+## Gesamt-PDF (alles in einer Datei)
 
-> **Doppelt gemoppelt:** Diese Akte gibt es als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken (Schriftsaetze, Tabellen, Anhaenge) hintereinander – ideal zum Lesen oder Ausdrucken.
+Diese Arbeitsakte gibt es zusätzlich als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstücken, Tabellen, Anhängen und Bildanlagen hintereinander. Das ist praktisch zum Lesen, Ausdrucken und für schnelle Durchsichten.
 
-| Datei | Format | Groesse |
+| Datei | Format | Größe |
 | --- | --- | --- |
 | [`gesamt-pdf/ki-vo-konformitaetsbescheinigung-bewerberpilot_gesamt.pdf`](gesamt-pdf/ki-vo-konformitaetsbescheinigung-bewerberpilot_gesamt.pdf) | PDF | 36 KB |
 
-Im Release-ZIP `testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip` ist das Gesamt-PDF mit enthalten.
+Im separaten Akten-ZIP ist das Gesamt-PDF mit enthalten.
 
 <!-- END gesamt-pdf-section (autogen) -->
 

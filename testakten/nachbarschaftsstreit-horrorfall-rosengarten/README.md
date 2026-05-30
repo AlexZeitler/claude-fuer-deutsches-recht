@@ -2,25 +2,19 @@
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
-## 📕 Gesamt-PDF (alles in einer Datei)
+## Gesamt-PDF (alles in einer Datei)
 
-> **Doppelt gemoppelt:** Diese Akte gibt es als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken (Schriftsaetze, Tabellen, Anhaenge) hintereinander – ideal zum Lesen oder Ausdrucken.
+Diese Arbeitsakte gibt es zusätzlich als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstücken, Tabellen, Anhängen und Bildanlagen hintereinander. Das ist praktisch zum Lesen, Ausdrucken und für schnelle Durchsichten.
 
-| Datei | Format | Groesse |
+| Datei | Format | Größe |
 | --- | --- | --- |
-| [`gesamt-pdf/nachbarschaftsstreit-horrorfall-rosengarten_gesamt.pdf`](gesamt-pdf/nachbarschaftsstreit-horrorfall-rosengarten_gesamt.pdf) | PDF | 81 KB |
+| [`gesamt-pdf/nachbarschaftsstreit-horrorfall-rosengarten_gesamt.pdf`](gesamt-pdf/nachbarschaftsstreit-horrorfall-rosengarten_gesamt.pdf) | PDF | 1135 KB |
 
-Im Release-ZIP `testakte-nachbarschaftsstreit-horrorfall-rosengarten.zip` ist das Gesamt-PDF mit enthalten.
+Im separaten Akten-ZIP ist das Gesamt-PDF mit enthalten.
 
 <!-- END gesamt-pdf-section (autogen) -->
 
 **Arbeitsakte.** Alle Personen, Adressen, Aktenzeichen, Flurstücke, Firmen und Behördenkontakte sind anonymisiert. Die Akte gehört fachlich zum Plugin `nachbarschaftsstreit-pruefer`.
-
-## Gesamtakte als ein PDF
-
-Die komplette Akte gibt es als ein einziges Dokument mit Cover, Inhaltsverzeichnis und Seitenzahlen — alle MD-Stücke, E-Mails, WhatsApp-Chat, Excel-Tabellen, Gutachten und Behördenpost in einem Dokument:
-
-- [`gesamt-pdf/akte_nachbarschaftsstreit_rosengartenstrasse_gesamt.pdf`](gesamt-pdf/akte_nachbarschaftsstreit_rosengartenstrasse_gesamt.pdf)
 
 ## Kurzbild
 
@@ -35,11 +29,11 @@ Marianne und Dr. Henning Albers besitzen ein Reihenendhaus in der Rosengartenstr
 - Kesslers behaupten plötzlich ein Notwegerecht für Handwerker durch den Garten der Albers.
 - Bauamt, Ordnungsamt, Gartenbauunternehmen, Vermesser und zwei Anwälte haben jeweils nur Teile der Akte gesehen.
 
-Die Akte enthält keine vorgefertigte Lösung. Sie ist absichtlich fragmentarisch, widersprüchlich und voll mit Dingen, die in echten Nachbarschaftsmandaten das Denken verstopfen.
+Die Akte ist bewusst als laufende Mandatsmappe angelegt: Grenzverlauf, Kausalität, Duldung, Beweisnot, Eilbedürftigkeit, Baumschutz, Datenschutz und Vergleichsdynamik liegen nebeneinander, ohne dass eine Seite die tatsächliche Lage vollständig beherrscht.
 
 ## Formate und Dateien
 
-Die Akte liegt parallel in mehreren Datenformaten vor, damit Plugins gegen realistische Eingaben (E-Mail, Excel, WhatsApp-Export, Scan, Word, PDF) geprüft werden können.
+Die Unterlagen liegen parallel in mehreren Datenformaten vor: E-Mail, Excel, WhatsApp-Export, Scan, Word, PDF und Handybild.
 
 ### Markdown-Aktenstücke (Kern)
 
@@ -59,6 +53,10 @@ Die Akte liegt parallel in mehreren Datenformaten vor, damit Plugins gegen reali
 | [`12_vergleichsentwurf_rosengartenfrieden.md`](12_vergleichsentwurf_rosengartenfrieden.md) | Vergleichsentwurf mit Vollzugsplan |
 | [`13_zeugenliste_und_anwohner.md`](13_zeugenliste_und_anwohner.md) | Zeugen, Anwohner, Handwerker, Behördenkontakte |
 | [`14_telefonprotokolle_kanzlei.md`](14_telefonprotokolle_kanzlei.md) | Sechs Telefonprotokolle aus dem Kanzleisystem |
+| [`15_starkregen_dachrinne_kellerfeuchte.md`](15_starkregen_dachrinne_kellerfeuchte.md) | Starkregen, Dachrinne, Kellerfeuchte, Versicherung und Kausalitätsproblem |
+| [`16_notweg_hammerschlag_handwerkertermin.md`](16_notweg_hammerschlag_handwerkertermin.md) | Notweg-/Hammerschlagskonflikt um Handwerkerzugang und Minibagger |
+| [`17_kamera_licht_drohne_datenschutz.md`](17_kamera_licht_drohne_datenschutz.md) | Kamera, Lichtstrahler, Drohne, Beweissicherung und Persönlichkeitsrecht |
+| [`18_ortstermin_konfliktmatrix.md`](18_ortstermin_konfliktmatrix.md) | Ortsterminvermerk mit Konfliktmatrix und offenen Beweisfragen |
 
 ### E-Mails (.eml)
 
@@ -72,6 +70,8 @@ Originalformat aus dem Mailprogramm, mit Headern, Datum, From/To, Betreff.
 | [`emails/2024-11-21_kessler-an-albers_carport-zurueckweisung.eml`](emails/2024-11-21_kessler-an-albers_carport-zurueckweisung.eml) | Zurückweisung Kessler |
 | [`emails/2025-03-14_albers-an-bauamt_carport-anfrage.eml`](emails/2025-03-14_albers-an-bauamt_carport-anfrage.eml) | Anfrage an Bauamt Köln |
 | [`emails/2025-04-02_bauamt-an-albers_carport-zustaendigkeit.eml`](emails/2025-04-02_bauamt-an-albers_carport-zustaendigkeit.eml) | Bauamt-Antwort, Az. Bau-Rdk-25/0973 |
+| [`emails/2025-08-24_albers-an-versicherung_kellerfeuchte.eml`](emails/2025-08-24_albers-an-versicherung_kellerfeuchte.eml) | Schadenmeldung an Wohngebäudeversicherung nach Starkregen |
+| [`emails/2025-10-17_albers-an-kanzlei_kamera-licht-drohne.eml`](emails/2025-10-17_albers-an-kanzlei_kamera-licht-drohne.eml) | Mandantenmail zu Kamera, Lichtstrahler und Drohne |
 
 ### WhatsApp
 
@@ -87,6 +87,16 @@ Beides liegt vor — der Standard-Export als Textdatei und ein visuell gerendert
 | Datei | Inhalt |
 |---|---|
 | [`xlsx/kosten_schaeden_angebote.xlsx`](xlsx/kosten_schaeden_angebote.xlsx) | Sheet 1: Kosten und Angebote (15 Posten). Sheet 2: Riss-Log Stützmauer (8 Einträge, Risswachstum 2,1 → 7,1 mm) |
+| [`xlsx/konfliktmatrix_fristsachen.xlsx`](xlsx/konfliktmatrix_fristsachen.xlsx) | Konfliktmatrix, Beweisprobleme, Fristsachen und To-dos |
+
+### Handybilder und Screenshots
+
+| Datei | Inhalt |
+|---|---|
+| [`jpg/carport_dachrinne_starkregen_2025-08-22.jpg`](jpg/carport_dachrinne_starkregen_2025-08-22.jpg) | Handybild Carport-Dachrinne, Schlauch und Pfützenbildung nach Starkregen |
+| [`jpg/grenzmauer_risslineal_2025-08-26.jpg`](jpg/grenzmauer_risslineal_2025-08-26.jpg) | Handybild Grenzmauer mit Risslineal |
+| [`jpg/kamera_lichtstrahler_grenze_2025-10-16.jpg`](jpg/kamera_lichtstrahler_grenze_2025-10-16.jpg) | Handybild Kamera-/Lichtstrahlerposition an der Carportkante |
+| [`jpg/whatsapp_screenshot_stefan_kessler_2025-10-17.jpg`](jpg/whatsapp_screenshot_stefan_kessler_2025-10-17.jpg) | Screenshot eines Chatverlaufs zur Drohnen- und Video-Frage |
 
 ### Word-Schreiben
 
@@ -103,6 +113,8 @@ Beides liegt vor — der Standard-Export als Textdatei und ein visuell gerendert
 | [`pdfs/baumgutachten_platane_becker-lohnert.pdf`](pdfs/baumgutachten_platane_becker-lohnert.pdf) | Baumgutachten SV Becker-Lohnert (BL-25-077) |
 | [`pdfs/bauamt_zustaendigkeitsbescheid.pdf`](pdfs/bauamt_zustaendigkeitsbescheid.pdf) | Zuständigkeitsbescheid Stadt Köln |
 | [`pdfs/vermessungsskizze_krause-reichel.pdf`](pdfs/vermessungsskizze_krause-reichel.pdf) | Vermessungsskizze Krause+Reichel, Carport-Überbau 19,0 / 23,0 cm |
+| [`pdfs/versicherungsschreiben_kellerfeuchte_2025-08-27.pdf`](pdfs/versicherungsschreiben_kellerfeuchte_2025-08-27.pdf) | Vorläufige Rückfrage der Wohngebäudeversicherung zur Kellerfeuchte |
+| [`pdfs/fotoanlage_kamera_licht_drohne.pdf`](pdfs/fotoanlage_kamera_licht_drohne.pdf) | Fotoanlage zu Kamera, Lichtstrahler, Drohne und Chat-Screenshot |
 
 ## Beteiligte
 

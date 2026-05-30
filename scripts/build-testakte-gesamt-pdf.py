@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Baut für jede Testakte ein 'gesamt-pdf/<name>_gesamt.pdf', das alle
-Aktenstücke (Markdown, TXT, EML, CSV, XLSX, DOCX, PDF) in ein einziges,
+Aktenstücke (Markdown, TXT, EML, CSV, XLSX, DOCX, Bilder, PDF) in ein einziges,
 sauber gerendertes Dokument mit Cover, Inhaltsverzeichnis und Seitenzahlen
 zusammenfasst.
 
@@ -28,12 +28,14 @@ from reportlab.lib.units import cm
 from reportlab.lib.colors import HexColor, black
 from reportlab.platypus import (
     SimpleDocTemplate,
+    Image as RLImage,
     Paragraph,
     Spacer,
     PageBreak,
     Table,
     TableStyle,
 )
+from reportlab.lib.utils import ImageReader
 from reportlab.lib.enums import TA_LEFT
 from reportlab.pdfgen import canvas
 from reportlab.pdfbase import pdfmetrics
@@ -112,7 +114,8 @@ s_partlabel = ParagraphStyle(
 )
 
 # Reihenfolge der Datei-Typen im Gesamt-PDF
-TYPE_ORDER = ["md", "txt", "eml", "csv", "xlsx", "docx", "pdf"]
+TYPE_ORDER = ["md", "txt", "eml", "csv", "xlsx", "docx", "image", "pdf"]
+IMAGE_EXTS = {"jpg", "jpeg", "png"}
 TYPE_LABEL = {
     "md": "Aktenstücke (Markdown)",
     "txt": "Notizen und Textdateien",
@@ -120,6 +123,7 @@ TYPE_LABEL = {
     "csv": "CSV-Tabellen",
     "xlsx": "Excel-Tabellen",
     "docx": "Word-Dokumente",
+    "image": "Bildanlagen und Screenshots",
     "pdf": "PDF-Anhänge (Originaldokumente)",
 }
 
@@ -476,12 +480,28 @@ def docx_to_flowables(path: Path) -> list:
     return out
 
 
+def image_to_flowables(path: Path) -> list:
+    out = []
+    try:
+        width, height = ImageReader(str(path)).getSize()
+        max_width = 16 * cm
+        max_height = 22 * cm
+        scale = min(max_width / width, max_height / height, 1)
+        img = RLImage(str(path), width=width * scale, height=height * scale)
+        out.append(img)
+        out.append(Spacer(1, 4))
+        out.append(Paragraph(f"Bilddatei: {escape(path.name)}", s_meta))
+    except Exception as e:
+        out.append(Paragraph(f"<i>Bild konnte nicht gerendert werden: {escape(str(e))}</i>", s_meta))
+    return out
+
+
 def header_footer_factory(testakte_name: str):
     def hf(canv: canvas.Canvas, doc) -> None:
         canv.saveState()
         canv.setFont(FONT_REG, 8)
         canv.setFillColor(MUTED)
-        canv.drawString(2 * cm, 1.2 * cm, f"Testakte: {testakte_name}")
+        canv.drawString(2 * cm, 1.2 * cm, f"Arbeitsakte: {testakte_name}")
         canv.drawRightString(19 * cm, 1.2 * cm, f"Seite {doc.page}")
         canv.setStrokeColor(BORDER)
         canv.setLineWidth(0.3)
@@ -495,7 +515,7 @@ def build_cover(name: str, readme_summary: str | None, h1: str | None = None) ->
     title = h1 if h1 else name
     out = [
         Spacer(1, 4 * cm),
-        Paragraph("Testakte", s_cover_label),
+        Paragraph("Arbeitsakte", s_cover_label),
         Paragraph(escape(title), s_cover_title),
         Paragraph(escape(name), s_cover_meta),
         Spacer(1, 0.6 * cm),
@@ -506,8 +526,8 @@ def build_cover(name: str, readme_summary: str | None, h1: str | None = None) ->
     else:
         out.append(Spacer(1, 0.8 * cm))
     out.append(Paragraph(
-        "Diese Datei buendelt alle Aktenstuecke der Testakte in einem Dokument. "
-        "Die Einzeldateien liegen im Ordner derselben Testakte ebenfalls vor.",
+        "Diese Datei bündelt alle Aktenstücke in einem Dokument. "
+        "Die Einzeldateien liegen im Aktenordner ebenfalls vor.",
         s_cover_meta,
     ))
     return out
@@ -573,6 +593,9 @@ def collect_files(testakte_dir: Path) -> dict[str, list[Path]]:
         if "gesamt-pdf" in f.parts:
             continue
         ext = f.suffix.lower().lstrip(".")
+        if ext in IMAGE_EXTS:
+            files_by_type["image"].append(f)
+            continue
         if ext not in TYPE_ORDER:
             continue
         files_by_type[ext].append(f)
@@ -588,8 +611,8 @@ def build_text_pdf(testakte_dir: Path, files: dict[str, list[Path]], cover: list
         pagesize=A4,
         leftMargin=2 * cm, rightMargin=2 * cm,
         topMargin=2 * cm, bottomMargin=2 * cm,
-        title=f"Testakte {testakte_dir.name}",
-        author="Perplexity Computer",
+        title=f"Arbeitsakte {testakte_dir.name}",
+        author="Kanzleiakte",
     )
     flow = list(cover)
     flow.append(PageBreak())
@@ -638,6 +661,8 @@ def build_text_pdf(testakte_dir: Path, files: dict[str, list[Path]], cover: list
                     flow.extend(xlsx_to_flowables(f))
                 elif t == "docx":
                     flow.extend(docx_to_flowables(f))
+                elif t == "image":
+                    flow.extend(image_to_flowables(f))
             except Exception as e:
                 flow.append(Paragraph(f"<i>Inhalt konnte nicht gerendert werden: {escape(str(e))}</i>", s_meta))
             flow.append(Spacer(1, 14))
@@ -647,7 +672,7 @@ def build_text_pdf(testakte_dir: Path, files: dict[str, list[Path]], cover: list
     if len(flow) == len(cover) + 1:
         # Nichts ausser Cover -> trotzdem bauen, aber Hinweis
         flow.append(Paragraph(
-            "Diese Testakte enthält keine renderbaren Inhalte ausserhalb der angefuegten PDFs.",
+            "Diese Arbeitsakte enthält keine renderbaren Inhalte ausserhalb der angefuegten PDFs.",
             s_body,
         ))
 
@@ -664,7 +689,7 @@ def append_pdf_with_separator(writer: PdfWriter, label: str, pdf_path: Path, tes
     sep = io.BytesIO()
     c = canvas.Canvas(sep, pagesize=A4)
     c.setTitle(label)
-    c.setAuthor("Perplexity Computer")
+    c.setAuthor("Kanzleiakte")
     c.setFont(FONT_BOLD, 16)
     c.setFillColor(TEAL)
     c.drawString(2 * cm, 25 * cm, label)
@@ -675,7 +700,7 @@ def append_pdf_with_separator(writer: PdfWriter, label: str, pdf_path: Path, tes
     c.setLineWidth(0.3)
     c.line(2 * cm, 1.6 * cm, 19 * cm, 1.6 * cm)
     c.setFont(FONT_REG, 8)
-    c.drawString(2 * cm, 1.2 * cm, f"Testakte: {testakte_name}")
+    c.drawString(2 * cm, 1.2 * cm, f"Arbeitsakte: {testakte_name}")
     c.showPage()
     c.save()
     sep.seek(0)
@@ -731,9 +756,9 @@ def build_gesamt_pdf(testakte_dir: Path) -> tuple[str, str]:
 
     writer.add_metadata(
         {
-            "/Title": f"Testakte {name}",
-            "/Author": "Perplexity Computer",
-            "/Subject": "Gesamtakte fuer claude-fuer-deutsches-recht",
+            "/Title": f"Arbeitsakte {name}",
+            "/Author": "Kanzleiakte",
+            "/Subject": "Gesamtakte",
         }
     )
     with open(out_path, "wb") as f:

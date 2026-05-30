@@ -43,6 +43,6 @@ Bei der Durchsicht des Gutachtens fielen Auffaelligkeiten auf, die Anlass zur Pr
 - 12_email_sachverstaendiger_an_kammer.eml (Auszug, nur Header und Schluss)
 - 13_anlagenverzeichnis.md
 
-Die Akte ist absichtlich fragmentarisch, mit Brueche, gemischten Formaten und teils nur Bruchstuecken — sie spiegelt eine reale Mandatslage in der Phase der Indizienverdichtung wider und dient zum Testen, wie ein Generalist-Workflow mit unvollstaendigen Eingaben umgeht.
+Die Akte liegt mit Brüchen, gemischten Formaten und teils nur Bruchstücken vor. Sie spiegelt eine Mandatslage in der Phase der Indizienverdichtung wider, in der die Unterlagen noch nicht vollständig geordnet sind.
 
 ## Hinweis zur Akte

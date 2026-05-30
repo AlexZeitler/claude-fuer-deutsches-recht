@@ -2,15 +2,15 @@
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
-## 📕 Gesamt-PDF (alles in einer Datei)
+## Gesamt-PDF (alles in einer Datei)
 
-> **Doppelt gemoppelt:** Diese Akte gibt es als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken (Schriftsaetze, Tabellen, Anhaenge) hintereinander – ideal zum Lesen oder Ausdrucken.
+Diese Arbeitsakte gibt es zusätzlich als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstücken, Tabellen, Anhängen und Bildanlagen hintereinander. Das ist praktisch zum Lesen, Ausdrucken und für schnelle Durchsichten.
 
-| Datei | Format | Groesse |
+| Datei | Format | Größe |
 | --- | --- | --- |
-| [`gesamt-pdf/bebauungsplan-augsburg-bahnhofsareal_gesamt.pdf`](gesamt-pdf/bebauungsplan-augsburg-bahnhofsareal_gesamt.pdf) | PDF | 167 KB |
+| [`gesamt-pdf/bebauungsplan-augsburg-bahnhofsareal_gesamt.pdf`](gesamt-pdf/bebauungsplan-augsburg-bahnhofsareal_gesamt.pdf) | PDF | 168 KB |
 
-Im Release-ZIP `testakte-bebauungsplan-augsburg-bahnhofsareal.zip` ist das Gesamt-PDF mit enthalten.
+Im separaten Akten-ZIP ist das Gesamt-PDF mit enthalten.
 
 <!-- END gesamt-pdf-section (autogen) -->
 
@@ -120,9 +120,9 @@ Die Mandantin ist Eigentümerin eines Gründerzeit-Mietshauses unmittelbar an de
 - `02-aktenvermerk-akteneinsicht-22-07-2024.md`
 - `03-aktenvermerk-erfolgsaussicht.md`
 
-## Plugin-Bezug
+## Arbeitsfelder
 
-Diese Akte dient als realistische Test- und Demonstrationsumgebung für das Plugin **normenkontrolle-bauleitplanung** (18 Skills, Phasen A–D). Die in der Akte sichtbaren Mängel decken nahezu alle Skills ab:
+Die in der Akte sichtbaren Mängel berühren die folgenden Arbeitsfelder des Plugins **normenkontrolle-bauleitplanung** (18 Skills, Phasen A–D):
 
 - **Phase A — Mandat:** `mandat-erstgespraech-normenkontrolle`, `statthaftigkeit-47-vwgo`, `antragsbefugnis-eigentuemer-nachbar`, `jahresfrist-47-abs-2-vwgo`
 - **Phase B — Verfahren:** `aufstellungsbeschluss-bekanntmachung`, `beteiligung-frueh-foermlich`, `buergerversammlung-protokoll-audit`, `umweltbericht-umweltpruefung`, `planerhaltung-214-215-baugb`

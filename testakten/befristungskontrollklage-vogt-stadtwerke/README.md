@@ -2,15 +2,15 @@
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
-## 📕 Gesamt-PDF (alles in einer Datei)
+## Gesamt-PDF (alles in einer Datei)
 
-> **Doppelt gemoppelt:** Diese Akte gibt es als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken (Schriftsaetze, Tabellen, Anhaenge) hintereinander – ideal zum Lesen oder Ausdrucken.
+Diese Arbeitsakte gibt es zusätzlich als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstücken, Tabellen, Anhängen und Bildanlagen hintereinander. Das ist praktisch zum Lesen, Ausdrucken und für schnelle Durchsichten.
 
-| Datei | Format | Groesse |
+| Datei | Format | Größe |
 | --- | --- | --- |
 | [`gesamt-pdf/befristungskontrollklage-vogt-stadtwerke_gesamt.pdf`](gesamt-pdf/befristungskontrollklage-vogt-stadtwerke_gesamt.pdf) | PDF | 84 KB |
 
-Im Release-ZIP `testakte-befristungskontrollklage-vogt-stadtwerke.zip` ist das Gesamt-PDF mit enthalten.
+Im separaten Akten-ZIP ist das Gesamt-PDF mit enthalten.
 
 <!-- END gesamt-pdf-section (autogen) -->
 
@@ -175,9 +175,6 @@ Kernbaustein: `entfristung-schriftform-14-abs-4-erkennen`
 
 ---
 
-## Disclaimer
+## Hinweis
 
-mit realen Personen oder Unternehmen wären rein zufällig. Die Akte dient ausschließlich dem
-Testen und der Demonstration der Skills im Plugin `arbeitsrecht` und stellt keine Rechtsberatung
-dar. Für konkrete rechtliche Fragen wenden Sie sich an eine zugelassene Rechtsanwältin oder
-einen zugelassenen Rechtsanwalt.
+Personenbezogene Angaben und Kontaktdaten sind anonymisiert. Die rechtliche Arbeit richtet sich nach den in der Akte dokumentierten Unterlagen.

@@ -2,15 +2,15 @@
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
-## 📕 Gesamt-PDF (alles in einer Datei)
+## Gesamt-PDF (alles in einer Datei)
 
-> **Doppelt gemoppelt:** Diese Akte gibt es als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken (Schriftsaetze, Tabellen, Anhaenge) hintereinander – ideal zum Lesen oder Ausdrucken.
+Diese Arbeitsakte gibt es zusätzlich als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstücken, Tabellen, Anhängen und Bildanlagen hintereinander. Das ist praktisch zum Lesen, Ausdrucken und für schnelle Durchsichten.
 
-| Datei | Format | Groesse |
+| Datei | Format | Größe |
 | --- | --- | --- |
 | [`gesamt-pdf/bvg-widerspruchsstelle-abschleppen-mobg_gesamt.pdf`](gesamt-pdf/bvg-widerspruchsstelle-abschleppen-mobg_gesamt.pdf) | PDF | 100 KB |
 
-Im Release-ZIP `testakte-bvg-widerspruchsstelle-abschleppen-mobg.zip` ist das Gesamt-PDF mit enthalten.
+Im separaten Akten-ZIP ist das Gesamt-PDF mit enthalten.
 
 <!-- END gesamt-pdf-section (autogen) -->
 
@@ -25,7 +25,7 @@ Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das
 
 Sechs eigenständige Vorgänge auf dem Schreibtisch der Widerspruchsstelle der Berliner Verkehrsbetriebe (BVG AöR, Rechtsabteilung, Holzmarktstraße 15-17, 10179 Berlin). Alle Vorgänge betreffen Gebührenbescheide nach § 23 Abs. 2 und 5 Mobilitätsgesetz Berlin (MobG BE) wegen Umsetzung von Fahrzeugen aus dem Bereich von Bushaltestellen, Sonderspuren oder mobiler ÖPNV-Beschilderung. Gegen jeden Gebührenbescheid liegt ein Widerspruch des Halters oder Fahrers vor.
 
-Diese Akte enthält bewusst **keine vorgefertigte Lösungen**. Die Widerspruchsbescheide sollen mit dem Skill `fa-vwgo-widerspruchsbescheid-abschleppen-oepnv` (Plugin `fachanwalt-verwaltungsrecht`) selbst erarbeitet werden.
+Die Widerspruchsbescheide sind noch nicht ausformuliert. Maßgeblich sind die Rohdaten der sechs Vorgänge, die Anlagen und die jeweils dokumentierten Einwände.
 
 ## Vorgänge im Überblick
 
