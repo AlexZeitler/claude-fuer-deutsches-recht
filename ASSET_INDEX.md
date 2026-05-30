@@ -2,7 +2,7 @@
 
 Übersicht aller Dateien, die der Release-Workflow (`.github/workflows/release-plugin-zips.yml`) pro Tag-Release `vX.Y.Z` an den GitHub-Release anhängt.
 
-**Stand:** v51.0.0 — Welle 1-8 Testakten (40 Akten plus Welle 8 KI-Governance KI-VO-Pruefer Mandantenanfragen Memorandum Methodenlehre Mietrecht)
+**Stand:** v51.0.0 — Welle 1-9 Testakten (46 Akten plus Welle 9 Mittelstand-MundA NDA Normenkontrolle Patentrecherche Produktrecht Prozessrecht)
 
 ## Asset-Typen
 
@@ -183,6 +183,7 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung.zip` | siehe `testakten/familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung/` |
 | `testakte-fluggastrechte-familie-braeutigam.zip` | siehe `testakten/fluggastrechte-familie-braeutigam/` |
 | `testakte-fortbestehensprognose-paragrafix-gmbh.zip` | siehe `testakten/fortbestehensprognose-paragrafix-gmbh/` |
+| `testakte-fto-recherche-windkraft-rotorblattheizung-windsysteme-norderhof-eppendorfer-stadter.zip` | siehe `testakten/fto-recherche-windkraft-rotorblattheizung-windsysteme-norderhof-eppendorfer-stadter/` |
 | `testakte-geldwaesche-aml-kyc-musterholding.zip` | siehe `testakten/geldwaesche-aml-kyc-musterholding/` |
 | `testakte-gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn.zip` | siehe `testakten/gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn/` |
 | `testakte-gesellschaftsgruender-streit-roeschen-tech.zip` | siehe `testakten/gesellschaftsgruender-streit-roeschen-tech/` |
@@ -225,9 +226,12 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim.zip` | siehe `testakten/methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim/` |
 | `testakte-mietstreit-altbau-rosenbluete-leipzig-modernisierung-und-minderung-tannenkamp.zip` | siehe `testakten/mietstreit-altbau-rosenbluete-leipzig-modernisierung-und-minderung-tannenkamp/` |
 | `testakte-nachbarschaftsstreit-horrorfall-rosengarten.zip` | siehe `testakten/nachbarschaftsstreit-horrorfall-rosengarten/` |
+| `testakte-nda-vertragsabgleich-jointventure-windsysteme-eickmann-wirtschaft.zip` | siehe `testakten/nda-vertragsabgleich-jointventure-windsysteme-eickmann-wirtschaft/` |
+| `testakte-normenkontrolle-bplan-spreepark-friedrichshain-buergerinitiative-tannengarten.zip` | siehe `testakten/normenkontrolle-bplan-spreepark-friedrichshain-buergerinitiative-tannengarten/` |
 | `testakte-oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein.zip` | siehe `testakten/oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein/` |
 | `testakte-patent-verletzung-implantat-titan-vellbruck-stuttgart.zip` | siehe `testakten/patent-verletzung-implantat-titan-vellbruck-stuttgart/` |
 | `testakte-phishing-vorfall-mayer-sparkasse-berlin.zip` | siehe `testakten/phishing-vorfall-mayer-sparkasse-berlin/` |
+| `testakte-produkthaftung-akku-brand-e-bike-frischwind-mobility-erfurt.zip` | siehe `testakten/produkthaftung-akku-brand-e-bike-frischwind-mobility-erfurt/` |
 | `testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip` | siehe `testakten/sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger/` |
 | `testakte-sammelakte-bandentaeter-eg-juwel-stuttgart-koffer-raub.zip` | siehe `testakten/sammelakte-bandentaeter-eg-juwel-stuttgart-koffer-raub/` |
 | `testakte-scheidung-trennungsdrama-wagenknecht-luetzelberg.zip` | siehe `testakten/scheidung-trennungsdrama-wagenknecht-luetzelberg/` |
@@ -235,6 +239,7 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher.zip` | siehe `testakten/schriftform-mietkuendigung-bielefeld-online-pferdedrescher/` |
 | `testakte-selbstvertreter-amtsgericht-kuechentisch-kaufpreis.zip` | siehe `testakten/selbstvertreter-amtsgericht-kuechentisch-kaufpreis/` |
 | `testakte-selbstvertreter-sozialgericht-heizkosten-eilantrag.zip` | siehe `testakten/selbstvertreter-sozialgericht-heizkosten-eilantrag/` |
+| `testakte-share-deal-familienunternehmen-pellbach-werkzeugbau-passau-nachfolge.zip` | siehe `testakten/share-deal-familienunternehmen-pellbach-werkzeugbau-passau-nachfolge/` |
 | `testakte-solis-vision-x-smartglasses.zip` | siehe `testakten/solis-vision-x-smartglasses/` |
 | `testakte-sozialrecht-rollstuhl-tannenberg.zip` | siehe `testakten/sozialrecht-rollstuhl-tannenberg/` |
 | `testakte-starug-schutzschirm-grossbach-druckguss-erfurt.zip` | siehe `testakten/starug-schutzschirm-grossbach-druckguss-erfurt/` |
@@ -251,6 +256,7 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-werkmangel-kontaminierter-baugrund-saalbau-rosenheim.zip` | siehe `testakten/werkmangel-kontaminierter-baugrund-saalbau-rosenheim/` |
 | `testakte-windpark-drittanfechtung-buergerinitiative-uckermark.zip` | siehe `testakten/windpark-drittanfechtung-buergerinitiative-uckermark/` |
 | `testakte-wirtschaftsstrafsache-uhaft-bankert-frankfurt.zip` | siehe `testakten/wirtschaftsstrafsache-uhaft-bankert-frankfurt/` |
+| `testakte-zivilprozess-werkvertragsstreit-saalbau-rosenheim-bgh-revision-pohlmann.zip` | siehe `testakten/zivilprozess-werkvertragsstreit-saalbau-rosenheim-bgh-revision-pohlmann/` |
 | `testakte-zwangsverwaltung-friedrichshoefe-berlin.zip` | siehe `testakten/zwangsverwaltung-friedrichshoefe-berlin/` |
 | `testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip` | siehe `testakten/zwangsverwaltung-zvg-mietshaus-parkstrasse/` |
 | `testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip` | siehe `testakten/zwangsverwaltung-zvg-versteigerung-eppendorf-altbau/` |
@@ -278,4 +284,4 @@ curl -s "https://api.github.com/repos/Klotzkette/claude-fuer-deutsches-recht/rel
   | python3 -c "import json,sys; d=json.load(sys.stdin); print('Tag:', d['tag_name']); print('Assets:', len(d['assets'])); [print(' -', a['name']) for a in d['assets']]"
 ```
 
-Erwartet für `v51.0.0` und `latest`: 221 Assets, davon 108 Plugin-ZIPs, 109 Fallakten-ZIPs mit `testakte-`-Prefix, eine `marketplace.json` und drei Sammelarchive (`alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`).
+Erwartet für `v51.0.0` und `latest`: 227 Assets, davon 108 Plugin-ZIPs, 115 Fallakten-ZIPs mit `testakte-`-Prefix, eine `marketplace.json` und drei Sammelarchive (`alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`).
