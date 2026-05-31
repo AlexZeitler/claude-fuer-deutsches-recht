@@ -12,11 +12,11 @@ Diese Anleitung führt in 5 Minuten zur ersten produktiven Nutzung der Plugins i
 
 ### Option A – Marketplace direkt aus GitHub
 
-```bash
+```text
 /plugin marketplace add Klotzkette/claude-fuer-deutsches-recht
-/plugin install arbeitsrecht
-/plugin install vertragsrecht
-/plugin install datenschutzrecht
+/plugin install arbeitsrecht@klotzkette-german-legal-skills
+/plugin install vertragsrecht@klotzkette-german-legal-skills
+/plugin install datenschutzrecht@klotzkette-german-legal-skills
 ```
 
 ### Option B – Lokal aus Klon
@@ -24,13 +24,19 @@ Diese Anleitung führt in 5 Minuten zur ersten produktiven Nutzung der Plugins i
 ```bash
 git clone https://github.com/Klotzkette/claude-fuer-deutsches-recht.git
 cd claude-fuer-deutsches-recht
+claude
+```
+
+Danach im Claude-Code-Prompt:
+
+```text
 /plugin marketplace add .
-/plugin install arbeitsrecht
+/plugin install arbeitsrecht@klotzkette-german-legal-skills
 ```
 
 ### Option C – Einzelnes Plugin direkt
 
-```bash
+```text
 /plugin install ./prozessrecht
 ```
 

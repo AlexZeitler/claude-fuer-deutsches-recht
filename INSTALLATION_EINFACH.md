@@ -6,7 +6,7 @@
 
 ## Kurzfassung
 
-> 📆 **Hinweis Release vs. Entwicklungsstand:** Die ZIPs in der Releases-Seite entsprechen einem **getaggten, validierten Stand** (zur Zeit `v7.0.0`). Der `main`-Branch des Repos kann **neuer** sein — mit weiteren Fixes, kleinen Ergänzungen oder neuen Tests. Für stabile Tagung → ZIPs aus dem Release; für neueste Korrekturen → Marketplace-Sync über den GitHub-Pfad (siehe README.md, Weg 1).
+> 📆 **Hinweis Release vs. Entwicklungsstand:** Die ZIPs in der Releases-Seite entsprechen einem **getaggten, validierten Stand** (aktuell siehe [latest Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest)). Der `main`-Branch des Repos kann **neuer** sein — mit weiteren Fixes, kleinen Ergänzungen oder neuen Tests. Für stabile Nutzung → ZIPs aus dem Release; für neueste Korrekturen → Marketplace-Sync über den GitHub-Pfad (siehe README.md, Weg 1).
 
 1. Auf [die Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) gehen.
 2. Pro gewünschtem Rechtsgebiet **eine ZIP-Datei** herunterladen, z. B. `liquiditaetsplanung.zip`.
@@ -23,9 +23,31 @@ Das war's. In der Plugin-Liste erscheint das Plugin direkt, kann aktiviert werde
 >
 > Es ist nichts Schlimmes, wenn das versehentlich passiert. Die ZIP wird einfach abgelehnt; nichts geht kaputt.
 
+## Mac / Cowork: wenn der ZIP-Upload zickt
+
+Auf dem Mac scheitert der Upload meistens nicht am Plugin, sondern am Weg, wie die Datei gespeichert oder ausgewählt wurde. Diese Reihenfolge ist am robustesten:
+
+1. **Einzelnes Plugin-ZIP aus dem Release laden**, z. B. `liquiditaetsplanung.zip`. GitHub unterstützt stabile Links nach dem Muster `.../releases/latest/download/<dateiname>.zip`; die Links im README verwenden genau dieses Schema.
+2. **Safari-Falle prüfen:** Safari kann ZIP-Dateien nach dem Download automatisch entpacken. Wenn im Download-Ordner statt `liquiditaetsplanung.zip` nur ein Ordner liegt, diesen Ordner **nicht** hochladen. Entweder die ZIP-Datei erneut laden, Safari → Einstellungen → Allgemein → "Sichere Dateien nach dem Laden öffnen" deaktivieren, oder Chrome/Firefox nutzen.
+3. **Nicht aus iCloud-Platzhaltern hochladen.** Die Datei erst lokal greifbar machen, z. B. in `~/Downloads/claude-plugins/`. Wenn neben der Datei noch ein Cloud-/Downloadsymbol steht, erst vollständig laden.
+4. **Nur eine Plugin-ZIP auswählen.** `alle-plugins-megazip.zip` ist ein Sammelarchiv; es muss zuerst entpackt werden. Danach werden die darin liegenden Einzel-ZIPs nacheinander hochgeladen.
+5. **Cowork-Limits beachten.** Beim Organisations-Upload müssen Plugin-ZIPs gültige ZIP-Dateien unter 50 MB sein. Wer wirklich alle 110 Plugins organisationsweit verteilen will, sollte nicht alle manuell in einen einzelnen manuellen Marketplace drücken; dafür ist der GitHub-Sync/Marketplace-Weg robuster.
+6. **Datei wirklich als ZIP prüfen.** Im Finder darf es nicht `liquiditaetsplanung.zip.zip` oder ein entpackter Ordner sein. Im Zweifel im Terminal:
+
+```bash
+file ~/Downloads/claude-plugins/liquiditaetsplanung.zip
+unzip -l ~/Downloads/claude-plugins/liquiditaetsplanung.zip | head
+```
+
+In der Ausgabe sollte direkt `.claude-plugin/plugin.json` und ein `skills/`-Ordner sichtbar sein. Wenn das nicht der Fall ist, ist es nicht das richtige Upload-ZIP.
+
+7. **Nach dem Upload neue Konversation starten.** In Claude Code kann man nach Installation oder Aktivierung zusätzlich `/reload-plugins` ausführen; in Desktop/Cowork reicht normalerweise ein neuer Chat oder ein Reload der Oberfläche.
+
+Wenn der Mac-Dialog weiterhin hakelt, ist der pragmatische Weg: auf einem PC in Cowork unter **Customize → Skills / Plugins → Personal plugins → Upload from .zip** hochladen. Das Ergebnis hängt am Account bzw. an der Organisation, nicht daran, dass die ZIP zwingend auf dem Mac hochgeladen wurde.
+
 ## Welches ZIP brauche ich?
 
-Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) liegen **102 Plugin-ZIPs** — eines pro Rechtsgebiet bzw. Werkzeug. Es muss nicht alles installiert werden; nur das, was gerade gebraucht wird.
+Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) liegen **110 Plugin-ZIPs** — eines pro Rechtsgebiet bzw. Werkzeug. Es muss nicht alles installiert werden; nur das, was gerade gebraucht wird.
 
 ### Kanzlei-Backoffice und Querschnitt
 
@@ -160,7 +182,7 @@ In aktuelleren Claude-Code- / Cowork-Versionen geht auch direkt der Marketplace-
 
 ```text
 /plugin marketplace add Klotzkette/claude-fuer-deutsches-recht
-/plugin install liquiditaetsplanung
+/plugin install liquiditaetsplanung@klotzkette-german-legal-skills
 ```
 
 Falls das ebenfalls kein Dialogfeld findet, ist die Cowork-Version zu alt für Marketplaces — dann ist der ZIP-Upload oben der einzige Weg, und das ist völlig in Ordnung. Er funktioniert in jeder Version, die Plugin-Upload überhaupt kennt.
