@@ -1,3 +1,20 @@
+# v53.2.0 — Bank-Rechtsabteilung-Plugin
+
+Neues Inhouse-Plugin `bank-rechtsabteilung` für die Rechtsabteilung einer mittelgroßen deutschen Bank.
+
+## Schwerpunkt
+
+- 50 neue Skills für Chefjustiziar-/Syndikus-Workflows: Aufsicht, KWG/MaRisk, DORA, GwG, Sanktionen, ZAG, WpHG/MiFID, AGB, Darlehen, Kreditentscheidung, Stundung, Sanierungsgutachten, Restrukturierung, Sicherheiten, Insolvenzanfechtung, Handelsvertreter, Provisionsmodelle, externe Anwälte, Rechnungsreview, Vorstand, Aufsichtsrat, HV, Fit-and-Proper, Datenschutz, Auskunftsersuchen, IT/Cloud, Produktfreigabe, ESG, Policy-Drafting, Litigation und Krise.
+- Starker `allgemein`-Skill mit Kaltstart, stummem Upload, Fristencheck, Risikoampel und Anschluss-Skill-Routing.
+- Amtliche Quellenanker in `bank-rechtsabteilung/references/QUELLEN.md` für KWG, ZAG, WpHG, GwG, HGB, BGB, AktG, BaFin, Bundesbank, EZB/SSM, EBA und EUR-Lex.
+- Marketplace, Plugin-Übersicht, Skill-Gesamtübersicht, Plugin-READMEs und Asset-Index auf 117 Plugins und 6693 Skills synchronisiert.
+
+## Checks
+
+- YAML-Frontmatter, Plugin-Struktur, Gesamt-PDF-Regel, ZIP-Bau und Release-ZIP-Validierung werden vor dem Tagging erneut ausgeführt.
+
+---
+
 # v53.1.0 — Anthropic-Tiefe-Boost Batch A01 M&A-Kern
 
 Erster produktiver Skill-Tiefe-Boost aus dem Branch `anthropic-patterns-experimente`, sauber auf den aktuellen `main`-Stand integriert. Der alte Experiment-Branch wurde nicht stumpf gemerged, damit der v53.0.0-Release-Stand erhalten bleibt.

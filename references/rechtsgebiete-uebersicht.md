@@ -3,6 +3,7 @@
 | Verzeichnis | Inhalt | Wichtigste Normen |
 | --- | --- | --- |
 | `arbeitsrecht` | Individual- und kollektives Arbeitsrecht | BGB §§ 611a ff., KSchG, TzBfG, BUrlG, EFZG, AGG, BetrVG, ArbZG, MuSchG, BEEG, NachwG, AÜG |
+| `bank-rechtsabteilung` | Rechtsabteilung einer mittelgroßen deutschen Bank: Aufsicht, Kredit, Sanierung, Vorstand, HV, AGB, Vertrieb, BaFin und externe Anwälte | KWG, MaRisk, DORA, ZAG, WpHG, GwG, HGB, BGB, AktG, InsO, StaRUG |
 | `barrierefreiheit-web-checker` | Digitale Barrierefreiheit für Websites, Webshops, Portale, Apps und Dokumente | BFSG, BFSGV, BITV 2.0, BGG, RL (EU) 2016/2102, RL (EU) 2019/882, EN 301 549, WCAG |
 | `datenschutzrecht` | DSGVO, BDSG, TDDDG, Beschäftigtendatenschutz | DSGVO, BDSG, TDDDG (vormals TTDSG), KUG |
 | `gesellschaftsrecht` | GmbH, AG, GbR, OHG, KG, M&A | GmbHG, AktG, HGB, MoPeG, UmwG, WpÜG |
