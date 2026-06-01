@@ -100,56 +100,105 @@ Wähle passend oder biete maximal drei Optionen an:
 
 | Skill | Schwerpunkt |
 | --- | --- |
-| `bankrechtsabteilung-kaltstart-routing` | Kaltstart-Routing |
-| `bankaufsichtsrecht-kwg-marisk-triage` | KWG- und MaRisk-Triage |
+| `agb-bankrecht-klauselkontrolle` | AGB-Klauselkontrolle Bank |
+| `anwaltliche-rechnungen-review` | Rechnungsreview Kanzlei |
+| `app-fraud-social-engineering-bank` | APP-Fraud Bank |
+| `aufsichtsrat-vorlage-bank` | Aufsichtsrat und Ausschüsse |
 | `bafin-kommunikation-und-anhoerung` | BaFin-Anhörung und Aufsichtsschreiben |
 | `bafin-pruefung-vor-ort-management` | Prüfung vor Ort managen |
-| `ssm-bundesbank-aufsichtsbrief` | SSM und Bundesbank |
-| `marisk-auslagerungen-at9-dora` | Auslagerung und DORA |
-| `dora-ict-vertraege-vorfall` | DORA IKT-Verträge und Vorfälle |
-| `gwg-aml-kyc-verdachtsmeldung` | GwG AML KYC |
-| `sanktionsscreening-embargo-bank` | Sanktionen und Embargo |
-| `zahlungsdienste-zag-psd3-psr` | Zahlungsdienste und ZAG |
-| `kreditwesengesetz-erlaubnis-inhaberkontrolle` | KWG-Erlaubnis und Beteiligungen |
-| `crr-crd-eigenmittel-large-exposure` | CRR CRD Eigenmittel und Großkredite |
-| `mifid-wphg-anlageberatung` | WpHG Anlageberatung |
-| `wpig-wertpapierinstitut-schnittstelle` | WpIG-Schnittstelle |
-| `einlagensicherung-kundenhinweise` | Einlagensicherung |
-| `agb-bankrecht-klauselkontrolle` | AGB-Klauselkontrolle Bank |
-| `kundenbeschwerde-ombudsmann-bafin` | Beschwerdemanagement |
-| `kontokuendigung-sperre-basiskonto` | Kontosperre und Kündigung |
-| `darlehensrecht-verbraucher-unternehmer` | Darlehensrecht |
-| `kreditentscheidung-weiterfinanzierung` | Weiterfinanzierung |
-| `stundung-standstill-waiver` | Stundung und Standstill |
-| `sanierungsgutachten-idw-s6-bewertung` | Sanierungsgutachten bewerten |
-| `restrukturierung-kreditengagement` | Kreditrestrukturierung |
-| `forbearance-npe-risikoklassifizierung` | Forbearance und NPE |
-| `kreditsicherheiten-bestellung-verwertung` | Kreditsicherheiten |
-| `insolvenz-anfechtung-bank` | Insolvenzanfechtung Bank |
-| `handelsvertreter-vertriebsrecht-bank` | Handelsvertreter und Vertrieb |
-| `provisionsmodelle-vertrieb-compliance` | Provision und Vertriebscompliance |
-| `outsourcing-externe-dienstleister` | Outsourcing allgemein |
-| `externe-anwaelte-steuerung` | Externe Anwälte steuern |
-| `anwaltliche-rechnungen-review` | Rechnungsreview Kanzlei |
-| `vorstandsvorlage-gutachten` | Vorstandsvorlage |
-| `aufsichtsrat-vorlage-bank` | Aufsichtsrat und Ausschüsse |
-| `hauptversammlung-bank-aktg` | Hauptversammlung Bank |
-| `organhaftung-business-judgment` | Organhaftung |
+| `bankaufsichtsrecht-kwg-marisk-triage` | KWG- und MaRisk-Triage |
+| `bankgeheimnis-auskunftsersuchen` | Auskunftsersuchen |
+| `banking-as-a-service-white-label` | White-Label-Banking |
+| `bankrechtsabteilung-kaltstart-routing` | Kaltstart-Routing |
 | `beteiligungserwerb-bank-ma` | Beteiligung und M&A |
-| `fit-proper-organe-mitarbeiter` | Fit and Proper |
+| `betriebsrat-change-projekte` | Arbeitsrechtliche Bankprojekte |
+| `blockchain-settlement-dvp` | DLT Settlement DvP |
+| `chargeback-card-schemes-bankrecht` | Chargeback und Kartenstreit |
+| `correspondent-banking-nostro-vostro` | Correspondent Banking |
+| `covenant-waiver-credit-documentation` | Covenant Waiver |
+| `crr-crd-eigenmittel-large-exposure` | CRR CRD Eigenmittel und Großkredite |
+| `crypto-tax-reporting-dac8-car` | Krypto-Steuerreporting DAC8 |
+| `darlehensrecht-verbraucher-unternehmer` | Darlehensrecht |
 | `datenraum-bank-transaktion` | Datenraum Bank |
 | `datenschutz-bankgeheimnis` | Datenschutz und Bankgeheimnis |
-| `bankgeheimnis-auskunftsersuchen` | Auskunftsersuchen |
-| `betriebsrat-change-projekte` | Arbeitsrechtliche Bankprojekte |
-| `it-sicherheit-cloud-vertraege` | IT-Sicherheit und Cloud |
-| `produktfreigabe-new-product-process` | Produktfreigabe NPP |
+| `depotrecht-tokenisierte-wertpapiere` | Depotrecht Tokenpapiere |
+| `dlt-pilot-regime-market-infrastructure` | DLT Pilot Regime |
+| `dora-ict-vertraege-vorfall` | DORA IKT-Verträge und Vorfälle |
+| `einlagensicherung-kundenhinweise` | Einlagensicherung |
+| `embedded-finance-kooperation` | Embedded Finance |
 | `esg-sustainable-finance` | ESG Sustainable Finance |
-| `ma-risk-compliance-funktion` | MaRisk Compliance-Funktion |
+| `ewpg-emission-elektronische-wertpapiere` | eWpG-Emission |
+| `ewpg-kryptowertpapierregister-erlaubnis` | Kryptowertpapierregister Erlaubnis |
+| `ewpg-registerwechsel-registerfehler` | eWpG Registerfehler |
+| `externe-anwaelte-steuerung` | Externe Anwälte steuern |
+| `fit-proper-eignungsmatrix-deep-dive` | Fit-and-Proper Eignungsmatrix |
+| `fit-proper-organe-mitarbeiter` | Fit and Proper |
+| `forbearance-npe-risikoklassifizierung` | Forbearance und NPE |
+| `geldwaesche-krypto-wallet-screening` | Krypto-AML Wallet Screening |
+| `geschaeftsleiter-abberufung-krise` | Geschäftsleiterabberufung und Krise |
+| `geschaeftsleiter-bestellung-kwg-zag` | Geschäftsleiterbestellung KWG/ZAG |
+| `girokonto-firmenkunden-risk-exit` | Firmenkunden Risk Exit |
+| `gwg-aml-kyc-verdachtsmeldung` | GwG AML KYC |
+| `handelsvertreter-vertriebsrecht-bank` | Handelsvertreter und Vertrieb |
+| `hauptversammlung-bank-aktg` | Hauptversammlung Bank |
+| `iban-name-check-verification-payee` | IBAN-Name-Check |
+| `insolvenz-anfechtung-bank` | Insolvenzanfechtung Bank |
+| `instant-payments-sepa-vo` | Instant Payments SEPA |
 | `interne-richtlinie-policy-drafting` | Policy Drafting Bank |
-| `rechtsmonitoring-bank` | Rechtsmonitoring |
+| `it-sicherheit-cloud-vertraege` | IT-Sicherheit und Cloud |
+| `kontokuendigung-sperre-basiskonto` | Kontosperre und Kündigung |
+| `kreditentscheidung-weiterfinanzierung` | Weiterfinanzierung |
+| `kreditsicherheiten-bestellung-verwertung` | Kreditsicherheiten |
+| `kreditwesengesetz-erlaubnis-inhaberkontrolle` | KWG-Erlaubnis und Beteiligungen |
+| `kundenbeschwerde-ombudsmann-bafin` | Beschwerdemanagement |
 | `litigation-schlichtung-prozess` | Litigation Bank |
+| `ma-risk-compliance-funktion` | MaRisk Compliance-Funktion |
+| `marisk-auslagerungen-at9-dora` | Auslagerung und DORA |
+| `micar-art-emt-bank-emission` | MiCAR ART und EMT |
+| `micar-casp-notifikation-bank-art60` | MiCAR CASP für Banken |
+| `micar-whitepaper-marketing-bank` | MiCAR Whitepaper und Werbung |
+| `mifid-wphg-anlageberatung` | WpHG Anlageberatung |
 | `notfallplan-krisenkommunikation` | Krise und Kommunikation |
-
+| `operational-resilience-concentration-risk` | Operational Resilience Konzentration |
+| `organhaftung-business-judgment` | Organhaftung |
+| `organwechsel-ssm-imas-mvp` | Organwechsel Einreichkanal |
+| `outsourcing-crypto-dlt-node-provider` | DLT Outsourcing |
+| `outsourcing-externe-dienstleister` | Outsourcing allgemein |
+| `outsourcing-fintech-bank-as-a-service` | Bank-as-a-Service Outsourcing |
+| `pfandbriefbank-spezialdeckung` | Pfandbrief Spezialdeckung |
+| `produktfreigabe-new-product-process` | Produktfreigabe NPP |
+| `provisionsmodelle-vertrieb-compliance` | Provision und Vertriebscompliance |
+| `psd2-fraud-refund-unauthorised-payment` | Unautorisierte Zahlung und Fraud |
+| `psd2-open-banking-api-xs2a` | PSD2 Open Banking API |
+| `psd2-sca-strong-customer-authentication` | PSD2 SCA |
+| `psd3-psr-vorschau-gap-analysis` | PSD3/PSR Vorschau |
+| `rechtsmonitoring-bank` | Rechtsmonitoring |
+| `restrukturierung-kreditengagement` | Kreditrestrukturierung |
+| `sanierungsgutachten-idw-s6-bewertung` | Sanierungsgutachten bewerten |
+| `sanktionsscreening-embargo-bank` | Sanktionen und Embargo |
+| `schluesselfunktionen-inhaber-fit-proper` | Schlüsselfunktionen Fit and Proper |
+| `sepa-direct-debit-return-disputes` | SEPA Lastschriftstreit |
+| `ssm-bundesbank-aufsichtsbrief` | SSM und Bundesbank |
+| `stablecoin-payment-usecase-bank` | Stablecoin Payments |
+| `staking-lending-token-bank` | Staking und Token-Lending |
+| `stundung-standstill-waiver` | Stundung und Standstill |
+| `sustainability-linked-loan-greenwashing` | SLL und Greenwashing |
+| `syndizierte-kredite-agent-security-trustee` | Syndizierter Kredit |
+| `tokenisierung-security-token-mica-mifid` | Tokenisierung Rechtsqualifikation |
+| `trade-finance-sanctions-lc-guarantee` | Trade Finance Sanktionen |
+| `travel-rule-krypto-transfers` | Travel Rule Krypto |
+| `verwahrung-kryptowerte-bank-custody` | Krypto-Custody Bank |
+| `vorstandsvorlage-gutachten` | Vorstandsvorlage |
+| `wpig-wertpapierinstitut-schnittstelle` | WpIG-Schnittstelle |
+| `zag-agenten-auslagerung-register` | ZAG-Agenten und Register |
+| `zag-ausnahmen-limited-network-commercial-agent` | ZAG-Ausnahmen |
+| `zag-e-geld-institut-emoney` | E-Geld nach ZAG |
+| `zag-erlaubnisanalyse-payment-institution` | ZAG-Erlaubnis Zahlungsinstitut |
+| `zag-finanztransfergeschaeft-money-remittance` | Finanztransfergeschäft nach ZAG |
+| `zag-kontoinformationsdienst-ais` | Kontoinformationsdienst AIS |
+| `zag-negativauskunft-feststellung-bafin` | ZAG-Feststellung und Negativauskunft |
+| `zag-zahlungsausloesedienst-pis` | Zahlungsauslösedienst PIS |
+| `zahlungsdienste-zag-psd3-psr` | Zahlungsdienste und ZAG |
 
 ## Quellenanker
 

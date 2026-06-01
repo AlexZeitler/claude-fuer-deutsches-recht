@@ -1,22 +1,29 @@
 {
   "name": "bank-rechtsabteilung",
-  "version": "53.2.0",
-  "description": "Rechtsabteilung einer mittelgroßen deutschen Bank: Aufsichtsrecht, Kredit, Sanierung, BaFin, Vorstand, HV, AGB, Vertrieb, externe Anwälte und Rechnungskontrolle.",
+  "version": "53.3.0",
+  "description": "Rechtsabteilung einer mittelgroßen deutschen Bank: Aufsicht, Kredit, ZAG/PSD2, PSD3/PSR-Vorschau, eWpG, MiCAR, Tokenisierung, BaFin, Vorstand, HV und Kanzleisteuerung.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"
   },
   "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
   "keywords": [
-    "bank",
-    "rechtsabteilung",
+    "agb",
     "aufsichtsrecht",
     "bafin",
-    "marisk",
+    "bank",
     "dora",
-    "kwg",
+    "ewpg",
     "kredit",
+    "kryptowertpapierregister",
+    "kwg",
+    "marisk",
+    "micar",
+    "psd2",
+    "psd3",
+    "rechtsabteilung",
     "sanierung",
-    "agb"
+    "tokenisierung",
+    "zag"
   ]
 }

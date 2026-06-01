@@ -36,3 +36,15 @@ Dieses Verzeichnis nennt offizielle und frei zugängliche Anker, gegen die die S
 - Keine BeckRS-, Juris-, Kommentar- oder Aufsatzfundstellen ohne vom Nutzer bereitgestellte oder lizenzierte Quelle.
 - Bei Verwaltungspraxis immer Datum, Behörde, Dokumentart und Link protokollieren.
 - Bei Vorständen und Aufsicht stets Annahmen, offene Tatsachen und Freigabekette sichtbar halten.
+
+- BaFin Zahlungsdienste und PSD2: https://www.bafin.de/DE/Aufsicht/ZahlungsdienstePSD2/ZahlungsdienstePSD2_artikel.html
+- BaFin Zulassungsverfahren nach PSD2/ZAG: https://www.bafin.de/DE/Aufsicht/ZahlungsdienstePSD2/ZulassungsverfahrenundLaufendeAufsicht/ZulassungsverfahrenundLaufendeAufsicht_node.html
+- BaFin Personenanzeigen KWG: https://www.bafin.de/DE/Aufsicht/BankenFinanzdienstleister/Anzeige-Meldepflichten/Personenanzeigen_KWG/Personenanzeigen_node.html
+- BaFin Geschäftsleiter-Merkblatt KWG/ZAG/KAGB: https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Merkblatt/mb_geschaeftsleiter_KWG_ZAG_KAGB.html
+- BaFin Kryptowertpapierregisterführung: https://www.bafin.de/DE/Aufsicht/BankenFinanzdienstleister/Markteintritt/Kryptowertpapierregisterfuehrung/kryptowertpapierregisterfuehrung_node.html
+- BaFin Merkblatt Kryptowertpapierregisterführung: https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Merkblatt/mb_231114_tatbestand_kryptowertpapierregisterfuehrung.html
+- eWpG bei Gesetze im Internet: https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html
+- BaFin MiCAR: https://www.bafin.de/DE/Aufsicht/MiCAR/MiCAR_node.html
+- MiCAR Verordnung (EU) 2023/1114: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023R1114
+- EU-Kommission Zahlungsdienste/PSD2 und Folgerechtsakte: https://finance.ec.europa.eu/regulation-and-supervision/financial-services-legislation/implementing-and-delegated-acts/payment-services-directive_en
+- Rat der EU Zahlungsdienste-Paket PSD3/PSR: https://www.consilium.europa.eu/en/press/press-releases/2025/06/18/council-agrees-its-position-on-a-more-modern-payment-service-framework-in-the-eu/

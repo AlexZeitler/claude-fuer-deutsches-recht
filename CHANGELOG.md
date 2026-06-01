@@ -1,3 +1,20 @@
+# v53.3.0 — Bank-Rechtsabteilung Spezial-Boost ZAG, PSD, eWpG und Tokenisierung
+
+Zweiter Ausbau des Plugins `bank-rechtsabteilung` von 50 auf 100 Skills. Schwerpunkt sind Spezialmaterien, die in einer Bank-Rechtsabteilung schnell schief werden können, wenn man sie nur als normales Bankrecht behandelt.
+
+## Schwerpunkt
+
+- 50 neue Spezial-Skills für Geschäftsleiterbestellung, Fit-and-Proper, Organwechsel, Schlüsselfunktionen, ZAG-Erlaubnis, Finanztransfergeschäft, ZAG-Negativauskunft, E-Geld, AIS/PIS, Agenten, ZAG-Ausnahmen, PSD2-SCA, Open-Banking-API, Fraud/Refund, PSD3/PSR-Vorschau, Instant Payments, IBAN-Name-Check, eWpG-Emission, Kryptowertpapierregister, Registerfehler, Tokenisierung, MiCAR-CASP, ART/EMT, Whitepaper, DLT Pilot Regime, Krypto-Custody, Stablecoins, DLT-Settlement, Travel Rule, Krypto-AML, APP-Fraud, SEPA/Card Disputes, Correspondent Banking, Trade Finance, Pfandbrief, Syndicated Loans, SLL, Bank-as-a-Service und Embedded Finance.
+- `allgemein`-Skill auf 99 Anschluss-Skills erweitert, damit Kaltstart und stummer Upload weiterhin sauber routen.
+- Quellenanker ergänzt: BaFin PSD2/ZAG, Personenanzeigen, Geschäftsleiter-Merkblatt, Kryptowertpapierregisterführung, eWpG, MiCAR, EU PSD3/PSR-Materialien.
+- Marketplace, Plugin-README, Skill-Gesamtübersicht, Asset-Index und Haupt-README synchronisiert.
+
+## Checks
+
+- YAML-Frontmatter, Plugin-Struktur, Gesamt-PDF-Regel, ZIP-Bau und Release-ZIP-Validierung werden vor Tagging ausgeführt.
+
+---
+
 # v53.2.0 — Bank-Rechtsabteilung-Plugin
 
 Neues Inhouse-Plugin `bank-rechtsabteilung` für die Rechtsabteilung einer mittelgroßen deutschen Bank.
