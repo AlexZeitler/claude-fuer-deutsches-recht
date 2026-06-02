@@ -1,3 +1,21 @@
+# v61.2.0 — Testakten-Umlaut-Fix, NeuroChain-Akte und README-Konsolidierung
+
+## Schwerpunkt
+
+- Umlaut-Sanierung über 638 Testakten-Dateien via Hunspell-Validierung (17.216 Ersetzungen `ae`/`oe`/`ue`/`ss` → `ä`/`ö`/`ü`/`ß`).
+- Neue Testakte **NeuroChain Labs — Gründung eines KI/Krypto-Startups in Berlin** (`gesellschaftsgruender-ki-krypto-startup-berlin-musterprotokoll`) mit 14 Aktenstücken, 6 E-Mails, 2 Tabellen und Gesamt-PDF.
+- Plugin-READMEs konsolidiert: veraltete `plugin-testakten-section` aus 117 READMEs entfernt; einzig verbleibende autogenerierte Liste ist die Sofort-Download-Sektion.
+- Skript `inject-plugin-testakten-section.py` ersatzlos gelöscht; `inject-plugin-sofort-download-section.py` ist die alleinige Quelle für Testakten-Listen in Plugin-READMEs.
+- Gesamtzahl Testakten jetzt 141.
+
+## Checks
+
+- `validate-plugin-structure` OK.
+- `validate-testakten-gesamt-pdf` OK (141 Testakten).
+- YAML-Frontmatter, Whitespace und Hunspell-Wörterbuch grün.
+
+---
+
 # v61.1.1 — Forschungszulage-Plädoyer erweitert
 
 ## Schwerpunkt
