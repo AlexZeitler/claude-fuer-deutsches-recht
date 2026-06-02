@@ -11,13 +11,19 @@ Großer Ausbau des freistehenden `grosskanzlei-corporate-ma`-Plugins zu einer no
 ## Synchronisierung
 
 - Marketplace und alle Plugin-Manifeste auf `v61.0.0` gesetzt.
-- `README.md`, `SKILLS.md`, Skills-Index und Asset-Index auf 132 Plugins, 9421 Skills und 140 Testakten nachgezogen.
+- `README.md`, `SKILLS.md`, Skills-Index und Asset-Index auf 132 Plugins, 9437 Skills und 140 Testakten nachgezogen.
 
 ## Checks
 
 - Plugin-Struktur, YAML-Frontmatter, Testakten-Gesamt-PDF-Regel und Whitespace-Check laufen im Release-Check.
 
 ---
+
+# v60.0.1 - Beamtenrecht/Richterrecht Wissenssammlung
+
+- Beamtenrecht-Plugin um vertiefte Skills zur BVerfG-Alimentationsrechtsprechung, zeitnahen Geltendmachung, Föderalismusreform, BDG-2024, Suspendierung, Verfassungstreue, Richterdienstaufsicht, Richterdienstgerichten und EU-Justizunabhängigkeit erweitert.
+- Recherchematerial aus dem Branch `recherche/beamtenrecht-richterrecht-wissenssammlung` als gesonderte Arbeitsablage übernommen.
+- Quellenhygiene im Beamtenrecht verschärft: keine privaten Datenbankzitate, keine Literatur-Blindzitate, keine ungeprüften richterdienstgerichtlichen Fundstellen.
 
 # v60.0.0 — Beamtenrecht, US-Copyright-Registrierung und Release-Sync
 
