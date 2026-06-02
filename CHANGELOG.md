@@ -1,3 +1,23 @@
+# v61.2.1 — Forschungszulage-Akte und Release-Asset-Glattzug
+
+## Schwerpunkt
+
+- Neue große Arbeitsakte `forschungszulage-sensorik-startup-taunus` für das Plugin `forschungszulage-antragstellung`.
+- Enthalten sind 62 Dateien: 37 Markdown-Aktenstücke, 5 EML-Mails, XLSX/CSV-Zahlenmodelle, 3 DOCX-Entwürfe, 3 JPEG-Bildanlagen, 7 PDF-Anlagen und ein 60-seitiges Gesamt-PDF.
+- Inhaltlicher Schwerpunkt: BSFZ-Rückfrage, FuE-Abgrenzung, Stand der Technik, technische Unsicherheit, Laborjournal mit negativen Ergebnissen, Ticket-/Git-Auszüge, Auftragsforschung Lissabon, Unterauftrag-Risiko, Kumulierung mit ZIM/Horizon/Landesförderung, Finanzamt-Kürzung, Einspruch, Bemessungsgrundlage 2024-2026, KMU-/Verbundfragen und Liquiditätsdarstellung gegenüber Bank/Investoren.
+- Plugin-README, Testaktenübersicht, Asset-Index und Downloadmapping auf 142 Testakten synchronisiert.
+- Ein älterer fehlender Asset-Index-Eintrag für `gesellschaftsgruender-ki-krypto-startup-berlin-musterprotokoll` wurde nachgetragen.
+- Plugin-Manifeste bleiben unverändert; diese Patch-Version ist ein Testakten-/Release-Asset-Glattzug.
+
+## Checks
+
+- `validate-plugin-structure` OK.
+- `validate-testakten-gesamt-pdf` OK (142 Testakten).
+- Testaktenlisten-Abgleich: 142 Ordner, 142 README-Einträge, 142 Asset-Index-Einträge, 142 Direktdownload-Links.
+- `git diff --check` OK.
+
+---
+
 # v61.2.0 — Testakten-Umlaut-Fix, NeuroChain-Akte, README-Konsolidierung und Beamtenrecht-Quellenanker
 
 ## Schwerpunkt
