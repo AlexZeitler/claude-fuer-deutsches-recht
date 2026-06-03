@@ -1,57 +1,81 @@
 ---
 name: see-013-bermuda-struktur-pruefen
-description: "See- und Schifffahrtsrecht: Bermuda-Struktur prüfen. Bermuda-Struktur prüfen im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: 'Reederei nutzt Bermuda-Holding-Struktur (SPV; Cayman/BVI-Holding): steuerliche und haftungsrechtliche Analyse. Abgrenzung Reeder vs. Ausruester (HGB §§ 476/477); Durchgriffshaftung; BEPS-Konformitaet (AStG §§ 7-14); BFH-Rechtsprechung; ISM-Code-Verantwortung. Output: Strukturanalyse-Vermerk und Haftungsrisiko-Karte.'
 ---
 
-# Bermuda Struktur Pruefen
+# Bermuda-Struktur prüfen – Holding-Struktur und Haftungsrisiken
 
-## Arbeitsauftrag
+## Mandantenfall
+Ein Schiffsfonds hält seine Schiffe über Cayman-SPVs; nach einem Totalverlust fragt der Insolvenzverwalter wer wirklich Reeder und haftbar ist. Eine Bank finanziert ein Schiff das einer BVI-Gesellschaft gehört; der Reeder operiert aus Deutschland. Die Steuerbehörde prüft ob die Bermuda-Struktur BEPS-konform ist.
 
-Bermuda Struktur Pruefen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich See- und Schifffahrtsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+## Erste Schritte
+1. Gesellschafts-Kaskade aufzeichnen: Eigentümer (BVI/Cayman-SPV); Reeder (HGB § 476); Ausrüster (HGB § 477).
+2. Substanzprüfung der Offshore-Einheiten: Sitz; Mitarbeiter; Geschäftsführung; BEPS Action 6/13 Anforderungen.
+3. ISM-Code-Verantwortung klären: ISM § 1.1.2 – Unternehmen = wer betriebliche Kontrolle hat; nicht zwingend Registereigentümer.
+4. Steuerliche Analyse: AStG §§ 7-14 Hinzurechnungsbesteuerung; § 49 EStG; § 8b KStG.
+5. Durchgriffshaftungsrisiko bewerten: Konzernhaftung nur in Ausnahmefällen; UNCLOS Art. 94 kann wirtschaftlichen Eigentümer identifizieren.
+6. Restrukturierungsoptionen aufzeigen: BEPS-konforme Substanzschaffung.
 
-## Einstieg ohne Leerlauf
+## Rechtsrahmen
+- HGB § 476: Reeder = Betreiber auf eigene Rechnung; auch Offshore-Eigentümer kann Reeder sein.
+- HGB § 477: Ausrüster = wer fremdes Schiff auf eigene Rechnung betreibt; haftet wie Reeder.
+- AStG §§ 7-14: Hinzurechnungsbesteuerung für passive Offshore-Einkünfte.
+- KStG § 8 Abs. 2: Ort der Geschäftsleitung als Anknüpfungspunkt.
+- UNCLOS Art. 94: Flaggenstaat verpflichtet zur Kontrolle; darf nicht an formale Eigentumsstruktur anknüpfen.
+- ISM-Code Kap. 1.1.2: Unternehmensdefinition; betriebliche Kontrolle entscheidend.
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+## Prüfraster
+- Hat jede Gesellschaft in der Kaskade echte wirtschaftliche Substanz?
+- Ist klar wer ISM-Code-Unternehmen ist?
+- Greift die Hinzurechnungsbesteuerung (AStG § 7) für Schifffahrtseinkünfte?
+- Gibt es Haftungsdurchgriff auf die Holding-Ebene?
+- Sind alle Gesellschaften im UBO-Register offengelegt?
 
-## Norm- und Quellenanker
+## Typische Fallstricke
+- Irrige Annahme der Offshore-SPV isoliere vollständig von Haftungsrisiken.
+- Fehlende Substanz der Bermuda-Gesellschaft; BFH bejaht Hinzurechnung.
+- ISM-DOC ausgestellt auf Managementfirma aber wirtschaftlicher Betreiber ist anders.
+- KYC/AML-Anforderungen verlangen zunehmend UBO-Transparenz.
 
-- HGB Seehandelsrecht, Schiffregister, Schiffsrechtegesetz, Schiffshypothek
-- Schiffbau, Werftvertrag, Charter, Konnossement, Havarie, Bergung, Wrack
-- Arrest/Pfändung, Flagge, P&I, Klassifikation, Insolvenz
-- UNCLOS/ITLOS Hamburg, internationale Zuständigkeit und Vollstreckung
+## Output
+- Strukturanalyse-Vermerk: Gesellschaftskaskade; Haftungsfluss; Steuerrisiken
+- Haftungsrisiko-Karte
+- Restrukturierungs-Empfehlung
 
-## Prüfroutine
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+## Erweiterte Normengrundlage
 
-## Typische Artefakte
+### Gesellschaftsrecht
+- BGB §§ 705-740: Gesellschaft bürgerlichen Rechts; Grundstruktur von SPV-Strukturen.
+- GmbHG §§ 1-88: GmbH als Einschiffgesellschaft; Haftungsbegrenzung.
+- Companies Act 1981 (Bermuda): Bermuda-Gesellschaftsrecht; Exempted Companies.
 
-- Schiffs- und Registerdatenblatt
-- Hypotheken-/Arreststrategie
-- Werft-/Charter-Risikomatrix
-- Internationaler Zuständigkeits- und Vollstreckungsvermerk
+### Steuerrecht
+- AO §§ 12-13: Betriebsstätte; Beschränkte Steuerpflicht.
+- UmwStG: Einbringung in Kapitalgesellschaft; Entstrickungsbesteuerung.
+- DBA Deutschland-Bermuda: kein vollständiges DBA; Anwendung nationalen Steuerrechts.
 
-## Red-Team-Fragen
+## Checkliste Bermuda-Struktur
+- [ ] Gesellschaftsstruktur vollständig aufgenommen (Organogramm)
+- [ ] Beneficial Owner identifiziert; UBO-Transparenz geprüft (GwG)
+- [ ] Steuerliche Ansässigkeit jeder Gesellschaft bestimmt
+- [ ] Substanz-Anforderungen der Bermuda-Gesellschaft geprüft
+- [ ] Bankkonten und Cash-Flow-Struktur aufgenommen
+- [ ] Compliance mit FATF/FATCA/CRS dokumentiert
 
-- Flagge/Register/gewöhnlicher Aufenthalt verwechselt
-- Arrest ohne Vollstreckungsfähigkeit
-- Klassifikations-/Versicherungsfolge fehlt
-- ITLOS/UNCLOS nur dekorativ statt relevant
+## Relevante Rechtsprechung
+- BGH zur Durchgriffshaftung bei Einschiff-SPV-Strukturen; Unterkapitalisierung.
+- BFH zur Besteuerung von Bermuda-Schiffen; beschränkte Steuerpflicht inländischer Einkünfte.
+- BVerwG zum Geldwäschegesetz; Transparenzregister-Pflicht für Schiffs-SPV.
 
-## Ausgabeformat
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+## Praxishinweis
 
-## Qualitätsregel
+Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestaltung sind ergänzend folgende Quellen heranzuziehen: (1) aktuelle BSH-Rundschreiben und Bekanntmachungen (abrufbar unter bsh.de); (2) Verwaltungsvorschriften der zuständigen Wasser- und Schifffahrtsverwaltung; (3) aktuelle Entscheidungen des LG und OLG Hamburg zu seerechtlichen Fragen (openjur.de); (4) ITLOS-Rechtsprechungsdatenbank (itlos.org). Bei internationalem Bezug ist stets zu prüfen, ob der betreffende Staat UNCLOS-, MLC- oder MARPOL-Vertragsstaat ist und ob ISAC 1952 gilt.
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+## Quellen
+- HGB §§ 476/477: https://dejure.org/gesetze/HGB/476.html
+- AStG §§ 7-14: https://www.gesetze-im-internet.de/astg/__7.html
+- UNCLOS Art. 94: https://www.un.org/Depts/los/convention_agreements/texts/unclos/unclos_e.pdf
+- ISM-Code: https://www.bsh.de/DE/THEMEN/Schifffahrt/ISM_Code/ism_code_node.html
+- BFH: https://www.bfh.de

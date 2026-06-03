@@ -1,57 +1,93 @@
 ---
 name: see-040-schiffbauwerk-risiko-memo-schreiben
-description: "See- und Schifffahrtsrecht: Schiffbauwerk: Risiko memo schreiben. Risiko memo schreiben für Schiffbauwerk im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: 'Schiffbauwerk: Gesamtrisikobewertung fuer Werft; Auftraggeber-Reeder; finanzierende Bank bei Schiff im Bau (Schiffbauwerk): Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag. Output: Risiko-Memo und Empfehlungsmatrix.'
 ---
 
-# Schiffbauwerk Risiko Memo Schreiben
+# Schiffbauwerk – Risiko-Memo schreiben
 
-## Arbeitsauftrag
+## Mandantenfall
+Eine Bank bereitet den Vorstand auf potenzielle Kreditausfälle in der Schiffbauwerk-Flotte vor. Ein Finanzinvestor prüft den Kauf eines Kreditportfolios mit Schiffbauwerk-Hypotheken. Ein Syndikat benötigt ein gemeinsames Risikodokument für alle Banken.
 
-Schiffbauwerk Risiko Memo Schreiben wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich See- und Schifffahrtsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+## Erste Schritte
+1. Schiffbauwerk-Daten zusammenfassen: IMO-Nummer; Flagge; Alter; Schiffswert; Kreditvaluta.
+2. Hypothekenrang und Konkurrenzrechte darstellen.
+3. Hauptrisiken identifizieren: Wertverfall; Reeder-Insolvenz; Vorrangglaeubigerrechte; Wrackpflicht.
+4. Handlungsoptionen mit Kosten-Nutzen-Analyse formulieren.
+5. Zeitkritische Massnahmen priorisieren: Arrest; Versicherungspruefung; ISM-Status.
+6. Empfehlungsmatrix fuer Entscheidungstraeger erstellen.
 
-## Einstieg ohne Leerlauf
+## Rechtsrahmen
+- SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag; InsO §§ 49-51 Absonderung; WSG §§ 1-12 Wrackpflicht; ZPO §§ 864-871 Zwangsversteigerung.
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+## Prüfraster
+- Ist aktueller Schiffswert fuer Schiff im Bau (Schiffbauwerk) dokumentiert?
+- Sind alle Vorrangglaeubigerrechte (gesetzliche Schiffsglaeubigerrechte) bekannt?
+- Ist Wrackbeseitigungs-Versicherungsdeckung bestaetigt?
+- Ist Insolvenzwahrscheinlichkeit des Reeders bewertet?
+- Sind Handlungsoptionen mit Zeitplan und Kosten aufgelistet?
 
-## Norm- und Quellenanker
+## Typische Fallstricke
+- Schiffswertgutachten fuer Schiff im Bau (Schiffbauwerk) veraltet; Marktpreise schwanken stark.
+- Memo ohne Priorisierung zeitkritischer Massnahmen fuehrt zu Untaetigkeit.
+- Vorrangglaeubigerrechte (Besatzungsloehne/Hafengebuehren) werden unterschaetzt.
 
-- HGB Seehandelsrecht, Schiffregister, Schiffsrechtegesetz, Schiffshypothek
-- Schiffbau, Werftvertrag, Charter, Konnossement, Havarie, Bergung, Wrack
-- Arrest/Pfändung, Flagge, P&I, Klassifikation, Insolvenz
-- UNCLOS/ITLOS Hamburg, internationale Zuständigkeit und Vollstreckung
+## Output
+Risiko-Memo (Exekutivfassung) und Empfehlungsmatrix für Schiff im Bau (Schiffbauwerk).
 
-## Prüfroutine
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+## Vertiefung: Struktur des Risiko-Memos
+Ein hochwertiges Risiko-Memo enthält: (1) Zusammenfassung und Handlungsempfehlung (Executive Summary; max. 1 Seite); (2) Schiffsdaten und aktueller Schiffswert (mit Gutachterquelle und -datum); (3) Kreditstatus (Valutastand; Zinsen; Fälligkeiten; Default-Events); (4) Sicherheitenanalyse (Hypothekenrang; Verwertungserlös-Prognose); (5) Gläubigerrangfolge (gesetzliche Vorrechte; Hypotheken; ungesicherte Forderungen); (6) Risikoszenarien (Best Case; Base Case; Worst Case); (7) Maßnahmenplan mit Zeitlinie und Verantwortlichen.
 
-## Typische Artefakte
+## Schiffswertermittlung
+Schiffswerte werden bestimmt durch: Chartermarkt (aktueller T/C-Äquivalent-Erlös); Vergleichsverkäufe (comparable sales aus Baltic Exchange oder SSY); Gutachten von Shipbrokers (Clarkson; Braemar; Gibson). In der Insolvenz kann ein Notverkauf (forced sale) 10-30% unter dem Schätzwert liegen.
 
-- Schiffs- und Registerdatenblatt
-- Hypotheken-/Arreststrategie
-- Werft-/Charter-Risikomatrix
-- Internationaler Zuständigkeits- und Vollstreckungsvermerk
+## Eskalationsweg und Zeitkritikalität
+Zeitkritische Maßnahmen müssen sofort eingeleitet werden: Arrest bei Fluchtgefahr (sofort); Versicherungsmeldung (binnen 24 Stunden); P&I-Kündigung verhindern (laufende Prämien beobachten); ISM-DOC-Ablauf prüfen (ohne DOC kein Hafenanlauf). Das Risiko-Memo soll diese Zeitlinie explizit darstellen damit Entscheidungsträger die Prioritäten erkennen.
 
-## Red-Team-Fragen
 
-- Flagge/Register/gewöhnlicher Aufenthalt verwechselt
-- Arrest ohne Vollstreckungsfähigkeit
-- Klassifikations-/Versicherungsfolge fehlt
-- ITLOS/UNCLOS nur dekorativ statt relevant
+## Checkliste Risiko-Memo
+- [ ] Schiffsdaten vollständig: IMO-Nummer; Flagge; Alter; BRZ; Schiffstyp; Klasse
+- [ ] Schiffswert: Gutachterquelle; Datum; Methode (Charter-Equivalent; Comparable Sales)
+- [ ] Kreditstatus: Valutastand; Zinsen; letzte Zahlung; Default-Events
+- [ ] Hypothekenrang: alle Gläubiger; Beträge; Rangstellen
+- [ ] Gesetzliche Vorrechte (HGB §§ 596-601): aktuelle Crew-Löhne; Hafengebühren; PSC-Bußgelder
+- [ ] Versicherungsdeckung: P&I-Club-Mitgliedschaft; H&M-Police; MII; Laufzeit
+- [ ] ISM-/MLC-Zertifikatsstatus: Ablaufdaten; bekannte Mängel
+- [ ] Drei Szenarien: Best Case (einvernehmlicher Verkauf); Base Case (Zwangsversteigerung); Worst Case (Insolvenz + Verschrottung)
+- [ ] Maßnahmenplan mit Zeitlinie und Verantwortlichen
+- [ ] Executive Summary: Gesamtrisiko; Handlungsempfehlung; Nächste Schritte
 
-## Ausgabeformat
+## Relevante Rechtsprechung
+- BGH zur Absonderung des Hypothekengläubigers in der Reederei-Insolvenz; InsO §§ 49-51.
+- BGH zur Insolvenzanfechtung von Hypothekentilgungen in der Krise (InsO §§ 130-133).
+- OLG Hamburg zu Schiffswertgutachten in Verwertungsverfahren; Anforderungen an die Sachverständigenqualifikation.
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+## Normen im Überblick
+- InsO §§ 49-51: Absonderungsrecht; Hypothekengläubiger befriedigt sich vor der Insolvenzmasse.
+- InsO §§ 80-92: Verwaltungs- und Verfügungsbefugnis des Insolvenzverwalters über Schiffe.
+- HGB §§ 611-617: Summenhaftung; Haftungsbeschränkung des Reeders; Limits nach LLMC 1976/1996.
+- ZPO §§ 864-871: Zwangsversteigerung; Mindestgebot; Erlösverteilung.
+- SchRG §§ 59-74: Rangfolge bei der Erlösverteilung nach Zwangsversteigerung.
 
-## Qualitätsregel
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+## Vertiefung Risiko-Memo
+
+### Drei-Szenarien-Analyse
+Ein gutes Risiko-Memo enthält immer drei Szenarien: (1) Best Case: freiwilliger Verkauf zum Marktwert; vollständige Schuldenablösung; (2) Base Case: Zwangsversteigerung mit 15-20% Abschlag; teilweise Restschuld; (3) Worst Case: Insolvenz des Reeders; Schiff liegt fest; Erlös nach Kosten nur Teilbefriedigung.
+
+### Zeitlinie
+Die Dauer eines Seearrests bis zur Zwangsversteigerung beträgt in Deutschland typischerweise 3-6 Monate; in anderen Jurisdiktionen kürzer (Singapore: 4-6 Wochen; Panama: 2-3 Monate).
+
+## Normen-Synopse Risiko-Memo
+| Norm | Inhalt |
+|------|--------|
+| HGB § 596 | Gesetzliche Vorrechte |
+| InsO § 49 | Absonderungsrecht |
+| ZPO § 864 | Zwangsversteigerung |
+| SchRG § 59 | Rangfolge |
+
+## Quellen
+- SchRG: https://www.gesetze-im-internet.de/schrg/BJNR014990940.html
+- HGB §§ 596-601: https://dejure.org/gesetze/HGB/596.html
+- InsO §§ 49-51: https://www.gesetze-im-internet.de/inso/__49.html
+- BSH: https://www.bsh.de

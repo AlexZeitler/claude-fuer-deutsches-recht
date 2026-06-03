@@ -1,57 +1,82 @@
 ---
 name: see-011-pfaendung-und-arrest-schiff
-description: "See- und Schifffahrtsrecht: Pfändung und Arrest Schiff. Pfändung und Arrest Schiff im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: 'Glaeubigervertreter beantragt Arrest gegen Schiff im deutschen Hafen: ZPO §§ 916-945 dinglicher Arrest; Vollziehung durch Registereintragung (SchRegO § 67); ISAC 1952 Seeforderungen. Klaert Arrestanspruch; Arrestgrund; Vollziehungsfrist; Sicherheitsleistung; LOU-Strategie. Output: Arrestantrags-Baustein und Freigabe-Strategie.'
 ---
 
-# Pfaendung Und Arrest Schiff
+# Pfändung und Arrest am Schiff
 
-## Arbeitsauftrag
+## Mandantenfall
+Ein Konnossementsinhaber will einen in Hamburg eingelaufenen Frachter arrestieren; Reeder verweigert Frachtzahlung. Ein Bergungsunternehmen sichert seinen Bergungslohnanspruch bevor das geborgene Schiff ausfährt. Ein Gläubiger aus ausländischem Urteil will das im Hamburger Hafen liegende Schiff pfänden.
 
-Pfaendung Und Arrest Schiff wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich See- und Schifffahrtsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+## Erste Schritte
+1. Zuständigkeit klären: Landgericht am Liegeplatz (ZPO § 919); Hamburg = LG Hamburg.
+2. Arrestanspruch formulieren: bestehende Forderung gegen Schiffseigentümer oder Reeder (HGB § 476).
+3. Arrestgrund darlegen: Schiff verlässt Hafen bei nächster Gelegenheit; Reeder zahlungsunfähig.
+4. Arrestantrag stellen: ZPO § 920 – Anspruch und Arrestgrund glaubhaft machen; ohne Anhörung möglich.
+5. Vollziehung sichern: ZPO § 929 – Vollziehungsfrist 1 Monat; Eintragung im Schiffsregister (SchRegO § 67).
+6. Gegenmaßnahmen einschätzen: Letter of Undertaking des P&I-Clubs; Abwendung durch Sicherheitsleistung.
 
-## Einstieg ohne Leerlauf
+## Rechtsrahmen
+- ZPO §§ 916-945: dinglicher Arrest und einstweilige Verfügung; Voraussetzungen; Vollziehung; Aufhebung.
+- ZPO § 929: Vollziehungsfrist 1 Monat nach Beschlusszustellung.
+- SchRegO § 67: Pfändungs- und Arrestvermerk im Seeschiffsregister.
+- ISAC 1952: internationales Seearrestübereinkommen; definiert Seeforderungen die Arrest berechtigen.
+- HGB §§ 596-601: gesetzliche Schiffsgläubigerrechte; bevorzugte Befriedigung ohne Arrest.
+- ZPO § 945: Schadensersatz bei ungerechtfertigtem Arrest.
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+## Prüfraster
+- Ist die Forderung eine Seeforderung im Sinne des ISAC 1952 Art. 1?
+- Ist das Schiff im Hafen präsent und kann es noch verhindert werden?
+- Liegt ein Arrestgrund vor (konkrete Fluchtgefahr)?
+- Ist die Vollziehungsfrist von einem Monat einzuhalten?
+- Hat der P&I-Club ein Letter of Undertaking angeboten?
+- Besteht Risiko eines § 945-Schadensersatzes?
 
-## Norm- und Quellenanker
+## Typische Fallstricke
+- Arrest ohne Vollziehung (Registereintragung) bleibt wirkungslos; Schiff kann auslaufen.
+- LOU beendet nur den Arrest; Forderungsverfolgung geht weiter.
+- ZPO § 945-Schadensersatz kann erheblich sein; besonders bei Linienschiffen.
+- ISAC 1952 gilt nur für Seeforderungen; Ansprüche aus Landtransport berechtigen nicht zum Schiffsarrest.
 
-- HGB Seehandelsrecht, Schiffregister, Schiffsrechtegesetz, Schiffshypothek
-- Schiffbau, Werftvertrag, Charter, Konnossement, Havarie, Bergung, Wrack
-- Arrest/Pfändung, Flagge, P&I, Klassifikation, Insolvenz
-- UNCLOS/ITLOS Hamburg, internationale Zuständigkeit und Vollstreckung
+## Output
+- Arrestantrags-Baustein (ZPO § 920) mit Glaubhaftmachung
+- Vollziehungsstrategie: Register-Eintragung plus physische Bewachung
+- Freigabe-Strategie: LOU; Sicherheitsleistung; Gegenantrag
 
-## Prüfroutine
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+## Erweiterte Normengrundlage
 
-## Typische Artefakte
+### Arrest und Pfändung
+- ZPO §§ 916-945: Einstweiliger Rechtsschutz; Arrest; Vollziehung; Aufhebung.
+- ZPO §§ 864-871: Zwangsvollstreckung in eingetragene Schiffe.
+- ISAC 1952: Internationales Übereinkommen über den Arrest von Seeschiffen.
 
-- Schiffs- und Registerdatenblatt
-- Hypotheken-/Arreststrategie
-- Werft-/Charter-Risikomatrix
-- Internationaler Zuständigkeits- und Vollstreckungsvermerk
+### Vollziehung
+- SchRegO § 67: Eintragung von Pfändungs- und Arrestvermerken im Schiffsregister.
+- ZPO § 930: Vollziehung des Arrests; Formen; Fristen.
+- ZPO § 945: Schadensersatz bei ungerechtfertigtem Arrest.
 
-## Red-Team-Fragen
+## Checkliste Arrest-Vorbereitung
+- [ ] Seeforderung nach ISAC 1952 Art. 1 identifiziert
+- [ ] Schiff im Hafen bestätigt; Liegeplatz ermittelt
+- [ ] LG am Liegeplatz als zuständiges Gericht bestimmt
+- [ ] Arrestantrag (ZPO § 920) mit Glaubhaftmachung vorbereitet
+- [ ] LOU des P&I-Clubs als Alternative zur Vollziehung geprüft
+- [ ] § 945-Schadensersatzrisiko bewertet
 
-- Flagge/Register/gewöhnlicher Aufenthalt verwechselt
-- Arrest ohne Vollstreckungsfähigkeit
-- Klassifikations-/Versicherungsfolge fehlt
-- ITLOS/UNCLOS nur dekorativ statt relevant
+## Relevante Rechtsprechung
+- LG Hamburg; OLG Hamburg zu Seearrest; Anforderungen an Arrestanspruch und -grund.
+- BGH zur Haftung aus ungerechtfertigtem Arrest nach ZPO § 945.
+- ITLOS Juno Trader No. 13 (Saint Vincent v. Guinea-Bissau 2004): Prompt Release; Verhältnismäßigkeit.
 
-## Ausgabeformat
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+## Praxishinweis
 
-## Qualitätsregel
+Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestaltung sind ergänzend folgende Quellen heranzuziehen: (1) aktuelle BSH-Rundschreiben und Bekanntmachungen (abrufbar unter bsh.de); (2) Verwaltungsvorschriften der zuständigen Wasser- und Schifffahrtsverwaltung; (3) aktuelle Entscheidungen des LG und OLG Hamburg zu seerechtlichen Fragen (openjur.de); (4) ITLOS-Rechtsprechungsdatenbank (itlos.org). Bei internationalem Bezug ist stets zu prüfen, ob der betreffende Staat UNCLOS-, MLC- oder MARPOL-Vertragsstaat ist und ob ISAC 1952 gilt.
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+## Quellen
+- ZPO §§ 916-945: https://dejure.org/gesetze/ZPO/916.html
+- ISAC 1952: https://www.admin.ch/opc/de/classified-compilation/19520172/index.html
+- SchRegO § 67: https://dejure.org/gesetze/SchRegO/67.html
+- HGB §§ 596-601: https://dejure.org/gesetze/HGB/596.html
+- openjur LG Hamburg Arrest: https://www.openjur.de

@@ -1,57 +1,83 @@
 ---
 name: see-007-charterparty-einordnen
-description: "See- und Schifffahrtsrecht: Charterparty einordnen. Charterparty einordnen im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: 'Mandant legt Chartervertrag vor; Einordnung als Voyage Charter; Time Charter oder Bareboat Charter nach HGB §§ 527-569. Prueft Verantwortungsverteilung Reeder/Charterer; Besatzungspflicht; nautische vs. kommerzielle Fuehrung; ISM-Code-Zuordnung; Hire-Regime. NYPE 2015; Baltime 2001. Output: Einordnungsvermerk und Haftungsmatrix.'
 ---
 
-# Charterparty Einordnen
+# Charterparty einordnen – Vertragstyp und Haftungsmatrix
 
-## Arbeitsauftrag
+## Mandantenfall
+Ein Handelskonzern legt einen NYPE-Chartervertrag vor und fragt, ob er als Time Charterer für Kollisionsschäden haftet die der Kapitän verursacht hat. Ein Finanzinvestor plant den Kauf eines Schiffes und möchte es sofort verbareboaten; die Bank fragt nach ISM-Code-Pflichten. Ein Reeder prüft, ob ein Voyage Charter oder Time Charter für eine Einmalfracht vorteilhafter ist.
 
-Charterparty Einordnen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich See- und Schifffahrtsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+## Erste Schritte
+1. Vertragstyp identifizieren: Voyage Charter (HGB §§ 527-535); Time Charter (HGB §§ 557-569) oder Bareboat Charter (HGB § 553 Abs. 2).
+2. Nautische vs. kommerzielle Führung trennen: Reeder trägt nautische Führung auch im Time Charter; Charterer gibt kommerzielle Weisungen.
+3. ISM-Code-Zuordnung: Time Charter = Reeder hat DOC/SMC; Bareboat = Bareboat-Charterer übernimmt ISM-Verantwortung.
+4. Bunkerkosten-Träger: Voyage Charter = Reeder; Time Charter = Time Charterer (HGB §§ 557-559).
+5. Liegegeld/Dispatch nur im Voyage Charter relevant; im Time Charter gilt Hire unabhängig davon.
+6. Haftungsmatrix aufstellen: HGB § 480 – Reeder haftet für Verschulden des Kapitäns.
 
-## Einstieg ohne Leerlauf
+## Rechtsrahmen
+- HGB §§ 527-535: Reisefrachtvertrag (Voyage Charter); Liegegeld; Dispatch; Frachtzahlung.
+- HGB §§ 557-569: Zeitfrachtvertrag (Time Charter); Hire; Off-hire-Ereignisse; Auslieferungszustand.
+- HGB § 553 Abs. 2: Überlassung des Schiffes an Dritte (Bareboat-ähnlich).
+- HGB § 480: Haftung des Reeders für Verschulden des Kapitäns und der Besatzung.
+- ISM-Code Kapitel 1: Definition des Unternehmens; bei Bareboat ist Bareboat-Charterer das Unternehmen.
+- UNCLOS Art. 94: Flaggenstaat bleibt verantwortlich auch bei Bareboat.
+- NYPE 2015 / Baltime 2001: Standardformulare; erhebliche Lücken im deutschen Recht.
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+## Prüfraster
+- Wer trägt die nautische Führung (Kapitän = Weisungsempfänger von wem)?
+- Wer zahlt Bunker; Hafengebühren; Kanalgebühren?
+- Wer hält die ISM-Zertifikate (DOC/SMC)?
+- Enthält der Vertrag eine employment clause (Charterer-Weisungsrecht)?
+- Welches Recht gilt; Schiedsort London/Hamburg vereinbart?
 
-## Norm- und Quellenanker
+## Typische Fallstricke
+- Time-Charterer-Haftung für Kollisionsschäden: Reeder haftet für nautische Fehler; nicht der Time Charterer.
+- Hire-Abzug wegen Off-Hire: technische Defekte oft kein Off-Hire; enge Vertragsdefinition beachten.
+- ISM-Verantwortung bei Sub-Charter ohne neue DOC ist rechtswidrig.
+- Bareboat-Charter ohne Flaggenwechsel: Heimatstaat verliert nicht automatisch die Kontrolle.
 
-- HGB Seehandelsrecht, Schiffregister, Schiffsrechtegesetz, Schiffshypothek
-- Schiffbau, Werftvertrag, Charter, Konnossement, Havarie, Bergung, Wrack
-- Arrest/Pfändung, Flagge, P&I, Klassifikation, Insolvenz
-- UNCLOS/ITLOS Hamburg, internationale Zuständigkeit und Vollstreckung
+## Output
+- Einordnungsvermerk: Vertragstyp; Rechtsrahmen; ISM-Zuordnung
+- Haftungsmatrix: Reeder vs. Charterer nach Schadensart
+- Red-Flag-Liste für kritische Vertragsklauseln
 
-## Prüfroutine
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+## Erweiterte Normengrundlage
 
-## Typische Artefakte
+### Charterrecht
+- HGB §§ 494-569: Frachtvertrag und Vercharterung; Rechte und Pflichten.
+- HGB § 527: Reisezeitverlängerung (Off-Hire); Berechnung; Nachweis.
+- HGB § 559: Konnossement als Frachturkunde; Verhältnis zur Charter.
 
-- Schiffs- und Registerdatenblatt
-- Hypotheken-/Arreststrategie
-- Werft-/Charter-Risikomatrix
-- Internationaler Zuständigkeits- und Vollstreckungsvermerk
+### Typische Charter-Formulare
+- NYPE 1946/1993/2015: New York Produce Exchange Time Charter; Klauseln zu Off-Hire; Liens; BIMCO.
+- GENCON 1994: Voyage Charter; Stalldauer (Laytime); Überliege (Demurrage).
+- BARECON 2017: Bareboat Charter; Registrierung; Flagge; Instandhaltungspflichten.
 
-## Red-Team-Fragen
+## Checkliste Charterparty-Analyse
+- [ ] Charter-Typ identifiziert (Time/Voyage/Bareboat/COA)
+- [ ] Vertragsparteien und Sub-Charter-Kette ermittelt
+- [ ] Laufzeit; Beschäftigungsgebiet; Ausnahmen dokumentiert
+- [ ] Off-Hire-Klausel analysiert: Trigger; Berechnung; Benachrichtigungspflichten
+- [ ] Lien-Klausel des Eigentümers auf Ladung untersucht
+- [ ] Schiedsklausel identifiziert (LMAA London; SMA New York; GMAA Hamburg)
+- [ ] Governing Law bestimmt; kollisionsrechtliche Anknüpfung geprüft
 
-- Flagge/Register/gewöhnlicher Aufenthalt verwechselt
-- Arrest ohne Vollstreckungsfähigkeit
-- Klassifikations-/Versicherungsfolge fehlt
-- ITLOS/UNCLOS nur dekorativ statt relevant
+## Relevante Rechtsprechung
+- BGH zur Anwendung englischen Rechts auf Charter-Parteien bei LMAA-Klausel.
+- OLG Hamburg zur Demurrage-Berechnung bei verzögerter Abfertigung im deutschen Hafen.
+- BGH zur Kündigung der Time-Charter bei Zahlungsverzug des Charterers.
 
-## Ausgabeformat
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+## Praxishinweis
 
-## Qualitätsregel
+Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestaltung sind ergänzend folgende Quellen heranzuziehen: (1) aktuelle BSH-Rundschreiben und Bekanntmachungen (abrufbar unter bsh.de); (2) Verwaltungsvorschriften der zuständigen Wasser- und Schifffahrtsverwaltung; (3) aktuelle Entscheidungen des LG und OLG Hamburg zu seerechtlichen Fragen (openjur.de); (4) ITLOS-Rechtsprechungsdatenbank (itlos.org). Bei internationalem Bezug ist stets zu prüfen, ob der betreffende Staat UNCLOS-, MLC- oder MARPOL-Vertragsstaat ist und ob ISAC 1952 gilt.
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+## Quellen
+- HGB §§ 527-569: https://dejure.org/gesetze/HGB/527.html
+- HGB § 480: https://dejure.org/gesetze/HGB/480.html
+- ISM-Code BSH: https://www.bsh.de/DE/THEMEN/Schifffahrt/ISM_Code/ism_code_node.html
+- NYPE 2015 BIMCO: https://www.bimco.org
+- dejure HGB § 557: https://dejure.org/gesetze/HGB/557.html

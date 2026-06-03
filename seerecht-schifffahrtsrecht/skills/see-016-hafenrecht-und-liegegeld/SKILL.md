@@ -1,57 +1,80 @@
 ---
 name: see-016-hafenrecht-und-liegegeld
-description: "See- und Schifffahrtsrecht: Hafenrecht und Liegegeld. Hafenrecht und Liegegeld im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: 'Reeder oder Charterer streitet ueber Liegegeld; Hafengebühren oder Hafensperrung: HGB §§ 527-545 (Liegegeld Voyage Charter); NOR-Wirksamkeit; Laytime-Berechnung; Demurrage-Dispatch-Abrechnung. Hafenpfandrecht (HGB § 601); Hamburger Hafenordnung; SeeschStrO. Output: Liegegeld-Berechnung und Klagestrategie.'
 ---
 
-# Hafenrecht Und Liegegeld
+# Hafenrecht und Liegegeld – Demurrage-Berechnung und Hafenstreit
 
-## Arbeitsauftrag
+## Mandantenfall
+Ein Exporteur streitet mit dem Reeder ob die Liegezeit begann als das Schiff die Reede erreichte oder erst beim Anlegen am Kai; 14 Wartetage stehen in Frage. Ein Charterer behauptet die NOR sei ungültig gewesen weil das Schiff noch keine Hafenerlaubnis hatte. Ein Reeder wird aus einem deutschen Hafen ausgesperrt weil ein Arrest gegen das Schiff besteht.
 
-Hafenrecht Und Liegegeld wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich See- und Schifffahrtsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+## Erste Schritte
+1. Charterparty analysieren: Laytime-Klauseln; Turn-Time; NOR-Bedingungen; Hafendefinition (berth/port charter); WIBON/WIPON-Klauseln.
+2. NOR-Wirksamkeit prüfen: Schiff muss 'arrived ship' sein (Ankunft im Hafen oder Berth).
+3. Laytime-Berechnung durchführen: Zählung erlaubter Ladetage; Abzüge für Feiertage; Schlechtwetter; Arbeitsunterbrechungen.
+4. Demurrage vs. Despatch berechnen: Demurrage = Strafe für Überschreitung; Despatch = Belohnung für frühere Abfertigung.
+5. Hafenpfandrecht prüfen: HGB § 601 – gesetzliches Schiffsgläubigerrecht für Hafengebühren.
+6. Hafen-Sperrmaßnahmen: Wasser- und Schifffahrtsamt/Hafenbehörde; Gegenmittel (Sicherheitsleistung; LOU).
 
-## Einstieg ohne Leerlauf
+## Rechtsrahmen
+- HGB §§ 527-545: Stückgutfrachtvertrag; Liegegeld-Regelungen für Voyage Charter.
+- HGB § 527: Liegezeit-Beginn mit NOR; Ausnahmen für Wetterbedingungen.
+- HGB §§ 529-532: Liegegeld-Berechnung; Dispatchvergütung; Überliegegeld.
+- HGB § 601: gesetzliches Schiffsgläubigerrecht für Hafengebühren.
+- SeeschStrO §§ 1-5: Verkehrsordnung in deutschen Seewasserstraßen.
+- Hamburger Hafenordnung: kommunale Hafenrechtsordnung; Anlege- und Gebührenregelungen.
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+## Prüfraster
+- War die NOR formgerecht (schriftlich; zur richtigen Zeit; vom berechtigten Unterzeichner)?
+- War das Schiff bei NOR-Übergabe tatsächlich bereit und in der Lage zu laden/löschen?
+- Welche Ereignisse unterbrechen die Laytime (Wetterklauseln; Feiertage; Streik)?
+- Ist die Demurrage-Rate im Charterparty ausdrücklich vereinbart?
+- Besteht ein Hafenpfandrecht das die Abfahrt verhindert?
 
-## Norm- und Quellenanker
+## Typische Fallstricke
+- 'Arrived ship' Diskussion: berth charter erfordert Berth-Ankunft; port charter reicht Hafen-Ankunft.
+- WIBON-Klausel lässt Laytime auch bei Wartezeit auf Berth beginnen; oft übersehen.
+- Demurrage-Klausel als liquidated damages; echten Schaden nicht nachweisen müssen.
+- Hafenbetreiber-Pfandrecht konkurriert mit Schiffshypothek; Rang nach HGB §§ 596-601.
 
-- HGB Seehandelsrecht, Schiffregister, Schiffsrechtegesetz, Schiffshypothek
-- Schiffbau, Werftvertrag, Charter, Konnossement, Havarie, Bergung, Wrack
-- Arrest/Pfändung, Flagge, P&I, Klassifikation, Insolvenz
-- UNCLOS/ITLOS Hamburg, internationale Zuständigkeit und Vollstreckung
+## Output
+- Liegegeld-Berechnung (Laytime-Statement mit Abzügen)
+- NOR-Wirksamkeitsprüfung Checkliste
+- Klagestrategiebaustein Demurrage vs. Gegenforderung
 
-## Prüfroutine
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+## Erweiterte Normengrundlage
 
-## Typische Artefakte
+### Hafenrecht
+- SeeHafG (Landeshafengesetze): Zugang; Nutzungsrechte; Entgelte; Haftung.
+- ISPS-Code: Internationale Sicherheitsanforderungen; Port Facility Security Plan.
+- EU-Hafendiensteverordnung 2017/352: diskriminierungsfreier Zugang zu Hafendiensten.
 
-- Schiffs- und Registerdatenblatt
-- Hypotheken-/Arreststrategie
-- Werft-/Charter-Risikomatrix
-- Internationaler Zuständigkeits- und Vollstreckungsvermerk
+### Liegegeld
+- HGB § 539: Liegegeld (Standgeld) als Entschädigung für Überliegen (Demurrage).
+- HGB §§ 566-569: Ladelöschzeit; Stalldauer; Berechnung; Befreiungsgründe.
+- GENCON 1994 Cl. 7: Standardklausel zu Laytime und Demurrage in Voyage Charters.
 
-## Red-Team-Fragen
+## Checkliste Hafen-/Liegegeldfall
+- [ ] Hafenvertrag und Liegebedingungen analysiert
+- [ ] Stalldauer (Laytime) aus Charter-Parteie oder Frachtvertrag ermittelt
+- [ ] NOR (Notice of Readiness) und Zeitpunkt des Liegegeld-Begins festgestellt
+- [ ] Demurrage-Betrag berechnet; Zahlungsverantwortlichkeit geprüft
+- [ ] Hafengebühren-Forderungen als gesetzliche Vorrechte (HGB § 596 Nr. 2) eingestuft
 
-- Flagge/Register/gewöhnlicher Aufenthalt verwechselt
-- Arrest ohne Vollstreckungsfähigkeit
-- Klassifikations-/Versicherungsfolge fehlt
-- ITLOS/UNCLOS nur dekorativ statt relevant
+## Relevante Rechtsprechung
+- OLG Hamburg zur Berechnung von Demurrage bei GENCON-Charterparties.
+- BGH zur Haftung des Charterers für Hafengebühren; Weitergabeklauseln in Time-Charterns.
+- VG Hamburg zur Anfechtung von Hafenentgelten; Hafenordnung als Verwaltungsakt.
 
-## Ausgabeformat
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+## Praxishinweis
 
-## Qualitätsregel
+Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestaltung sind ergänzend folgende Quellen heranzuziehen: (1) aktuelle BSH-Rundschreiben und Bekanntmachungen (abrufbar unter bsh.de); (2) Verwaltungsvorschriften der zuständigen Wasser- und Schifffahrtsverwaltung; (3) aktuelle Entscheidungen des LG und OLG Hamburg zu seerechtlichen Fragen (openjur.de); (4) ITLOS-Rechtsprechungsdatenbank (itlos.org). Bei internationalem Bezug ist stets zu prüfen, ob der betreffende Staat UNCLOS-, MLC- oder MARPOL-Vertragsstaat ist und ob ISAC 1952 gilt.
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+## Quellen
+- HGB §§ 527-545: https://dejure.org/gesetze/HGB/527.html
+- HGB § 601: https://dejure.org/gesetze/HGB/601.html
+- SeeschStrO: https://www.gesetze-im-internet.de/seeschstro_1971/
+- BGH Demurrage: https://www.bgh.de
+- openjur Liegegeld: https://www.openjur.de

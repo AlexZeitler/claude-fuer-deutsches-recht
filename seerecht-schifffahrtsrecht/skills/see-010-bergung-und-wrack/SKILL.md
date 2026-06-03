@@ -1,57 +1,81 @@
 ---
 name: see-010-bergung-und-wrack
-description: "See- und Schifffahrtsrecht: Bergung und Wrack. Bergung und Wrack im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: 'Schiff strandet oder sinkt; Berger verlangen Bergungslohn; Wrackbeseitigung wird angeordnet. HGB §§ 574-583 (Bergung); WSG §§ 1-12 (Wrackbeseitigungsgesetz); WRC 2007 Nairobi-Uebereinkommen; LOF 2020; SCOPIC-Klausel. Output: Bergungslohn-Kalkulation; WRC-Pflichtenanalyse und Kostenrisiko-Matrix.'
 ---
 
-# Bergung Und Wrack
+# Bergung und Wrack – Bergungslohn und Beseitigungspflicht
 
-## Arbeitsauftrag
+## Mandantenfall
+Ein Bergungsschlepper rettet einen havarierten Frachter in der Nordsee; der Reeder verhandelt über den Bergungslohn; der Berger droht mit Lloyd's Schiedsverfahren. Ein Schiff sinkt in der deutschen AWZ; das WSA ordnet Wrackbeseitigung an; der Eigentümer fragt nach Kostentragung. Ein P&I-Club prüft ob SCOPIC höher ist als der konventionelle Bergungslohn.
 
-Bergung Und Wrack wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich See- und Schifffahrtsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+## Erste Schritte
+1. Bergevertrag prüfen: LOF 2020 (Lloyd's Open Form) oder freier Bergevertrag; LOF enthält SCOPIC-Klausel.
+2. Bergungslohn-Voraussetzungen: HGB § 574 – Bergungserfolg als Grundvoraussetzung.
+3. Bergungslohn nach HGB §§ 577-580 berechnen: Schiffswert; Bergungsrisiko; Umweltschutz-Erfolg; Zeitaufwand.
+4. WSG-Anwendbarkeit prüfen: Wrack in deutschen Gewässern; WRC 2007 ab Schiff über 300 BRZ.
+5. Meldepflichten: unverzügliche Anzeige beim WSA (WRC Art. 5); Versicherungsnachweis (WRC Art. 12).
+6. Schutzmaßnahmen sichern: Bunkeröl und gefährliche Stoffe sofort sichern; MARPOL-Pflichten parallel.
 
-## Einstieg ohne Leerlauf
+## Rechtsrahmen
+- HGB §§ 574-583: Bergung auf See; Bergungslohn-Berechnung; Sondervergütung; Ausschlüsse.
+- HGB § 577: Kriterien für Bergungslohn (Schiffswert; Gefahr; Umweltschutz-Erfolg; Zeitaufwand).
+- WSG §§ 1-12: Wrackbeseitigungsgesetz; Pflichten des Eigentümers; Behörde auf Kosten des Eigentümers.
+- WRC 2007 Nairobi-Übereinkommen: internationales Wrackbeseitigungsübereinkommen.
+- LOF 2020: Lloyd's Open Form Bergungsvertrag; Schiedsort London/Lloyd's.
+- SCOPIC 2020: Special Compensation P&I Clubs; Alternativvergütung zum HGB-Bergungslohn.
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+## Prüfraster
+- Ist ein Bergevertrag (LOF oder freier Vertrag) geschlossen?
+- Wurde die Bergung erfolgreich abgeschlossen (Erfolgserfordernis HGB § 574)?
+- Übersteigen die Bergungskosten den Schiffswert; dann nur SCOPIC?
+- Greift WRC 2007 (Schiff über 14 Meter; in Gewässern eines Vertragsstaats)?
+- Ist P&I-Deckung für Wrackbeseitigungskosten bestätigt?
 
-## Norm- und Quellenanker
+## Typische Fallstricke
+- LOF-Schiedsklausel verpflichtet zu London Arbitration; deutsches Gericht ist nicht zuständig.
+- SCOPIC-Aktivierung durch P&I-Club kann Bergungslohnanspruch nach HGB verdrängen.
+- WRC gilt auch für Freizeitjachten ab 14 Meter Länge.
+- Versicherungspflicht für Wrackbeseitigungskosten (WRC Art. 12) greift ab 300 BRZ.
 
-- HGB Seehandelsrecht, Schiffregister, Schiffsrechtegesetz, Schiffshypothek
-- Schiffbau, Werftvertrag, Charter, Konnossement, Havarie, Bergung, Wrack
-- Arrest/Pfändung, Flagge, P&I, Klassifikation, Insolvenz
-- UNCLOS/ITLOS Hamburg, internationale Zuständigkeit und Vollstreckung
+## Output
+- Bergungslohn-Kalkulation nach HGB § 577 (Faktorenmatrix)
+- WRC-Pflichtenanalyse: Fristen; Meldewege; Versicherungsnachweis
+- Kostenrisiko-Matrix: Bergung; Wrack; Umwelt
 
-## Prüfroutine
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+## Erweiterte Normengrundlage
 
-## Typische Artefakte
+### Bergungsrecht
+- HGB §§ 574-587: Bergung; Bergungslohn; Berechnungskriterien; Verteilungsregeln.
+- LOF 2011 (Lloyd's Open Form): Standard-Bergungsvertrag; SCOPIC-Klausel.
+- HGB § 576: Berücksichtigung des Umweltschutzes bei der Berechnungsmethode.
 
-- Schiffs- und Registerdatenblatt
-- Hypotheken-/Arreststrategie
-- Werft-/Charter-Risikomatrix
-- Internationaler Zuständigkeits- und Vollstreckungsvermerk
+### Wrackbeseitigung
+- WSG §§ 1-12: Wrackbeseitigungsgesetz; Pflichten des Eigentümers.
+- WRC 2007 Nairobi: internationales Wrackbeseitigungsübereinkommen; AWZ-Anwendung.
+- MARPOL Annex I Reg. 26: Bunkerölsicherheit; Gefahrenabwehr.
 
-## Red-Team-Fragen
+## Checkliste Bergungsfall
+- [ ] Gefahr für Schiff und Ladung objektiv bewertet
+- [ ] Freiwilligkeit der Bergungsleistung (kein Pre-existing Duty) bestätigt
+- [ ] LOF oder anderen Bergungsvertrag unterzeichnet oder mündlich vereinbart
+- [ ] Schiffslagen; Schiffstyp; Ladungsart für SCOPIC-Berechnung dokumentiert
+- [ ] Umweltgefährdung (Bunkeröl; gefährliche Ladung) für special award bewertet
+- [ ] P&I-Club zur Kostenteilung zwischen Schiff und Ladung eingebunden
 
-- Flagge/Register/gewöhnlicher Aufenthalt verwechselt
-- Arrest ohne Vollstreckungsfähigkeit
-- Klassifikations-/Versicherungsfolge fehlt
-- ITLOS/UNCLOS nur dekorativ statt relevant
+## Relevante Rechtsprechung
+- BGH zum Bergungslohn nach HGB § 578; Berücksichtigung des Erfolgs.
+- OLG Hamburg zu SCOPIC-Klauseln; Schutz für Bergungsunternehmen bei erfolgloser Bergung.
+- BGH zur Pfandhaftung des Bergungsunternehmers an Schiff und Ladung für den Bergungslohn.
 
-## Ausgabeformat
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+## Praxishinweis
 
-## Qualitätsregel
+Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestaltung sind ergänzend folgende Quellen heranzuziehen: (1) aktuelle BSH-Rundschreiben und Bekanntmachungen (abrufbar unter bsh.de); (2) Verwaltungsvorschriften der zuständigen Wasser- und Schifffahrtsverwaltung; (3) aktuelle Entscheidungen des LG und OLG Hamburg zu seerechtlichen Fragen (openjur.de); (4) ITLOS-Rechtsprechungsdatenbank (itlos.org). Bei internationalem Bezug ist stets zu prüfen, ob der betreffende Staat UNCLOS-, MLC- oder MARPOL-Vertragsstaat ist und ob ISAC 1952 gilt.
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+## Quellen
+- HGB §§ 574-583: https://dejure.org/gesetze/HGB/574.html
+- WSG: https://www.gesetze-im-internet.de/wsg/
+- WRC 2007 IMO: https://www.imo.org/en/About/Conventions/Pages/Nairobi-International-Convention-on-the-Removal-of-Wrecks.aspx
+- BSH: https://www.bsh.de
+- LOF 2020: https://www.lloyds.com

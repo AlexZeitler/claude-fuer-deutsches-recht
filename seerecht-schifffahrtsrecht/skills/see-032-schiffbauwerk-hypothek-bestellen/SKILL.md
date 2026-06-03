@@ -1,57 +1,80 @@
 ---
 name: see-032-schiffbauwerk-hypothek-bestellen
-description: "See- und Schifffahrtsrecht: Schiffbauwerk: Hypothek bestellen. Hypothek bestellen für Schiffbauwerk im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: 'Schiffbauwerk: Werft; Auftraggeber-Reeder; finanzierende Bank bestellt Schiffshypothek als Sicherheit fuer Finanzierung eines Schiff im Bau (Schiffbauwerk). SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste.'
 ---
 
-# Schiffbauwerk Hypothek Bestellen
+# Schiffbauwerk – Schiffshypothek bestellen
 
-## Arbeitsauftrag
+## Mandantenfall
+Eine Bank bestellt eine Hypothek auf ein Schiff im Bau (Schiffbauwerk) als Sicherheit fuer einen Schiffskredit. Ein Reeder sucht Zwischenfinanzierung und bietet sein Schiff im Bau (Schiffbauwerk) als Sicherheit an. Eine Bestandshypothek soll auf eine neue Kredittranche erstreckt werden.
 
-Schiffbauwerk Hypothek Bestellen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich See- und Schifffahrtsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+## Erste Schritte
+1. Eintragungsfaehigkeit des Schiff im Bau (Schiffbauwerk)s pruefen; Eintragung im Schiffbauwerksregister bestaetigen.
+2. Sicherungsabrede aufsetzen: gesicherte Forderungen, Kuendigungsrechte, Cross-Default.
+3. Notarielle Hypothekenbestellungsurkunde nach SchRG §§ 8-18 erstellen.
+4. Vertretungsbefugnis des Eigentuemers pruefen; ggf. Handelsregisterauszug.
+5. Eintragungsantrag beim {reg_type}-Gericht stellen; Rangstelle fruehzeitig reservieren.
+6. Eintragungsbestaetigung und ggf. Hypothekenbrief sichern; Sicherungsvertrag archivieren.
 
-## Einstieg ohne Leerlauf
+## Rechtsrahmen
+- SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag; SchRG § 31 Zubehoer-Mithaftung; SchRG § 75 Hoechstbetragshypothek; SchRegO §§ 13-19. Baufortschritt; Refund Guarantee; Bauabnahme.
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+## Prüfraster
+- Ist das Schiff im Bau (Schiffbauwerk) im Schiffbauwerksregister eingetragen und eintragungsfaehig?
+- Ist die Sicherungsabrede vollstaendig und rechtswirksam?
+- Ist Zubehoer-Mithaftung (SchRG § 31) vertraglich gesichert?
+- Ist die notarielle Form eingehalten (SchRG § 17)?
+- Ist der Rangstellen-Antrag fruehzeitig gestellt?
 
-## Norm- und Quellenanker
+## Typische Fallstricke
+- Fehlende notarielle Form fuehrt zur Nichtigkeit der Hypothek (SchRG § 17).
+- Rang entsteht mit Antragstellung; fruehzeitig beim Schiffbauwerksregister-Gericht stellen.
+- Briefhypothek verliert Vollstreckungswert bei Verlust des Hypothekenbriefs.
 
-- HGB Seehandelsrecht, Schiffregister, Schiffsrechtegesetz, Schiffshypothek
-- Schiffbau, Werftvertrag, Charter, Konnossement, Havarie, Bergung, Wrack
-- Arrest/Pfändung, Flagge, P&I, Klassifikation, Insolvenz
-- UNCLOS/ITLOS Hamburg, internationale Zuständigkeit und Vollstreckung
+## Output
+Checkliste Hypothekenbestellung und Unterlagen-Übersicht für Schiff im Bau (Schiffbauwerk).
 
-## Prüfroutine
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+## Vertiefung: Hypothekenarten im deutschen Schiffsrecht
+Das SchRG kennt die Verkehrshypothek (§§ 8-30) und die Höchstbetragshypothek (§ 75). Die Verkehrshypothek ist an eine bestimmte Forderung gebunden; die Höchstbetragshypothek sichert variable Forderungen bis zu einem eingetragenen Maximalbetrag und eignet sich für revolvierende Kreditlinien. In der Praxis der Schiffsfinanzierung dominiert die Hypothekenbestellung als erstrangige Höchstbetragshypothek zugunsten der Konsortialführerbank.
 
-## Typische Artefakte
+## Verfahrensablauf Hypothekenbestellung
+1. **Vor der Bestellung**: Eintragungsfähigkeit prüfen; Rangstelle reservieren (SchRegO § 13); Sicherungsabrede verhandeln.
+2. **Bestellung**: Notarielle Bestellungsurkunde; Unterschriften des Eigentümers; Vollmachten (ggf. notariell beglaubigt).
+3. **Eintragung**: Antrag beim Registergericht; Vorlage der Bestellungsurkunde; Eintragungsgebühr.
+4. **Nach der Eintragung**: Registerauszug beschaffen; Sicherungsvertrag und Registerauszug archivieren; Mortgagee's Interest Insurance prüfen.
 
-- Schiffs- und Registerdatenblatt
-- Hypotheken-/Arreststrategie
-- Werft-/Charter-Risikomatrix
-- Internationaler Zuständigkeits- und Vollstreckungsvermerk
+## Praktische Hinweise
+In Konsortialkrediten hält eine Sicherheitentreuhänderin (Security Trustee) die Hypothek für alle Konsortialmitglieder. Die Hypothek kann jederzeit abgetreten werden (SchRG §§ 35-58); für die Abtretung ist Briefübergabe oder Eintragung erforderlich je nach Hypothekenart.
 
-## Red-Team-Fragen
 
-- Flagge/Register/gewöhnlicher Aufenthalt verwechselt
-- Arrest ohne Vollstreckungsfähigkeit
-- Klassifikations-/Versicherungsfolge fehlt
-- ITLOS/UNCLOS nur dekorativ statt relevant
+## Checkliste Hypothekenbestellung
+- [ ] Eintragungsfähigkeit des Schiffes bestätigt (SchRG § 1)
+- [ ] Eigentümer mit Vollmacht zur Hypothekenbestellung legitimiert
+- [ ] Sicherungsabrede (Security Agreement / Credit Agreement) unterzeichnet
+- [ ] Notarielle Hypothekenbestellungsurkunde erstellt und unterzeichnet
+- [ ] Eintragungsantrag beim Registergericht gestellt; Rangstelle reserviert
+- [ ] Mithaftung des Zubehörs (SchRG § 31) vertraglich vereinbart
+- [ ] Eintragungsbestätigung und ggf. Hypothekenbrief gesichert
+- [ ] Mortgagee's Interest Insurance (MII) beantragt
 
-## Ausgabeformat
+## Relevante Rechtsprechung
+- BGH zur Wirksamkeit der notariellen Hypothekenbestellungsurkunde; Formerfordernisse SchRG § 17.
+- BGH zur Mithaftung des Zubehörs nach SchRG § 31; Abgrenzung Schiffszubehör von persönlichem Eigentum des Kapitäns.
+- OLG Hamburg zur Rangfolge bei gleichzeitig beantragten Hypotheken; Zeitpunkt der Antragstellung maßgeblich.
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+## Normen im Überblick
+- SchRG § 8: Begründung der Schiffshypothek durch Einigung und Eintragung.
+- SchRG §§ 9-14: Inhalt der Eintragungsurkunde; Form; Unterschriften.
+- SchRG §§ 15-18: Eintragungsvoraussetzungen; notarielle Form.
+- SchRG §§ 35-58: Übertragung der Hypothek; Abtretung; Pfändung.
+- SchRG § 59: Rangfolge; ältere Hypothek geht jüngerer vor.
+- SchRG § 75: Höchstbetragshypothek für revolvierende Kredite.
+- InsO § 49: Absonderungsrecht des Hypothekengläubigers in der Insolvenz des Reeders.
 
-## Qualitätsregel
+## Quellen
+- SchRG §§ 8-18: https://www.gesetze-im-internet.de/schrg/BJNR014990940.html
+- SchRegO §§ 13-19: https://dejure.org/gesetze/SchRegO
+- BSH: https://www.bsh.de/DE/THEMEN/Schifffahrt/Schiffsregister/schiffsregister_node.html
+- dejure SchRG § 75: https://dejure.org/gesetze/SchRG/75.html
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.

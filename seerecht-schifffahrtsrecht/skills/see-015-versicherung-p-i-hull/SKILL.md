@@ -1,57 +1,81 @@
 ---
 name: see-015-versicherung-p-i-hull
-description: "See- und Schifffahrtsrecht: Versicherung P&I Hull. Versicherung P&I Hull im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: 'Mandant prueft Schiffsversicherungsschutz P&I (Protection & Indemnity) und H&M (Hull & Machinery): Deckungsabgrenzung; Club-Rules; Kollisions-Haftungsteilung (3/4 H&M vs. 1/4 P&I); Mortgagee Interest Insurance (MII); Both-to-Blame-Klausel. VVG §§ 28-30; DTV-Klauseln Kasko; IGP&I Group Agreement. Output: Deckungsanalyse und Schadensabwicklungs-Leitfaden.'
 ---
 
-# Versicherung P I Hull
+# Versicherung P&I und Hull & Machinery – Deckungsanalyse
 
-## Arbeitsauftrag
+## Mandantenfall
+Ein Reeder erleidet einen Maschinenschaden während einer Charter; H&M-Versicherer und P&I-Club streiten wer den Schaden deckt. Nach einer Kollision zweier Schiffe stellen beide P&I-Clubs Kreuzforderungen; die Both-to-Blame-Klausel im Konnossement führt zu Rückgriffsansprüchen. Ein Charterer fragt ob er als Time Charterer über den P&I-Club des Reeders mitversichert ist.
 
-Versicherung P I Hull wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich See- und Schifffahrtsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+## Erste Schritte
+1. Versicherungsstruktur klären: H&M-Police (Kasko; Schiffskörper) vs. P&I-Deckung (Haftpflicht; Drittschäden; Crew; Umwelt; Fracht).
+2. H&M-Bedingungen analysieren: DTV-Klauseln Kasko; Institute Time Clauses Hulls (ITC-H) oder Norwegian Marine Insurance Plan.
+3. P&I-Club-Rules lesen: Class 1 (P&I) vs. Class 2 (FD&D); Eigenbehalte; Co-insurance.
+4. Deckungslücken identifizieren: war risks; nuclear risks; Liabilities exceeding Club limit.
+5. Schadensmeldung prüfen: P&I-Clubs verlangen unverzügliche Meldung; Versäumnis = Deckungsverlust.
+6. Kollisions-Deckung abgrenzen: H&M deckt 3/4 Kollisionshaftung; P&I deckt 1/4 plus Personenschäden.
 
-## Einstieg ohne Leerlauf
+## Rechtsrahmen
+- VVG §§ 28-30: Verletzung von Obliegenheiten; Meldefristen; Leistungsfreiheit.
+- VVG §§ 78-80: Mehrfachversicherung; Doppeldeckung zwischen H&M und P&I.
+- VVG §§ 130-136: Haftpflichtversicherung; Direktklagerecht Dritter.
+- DTV-Klauseln Kasko 2009: Standard für deutsche H&M-Versicherungen.
+- IGP&I Group Agreement: Deckungslimits der 13 IG-Clubs; Excess-Deckung am freien Markt.
+- STOPIA/TOPIA 2006: Zusatz-Deckungsvereinbarungen für Ölverschmutzungsschäden.
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+## Prüfraster
+- Ist das Schiff für aktuellen Fahrtbereich und Ladungstyp gedeckt?
+- Greift die H&M-Police auch bei Maschinenbruch ohne externe Ursache?
+- Deckt der P&I-Club Umweltschäden (MARPOL-Haftung) vollständig ab?
+- Ist die Schadensmeldung fristgerecht beim Club-Correspondent erfolgt?
+- Liegt Mortgagee's Interest Insurance (MII) für die finanzierende Bank vor?
 
-## Norm- und Quellenanker
+## Typische Fallstricke
+- H&M deckt nur 3/4 der Kollisionshaftung; 1/4 bleibt beim Reeder oder P&I.
+- P&I-Club verweigert Deckung bei schuldhafter Verzögerung der Schadensmeldung.
+- Charterer glaubt durch Reeder-P&I mitgedeckt zu sein; Eigenexposure für Ladungsschäden bleibt.
+- Both-to-Blame-Collision-Klausel ermöglicht Rückgriff auf Befrachter; Haftungskreislauf.
 
-- HGB Seehandelsrecht, Schiffregister, Schiffsrechtegesetz, Schiffshypothek
-- Schiffbau, Werftvertrag, Charter, Konnossement, Havarie, Bergung, Wrack
-- Arrest/Pfändung, Flagge, P&I, Klassifikation, Insolvenz
-- UNCLOS/ITLOS Hamburg, internationale Zuständigkeit und Vollstreckung
+## Output
+- Deckungsanalyse-Matrix: H&M vs. P&I je Schadensereignis
+- Schadensabwicklungs-Leitfaden (Meldung; Beweissicherung; Club-Kooperation)
+- Empfehlung für Deckungslücken-Schluss (War Risk; Charterer's Liability)
 
-## Prüfroutine
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+## Erweiterte Normengrundlage
 
-## Typische Artefakte
+### P&I-Versicherung
+- VVG §§ 100-112: Haftpflichtversicherung; Grundregeln; Direktklagerecht.
+- P&I-Club-Rules (z.B. UK Club; Gard; North): Rule-basierte Deckung; gegenseitiger Versicherungsverein.
+- LLMC 1976/1996 Protocol: Summenhaftungslimits; Verbindung zur P&I-Deckung.
 
-- Schiffs- und Registerdatenblatt
-- Hypotheken-/Arreststrategie
-- Werft-/Charter-Risikomatrix
-- Internationaler Zuständigkeits- und Vollstreckungsvermerk
+### H&M-Versicherung
+- VVG §§ 130-136: Schadensversicherung; Kaskoschaden; Totalverlust.
+- DTV-Klauseln Kasko 2009: Versicherte Gefahren; Selbstbehalte; Fristen.
+- Norwegian Marine Insurance Plan (NMIP) 2019: international anerkannte Bedingungen.
 
-## Red-Team-Fragen
+## Checkliste Versicherungsdeckung
+- [ ] P&I-Club-Mitgliedschaft bestätigt; aktuelles Certificate of Entry vorliegend
+- [ ] H&M-Police analysiert; versicherte Gefahren; Ausschlüsse; Selbstbehalte
+- [ ] MII (Mortgagee's Interest Insurance) für Kreditgeber vorliegend
+- [ ] Deckungsüberschneidungen (P&I/H&M) analysiert
+- [ ] Schadensmeldefristen gemäß Club-Rules notiert
+- [ ] Wartung des Klasse-Zertifikats als Deckungsvoraussetzung geprüft
 
-- Flagge/Register/gewöhnlicher Aufenthalt verwechselt
-- Arrest ohne Vollstreckungsfähigkeit
-- Klassifikations-/Versicherungsfolge fehlt
-- ITLOS/UNCLOS nur dekorativ statt relevant
+## Relevante Rechtsprechung
+- BGH zur Obliegenheitsverletzung (VVG § 28) bei Schiffsversicherung; Kausalitätsgegenbeweis.
+- OLG Hamburg zu P&I-Deckungsversagung bei Klassenaussetzung; Kausalitätserfordernis.
+- BGH zu Mortgagee's Interest Insurance; Schutzbereich; Verhältnis zur H&M-Police.
 
-## Ausgabeformat
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+## Praxishinweis
 
-## Qualitätsregel
+Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestaltung sind ergänzend folgende Quellen heranzuziehen: (1) aktuelle BSH-Rundschreiben und Bekanntmachungen (abrufbar unter bsh.de); (2) Verwaltungsvorschriften der zuständigen Wasser- und Schifffahrtsverwaltung; (3) aktuelle Entscheidungen des LG und OLG Hamburg zu seerechtlichen Fragen (openjur.de); (4) ITLOS-Rechtsprechungsdatenbank (itlos.org). Bei internationalem Bezug ist stets zu prüfen, ob der betreffende Staat UNCLOS-, MLC- oder MARPOL-Vertragsstaat ist und ob ISAC 1952 gilt.
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+## Quellen
+- VVG §§ 28-30: https://www.gesetze-im-internet.de/vvg/__28.html
+- DTV-Klauseln: https://www.deutscher-transport-versicherungsverband.de
+- IGP&I Group: https://www.igpandi.org
+- STOPIA/TOPIA: https://www.iopc-funds.org
+- openjur Versicherungsstreit: https://www.openjur.de

@@ -1,57 +1,83 @@
 ---
 name: see-009-havarie-und-kollision
-description: "See- und Schifffahrtsrecht: Havarie und Kollision. Havarie und Kollision im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: 'Zwei Schiffe kollidieren; Havarie-Grosse oder Besondere Havarie klaeren. HGB §§ 571-594 (Grosse Havarie; Dispache); Kollisionsuebereinkommen KSUe 1910; SeeUG § 3 (BSU-Untersuchung); York-Antwerp Rules 2016; P&I vs. H&M Kollisionshaftung. Output: Havarien-Erstbericht; Dispache-Auftrag und Klagestrategie.'
 ---
 
-# Havarie Und Kollision
+# Havarie und Kollision – Erstbericht und Haftungsklärung
 
-## Arbeitsauftrag
+## Mandantenfall
+Ein Containerschiff rammt im Hamburger Hafen einen Tanker; beide Schiffe haben Schäden; der Kapitän steht im Verdacht der Trunkenheit. Ein Reeder fordert nach Sturm-Notfall auf See eine Große-Havarie-Verteilung: Ladung wurde über Bord geworfen um das Schiff zu retten. Ein Schiff erleidet bei Nebel eine Kollision mit einem unbekannten Fahrzeug.
 
-Havarie Und Kollision wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich See- und Schifffahrtsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+## Erste Schritte
+1. Schadens- und Hergangsermittlung: VHF-Aufzeichnungen; AIS-Daten; Brückenbuch; Maschinenlogbuch beschaffen und sichern.
+2. Kollisionstyp bestimmen: Seeschiff/Seeschiff (KSÜ 1910); Seeschiff/Binnenschiff (BinSchG § 92); Seeschiff/Hafenanlagen.
+3. Große Havarie vs. Besondere Havarie prüfen: HGB §§ 571-574 – Große Havarie = gemeinschaftliche Opfer zur Rettung des Abenteuers.
+4. Dispache-Auftrag vorbereiten: York-Antwerp Rules (YAR 2016) oder abweichende vertragliche Vereinbarung.
+5. P&I-Club und H&M-Versicherer sofort informieren; Letters of Undertaking zur Arrestvermeidung sichern.
+6. Straf- und ordnungswidrigkeitenrechtliche Aspekte sichern: Wasser- und Schifffahrtsamt; BG Verkehr; Staatsanwaltschaft.
 
-## Einstieg ohne Leerlauf
+## Rechtsrahmen
+- HGB §§ 571-574: Große Havarie; Begriff; Beitragspflicht; Verteilung.
+- HGB §§ 575-594: Dispache; Haverei-Verfahren; Beitragsberechnung.
+- KSÜ 1910 (Kollisionsübereinkommen): internationale Haftungsverteilung; Verschuldensquoten.
+- SeeUG §§ 1-6: Seeunfalluntersuchung durch Bundesstelle für Seeunfalluntersuchung (BSU).
+- York-Antwerp Rules 2016: Vertragsstandard für Große-Havarie-Verteilung.
+- UNCLOS Art. 97: kein Strafrecht durch Drittstaaten bei Hochseekollisionen.
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+## Prüfraster
+- Liegt ein gemeinschaftliches Opfer vor das Große Havarie begründet?
+- Welches Verschulden trifft welchen Reeder; KSÜ-Verschuldensquoten?
+- Sind alle Ladungsinteressenten für Beitragspflicht identifiziert?
+- Ist der P&I-Club bereit ein Letter of Undertaking statt Arrest zu stellen?
+- Hat die BSU Untersuchungen eingeleitet?
 
-## Norm- und Quellenanker
+## Typische Fallstricke
+- Unterschied Große Havarie vs. Besondere Havarie: nicht jeder Schaden rechtfertigt YAR-Verteilung.
+- UNCLOS Art. 97 schützt Kapitän vor ausländischer Strafverfolgung bei Hochseekollision; gilt nicht in Küstengewässern.
+- BSU-Ergebnisse haben keine Bindungswirkung in Zivilprozessen; werden aber als Beweismittel verwendet.
+- P&I-Club trägt Kollisionshaftung gegen andere Schiffe nur bis zu 3/4; 1/4 liegt bei H&M.
 
-- HGB Seehandelsrecht, Schiffregister, Schiffsrechtegesetz, Schiffshypothek
-- Schiffbau, Werftvertrag, Charter, Konnossement, Havarie, Bergung, Wrack
-- Arrest/Pfändung, Flagge, P&I, Klassifikation, Insolvenz
-- UNCLOS/ITLOS Hamburg, internationale Zuständigkeit und Vollstreckung
+## Output
+- Havarie-Erstbericht (Hergang; Schäden; Beteiligte; Zeugen)
+- Dispache-Auftrag-Muster für Große Havarie
+- Klagestrategie-Vermerk
+- Checkliste Sofortmaßnahmen Unfallort und Versicherung
 
-## Prüfroutine
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+## Erweiterte Normengrundlage
 
-## Typische Artefakte
+### Kollisionsrecht
+- HGB §§ 570-586: Schiffszusammenstoß; Schuldhaftung; Mittäterschaft; Sacheigentümerhaftung.
+- HGB § 572: Kollisionshaftung; Verschuldensprinzip; Mitverschulden.
+- COLREG 1972: Kollisionsverhütungsregeln; Ausweichpflichten; Anwendung als Sorgfaltsmaßstab.
 
-- Schiffs- und Registerdatenblatt
-- Hypotheken-/Arreststrategie
-- Werft-/Charter-Risikomatrix
-- Internationaler Zuständigkeits- und Vollstreckungsvermerk
+### Große Havarie
+- HGB §§ 588-597: Große Havarie; York-Antwerp-Rules (YAR) als lex specialis.
+- YAR 2016: Dispacheurverfahren; Beitragsberechnung; Ladungsgläubigerrecht.
+- HGB § 591: Dispache; Verbindlichkeit nach Rechtskraft.
 
-## Red-Team-Fragen
+## Checkliste Havarie-/Kollisionsfall
+- [ ] Unfallhergang zeitlich dokumentiert; Zeugen benennt
+- [ ] Logbuch und AIS-Daten gesichert
+- [ ] Sea Protest (Seeprotest) vor Notar erklärt
+- [ ] P&I-Korrespondent und Klasseninspektor am Schadensort informiert
+- [ ] Schuldfrage vorläufig bewertet; COLREG-Verstoß analysiert
+- [ ] Average Bond und Average Guarantee (Große Havarie) eingeholt
+- [ ] Dispacheur benannt; Average Adjustment eingeleitet
 
-- Flagge/Register/gewöhnlicher Aufenthalt verwechselt
-- Arrest ohne Vollstreckungsfähigkeit
-- Klassifikations-/Versicherungsfolge fehlt
-- ITLOS/UNCLOS nur dekorativ statt relevant
+## Relevante Rechtsprechung
+- BGH zur Abgrenzung von kleiner und großer Havarie; Opfertheorie nach YAR.
+- OLG Hamburg zur Kollisionshaftung; COLREG-Verletzung als Indiz für Verschulden.
+- BGH zu Average-Guarantee-Klauseln; Bindungswirkung des Dispache-Beschlusses.
 
-## Ausgabeformat
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+## Praxishinweis
 
-## Qualitätsregel
+Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestaltung sind ergänzend folgende Quellen heranzuziehen: (1) aktuelle BSH-Rundschreiben und Bekanntmachungen (abrufbar unter bsh.de); (2) Verwaltungsvorschriften der zuständigen Wasser- und Schifffahrtsverwaltung; (3) aktuelle Entscheidungen des LG und OLG Hamburg zu seerechtlichen Fragen (openjur.de); (4) ITLOS-Rechtsprechungsdatenbank (itlos.org). Bei internationalem Bezug ist stets zu prüfen, ob der betreffende Staat UNCLOS-, MLC- oder MARPOL-Vertragsstaat ist und ob ISAC 1952 gilt.
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+## Quellen
+- HGB §§ 571-594: https://dejure.org/gesetze/HGB/571.html
+- KSÜ 1910: https://www.gesetze-im-internet.de/intv_ks_1910/
+- BSU Seeunfalluntersuchung: https://www.bsu-bund.de
+- SeeUG: https://www.gesetze-im-internet.de/seeug/
+- YAR 2016 BIMCO: https://www.bimco.org

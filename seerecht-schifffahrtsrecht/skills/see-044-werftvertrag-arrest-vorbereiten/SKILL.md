@@ -1,57 +1,96 @@
 ---
 name: see-044-werftvertrag-arrest-vorbereiten
-description: "See- und Schifffahrtsrecht: Werftvertrag: Arrest vorbereiten. Arrest vorbereiten für Werftvertrag im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: 'Werftvertrag: Glaeubiger sichert Anspruch an Neubauprojekt unter Werftvertrag durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein und Vollziehungs-Zeitplan.'
 ---
 
-# Werftvertrag Arrest Vorbereiten
+# Werftvertrag – Arrest vorbereiten
 
-## Arbeitsauftrag
+## Mandantenfall
+Ein Hypothekengläubiger will ein Neubauprojekt unter Werftvertrag arrestieren; Kredit ist ausgefallen. Ein Konnossementsinhaber hat Schadensansprüche und arretiert das Neubauprojekt unter Werftvertrag im Hafen. Ein Bergungsunternehmen sichert seinen Bergungslohnanspruch durch Arrest.
 
-Werftvertrag Arrest Vorbereiten wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich See- und Schifffahrtsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+## Erste Schritte
+1. Seeforderung nach ISAC 1952 Art. 1 gegenueber Eigentuemer des Neubauprojekt unter Werftvertrag konkretisieren.
+2. Arrestgrund glaublhaft machen: {vessel} wird Hafen verlassen; Reeder insolvent.
+3. LG am Liegeplatz (ZPO § 919) als zustaendiges Gericht bestimmen.
+4. Arrestbeschluss beantragen; ohne Anhoerung des Gegners moeglich.
+5. Vollziehung: Eintragung im Register (SchRegO § 67) binnen einem Monat.
+6. Freigabestrategie: LOU des P&I-Clubs oder Barzahlung als Alternative vorbereiten.
 
-## Einstieg ohne Leerlauf
+## Rechtsrahmen
+- ZPO §§ 916-945 Arrest; ZPO § 929 Vollziehungsfrist; SchRegO § 67; ISAC 1952 Art. 1.
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+## Prüfraster
+- Ist die Forderung eine Seeforderung nach ISAC 1952 Art. 1?
+- Liegt das Neubauprojekt unter Werftvertrag im Hafen und kann es noch abgefangen werden?
+- Ist der Arrestgrund (Fluchtgefahr) konkret dargelegt?
+- Ist die Vollziehungsfrist von 1 Monat realistisch einzuhalten?
+- Besteht Risiko des ZPO § 945-Schadensersatzes bei unberechtigtem Arrest?
 
-## Norm- und Quellenanker
+## Typische Fallstricke
+- Arrest ohne Registereintragung (SchRegO § 67) ist wirkungslos.
+- LOU des P&I-Clubs beendet Arrest, nicht die Forderung; Klage geht weiter.
+- ZPO § 945-Schadensersatz bei unberechtigtem Arrest kann erheblich sein.
 
-- HGB Seehandelsrecht, Schiffregister, Schiffsrechtegesetz, Schiffshypothek
-- Schiffbau, Werftvertrag, Charter, Konnossement, Havarie, Bergung, Wrack
-- Arrest/Pfändung, Flagge, P&I, Klassifikation, Insolvenz
-- UNCLOS/ITLOS Hamburg, internationale Zuständigkeit und Vollstreckung
+## Output
+Arrestantrags-Baustein (ZPO § 920) und Vollziehungs-Zeitplan für Neubauprojekt unter Werftvertrag.
 
-## Prüfroutine
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+## Vertiefung: Internationale Seearrestpraxis
+International koordinieren sich Gläubiger häufig über die 1952 Brüsseler Seearrest-Konvention (ISAC 1952) und über P&I-Club-Korrespondenten. In der EU gilt ergänzend die EuGVVO 2012 (Brüssel Ia-VO) für Vollstreckung und gegenseitige Anerkennung von Arrestbeschlüssen. In Drittstaaten gelten nationaler Seearrest-Regeln; Koordination mit Local Counsel ist unverzichtbar.
 
-## Typische Artefakte
+## Seeforderungen nach ISAC 1952 Art. 1
+Zum Arrest berechtigende Seeforderungen umfassen: Schiffsbau- und -reparaturkosten; Schiffsausrüstung; Schifffahrtsabgaben; Frachtzahlungen; Charterzahlungen; Bergungskosten; Schiffsgläubigerrechte; Konnossementsansprüche; Kollisionshaftung; Hypothekenansprüche. Nicht erfasst sind Ansprüche aus reinem Landtransport ohne Seebezug.
 
-- Schiffs- und Registerdatenblatt
-- Hypotheken-/Arreststrategie
-- Werft-/Charter-Risikomatrix
-- Internationaler Zuständigkeits- und Vollstreckungsvermerk
+## Verteidigungsstrategien des Schiffseigentümers
+- **Letter of Undertaking (LOU)**: P&I-Club stellt ein formelles Versprechen aus das Schiff zu stellen; Arrest wird aufgehoben; Rechtsstreit geht weiter.
+- **Gegenklage nach § 945 ZPO**: bei unberechtigtem Arrest; Schadensersatz für Liegekosten; entgangene Fracht; Reparaturkosten.
+- **Sofortige Sicherheitsleistung**: Zahlung unter Vorbehalt; Bankbürgschaft; Schuldschein.
 
-## Red-Team-Fragen
 
-- Flagge/Register/gewöhnlicher Aufenthalt verwechselt
-- Arrest ohne Vollstreckungsfähigkeit
-- Klassifikations-/Versicherungsfolge fehlt
-- ITLOS/UNCLOS nur dekorativ statt relevant
+## Checkliste Arrest-Vorbereitung
+- [ ] Seeforderung nach ISAC 1952 Art. 1 identifiziert und dokumentiert
+- [ ] Schiff im Hafen bestätigt; Liegeplatz ermittelt
+- [ ] Zuständiges Gericht bestimmt (LG am Liegeplatz; ZPO § 919)
+- [ ] Arrestanspruch und Arrestgrund glaubhaft gemacht (Eidesstattliche Versicherung)
+- [ ] Arrestantrag (ZPO § 920) vollständig vorbereitet
+- [ ] Vollziehungsstrategie: Registereintragung (SchRegO § 67) plus physische Bewachung
+- [ ] Freigabe-Optionen identifiziert: LOU des P&I-Clubs; Bankbürgschaft
+- [ ] § 945-Schadensersatzrisiko bewertet
 
-## Ausgabeformat
+## Relevante Rechtsprechung
+- LG Hamburg; OLG Hamburg zu Seearrest; Anforderungen an Arrestanspruch und -grund.
+- BGH zur Haftung aus ungerechtfertigtem Arrest nach ZPO § 945.
+- ITLOS Juno Trader Case No. 13 (Saint Vincent v. Guinea-Bissau 2004): Prompt Release; Verhältnismäßigkeit der Sicherheitsleistung.
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+## Normen im Überblick
+- ZPO § 916: dinglicher Arrest; Voraussetzungen; Arrestanspruch; Arrestgrund.
+- ZPO §§ 917-919: besondere Arrestgründe; örtliche Zuständigkeit (Liegeplatz).
+- ZPO § 920: Arrestantrag; Form; Glaubhaftmachung.
+- ZPO § 929: Vollziehungsfrist 1 Monat; Wirkungsverlust bei Nichtvollziehung.
+- ZPO § 945: Schadensersatz bei unberechtigtem oder wirkungslos gewordenem Arrest.
+- SchRegO § 67: Eintragung von Pfändungs- und Arrestvermerken im Schiffsregister.
+- ISAC 1952 Art. 1-8: Seeforderungen; Arrest an Schwesterschiffen; Verfahren.
 
-## Qualitätsregel
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+## Vertiefung Arrest
+
+### Seeforderungen und ISAC 1952
+Das ISAC 1952 definiert abschließend, für welche Forderungen ein Schiffsarrest zulässig ist (Art. 1). Deutschland ist Vertragsstaat; die meisten EU-Häfen ebenfalls. Im Nicht-Vertragsstaat gilt nationales Recht; die Anforderungen können abweichen.
+
+### Arrest vs. LOU des P&I-Clubs
+In der Praxis wird der Arrest häufig durch eine Letter of Undertaking (LOU) des P&I-Clubs abgewandt. Die LOU ist ein abstraktes Schuldversprechen des Clubs; sie wird nur ausgestellt, wenn die zugrundeliegende Forderung club-covered ist.
+
+## Normen-Synopse Arrest
+| Norm | Inhalt |
+|------|--------|
+| ZPO § 916 | Dinglicher Arrest |
+| ZPO § 920 | Arrestantrag |
+| ZPO § 929 | Vollziehungsfrist |
+| ZPO § 945 | Schadensersatz |
+| ISAC 1952 Art. 1 | Seeforderungen |
+
+## Quellen
+- ZPO §§ 916-945: https://dejure.org/gesetze/ZPO/916.html
+- SchRegO § 67: https://dejure.org/gesetze/SchRegO/67.html
+- ISAC 1952: https://www.admin.ch/opc/de/classified-compilation/19520172/index.html
+- openjur LG Hamburg Arrest: https://www.openjur.de

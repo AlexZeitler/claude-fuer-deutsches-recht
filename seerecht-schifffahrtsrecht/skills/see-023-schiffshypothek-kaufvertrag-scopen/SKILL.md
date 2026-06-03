@@ -1,57 +1,80 @@
 ---
 name: see-023-schiffshypothek-kaufvertrag-scopen
-description: "See- und Schifffahrtsrecht: Schiffshypothek: Kaufvertrag scopen. Kaufvertrag scopen für Schiffshypothek im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: 'Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank scopet Kaufvertrag fuer hypothekenbelastetes Seeschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Output: Kaufvertrag-Review-Matrix und Closing-Conditions.'
 ---
 
-# Schiffshypothek Kaufvertrag Scopen
+# Schiffshypothek – Kaufvertrag scopen
 
-## Arbeitsauftrag
+## Mandantenfall
+Ein Investor kauft ein hypothekenbelastetes Seeschiff; Risiken aus Altlasten und Zertifikatsmängeln sind zu identifizieren. Ein Reeder veräußert ein hypothekenbelastetes Seeschiff unter Zeitdruck; Gewährleistungsausschlüsse sind zu prüfen. Eine Bank finanziert den Kauf und möchte Vertragsrisiken kennen.
 
-Schiffshypothek Kaufvertrag Scopen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich See- und Schifffahrtsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+## Erste Schritte
+1. Kaufvertrag sichten: Kaufpreis, Zahlungsplan, Lieferbedingungen fuer hypothekenbelastetes Seeschiff.
+2. Lastenuebergang pruefen: werden alle Hypotheken vor Eigentumsuebergang geloescht?
+3. SchRG § 2 Eigentumsuebergang: erst Einigung und Eintragung; Zeitplan pruefen.
+4. Zertifikatsstatus klaeren: Klasse; ISM; MLC; ISPS; Uebergabe oder Neuausstellung?
+5. Gewaehrleistungsklauseln: BGB §§ 433-479 oder as-is-Ausschluss?
+6. Escrow-Mechanismus fuer simultane Zahlung und Eigentumsuebergang aufsetzen.
 
-## Einstieg ohne Leerlauf
+## Rechtsrahmen
+- SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte; BGB §§ 433-479 Kaufgewaehrleistung; SchRG § 2 Eigentumsuebergang; SchRegO. Rangfolge Hypotheken; Absonderung InsO §§ 49-51.
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+## Prüfraster
+- Sind alle Hypotheken und Lasten vor Eigentumsuebergang abzuloesen?
+- Enthaelt der Kaufvertrag eine umfassende Freistellungsklausel?
+- Sind Zertifikate (Klasse/ISM/MLC) als Closing-Bedingungen definiert?
+- Ist der Gewaehrleistungsausschluss rechtswirksam?
+- Ist Escrow-Mechanismus fuer simultane Transaktion vorgesehen?
 
-## Norm- und Quellenanker
+## Typische Fallstricke
+- Kaeufer haftet mit hypothekenbelastetes Seeschiff fuer Altschulden bis zur Loeschung.
+- Gewaehrleistungsausschluss (as-is) deckt keine versteckten Konstruktionsmaengel.
+- Zertifikatslücke zwischen Closing und Neuausstellung gefaehrdet Betrieb.
 
-- HGB Seehandelsrecht, Schiffregister, Schiffsrechtegesetz, Schiffshypothek
-- Schiffbau, Werftvertrag, Charter, Konnossement, Havarie, Bergung, Wrack
-- Arrest/Pfändung, Flagge, P&I, Klassifikation, Insolvenz
-- UNCLOS/ITLOS Hamburg, internationale Zuständigkeit und Vollstreckung
+## Output
+Kaufvertrag-Review-Matrix und Closing-Conditions-Checkliste fuer hypothekenbelastetes Seeschiff.
 
-## Prüfroutine
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+## Vertiefung: Wesentliche Kaufvertragsklauseln im Schiffskauf
+International dominieren MOA-Standardformulare (Norwegian Saleform 2012; Norwegian Saleform 1993; Nipponsale 1999). Für deutsche Seeschiffe mit HGB-Bezug gelten ergänzend die deutschen Kaufrechtsregeln (BGB §§ 433-479). Bei internationalem Schiffskauf empfiehlt sich die ausdrückliche Rechtswahl (z.B. englisches Recht) im Vertrag, um CISG-Anwendung zu vermeiden.
 
-## Typische Artefakte
+## Wesentliche Klauseln prüfen
+- **Deposit Clause**: Anzahlung (typisch 10%) als Sicherheit; bei Closing verrechenbar; bei Buyer-Default einbehalten.
+- **Delivery Condition**: clean class; no outstanding class recommendations; free of encumbrances.
+- **Bunker Provision**: aktuelle Bunker werden zum Tagesmarktpreis übernommen; gemessen bei Übergabe.
+- **Vessel Documents**: welche Originalzertifikate werden übergeben; welche müssen neu ausgestellt werden?
+- **Governing Law and Arbitration**: English Law und LMAA-Schiedsverfahren London ist Marktstandard.
 
-- Schiffs- und Registerdatenblatt
-- Hypotheken-/Arreststrategie
-- Werft-/Charter-Risikomatrix
-- Internationaler Zuständigkeits- und Vollstreckungsvermerk
+## Risiken und Gegenmaßnahmen
+Wesentliche Risiken beim Schiffskauf: Verborgene Hypotheken; ausstehende Klassemängelempfehlungen; unbekannte Schiffsgläubigerrechte; laufende PSC-Banning; auslaufende ISM-/MLC-Zertifikate. Gegenmaßnahmen: umfassende Freistellungsklausel; Kaufpreiseinbehalt als Escrow; Closing-Conditions präzise definieren.
 
-## Red-Team-Fragen
 
-- Flagge/Register/gewöhnlicher Aufenthalt verwechselt
-- Arrest ohne Vollstreckungsfähigkeit
-- Klassifikations-/Versicherungsfolge fehlt
-- ITLOS/UNCLOS nur dekorativ statt relevant
+## Checkliste Kaufvertrag-Prüfung
+- [ ] Kaufvertrag vollständig vorliegend (Hauptvertrag; Anhänge; Spezifikationen)
+- [ ] Kaufpreis und Zahlungsmodalitäten klar geregelt
+- [ ] Closing-Bedingungen (Delivery Conditions) präzise definiert
+- [ ] Lastenfreistellungsklausel des Verkäufers vollständig
+- [ ] Escrow-Mechanismus für simultane Zahlung und Eigentumsübergang geregelt
+- [ ] Gewährleistung (BGB §§ 433-479) oder Ausschluss (as-is) klar vereinbart
+- [ ] Zertifikate (Klasse; ISM; MLC; ISPS) als Closing-Conditions definiert
+- [ ] Rücktrittsrechte und Vertragsstrafen bei Verzögerung geregelt
+- [ ] Rechtswahl und Gerichtsstand/Schiedsklausel vereinbart
 
-## Ausgabeformat
+## Relevante Rechtsprechung
+- BGH zur Gewährleistung beim Schiffskauf; arglistiges Verschweigen von Mängeln.
+- BGH zur Wirksamkeit von as-is-Klauseln in Kaufverträgen; Grenzen des Haftungsausschlusses.
+- LG Hamburg zu Closing-Bedingungen bei Schiffskäufen; Auslegung von Saleform-Vertragsklauseln.
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+## Normen im Überblick
+- BGB § 433: Kaufvertrag; Pflichten des Verkäufers.
+- BGB §§ 434-442: Sachmangel; Rechtsmangel; Haftungsausschluss.
+- BGB §§ 437-441: Mängelrechte des Käufers; Nacherfüllung; Rücktritt; Minderung.
+- SchRG § 2: Eigentumsübergang nur durch Einigung und Eintragung; nicht durch Kaufvertrag allein.
+- SchRG § 19: Löschung der Hypothek durch Löschungsbewilligung des Gläubigers.
+- HGB §§ 480-482: Schiffslieferung im Kontext des Handelsrechts.
 
-## Qualitätsregel
-
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+## Quellen
+- SchRG § 2: https://www.gesetze-im-internet.de/schrg/BJNR014990940.html
+- BGB §§ 433-479: https://dejure.org/gesetze/BGB/433.html
+- HGB §§ 480 ff.: https://dejure.org/gesetze/HGB/480.html
+- openjur Schiffskaufstreit: https://www.openjur.de

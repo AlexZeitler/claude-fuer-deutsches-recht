@@ -1,57 +1,83 @@
 ---
 name: see-020-dokumenten-cockpit-schiff
-description: "See- und Schifffahrtsrecht: Dokumenten-Cockpit Schiff. Dokumenten-Cockpit Schiff im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: 'Mandant benoetigt Uebersicht aller schiffsrelevanten Dokumente: Registerauszug; Hypothekenurkunden; Zertifikate (Klasse; ISM/DOC/SMC; MLC/DMLC; ISPS/ISSC); Flaggenzertifikat; Charter; Konnossements-Template. SchRG §§ 2/8-74; FlaggRG §§ 3-5; ISM-Code; MLC 2006 Titel 5; ISPS-Code. Output: Dokumenten-Cockpit-Matrix und Faelligkeits-Kalender.'
 ---
 
-# Dokumenten Cockpit Schiff
+# Dokumenten-Cockpit Schiff – Vollständigkeitsprüfung
 
-## Arbeitsauftrag
+## Mandantenfall
+Ein neuer Schiffsfinancier übernimmt ein Schiffsportfolio und benötigt eine sofortige Übersicht aller schiffsrelevanten Dokumente und deren Laufzeiten. Eine Reederei bereitet ein Schiff auf eine Charter vor und muss gegenüber dem Charterer alle Zertifikate nachweisen. Ein Port-State-Control-Inspektor hat Mängel festgestellt; welche Dokumente fehlen oder sind abgelaufen?
 
-Dokumenten Cockpit Schiff wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich See- und Schifffahrtsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+## Erste Schritte
+1. Registerdokumente beschaffen: Seeschiffsregisterauszug; Hypothekenurkunde; Eigentumsnachweis.
+2. Sicherheits-Zertifikate sichten: Klasse-Zertifikat (Classification Certificate); Sicherheitszeugnis (Safety Certificate) nach SOLAS.
+3. ISM-Dokumente: DOC (Document of Compliance) für Reederei; SMC (Safety Management Certificate) für Schiff; Gültigkeitsdaten prüfen.
+4. MLC-Dokumente: DMLC (Declaration of Maritime Labour Compliance) Part I und Part II; MLC-Zertifikat.
+5. Umweltzertifikate: IOPP (International Oil Pollution Prevention) Certificate; IAPP (Air Pollution Prevention); Ballastwasser-Zertifikat.
+6. Flaggenzertifikat und Fahrterlaubnis: FlaggRG §§ 3-5; BSH-Fahrterlaubnisnachweis; Schiffssicherheitsfunkzeugnis.
 
-## Einstieg ohne Leerlauf
+## Rechtsrahmen
+- SchRG §§ 2/8-74: Eigentums- und Hypothekendokumentation im Schiffsregister.
+- FlaggRG §§ 3-5: Flaggenzertifikat als Nachweis des Flaggenführungsrechts.
+- ISM-Code Kap. 1-13: DOC (Reederei) und SMC (Schiff) als Pflicht-Zertifikate nach SOLAS Kap. IX.
+- MLC 2006 Titel 5 Reg. 5.1.3: MLC-Zertifikat und DMLC als Pflichtunterlagen.
+- ISPS-Code: ISSC (International Ship Security Certificate) als Nachweis des Sicherheitsplans.
+- MARPOL Annex I/II/VI: IOPP-; IONPP-; IAPP-Zertifikate für Umweltzertifizierung.
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+## Prüfraster
+- Sind alle SOLAS-Pflichtzertifikate gültig und aktuell?
+- Ist das ISM-DOC auf das richtige Unternehmen ausgestellt?
+- Stimmen DMLC Part I (Flaggenstaat) und Part II (Reeder) überein?
+- Sind alle Zertifikate für das aktuelle Fahrtgebiet gültig?
+- Ist ein Faelligkeits-Kalender mit allen Erneuerungsdaten vorhanden?
 
-## Norm- und Quellenanker
+## Typische Fallstricke
+- DOC auf falsches Unternehmen ausgestellt; ISM-Verantwortung liegt tatsächlich woanders.
+- MLC-Zertifikat abgelaufen; PSC-Detention droht beim ersten Hafenanlauf.
+- IOPP-Zertifikat nicht aktualisiert nach Maschinenraumänderungen.
+- Ballastwasser-Zertifikat fehlt; seit 2017 IMO-Pflicht für alle internationalen Fahrten.
 
-- HGB Seehandelsrecht, Schiffregister, Schiffsrechtegesetz, Schiffshypothek
-- Schiffbau, Werftvertrag, Charter, Konnossement, Havarie, Bergung, Wrack
-- Arrest/Pfändung, Flagge, P&I, Klassifikation, Insolvenz
-- UNCLOS/ITLOS Hamburg, internationale Zuständigkeit und Vollstreckung
+## Output
+- Dokumenten-Cockpit-Matrix: Dokument; Ausstelldatum; Ablaufdatum; Aussteller; Status
+- Fälligkeits-Kalender für alle 12 Monate
+- Checkliste Dokumente für PSC-Inspektion
+- Lücken-Report mit Maßnahmenplan
 
-## Prüfroutine
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+## Erweiterte Normengrundlage
 
-## Typische Artefakte
+### Zertifizierungspflichten
+- ISM-Code Kap. 3-4: DOC für den Reeder; SMC für das Schiff; Prüfungsintervalle.
+- MLC 2006 Reg. 5.1.3: DMLC Part I (Behörde) und Part II (Reeder); Gültigkeit; Erneuerung.
+- ISPS-Code Part B § 1.3: ISSC-Ausstellung durch Flaggenstaat oder RO.
 
-- Schiffs- und Registerdatenblatt
-- Hypotheken-/Arreststrategie
-- Werft-/Charter-Risikomatrix
-- Internationaler Zuständigkeits- und Vollstreckungsvermerk
+### Klassenwesen
+- SOLAS Kap. II-1 Reg. 3-1: Klassenpflicht; periodische Besichtigung (Annual; Special; Drydock).
+- Kl-Reg. (DNV/BV/LR/ABS): Klassen-Statuten; Auflagen; Conditionen.
 
-## Red-Team-Fragen
+## Checkliste Dokumenten-Cockpit
+- [ ] Klassenzertifikat: Ausstellungsdatum; Ablaufdatum; nächste Annual Survey
+- [ ] ISM DOC: Reeder; Gültigkeitsdauer; letztes Audit
+- [ ] ISM SMC: Schiff; Gültigkeitsdauer; letztes Audit
+- [ ] DMLC Part I und II: gültig; ggf. Endorsement nach Flaggenwechsel
+- [ ] ISSC (ISPS): gültig; letzter PFSO-Kontakt
+- [ ] IOPP Certificate (MARPOL): gültig
+- [ ] ENG1-/MED-Zeugnisse der Besatzung aktuell
+- [ ] Klassen-Auflagen (Conditions of Class) dokumentiert und erfüllt
 
-- Flagge/Register/gewöhnlicher Aufenthalt verwechselt
-- Arrest ohne Vollstreckungsfähigkeit
-- Klassifikations-/Versicherungsfolge fehlt
-- ITLOS/UNCLOS nur dekorativ statt relevant
+## Relevante Rechtsprechung
+- OLG Hamburg zur Haftung des Reeders bei Ablauf des SMC; ISM-Code als Sorgfaltsmaßstab.
+- BGH zur Relevanz des Klassenzertifikats für die H&M-Versicherungsdeckung.
+- BVerwG zur Befugnis des BSH; abgelaufene Zertifikate führen zum Anhalten des Schiffes.
 
-## Ausgabeformat
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+## Praxishinweis
 
-## Qualitätsregel
+Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestaltung sind ergänzend folgende Quellen heranzuziehen: (1) aktuelle BSH-Rundschreiben und Bekanntmachungen (abrufbar unter bsh.de); (2) Verwaltungsvorschriften der zuständigen Wasser- und Schifffahrtsverwaltung; (3) aktuelle Entscheidungen des LG und OLG Hamburg zu seerechtlichen Fragen (openjur.de); (4) ITLOS-Rechtsprechungsdatenbank (itlos.org). Bei internationalem Bezug ist stets zu prüfen, ob der betreffende Staat UNCLOS-, MLC- oder MARPOL-Vertragsstaat ist und ob ISAC 1952 gilt.
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+## Quellen
+- ISM-Code BSH: https://www.bsh.de/DE/THEMEN/Schifffahrt/ISM_Code/ism_code_node.html
+- MLC ILO: https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C186
+- FlaggRG: https://www.gesetze-im-internet.de/flaggrg/
+- SchRG: https://www.gesetze-im-internet.de/schrg/BJNR014990940.html
+- MARPOL IMO: https://www.imo.org/en/About/Conventions/Pages/International-Convention-for-the-Prevention-of-Pollution-from-Ships-(MARPOL).aspx

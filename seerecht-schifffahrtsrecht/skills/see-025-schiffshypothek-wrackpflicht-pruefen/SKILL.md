@@ -1,57 +1,92 @@
 ---
 name: see-025-schiffshypothek-wrackpflicht-pruefen
-description: "See- und Schifffahrtsrecht: Schiffshypothek: Wrackpflicht prüfen. Wrackpflicht prüfen für Schiffshypothek im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: 'Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 fuer gesunkenes hypothekenbelastetes Seeschiff. Versicherungspflicht ab 300 BRZ; Behoerdenkoordination; Haftungsfolge. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk.'
 ---
 
-# Schiffshypothek Wrackpflicht Pruefen
+# Schiffshypothek – Wrackbeseitigungspflicht prüfen
 
-## Arbeitsauftrag
+## Mandantenfall
+Ein hypothekenbelastetes Seeschiff sinkt in deutschen Gewässern; WSA ordnet Beseitigung an; Eigentümer fragt nach Haftung. Die finanzierende Bank fragt, ob sie als Hypothekengläubigerin haftet. Ein Reeder ist insolvent; Behörde will Kosten beim letzten Eigentümer eintreiben.
 
-Schiffshypothek Wrackpflicht Pruefen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich See- und Schifffahrtsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+## Erste Schritte
+1. WRC 2007 / WSG Anwendbarkeit pruefen: hypothekenbelastetes Seeschiff ab 300 BRZ in deutschen Gewaessern.
+2. Verantwortlichen identifizieren: WSG § 2 - Eigentuemer des {vessel} haftet primaer.
+3. Behoerdliche Meldepflicht (WRC Art. 5 / WSG § 4): unverzuegliche Meldung beim WSA.
+4. Versicherungsnachweis (WRC Art. 12): Pflicht ab 300 BRZ; P&I-Club-Zertifikat vorlegen.
+5. Kostenschaetzung einholen: Bergungsunternehmen; Umweltschadensrisiko bewerten.
+6. Notfallmassnahmen koordinieren: BSH-Schadstoffabwehr; Buenker-Oelbergung.
 
-## Einstieg ohne Leerlauf
+## Rechtsrahmen
+- WSG §§ 1-12 Wrackbeseitigungsgesetz; WRC 2007 Nairobi Art. 1-12; MARPOL Annex I Reg. 26.
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+## Prüfraster
+- Ist der Eigentuemer des hypothekenbelastetes Seeschiff bekannt und zahlungsfaehig?
+- Greift WRC 2007 (Schiff ab 300 BRZ; Gewaesser eines Vertragsstaats)?
+- Ist Wrackbeseitigungs-Versicherung vorhanden (WRC Art. 12)?
+- Ueberschreiten Wrackkosten den Schiffswert?
+- Bestehen Umweltschadensrisiken (Bunkeröl/Chemikalien) beim hypothekenbelastetes Seeschiff?
 
-## Norm- und Quellenanker
+## Typische Fallstricke
+- WRC gilt auch fuer Freizeitjachten ab 14 Meter Laenge.
+- Behoerdliche Ersatzvornahme begründet Kostenerstattungsanspruch mit Vorrang.
+- Bei hypothekenbelastetes Seeschiff unter Auslandsflagge kommen Flaggenstaat-Pflichten hinzu.
 
-- HGB Seehandelsrecht, Schiffregister, Schiffsrechtegesetz, Schiffshypothek
-- Schiffbau, Werftvertrag, Charter, Konnossement, Havarie, Bergung, Wrack
-- Arrest/Pfändung, Flagge, P&I, Klassifikation, Insolvenz
-- UNCLOS/ITLOS Hamburg, internationale Zuständigkeit und Vollstreckung
+## Output
+WRC-Pflichtenanalyse und Kostenrisiko-Vermerk für hypothekenbelastetes Seeschiff.
 
-## Prüfroutine
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+## Vertiefung: Nairobi WRC 2007 im Überblick
+Das Nairobi Wrack-Übereinkommen (WRC 2007) trat international 2015 in Kraft; Deutschland hat es 2013 ratifiziert und durch das Wrackbeseitigungsgesetz (WSG) umgesetzt. Es gilt für Wracks in der AWZ und dem Küstenmeer von Vertragsstaaten; für Wracks auf der Hohen See gelten nur nationale Normen. Kernpflicht: Eigentümer muss das Wrack melden; markieren; und beseitigen oder beseitigen lassen.
 
-## Typische Artefakte
+## Haftungsstruktur
+Primär haftet der eingetragene Eigentümer; sekundär können Hypothekengläubiger oder faktische Betreiber herangezogen werden. Die Haftung ist nicht automatisch durch Schiffswert begrenzt; das Haftungsbeschränkungsrecht nach HGB §§ 611-617 oder LLMC 1976/1996 kann aber Obergrenzen setzen. P&I-Clubs decken Wrackbeseitigungskosten typischerweise im Rahmen der Pollution-Deckung ab.
 
-- Schiffs- und Registerdatenblatt
-- Hypotheken-/Arreststrategie
-- Werft-/Charter-Risikomatrix
-- Internationaler Zuständigkeits- und Vollstreckungsvermerk
+## Behördliche Zuständigkeit
+In Deutschland ist das Wasserstraßen- und Schifffahrtsamt (WSA) die zuständige Behörde (§ 4 WSG). Bei Gefahr für Menschenleben oder Umwelt kann das WSA sofortige Maßnahmen anordnen und auf Kosten des Eigentümers durchführen. Das BSH koordiniert Schadstoffabwehrmaßnahmen auf See.
 
-## Red-Team-Fragen
 
-- Flagge/Register/gewöhnlicher Aufenthalt verwechselt
-- Arrest ohne Vollstreckungsfähigkeit
-- Klassifikations-/Versicherungsfolge fehlt
-- ITLOS/UNCLOS nur dekorativ statt relevant
+## Checkliste Wrackpflicht-Prüfung
+- [ ] Lage des Wracks bestimmt: AWZ; Küstenmeer; Binnengewässer
+- [ ] Anwendbarkeit WRC 2007 / WSG geprüft: Schiff ab 300 BRZ; Vertragsstaaten-Gewässer
+- [ ] Eigentümer identifiziert; Kontakt aufgenommen
+- [ ] Meldung beim WSA erfolgt (WSG § 4 / WRC Art. 5)
+- [ ] Wrackbeseitigungs-Versicherungsnachweis angefordert (WRC Art. 12)
+- [ ] Kostenschätzung für Bergung eingeholt
+- [ ] Umweltgefährdung durch Bunkeröl oder Schadstoffe bewertet
+- [ ] BSH Schadstoffabwehr informiert
+- [ ] Haftungsstruktur analysiert: Eigentümer; Hypothekengläubiger; Versicherer
 
-## Ausgabeformat
+## Relevante Rechtsprechung
+- BGH zur Ersatzvornahme bei Wrackbeseitigung; Kostenerstattungsanspruch der Behörde gegen Eigentümer.
+- VG Hamburg und VG Stade zur Behördenzuständigkeit für Wrackbeseitigung in der AWZ.
+- ITLOS Advisory Opinion No. 17 (Seabed Disputes Chamber 2011): Pflichten der Sponsoring States für Tätigkeiten im Meeresgebiet.
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+## Normen im Überblick
+- WSG §§ 1-12: Wrackbeseitigungsgesetz; Pflichten des Eigentümers; Behördenzuständigkeit; Kosten.
+- WRC 2007 Art. 1-16: Definitionen; Anwendungsbereich; Meldepflichten; Versicherungspflicht; Haftung.
+- MARPOL Annex I Reg. 26: Bunkeröl-Sicherheitsmaßnahmen bei Schiffskatastrophen.
+- HGB § 611: Haftungsbeschränkung des Schiffseigentümers nach LLMC 1976/1996.
+- InsO §§ 49-51: Absonderungsrecht des Hypothekengläubigers; Haftungsfreistellung.
 
-## Qualitätsregel
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+## Vertiefung Wrackbeseitigung
+
+### Behördliche Struktur
+In der AWZ ist das BSH (Bundesamt für Seeschifffahrt und Hydrographie) zuständig; im Küstenmeer und den Seewasserstraßen die WSA (Wasserstraßen- und Schifffahrtsämter). Die Zuständigkeit ist für die Einschätzung des Vollzugsrisikos entscheidend.
+
+### Versicherungspflicht nach WRC 2007
+Ab 300 BRZ besteht eine Pflichtversicherung für Wrackbeseitigungskosten (WRC Art. 12); der Nachweis muss an Bord mitgeführt werden. Deutschland hat das WRC 2007 ratifiziert (BGBl. 2013 II Nr. 22).
+
+## Normen-Synopse Wrackbeseitigung
+| Norm | Inhalt |
+|------|--------|
+| WSG § 1 | Anwendungsbereich |
+| WSG § 4 | Meldepflicht |
+| WRC Art. 12 | Versicherungspflicht |
+| MARPOL Annex I | Bunkerölsicherheit |
+
+## Quellen
+- WSG: https://www.gesetze-im-internet.de/wsg/
+- WRC 2007 IMO: https://www.imo.org/en/About/Conventions/Pages/Nairobi-International-Convention-on-the-Removal-of-Wrecks.aspx
+- BSH: https://www.bsh.de
+- MARPOL IMO: https://www.imo.org/en/About/Conventions/Pages/International-Convention-for-the-Prevention-of-Pollution-from-Ships-(MARPOL).aspx

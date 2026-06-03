@@ -1,57 +1,80 @@
 ---
 name: see-019-itlos-hamburg-und-unclos
-description: "See- und Schifffahrtsrecht: ITLOS Hamburg und UNCLOS. ITLOS Hamburg und UNCLOS im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: 'Flaggenstaatstreit oder Prompt-Release-Antrag vor dem ITLOS in Hamburg: UNCLOS Art. 292 (Prompt Release); Art. 290 (Vorlaeufige Massnahmen); ITLOS-Statute Annex VI. Relevante Faelle: M/V Saiga Nr. 2; Arctic Sunrise Nr. 22; Juno Trader Nr. 13; Ukraine vs. Russia Nr. 26. Output: ITLOS-Verfahrensstrategie und Sicherheitsleistungs-Kalkulation.'
 ---
 
-# Itlos Hamburg Und Unclos
+# ITLOS Hamburg und UNCLOS – Internationale Seerechtstreitigkeiten
 
-## Arbeitsauftrag
+## Mandantenfall
+Ein Fischereifahrzeug eines Vertragsstaats wird von einem anderen Staat beschlagnahmt; der Flaggenstaat stellt einen Prompt-Release-Antrag nach UNCLOS Art. 292 beim ITLOS. Ein ausländisches Schiff wird unter Berufung auf MARPOL in einem deutschen Hafen festgehalten; der Flaggenstaat erwägt einstweilige Maßnahmen nach UNCLOS Art. 290. Eine Reederei nimmt an einem Annex-VII-Schiedsverfahren teil; die Gegenseite beantragt ITLOS einstweilige Maßnahmen.
 
-Itlos Hamburg Und Unclos wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich See- und Schifffahrtsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+## Erste Schritte
+1. ITLOS-Zuständigkeit prüfen: UNCLOS Teil XV; Annex VI (ITLOS-Statut); Streitigkeit muss UNCLOS-Auslegung betreffen.
+2. Prompt-Release-Voraussetzungen: UNCLOS Art. 292 – Schiff oder Crew verhaftet; angemessene Sicherheit anbieten.
+3. Sicherheitsleistung kalkulieren: ITLOS-Praxis (M/V Saiga; Juno Trader) – Schiffswert; Ladungswert; Fangwert als Orientierung.
+4. Antragsfristen: ITLOS-Regel 110 – Prompt Release kann sofort nach Verhaftung beantragt werden.
+5. Einstweilige Maßnahmen nach Art. 290: Notlage; drohender Schaden für Parteien oder Meeresumwelt.
+6. Schriftsätze vorbereiten: ITLOS Rules of the Tribunal; kurze Fristen; englisch oder französisch.
 
-## Einstieg ohne Leerlauf
+## Rechtsrahmen
+- UNCLOS Art. 292: Prompt Release; Schiff und Crew unverzüglich freizulassen gegen angemessene Sicherheit.
+- UNCLOS Art. 290: einstweilige Maßnahmen; sofortige Wirkung bis Entscheidung des Schiedsgerichts.
+- ITLOS-Statut Annex VI: Zusammensetzung (21 Richter); Zuständigkeit; Verfahren.
+- ITLOS-Regeln 110-121: Prompt-Release-Verfahren; Fristen; Schriftsätze; Sicherheiten.
+- UNCLOS Art. 91-94: Flaggenstaat-Verantwortung als Ausgangspunkt für ITLOS-Klagen.
+- UNCLOS Art. 220-228: Hafenstaat- und Küstenstaatszuständigkeit; ITLOS-Kontrolle.
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+## Prüfraster
+- Ist Deutschland als Flaggen- oder Hafenstaat Partei eines UNCLOS-Streits?
+- Liegt eine ITLOS-kompetenzfähige Seeforderung vor (Art. 21 ITLOS-Statut)?
+- Ist die Sicherheitsleistung angemessen im Sinne der ITLOS-Praxis?
+- Besteht Eile die einstweilige Maßnahmen rechtfertigt?
+- Welches ITLOS-Verfahren passt: Prompt Release; Provisional Measures; Full Bench?
+- Sind alle diplomatischen Wege ausgeschöpft?
 
-## Norm- und Quellenanker
+## Typische Fallstricke
+- ITLOS-Prompt-Release gilt nur für Schiffe; nicht für Personen.
+- Sicherheitsleistung zu niedrig angesetzt; ITLOS kann Antrag zurückweisen.
+- ITLOS-Schriftsätze müssen präzise UNCLOS-Normen zitieren; allgemeine Menschenrechtsargumente reichen nicht.
+- M/V Saiga Case No. 2: Guinea hatte keinen Anspruch auf Verhaftung in der AWZ für Zollvergehen.
 
-- HGB Seehandelsrecht, Schiffregister, Schiffsrechtegesetz, Schiffshypothek
-- Schiffbau, Werftvertrag, Charter, Konnossement, Havarie, Bergung, Wrack
-- Arrest/Pfändung, Flagge, P&I, Klassifikation, Insolvenz
-- UNCLOS/ITLOS Hamburg, internationale Zuständigkeit und Vollstreckung
+## Output
+- ITLOS-Verfahrensstrategie (Prompt Release oder Provisional Measures)
+- Sicherheitsleistungs-Kalkulation nach ITLOS-Praxis
+- Schriftsatz-Struktur für Prompt-Release-Antrag
+- Normübersicht UNCLOS Art. 292/290/220-228
 
-## Prüfroutine
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+## Erweiterte Normengrundlage
 
-## Typische Artefakte
+### UNCLOS
+- UNCLOS Art. 2-32: Territorialmeer; Küstenmeer; Durchfahrtsrecht.
+- UNCLOS Art. 55-75: AWZ; Rechte des Küstenstaates; Fischereirechte; Umweltschutz.
+- UNCLOS Art. 91-94: Staatszugehörigkeit; genuine link; Flaggenstaat-Pflichten.
+- UNCLOS Art. 218-228: Hafenstaatjurisdiktion; Strafverfolgung bei MARPOL-Verstößen.
+- UNCLOS Art. 290-292: einstweilige Maßnahmen; Prompt Release; ITLOS-Zuständigkeit.
 
-- Schiffs- und Registerdatenblatt
-- Hypotheken-/Arreststrategie
-- Werft-/Charter-Risikomatrix
-- Internationaler Zuständigkeits- und Vollstreckungsvermerk
+### ITLOS
+- ITLOS Statut Art. 21: sachliche Zuständigkeit; Vertragsstaatenstreitigkeiten.
+- ITLOS Statut Art. 25: einstweilige Maßnahmen; Aussetzung; Freilassung.
+- ITLOS Statut Annex VI: Prompt-Release-Verfahren; beschleunigtes Verfahren.
 
-## Red-Team-Fragen
+## Checkliste ITLOS-Verfahren
+- [ ] Staatszugehörigkeit der Parteien bestätigt; UNCLOS-Vertragsstaaten
+- [ ] Zuständigkeitsgrundlage identifiziert (UNCLOS Part XV; Annex VII Schiedsgericht)
+- [ ] Erschöpfung innerstaatlicher Rechtsmittel geprüft (bei MSchG-Fällen)
+- [ ] Prompt-Release-Verfahren nach UNCLOS Art. 292 erwogen
+- [ ] Angemessene Sicherheitsleistung (bond) quantifiziert
 
-- Flagge/Register/gewöhnlicher Aufenthalt verwechselt
-- Arrest ohne Vollstreckungsfähigkeit
-- Klassifikations-/Versicherungsfolge fehlt
-- ITLOS/UNCLOS nur dekorativ statt relevant
+## Relevante Rechtsprechung
+- ITLOS M/V Saiga No. 2 (Saint Vincent v. Guinea 1999): genuine link; Flaggenstaat-Verantwortung.
+- ITLOS Arctic Sunrise No. 22 (Netherlands v. Russia 2013): einstweilige Maßnahmen; Freilassung.
+- ITLOS Juno Trader No. 13 (Saint Vincent v. Guinea-Bissau 2004): Prompt Release; verhältnismäßige Sicherheit.
+- ITLOS Ukraine v. Russia No. 26 (2019): Kriegsschiffe; Immunität; Aussetzung.
 
-## Ausgabeformat
-
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
-
-## Qualitätsregel
-
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+## Quellen
+- ITLOS Fallübersicht: https://www.itlos.org/en/main/cases/list-of-cases/
+- UNCLOS Text: https://www.un.org/Depts/los/convention_agreements/texts/unclos/unclos_e.pdf
+- ITLOS Statut Annex VI: https://www.un.org/Depts/los/convention_agreements/texts/unclos/annex6.htm
+- BSH UNCLOS: https://www.bsh.de
+- ITLOS Arctic Sunrise Case No. 22: https://www.itlos.org/en/main/cases/list-of-cases/

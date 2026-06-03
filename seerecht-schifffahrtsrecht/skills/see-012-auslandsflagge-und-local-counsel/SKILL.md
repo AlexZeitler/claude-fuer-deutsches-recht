@@ -1,57 +1,99 @@
 ---
 name: see-012-auslandsflagge-und-local-counsel
-description: "See- und Schifffahrtsrecht: Auslandsflagge und Local Counsel. Auslandsflagge und Local Counsel im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: 'Reederei betreibt Schiff unter Auslandsflagge (Panama; Marshall Islands; Liberia); Abstimmung mit Local Counsel fuer Registerfragen; Hypotheken; PSC-Verfahren. UNCLOS Art. 91-94 (genuine link; Flaggenstaat); FlaggRG §§ 1-10 (Deutsche Flagge); ISM-Code; Paris MOU Port-State-Control. Output: Local-Counsel-Briefing und Flaggenstaat-Compliance-Checkliste.'
 ---
 
-# Auslandsflagge Und Local Counsel
+# Auslandsflagge und Local Counsel – Flaggenstaat-Compliance
 
-## Arbeitsauftrag
+## Mandantenfall
+Eine deutsche Reederei betreibt ihre Flotte unter Panama-Flagge und bekommt Port-State-Control-Mängel; Local Counsel in Panama City soll koordiniert werden. Ein Schiff unter Marshall-Islands-Flagge soll in Deutschland mit einer Hypothek belastet werden. Ein Reeder möchte von der Panama-Flagge zur Deutschen Flagge wechseln; Kosten und Anforderungen sind unklar.
 
-Auslandsflagge Und Local Counsel wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich See- und Schifffahrtsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+## Erste Schritte
+1. Flaggenregime prüfen: welches nationale Recht gilt für Schiffseigentumsrecht; Hypotheken und Seeurteile?
+2. UNCLOS Art. 91-94 checken: echte Verbindung (genuine link) zwischen Schiff und Flaggenstaat.
+3. ISM-DOC der Flaggenstaatsbehörde: Panama Maritime Authority; RMRS (Marshall Islands) als Ansprechpartner für DOC-Ausstellung.
+4. Local-Counsel-Briefing erstellen: Registerfragen; Hypothekenrecht des Flaggenstaats; Port-State-Control-Verfahren.
+5. Flaggenwechsel-Ablauf: FlaggRG §§ 3-5 für Umflaggung nach Deutschland; Abmeldung im Auslandsregister.
+6. Compliance-Checkliste: SOLAS/ISM; MARPOL-Zertifikate; MLC-Zertifikat; ISPS-Code; alle unter neuer Flagge erneuern.
 
-## Einstieg ohne Leerlauf
+## Rechtsrahmen
+- UNCLOS Art. 91-94: Staatsangehörigkeit von Schiffen; Flaggenstaatspflichten; genuine-link-Grundsatz.
+- FlaggRG §§ 1-10: Deutsche Flagge; Berechtigung; Pflichten; Umflaggungsvoraussetzungen.
+- SchRegO §§ 3-8: Eintragung im deutschen Seeschiffsregister als Voraussetzung für deutsche Flagge.
+- ISM-Code Kapitel 1-13: DOC-Ausstellung durch Flaggenstaat; SMC durch Klassifikationsgesellschaft.
+- MLC 2006 Titel 5 Reg. 5.1: Flaggenstaatkontrolle über MLC-Compliance.
+- Paris MOU: Port-State-Control in Europa; Banning von Schiffen mit wiederholten Mängeln.
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+## Prüfraster
+- Besteht genuine link zwischen Reeder und Flaggenstaat (UNCLOS Art. 91)?
+- Hat die Flaggenstaatsbehörde alle Pflicht-Zertifikate (DOC; SMC; ISSC; DMLC) ausgestellt?
+- Sind Port-State-Control-Mängel (Paris MOU / Tokyo MOU) bekannt?
+- Welches Recht gilt für Schiffshypotheken im Flaggenstaat?
+- Gibt es Verbote für Flaggenwechsel während laufender Zwangsvollstreckung?
 
-## Norm- und Quellenanker
+## Typische Fallstricke
+- Registrierung unter Auslandsflagge hebt nicht alle deutschen Schutzrechte auf; Lex registri gilt für Hypotheken.
+- Hypotheken unter deutschem Recht sind im Auslandsregister nicht automatisch anerkannt.
+- DOC muss auf das operativ verantwortliche Unternehmen ausgestellt sein.
+- Paris-MOU-Banning kann alle europäischen Häfen sperren.
 
-- HGB Seehandelsrecht, Schiffregister, Schiffsrechtegesetz, Schiffshypothek
-- Schiffbau, Werftvertrag, Charter, Konnossement, Havarie, Bergung, Wrack
-- Arrest/Pfändung, Flagge, P&I, Klassifikation, Insolvenz
-- UNCLOS/ITLOS Hamburg, internationale Zuständigkeit und Vollstreckung
+## Output
+- Local-Counsel-Briefing-Vorlage (Register; Hypothek; PSC-Verfahren)
+- Flaggenstaat-Compliance-Checkliste (SOLAS/ISM/MARPOL/MLC/ISPS)
+- Flaggenwechsel-Zeitplan
 
-## Prüfroutine
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+## Checkliste Local-Counsel-Beauftragung
+- [ ] Local Counsel ausgewählt (Empfehlung P&I-Club-Korrespondent)
+- [ ] Erfahrung des LoC mit Seerecht im Hafenstaat bestätigt
+- [ ] Vollmacht ausgestellt und übermittelt
+- [ ] Briefing-Dokument erstellt: Schiffsdaten; Sachverhalt; deutsches Recht
+- [ ] Budgetrahmen genehmigt (P&I-Club-Approval)
+- [ ] Berichtspflichten und Eskalationsweg definiert
+- [ ] Prüfung ob LOU des P&I-Clubs den Arrest entbehrlich macht
+- [ ] ISAC-1952-Status des Hafenstaats geprüft
 
-## Typische Artefakte
+## Relevante Rechtsprechung
+- ITLOS Arctic Sunrise Case No. 22 (Netherlands v. Russia 2013): einstweilige Maßnahmen nach UNCLOS Art. 290; Freilassung des Schiffes.
+- ITLOS Juno Trader Case No. 13 (Saint Vincent v. Guinea-Bissau 2004): Prompt Release nach Art. 292; angemessene Sicherheitsleistung.
+- EuGH zur EuGVVO 2012; gegenseitige Anerkennung von Vollstreckungstiteln in der EU.
 
-- Schiffs- und Registerdatenblatt
-- Hypotheken-/Arreststrategie
-- Werft-/Charter-Risikomatrix
-- Internationaler Zuständigkeits- und Vollstreckungsvermerk
+## Normen im Überblick
+- ISAC 1952 Art. 1-8: Seeforderungen; Arrest; Verfahren; Vertragsstaat-Liste.
+- EuGVVO 2012 Recast Art. 35-57: Vollstreckung ausländischer Titel in der EU.
+- UNCLOS Art. 292: Prompt Release; Schiff und Crew freizulassen gegen angemessene Sicherheit.
+- ZPO §§ 722-723: Vollstreckbarerklärung ausländischer Urteile in Deutschland.
+- Anerkennungs- und Vollstreckungsausführungsgesetz (AVAG): nationale Umsetzung EuGVVO.
 
-## Red-Team-Fragen
 
-- Flagge/Register/gewöhnlicher Aufenthalt verwechselt
-- Arrest ohne Vollstreckungsfähigkeit
-- Klassifikations-/Versicherungsfolge fehlt
-- ITLOS/UNCLOS nur dekorativ statt relevant
+## Erweiterte Normengrundlage
 
-## Ausgabeformat
+### Flaggenrecht
+- UNCLOS Art. 91-94: Staatszugehörigkeit; genuine link; Flaggenstaat-Pflichten.
+- FlaggRG §§ 1-23: deutsche Flagge; Berechtigung; Pflichten; Entziehung.
+- MAR-Register / Zweitregister: Flaggenrecht für Wirtschaftlichkeit ohne deutsche Arbeitnehmer-Quotes.
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+### Local Counsel
+- ISAC 1952 Art. 1-8: Seeforderungen; Zuständigkeit; Verfahren im Ausland.
+- EuGVVO 2012 Recast Art. 35-57: EU-weite Vollstreckung; Zuständigkeit.
+- NYÜ 1958: Anerkennung ausländischer Schiedssprüche.
 
-## Qualitätsregel
+## Checkliste Auslandsflagge / Local Counsel
+- [ ] Flaggenstaat identifiziert; Registerbehörde bekannt
+- [ ] Genuine-Link-Anforderungen geprüft; erfüllt?
+- [ ] Local Counsel im Flaggenstaat oder Hafenstaat beauftragt
+- [ ] Vollmacht übermittelt; Briefing-Memo erstellt
+- [ ] P&I-Club-Approval für Local-Counsel-Budget eingeholt
+- [ ] ISAC-1952-Status des Hafenstaats geprüft
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+## Relevante Rechtsprechung
+- ITLOS M/V Saiga No. 2 (Saint Vincent v. Guinea 1999): genuine link; Flaggenstaat-Verantwortung.
+- ITLOS Arctic Sunrise No. 22 (Netherlands v. Russia 2013): einstweilige Maßnahmen nach UNCLOS Art. 290.
+- EuGH zur EuGVVO 2012; gegenseitige Anerkennung von Vollstreckungstiteln in der EU.
+
+## Quellen
+- UNCLOS Art. 91-94: https://www.un.org/Depts/los/convention_agreements/texts/unclos/unclos_e.pdf
+- FlaggRG: https://www.gesetze-im-internet.de/flaggrg/
+- BSH ISM: https://www.bsh.de/DE/THEMEN/Schifffahrt/ISM_Code/ism_code_node.html
+- Paris MOU: https://www.parismou.org
+- ITLOS M/V Saiga: https://www.itlos.org/en/main/cases/list-of-cases/

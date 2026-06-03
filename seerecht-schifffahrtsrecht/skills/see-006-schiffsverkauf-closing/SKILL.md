@@ -1,57 +1,82 @@
 ---
 name: see-006-schiffsverkauf-closing
-description: "See- und Schifffahrtsrecht: Schiffsverkauf Closing. Schiffsverkauf Closing im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: 'Mandant schliesst Schiffsveraeusserung ab: MOA (Norwegian Saleform/Nipponsale) prufen; Closing-Bedingungen; Eigentumsuebergang (SchRG § 2); Flaggenwechsel; Loeschung alter Hypotheken (SchRG § 19); P&I-Abrechnung; Zertifikats-Ummeldung. FlaggRG §§ 3-5. Output: Closing-Checkliste und Uebergabe-Protokoll.'
 ---
 
-# Schiffsverkauf Closing
+# Schiffsverkauf Closing – Durchführung und Übergabe
 
-## Arbeitsauftrag
+## Mandantenfall
+Ein norddeutscher Schiffskapitalfonds veräußert einen Bulkcarrier an einen griechischen Käufer; das Closing soll in Piräus stattfinden; zwei Hypotheken sind abzulösen. Ein Verkäufer möchte die norwegische Saleform-MOA anwenden; deutsche Registerpflichten bestehen parallel. Ein Käufer besteht auf Lieferung mit frischer Klasse und gültigem MLC-Zertifikat.
 
-Schiffsverkauf Closing wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich See- und Schifffahrtsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+## Erste Schritte
+1. MOA-Text analysieren: Kaufpreis-Zahlungsplan; Delivery Conditions (clean class; no outstanding recommendations); Lieferort und -zeitfenster.
+2. Löschungsplan für Hypotheken erstellen: Ablösungsbeträge bei Gläubigerbanken anfordern; Löschungsbewilligungen vorbereiten (SchRG § 19).
+3. Eigentumsübergang im Register sicherstellen: Auflassung (SchRG § 2); Vollmachten des Eigentümers prüfen.
+4. Flaggenwechsel koordinieren: FlaggRG §§ 3-5; Abmeldung beim deutschen Register; BSH-Abmeldebescheinigung.
+5. P&I-Übergabe: laufende Deckung endet mit Closing; Käufer muss eigenen Club-Eintritt nachweisen.
+6. Übergabe-Protokoll erstellen: Treibstoffmengen; Bunker-Abrechnung; offene Crew-Löhne; Reparaturliste.
 
-## Einstieg ohne Leerlauf
+## Rechtsrahmen
+- SchRG § 2: Eigentumsübergang nur durch Einigung und Eintragung.
+- SchRG § 19: Löschung der Hypothek durch Bewilligung des Gläubigers.
+- FlaggRG §§ 3-5: Recht zur Führung der Bundesflagge; Pflicht zur Abmeldung bei Eigentümerwechsel.
+- SchRegO §§ 13-19: Eintragungsverfahren für Eigentumsübergang und Hypothekenlöschung.
+- MLC 2006 Titel 5 Reg. 5.1.3: MLC-Zertifikat bleibt beim Schiff; Neuausstellung nach Flaggenwechsel nötig.
+- ISM-Code Kapitel 3: SMC-Gültigkeit endet mit Eigentümerwechsel; neues DOC des Käufers erforderlich.
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+## Prüfraster
+- Sind alle Hypotheken ablösungsbereit und Löschungsbewilligungen vorhanden?
+- Liegt das Delivery-Conditions-Zertifikat des Klassifikators vor?
+- Hat der Käufer gültigen P&I-Deckungsnachweis für erste Reise nach Übergabe?
+- Ist die Bunker-Menge gemessen und der Abrechnung zugrunde gelegt?
+- Gibt es offene Arrestvermerke im Register?
 
-## Norm- und Quellenanker
+## Typische Fallstricke
+- Closing ohne gleichzeitige Registereintragung: Schiff ist rechtlich noch beim Verkäufer.
+- P&I-Lücke zwischen Closing und Club-Aufnahme des Käufers.
+- Bunker-Streit nach Übergabe mangels Protokollierung.
+- ISM-/MLC-Zertifikate nicht rechtzeitig neu ausgestellt; Detention droht.
 
-- HGB Seehandelsrecht, Schiffregister, Schiffsrechtegesetz, Schiffshypothek
-- Schiffbau, Werftvertrag, Charter, Konnossement, Havarie, Bergung, Wrack
-- Arrest/Pfändung, Flagge, P&I, Klassifikation, Insolvenz
-- UNCLOS/ITLOS Hamburg, internationale Zuständigkeit und Vollstreckung
+## Output
+- Closing-Checkliste (Dokumente; Register; Versicherung; Zertifikate)
+- Übergabe-Protokoll-Baustein (Delivery and Acceptance Certificate)
+- Ablösungsrechnung-Vorlage für Hypothekenbanken
 
-## Prüfroutine
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+## Erweiterte Normengrundlage
 
-## Typische Artefakte
+### Kaufrecht
+- BGB §§ 433-453: Kaufvertrag; Übergabe; Eigentumsübertragung; Gewährleistung.
+- SchRG § 2: Eigentumsübergang am Seeschiff nur durch Einigung und Eintragung.
+- SchRG § 19: Löschung der Hypothek; Bewilligung; notarielle Form.
 
-- Schiffs- und Registerdatenblatt
-- Hypotheken-/Arreststrategie
-- Werft-/Charter-Risikomatrix
-- Internationaler Zuständigkeits- und Vollstreckungsvermerk
+### Abwicklung
+- SchRegO §§ 13-19: Eintragungsverfahren; Antragsteller; Unterlagen.
+- FlaggRG §§ 3-9: Pflicht zur Führung der deutschen Flagge; Entziehung; Ausnahmen.
+- MLC 2006 Reg. 5.1.3: Neuausstellung MLC-Zertifikat nach Eigentümerwechsel.
 
-## Red-Team-Fragen
+## Checkliste Closing Schiffsverkauf
+- [ ] MOA/NSF-Kaufvertrag unterzeichnet; Conditions Precedent erfüllt
+- [ ] Escrow-Konto eingerichtet; Kaufpreis hinterlegt
+- [ ] Alle Hypothekenlöschungsbewilligungen vorliegend
+- [ ] Delivery and Acceptance Certificate vorbereitet
+- [ ] Eigentumsumschreibung beim Registergericht beantragt
+- [ ] P&I-Club-Membership des Käufers bestätigt
+- [ ] Zertifikate (Klasse; ISM; MLC; ISPS) auf neuen Eigentümer umgestellt
 
-- Flagge/Register/gewöhnlicher Aufenthalt verwechselt
-- Arrest ohne Vollstreckungsfähigkeit
-- Klassifikations-/Versicherungsfolge fehlt
-- ITLOS/UNCLOS nur dekorativ statt relevant
+## Relevante Rechtsprechung
+- BGH zur Wirksamkeit der NSF-Saleform-Klauseln nach deutschem Recht.
+- OLG Hamburg zur Simultanabwicklung (simultaneous closing) bei Schiffen.
+- BGH zur Haftung des Verkäufers nach Closing für gesetzliche Schiffsgläubigerrechte.
 
-## Ausgabeformat
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+## Praxishinweis
 
-## Qualitätsregel
+Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestaltung sind ergänzend folgende Quellen heranzuziehen: (1) aktuelle BSH-Rundschreiben und Bekanntmachungen (abrufbar unter bsh.de); (2) Verwaltungsvorschriften der zuständigen Wasser- und Schifffahrtsverwaltung; (3) aktuelle Entscheidungen des LG und OLG Hamburg zu seerechtlichen Fragen (openjur.de); (4) ITLOS-Rechtsprechungsdatenbank (itlos.org). Bei internationalem Bezug ist stets zu prüfen, ob der betreffende Staat UNCLOS-, MLC- oder MARPOL-Vertragsstaat ist und ob ISAC 1952 gilt.
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+## Quellen
+- SchRG §§ 2/19: https://www.gesetze-im-internet.de/schrg/BJNR014990940.html
+- FlaggRG: https://www.gesetze-im-internet.de/flaggrg/
+- SchRegO: https://dejure.org/gesetze/SchRegO
+- BSH: https://www.bsh.de/DE/THEMEN/Schifffahrt/Schiffsregister/schiffsregister_node.html
+- MLC ILO: https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C186

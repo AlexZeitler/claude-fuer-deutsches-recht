@@ -1,57 +1,80 @@
 ---
 name: see-005-schiffbauvertrag-werft
-description: "See- und Schifffahrtsrecht: Schiffbauvertrag Werft. Schiffbauvertrag Werft im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: 'Reeder beauftragt Werft mit Neubau: Pruefung des Schiffbauvertrags auf Lieferpflichten; Gewaehrleistung; Verzoegerungsstrafen; Abnahme und Finanzierungssicherheiten. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104 Schiffbauwerkshypothek; Refund Guarantee; SAJ/AWES-Muster. Output: Vertragsrisiko-Matrix und Verhandlungsempfehlung.'
 ---
 
-# Schiffbauvertrag Werft
+# Schiffbauvertrag Werft – Risikoprüfung
 
-## Arbeitsauftrag
+## Mandantenfall
+Ein Reeder schließt mit einer polnischen Werft einen Vertrag über drei Mehrzweckfrachter; Lieferung in 24 Monaten; die Finanzierungsbank besteht auf Sicherheiten für die Anzahlung. Eine chinesische Werft verlangt nach Stahlpreisanstieg eine Preisanpassung; der Reeder lehnt ab. Ein Reeder nimmt ein Schiff mit erheblichen Mängelrügen ab; Werft beansprucht vollständige Zahlung.
 
-Schiffbauvertrag Werft wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich See- und Schifffahrtsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+## Erste Schritte
+1. Vertragswerk sichten: Hauptvertrag (SAJ/AWES-Muster oder individuell); Spezifikationen; technische Anhänge; Zahlungsplan.
+2. Anzahlungssicherheiten prüfen: Bankgarantie der Werftbank oder Refund Guarantee; Abrufbedingungen.
+3. Schiffbauwerkshypothek aufnehmen: SchRG §§ 76-104 – Hypothek am Schiff im Bau; Baufinanzierung sichert Rohbau.
+4. Lieferverzug-Regime analysieren: Strafklauseln (Liquidated Damages); Kündigungsrecht bei Verzug; Force-Majeure-Definition.
+5. Abnahmeverfahren klären: Probefahrt; Klasseabnahme (GL/DNV); IMO-Zertifikate.
+6. Gewährleistungsfristen und Nachbesserungsrechte (BGB § 634) abgleichen.
 
-## Einstieg ohne Leerlauf
+## Rechtsrahmen
+- BGB §§ 631-651: Werkvertragsrecht; Abnahme (§ 640); Mängelrechte (§ 634); Verjährung (§ 634a 5 Jahre für Schiffbau).
+- SchRG §§ 76-104: Schiffbauwerkshypothek; Bestellung und Rang während der Bauphase.
+- HGB §§ 480-482: Hintergrund für Lieferverpflichtungen.
+- CISG (UN-Kaufrecht): bei internationalen Werftverträgen oft ausgeschlossen; Ausschlussklausel prüfen.
+- ZPO §§ 864-871: Vollstreckung in Schiffbauwerkshypothek bei Werftinsolvenz.
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+## Prüfraster
+- Ist die Refund Guarantee abrufbar und unwiderruflich?
+- Welche Ereignisse gelten als Bauverzug; wie hoch ist die LD-Rate?
+- Kann der Reeder bei Werftinsolvenz das Schiff aus dem Bau herauslösen (SchRG § 76)?
+- Decken die Mängelklauseln auch latente Mängel nach Abnahme ab?
+- Ist der Gerichtsstand klar vereinbart; welches Recht gilt?
 
-## Norm- und Quellenanker
+## Typische Fallstricke
+- Pauschalschadenersatz (LD) begrenzt den Schadensanspruch; echter Schaden kann höher liegen.
+- CISG nicht ausgeschlossen: UN-Kaufrecht kann auf Schiffbauverträge anwendbar sein.
+- Schiffbauwerkshypothek erlischt mit Eintragung als fertiges Schiff; Übergang auf Seeschiffshypothek muss aktiv beantragt werden.
+- Force-Majeure-Klauseln schließen Stahlpreiserhöhungen nicht automatisch ein.
 
-- HGB Seehandelsrecht, Schiffregister, Schiffsrechtegesetz, Schiffshypothek
-- Schiffbau, Werftvertrag, Charter, Konnossement, Havarie, Bergung, Wrack
-- Arrest/Pfändung, Flagge, P&I, Klassifikation, Insolvenz
-- UNCLOS/ITLOS Hamburg, internationale Zuständigkeit und Vollstreckung
+## Output
+- Vertragsrisiko-Matrix: Lieferung; Zahlung; Mängel; Insolvenz; Gewährleistung
+- Verhandlungsempfehlung: Klauseln nachbessern
+- Checkliste Schiffbauhypothek und Sicherheitenpaket
 
-## Prüfroutine
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+## Erweiterte Normengrundlage
 
-## Typische Artefakte
+### Werkvertragsrecht
+- BGB §§ 631-650: Werkvertrag; Abnahme; Mängelhaftung; Vergütung; Kündigung.
+- BGB § 640: Abnahme des Werkes; Fälligkeit der Vergütung; Abnahmefiktion.
+- BGB § 641: Fälligkeit der Vergütung; Zahlung Zug-um-Zug gegen Abnahme.
 
-- Schiffs- und Registerdatenblatt
-- Hypotheken-/Arreststrategie
-- Werft-/Charter-Risikomatrix
-- Internationaler Zuständigkeits- und Vollstreckungsvermerk
+### Schiffbauwerkshypothek
+- SchRG §§ 76-104: Schiffbauwerkshypothek; Entstehung; Eintragungsvoraussetzungen; Ausübung.
+- SchRG § 76: Belastbarkeit eines im Bau befindlichen Schiffes als Schiffsbauwerk.
+- SchRG § 78: Eintragung im Schiffsbauregister beim zuständigen Amtsgericht am Bauort.
 
-## Red-Team-Fragen
+## Checkliste Werftvertrag-Prüfung
+- [ ] Bauvertrag (Shipbuilding Contract) vollständig analysiert
+- [ ] Spezifikationen (Technical Specifications) geprüft; Keel-Laying-Datum; Liefertermin
+- [ ] Abschlagszahlungen (Installment Schedule) und Zahlungsplan dokumentiert
+- [ ] Refund Guarantee der Werftbank angefordert und geprüft
+- [ ] Schiffbauwerkshypothek eingetragen; Rang bestätigt
+- [ ] Abnahmeprotokoll (Protocol of Delivery and Acceptance) Muster bereit
 
-- Flagge/Register/gewöhnlicher Aufenthalt verwechselt
-- Arrest ohne Vollstreckungsfähigkeit
-- Klassifikations-/Versicherungsfolge fehlt
-- ITLOS/UNCLOS nur dekorativ statt relevant
+## Relevante Rechtsprechung
+- BGH zur Haftung des Werftunternehmers für Konstruktionsfehler; BGB §§ 633-634.
+- OLG Hamburg zur Auslegung von Force-Majeure-Klauseln in Schiffbauverträgen.
+- BGH zur Sicherungszession der Refund-Guarantee durch den Kreditgeber.
 
-## Ausgabeformat
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+## Praxishinweis
 
-## Qualitätsregel
+Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestaltung sind ergänzend folgende Quellen heranzuziehen: (1) aktuelle BSH-Rundschreiben und Bekanntmachungen (abrufbar unter bsh.de); (2) Verwaltungsvorschriften der zuständigen Wasser- und Schifffahrtsverwaltung; (3) aktuelle Entscheidungen des LG und OLG Hamburg zu seerechtlichen Fragen (openjur.de); (4) ITLOS-Rechtsprechungsdatenbank (itlos.org). Bei internationalem Bezug ist stets zu prüfen, ob der betreffende Staat UNCLOS-, MLC- oder MARPOL-Vertragsstaat ist und ob ISAC 1952 gilt.
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+## Quellen
+- BGB § 634a Verjährung: https://www.gesetze-im-internet.de/bgb/__634a.html
+- SchRG §§ 76-104: https://www.gesetze-im-internet.de/schrg/BJNR014990940.html
+- HGB § 480: https://dejure.org/gesetze/HGB/480.html
+- BGH Werkvertragsrecht Schiffbau: https://www.bgh.de
+- dejure BGB § 631: https://dejure.org/gesetze/BGB/631.html

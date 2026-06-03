@@ -1,57 +1,83 @@
 ---
 name: see-008-fracht-und-konnossement
-description: "See- und Schifffahrtsrecht: Fracht und Konnossement. Fracht und Konnossement im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: 'Spediteur oder Befrachter prueft Konnossement: HGB §§ 513-525 (Ausstellung; Inhalt; Uebergabe); Haftungsgrenzen HGB §§ 498-510; Hague-Visby/Hamburg Rules fuer internationalen Transport. Reine vs. geklauselte Konnossemente; On-Board-Notation; einjährige Ausschlussfrist (HGB § 606). Output: Konnossementspruefprotokoll und Schadensabwicklungs-Leitfaden.'
 ---
 
-# Fracht Und Konnossement
+# Fracht und Konnossement – Prüfung und Schadensabwicklung
 
-## Arbeitsauftrag
+## Mandantenfall
+Ein Importeur erhält beschädigte Ware; das Konnossement ist geklauselt; er fragt ob und wie er den Verfrachter in Anspruch nehmen kann. Eine Bank hält ein Orderkonnossement als Kreditsicherheit und fragt nach Schutz bei Insolvenz des Abladers. Ein Verfrachter wird mit einer Schadensklage konfrontiert; das Konnossement enthält den Vermerk 'said to contain'.
 
-Fracht Und Konnossement wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich See- und Schifffahrtsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+## Erste Schritte
+1. Konnossement klassifizieren: Orderkonnossement (HGB § 513); Rektakonnossement (HGB § 524); Multimodal-Dokument.
+2. Rein oder geklauselt prüfen: reines Konnossement = keine Vorbehalte; Klauselkonnossement = Haftungsrisiko für Verlader.
+3. Verladungsnachweis sichern: On-Board-Notation nach HGB § 515; Frachtstücke; Gewicht; Zustand bei Annahme durch Kapitän.
+4. Haftungsgrundlage ermitteln: HGB §§ 498-511 – Haftung des Verfrachters für Verlust/Beschädigung.
+5. Haftungsgrenze berechnen: HGB § 502 – 666/67 SDR/Stück oder 2 SDR/kg (Hague-Visby); Hamburg Rules: 835 SDR/Stück oder 2/5 SDR/kg.
+6. Fristen prüfen: HGB § 606 – Klagfrist ein Jahr ab Ablieferung; Schadensmeldung binnen drei Tagen (HGB § 604).
 
-## Einstieg ohne Leerlauf
+## Rechtsrahmen
+- HGB §§ 513-525: Konnossement; Ausstellung; Inhalt; Übergang von Rechten.
+- HGB §§ 498-511: Haftung des Verfrachters für Verlust und Beschädigung der Ladung.
+- HGB § 502: Haftungshöchstgrenzen nach Hague-Visby-Regime.
+- HGB § 604: Schadensanzeigepflicht binnen drei Tagen nach Ablieferung.
+- HGB § 606: Einjährige Ausschlussfrist für Ansprüche aus dem Frachtvertrag.
+- Hamburg Rules Art. 5: erhöhter Haftungsmaßstab für den Seefrachtführer.
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+## Prüfraster
+- Ist das Konnossement rein ausgestellt oder enthält es Vorbehalte über den Ladungszustand?
+- Ist die On-Board-Notation vorhanden?
+- Ist die Schadensmeldung fristgerecht (binnen drei Tagen HGB § 604) erfolgt?
+- Greift die einjährige Ausschlussfrist (HGB § 606)?
+- Welches Haftungsregime gilt: Hague-Visby; Hamburg Rules oder nationales Recht?
 
-## Norm- und Quellenanker
+## Typische Fallstricke
+- Versäumte Schadensmeldung binnen drei Tagen verschiebt Beweislast; ist aber kein Rechtsverlust.
+- 'Said to contain' Klausel schließt Verfrachter-Haftung für Gewicht/Inhalt aus.
+- Einjährige Ausschlussfrist (HGB § 606) ist Ausschlussfrist; kein Neubeginn durch Verhandlungen.
+- Mehrfachindossament von Konnossementen: bei Kollision mit Sea-Waybill gilt das Konnossement.
 
-- HGB Seehandelsrecht, Schiffregister, Schiffsrechtegesetz, Schiffshypothek
-- Schiffbau, Werftvertrag, Charter, Konnossement, Havarie, Bergung, Wrack
-- Arrest/Pfändung, Flagge, P&I, Klassifikation, Insolvenz
-- UNCLOS/ITLOS Hamburg, internationale Zuständigkeit und Vollstreckung
+## Output
+- Konnossementsprüfprotokoll (Dokumentenstatus; Mängel; Risiken)
+- Schadensabwicklungs-Leitfaden (Anzeige; Sicherung; Klageweg)
+- Haftungsgrenzen-Berechnung
+- Musterbrief Schadensmeldung an Verfrachter
 
-## Prüfroutine
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+## Erweiterte Normengrundlage
 
-## Typische Artefakte
+### Konnossementsrecht
+- HGB §§ 513-554: Konnossement; Ausstellung; Inhalt; Überleitung; Schadenshaftung.
+- HGB § 516: Inhalt des Konnossements; Pflichtangaben; optionale Angaben.
+- HGB § 520: Haftung des Verfrachters für unrichtige Angaben im Konnossement.
 
-- Schiffs- und Registerdatenblatt
-- Hypotheken-/Arreststrategie
-- Werft-/Charter-Risikomatrix
-- Internationaler Zuständigkeits- und Vollstreckungsvermerk
+### Internationale Regime
+- Haager Regeln 1924: Grundregime für Haftungsgrenzen und Freistellungsgründe.
+- Haager-Visby-Regeln 1968: erhöhte SDR-Haftungslimits; Anwendungsvorrang in DE.
+- Hamburg Rules 1978: erweiterter Anwendungsbereich; erhöhte Haftungsgrenzen; seltenere Anwendung.
+- Rotterdam Rules 2009: noch nicht in Kraft; Verhandlungsrahmen für neue Verträge.
 
-## Red-Team-Fragen
+## Checkliste Konnossementsfall
+- [ ] Original-Konnossement (Set of 3) vorliegend oder geklärt ob Seawaybill
+- [ ] Konnossementsinhalt geprüft: Schiff; Verlader; Empfänger; Häfen; Beschreibung der Ladung
+- [ ] Order-Konnossement oder Straight Bill of Lading identifiziert
+- [ ] Claused oder Clean Bill of Lading festgestellt; Klauseln dokumentiert
+- [ ] Anwendbares Haftungsregime (HVR/Hamburg Rules) bestimmt
+- [ ] Verjährungsfrist: 1 Jahr (HVR Art. III Ziff. 6) ab Ablieferung notiert
 
-- Flagge/Register/gewöhnlicher Aufenthalt verwechselt
-- Arrest ohne Vollstreckungsfähigkeit
-- Klassifikations-/Versicherungsfolge fehlt
-- ITLOS/UNCLOS nur dekorativ statt relevant
+## Relevante Rechtsprechung
+- BGH zur Haftung des Verfrachters nach Haager-Visby-Regeln; Haftungsausschlüsse Art. IV.
+- OLG Hamburg zu Claused Bills of Lading; Haftung des Verfrachters gegenüber Indossatar.
+- BGH zum Rückgriff des Verfrachters auf den Ablader bei unrichtigen Konnossementsangaben.
 
-## Ausgabeformat
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+## Praxishinweis
 
-## Qualitätsregel
+Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestaltung sind ergänzend folgende Quellen heranzuziehen: (1) aktuelle BSH-Rundschreiben und Bekanntmachungen (abrufbar unter bsh.de); (2) Verwaltungsvorschriften der zuständigen Wasser- und Schifffahrtsverwaltung; (3) aktuelle Entscheidungen des LG und OLG Hamburg zu seerechtlichen Fragen (openjur.de); (4) ITLOS-Rechtsprechungsdatenbank (itlos.org). Bei internationalem Bezug ist stets zu prüfen, ob der betreffende Staat UNCLOS-, MLC- oder MARPOL-Vertragsstaat ist und ob ISAC 1952 gilt.
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+## Quellen
+- HGB § 513: https://dejure.org/gesetze/HGB/513.html
+- HGB § 502: https://dejure.org/gesetze/HGB/502.html
+- HGB § 606: https://dejure.org/gesetze/HGB/606.html
+- Hamburg Rules UNCTAD: https://unctad.org/system/files/official-document/aconf89d13_en.pdf
+- gesetze-im-internet HGB § 513: https://www.gesetze-im-internet.de/hgb/__513.html

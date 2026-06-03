@@ -1,57 +1,82 @@
 ---
 name: see-014-insolvenz-der-reederei
-description: "See- und Schifffahrtsrecht: Insolvenz der Reederei. Insolvenz der Reederei im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: 'Reederei ist insolvent; Insolvenzverwalter oder Glaeubiger klaert Absonderungsrechte an Schiffen. InsO §§ 49-51 (Absonderung Schiffshypothek); InsO § 21 (Sicherungsmassnahmen); HGB §§ 596-601 (Schiffsglaeubigerrechte); ZPO §§ 864-871 (Zwangsversteigerung). EuInsVO Recast 2015/848. Output: Glaeubigeranalyse und Verwertungsstrategie.'
 ---
 
-# Insolvenz Der Reederei
+# Insolvenz der Reederei – Gläubigerrechte und Verwertung
 
-## Arbeitsauftrag
+## Mandantenfall
+Eine Reederei mit acht Schiffen meldet Insolvenz an; die finanzierende Bank hat auf vier Schiffen erstrangige Hypotheken und fragt nach Absonderungsrechten. Ein Bergungsunternehmen hat kurz vor der Insolvenz eine Leistung erbracht; sein Schiffsgläubigerrecht kollidiert mit der Bankhypothek. Ein Insolvenzverwalter fragt ob er Schiffe weiterbetreiben oder sofort versteigern lassen soll.
 
-Insolvenz Der Reederei wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich See- und Schifffahrtsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+## Erste Schritte
+1. Insolvenzeröffnungsbeschluss und vorläufige Maßnahmen (InsO § 21) prüfen: starker oder schwacher vorläufiger Verwalter?
+2. Massezugehörigkeit der Schiffe feststellen: Schiffe gehören zur Insolvenzmasse (InsO § 35).
+3. Absonderungsrechte ermitteln: SchRG-Schiffshypotheken berechtigen zur Absonderung (InsO § 49).
+4. Gesetzliche Schiffsgläubigerrechte (HGB §§ 596-601) prüfen: gehen Hypotheken vor.
+5. Verwertungsentscheidung: Fortbetrieb (Charter-Einnahmen) vs. Sofortversteigerung (ZPO §§ 864-871).
+6. Internationale Aspekte: Schiffe in ausländischen Häfen; EuInsVO Recast oder Einzelanerkennungsverfahren.
 
-## Einstieg ohne Leerlauf
+## Rechtsrahmen
+- InsO §§ 35-55: Insolvenzmasse; Massezugehörigkeit der Schiffe.
+- InsO §§ 49-51: Absonderungsrecht der Hypothekengläubiger.
+- InsO § 21: Sicherungsmaßnahmen bei Insolvenzantrag.
+- HGB §§ 596-601: Schiffsgläubigerrechte mit Vorrang vor Hypotheken.
+- ZPO §§ 864-871: Zwangsversteigerung ins Schiff; Rangfolge der Erlösverteilung.
+- EuInsVO Recast 2015/848: internationale Anerkennung von Insolvenzverfahren in der EU.
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+## Prüfraster
+- Rangfolge der Gläubiger: gesetzliche Schiffsgläubiger (HGB §§ 596-601) dann Hypotheken dann Insolvenzmasse.
+- Sind Schiffe in ausländischen Häfen; drohen parallele Arrests?
+- Hat der Insolvenzverwalter Befugnis Charterverträge aufzuheben (InsO § 103)?
+- Deckt der erwartete Erlös die Absonderungsgläubiger vollständig?
+- Sind laufende P&I-Deckungen noch valide?
 
-## Norm- und Quellenanker
+## Typische Fallstricke
+- Insolvenzanfechtung (InsO §§ 129-147): kurz vor Insolvenz geleistete Hypothekentilgungen können angefochten werden.
+- Charterverträge nach InsO § 103: Verwalter kann wählen; Charterer haben oft Kündigungsrecht.
+- Crewlöhne als Schiffsgläubigerrechte (HGB § 597): vorrangig; wird im Verwertungsplan oft vergessen.
+- Ausländische Arrests durchbrechen deutschen Insolvenzbeschlag nicht automatisch.
 
-- HGB Seehandelsrecht, Schiffregister, Schiffsrechtegesetz, Schiffshypothek
-- Schiffbau, Werftvertrag, Charter, Konnossement, Havarie, Bergung, Wrack
-- Arrest/Pfändung, Flagge, P&I, Klassifikation, Insolvenz
-- UNCLOS/ITLOS Hamburg, internationale Zuständigkeit und Vollstreckung
+## Output
+- Gläubigeranalyse-Vermerk: Rang; Sicherung; Forderungshöhe je Gläubiger
+- Verwertungsstrategie: Fortbetrieb vs. Sofortversteigerung (Kostenvergleich)
+- Schriftsatz-Baustein Absonderungsantrag der Bank
 
-## Prüfroutine
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+## Erweiterte Normengrundlage
 
-## Typische Artefakte
+### Insolvenzrecht
+- InsO §§ 49-51: Absonderungsrecht der Hypothekengläubiger.
+- InsO §§ 103-119: Wahlrecht des Insolvenzverwalters bei laufenden Charter-Verträgen.
+- InsO §§ 129-147: Insolvenzanfechtung; Tilgungen in der Krise.
+- InsO § 166: Verwertungsrecht des Insolvenzverwalters für belastete Schiffe.
 
-- Schiffs- und Registerdatenblatt
-- Hypotheken-/Arreststrategie
-- Werft-/Charter-Risikomatrix
-- Internationaler Zuständigkeits- und Vollstreckungsvermerk
+### Seespezifische Aspekte
+- HGB § 611: Haftungsbeschränkung; endet grundsätzlich nicht durch Insolvenz.
+- SeeArbG §§ 88-96: Insolvenzschutz der Seeleute; Lohnforderungen; Repatriierung.
+- MLC 2006 Standard A2.6: Financial Security; Insolvenzschutz für Crew-Forderungen.
 
-## Red-Team-Fragen
+## Checkliste Reederei-Insolvenz
+- [ ] Insolvenzantrag und Verwalterbestellung bestätigt
+- [ ] Schiffe im Insolvenzbesitz identifiziert; Flaggen und Liegeplätze
+- [ ] Schiffshypotheken-Gläubiger vollständig erfasst; Absonderungsrechte analysiert
+- [ ] Crew-Lohnforderungen (gesetzliche Vorrechte HGB §§ 596-601) ermittelt
+- [ ] Charter-Verträge: Wahlrecht des Insolvenzverwalters nach InsO § 103 bewertet
+- [ ] Verwertungsstrategie je Schiff: Verkauf; Zwangsversteigerung; Verschrottung
 
-- Flagge/Register/gewöhnlicher Aufenthalt verwechselt
-- Arrest ohne Vollstreckungsfähigkeit
-- Klassifikations-/Versicherungsfolge fehlt
-- ITLOS/UNCLOS nur dekorativ statt relevant
+## Relevante Rechtsprechung
+- BGH zur Absonderung des Schiffshypothekengläubigers; InsO §§ 49-51.
+- BGH zur Anfechtung von Hypothekentilgungen in der Krise; InsO §§ 130-133.
+- OLG Hamburg zu Crew-Lohnforderungen als gesetzliche Vorrechte in der Reederei-Insolvenz.
 
-## Ausgabeformat
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+## Praxishinweis
 
-## Qualitätsregel
+Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestaltung sind ergänzend folgende Quellen heranzuziehen: (1) aktuelle BSH-Rundschreiben und Bekanntmachungen (abrufbar unter bsh.de); (2) Verwaltungsvorschriften der zuständigen Wasser- und Schifffahrtsverwaltung; (3) aktuelle Entscheidungen des LG und OLG Hamburg zu seerechtlichen Fragen (openjur.de); (4) ITLOS-Rechtsprechungsdatenbank (itlos.org). Bei internationalem Bezug ist stets zu prüfen, ob der betreffende Staat UNCLOS-, MLC- oder MARPOL-Vertragsstaat ist und ob ISAC 1952 gilt.
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+## Quellen
+- InsO §§ 49/50: https://www.gesetze-im-internet.de/inso/__49.html
+- HGB §§ 596-601: https://dejure.org/gesetze/HGB/596.html
+- ZPO §§ 864-871: https://dejure.org/gesetze/ZPO/864.html
+- EuInsVO Recast: https://dejure.org/gesetze/EuInsVO
+- BGH Insolvenz Schiff: https://www.bgh.de

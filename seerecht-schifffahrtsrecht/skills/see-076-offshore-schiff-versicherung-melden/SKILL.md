@@ -1,57 +1,91 @@
 ---
 name: see-076-offshore-schiff-versicherung-melden
-description: "See- und Schifffahrtsrecht: Offshore-Schiff: Versicherung melden. Versicherung melden für Offshore-Schiff im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: 'Offshore-Schiff: Schadensereignis an Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht.'
 ---
 
-# Offshore Schiff Versicherung Melden
+# Offshore-Schiff – Schadensfall bei Versicherung melden
 
-## Arbeitsauftrag
+## Mandantenfall
+Ein Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender erleidet Kollisionsschäden; P&I-Club und H&M-Versicherer werden koordiniert informiert. Ein Reeder verzögert die Schadensmeldung; Versicherer beruft sich auf VVG § 28 Obliegenheitsverletzung. Eine Bank aktiviert MII-Police nach Totalverlust eines hypothekenbelasteten Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender.
 
-Offshore Schiff Versicherung Melden wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich See- und Schifffahrtsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+## Erste Schritte
+1. P&I-Club sofort informieren; Korrespondenten vor Ort aktivieren.
+2. H&M-Versicherer (Kasko) unverzueglich benachrichtigen; DTV-Fristen beachten.
+3. MII-Police der Bank aktivieren, sofern Hypothekenglaeubigerbank betroffen.
+4. Schadensdokumentation: Fotos; Sachverstaendige; Logbuecher; Klassenachricht sichern.
+5. Schadensminderungspflicht (VVG § 82): Notmassnahmen veranlassen und dokumentieren.
+6. Alle Beteiligten koordinieren: P&I; H&M; MII; Klassifikator; Versicherungsmakler.
 
-## Einstieg ohne Leerlauf
+## Rechtsrahmen
+- VVG §§ 28-30 Obliegenheiten; VVG § 82 Schadensminderung; DTV-Klauseln Kasko 2009; IGP&I Club Rules.
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+## Prüfraster
+- Ist Meldung fristgerecht an alle Versicherer erfolgt?
+- Sind Schadensminderungsmassnahmen dokumentiert?
+- Greift MII-Police der Bank; sind alle Voraussetzungen erfuellt?
+- Liegt ein Deckungswiderspruch zwischen H&M und P&I vor?
+- Ist der Klassifikator informiert; droht Klasse-Suspension?
 
-## Norm- und Quellenanker
+## Typische Fallstricke
+- Verspaetete P&I-Meldung fuehrt zu Deckungsverlust (Club Rule: prompt notification).
+- MII greift nur wenn Bank nicht als Mitversicherter in H&M-Police steht.
+- H&M deckt nur 3/4 der Kollisionshaftung; P&I nimmt 1/4.
 
-- HGB Seehandelsrecht, Schiffregister, Schiffsrechtegesetz, Schiffshypothek
-- Schiffbau, Werftvertrag, Charter, Konnossement, Havarie, Bergung, Wrack
-- Arrest/Pfändung, Flagge, P&I, Klassifikation, Insolvenz
-- UNCLOS/ITLOS Hamburg, internationale Zuständigkeit und Vollstreckung
+## Output
+Meldecheckliste (P&I/H&M/MII) und Fristenübersicht für Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender.
 
-## Prüfroutine
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+## Vertiefung: P&I-Club-Meldesystem
+P&I-Clubs arbeiten nach dem Mutual-Insurance-Prinzip: Mitglieder (Reeder) sichern sich gegenseitig ab; Prämien werden nachträglich angepasst. Für die Deckungsauslösung entscheidend ist die prompte Meldung an den zuständigen Club-Korrespondenten im Hafenstaat. Alle 13 IG-Clubs haben weltweite Korrespondentennetzwerke; im Schadenfall sofort aktivieren.
 
-## Typische Artefakte
+## Koordination mehrerer Versicherer
+Bei einem Schiffsunfall sind typischerweise beteiligt: H&M-Versicherer (Schaden am eigenen Schiff); P&I-Club (Drittschäden; Personenschäden; Umwelt); ggf. War-Risk-Versicherer (politische Risiken); Cargo-Versicherer der Ladung (vom Befrachter beauftragt). Koordination ist essenziell um Deckungslücken und Doppelerstattungen zu vermeiden.
 
-- Schiffs- und Registerdatenblatt
-- Hypotheken-/Arreststrategie
-- Werft-/Charter-Risikomatrix
-- Internationaler Zuständigkeits- und Vollstreckungsvermerk
+## Beweissicherung nach Schadensereignis
+Unmittelbare Maßnahmen: Unfallstelle fotografieren; beschädigte Teile sichern; Zeugenaussagen protokollieren; Logbücher und Stundenbücher sofort sichern und beglaubigen lassen. Externe Gutachter (Havariekommissar; Klasseninspektor; P&I-Club-Surveyor) sind unverzüglich zu bestellen. Digitale Daten (AIS; VDR; ECDIS) sichern und auf Backup-Medien kopieren.
 
-## Red-Team-Fragen
 
-- Flagge/Register/gewöhnlicher Aufenthalt verwechselt
-- Arrest ohne Vollstreckungsfähigkeit
-- Klassifikations-/Versicherungsfolge fehlt
-- ITLOS/UNCLOS nur dekorativ statt relevant
+## Checkliste Schadensmeldung
+- [ ] P&I-Club-Korrespondent am Schadensort informiert (innerhalb 24 Stunden)
+- [ ] H&M-Versicherer unverzüglich benachrichtigt; DTV-Fristen eingehalten
+- [ ] MII-Police der Bank aktiviert (wenn Hypothekengläubiger betroffen)
+- [ ] Schadensdokumentation vollständig: Fotos; Gutachter; Logbücher; Zeugenaussagen
+- [ ] Schadensminderungsmaßnahmen veranlasst und dokumentiert (VVG § 82)
+- [ ] Klasseninspektor bestellt; ggf. Klasse-Suspension akzeptiert
+- [ ] Alle Versicherer koordiniert; Deckungsüberschneidungen geklärt
+- [ ] Aufräumungskosten aus P&I-Pollution-Deckung angemeldet
 
-## Ausgabeformat
+## Relevante Rechtsprechung
+- BGH zur Obliegenheitsverletzung (VVG § 28) bei Schiffsversicherung; Kausalitätsgegenbeweis.
+- OLG Hamburg zu P&I-Deckungsversagung bei verspäteter Meldung; Club-Rule-Auslegung.
+- BGH zu Mortgagee's Interest Insurance; Verhältnis zur H&M-Police; Schutzbereich.
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+## Normen im Überblick
+- VVG § 28: Verletzung vertraglicher Obliegenheiten; Leistungsfreiheit bei Vorsatz; Leistungskürzung bei grober Fahrlässigkeit.
+- VVG § 78: Mehrfachversicherung; Gesamtschuldner der Versicherer; Ausgleich.
+- VVG § 82: Schadensminderungsobliegenheit; Aufwendungsersatz für Rettungskosten.
+- VVG §§ 130-136: Haftpflichtversicherung; Direktklagerecht des Geschädigten.
+- DTV-Klauseln Kasko 2009 § 2: versicherte Gefahren und Schäden; Selbstbehalte.
 
-## Qualitätsregel
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+## Vertiefung Schadensmeldung
+
+### Koordination der Versicherer
+Bei einem Kaskoschaden sind in der Regel mehrere Versicherer betroffen: H&M-Versicherer für den Sachschaden; P&I-Club für die Haftpflicht gegenüber Dritten; MII für den Hypothekengläubiger. Die Koordination ist Aufgabe des Schiffsanwalts.
+
+### Subrogation
+Der H&M-Versicherer, der den Schaden reguliert hat, tritt in die Forderungen des Reeders gegen den Schädiger ein (VVG § 86). Der P&I-Club zahlt nur nach dem Pay-to-be-Paid-Prinzip; der Reeder muss den Schaden erst selbst zahlen und wird dann vom Club erstattet.
+
+## Normen-Synopse Versicherung
+| Norm | Inhalt |
+|------|--------|
+| VVG § 28 | Obliegenheitsverletzung |
+| VVG § 82 | Schadensminderung |
+| VVG § 86 | Forderungsübergang |
+| DTV-Kasko 2009 | Versicherte Gefahren |
+
+## Quellen
+- VVG §§ 28-30: https://www.gesetze-im-internet.de/vvg/__28.html
+- DTV-Klauseln Kasko: https://www.deutscher-transport-versicherungsverband.de
+- IGP&I: https://www.igpandi.org
+- openjur P&I-Streit: https://www.openjur.de

@@ -1,57 +1,80 @@
 ---
 name: see-003-schiffsregister-und-eigentum
-description: "See- und Schifffahrtsrecht: Schiffsregister und Eigentum. Schiffsregister und Eigentum im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: 'Mandant kauft Schiff und klaert Eigentumslage: Pruefung des Schiffsregisters auf Hypotheken; Vormerkungen; Arreste nach SchRG §§ 8-74 und SchRegO §§ 3-19. Eigentumsuebergang (SchRG § 2 Eintragungsprinzip); Rangfolge; Loeschungsvoraussetzungen. Output: Registerpruefprotokoll und Due-Diligence-Vermerk fuer Schiffskauf.'
 ---
 
-# Schiffsregister Und Eigentum
+# Schiffsregister und Eigentum – Due-Diligence-Prüfung
 
-## Arbeitsauftrag
+## Mandantenfall
+Eine Investmentgesellschaft kauft einen gebrauchten Containerfrachter und benötigt Gewissheit über lastenfreies Eigentum vor Kaufpreiszahlung. Eine Bank prüft, ob ihr Grundpfandrecht an einem Schiff erstrangig eingetragen ist. Ein Insolvenzverwalter stellt fest, welche Schiffe der Insolvenzmasse gehören und welche Belastungen darauf ruhen.
 
-Schiffsregister Und Eigentum wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich See- und Schifffahrtsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+## Erste Schritte
+1. Registerauszug beim zuständigen Registergericht anfordern: Hamburg; Bremen; Lübeck; Rostock; Emden oder Duisburg-Ruhrort für Binnenschiffe.
+2. Abteilung I (Eigentumsrecht): Eingetragener Eigentümer; Eigentümerwechsel; Eigentümer-Vormerkungen.
+3. Abteilung II (Lasten): Schiffshypotheken nach SchRG §§ 8-74; Pfändungsvermerke; Arreste; Nießbrauch.
+4. Gesetzliche Schiffsgläubigerrechte (HGB §§ 596-601) ermitteln; gehen Hypotheken vor.
+5. Eigentumsübergang: SchRG § 2 – Einigung und Eintragung nötig; bloßer Kaufvertrag überträgt kein Eigentum.
+6. Löschungsvoraussetzungen für Altlasten ermitteln: Löschungsbewilligung oder Gerichtsbeschluss nötig.
 
-## Einstieg ohne Leerlauf
+## Rechtsrahmen
+- SchRG § 2: Eigentumsübergang nur durch Einigung und Eintragung; Konstitutivprinzip.
+- SchRG §§ 8-74: Schiffshypothek; Entstehung; Rang; Übertragung; Erlöschen.
+- HGB §§ 596-601: gesetzliche Schiffsgläubiger mit Vorrang vor Hypotheken.
+- SchRegO §§ 3-19: Registerführung; Zuständigkeit; Eintragungsverfahren.
+- BGB §§ 892-893: Gutglaubensschutz im Register; gilt analog für Schiffsregister.
+- ZPO §§ 864-871: Zwangsvollstreckung in eingetragene Schiffe.
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+## Prüfraster
+- Stimmt eingetragener Eigentümer mit dem Veräußerer im Kaufvertrag überein?
+- Welche Hypotheken lasten auf dem Schiff: Betrag; Rang; Fälligkeit; Gläubiger?
+- Sind gesetzliche Schiffsgläubigerrechte (HGB §§ 596 ff.) entstanden?
+- Bestehen Pfändungs- oder Arrestvermerke, die den Eigentumsübergang gefährden?
+- Sind alle Löschungsbewilligungen der Hypothekengläubiger vorhanden?
 
-## Norm- und Quellenanker
+## Typische Fallstricke
+- Gesetzliche Schiffsgläubigerrechte (HGB § 597: Kapitäns-/Besatzungslöhne; Hafengebühren; Bergungskosten) entstehen ohne Registereintragung und gehen Hypotheken vor.
+- Eigentumsübertragung setzt Voreintragung des Verkäufers voraus.
+- Auslandshypotheken bei Bare-Boat-Registrierung können parallel existieren.
+- Arreste kurz vor Closing können den Eigentumsübergang verzögern.
 
-- HGB Seehandelsrecht, Schiffregister, Schiffsrechtegesetz, Schiffshypothek
-- Schiffbau, Werftvertrag, Charter, Konnossement, Havarie, Bergung, Wrack
-- Arrest/Pfändung, Flagge, P&I, Klassifikation, Insolvenz
-- UNCLOS/ITLOS Hamburg, internationale Zuständigkeit und Vollstreckung
+## Output
+- Registerprüfprotokoll (Abteilungen I/II/III)
+- Due-Diligence-Vermerk: Eigentumsklarheit; Lasten; offene Fragen
+- Checkliste Löschungsvoraussetzungen
 
-## Prüfroutine
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+## Erweiterte Normengrundlage
 
-## Typische Artefakte
+### Registerrecht
+- SchRegO §§ 8-30: Eintragungsverfahren; Antragsteller; Unterlagen; Fristen; Eintragungswirkung.
+- SchRegO §§ 31-50: Änderungen; Löschungen; Berichtigungen im Schiffsregister.
+- SchRG § 3: Eigentumsvermutung durch Eintragung; gutgläubiger Erwerb.
 
-- Schiffs- und Registerdatenblatt
-- Hypotheken-/Arreststrategie
-- Werft-/Charter-Risikomatrix
-- Internationaler Zuständigkeits- und Vollstreckungsvermerk
+### Eigentumsübergang
+- SchRG § 2: Übereignung eines eingetragenen Seeschiffes durch Einigung und Eintragung.
+- BGB § 929 ff.: Grundsatz Übereignung beweglicher Sachen; verdrängt durch SchRG § 2 für eingetragene Schiffe.
+- SchRG §§ 60-68: Wirkung der Eintragung gegen Dritte; Gutglaubensschutz.
 
-## Red-Team-Fragen
+## Checkliste Registerprüfung
+- [ ] Registerauszug Abt. I: Eigentümereintragung; Name; IMO; Flagge; BRZ
+- [ ] Registerauszug Abt. II: alle Hypotheken; Beträge; Gläubiger; Rang
+- [ ] Registerauszug Abt. III: Arreste; Vormerkungen; Veräußerungsverbote
+- [ ] Richtigkeit der Eintragung mit tatsächlichen Verhältnissen verglichen
+- [ ] Negativattest beim Registergericht beantragt
 
-- Flagge/Register/gewöhnlicher Aufenthalt verwechselt
-- Arrest ohne Vollstreckungsfähigkeit
-- Klassifikations-/Versicherungsfolge fehlt
-- ITLOS/UNCLOS nur dekorativ statt relevant
+## Relevante Rechtsprechung
+- BGH zur Konstitutivwirkung der Eintragung bei Schiffseigentum; kein Eigentumsübergang ohne Eintragung.
+- OLG Hamburg zur Berichtigungsklage nach SchRG § 3 bei unrichtiger Registereintragung.
+- LG Hamburg zur Vormerkung im Schiffsregister; Schutz des Käufers vor Zwischeneintragungen.
 
-## Ausgabeformat
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+## Praxishinweis
 
-## Qualitätsregel
+Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestaltung sind ergänzend folgende Quellen heranzuziehen: (1) aktuelle BSH-Rundschreiben und Bekanntmachungen (abrufbar unter bsh.de); (2) Verwaltungsvorschriften der zuständigen Wasser- und Schifffahrtsverwaltung; (3) aktuelle Entscheidungen des LG und OLG Hamburg zu seerechtlichen Fragen (openjur.de); (4) ITLOS-Rechtsprechungsdatenbank (itlos.org). Bei internationalem Bezug ist stets zu prüfen, ob der betreffende Staat UNCLOS-, MLC- oder MARPOL-Vertragsstaat ist und ob ISAC 1952 gilt.
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+## Quellen
+- SchRG: https://www.gesetze-im-internet.de/schrg/BJNR014990940.html
+- SchRegO: https://dejure.org/gesetze/SchRegO
+- HGB §§ 596-601: https://dejure.org/gesetze/HGB/596.html
+- BSH: https://www.bsh.de/DE/THEMEN/Schifffahrt/Schiffsregister/schiffsregister_node.html
+- BGH Schiffsregister: https://www.bgh.de

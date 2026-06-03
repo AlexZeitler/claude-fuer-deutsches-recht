@@ -1,57 +1,80 @@
 ---
 name: see-017-seearbeitsrecht-schnittstelle
-description: "See- und Schifffahrtsrecht: Seearbeitsrecht Schnittstelle. Seearbeitsrecht Schnittstelle im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: 'Seemann oder Reederei klaert Arbeitsverhältnis; Heurvertrag; Repatriierung oder MLC-Beschwerde. SeeArbG §§ 1-130 (Seearbeitsgesetz); MLC 2006 Titel 1-4; STCW-Uebereinkommen; Besatzungsstaerke (BSH Safe-Manning); Ruhezeiten-Verstoss; Krankenlohn 16 Wochen. Output: Heurvertrag-Analyse und MLC-Compliance-Check.'
 ---
 
-# Seearbeitsrecht Schnittstelle
+# Seearbeitsrecht – Heurvertrag und MLC-Compliance
 
-## Arbeitsauftrag
+## Mandantenfall
+Ein philippinischer Kapitän wird während einer Reise erkrankt und repatriiert; er fordert Krankenlohn für 16 Wochen; der Reeder bestreitet die Höhe. Ein Seemann beschwert sich beim Flaggenstaatinspektor weil Ruhezeiten systematisch unterschritten werden; MLC-Beschwerdeverfahren wird eingeleitet. Eine Reederei möchte ihre Crew unter deutschem Recht beschäftigen und fragt nach Mindestlöhnen.
 
-Seearbeitsrecht Schnittstelle wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich See- und Schifffahrtsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+## Erste Schritte
+1. Arbeitsverhältnis qualifizieren: Seemann = Arbeitnehmer nach SeeArbG § 3; Dienstverhältnis nach Heuervertrag.
+2. Heuervertrag prüfen: schriftliche Form (SeeArbG § 27); Pflichtangaben; Heurrate; Urlaubsanspruch; Repatriierungsrecht.
+3. MLC-Compliance prüfen: DMLC Part I und Part II; Titel 1-4 der MLC 2006.
+4. Ruhezeiten kontrollieren: MLC 2006 Reg. 2.3 – max. 14 Stunden Arbeit/24 Stunden oder max. 72 Stunden/7 Tage.
+5. Repatriierungsrecht klären: SeeArbG §§ 74-80; Reeder trägt Kosten; Ausnahme bei Entlassung aus wichtigem Grund.
+6. Sozialsicherung: SeeArbG § 99 – Krankenversorgung; Krankenlohn mindestens 16 Wochen (MLC 2006 Reg. 4.2).
 
-## Einstieg ohne Leerlauf
+## Rechtsrahmen
+- SeeArbG §§ 1-130: Geltungsbereich; Heuervertrag; Arbeitsbedingungen; MLC-Umsetzung.
+- MLC 2006 Titel 1: Mindestalter; Berufszeugnis; Gesundheitszeugnis.
+- MLC 2006 Titel 2: Heuervertrag; Löhne; Ruhezeiten; Urlaub; Repatriierung.
+- MLC 2006 Titel 4: Gesundheitsschutz; medizinische Versorgung; Krankenlohn 16 Wochen.
+- STCW-Konvention: Befähigungszeugnisse für Seeleute; Standards für Ausbildung und Wachdienst.
+- SeeArbG § 42: Besatzungsstärke gemäß Safe-Manning-Zeugnis des BSH.
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+## Prüfraster
+- Ist der Heuervertrag schriftlich und enthält alle Pflichtangaben (SeeArbG § 27)?
+- Werden Ruhezeiten nach MLC 2006 Reg. 2.3 eingehalten; gibt es Dokumentation?
+- Hat der Seemann aktuelles Seafarer's Medical Certificate nach STCW?
+- Deckt die P&I-Deckung Repatriierungskosten; Krankenlohn und Haftung?
+- Ist Besatzungsstärke im Einklang mit BSH-Safe-Manning-Zeugnis?
 
-## Norm- und Quellenanker
+## Typische Fallstricke
+- Filipinoische Seeleute: POEA-Vertrag kann abweichende Mindeststandards setzen.
+- Ruhezeit-Dokumentation fehlt; BSU oder PSC-Inspektor zieht Konsequenzen.
+- Krankenlohn-Verpflichtung (SeeArbG § 99) gilt unabhängig vom Verschulden des Reeders.
+- Entlassung ohne Einhalten der Schiedsklausel im Heuervertrag ist formell unwirksam.
 
-- HGB Seehandelsrecht, Schiffregister, Schiffsrechtegesetz, Schiffshypothek
-- Schiffbau, Werftvertrag, Charter, Konnossement, Havarie, Bergung, Wrack
-- Arrest/Pfändung, Flagge, P&I, Klassifikation, Insolvenz
-- UNCLOS/ITLOS Hamburg, internationale Zuständigkeit und Vollstreckung
+## Output
+- Heurvertrag-Analyse: Vollständigkeit; SeeArbG und MLC-Compliance
+- MLC-Compliance-Check Tabelle (Titel 1-4)
+- Repatriierungsrecht-Vermerk
+- Musterbeschwerdeschreiben MLC-Verfahren
 
-## Prüfroutine
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+## Erweiterte Normengrundlage
 
-## Typische Artefakte
+### Seearbeitsrecht
+- SeeArbG §§ 1-130: Grundgesetz des deutschen Seearbeitsrechts; Heuerverhältnis; Pflichten.
+- SeeArbG §§ 17-40: Heuervertrag; Schriftform; Mindestinhalt; Laufzeit.
+- SeeArbG §§ 88-96: Insolvenzschutz; Repatriierungs- und Lohnansprüche.
 
-- Schiffs- und Registerdatenblatt
-- Hypotheken-/Arreststrategie
-- Werft-/Charter-Risikomatrix
-- Internationaler Zuständigkeits- und Vollstreckungsvermerk
+### MLC 2006
+- MLC 2006 Title 1: Mindestanforderungen für Seeleute; Alter; Ausbildung; Gesundheit.
+- MLC 2006 Title 2: Beschäftigungsbedingungen; Heuer; Ruhezeiten; Urlaub.
+- MLC 2006 Title 3: Unterkunft; Verpflegung; Freizeiteinrichtungen.
+- MLC 2006 Title 4: Gesundheitsschutz; Fürsorge; soziale Sicherheit.
+- MLC 2006 Title 5: Einhaltung und Durchsetzung; PSC; Zertifizierung.
 
-## Red-Team-Fragen
+## Checkliste Seearbeitsrechtsfall
+- [ ] SeeArbG-Geltungsbereich geprüft; Schiff in internationaler Fahrt?
+- [ ] Heuerverträge auf MLC-Konformität geprüft (DMLC Part I und II vorliegend?)
+- [ ] Ruhezeiten gemäß MLC Title 2 Reg. 2.3 eingehalten
+- [ ] Insolvenzschutz (MLC Standard A2.6) vorhanden; Financial Security
+- [ ] Repatriierungspflicht (SeeArbG § 74) bekannt und gesichert
+- [ ] Besatzungsliste und Personalzettel aktuell
 
-- Flagge/Register/gewöhnlicher Aufenthalt verwechselt
-- Arrest ohne Vollstreckungsfähigkeit
-- Klassifikations-/Versicherungsfolge fehlt
-- ITLOS/UNCLOS nur dekorativ statt relevant
+## Relevante Rechtsprechung
+- BAG zur Anwendung des SeeArbG auf ausländische Besatzungen auf deutschen Schiffen.
+- OLG Hamburg zur Klage von Seeleuten auf ausstehende Heuer; gesetzliche Vorrechte HGB § 596.
+- ITLOS M/V Saiga No. 2 (1999): Schutz der Crew; Ausübung des Hafenstaatrechts.
 
-## Ausgabeformat
+## Quellen
+- SeeArbG: https://www.gesetze-im-internet.de/seearbg/
+- MLC 2006 ILO: https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C186
+- BSH Safe Manning: https://www.bsh.de/DE/THEMEN/Schifffahrt/Seefahrer/seefahrer_node.html
+- STCW Convention IMO: https://www.imo.org/en/OurWork/HumanElement/Pages/STCW-Conv.aspx
+- openjur Seearbeitsrecht: https://www.openjur.de
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
-
-## Qualitätsregel
-
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.

@@ -1,57 +1,93 @@
 ---
 name: see-038-schiffbauwerk-closing-planen
-description: "See- und Schifffahrtsrecht: Schiffbauwerk: Closing planen. Closing planen für Schiffbauwerk im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: 'Schiffbauwerk: Closing eines Schiff im Bau (Schiffbauwerk)-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan.'
 ---
 
-# Schiffbauwerk Closing Planen
+# Schiffbauwerk – Closing planen
 
-## Arbeitsauftrag
+## Mandantenfall
+Der Kauf eines Schiff im Bau (Schiffbauwerk) soll abgeschlossen werden; Hypotheken sind abzulösen. Ein Käufer besteht auf lastenfreier Lieferung mit gültiger Klasse und MLC-Zertifikat. Eine Bank koordiniert das Closing bei syndizierten Finanzierungen.
 
-Schiffbauwerk Closing Planen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich See- und Schifffahrtsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+## Erste Schritte
+1. Ablosebetraege aller Hypothekenglaeubiger anfordern; Stichtag abstimmen.
+2. Loeschungsbewilligungen (SchRG § 19) beschaffen; zeitlich koordinieren.
+3. Escrow-Konto einrichten: Kaufpreis gegen Loeschungsbestaetigung.
+4. Eigentumsuebergang (SchRG § 2) und Hypothekenloesung gleichzeitig fuer Schiff im Bau (Schiffbauwerk).
+5. Zertifikate (Klasse; ISM; MLC; ISPS) auf neuen Eigentuemer ummelden.
+6. Registerauszug nach Closing beschaffen; Closing-Memo erstellen.
 
-## Einstieg ohne Leerlauf
+## Rechtsrahmen
+- SchRG §§ 2/19; SchRegO §§ 13-19; FlaggRG §§ 3-5; ISM-Code Kap. 3 SMC-Neuzertifizierung.
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+## Prüfraster
+- Sind alle Loeschungsbewilligungen zeitlich koordiniert?
+- Ist der Escrow-Mechanismus wasserdicht gegen Insolvenz des Verkaeufers?
+- Sind alle Zertifikate fuer Schiff im Bau (Schiffbauwerk) auf neuen Eigentuemer vorbereitet?
+- Ist der Flaggenwechsel (wenn vorgesehen) vorbereitet?
+- Ist die Vollmacht fuer den Registerantrag aktuell?
 
-## Norm- und Quellenanker
+## Typische Fallstricke
+- Zahlung ohne simultane Loeschung: Hypothek bleibt trotz Zahlung eingetragen.
+- ISM-/MLC-Luecke nach Eigentumsuebergang; Port-State-Detention droht.
+- Nachranghypotheken blockieren Closing wenn Erstrangglaeubigerbank nicht kooperiert.
 
-- HGB Seehandelsrecht, Schiffregister, Schiffsrechtegesetz, Schiffshypothek
-- Schiffbau, Werftvertrag, Charter, Konnossement, Havarie, Bergung, Wrack
-- Arrest/Pfändung, Flagge, P&I, Klassifikation, Insolvenz
-- UNCLOS/ITLOS Hamburg, internationale Zuständigkeit und Vollstreckung
+## Output
+Closing-Checkliste und Zeitplan mit Abhängigkeiten für Schiff im Bau (Schiffbauwerk).
 
-## Prüfroutine
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+## Vertiefung: Closing-Mechanismus im Schiffskauf
+Das Closing eines Schiffskaufs ist der Moment wo Eigentum und Risiko auf den Käufer übergehen. Technisch besteht das Closing aus: (1) Zahlung des Kaufpreises (oder freigabe aus Escrow); (2) Übergabe der Delivery Documents; (3) Eintragung des Eigentumsübergangs im Schiffsregister (SchRG § 2). Alle drei Schritte sollen simultan erfolgen; in der Praxis nutzt man Softclose-Mechanismen.
 
-## Typische Artefakte
+## Delivery Documents Checkliste
+Folgende Originalunterlagen müssen beim Closing übergeben werden: Klasse-Zertifikat; Delivery and Acceptance Certificate; Protokoll zur Übergabe von Bunker und Schmieröl; alle Schiffszertifikate (IOPP; IAPP; MLC; ISSC; BSH-Fahrterlaubnis); Logbücher; technische Handbücher. Kopien werden bei der abgebenden Reederei archiviert.
 
-- Schiffs- und Registerdatenblatt
-- Hypotheken-/Arreststrategie
-- Werft-/Charter-Risikomatrix
-- Internationaler Zuständigkeits- und Vollstreckungsvermerk
+## Nachsorge nach dem Closing
+Nach dem Closing: Neuanmeldung beim Flaggenregister; Beantragung neuer DOC beim ISM-Code-Unternehmen; MLC-Erneuerung; P&I-Club-Eintritt des Käufers; Benachrichtigung aller Charterer und Hafenbehörden über den Eigentümerwechsel. Closing-Memo erstellen mit Datum; Kaufpreis; alle übergebenen Dokumente; Beteiligten.
 
-## Red-Team-Fragen
 
-- Flagge/Register/gewöhnlicher Aufenthalt verwechselt
-- Arrest ohne Vollstreckungsfähigkeit
-- Klassifikations-/Versicherungsfolge fehlt
-- ITLOS/UNCLOS nur dekorativ statt relevant
+## Checkliste Closing-Vorbereitung
+- [ ] Ablösebeträge aller Hypothekengläubiger angefordert; Stichtag fixiert
+- [ ] Löschungsbewilligungen (SchRG § 19) von allen Gläubigern vorliegend
+- [ ] Escrow-Konto eingerichtet; Escrow-Agent benannt
+- [ ] Eigentumsübergang (SchRG § 2) und Hypothekenlöschung zeitlich koordiniert
+- [ ] Alle Zertifikate (Klasse; ISM/DOC/SMC; MLC/DMLC; ISSC; BSH) auf neuen Eigentümer vorbereitet
+- [ ] P&I-Club-Eintritt des Käufers bestätigt
+- [ ] Delivery and Acceptance Certificate vorbereitet
+- [ ] Registerauszug nach Closing beauftragt
+- [ ] Closing-Memo-Vorlage bereitgestellt
 
-## Ausgabeformat
+## Relevante Rechtsprechung
+- BGH zur Wirksamkeit des Eigentumsübergangs an Schiffen; Einigung und Eintragung als konstitutive Voraussetzungen.
+- OLG Hamburg zur Auslegung von Closing-Conditions in MOA-Verträgen; Delivery-Condition-Klauseln.
+- BGH zur Haftung des Verkäufers für nach Closing entstehende Schiffsgläubigerrechte; Freistellungspflicht.
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+## Normen im Überblick
+- SchRG § 2: Eigentumsübergang durch Einigung und Eintragung; nicht durch Besitzübergabe.
+- SchRG § 19: Löschung der Hypothek; Form; Zeitpunkt; Wirkung.
+- SchRegO §§ 13-19: Eintragungsverfahren; Antragsteller; Fristen.
+- FlaggRG §§ 3-5: Berechtigung zur Flagge; Pflichten bei Eigentumsübergang.
+- ISM-Code Kap. 3: SMC-Gültigkeit und Neuausstellung nach Eigentümerwechsel.
+- MLC 2006 Reg. 5.1.3: Neuausstellung MLC-Zertifikat nach Eigentumsübergang und Flaggenwechsel.
 
-## Qualitätsregel
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+## Vertiefung Closing
+
+### Simultaneous Closing
+Das "simultaneous closing" (Zug-um-Zug-Abwicklung) ist bei Schiffsverkäufen mit Kreditfinanzierung Standard. Ablöse der Altfinanzierung; Neuhypothek für den Käufer; Eigentumsumschreibung; Kaufpreiszahlung — alles erfolgt zeitgleich über ein Escrow-Konto.
+
+### Zertifikatsübergang
+Klasse- und ISM-Zertifikate bleiben nicht automatisch mit dem Schiff verbunden; sie sind personengebunden (SMC an den Reeder; DOC an den Betreiber). Der Käufer muss rechtzeitig seine eigene ISM-Zulassung (DOC) und das SMC für das Schiff beantragen.
+
+## Normen-Synopse Closing
+| Norm | Inhalt |
+|------|--------|
+| SchRG § 2 | Eigentumsübergang |
+| SchRG § 19 | Hypothekenlöschung |
+| FlaggRG § 3 | Flagge bei Eigentümerwechsel |
+| MLC Reg. 5.1.3 | MLC-Zertifikat |
+
+## Quellen
+- SchRG §§ 2/19: https://www.gesetze-im-internet.de/schrg/BJNR014990940.html
+- FlaggRG: https://www.gesetze-im-internet.de/flaggrg/
+- BSH: https://www.bsh.de/DE/THEMEN/Schifffahrt/Schiffsregister/schiffsregister_node.html
+- SchRegO: https://dejure.org/gesetze/SchRegO

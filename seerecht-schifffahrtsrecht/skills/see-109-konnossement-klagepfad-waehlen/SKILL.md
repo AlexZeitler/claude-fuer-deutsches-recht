@@ -1,57 +1,91 @@
 ---
 name: see-109-konnossement-klagepfad-waehlen
-description: "See- und Schifffahrtsrecht: Konnossement: Klagepfad wählen. Klagepfad wählen für Konnossement im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: 'Konnossement: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Konnossements-Transaktion (Bill of Lading): Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose.'
 ---
 
-# Konnossement Klagepfad Waehlen
+# Konnossement – Klagepfad wählen
 
-## Arbeitsauftrag
+## Mandantenfall
+Eine Bank will nach Kreditausfall aus der Hypothek am Konnossements-Transaktion (Bill of Lading) vollstrecken. Mehrere Gläubiger streiten um den Versteigerungserlös des Konnossements-Transaktion (Bill of Lading). Ein Reeder prüft, ob ein freiwilliger Verkauf günstiger ist als die Zwangsversteigerung.
 
-Konnossement Klagepfad Waehlen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich See- und Schifffahrtsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+## Erste Schritte
+1. Schiffswert des Konnossements-Transaktion (Bill of Lading) ermitteln: aktuelles Schätzgutachten beschaffen.
+2. Glaeubigerrangfolge aufstellen: gesetzliche Vorrechte dann Hypotheken nach Rang.
+3. ZPO §§ 864-871 Zwangsversteigerung: Zeitaufwand; Kosten; erwarteter Erloes.
+4. Einvernehmlichen Verkauf pruefen: schneller und guenstiger wenn Reeder kooperiert.
+5. Insolvenzantrag als taktisches Mittel: Arrests anderer Glaeubiger stoppen.
+6. Schiedsklausel im Kreditvertrag pruefen: London Arbitration oder deutsches Gericht?
 
-## Einstieg ohne Leerlauf
+## Rechtsrahmen
+- ZPO §§ 864-871 Zwangsversteigerung; InsO §§ 49-51 Absonderung; HGB §§ 596-601 Vorrangrechte; SchRG §§ 59-74 Rang.
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+## Prüfraster
+- Uebersteigt Schiffswert des Konnossements-Transaktion (Bill of Lading) die Kreditvaluta?
+- Gibt es erstrangige Vorrechte die den Erloes aufzehren?
+- Ist einvernehmlicher Verkauf moeglich?
+- Droht auslaendische Vollstreckung das deutsche Verfahren zu unterlaufen?
+- Ist Insolvenzantrag taktisch sinnvoll?
 
-## Norm- und Quellenanker
+## Typische Fallstricke
+- Gesetzliche Schiffsglaeubigerrechte (Crew-Loehne/Hafen) fressen Erloes vor Hypotheken.
+- Zwangsversteigerung dauert; Schiffswert sinkt durch Stillstand im Hafen.
+- Auslaendische Arrests parallel zum deutschen Verfahren.
 
-- HGB Seehandelsrecht, Schiffregister, Schiffsrechtegesetz, Schiffshypothek
-- Schiffbau, Werftvertrag, Charter, Konnossement, Havarie, Bergung, Wrack
-- Arrest/Pfändung, Flagge, P&I, Klassifikation, Insolvenz
-- UNCLOS/ITLOS Hamburg, internationale Zuständigkeit und Vollstreckung
+## Output
+Klagepfad-Analyse und Erlösprognose (Tabelle Kosten vs. Erlös) für Konnossements-Transaktion (Bill of Lading).
 
-## Prüfroutine
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+## Vertiefung: Gerichtsstand und Schiedsklauseln im Seerecht
+Im deutschen Seerecht gilt für Schiffsarrest die ZPO § 919 (Gericht am Liegeplatz). Für streitige Klagen über Schiffshypotheken gilt ZPO § 29c (besonderer Gerichtsstand) oder der allgemeine Gerichtsstand. International ist London Arbitration (LMAA-Schiedsordnung) der Marktstandard für Charterparty-Streitigkeiten; Hamburg Arbitration (DIS-Regeln) ist eine deutsche Alternative.
 
-## Typische Artefakte
+## Vollstreckung ausländischer Urteile und Schiedssprüche
+Ausländische Urteile aus EU-Staaten werden nach EuGVVO 2012 automatisch anerkannt; Vollstreckbarerklärung durch deutsches Gericht nötig. Ausländische Schiedssprüche werden nach dem New Yorker Übereinkommen 1958 (NYÜ) anerkannt; Deutschland ist Vertragsstaat. Einwendungen gegen Anerkennung: ordre public; fehlende Schiedsvereinbarung; Verletzung des rechtlichen Gehörs.
 
-- Schiffs- und Registerdatenblatt
-- Hypotheken-/Arreststrategie
-- Werft-/Charter-Risikomatrix
-- Internationaler Zuständigkeits- und Vollstreckungsvermerk
+## Kostenabwägung Klage vs. Schiedsverfahren
+Schiedsverfahren (London/Hamburg): höhere Kosten (Schiedsrichter-Honorare); aber schneller; vertraulicher; international vollstreckbarer. Ordentliches Gericht: günstigere RVG-Gebühren; aber Öffentlichkeit; Instanzenzug; schlechtere internationale Vollstreckbarkeit. Priorität: kurzfristige Sicherungsmaßnahmen (Arrest) immer vor ordentlichem Gericht; Hauptsacheverfahren nach Klausel.
 
-## Red-Team-Fragen
 
-- Flagge/Register/gewöhnlicher Aufenthalt verwechselt
-- Arrest ohne Vollstreckungsfähigkeit
-- Klassifikations-/Versicherungsfolge fehlt
-- ITLOS/UNCLOS nur dekorativ statt relevant
+## Checkliste Klagepfad-Entscheidung
+- [ ] Aktueller Schiffswert gutachterlich ermittelt
+- [ ] Gläubigerrangfolge aufgestellt (gesetzliche Vorrechte; Hypotheken; ungesicherte Gläubiger)
+- [ ] Insolvenzwahrscheinlichkeit des Reeders bewertet
+- [ ] Optionen verglichen: Zwangsversteigerung; einvernehmlicher Verkauf; Insolvenzantrag
+- [ ] Schiedsklausel geprüft; Schiedsort und Schiedsregeln identifiziert
+- [ ] Zeitlinie je Option: Wochen bis zur Verwertung; Kosten; Erlösprognose
+- [ ] Entscheidung dokumentiert und von Entscheidungsträger genehmigt
 
-## Ausgabeformat
+## Relevante Rechtsprechung
+- BGH zur Zwangsversteigerung von Seeschiffen; ZPO §§ 864-871; Verteilung des Erlöses.
+- BGH zur Wirkung des Insolvenzantrags auf laufende Arrests und Pfändungen; InsO § 21.
+- BGH zur LMAA-Schiedsklausel; Wirksamkeit in Deutschland; Vollstreckbarerklärung nach NYÜ.
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+## Normen im Überblick
+- ZPO §§ 864-871: Zwangsversteigerung und Zwangsverwaltung eingetragener Schiffe.
+- ZPO § 864: Gegenstand der Zwangsvollstreckung; Seeschiffe als unbewegliche Gegenstände.
+- ZPO § 865: Beschlagnahme; Verfügungsverbot; Wirkung auf Charter-Zahlungen.
+- InsO § 103: Wahlrecht des Insolvenzverwalters bei gegenseitigen Verträgen (Charter).
+- InsO §§ 129-147: Insolvenzanfechtung; Tilgungen in der Krise rückforderbar.
+- New Yorker Übereinkommen 1958: Anerkennung und Vollstreckung ausländischer Schiedssprüche.
 
-## Qualitätsregel
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+## Vertiefung Klagepfad
+
+### Zwangsversteigerung vs. Insolvenz
+Die Zwangsversteigerung (ZPO §§ 864-871) ist effizienter, wenn das Schiff noch betrieben wird und einen Marktwert über den Hypotheken hat. Der Insolvenzantrag ist sinnvoller, wenn mehrere Schiffe betroffen sind oder der Reeder persönlich in die Haftung genommen werden soll.
+
+### Schiedsgerichtsbarkeit
+Schifffahrtssachen werden häufig vor dem LMAA (London Maritime Arbitrators Association) oder dem GMAA (German Maritime Arbitration Association) ausgetragen. LMAA-Schiedssprüche sind nach NYÜ 1958 in Deutschland vollstreckbar.
+
+## Normen-Synopse Klagepfad
+| Norm | Inhalt |
+|------|--------|
+| ZPO § 864 | Zwangsversteigerung |
+| InsO § 103 | Charter-Wahlrecht |
+| InsO § 49 | Absonderungsrecht |
+| NYÜ 1958 | Schiedssprüche |
+
+## Quellen
+- ZPO §§ 864-871: https://dejure.org/gesetze/ZPO/864.html
+- InsO §§ 49-51: https://www.gesetze-im-internet.de/inso/__49.html
+- HGB §§ 596-601: https://dejure.org/gesetze/HGB/596.html
+- BGH Zwangsversteigerung Schiff: https://www.bgh.de
