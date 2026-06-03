@@ -1,6 +1,5 @@
 # Kanzlei-Mandant Lifecycle
 
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 

@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v65.0.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v66.0.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -105,6 +105,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [ki-richtlinie-kanzleien](./ki-richtlinie-kanzleien.md) (55 Skills)
 - [ki-vo-ai-act-pruefer](./ki-vo-ai-act-pruefer.md) (50 Skills)
 - [krankenhausrecht](./krankenhausrecht.md) (67 Skills)
+- [kriegsdienstverweigerung-wehrdienst](./kriegsdienstverweigerung-wehrdienst.md) (136 Skills)
 - [krisenfrueherkennung-starug](./krisenfrueherkennung-starug.md) (54 Skills)
 - [legistik-werkstatt](./legistik-werkstatt.md) (177 Skills)
 - [liquiditaetsplanung](./liquiditaetsplanung.md) (54 Skills)

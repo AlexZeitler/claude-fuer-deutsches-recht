@@ -1,3 +1,20 @@
+# v66.0.0 — Kriegsdienstverweigerung und Wehrdienst
+
+## Neu
+
+- Neues Spezialplugin `kriegsdienstverweigerung-wehrdienst` mit 136 Skills zu Art. 4 Abs. 3 GG, KDVG n. F. 2026, Antrag über BAPersBw, BAFzA-Entscheidung, Gewissensbegründung, Soldaten, Reservisten, Rechtsschutz, § 13 KDVG, § 75 VwGO und klarer Abgrenzung zur Totalverweigerung.
+- Neue Testakte `kriegsdienstverweigerung-gewissensantrag-berlin-2026` mit Markdown-Aktenstücken, EML-Mailverkehr, DOCX-Entwürfen, XLSX-Fristenlog, JPG-Notizkarte und Gesamt-PDF.
+- Bundeswehrrecht-KDV-Routing auf das neue Spezialplugin verlinkt.
+
+## Synchronisiert
+
+- Repo-Stand auf 161 Plugins, 13346 Skills, 154 Testakten und v66.0.0 synchronisiert.
+- README, SKILLS.md, Skills-Index, Testakten-Übersicht, Asset-Index, Marketplace und Plugin-Downloadsektionen aktualisiert.
+
+## Validierung
+
+- Plugin-Struktur, YAML-Frontmatter, Gesamt-PDF-Regel, ZIP-/Diff-Sanity werden im Release-Lauf geprüft.
+
 # v65.0.0 — Versammlungsrecht Praxisplugin
 
 ## Schwerpunkt

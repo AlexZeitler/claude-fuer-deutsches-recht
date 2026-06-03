@@ -1,6 +1,19 @@
 # WEG- und Hausverwaltung
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
+
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **WEG Hohenzollernhof — Hausverwaltung unter Druck** ([`testakten/weg-hausverwaltung-hohenzollernhof/`](../testakten/weg-hausverwaltung-hohenzollernhof/)).
+
+Direkt-Download als ZIP: [testakte-weg-hausverwaltung-hohenzollernhof.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-weg-hausverwaltung-hohenzollernhof.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).

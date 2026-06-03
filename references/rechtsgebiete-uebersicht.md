@@ -51,3 +51,5 @@ Folgende Skills wurden ergänzt, weil sie zur typischen deutschen Beratungspraxi
 23. `gewerblicher-rechtsschutz/skills/abmahnung-urheberrecht` – Urheberrechtliche Abmahnung
 24. `produktrecht/skills/impressum-pflicht` – §§ 5, 6 DDG Impressumspflicht
 25. `produktrecht/skills/preisangaben` – PAngV-Prüfung
+
+- `kriegsdienstverweigerung-wehrdienst` — Kriegsdienstverweigerung aus Gewissensgründen, Wehrdienst, Soldaten, Reservisten, BAPersBw/BAFzA und Rechtsschutz.

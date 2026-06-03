@@ -89,3 +89,7 @@ Das Recht auf Kriegsdienstverweigerung aus Gewissensgründen ist in Art. 4 III G
 - BVerfG zu Art. 4 III GG – ständige Rechtsprechung; Volltexte bundesverfassungsgericht.de.
 - BVerwG zur Gewissensentscheidung – ständige Rechtsprechung (Az. nach Verifikation).
 - BAFzA – Verwaltungspraxis und Verfahrensmerkblatt (bafza.de).
+
+## Spezialplugin
+
+Für KDV-Fälle ab 2026, insbesondere Antrag über BAPersBw, § 13 KDVG n. F., aktive Soldaten, Reservisten, Untätigkeit und Gewissensbegründung, vorrangig das Spezialplugin `kriegsdienstverweigerung-wehrdienst` verwenden. Dieser Skill bleibt als Routing im Bundeswehrrecht erhalten.

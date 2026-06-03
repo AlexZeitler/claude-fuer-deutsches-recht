@@ -1,6 +1,19 @@
 # Forschungszulage-Antragstellung
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
+
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **Forschungszulage Riedblick Sensorik GmbH** ([`testakten/forschungszulage-sensorik-startup-taunus/`](../testakten/forschungszulage-sensorik-startup-taunus/)).
+
+Direkt-Download als ZIP: [testakte-forschungszulage-sensorik-startup-taunus.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-forschungszulage-sensorik-startup-taunus.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
