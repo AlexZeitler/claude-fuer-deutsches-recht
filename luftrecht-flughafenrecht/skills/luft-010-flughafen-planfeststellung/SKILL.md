@@ -1,57 +1,81 @@
 ---
 name: luft-010-flughafen-planfeststellung
-description: "Luftrecht und Flughafenrecht: Flughafen Planfeststellung. Flughafen Planfeststellung im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: 'Flughafen plant Erweiterung oder Neubau; Mandant ist Vorhabentraeger Anwohner oder Naturschutzverband. Prueft LuftVG §§ 6-10 Planfeststellungspflicht UVP-Pflicht nach UVPG Klagerecht nach UmwRG BVerwG-Leitentscheidungen zu FRA BER Leipzig und liefert Rechtsschutzstrategie-Vermerk.'
 ---
 
-# Flughafen Planfeststellung
+# Flughafen-Planfeststellung – Genehmigung, UVP und Rechtsschutz
 
-## Arbeitsauftrag
+## Mandantenfall
 
-Flughafen Planfeststellung wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Luftrecht und Flughafenrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+- Flughafen beantragt Planfeststellung für neue Start- und Landebahn; Vorhabenträger braucht Roadmap für das Verfahren.
+- Anwohnerin klagt gegen Planfeststellungsbeschluss wegen Nachtfluglärm und fehlerhafter Umweltverträglichkeitsprüfung.
+- Naturschutzverband prüft Verbandsklage gegen Erweiterung eines Regionalflughafens.
 
-## Einstieg ohne Leerlauf
+## Erste Schritte
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+1. Vorhaben einordnen: Neubau wesentliche Änderung oder Erweiterung bestimmt UVP-Pflicht und Planfeststellungserfordernis (LuftVG § 8 Abs. 1).
+2. Zuständige Behörde bestimmen: Landesluftfahrtbehörde als Planfeststellungsbehörde.
+3. UVP prüfen: UVPG § 1 i.V.m. Anlage 1 Nr. 14; Umweltbericht und Öffentlichkeitsbeteiligung.
+4. Raumordnungsverfahren: vor Planfeststellung oft Landesplanungsrecht-Vorprüfung.
+5. Einwendungen im Planfeststellungsverfahren: fristgerecht schriftlich; Präklusionsrisiko (§ 73 VwVfG).
+6. Klagebefugnis prüfen: individuelle Betroffenheit (§ 42 Abs. 2 VwGO) oder Verbandsklage (§ 2 UmwRG).
 
-## Norm- und Quellenanker
+## Rechtsrahmen
 
-- LuftVG, LuftSiG, LuftRegV, LuftFzgG, EU-Airline-Lizenzrecht
-- LBA, Betriebsgenehmigung, finanzielle Leistungsfähigkeit, Slots
-- Flugzeugpfandrecht, Register, Leasing, Beschlagnahme/Pfändung
-- Flughafenplanung, Luftsicherheit, Drohnen, Fluggastrechte-Schnittstelle
+- **LuftVG § 6**: Genehmigungspflicht für Flugplätze.
+- **LuftVG § 8**: Planfeststellungspflicht für Anlage und wesentliche Änderung von Flugplätzen.
+- **LuftVG § 10**: Wirkung des Planfeststellungsbeschlusses; Enteignungsermächtigung.
+- **UVPG § 1 i.V.m. Anlage 1**: UVP-Pflicht für Flugplätze ab Schwellenwerten.
+- **VwVfG §§ 72-78**: Planfeststellungsverfahren; Anhörung Einwendungen Beschluss.
+- **UmwRG §§ 1-4**: Verbandsklagebefugnis.
+- **FluglärmG**: Lärmschutzbereiche als Bestandteil des Planfeststellungsbeschlusses.
+- **LuftVG § 9**: Planfeststellungsbeschluss; Drittwirkung und Bestandsschutz.
+- **FluglärmG § 4**: Lärmschutzbereiche; Tagschutzzonen 1 und 2 sowie Nachtschutzzone.
+- **VwVfG § 72**: Planfeststellungsverfahren allgemein; Beteiligungsrechte betroffener Dritter.
+## Prüfraster
 
-## Prüfroutine
+1. Besteht Planfeststellungspflicht (LuftVG § 8)?
+2. Ist UVP ordnungsgemäß durchgeführt (UVPG § 4 Abs. 1)?
+3. Wurden alle Einwendungen fristgerecht erhoben (§ 73 VwVfG – Präklusion)?
+4. Ist Mandant klagebefugt (§ 42 Abs. 2 VwGO oder § 2 UmwRG)?
+5. Sind Lärmschutz-Auflagen dem Stand der Technik entsprechend?
+6. Wurden Naturschutz und FFH-Verträglichkeit geprüft?
+7. Ist eine UVP nach UVPG § 4 durchgeführt und aktuell?
+8. Sind Lärmschutzbereiche nach FluglärmG § 4 neu zu ermitteln nach Bauerweiterung?
+## Typische Fallstricke
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+- Einwendungsfrist versäumt; Präklusion in der Verwaltungsgerichtsklage.
+- UVP formell korrekt aber inhaltlich mangelhaft; oft Aufhebungsgrund.
+- Verbandsklagebefugnis unterschätzt: Umweltverbände können auch ohne Betroffenheit klagen.
+- Sofortvollzug nicht angegriffen; Bau beginnt trotz Klage.
+- Planfeststellungsbeschluss nicht vollständig umgesetzt; Auflagen aus Lärmschutzbereich vergessen.
+- Dritte (Anwohner) fristgerecht Klage erhoben; aufschiebende Wirkung ignoriert.
+## Output
 
-## Typische Artefakte
+Rechtsschutzstrategie-Vermerk (Einwendung Klage einstweiliger Rechtsschutz). UVP-Prüfcheckliste. Klage-Baustein. Planfeststellungs-Checkliste. Lärmschutzbereichs-Karte als Anhang.
+## Quellen
 
-- Luftfahrzeug-/Registerdatenblatt
-- LBA- und Lizenzprüfvermerk
-- Aircraft mortgage/arrest map
-- Flughafen-/Slot-/Sicherheits-Dashboard
+- LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
+- UVPG: https://www.gesetze-im-internet.de/uvpg/
+- UmwRG: https://www.gesetze-im-internet.de/umwrg/
+- BVerwG: https://www.bverwg.de
 
-## Red-Team-Fragen
+## Hinweise für die Praxis
 
-- Aircraft mortgage mit deutschem Grundpfandrecht gleichgesetzt
-- LBA-Zuständigkeit falsch
-- Insolvenzreife/finanzielle Leistungsfähigkeit nicht getrennt
-- internationales Register/Leasing nicht geklärt
+Dieser Skill deckt den Bereich Flughafenbetrieb und Planfeststellung ab. Folgende praktische Hinweise ergänzen die obigen Ausführungen:
 
-## Ausgabeformat
+- Einschlägige Normen vor Mandatsbearbeitung vollständig auf aktuelle Fassung prüfen.
+- Behördenanschreiben stets mit Aktenzeichen und Fristbenennung versehen.
+- Klagefristen und Widerspruchsfristen sofort bei Mandatsannahme kalendarisch sichern.
+- Bei grenzüberschreitenden Sachverhalten internationalen Normenkonflikt prüfen.
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+### Dokumentationspflichten
 
-## Qualitätsregel
+Für Mandate im Bereich Flughafenbetrieb und Planfeststellung sind folgende Dokumente regelmäßig anzufordern:
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+- Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
+- AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
+- Cape-Town-Registerauszug (ICAO International Registry)
+- Gültige Betriebsgenehmigung und AOC-Kopie
+- Leasingvertrag oder Eigentumsnachweis
+- Aktuelle Behördenbescheide und Aufsichtskorrespondenz

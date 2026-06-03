@@ -1,57 +1,95 @@
 ---
 name: luft-095-acc3-genehmigung-pruefen
-description: "Luftrecht und Flughafenrecht: ACC3: Genehmigung prüfen. Genehmigung prüfen für ACC3 im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: 'ACC3-Carrier prueft Designierungsstatus und ob alle erforderlichen Genehmigungen fuer Drittland-Fracht-Betrieb vorliegen. Prueft EU-DVO 2015/1998 EU-VO 300/2008 Validierungsgueltigkeit und LuftVG-Betriebsgenehmigung und liefert Genehmigungsstatus-Vermerk.'
 ---
 
-# Acc3 Genehmigung Pruefen
+# ACC3 – Genehmigung prüfen
 
-## Arbeitsauftrag
+## Mandantenfall
 
-Acc3 Genehmigung Pruefen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Luftrecht und Flughafenrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+- ACC3-Carrier fragt ob seine Designierung für neue Strecken aus Drittland gilt oder neue Validierung nötig ist.
+- Behörde stellt fest dass ACC3-Validierung abgelaufen ist; Carrier fragt wie Betrieb aufrechterhalten werden kann.
+- Neuer Frachtcarrier will ACC3-Status erlangen; Prüfung der Genehmigungsvoraussetzungen.
 
-## Einstieg ohne Leerlauf
+## Erste Schritte
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+1. Sachverhalt strukturieren: Parteien betroffene Luftfahrzeuge/Einrichtungen beteiligte Behörden und laufende Fristen.
+2. Einschlägige Normen identifizieren: EU-DVO 2015/1998 EU-VO 300/2008 LuftVG EASA Part-OPS.
+3. Register prüfen: LBA-Luftfahrzeugrolle AG-Braunschweig-Pfandrechtsregister ICAO-Cape-Town-Register je nach Fallrelevanz.
+4. Zuständigkeit klären: LBA vs. Landesbehörde vs. EASA vs. Verwaltungsgericht.
+5. Fristen sichern: Widerspruch (1 Monat) Klage (1 Monat) Insolvenzantrag (3/6 Wochen).
+6. Handlungsbedarf dokumentieren: Ampel-Vermerk mit konkreten nächsten Schritten.
 
-## Norm- und Quellenanker
+## Rechtsrahmen
 
-- LuftVG, LuftSiG, LuftRegV, LuftFzgG, EU-Airline-Lizenzrecht
-- LBA, Betriebsgenehmigung, finanzielle Leistungsfähigkeit, Slots
-- Flugzeugpfandrecht, Register, Leasing, Beschlagnahme/Pfändung
-- Flughafenplanung, Luftsicherheit, Drohnen, Fluggastrechte-Schnittstelle
+EU-DVO 2015/1998 EU-VO 300/2008 LuftVG EASA Part-OPS – die einschlägigen Normen werden je nach Sachverhaltsebene (nationaler Betrieb EU-Recht internationales Recht) herangezogen und zu jedem Normzitat kurz erläutert.
 
-## Prüfroutine
+- **LuftVG §§ 6 20 29 31 64**: Genehmigung Betrieb Register Aufsicht.
+- **LuftSiG §§ 7-9**: Zuverlässigkeitsüberprüfung Sicherheitsprogramme Aufsicht.
+- **EU-VO 1008/2008 Art. 3-9**: Betriebsgenehmigung finanzielle Leistungsfähigkeit Überwachung.
+- **Cape Town Convention Art. 2-16**: Internationale Sicherungsinteressen ICAO-Register.
+- **LuftFzgG §§ 1-28**: Nationales Pfandrecht Vollstreckung AG Braunschweig.
+- **InsO §§ 15a 17-19 47 50**: Insolvenzantragspflicht Gläubigerrechte.
+- **VwGO §§ 68 74 80**: Widerspruch Klage aufschiebende Wirkung.
+- **LuftSiG § 3c**: Nationale Umsetzung der EU-Sicherheitsarchitektur; Zuständigkeit LBA.
+- **ICAO Annex 17 Std. 4.6**: Frachtsicherheitskette; Verantwortung des Luftfrachtführers.
+## Prüfraster
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+1. Ist zuständige Behörde korrekt adressiert?
+2. Sind alle Register vollständig abgefragt?
+3. Laufen Fristen – sind alle gesichert?
+4. Besteht Cape-Town-Registrierung mit IDERA?
+5. Ist Insolvenzrisiko bewertet?
+6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
+7. Ist der EU-Validator zugelassen und sein Bericht nicht älter als 3 Jahre?
+8. Sind alle Sub-Auftragnehmer in der Lieferkette als RA oder KC anerkannt?
+## Typische Fallstricke
 
-## Typische Artefakte
+- Falsche Behörde adressiert; Frist läuft unbemerkt ab.
+- Cape-Town-Register nicht abgefragt; internationale Belastungen unerkannt.
+- Insolvenzfrühzeichen ignoriert; Antragspflicht ausgelöst ohne Reaktion.
+- Sicherheitsauflage als verhältnismäßig hingenommen ohne eigene Prüfung.
+- ACC3-Validierungsbericht abgelaufen; Flights ab EU-Flughafen verboten bis Erneuerung.
+- Sub-Auftragnehmer ohne KC-Status in Sicherheitsnachweis gelistet; ungültige Sicherheitserklärung.
 
-- Luftfahrzeug-/Registerdatenblatt
-- LBA- und Lizenzprüfvermerk
-- Aircraft mortgage/arrest map
-- Flughafen-/Slot-/Sicherheits-Dashboard
+## Vertiefung Genehmigungsrecht
 
-## Red-Team-Fragen
+Das luftrechtliche Genehmigungsrecht ist mehrschichtig:
 
-- Aircraft mortgage mit deutschem Grundpfandrecht gleichgesetzt
-- LBA-Zuständigkeit falsch
-- Insolvenzreife/finanzielle Leistungsfähigkeit nicht getrennt
-- internationales Register/Leasing nicht geklärt
+- **Betriebsgenehmigung (EU-VO 1008/2008)**: Konstitutiv für Linienverkehr; Entzug führt zu sofortigem Betriebsverbot.
+- **AOC (Air Operator Certificate)**: Technische und betriebliche Voraussetzung; EASA-Zuständigkeit; Nebenbestimmungen beachten.
+- **Einzelgenehmigungen**: Nichtplanmäßige Flüge Überflüge fremden Staatsgebiets Sonderlasten erfordern gesonderte Genehmigung.
+- **Genehmigungsversagung**: Anfechtungsklage vor VG; aufschiebende Wirkung nach § 80 VwGO als Sofortmaßnahme beantragen.
 
-## Ausgabeformat
+## Output
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+Strukturierter Vermerk zu ACC3 – Genehmigung prüfen mit Rechtslage Handlungsoptionen Risikobewertung und nächsten Schritten. Checkliste offener Punkte mit Fristen. ACC3-Compliance-Matrix. Validierungskalender mit Ablaufdaten.
+## Quellen
 
-## Qualitätsregel
+- LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
+- Cape Town Convention: https://www.unidroit.org/instruments/security-interests/aircraft-protocol/
+- LuftFzgG: https://www.gesetze-im-internet.de/luftfzgg/
+- InsO: https://www.gesetze-im-internet.de/inso/
+- EU-DVO 2015/1998: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32015R1998
+- LBA ACC3: https://www.lba.de
+- ICAO: https://www.icao.int/Security/SFP/Pages/default.aspx
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+## Hinweise für die Praxis
+
+Dieser Skill deckt den Bereich ACC3-Zulassung und Sicherheitsvalidierung Luftfracht Drittstaaten ab. Folgende praktische Hinweise ergänzen die obigen Ausführungen:
+
+- Genehmigungsversagung immer mit Widerspruch und parallelem Eilantrag anfechten.
+- Nebenbestimmungen in Genehmigungen sorgfältig lesen; Auflagen können teurer sein als Versagung.
+- Genehmigungsvoraussetzungen laufend überwachen; nachträgliche Änderungen melden.
+- EU-Recht hat Vorrang; europarechtswidrige Auflagen können gerügt werden.
+
+### Dokumentationspflichten
+
+Für Mandate im Bereich ACC3-Zulassung und Sicherheitsvalidierung Luftfracht Drittstaaten sind folgende Dokumente regelmäßig anzufordern:
+
+- Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
+- AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
+- Cape-Town-Registerauszug (ICAO International Registry)
+- Gültige Betriebsgenehmigung und AOC-Kopie
+- Leasingvertrag oder Eigentumsnachweis
+- Aktuelle Behördenbescheide und Aufsichtskorrespondenz

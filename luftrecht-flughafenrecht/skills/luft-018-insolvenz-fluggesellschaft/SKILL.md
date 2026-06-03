@@ -1,57 +1,80 @@
 ---
 name: luft-018-insolvenz-fluggesellschaft
-description: "Luftrecht und Flughafenrecht: Insolvenz Fluggesellschaft. Insolvenz Fluggesellschaft im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: 'Airline-Insolvenz: Passagier Glaeubiger Leasinggeber oder Slot-Halter fragt nach Anspruechen. Prueft InsO §§ 21 47 50 103 Absonderungsrecht Leasingvertrag Slot-Nicht-Uebertragbarkeit EuGH Cape-Town-Insolvenzschutz Art. XI Aircraft Protocol und liefert Glaeubiger-Strategie-Vermerk und Anmeldeformular-Baustein.'
 ---
 
-# Insolvenz Fluggesellschaft
+# Insolvenz Fluggesellschaft – Gläubigerrechte und Masseschutz
 
-## Arbeitsauftrag
+## Mandantenfall
 
-Insolvenz Fluggesellschaft wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Luftrecht und Flughafenrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+- Leasinggesellschaft hat 3 Flugzeuge an insolvente Airline vermietet; Insolvenzverwalter verweigert Herausgabe; IDERA hinterlegt.
+- Passagier hat bereits bezahlte Tickets; Airline insolvent; fragt ob Insolvenzforderung oder Masseforderung.
+- Zulieferer (Catering) hat offene Rechnungen; fragt nach Rang in Insolvenz.
 
-## Einstieg ohne Leerlauf
+## Erste Schritte
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+1. Insolvenzantrag und Verfahrensstand prüfen: vorläufige Insolvenzverwaltung (§ 21 InsO) oder eröffnetes Verfahren (§ 27 InsO)?
+2. Leasingvertrag qualifizieren: echtes Leasing (Eigentum beim Leasinggeber) oder Finanzierungsleasing? Insolvenzverwalter kann nach §§ 103 108 InsO erfüllen oder ablehnen.
+3. Cape Town Convention: IDERA hinterlegt? Entregistrierung und Herausgabe auch in Insolvenz möglich (Art. XI Aircraft Protocol Alternative A).
+4. Passagierticket: Insolvenzforderung (§ 38 InsO) oder Masseforderung (§ 55 InsO) wenn Flug nach Insolvenzeröffnung angeboten.
+5. Slot-Frage: Slots nicht Massebestandteil; Flughafenkoordinator zieht Slots ein.
+6. Forderungsanmeldung: beim Insolvenzverwalter innerhalb gesetzter Frist; Formular Forderungsbetrag Rang.
 
-## Norm- und Quellenanker
+## Rechtsrahmen
 
-- LuftVG, LuftSiG, LuftRegV, LuftFzgG, EU-Airline-Lizenzrecht
-- LBA, Betriebsgenehmigung, finanzielle Leistungsfähigkeit, Slots
-- Flugzeugpfandrecht, Register, Leasing, Beschlagnahme/Pfändung
-- Flughafenplanung, Luftsicherheit, Drohnen, Fluggastrechte-Schnittstelle
+- **InsO § 21 Abs. 2**: Vorläufige Insolvenzverwaltung; Verfügungsverbot.
+- **InsO § 47**: Aussonderungsrecht des Eigentümers (Leasinggeber).
+- **InsO § 50**: Absonderungsrecht des Pfandgläubigers.
+- **InsO §§ 103 108**: Wahlrecht bei gegenseitigen Verträgen; Dauerschuldverhältnisse.
+- **InsO § 55**: Masseverbindlichkeiten; Vorrang vor Insolvenzforderungen.
+- **Aircraft Protocol Art. XI Alternative A**: Automatische Herausgabepflicht in Insolvenz nach 60 Tagen.
+- **EuGH C-272/06**: Slots keine übertragbaren Vermögenswerte.
 
-## Prüfroutine
+## Prüfraster
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+1. Ist Insolvenzverfahren eröffnet oder noch vorläufige Verwaltung?
+2. Hat Leasinggeber Eigentumsrecht (§ 47 InsO Aussonderungsrecht)?
+3. Ist IDERA korrekt beim ICAO-Register hinterlegt?
+4. Hat Deutschland Alternative A des Aircraft Protocols erklärt?
+5. Ist Passagieranspruch Insolvenz- oder Masseforderung?
+6. Wurden Slot-Rückgabe und Betriebsgenehmigungsende an LBA gemeldet?
 
-## Typische Artefakte
+## Typische Fallstricke
 
-- Luftfahrzeug-/Registerdatenblatt
-- LBA- und Lizenzprüfvermerk
-- Aircraft mortgage/arrest map
-- Flughafen-/Slot-/Sicherheits-Dashboard
+- Leasinggeber meldet Forderung als Insolvenzgläubiger statt Aussonderung zu betreiben.
+- IDERA nicht hinterlegt; Cape-Town-Herausgaberecht entfällt.
+- Passagier meldet Forderung zu spät; Fristversäumnis.
+- Slot-Übertragung an Käufer versucht; scheitert nach EuGH C-272/06.
 
-## Red-Team-Fragen
+## Output
 
-- Aircraft mortgage mit deutschem Grundpfandrecht gleichgesetzt
-- LBA-Zuständigkeit falsch
-- Insolvenzreife/finanzielle Leistungsfähigkeit nicht getrennt
-- internationales Register/Leasing nicht geklärt
+Gläubiger-Strategie-Vermerk nach Rang und Anspruchstyp. Forderungsanmeldungs-Baustein. Cape-Town-IDERA-Checkliste.
 
-## Ausgabeformat
+## Quellen
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+- InsO: https://www.gesetze-im-internet.de/inso/
+- Cape Town Convention: https://www.unidroit.org/instruments/security-interests/aircraft-protocol/
+- EuGH Urteile: https://eur-lex.europa.eu
+- LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
 
-## Qualitätsregel
+## Hinweise für die Praxis
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+Dieser Skill deckt den Bereich Luftrecht ab. Folgende praktische Hinweise ergänzen die obigen Ausführungen:
+
+- Insolvenzfrühzeichen bei Airline-Mandanten laufend beobachten; Bilanzkennzahlen IATA-Rating.
+- Antragspflicht nach InsO § 15a läuft ab Kenntnis von Zahlungsunfähigkeit; keine Verzögerung.
+- Aussonderungsrechte des Leasinggebers sofort nach Insolvenzantrag anmelden.
+- EU-VO 1008/2008 Art. 9: LBA hat eigene Pflicht zur Überwachung; kooperieren.
+
+### Dokumentationspflichten
+
+Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzufordern:
+
+- Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
+- AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
+- Cape-Town-Registerauszug (ICAO International Registry)
+- Gültige Betriebsgenehmigung und AOC-Kopie
+- Leasingvertrag oder Eigentumsnachweis
+- Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+
+

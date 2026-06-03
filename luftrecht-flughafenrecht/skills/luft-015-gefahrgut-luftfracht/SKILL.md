@@ -1,57 +1,82 @@
 ---
 name: luft-015-gefahrgut-luftfracht
-description: "Luftrecht und Flughafenrecht: Gefahrgut Luftfracht. Gefahrgut Luftfracht im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: 'Absender Spedition oder Airline hat Gefahrgut-Luftfrachtproblem: fehlerhafte Deklaration Versand verbotener Gueter oder Behoerdenuntersuchung. Prueft ICAO TI Doc 9284 IATA DGR LuftVG § 27 Gefahrgutbeauftragter und Strafbarkeit nach LuftVG § 58 und liefert Compliance-Check und Stellungnahme-Baustein.'
 ---
 
-# Gefahrgut Luftfracht
+# Gefahrgut-Luftfracht – Klassifizierung, Compliance und Haftung
 
-## Arbeitsauftrag
+## Mandantenfall
 
-Gefahrgut Luftfracht wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Luftrecht und Flughafenrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+- Pharmaunternehmen will Lithium-Ionen-Batterien als Luftfracht versenden; Spediteur zweifelt an korrekter Deklaration nach IATA DGR.
+- Airline erhält nach Rampen-Inspektion einen Finding-Report über undeklarierten Gefahrguttransport; Bußgeldverfahren eingeleitet.
+- Bekannter Versender will Status als Known Consignor erlangen; Prüfung der Anforderungen.
 
-## Einstieg ohne Leerlauf
+## Erste Schritte
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+1. Gefahrgutklasse bestimmen: ICAO TI Doc 9284 / IATA DGR Klassenliste; Verpackungsanweisung Mengenbegrenzung Label.
+2. Verbotsliste prüfen: bestimmte Güter sind vollständig verboten (Explosivstoffe bestimmte Klassen in Passagierflugzeugen).
+3. Deklarations-Korrektheit prüfen: Shipper's Declaration (DGD) UN-Nummer korrekte Verpackungsanweisung Markierung.
+4. Pflichten nach LuftVG § 27: Gefahrgutbeauftragter vorgeschrieben für bestimmte Luftfahrtunternehmen und Verlader.
+5. Bei Verstoß: Bußgeldrahmen LuftVG § 58 Abs. 1; strafrechtliche Relevanz bei vorsätzlichem Handeln.
+6. Airline-Compliance: Gefahrgut-Annahmeprozess Schulungsnachweise Dokumentation (IATA DGR 3.5).
 
-## Norm- und Quellenanker
+## Rechtsrahmen
 
-- LuftVG, LuftSiG, LuftRegV, LuftFzgG, EU-Airline-Lizenzrecht
-- LBA, Betriebsgenehmigung, finanzielle Leistungsfähigkeit, Slots
-- Flugzeugpfandrecht, Register, Leasing, Beschlagnahme/Pfändung
-- Flughafenplanung, Luftsicherheit, Drohnen, Fluggastrechte-Schnittstelle
+- **ICAO TI Doc 9284**: Basisregelwerk; jährlich aktualisiert; bindend für ICAO-Vertragsstaaten.
+- **IATA DGR**: Operationale Umsetzung; strengere Anforderungen als ICAO TI.
+- **LuftVG § 27**: Gefahrgutbeauftragter für Luftfahrtunternehmen und Verlader.
+- **LuftVG § 58 Abs. 1**: Ordnungswidrigkeiten bei Gefahrgut-Verstößen.
+- **EU-VO 300/2008**: Einbeziehung von Gefahrgut in die allgemeine Luftsicherheit.
+- **Montreal Convention Art. 18**: Haftung des Luftfrachtführers für Gefahrgutschäden.
+- **Montrealer Übereinkommen Art. 18**: Haftung des Luftfrachtführers für Beschädigung; Haftungsausschlüsse.
+- **LuftVG § 44**: Nationale Verweisung auf Montrealer Übereinkommen für innerdeutsche Flüge.
+- **EU-VO 300/2008 und DVO 2015/1998**: Sicherheitsanforderungen für Luftfracht; ACC3 und RA/KC-Status.
+- **HGB § 475**: Frachtführerhaftung subsidiär; nur soweit MÜ keine Regelung trifft.
+## Prüfraster
 
-## Prüfroutine
+1. Ist Gut korrekt nach IATA DGR klassifiziert?
+2. Ist DGD vollständig und korrekt ausgefüllt?
+3. Bestehen Transportverbote für Passagierflugzeuge?
+4. Ist Gefahrgutbeauftragter nach LuftVG § 27 bestellt und geschult?
+5. Liegt Finding-Report-Befund in bußgeldrelevanter Schwere vor?
+6. Sind Schulungsnachweise aller Beteiligten aktuell?
+7. Ist Haftungsgrenze (22 SZR/kg) eingehalten oder Werterklärung im AWB vermerkt?
+8. Ist die Frachtkette lückenlos dokumentiert (AWB Sicherheitsdeklaration Manifest)?
+## Typische Fallstricke
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+- Lithium-Batterien nach falscher Verpackungsanweisung; schwerer Verstoß.
+- DGD mit Mengenüberschreitung; Grenzwerte werden nicht jährlich geprüft.
+- Gefahrgutbeauftragter formal bestellt aber nicht geschult; Haftung des Unternehmens.
+- Bußgeldverfahren ohne anwaltliche Begleitung; falsche Aussagen.
+- Haftungsregime Montrealer Übereinkommen mit HGB-Recht vermischt; falsche Haftungssumme.
+- AWB fehlt oder unvollständig; Beweislastumkehr zulasten des Frachtführers.
+## Output
 
-## Typische Artefakte
+Compliance-Check IATA DGR mit konkreter Sendung. Stellungnahme-Baustein für Behördenverfahren. Gefahrgutbeauftragten-Pflichtenübersicht. Haftungsanalyse nach MÜ. AWB-Prüfschema. Schadensmeldungs-Fristenübersicht.
+## Quellen
 
-- Luftfahrzeug-/Registerdatenblatt
-- LBA- und Lizenzprüfvermerk
-- Aircraft mortgage/arrest map
-- Flughafen-/Slot-/Sicherheits-Dashboard
+- ICAO Doc 9284: https://www.icao.int/safety/dangerousgoods/pages/technical-instructions.aspx
+- LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
+- EU-VO 300/2008: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32008R0300
+- EASA: https://www.easa.europa.eu/en/domains/air-operations/dangerous-goods
+- LBA Luftfracht: https://www.lba.de
 
-## Red-Team-Fragen
+## Hinweise für die Praxis
 
-- Aircraft mortgage mit deutschem Grundpfandrecht gleichgesetzt
-- LBA-Zuständigkeit falsch
-- Insolvenzreife/finanzielle Leistungsfähigkeit nicht getrennt
-- internationales Register/Leasing nicht geklärt
+Dieser Skill deckt den Bereich Luftfrachtrecht und Warschauer/Montrealer System ab. Folgende praktische Hinweise ergänzen die obigen Ausführungen:
 
-## Ausgabeformat
+- Einschlägige Normen vor Mandatsbearbeitung vollständig auf aktuelle Fassung prüfen.
+- Behördenanschreiben stets mit Aktenzeichen und Fristbenennung versehen.
+- Klagefristen und Widerspruchsfristen sofort bei Mandatsannahme kalendarisch sichern.
+- Bei grenzüberschreitenden Sachverhalten internationalen Normenkonflikt prüfen.
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+### Dokumentationspflichten
 
-## Qualitätsregel
+Für Mandate im Bereich Luftfrachtrecht und Warschauer/Montrealer System sind folgende Dokumente regelmäßig anzufordern:
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+- Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
+- AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
+- Cape-Town-Registerauszug (ICAO International Registry)
+- Gültige Betriebsgenehmigung und AOC-Kopie
+- Leasingvertrag oder Eigentumsnachweis
+- Aktuelle Behördenbescheide und Aufsichtskorrespondenz

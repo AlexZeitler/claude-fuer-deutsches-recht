@@ -1,57 +1,92 @@
 ---
 name: luft-021-airline-zustaendigkeit-pruefen
-description: "Luftrecht und Flughafenrecht: Airline: Zuständigkeit prüfen. Zuständigkeit prüfen für Airline im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: 'Airline-Mandat: unklar welche Behoerde zustaendig ist LBA EU-Behoerde Landesbehoerde oder auslaendische Luftfahrtbehoerde. Prueft EU-VO 1008/2008 Art. 4 Aufsichtsstaat LuftVG §§ 29-31 EASA und bilaterale Abkommen und liefert Zustaendigkeits-Vermerk mit korrektem Antragsadressaten.'
 ---
 
-# Airline Zustaendigkeit Pruefen
+# Airline – Zuständigkeit prüfen
 
-## Arbeitsauftrag
+## Mandantenfall
 
-Airline Zustaendigkeit Pruefen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Luftrecht und Flughafenrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+- Airline mit Hauptsitz Hamburg betreibt Verbindung nach Wien; österreichische Behörde beanstandet; Mandant fragt welche Behörde zuständig ist.
+- Tochtergesellschaft eines US-Konzerns registriert in Deutschland; Frage ob LBA oder FAA für AOC zuständig.
+- Airline möchte Strecke nach Nordafrika eröffnen; Bilateralabkommen Deutschland-Marokko unbekannt.
 
-## Einstieg ohne Leerlauf
+## Erste Schritte
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+1. Sachverhalt präzise strukturieren: Parteien Flugzeuge Behörden Fristen.
+2. Einschlägige Normen identifizieren: LuftVG EU-VO 1008/2008 Cape Town Convention InsO.
+3. Register prüfen: LBA-Luftfahrzeugrolle AG-Braunschweig-Pfandrechtsregister ICAO-Register.
+4. Zuständigkeit klären: LBA vs. Landesbehörde vs. Gericht vs. EASA.
+5. Fristen sichern: Widerspruch (1 Monat) Klage (1 Monat) Insolvenzantrag (3/6 Wochen).
+6. Ergebnis dokumentieren: Vermerk mit Ampel-Rating und nächsten Schritten.
 
-## Norm- und Quellenanker
+## Rechtsrahmen
 
-- LuftVG, LuftSiG, LuftRegV, LuftFzgG, EU-Airline-Lizenzrecht
-- LBA, Betriebsgenehmigung, finanzielle Leistungsfähigkeit, Slots
-- Flugzeugpfandrecht, Register, Leasing, Beschlagnahme/Pfändung
-- Flughafenplanung, Luftsicherheit, Drohnen, Fluggastrechte-Schnittstelle
+- **EU-VO 1008/2008 Art. 9**: Laufende Überwachung Betriebsgenehmigung.
+- **LuftVG §§ 29-31**: Zuständigkeit LBA und Landesluftfahrtbehörden.
+- **LuftFzgG §§ 1-28**: Luftfahrzeugpfandrecht und Vollstreckung.
+- **Cape Town Convention Art. 2-10**: Internationale Sicherungsinteressen.
+- **InsO §§ 15a 17-19 47 50**: Insolvenzantragspflicht und Gläubigerrechte.
+- **LuftSiG §§ 7-9**: Zuverlässigkeitsüberprüfung und Sicherheitsprogramme.
+- **VwGO §§ 68 74 80**: Widerspruch Klage aufschiebende Wirkung.
+- **LuftVG § 21a**: Wet-Lease-Genehmigung; Voraussetzungen und Befristung.
+- **LuftVG § 29d**: Aufsichtsbefugnisse des LBA gegenüber Luftverkehrsunternehmen.
+- **EASA Part-OPS ORO.AOC.100**: AOC-Anforderungen; Nachweis technischer und betrieblicher Kompetenz.
+## Prüfraster
 
-## Prüfroutine
+1. Ist zuständige Behörde korrekt adressiert?
+2. Sind Register vollständig abgefragt (LBA AG Braunschweig ICAO)?
+3. Laufen Fristen; sind alle gesichert?
+4. Besteht Cape-Town-Registrierung mit IDERA?
+5. Ist Insolvenzrisiko bewertet und dokumentiert?
+6. Sind Sicherheitsauflagen bewertet und Widerspruch geprüft?
+7. Ist das AOC noch gültig und entspricht es dem aktuellen Streckennetz?
+8. Haben sich Eigentümerstruktur oder Hauptsitz geändert (EU-VO 1008/2008 Art. 4)?
+## Typische Fallstricke
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+- Falsche Behörde adressiert; Frist läuft unbemerkt ab.
+- Cape-Town-Register nicht abgefragt; internationale Belastungen unerkannt.
+- Insolvenzfrühzeichen ignoriert; Antragspflicht ausgelöst ohne Reaktion.
+- Sicherheitsauflage als verhältnismäßig hingenommen ohne Prüfung.
+- Wet-Lease ohne gesonderte Genehmigung nach LuftVG § 21a operiert; rückwirkende Sanktion möglich.
+- AOC und Betriebsgenehmigung als identisch behandelt; sind rechtlich getrennte Instrumente.
 
-## Typische Artefakte
+## Vertiefung Zuständigkeit
 
-- Luftfahrzeug-/Registerdatenblatt
-- LBA- und Lizenzprüfvermerk
-- Aircraft mortgage/arrest map
-- Flughafen-/Slot-/Sicherheits-Dashboard
+Die Zuständigkeitsfrage ist bei luftrechtlichen Mandaten häufig das erste Hindernis. Folgende Abgrenzungen sind besonders fehlerträchtig:
 
-## Red-Team-Fragen
+- **LBA vs. Landesluftfahrtbehörde**: Das LBA ist für bundesrechtliche Aufgaben zuständig (Betriebsgenehmigung AOC Register); Landesbehörden überwachen den regionalen Luftverkehr und Kleinflugplätze.
+- **EASA vs. nationale Behörde**: Seit Inkrafttreten der EASA-Basisverordnung (VO 2018/1139) hat EASA Direktzuständigkeit für Zulassungen von Luftfahrzeugen und Organisationen; das LBA bleibt für betriebliche Zulassungen zuständig.
+- **Verwaltungsgericht vs. Zivilgericht**: Bescheide einer Luftfahrtbehörde sind vor dem VG anzufechten; privatrechtliche Ansprüche (Leasingstreit Schaden) gehören vor die Zivilgerichte.
 
-- Aircraft mortgage mit deutschem Grundpfandrecht gleichgesetzt
-- LBA-Zuständigkeit falsch
-- Insolvenzreife/finanzielle Leistungsfähigkeit nicht getrennt
-- internationales Register/Leasing nicht geklärt
+## Output
 
-## Ausgabeformat
+Vermerk zu Airline – Zuständigkeit prüfen mit Ampel-Rating Fristenstand und nächsten Schritten. Checkliste offener Punkte. Zuständigkeitsmatrix Behörde/Register. Fristenkalender mit Ampelstatus.
+## Quellen
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+- EU-VO 1008/2008: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32008R1008
+- LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
+- Cape Town Convention: https://www.unidroit.org/instruments/security-interests/aircraft-protocol/
+- InsO: https://www.gesetze-im-internet.de/inso/
+- EASA: https://www.easa.europa.eu/en/document-library/regulations
+- LBA: https://www.lba.de/DE/Luftfahrtunternehmen/Genehmigungen/GenehmigungLU.html
 
-## Qualitätsregel
+## Hinweise für die Praxis
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+Dieser Skill deckt den Bereich Airline-Betrieb und Betriebsgenehmigung ab. Folgende praktische Hinweise ergänzen die obigen Ausführungen:
+
+- Zuständigkeitsirrtümer sind die häufigste Fehlerquelle in luftrechtlichen Mandaten; immer zuerst klären.
+- Sowohl LBA als auch Landesbehörde können Bescheide erlassen; Abgrenzung nach Sachmaterie.
+- Bei europäischen Sachverhalten immer prüfen ob EASA-Direktzuständigkeit besteht (VO 2018/1139).
+- Zeitpunkt der Behördenentscheidung dokumentieren; Fristbeginn ab Zustellung des Bescheids.
+
+### Dokumentationspflichten
+
+Für Mandate im Bereich Airline-Betrieb und Betriebsgenehmigung sind folgende Dokumente regelmäßig anzufordern:
+
+- Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
+- AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
+- Cape-Town-Registerauszug (ICAO International Registry)
+- Gültige Betriebsgenehmigung und AOC-Kopie
+- Leasingvertrag oder Eigentumsnachweis
+- Aktuelle Behördenbescheide und Aufsichtskorrespondenz

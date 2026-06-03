@@ -1,57 +1,94 @@
 ---
 name: luft-048-flugzeugleasing-local-counsel-briefen
-description: "Luftrecht und Flughafenrecht: Flugzeugleasing: Local Counsel briefen. Local Counsel briefen für Flugzeugleasing im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: 'Deutsches Kanzleiteam muss auslaendischen Anwalt fuer Flugzeugleasing-Mandat briefen: Cape-Town-Eintrag IDERA Insolvenz Wet-Lease-Genehmigung. Skill erstellt englisches Briefing-Memo mit deutschem Leasingrecht Cape-Town-Status und konkreten Fragen an Local Counsel.'
 ---
 
-# Flugzeugleasing Local Counsel Briefen
+# Flugzeugleasing – Local Counsel briefen
 
-## Arbeitsauftrag
+## Mandantenfall
 
-Flugzeugleasing Local Counsel Briefen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Luftrecht und Flughafenrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+- Deutsche Kanzlei soll in Irland Local Counsel briefen für IDERA-Entregistrierungsverfahren nach Leasingnehmer-Insolvenz.
+- Leasinggesellschaft in Cayman Islands fragt nach deutschen Registrierungspflichten für Flugzeuge.
+- Insolvenzverwalter beauftragt Anwalt in Dubai zur Rückholung von Flugzeugen aus UAE-Leasing.
 
-## Einstieg ohne Leerlauf
+## Erste Schritte
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+1. Sachverhalt strukturieren: Parteien betroffene Luftfahrzeuge/Einrichtungen beteiligte Behörden und laufende Fristen.
+2. Einschlägige Normen identifizieren: Cape Town Convention Aircraft Protocol LuftFzgG InsO EU-VO 1008/2008.
+3. Register prüfen: LBA-Luftfahrzeugrolle AG-Braunschweig-Pfandrechtsregister ICAO-Cape-Town-Register je nach Fallrelevanz.
+4. Zuständigkeit klären: LBA vs. Landesbehörde vs. EASA vs. Verwaltungsgericht.
+5. Fristen sichern: Widerspruch (1 Monat) Klage (1 Monat) Insolvenzantrag (3/6 Wochen).
+6. Handlungsbedarf dokumentieren: Ampel-Vermerk mit konkreten nächsten Schritten.
 
-## Norm- und Quellenanker
+## Rechtsrahmen
 
-- LuftVG, LuftSiG, LuftRegV, LuftFzgG, EU-Airline-Lizenzrecht
-- LBA, Betriebsgenehmigung, finanzielle Leistungsfähigkeit, Slots
-- Flugzeugpfandrecht, Register, Leasing, Beschlagnahme/Pfändung
-- Flughafenplanung, Luftsicherheit, Drohnen, Fluggastrechte-Schnittstelle
+Cape Town Convention Aircraft Protocol LuftFzgG InsO EU-VO 1008/2008 – die einschlägigen Normen werden je nach Sachverhaltsebene (nationaler Betrieb EU-Recht internationales Recht) herangezogen und zu jedem Normzitat kurz erläutert.
 
-## Prüfroutine
+- **LuftVG §§ 6 20 29 31 64**: Genehmigung Betrieb Register Aufsicht.
+- **LuftSiG §§ 7-9**: Zuverlässigkeitsüberprüfung Sicherheitsprogramme Aufsicht.
+- **EU-VO 1008/2008 Art. 3-9**: Betriebsgenehmigung finanzielle Leistungsfähigkeit Überwachung.
+- **Cape Town Convention Art. 2-16**: Internationale Sicherungsinteressen ICAO-Register.
+- **LuftFzgG §§ 1-28**: Nationales Pfandrecht Vollstreckung AG Braunschweig.
+- **InsO §§ 15a 17-19 47 50**: Insolvenzantragspflicht Gläubigerrechte.
+- **VwGO §§ 68 74 80**: Widerspruch Klage aufschiebende Wirkung.
+- **Cape Town Aircraft Protocol Art. XII**: Prioritäten konkurrierender Sicherungsrechte im internationalen Register.
+- **LuftFzgG § 3**: Entstehung des Pfandrechts; Eintragungszeitpunkt als Prioritätsregel.
+- **InsO § 47**: Aussonderungsrecht des Leasinggebers; Priorität gegenüber Insolvenzgläubigern.
+## Prüfraster
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+1. Ist zuständige Behörde korrekt adressiert?
+2. Sind alle Register vollständig abgefragt?
+3. Laufen Fristen – sind alle gesichert?
+4. Besteht Cape-Town-Registrierung mit IDERA?
+5. Ist Insolvenzrisiko bewertet?
+6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
+7. Ist eine IDERA (Irrevocable Deregistration and Export Request Authorisation) im Cape-Town-Register eingetragen?
+8. Hat Leasinggeber wirksam nach InsO § 47 Aussonderung geltend gemacht?
+## Typische Fallstricke
 
-## Typische Artefakte
+- Falsche Behörde adressiert; Frist läuft unbemerkt ab.
+- Cape-Town-Register nicht abgefragt; internationale Belastungen unerkannt.
+- Insolvenzfrühzeichen ignoriert; Antragspflicht ausgelöst ohne Reaktion.
+- Sicherheitsauflage als verhältnismäßig hingenommen ohne eigene Prüfung.
+- IDERA nicht im Cape-Town-Register eingetragen; Deregistrierung im Streitfall verzögert.
+- Leasingvertrag nach englischem Recht; deutsches Insolvenzgericht weicht Aussonderungsanspruch ab.
 
-- Luftfahrzeug-/Registerdatenblatt
-- LBA- und Lizenzprüfvermerk
-- Aircraft mortgage/arrest map
-- Flughafen-/Slot-/Sicherheits-Dashboard
+## Vertiefung Local-Counsel-Koordination
 
-## Red-Team-Fragen
+Bei grenzüberschreitenden Luftrechtsfällen ist die Koordination mit ausländischen Anwälten entscheidend:
 
-- Aircraft mortgage mit deutschem Grundpfandrecht gleichgesetzt
-- LBA-Zuständigkeit falsch
-- Insolvenzreife/finanzielle Leistungsfähigkeit nicht getrennt
-- internationales Register/Leasing nicht geklärt
+- **Informationspaket**: Luftfahrzeugrolle-Auszug Cape-Town-Registerauszug Leasingvertrag AOC-Kopie und Behördenbescheide strukturiert übermitteln.
+- **Jurisdiktionsfragen**: Welches Recht gilt für Sicherungsinteresse (Cape Town)? Welches für Betriebsgenehmigung (nationales Recht)? Klare Abgrenzung im Briefing.
+- **Fristen synchronisieren**: Unterschiedliche Widerspruchs- und Klagfristen in verschiedenen Rechtsordnungen; gemeinsamen Fristenkalender anlegen.
+- **Haftungsfragen**: Local Counsel haftet nach eigenem nationalen Recht; Haftungsfreistellung im Mandat klären.
 
-## Ausgabeformat
+## Output
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+Structured Briefing Memo (Englisch max. 3 Seiten). Key Documents Checklist. Specific Questions for Local Counsel. Cape-Town-Registrierungs-Checkliste. Aussonderungsvermerk bei Insolvenz.
+## Quellen
 
-## Qualitätsregel
+- LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
+- Cape Town Convention: https://www.unidroit.org/instruments/security-interests/aircraft-protocol/
+- LuftFzgG: https://www.gesetze-im-internet.de/luftfzgg/
+- InsO: https://www.gesetze-im-internet.de/inso/
+- ICAO International Registry: https://www.internationalregistry.aero
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+## Hinweise für die Praxis
+
+Dieser Skill deckt den Bereich Flugzeug-Leasing und Cape Town Convention ab. Folgende praktische Hinweise ergänzen die obigen Ausführungen:
+
+- Briefing-Dokument immer auf Englisch und in verständlicher Sprache; kein deutsches Rechtsjargon.
+- Zuständigkeit und anwendbares Recht im Briefing klar benennen.
+- Honorar- und Haftungsfragen im Vorfeld klären; Engagement-Letter anfordern.
+- Regelmäßige Status-Updates vereinbaren; gemeinsamen Fristenkalender führen.
+
+### Dokumentationspflichten
+
+Für Mandate im Bereich Flugzeug-Leasing und Cape Town Convention sind folgende Dokumente regelmäßig anzufordern:
+
+- Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
+- AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
+- Cape-Town-Registerauszug (ICAO International Registry)
+- Gültige Betriebsgenehmigung und AOC-Kopie
+- Leasingvertrag oder Eigentumsnachweis
+- Aktuelle Behördenbescheide und Aufsichtskorrespondenz

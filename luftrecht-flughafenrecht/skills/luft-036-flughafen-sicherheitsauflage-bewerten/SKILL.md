@@ -1,57 +1,94 @@
 ---
 name: luft-036-flughafen-sicherheitsauflage-bewerten
-description: "Luftrecht und Flughafenrecht: Flughafen: Sicherheitsauflage bewerten. Sicherheitsauflage bewerten für Flughafen im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: 'Flughafen erhaelt LuftSiG-Bescheid mit Sicherheitsauflagen oder EASA-Inspektion ergibt Findings. Skill prueft LuftSiG § 8 Sicherheitsprogrammpflichten EU-DVO 2015/1998 Findings-Kategorien Verhaeltnismaessigkeit und Widerspruchsrecht und liefert Auflagen-Bewertungs-Vermerk und Abhilfeplan-Muster.'
 ---
 
-# Flughafen Sicherheitsauflage Bewerten
+# Flughafen – Sicherheitsauflage bewerten
 
-## Arbeitsauftrag
+## Mandantenfall
 
-Flughafen Sicherheitsauflage Bewerten wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Luftrecht und Flughafenrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+- Flughafen erhält nach LuftSiG-Inspektion 8 Findings; 2 davon Level 1 mit sofortigem Handlungsbedarf.
+- Neue EU-DVO-Anforderung zu Perimeterzäunung tritt in Kraft; Flughafen braucht Umsetzungsplan.
+- Flughafen fechtet unverhältnismäßige Auflage zur Videoüberwachung an; Kosten 3 Mio. Euro.
 
-## Einstieg ohne Leerlauf
+## Erste Schritte
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+1. Sachverhalt strukturieren: Flughafen Art des Problems beteiligte Behörden Fristen.
+2. Planfeststellungsstatus prüfen: LuftVG § 6/8 Genehmigung Auflagen aktuell.
+3. Grundbuch und Eigentümerstruktur klären: kommunal staatlich privatwirtschaftlich.
+4. LuftSiG-Sicherheitsprogramm auf Aktualität prüfen: EU-DVO 2015/1998 Anforderungen.
+5. Finanzlage einschätzen: EU-Beihilferechtsstatus Subventionen Darlehen.
+6. Handlungsbedarf dokumentieren: Vermerk mit Fristenstand und Empfehlungen.
 
-## Norm- und Quellenanker
+## Rechtsrahmen
 
-- LuftVG, LuftSiG, LuftRegV, LuftFzgG, EU-Airline-Lizenzrecht
-- LBA, Betriebsgenehmigung, finanzielle Leistungsfähigkeit, Slots
-- Flugzeugpfandrecht, Register, Leasing, Beschlagnahme/Pfändung
-- Flughafenplanung, Luftsicherheit, Drohnen, Fluggastrechte-Schnittstelle
+- **LuftVG §§ 6-8**: Flugplatzgenehmigung und Planfeststellungspflicht.
+- **LuftVG § 10**: Wirkung des Planfeststellungsbeschlusses.
+- **LuftSiG § 8**: Sicherheitspflichten des Flugplatzbetreibers.
+- **EU-DVO 2015/1998**: Technische Sicherheitsanforderungen.
+- **FluglärmG §§ 2-9**: Lärmschutzbereiche und Schallschutzansprüche.
+- **InsO §§ 15a 17-19**: Insolvenzantragspflicht.
+- **VwVfG §§ 72-78**: Planfeststellungsverfahren.
+- **LuftVG § 6**: Genehmigung des Flughafenbetriebs; sachliche und persönliche Voraussetzungen.
+- **LuftVG § 8**: Planfeststellungsverfahren für Flughafenausbau; UVP-Pflicht.
+- **LuftVG § 9**: Planfeststellungsbeschluss; Drittwirkung und Bestandsschutz.
+- **FluglärmG § 4**: Lärmschutzbereiche; Tagschutzzonen 1 und 2 sowie Nachtschutzzone.
+- **VwVfG § 72**: Planfeststellungsverfahren allgemein; Beteiligungsrechte betroffener Dritter.
+## Prüfraster
 
-## Prüfroutine
+1. Ist Planfeststellungsbeschluss aktuell und vollständig umgesetzt?
+2. Sind LuftSiG-Sicherheitsprogramme auf aktuellem EU-DVO-Stand?
+3. Ist Grundbuchsituation und Eigentümerstruktur klar?
+4. Bestehen offene Klagen oder Einwendungsverfahren?
+5. Zeigen Finanzkennzahlen Insolvenzfrühzeichen?
+6. Sind alle Auflagen aus Planfeststellungsbeschluss fristgerecht erfüllt?
+7. Ist eine UVP nach UVPG § 4 durchgeführt und aktuell?
+8. Sind Lärmschutzbereiche nach FluglärmG § 4 neu zu ermitteln nach Bauerweiterung?
+## Typische Fallstricke
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+- Planfeststellungsauflagen veraltet und nicht auf aktuelles Recht angepasst.
+- LuftSiG-Sicherheitsprogramm nicht auf neue EU-DVO aktualisiert.
+- Insolvenzfrühzeichen bei regionalen Flughäfen unterschätzt.
+- Verfahrensfristen im Planfeststellungsverfahren versäumt.
+- Planfeststellungsbeschluss nicht vollständig umgesetzt; Auflagen aus Lärmschutzbereich vergessen.
+- Dritte (Anwohner) fristgerecht Klage erhoben; aufschiebende Wirkung ignoriert.
 
-## Typische Artefakte
+## Vertiefung Sicherheitsauflagen
 
-- Luftfahrzeug-/Registerdatenblatt
-- LBA- und Lizenzprüfvermerk
-- Aircraft mortgage/arrest map
-- Flughafen-/Slot-/Sicherheits-Dashboard
+Sicherheitsauflagen im Luftrecht müssen auf Verhältnismäßigkeit und Rechtsgrundlage überprüft werden:
 
-## Red-Team-Fragen
+- **LuftSiG §§ 7-9**: Zuverlässigkeitsüberprüfung ist standardisierte Sicherheitsauflage; Ablehnungsbescheid ist anfechtbar.
+- **EU-VO 300/2008**: Sicherheitsprogramme für Flughafen und Luftverkehrsunternehmen; Abweichung von Standard-Maßnahme bedarf Gleichwertigkeitsnachweis.
+- **Verhältnismäßigkeit**: BVerfG-Rechtsprechung zu Grundrechtseingriffen; Einschränkung der Berufsfreiheit (Art. 12 GG) nur durch geeignete erforderliche und angemessene Maßnahme.
+- **Eilrechtsschutz**: § 80 Abs. 5 VwGO bei sofortigem Vollzug; Interessenabwägung Sicherheitsinteresse vs. Eingriff.
 
-- Aircraft mortgage mit deutschem Grundpfandrecht gleichgesetzt
-- LBA-Zuständigkeit falsch
-- Insolvenzreife/finanzielle Leistungsfähigkeit nicht getrennt
-- internationales Register/Leasing nicht geklärt
+## Output
 
-## Ausgabeformat
+Vermerk zu Flughafen – Sicherheitsauflage bewerten mit Rechtslagenanalyse Handlungsoptionen und Fristen. Planfeststellungs-Checkliste. Lärmschutzbereichs-Karte als Anhang.
+## Quellen
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+- LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
+- LuftSiG: https://www.gesetze-im-internet.de/luftsig/
+- FluglärmG: https://www.gesetze-im-internet.de/fluglaermg/
+- UVPG: https://www.gesetze-im-internet.de/uvpg/
+- BVerwG Planfeststellung: https://www.bverwg.de
 
-## Qualitätsregel
+## Hinweise für die Praxis
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+Dieser Skill deckt den Bereich Flughafenbetrieb und Planfeststellung ab. Folgende praktische Hinweise ergänzen die obigen Ausführungen:
+
+- Jede Sicherheitsauflage auf Rechtsgrundlage und Verhältnismäßigkeit prüfen.
+- Zuverlässigkeitsüberprüfung nach LuftSiG hat eigenen Verwaltungsrechtsweg; gesondert anfechten.
+- Sicherheitsprogramm-Abweichungen rechtzeitig mit Behörde abstimmen.
+- Bei EU-Reisenden datenschutzrechtliche Aspekte der Überprüfung beachten (DSGVO).
+
+### Dokumentationspflichten
+
+Für Mandate im Bereich Flughafenbetrieb und Planfeststellung sind folgende Dokumente regelmäßig anzufordern:
+
+- Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
+- AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
+- Cape-Town-Registerauszug (ICAO International Registry)
+- Gültige Betriebsgenehmigung und AOC-Kopie
+- Leasingvertrag oder Eigentumsnachweis
+- Aktuelle Behördenbescheide und Aufsichtskorrespondenz

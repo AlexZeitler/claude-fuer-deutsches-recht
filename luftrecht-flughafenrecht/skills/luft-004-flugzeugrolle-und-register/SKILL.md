@@ -1,57 +1,88 @@
 ---
 name: luft-004-flugzeugrolle-und-register
-description: "Luftrecht und Flughafenrecht: Flugzeugrolle und Register. Flugzeugrolle und Register im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: 'Mandant will Luftfahrzeugrolle abfragen Eigentuemer klaeren oder Halteraenderung eintragen. Prueft LuftVG §§ 64-65 LuftVZO §§ 14-24 Rollenanforderungen Datenabruf LBA Braunschweig Pfandrechtsregister AG Braunschweig und Cape-Town-ICAO-Register und liefert Registerauszugs-Auswertung mit Handlungsoptionen.'
 ---
 
-# Flugzeugrolle Und Register
+# Luftfahrzeugrolle und Register – Registerabfrage und Eintragsänderung
 
-## Arbeitsauftrag
+## Mandantenfall
 
-Flugzeugrolle Und Register wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Luftrecht und Flughafenrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+- Kreditinstitut finanziert Flugzeugkauf und will sicherstellen dass Pfandrecht korrekt in Luftfahrzeugrolle und Pfandrechtsregister AG Braunschweig eingetragen ist.
+- Halter erhält Steuerbescheid für vermeintlich sein Fahrzeug; Luftfahrzeugrolle zeigt noch alten Eigentümer nach Veräußerung.
+- Leasingnehmer möchte prüfen ob auf dem geleasten Flugzeug Cape-Town-Eintragungen im ICAO-Register bestehen.
 
-## Einstieg ohne Leerlauf
+## Erste Schritte
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+1. Luftfahrzeugrolle beim LBA abrufen: schriftlicher Antrag oder Online-Auskunft; Auszug enthält Eigentümer Halter Hersteller Seriennummer Kennzeichen.
+2. Pfandrechtsregister beim AG Braunschweig abfragen: öffentliches Register; Einsicht vor Ort oder Auszug per Antrag.
+3. ICAO-Register prüfen: https://www.internationalregistry.aero für Cape-Town-Eintragungen nach Airframe-Seriennummer.
+4. Abweichungen zwischen den drei Registern feststellen und Handlungsbedarf benennen.
+5. Änderungsantrag bei LBA stellen: Formular mit Belegen für neuen Eigentümer/Halter.
+6. Frist nach LuftVZO § 24: Änderungen unverzüglich anzuzeigen; Ordnungswidrigkeit bei Verzögerung.
 
-## Norm- und Quellenanker
+## Rechtsrahmen
 
-- LuftVG, LuftSiG, LuftRegV, LuftFzgG, EU-Airline-Lizenzrecht
-- LBA, Betriebsgenehmigung, finanzielle Leistungsfähigkeit, Slots
-- Flugzeugpfandrecht, Register, Leasing, Beschlagnahme/Pfändung
-- Flughafenplanung, Luftsicherheit, Drohnen, Fluggastrechte-Schnittstelle
+- **LuftVG § 64 Abs. 1**: Luftfahrzeugrolle beim LBA.
+- **LuftVG § 64 Abs. 3**: Pflichtangaben in der Rolle.
+- **LuftVG § 64 Abs. 5**: Anzeigepflicht bei Änderungen unverzüglich.
+- **LuftVZO § 14**: Eintragung von Amts wegen bei Verkehrszulassung.
+- **LuftVZO § 19**: Löschung aus der Luftfahrzeugrolle bei Außerdienststellung.
+- **LuftFzgG § 1**: Luftfahrzeugpfandrecht; Eintragung AG Braunschweig.
+- **Cape Town Convention Art. 16**: Internationales Register; Vorrang vor nationalem Register.
+## Prüfraster
 
-## Prüfroutine
+1. Stimmt Eingetragener in Luftfahrzeugrolle mit aktuellem Eigentümer überein?
+2. Sind Pfandrechte im AG-Braunschweig-Register eingetragen?
+3. Existieren Cape-Town-Eintragungen im internationalen Register?
+4. Ist Anzeigepflicht nach § 64 Abs. 5 LuftVG erfüllt?
+5. Sind Kennzeichen und Seriennummer in allen Registern konsistent?
+6. Besteht Löschungsanspruch nach Tilgung des Pfandrechts?
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+## Typische Fallstricke
 
-## Typische Artefakte
+- Verkauf ohne Ummeldung in Luftfahrzeugrolle; Steuern und Haftung treffen alten Eingetragenen.
+- Pfandrecht im nationalen Register ohne Cape-Town-Eintrag; internationaler Gläubiger verliert Vorrang.
+- Löschung aus Rolle ohne vorherige Entpfandung; Register widersprüchlich.
+- ICAO-Registerauszug nicht eingeholt; versteckte internationale Belastungen.
 
-- Luftfahrzeug-/Registerdatenblatt
-- LBA- und Lizenzprüfvermerk
-- Aircraft mortgage/arrest map
-- Flughafen-/Slot-/Sicherheits-Dashboard
 
-## Red-Team-Fragen
+## Vertiefung Registerrecht
 
-- Aircraft mortgage mit deutschem Grundpfandrecht gleichgesetzt
-- LBA-Zuständigkeit falsch
-- Insolvenzreife/finanzielle Leistungsfähigkeit nicht getrennt
-- internationales Register/Leasing nicht geklärt
+Die Registerauswertung ist Grundlage jeder luftrechtlichen Due-Diligence-Prüfung:
 
-## Ausgabeformat
+- **Luftfahrzeugrolle (LBA)**: Enthält Halter Eigentümer Kennzeichen und Belastungen; Abruf online beim LBA möglich.
+- **AG Braunschweig (Pfandrechtsregister)**: Führt alle eingetragenen Pfandrechte an deutschen Luftfahrzeugen; Rangfolge nach Eintragungsdatum.
+- **ICAO International Registry (Cape Town)**: Enthält internationale Sicherungsinteressen; Suche nach Luftfahrzeugkennzeichen und MSN.
+- **Registerauszug Aktualität**: Stets aktuellen Auszug anfordern; veraltete Auszüge führen zu Haftungsrisiken.
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+## Output
 
-## Qualitätsregel
+Registerauszugs-Auswertung: Eigentümer/Halter/Pfandrechte je Register. Handlungsmatrix. Muster-Änderungsantrag LBA.
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+## Quellen
+
+- LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
+- LuftFzgG: https://www.gesetze-im-internet.de/luftfzgg/
+- LuftVZO: https://www.gesetze-im-internet.de/luftvzo/
+- Internationales Register Cape Town: https://www.internationalregistry.aero
+- LBA: https://www.lba.de/DE/Luftfahrtunternehmen/Luftfahrzeugrolle/luftfahrzeugrolle_node.html
+
+## Hinweise für die Praxis
+
+Dieser Skill deckt den Bereich Luftrecht ab. Folgende praktische Hinweise ergänzen die obigen Ausführungen:
+
+- Alle drei Register (LBA-Rolle AG Braunschweig Cape Town) stets parallel abfragen.
+- Registerauszüge mit Datum versehen und in Mandantenakte archivieren.
+- Änderungen im Register sofort melden; Unterlassung kann Haftung auslösen.
+- Bei Kauf oder Leasingübernahme immer Registerhistorie der letzten 10 Jahre prüfen.
+
+### Dokumentationspflichten
+
+Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzufordern:
+
+- Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
+- AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
+- Cape-Town-Registerauszug (ICAO International Registry)
+- Gültige Betriebsgenehmigung und AOC-Kopie
+- Leasingvertrag oder Eigentumsnachweis
+- Aktuelle Behördenbescheide und Aufsichtskorrespondenz

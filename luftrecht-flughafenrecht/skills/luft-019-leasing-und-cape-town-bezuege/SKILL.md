@@ -1,57 +1,80 @@
 ---
 name: luft-019-leasing-und-cape-town-bezuege
-description: "Luftrecht und Flughafenrecht: Leasing und Cape-Town-Bezüge. Leasing und Cape-Town-Bezüge im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: 'Wet-Lease Dry-Lease oder Finance-Lease eines Flugzeugs mit Cape-Town-Registrierung. Prueft Cape Town Convention Art. 2-9 Internationale Interests LuftFzgG nationales Pfandrecht IDERA Aircraft Protocol Art. XI Alternative A/B und liefert Leasing-Sicherungsstrategie und Vertrags-Pruef-Checkliste.'
 ---
 
-# Leasing Und Cape Town Bezuege
+# Leasing und Cape Town – Flugzeugsicherung im internationalen Leasing
 
-## Arbeitsauftrag
+## Mandantenfall
 
-Leasing Und Cape Town Bezuege wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Luftrecht und Flughafenrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+- Irischer Leasinggeber verleast Boeing an deutsche Regionalairline (Dry-Lease); Vertrag nach englischem Recht; Sicherungsinteresse soll im ICAO-Register eingetragen werden.
+- Wet-Lease-Arrangement: ausländische Airline stellt deutschem Carrier Flugzeug mit Crew zur Verfügung; AOC-Fragen und Betriebsgenehmigung unklar.
+- Finance-Lease läuft aus; Airline will Kaufoption ausüben; Umschreibung in Luftfahrzeugrolle nötig.
 
-## Einstieg ohne Leerlauf
+## Erste Schritte
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+1. Leasingtyp bestimmen: Dry-Lease (Flugzeug ohne Crew Leasingnehmer nutzt eigenes AOC) Wet-Lease (Flugzeug mit Crew und AOC des Leasinggebers) Finance-Lease (wirtschaftliches Eigentum beim Leasingnehmer).
+2. Cape Town Registration: internationales Sicherungsinteresse des Leasinggebers im ICAO-Register eintragen; IDERA hinterlegen.
+3. IDERA-Prüfung: ermöglicht Entregistrierung bei Vertragsbruch ohne Gerichtsverfahren.
+4. Wet-Lease: LBA-Genehmigung nach LuftVG § 21a; EU-intern EU-VO 1008/2008 Art. 13; AOC bleibt beim Verleasenden.
+5. Nationales Pfandrecht: Falls Deutschland als Registrierungsstaat Pfandrecht beim AG Braunschweig eintragen.
+6. Insolvenzschutz: Aircraft Protocol Alternative A in Deutschland prüfen.
 
-## Norm- und Quellenanker
+## Rechtsrahmen
 
-- LuftVG, LuftSiG, LuftRegV, LuftFzgG, EU-Airline-Lizenzrecht
-- LBA, Betriebsgenehmigung, finanzielle Leistungsfähigkeit, Slots
-- Flugzeugpfandrecht, Register, Leasing, Beschlagnahme/Pfändung
-- Flughafenplanung, Luftsicherheit, Drohnen, Fluggastrechte-Schnittstelle
+- **Cape Town Convention Art. 2**: Internationale Sicherungsinteressen; Entstehung durch Vertrag und ICAO-Registrierung.
+- **Cape Town Convention Art. 9**: Schutz des gesicherten Gläubigers; Remedies bei Default.
+- **Aircraft Protocol Art. IV**: Dry-Lease-Gleichstellung; Recht des Registrierungsstaats auf IDERA.
+- **Aircraft Protocol Art. XI**: Insolvenzschutz Alternative A/B.
+- **EU-VO 1008/2008 Art. 13**: Wet-Lease innerhalb der EU; Genehmigungspflicht.
+- **LuftVG § 21a**: Wet-Lease mit Drittlands-Carrier; Sondergenehmigung LBA.
+- **LuftFzgG §§ 1-5**: Nationales Pfandrecht; Eintragung AG Braunschweig.
 
-## Prüfroutine
+## Prüfraster
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+1. Welcher Leasingtyp liegt vor (Dry/Wet/Finance)?
+2. Ist internationales Sicherungsinteresse im ICAO-Register eingetragen?
+3. Ist IDERA korrekt hinterlegt?
+4. Gilt EU-VO 1008/2008 Art. 13 für Wet-Lease?
+5. Hat Deutschland Alternative A des Aircraft Protocols erklärt?
+6. Ist Cape-Town-Eintrag zeitlich vor nationalem Pfandrecht?
 
-## Typische Artefakte
+## Typische Fallstricke
 
-- Luftfahrzeug-/Registerdatenblatt
-- LBA- und Lizenzprüfvermerk
-- Aircraft mortgage/arrest map
-- Flughafen-/Slot-/Sicherheits-Dashboard
+- IDERA nicht hinterlegt; Entregistrierungsrecht fehlt bei Vertragsbruch.
+- Wet-Lease ohne LBA-Genehmigung; Betrieb illegal.
+- Finance-Lease als Dry-Lease deklariert; steuerliche und rechtliche Konsequenzen.
+- Aircraft-Protocol-Alternative ignoriert; Insolvenzschutz schwächer als erwartet.
 
-## Red-Team-Fragen
+## Output
 
-- Aircraft mortgage mit deutschem Grundpfandrecht gleichgesetzt
-- LBA-Zuständigkeit falsch
-- Insolvenzreife/finanzielle Leistungsfähigkeit nicht getrennt
-- internationales Register/Leasing nicht geklärt
+Leasing-Sicherungsstrategie je Leasingtyp. Vertrags-Prüf-Checkliste Cape Town compliance. IDERA-Hinterlegungsablauf.
 
-## Ausgabeformat
+## Quellen
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+- Cape Town Convention: https://www.unidroit.org/instruments/security-interests/aircraft-protocol/
+- ICAO Register: https://www.internationalregistry.aero
+- EU-VO 1008/2008: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32008R1008
+- LuftFzgG: https://www.gesetze-im-internet.de/luftfzgg/
 
-## Qualitätsregel
+## Hinweise für die Praxis
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+Dieser Skill deckt den Bereich Luftrecht ab. Folgende praktische Hinweise ergänzen die obigen Ausführungen:
+
+- Einschlägige Normen vor Mandatsbearbeitung vollständig auf aktuelle Fassung prüfen.
+- Behördenanschreiben stets mit Aktenzeichen und Fristbenennung versehen.
+- Klagefristen und Widerspruchsfristen sofort bei Mandatsannahme kalendarisch sichern.
+- Bei grenzüberschreitenden Sachverhalten internationalen Normenkonflikt prüfen.
+
+### Dokumentationspflichten
+
+Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzufordern:
+
+- Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
+- AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
+- Cape-Town-Registerauszug (ICAO International Registry)
+- Gültige Betriebsgenehmigung und AOC-Kopie
+- Leasingvertrag oder Eigentumsnachweis
+- Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+
+

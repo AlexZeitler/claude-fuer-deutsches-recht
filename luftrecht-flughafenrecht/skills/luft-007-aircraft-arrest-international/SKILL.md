@@ -1,57 +1,80 @@
 ---
 name: luft-007-aircraft-arrest-international
-description: "Luftrecht und Flughafenrecht: Aircraft Arrest international. Aircraft Arrest international im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: 'Mandant will Flugzeug im Ausland arrestieren oder auslaendischer Glaeubiger arrestiert in Deutschland. Prueft Cape Town Convention Art. 8-10 Aircraft Protocol Remedies IDERA bilaterale Vollstreckungsvertraege und nationales ZPO-Arrestrecht und liefert Arrest-Strategie und Local-Counsel-Briefing-Vorlage.'
 ---
 
-# Aircraft Arrest International
+# Aircraft Arrest International – grenzüberschreitender Flugzeug-Arrest
 
-## Arbeitsauftrag
+## Mandantenfall
 
-Aircraft Arrest International wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Luftrecht und Flughafenrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+- Deutscher Leasinggeber will nach Vertragsbruch des ausländischen Leasingnehmers das Flugzeug bei Zwischenstopp in London arrestieren lassen.
+- Ausländischer Gläubiger will Flugzeug einer deutschen Airline bei Landung in New York sichern.
+- Airline-Insolvenz: mehrere Gläubiger aus verschiedenen Ländern konkurrieren um Arreste auf die verbliebene Flotte.
 
-## Einstieg ohne Leerlauf
+## Erste Schritte
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+1. Aufenthaltsort des Flugzeugs ermitteln: Flugplan ADS-B-Tracking Flughafendaten; Jurisdiktion folgt physischem Standort.
+2. Cape Town Convention prüfen: beide Länder Vertragsstaaten? Dann gelten Art. 8-15 Aircraft Protocol für Sicherungsrechte und Remedies.
+3. IDERA prüfen: Irrevocable Deregistration and Export Request Authorisation; ermöglicht Entregistrierung ohne Gerichtsverfahren.
+4. Lokalen Counsel beauftragen: Arrest-Antrag nach lokaler ZPO; in UK CPR Part 61 in USA Federal Aviation Act.
+5. Cape Town Remedies in Insolvenz: Art. 30 Aircraft Protocol; Alternative A (automatische Herausgabe) oder Alternative B (Genehmigungserfordernis).
+6. Koordination: deutsche Vollstreckungsmaßnahmen (ZPO §§ 916 ff.) parallel zu internationalem Arrest.
 
-## Norm- und Quellenanker
+## Rechtsrahmen
 
-- LuftVG, LuftSiG, LuftRegV, LuftFzgG, EU-Airline-Lizenzrecht
-- LBA, Betriebsgenehmigung, finanzielle Leistungsfähigkeit, Slots
-- Flugzeugpfandrecht, Register, Leasing, Beschlagnahme/Pfändung
-- Flughafenplanung, Luftsicherheit, Drohnen, Fluggastrechte-Schnittstelle
+- **Cape Town Convention Art. 8**: Gläubigerrechte bei Nichterfüllung; Besitznahme Veräußerung Vermietung.
+- **Cape Town Convention Art. 10**: Zusätzliche Remedies in Insolvenz.
+- **Aircraft Protocol Art. IX**: Entregistrierung und Verbringung; IDERA als Instrument.
+- **Aircraft Protocol Art. XI Alt. A/B**: Insolvenz-Schutzregime; Unterschiede je nach Ratifikationserklärung.
+- **ZPO §§ 916-934**: Arrestrecht; Arrestanspruch und Arrestgrund.
+- **Montreal Convention Art. 35**: Verjährungsfrist 2 Jahre für Frachtansprüche.
+- **Chicago Convention Art. 79**: Zusammenarbeit der Staaten bei Luftfahrt-Streitigkeiten.
 
-## Prüfroutine
+## Prüfraster
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+1. Sind beide Staaten Vertragsstaaten der Cape Town Convention?
+2. Ist IDERA korrekt registriert und beim ICAO-Register hinterlegt?
+3. Hat der Staat Alternative A oder B erklärt?
+4. Besteht Arrestgrund (Fluchtverdacht Veräußerungsabsicht Zahlungsunfähigkeit)?
+5. Rangverhältnis der Gläubiger im ICAO-Register?
+6. Ist Insolvenzverfahren eröffnet (lex fori concursus)?
 
-## Typische Artefakte
+## Typische Fallstricke
 
-- Luftfahrzeug-/Registerdatenblatt
-- LBA- und Lizenzprüfvermerk
-- Aircraft mortgage/arrest map
-- Flughafen-/Slot-/Sicherheits-Dashboard
+- IDERA nicht hinterlegt; Entregistrierungsweg entfällt.
+- Staat des Flugzeugstandorts hat Cape Town nicht ratifiziert; rein nationales Recht gilt.
+- Alternative-B-Staat: kein automatischer Herausgabeanspruch in Insolvenz.
+- Parallel laufende nationale Arreste konkurrieren; Prioritätsreihenfolge unklar.
 
-## Red-Team-Fragen
+## Output
 
-- Aircraft mortgage mit deutschem Grundpfandrecht gleichgesetzt
-- LBA-Zuständigkeit falsch
-- Insolvenzreife/finanzielle Leistungsfähigkeit nicht getrennt
-- internationales Register/Leasing nicht geklärt
+Arrest-Strategie-Vermerk mit Jurisdiktion und Cape-Town-Analyse. Local-Counsel-Briefing-Vorlage (Englisch) mit IDERA-Status. Ranganalyse internationale Gläubiger.
 
-## Ausgabeformat
+## Quellen
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+- Cape Town Convention/Aircraft Protocol: https://www.unidroit.org/instruments/security-interests/aircraft-protocol/
+- ICAO Internationales Register: https://www.internationalregistry.aero
+- LuftFzgG: https://www.gesetze-im-internet.de/luftfzgg/
+- ZPO: https://www.gesetze-im-internet.de/zpo/
 
-## Qualitätsregel
+## Hinweise für die Praxis
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+Dieser Skill deckt den Bereich Luftrecht ab. Folgende praktische Hinweise ergänzen die obigen Ausführungen:
+
+- Einschlägige Normen vor Mandatsbearbeitung vollständig auf aktuelle Fassung prüfen.
+- Behördenanschreiben stets mit Aktenzeichen und Fristbenennung versehen.
+- Klagefristen und Widerspruchsfristen sofort bei Mandatsannahme kalendarisch sichern.
+- Bei grenzüberschreitenden Sachverhalten internationalen Normenkonflikt prüfen.
+
+### Dokumentationspflichten
+
+Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzufordern:
+
+- Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
+- AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
+- Cape-Town-Registerauszug (ICAO International Registry)
+- Gültige Betriebsgenehmigung und AOC-Kopie
+- Leasingvertrag oder Eigentumsnachweis
+- Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+
+

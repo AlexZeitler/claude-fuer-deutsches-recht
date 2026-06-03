@@ -1,57 +1,80 @@
 ---
 name: luft-016-passagierrechte-schnittstelle
-description: "Luftrecht und Flughafenrecht: Passagierrechte Schnittstelle. Passagierrechte Schnittstelle im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: 'Passagier fordert Entschaedigung nach Flugumsetzung Annullierung oder Verspaetung. Prueft EU-VO 261/2004 Art. 5-7 Entschaedigungshoehe 250-600 EUR aussergewoehnliche Umstaende EuGH Sturgeon C-402/07 und Nelson C-581/10 Verbindungsflug-Rechtsprechung und liefert Klageschriftsatz-Baustein.'
 ---
 
-# Passagierrechte Schnittstelle
+# Passagierrechte – EU 261/2004 Entschädigung und Durchsetzung
 
-## Arbeitsauftrag
+## Mandantenfall
 
-Passagierrechte Schnittstelle wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Luftrecht und Flughafenrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+- Passagier wird bei überbuchtem Flug umgesetzt (Denied Boarding); Airline bietet nur Voucher statt Bargeldzahlung nach Art. 7 an.
+- Familie klagt nach fünfstündiger Ankunftsverspätung; Airline beruft sich auf Streik als außergewöhnlichen Umstand.
+- Verbindungsflug mit Endstrecke außerhalb EU: Mandant fragt ob EU 261 gilt wenn erster Abschnitt von Berlin nach London führt.
 
-## Einstieg ohne Leerlauf
+## Erste Schritte
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+1. Anwendungsbereich prüfen: EU-Flughafen als Abflug oder EU-Carrier als Betreiber (Art. 3 VO 261/2004).
+2. Tatbestand bestimmen: Denied Boarding (Art. 4) Annullierung (Art. 5) oder Verspätung von 3+ Stunden bei Ankunft (EuGH C-402/07 Sturgeon).
+3. Entschädigungshöhe: Art. 7 – 250 EUR (bis 1500 km) 400 EUR (1500-3500 km) 600 EUR (über 3500 km).
+4. Außergewöhnliche Umstände prüfen: Art. 5 Abs. 3; technische Defekte selten anerkannt (EuGH C-549/07 Wallentin-Hermann).
+5. Verbindungsflug-Regel: Gesamtreiseverspätung maßgeblich; EU 261 gilt für gesamten Flug wenn Abflug-Flughafen in EU.
+6. Klage: SÖP-Schlichtungsstelle oder direkt Klage beim AG; Verjährung 3 Jahre (§ 195 BGB).
 
-## Norm- und Quellenanker
+## Rechtsrahmen
 
-- LuftVG, LuftSiG, LuftRegV, LuftFzgG, EU-Airline-Lizenzrecht
-- LBA, Betriebsgenehmigung, finanzielle Leistungsfähigkeit, Slots
-- Flugzeugpfandrecht, Register, Leasing, Beschlagnahme/Pfändung
-- Flughafenplanung, Luftsicherheit, Drohnen, Fluggastrechte-Schnittstelle
+- **EU-VO 261/2004 Art. 3**: Anwendungsbereich; Abflugort oder EU-Carrier.
+- **EU-VO 261/2004 Art. 4**: Denied Boarding; Entschädigungspflicht.
+- **EU-VO 261/2004 Art. 5**: Annullierung; Entschädigung außer bei außergewöhnlichen Umständen.
+- **EU-VO 261/2004 Art. 7**: Entschädigungshöhe 250/400/600 EUR.
+- **EuGH C-402/07 (Sturgeon)**: Verspätung ab 3 Stunden Ankunft = Entschädigungsanspruch wie Annullierung.
+- **EuGH C-581/10 (Nelson)**: Bestätigung Sturgeon.
+- **EuGH C-549/07 (Wallentin-Hermann)**: Technischer Defekt selten außergewöhnlicher Umstand.
 
-## Prüfroutine
+## Prüfraster
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+1. Greift EU-VO 261/2004 (Abflugort EU oder EU-Carrier)?
+2. Liegt Denied Boarding Annullierung oder 3-h-Ankunftsverspätung vor?
+3. Beruft sich Airline auf außergewöhnliche Umstände – sind diese belegt?
+4. Ist Entschädigungshöhe korrekt berechnet (Entfernung)?
+5. Hat Airline alternative Betreuungsleistungen (Art. 9) erbracht?
+6. Ist Anspruch verjährt?
 
-## Typische Artefakte
+## Typische Fallstricke
 
-- Luftfahrzeug-/Registerdatenblatt
-- LBA- und Lizenzprüfvermerk
-- Aircraft mortgage/arrest map
-- Flughafen-/Slot-/Sicherheits-Dashboard
+- Außergewöhnliche Umstände zu weit angenommen; EuGH-Rechtsprechung einengend.
+- Verbindungsflug: nur Teil-Verspätung berechnet statt Gesamt-Ankunftsverspätung.
+- Voucher statt Barzahlung akzeptiert; Anspruch nicht vollständig abgegolten.
+- SÖP-Schlichtung nicht genutzt; unnötige Klageverzögerung.
 
-## Red-Team-Fragen
+## Output
 
-- Aircraft mortgage mit deutschem Grundpfandrecht gleichgesetzt
-- LBA-Zuständigkeit falsch
-- Insolvenzreife/finanzielle Leistungsfähigkeit nicht getrennt
-- internationales Register/Leasing nicht geklärt
+Klageschriftsatz-Baustein AG (EU-261-Anspruch). Außergewöhnliche-Umstände-Gegenargumentations-Liste. Entschädigungsberechnung-Tool.
 
-## Ausgabeformat
+## Quellen
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+- EU-VO 261/2004: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32004R0261
+- EuGH Sturgeon C-402/07: https://eur-lex.europa.eu
+- EuGH Nelson C-581/10: https://eur-lex.europa.eu
+- EuGH Wallentin-Hermann C-549/07: https://eur-lex.europa.eu
 
-## Qualitätsregel
+## Hinweise für die Praxis
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+Dieser Skill deckt den Bereich Luftrecht ab. Folgende praktische Hinweise ergänzen die obigen Ausführungen:
+
+- Einschlägige Normen vor Mandatsbearbeitung vollständig auf aktuelle Fassung prüfen.
+- Behördenanschreiben stets mit Aktenzeichen und Fristbenennung versehen.
+- Klagefristen und Widerspruchsfristen sofort bei Mandatsannahme kalendarisch sichern.
+- Bei grenzüberschreitenden Sachverhalten internationalen Normenkonflikt prüfen.
+
+### Dokumentationspflichten
+
+Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzufordern:
+
+- Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
+- AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
+- Cape-Town-Registerauszug (ICAO International Registry)
+- Gültige Betriebsgenehmigung und AOC-Kopie
+- Leasingvertrag oder Eigentumsnachweis
+- Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+
+

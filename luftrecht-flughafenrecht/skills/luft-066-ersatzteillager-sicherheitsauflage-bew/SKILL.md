@@ -1,57 +1,97 @@
 ---
 name: luft-066-ersatzteillager-sicherheitsauflage-bew
-description: "Luftrecht und Flughafenrecht: Ersatzteillager: Sicherheitsauflage bewerten. Sicherheitsauflage bewerten für Ersatzteillager im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: 'Ersatzteillager erhaelt EASA oder LBA-Auflage zur Lagerung zertifizierter Teile oder Gefahrgut-Auflage. Prueft EASA Part-145 Anforderungen LuftVG Gefahrgutrecht IATA DGR und liefert Auflagen-Bewertungs-Vermerk und Compliance-Plan.'
 ---
 
-# Ersatzteillager Sicherheitsauflage Bew
+# Ersatzteillager – Sicherheitsauflage bewerten
 
-## Arbeitsauftrag
+## Mandantenfall
 
-Ersatzteillager Sicherheitsauflage Bew wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Luftrecht und Flughafenrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+- EASA-Inspektion des Ersatzteillagers ergibt Non-Conformity zu Part-145 Anforderungen; 30-Tage-Frist zur Abhilfe.
+- Gefahrgut-Aufsichtsbehörde beanstandet Lagerung von Hydraulikflüssigkeiten ohne Genehmigung.
+- LBA ordnet nach Unfall Nachrüstung der Lagereinrichtungen an; Verhältnismäßigkeit fraglich.
 
-## Einstieg ohne Leerlauf
+## Erste Schritte
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+1. Sachverhalt strukturieren: Parteien betroffene Luftfahrzeuge/Einrichtungen beteiligte Behörden und laufende Fristen.
+2. Einschlägige Normen identifizieren: EASA Part-145 LuftVG Gefahrgutrecht IATA DGR EU-DVO 2015/1998.
+3. Register prüfen: LBA-Luftfahrzeugrolle AG-Braunschweig-Pfandrechtsregister ICAO-Cape-Town-Register je nach Fallrelevanz.
+4. Zuständigkeit klären: LBA vs. Landesbehörde vs. EASA vs. Verwaltungsgericht.
+5. Fristen sichern: Widerspruch (1 Monat) Klage (1 Monat) Insolvenzantrag (3/6 Wochen).
+6. Handlungsbedarf dokumentieren: Ampel-Vermerk mit konkreten nächsten Schritten.
 
-## Norm- und Quellenanker
+## Rechtsrahmen
 
-- LuftVG, LuftSiG, LuftRegV, LuftFzgG, EU-Airline-Lizenzrecht
-- LBA, Betriebsgenehmigung, finanzielle Leistungsfähigkeit, Slots
-- Flugzeugpfandrecht, Register, Leasing, Beschlagnahme/Pfändung
-- Flughafenplanung, Luftsicherheit, Drohnen, Fluggastrechte-Schnittstelle
+EASA Part-145 LuftVG Gefahrgutrecht IATA DGR EU-DVO 2015/1998 – die einschlägigen Normen werden je nach Sachverhaltsebene (nationaler Betrieb EU-Recht internationales Recht) herangezogen und zu jedem Normzitat kurz erläutert.
 
-## Prüfroutine
+- **LuftVG §§ 6 20 29 31 64**: Genehmigung Betrieb Register Aufsicht.
+- **LuftSiG §§ 7-9**: Zuverlässigkeitsüberprüfung Sicherheitsprogramme Aufsicht.
+- **EU-VO 1008/2008 Art. 3-9**: Betriebsgenehmigung finanzielle Leistungsfähigkeit Überwachung.
+- **Cape Town Convention Art. 2-16**: Internationale Sicherungsinteressen ICAO-Register.
+- **LuftFzgG §§ 1-28**: Nationales Pfandrecht Vollstreckung AG Braunschweig.
+- **InsO §§ 15a 17-19 47 50**: Insolvenzantragspflicht Gläubigerrechte.
+- **VwGO §§ 68 74 80**: Widerspruch Klage aufschiebende Wirkung.
+- **EASA Part-145 M.A.501**: Anforderungen an genehmigte Instandhaltungsbetriebe; Teileherkunft und Dokumentation.
+- **EASA Part-145 145.A.42**: Akzeptanz von Teilen und Materialien; Konformitätsnachweise (EASA Form 1).
+- **LuftVG § 10**: Instandhaltungsorganisation; Verbindung zur LBA-Aufsicht.
+- **HGB § 475h**: Lagerhalter-Haftung; Freizeichnung bei mangelhafter Dokumentation.
+- **VO (EG) 2042/2003 Anhang II (Part-145)**: Genehmigungsumfang; Erweiterung von Ratings.
+## Prüfraster
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+1. Ist zuständige Behörde korrekt adressiert?
+2. Sind alle Register vollständig abgefragt?
+3. Laufen Fristen – sind alle gesichert?
+4. Besteht Cape-Town-Registrierung mit IDERA?
+5. Ist Insolvenzrisiko bewertet?
+6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
+7. Liegt für jedes eingelagerte Teil ein gültiger Konformitätsnachweis (EASA Form 1) vor?
+8. Sind Lagerorte und Umgebungsbedingungen nach Part-145 dokumentiert?
+## Typische Fallstricke
 
-## Typische Artefakte
+- Falsche Behörde adressiert; Frist läuft unbemerkt ab.
+- Cape-Town-Register nicht abgefragt; internationale Belastungen unerkannt.
+- Insolvenzfrühzeichen ignoriert; Antragspflicht ausgelöst ohne Reaktion.
+- Sicherheitsauflage als verhältnismäßig hingenommen ohne eigene Prüfung.
+- Teile ohne EASA Form 1 eingelagert; bei Einbau Bußgeld und Zulassungsverlust.
+- Lagervertrag nicht Part-145-konform; zivilrechtliche Haftung trifft Betreiber.
 
-- Luftfahrzeug-/Registerdatenblatt
-- LBA- und Lizenzprüfvermerk
-- Aircraft mortgage/arrest map
-- Flughafen-/Slot-/Sicherheits-Dashboard
+## Vertiefung Sicherheitsauflagen
 
-## Red-Team-Fragen
+Sicherheitsauflagen im Luftrecht müssen auf Verhältnismäßigkeit und Rechtsgrundlage überprüft werden:
 
-- Aircraft mortgage mit deutschem Grundpfandrecht gleichgesetzt
-- LBA-Zuständigkeit falsch
-- Insolvenzreife/finanzielle Leistungsfähigkeit nicht getrennt
-- internationales Register/Leasing nicht geklärt
+- **LuftSiG §§ 7-9**: Zuverlässigkeitsüberprüfung ist standardisierte Sicherheitsauflage; Ablehnungsbescheid ist anfechtbar.
+- **EU-VO 300/2008**: Sicherheitsprogramme für Flughafen und Luftverkehrsunternehmen; Abweichung von Standard-Maßnahme bedarf Gleichwertigkeitsnachweis.
+- **Verhältnismäßigkeit**: BVerfG-Rechtsprechung zu Grundrechtseingriffen; Einschränkung der Berufsfreiheit (Art. 12 GG) nur durch geeignete erforderliche und angemessene Maßnahme.
+- **Eilrechtsschutz**: § 80 Abs. 5 VwGO bei sofortigem Vollzug; Interessenabwägung Sicherheitsinteresse vs. Eingriff.
 
-## Ausgabeformat
+## Output
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+Strukturierter Vermerk zu Ersatzteillager – Sicherheitsauflage bewerten mit Rechtslage Handlungsoptionen Risikobewertung und nächsten Schritten. Checkliste offener Punkte mit Fristen. Part-145-Compliance-Checkliste für Lager. Dokumentationsnachweis-Schema.
+## Quellen
 
-## Qualitätsregel
+- LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
+- Cape Town Convention: https://www.unidroit.org/instruments/security-interests/aircraft-protocol/
+- LuftFzgG: https://www.gesetze-im-internet.de/luftfzgg/
+- InsO: https://www.gesetze-im-internet.de/inso/
+- EASA Part-145: https://www.easa.europa.eu/en/document-library/regulations/commission-regulation-ec-no-20422003
+- LBA: https://www.lba.de
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+## Hinweise für die Praxis
+
+Dieser Skill deckt den Bereich Ersatzteillager für Luftfahrzeuge und Part-145-Zulassung ab. Folgende praktische Hinweise ergänzen die obigen Ausführungen:
+
+- Jede Sicherheitsauflage auf Rechtsgrundlage und Verhältnismäßigkeit prüfen.
+- Zuverlässigkeitsüberprüfung nach LuftSiG hat eigenen Verwaltungsrechtsweg; gesondert anfechten.
+- Sicherheitsprogramm-Abweichungen rechtzeitig mit Behörde abstimmen.
+- Bei EU-Reisenden datenschutzrechtliche Aspekte der Überprüfung beachten (DSGVO).
+
+### Dokumentationspflichten
+
+Für Mandate im Bereich Ersatzteillager für Luftfahrzeuge und Part-145-Zulassung sind folgende Dokumente regelmäßig anzufordern:
+
+- Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
+- AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
+- Cape-Town-Registerauszug (ICAO International Registry)
+- Gültige Betriebsgenehmigung und AOC-Kopie
+- Leasingvertrag oder Eigentumsnachweis
+- Aktuelle Behördenbescheide und Aufsichtskorrespondenz

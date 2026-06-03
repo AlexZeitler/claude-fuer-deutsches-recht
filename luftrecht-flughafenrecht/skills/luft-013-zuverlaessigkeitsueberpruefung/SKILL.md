@@ -1,57 +1,80 @@
 ---
 name: luft-013-zuverlaessigkeitsueberpruefung
-description: "Luftrecht und Flughafenrecht: Zuverlässigkeitsüberprüfung. Zuverlässigkeitsüberprüfung im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: 'Person wurde Zuverlässigkeit nach LuftSiG § 7 versagt oder widerrufen. Prueft Versagungsgruende Vorstrafen Verfassungsschutz-Erkenntnisse Gesamtwürdigung Anhoerungspflicht Rechtsschutz vor VG und BVerfG 2 BvL 8/07 Grundrechtskonformitaet und liefert Widerspruchs-Schriftsatz-Baustein.'
 ---
 
-# Zuverlaessigkeitsueberpruefung
+# Zuverlässigkeitsüberprüfung LuftSiG § 7 – Versagung, Widerruf und Rechtsschutz
 
-## Arbeitsauftrag
+## Mandantenfall
 
-Zuverlaessigkeitsueberpruefung wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Luftrecht und Flughafenrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+- Mitarbeiter eines Catering-Unternehmens am Flughafen erhält ablehnenden Bescheid der Luftsicherheitsbehörde wegen einer 8 Jahre alten Verurteilung; Arbeitsplatz gefährdet.
+- Flugzeugführer verliert Zutrittsberechtigung nach Verfassungsschutzeintrag; Mandant bestreitet die Tatsachengrundlage.
+- Flughafenbetreiber muss Mitarbeiter mit neuem Doppel-Arbeitsverhältnis neu überprüfen lassen; Verfahren läuft.
 
-## Einstieg ohne Leerlauf
+## Erste Schritte
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+1. Bescheid analysieren: welcher Versagungsgrund (§ 7 Abs. 1a LuftSiG)? Vorstrafe Verfassungsschutzeintrag Alkohol-/Drogenproblematik oder falsche Angaben?
+2. Anhörung prüfen: wurde Person vor Entscheidung angehört (§ 7 Abs. 5 LuftSiG)? Verletzung führt zur Aufhebbarkeit.
+3. Mitwirkungspflicht prüfen: hat Mandant alle angeforderten Unterlagen eingereicht?
+4. Widerspruch einlegen: keine aufschiebende Wirkung (§ 7 Abs. 12 LuftSiG); paralleler Eilantrag § 80 Abs. 5 VwGO.
+5. Gesamtwürdigung angreifen: Straftat lange zurückliegend seitdem unbelastet; Verhältnismäßigkeit.
+6. Verfassungsrechtliche Dimension: BVerfG bestätigt Verfassungsmäßigkeit aber verlangt Verhältnismäßigkeit im Einzelfall.
 
-## Norm- und Quellenanker
+## Rechtsrahmen
 
-- LuftVG, LuftSiG, LuftRegV, LuftFzgG, EU-Airline-Lizenzrecht
-- LBA, Betriebsgenehmigung, finanzielle Leistungsfähigkeit, Slots
-- Flugzeugpfandrecht, Register, Leasing, Beschlagnahme/Pfändung
-- Flughafenplanung, Luftsicherheit, Drohnen, Fluggastrechte-Schnittstelle
+- **LuftSiG § 7 Abs. 1**: Pflicht zur Zuverlässigkeitsüberprüfung für Sicherheitsbereichszugang.
+- **LuftSiG § 7 Abs. 1a**: Regel-Versagungsgründe: Freiheitsstrafe ab 60 Tagessätzen in letzten 5 Jahren; Verfassungsschutzeintrag.
+- **LuftSiG § 7 Abs. 5**: Anhörungspflicht vor ablehnender Entscheidung.
+- **LuftSiG § 7 Abs. 12**: Kein aufschiebende Wirkung von Widerspruch und Klage.
+- **LuftSiG § 7 Abs. 11**: Löschungsfristen für gespeicherte Daten.
+- **VwGO § 80 Abs. 5**: Eilantrag auf Wiederherstellung der aufschiebenden Wirkung.
+- **BVerfGE v. 4.5.2010 - 2 BvL 8/07**: Verfassungsmäßigkeit § 7 Abs. 1 Satz 1 Nr. 4 LuftSiG.
 
-## Prüfroutine
+## Prüfraster
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+1. Liegt anerkannter Regel-Versagungsgrund vor?
+2. Wurde Anhörungspflicht (Abs. 5) gewahrt?
+3. Ist Gesamtwürdigung des Einzelfalls vorgenommen worden?
+4. Ist Verhältnismäßigkeit gewahrt (Zeitablauf Leumund seit Tat)?
+5. Wurden alle Mitwirkungspflichten erfüllt?
+6. Ist Eilantrag § 80 Abs. 5 VwGO notwendig um Arbeitsplatz zu sichern?
 
-## Typische Artefakte
+## Typische Fallstricke
 
-- Luftfahrzeug-/Registerdatenblatt
-- LBA- und Lizenzprüfvermerk
-- Aircraft mortgage/arrest map
-- Flughafen-/Slot-/Sicherheits-Dashboard
+- Widerspruch ohne parallelen Eilantrag; automatischer Vollzug.
+- Verfassungsschutzeintrag unbekannt; Mandant hat keine Einsicht.
+- Gesamtwürdigung als reiner Automatismus behandelt; Gericht kann aufheben.
+- Löschungsfristen nicht beachtet; Daten länger als erlaubt gespeichert.
 
-## Red-Team-Fragen
+## Output
 
-- Aircraft mortgage mit deutschem Grundpfandrecht gleichgesetzt
-- LBA-Zuständigkeit falsch
-- Insolvenzreife/finanzielle Leistungsfähigkeit nicht getrennt
-- internationales Register/Leasing nicht geklärt
+Widerspruchs-Schriftsatz-Baustein mit Verhältnismäßigkeitsargumentation. Eilantrag § 80 Abs. 5 VwGO Muster. Prüfschema Versagungsgrund.
 
-## Ausgabeformat
+## Quellen
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+- LuftSiG: https://www.gesetze-im-internet.de/luftsig/
+- BVerfG Urteil 2 BvL 8/07: https://www.bverfg.de
+- VwGO: https://www.gesetze-im-internet.de/vwgo/
+- LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
 
-## Qualitätsregel
+## Hinweise für die Praxis
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+Dieser Skill deckt den Bereich Luftrecht ab. Folgende praktische Hinweise ergänzen die obigen Ausführungen:
+
+- Einschlägige Normen vor Mandatsbearbeitung vollständig auf aktuelle Fassung prüfen.
+- Behördenanschreiben stets mit Aktenzeichen und Fristbenennung versehen.
+- Klagefristen und Widerspruchsfristen sofort bei Mandatsannahme kalendarisch sichern.
+- Bei grenzüberschreitenden Sachverhalten internationalen Normenkonflikt prüfen.
+
+### Dokumentationspflichten
+
+Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzufordern:
+
+- Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
+- AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
+- Cape-Town-Registerauszug (ICAO International Registry)
+- Gültige Betriebsgenehmigung und AOC-Kopie
+- Leasingvertrag oder Eigentumsnachweis
+- Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+
+

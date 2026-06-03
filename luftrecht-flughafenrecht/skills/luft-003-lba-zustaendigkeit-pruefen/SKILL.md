@@ -1,57 +1,85 @@
 ---
 name: luft-003-lba-zustaendigkeit-pruefen
-description: "Luftrecht und Flughafenrecht: LBA-Zuständigkeit prüfen. LBA-Zuständigkeit prüfen im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: 'Mandant erhaelt LBA-Bescheid oder fragt ob LBA oder Landesbehoerde zustaendig ist. Prueft §§ 29 31 LuftVG Zustaendigkeitsabgrenzung LBA vs. Landesluftfahrtbehoerde EU-VO 1008/2008 Art. 4 Aufsichtsstaat und liefert Zustaendigkeitsvermerk mit richtigem Adressaten fuer Widerspruch oder Klage.'
 ---
 
-# Lba Zustaendigkeit Pruefen
+# LBA-Zuständigkeit prüfen – Behörde korrekt adressieren
 
-## Arbeitsauftrag
+## Mandantenfall
 
-Lba Zustaendigkeit Pruefen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Luftrecht und Flughafenrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+- Airline erhält Widerrufsbescheid der Betriebsgenehmigung vom LBA; Mandant fragt ob Widerspruch ans LBA oder an ein Landesministerium zu richten ist.
+- Kleines Charterunternehmen möchte AOC beantragen und ist unsicher ob LBA oder Landesluftfahrtbehörde Sachsen-Anhalt zuständig ist.
+- Halter eines Ultraleichtflugzeugs streitet über Eintrag in Luftsportgeräteverzeichnis; Behörde hat falsche Stelle angeschrieben.
 
-## Einstieg ohne Leerlauf
+## Erste Schritte
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+1. Bescheidaussteller identifizieren: LBA oder Landesluftfahrtbehörde.
+2. Sachgebiets-Mapping nach LuftVG §§ 29-31: LBA für Betriebsgenehmigung Luftfahrzeugrolle AOC-Kern Musterzulassung; Länder für Flugplätze Lizenzen Luftsportgeräte.
+3. EU-Recht-Ebene prüfen: EASA für Musterzulassung Pilotenlizenz.
+4. Aufsichtsstaat nach EU-VO 1008/2008 Art. 4 bestimmen: Hauptgeschäftssitz entscheidet.
+5. Rechtsschutzbehelf bestimmen: Widerspruch an erlassende Behörde (§ 68 VwGO) dann Klage beim zuständigen VG.
+6. Zuständigkeitsvermerk mit Begründung und Adressat des Widerspruchs erstellen.
 
-## Norm- und Quellenanker
+## Rechtsrahmen
 
-- LuftVG, LuftSiG, LuftRegV, LuftFzgG, EU-Airline-Lizenzrecht
-- LBA, Betriebsgenehmigung, finanzielle Leistungsfähigkeit, Slots
-- Flugzeugpfandrecht, Register, Leasing, Beschlagnahme/Pfändung
-- Flughafenplanung, Luftsicherheit, Drohnen, Fluggastrechte-Schnittstelle
+- **LuftVG § 29 Abs. 1**: Aufsicht über Luftfahrt durch LBA und Landesluftfahrtbehörden.
+- **LuftVG § 31**: Bundesbehörden-Aufgaben des LBA; abschließende Aufzählung.
+- **LuftVZO § 14**: Eintragung von Flugzeugen in Luftfahrzeugrolle durch LBA.
+- **EU-VO 1008/2008 Art. 4**: Aufsicht durch Mitgliedstaat des Hauptgeschäftssitzes.
+- **LuftVG § 20**: Betriebsgenehmigung durch LBA für gewerblichen Linienverkehr.
+- **VwGO § 68**: Widerspruchspflicht; Widerspruch an erlassende Behörde.
+## Prüfraster
 
-## Prüfroutine
+1. Hat LBA oder Landesbehörde den Bescheid erlassen?
+2. Welchem Sachgebiet ist der Streit zuzuordnen?
+3. Ist EASA-Recht vorrangig und schließt nationale Behördenzuständigkeit aus?
+4. Gilt der EU-Aufsichtsstaat-Grundsatz (Hauptgeschäftssitz)?
+5. Ist Widerspruchsbehörde identisch mit Ausgangsbehörde?
+6. Ist einstweiliger Rechtsschutz wegen Sofortvollziehbarkeit nötig?
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+## Typische Fallstricke
 
-## Typische Artefakte
+- Widerspruch an falsche Behörde; führt zu Fristablauf ohne Hemmung.
+- EASA-Zuständigkeit mit LBA-Zuständigkeit verwechselt.
+- Aufsichtsstaat-Prinzip ignoriert: Airline mit Hauptsitz in Irland muss bei IAA klagen.
+- Widerspruchserfordernis übersehen bei Bescheiden mit Sofortvollzug.
 
-- Luftfahrzeug-/Registerdatenblatt
-- LBA- und Lizenzprüfvermerk
-- Aircraft mortgage/arrest map
-- Flughafen-/Slot-/Sicherheits-Dashboard
 
-## Red-Team-Fragen
+## Vertiefung Zuständigkeit
 
-- Aircraft mortgage mit deutschem Grundpfandrecht gleichgesetzt
-- LBA-Zuständigkeit falsch
-- Insolvenzreife/finanzielle Leistungsfähigkeit nicht getrennt
-- internationales Register/Leasing nicht geklärt
+Die Zuständigkeitsfrage ist bei luftrechtlichen Mandaten häufig das erste Hindernis. Folgende Abgrenzungen sind besonders fehlerträchtig:
 
-## Ausgabeformat
+- **LBA vs. Landesluftfahrtbehörde**: Das LBA ist für bundesrechtliche Aufgaben zuständig (Betriebsgenehmigung AOC Register); Landesbehörden überwachen den regionalen Luftverkehr und Kleinflugplätze.
+- **EASA vs. nationale Behörde**: Seit Inkrafttreten der EASA-Basisverordnung (VO 2018/1139) hat EASA Direktzuständigkeit für Zulassungen von Luftfahrzeugen und Organisationen; das LBA bleibt für betriebliche Zulassungen zuständig.
+- **Verwaltungsgericht vs. Zivilgericht**: Bescheide einer Luftfahrtbehörde sind vor dem VG anzufechten; privatrechtliche Ansprüche (Leasingstreit Schaden) gehören vor die Zivilgerichte.
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+## Output
 
-## Qualitätsregel
+Zuständigkeitsvermerk mit Rechtsgrundlage korrekter Behörde und Widerspruchsadressat. Fristberechnung Widerspruch/Klage.
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+## Quellen
+
+- LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
+- LuftVZO: https://www.gesetze-im-internet.de/luftvzo/
+- LBA Aufgaben: https://www.lba.de/DE/Aufgaben/aufgaben_node.html
+- EU-VO 1008/2008: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32008R1008
+
+## Hinweise für die Praxis
+
+Dieser Skill deckt den Bereich Luftrecht ab. Folgende praktische Hinweise ergänzen die obigen Ausführungen:
+
+- Zuständigkeitsirrtümer sind die häufigste Fehlerquelle in luftrechtlichen Mandaten; immer zuerst klären.
+- Sowohl LBA als auch Landesbehörde können Bescheide erlassen; Abgrenzung nach Sachmaterie.
+- Bei europäischen Sachverhalten immer prüfen ob EASA-Direktzuständigkeit besteht (VO 2018/1139).
+- Zeitpunkt der Behördenentscheidung dokumentieren; Fristbeginn ab Zustellung des Bescheids.
+
+### Dokumentationspflichten
+
+Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzufordern:
+
+- Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
+- AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
+- Cape-Town-Registerauszug (ICAO International Registry)
+- Gültige Betriebsgenehmigung und AOC-Kopie
+- Leasingvertrag oder Eigentumsnachweis
+- Aktuelle Behördenbescheide und Aufsichtskorrespondenz

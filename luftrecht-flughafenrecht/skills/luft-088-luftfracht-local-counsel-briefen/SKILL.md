@@ -1,57 +1,96 @@
 ---
 name: luft-088-luftfracht-local-counsel-briefen
-description: "Luftrecht und Flughafenrecht: Luftfracht: Local Counsel briefen. Local Counsel briefen für Luftfracht im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: 'Deutsches Kanzleiteam muss auslaendischen Anwalt fuer Luftfracht-Mandat briefen: Montreal Convention Haftung Gefahrgutvorfall oder Frachtführer-Insolvenz. Skill erstellt englisches Briefing-Memo mit Sachverhalt deutschem Recht und konkreten Fragen.'
 ---
 
-# Luftfracht Local Counsel Briefen
+# Luftfracht – Local Counsel briefen
 
-## Arbeitsauftrag
+## Mandantenfall
 
-Luftfracht Local Counsel Briefen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Luftrecht und Flughafenrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+- Deutsche Kanzlei soll in USA Local Counsel briefen für Haftungsklage nach Frachtschaden bei US-Airline.
+- Absender in Singapur fragt nach deutschem Recht für Gefahrgutvorfall bei deutschem Frachtführer.
+- Insolvenzverwalter beauftragt Kanzlei in Dubai zur Rückholung von Fracht aus UAE-Lager.
 
-## Einstieg ohne Leerlauf
+## Erste Schritte
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+1. Sachverhalt strukturieren: Parteien betroffene Luftfahrzeuge/Einrichtungen beteiligte Behörden und laufende Fristen.
+2. Einschlägige Normen identifizieren: Montreal Convention LuftVG HGB § 440 IATA DGR InsO.
+3. Register prüfen: LBA-Luftfahrzeugrolle AG-Braunschweig-Pfandrechtsregister ICAO-Cape-Town-Register je nach Fallrelevanz.
+4. Zuständigkeit klären: LBA vs. Landesbehörde vs. EASA vs. Verwaltungsgericht.
+5. Fristen sichern: Widerspruch (1 Monat) Klage (1 Monat) Insolvenzantrag (3/6 Wochen).
+6. Handlungsbedarf dokumentieren: Ampel-Vermerk mit konkreten nächsten Schritten.
 
-## Norm- und Quellenanker
+## Rechtsrahmen
 
-- LuftVG, LuftSiG, LuftRegV, LuftFzgG, EU-Airline-Lizenzrecht
-- LBA, Betriebsgenehmigung, finanzielle Leistungsfähigkeit, Slots
-- Flugzeugpfandrecht, Register, Leasing, Beschlagnahme/Pfändung
-- Flughafenplanung, Luftsicherheit, Drohnen, Fluggastrechte-Schnittstelle
+Montreal Convention LuftVG HGB § 440 IATA DGR InsO – die einschlägigen Normen werden je nach Sachverhaltsebene (nationaler Betrieb EU-Recht internationales Recht) herangezogen und zu jedem Normzitat kurz erläutert.
 
-## Prüfroutine
+- **LuftVG §§ 6 20 29 31 64**: Genehmigung Betrieb Register Aufsicht.
+- **LuftSiG §§ 7-9**: Zuverlässigkeitsüberprüfung Sicherheitsprogramme Aufsicht.
+- **EU-VO 1008/2008 Art. 3-9**: Betriebsgenehmigung finanzielle Leistungsfähigkeit Überwachung.
+- **Cape Town Convention Art. 2-16**: Internationale Sicherungsinteressen ICAO-Register.
+- **LuftFzgG §§ 1-28**: Nationales Pfandrecht Vollstreckung AG Braunschweig.
+- **InsO §§ 15a 17-19 47 50**: Insolvenzantragspflicht Gläubigerrechte.
+- **VwGO §§ 68 74 80**: Widerspruch Klage aufschiebende Wirkung.
+- **Montrealer Übereinkommen Art. 18**: Haftung des Luftfrachtführers für Beschädigung; Haftungsausschlüsse.
+- **LuftVG § 44**: Nationale Verweisung auf Montrealer Übereinkommen für innerdeutsche Flüge.
+- **EU-VO 300/2008 und DVO 2015/1998**: Sicherheitsanforderungen für Luftfracht; ACC3 und RA/KC-Status.
+- **HGB § 475**: Frachtführerhaftung subsidiär; nur soweit MÜ keine Regelung trifft.
+## Prüfraster
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+1. Ist zuständige Behörde korrekt adressiert?
+2. Sind alle Register vollständig abgefragt?
+3. Laufen Fristen – sind alle gesichert?
+4. Besteht Cape-Town-Registrierung mit IDERA?
+5. Ist Insolvenzrisiko bewertet?
+6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
+7. Ist Haftungsgrenze (22 SZR/kg) eingehalten oder Werterklärung im AWB vermerkt?
+8. Ist die Frachtkette lückenlos dokumentiert (AWB Sicherheitsdeklaration Manifest)?
+## Typische Fallstricke
 
-## Typische Artefakte
+- Falsche Behörde adressiert; Frist läuft unbemerkt ab.
+- Cape-Town-Register nicht abgefragt; internationale Belastungen unerkannt.
+- Insolvenzfrühzeichen ignoriert; Antragspflicht ausgelöst ohne Reaktion.
+- Sicherheitsauflage als verhältnismäßig hingenommen ohne eigene Prüfung.
+- Haftungsregime Montrealer Übereinkommen mit HGB-Recht vermischt; falsche Haftungssumme.
+- AWB fehlt oder unvollständig; Beweislastumkehr zulasten des Frachtführers.
 
-- Luftfahrzeug-/Registerdatenblatt
-- LBA- und Lizenzprüfvermerk
-- Aircraft mortgage/arrest map
-- Flughafen-/Slot-/Sicherheits-Dashboard
+## Vertiefung Local-Counsel-Koordination
 
-## Red-Team-Fragen
+Bei grenzüberschreitenden Luftrechtsfällen ist die Koordination mit ausländischen Anwälten entscheidend:
 
-- Aircraft mortgage mit deutschem Grundpfandrecht gleichgesetzt
-- LBA-Zuständigkeit falsch
-- Insolvenzreife/finanzielle Leistungsfähigkeit nicht getrennt
-- internationales Register/Leasing nicht geklärt
+- **Informationspaket**: Luftfahrzeugrolle-Auszug Cape-Town-Registerauszug Leasingvertrag AOC-Kopie und Behördenbescheide strukturiert übermitteln.
+- **Jurisdiktionsfragen**: Welches Recht gilt für Sicherungsinteresse (Cape Town)? Welches für Betriebsgenehmigung (nationales Recht)? Klare Abgrenzung im Briefing.
+- **Fristen synchronisieren**: Unterschiedliche Widerspruchs- und Klagfristen in verschiedenen Rechtsordnungen; gemeinsamen Fristenkalender anlegen.
+- **Haftungsfragen**: Local Counsel haftet nach eigenem nationalen Recht; Haftungsfreistellung im Mandat klären.
 
-## Ausgabeformat
+## Output
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+Strukturierter Vermerk zu Luftfracht – Local Counsel briefen mit Rechtslage Handlungsoptionen Risikobewertung und nächsten Schritten. Checkliste offener Punkte mit Fristen. Haftungsanalyse nach MÜ. AWB-Prüfschema. Schadensmeldungs-Fristenübersicht.
+## Quellen
 
-## Qualitätsregel
+- LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
+- Cape Town Convention: https://www.unidroit.org/instruments/security-interests/aircraft-protocol/
+- LuftFzgG: https://www.gesetze-im-internet.de/luftfzgg/
+- InsO: https://www.gesetze-im-internet.de/inso/
+- Montrealer Übereinkommen: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A22001A0718%2801%29
+- LBA Luftfracht: https://www.lba.de
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+## Hinweise für die Praxis
+
+Dieser Skill deckt den Bereich Luftfrachtrecht und Warschauer/Montrealer System ab. Folgende praktische Hinweise ergänzen die obigen Ausführungen:
+
+- Briefing-Dokument immer auf Englisch und in verständlicher Sprache; kein deutsches Rechtsjargon.
+- Zuständigkeit und anwendbares Recht im Briefing klar benennen.
+- Honorar- und Haftungsfragen im Vorfeld klären; Engagement-Letter anfordern.
+- Regelmäßige Status-Updates vereinbaren; gemeinsamen Fristenkalender führen.
+
+### Dokumentationspflichten
+
+Für Mandate im Bereich Luftfrachtrecht und Warschauer/Montrealer System sind folgende Dokumente regelmäßig anzufordern:
+
+- Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
+- AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
+- Cape-Town-Registerauszug (ICAO International Registry)
+- Gültige Betriebsgenehmigung und AOC-Kopie
+- Leasingvertrag oder Eigentumsnachweis
+- Aktuelle Behördenbescheide und Aufsichtskorrespondenz

@@ -1,57 +1,83 @@
 ---
 name: luft-011-slots-und-koordination
-description: "Luftrecht und Flughafenrecht: Slots und Koordination. Slots und Koordination im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: 'Airline verliert Slot oder klagt gegen Slotzuweisung der Flughafenkoordinatorin Fluko. Prueft VO EWG 95/93 Slotverordnung Grandfather Rights Use-it-or-lose-it FHKV Verwaltungsgerichtsweg und EuGH-Rechtsprechung zu Slot-Uebertragbarkeit und liefert Rechtsmittel-Vermerk und Klagebaustein.'
 ---
 
-# Slots Und Koordination
+# Slots und Koordination – Slotzuweisung, Verlust und Rechtsschutz
 
-## Arbeitsauftrag
+## Mandantenfall
 
-Slots Und Koordination wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Luftrecht und Flughafenrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+- Airline erhält von Fluko für die nächste Sommersaison weniger Slots als beantragt; Mandant prüft Widerspruch.
+- Airline hat wegen COVID-Betriebsunterbrechung Slots nicht in voller Use-it-or-lose-it-Quote genutzt; Waiver abgelehnt.
+- Insolvente Airline: Insolvenzverwalter fragt ob Slots zur Insolvenzmasse gehören und übertragen werden können.
 
-## Einstieg ohne Leerlauf
+## Erste Schritte
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+1. Slot-Typ bestimmen: historische Slots (Grandfather Rights) oder neue Slots aus dem Pool.
+2. Fluko-Schreiben analysieren: Begründung der Verweigerung oder Kürzung; Rechtsschutzmöglichkeit prüfen.
+3. Use-it-or-lose-it prüfen: VO 95/93 Art. 10 Abs. 2 mindestens 80 % der Slots nutzen; Waiver-Möglichkeiten Art. 10 Abs. 4.
+4. Widerspruch bei Fluko: verwaltungsrechtliche Überprüfung; Fluko als beliehenes Unternehmen.
+5. Verwaltungsgerichtsklage vorbereiten: zuständig VG Frankfurt (Sitz Fluko); Klage auf Slotzuweisung oder Feststellung.
+6. Insolvenzfrage: Slots sind keine übertragbaren Vermögenswerte; EuGH-Rechtsprechung.
 
-## Norm- und Quellenanker
+## Rechtsrahmen
 
-- LuftVG, LuftSiG, LuftRegV, LuftFzgG, EU-Airline-Lizenzrecht
-- LBA, Betriebsgenehmigung, finanzielle Leistungsfähigkeit, Slots
-- Flugzeugpfandrecht, Register, Leasing, Beschlagnahme/Pfändung
-- Flughafenplanung, Luftsicherheit, Drohnen, Fluggastrechte-Schnittstelle
+- **VO EWG Nr. 95/93 Art. 2 lit. a**: Slotdefinition – Start- oder Landerecht zu bestimmter Zeit.
+- **VO EWG Nr. 95/93 Art. 8**: Grandfather Rights; Priorität für Slots der Vorsaison.
+- **VO EWG Nr. 95/93 Art. 10**: Use-it-or-lose-it-Regel; 80-%-Nutzungsschwelle.
+- **VO EWG Nr. 95/93 Art. 12**: Slotpool; nicht genutzte Slots fallen in Pool.
+- **LuftVG §§ 27a-27d**: Nationale Flughafenkoordination; Beauftragung Fluko.
+- **FHKV (Flughafenkoordinierungsverordnung)**: Verfahren der Slotkoordination in Deutschland.
+- **EuGH C-272/06**: Slots keine übertragbaren Vermögenswerte; kein Massebestandteil.
+- **VO EWG 95/93 Art. 8**: Historische Slots (Grandfather Rights); Nutzungsquote 80/20.
+- **LuftVG § 27a**: Deutsche Koordinierungsstelle (Fluko); Rechtsstellung und Aufgaben.
+- **BVerwG Urt. v. 26.01.2012 – 3 C 8.11**: Slot-Entzug als Verwaltungsakt; Rechtsweg VG.
+## Prüfraster
 
-## Prüfroutine
+1. Sind Grandfather Rights für die beantragte Slotzeit vorhanden?
+2. Wurde 80-%-Nutzungsschwelle in der Vorsaison erreicht?
+3. Wurde Waiver beantragt und ist Ablehnungsbegründung haltbar?
+4. Ist Zuweisung diskriminierungsfrei?
+5. Bei Insolvenz: wurde Insolvenzverwalter über Slot-Nicht-Übertragbarkeit informiert?
+6. Fristen für Widerspruch/Klage gewahrt?
+7. Ist die 80/20-Nutzungsquote (VO EWG 95/93 Art. 8) im letzten IATA-Season eingehalten?
+8. Sind Force-Majeure-Ausnahmen (COVID-Pandemie-Sonderregeln) korrekt beantragt?
+## Typische Fallstricke
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+- Slots als übertragbare Vermögenswerte in Insolvenzplan eingesetzt; unwirksam nach EuGH.
+- Use-it-or-lose-it ohne rechtzeitigen Waiver-Antrag; Slots verfallen endgültig.
+- Widerspruch an falsche Stelle geschickt.
+- Kapazitätsentscheidung des Flughafens und Slot-Zuweisung der Fluko vermischt.
+- Slot-Rückgabe zu spät angezeigt; keine Waiver-Ausnahme mehr möglich.
+- Slot-Übertragung als privatrechtlich behandelt; VO EWG 95/93 erlaubt keine freie Übertragung.
+## Output
 
-## Typische Artefakte
+Rechtsmittel-Vermerk: Widerspruch und Klagechancen. Klagebaustein VG Frankfurt. Waiver-Antrag-Muster. Slot-Portfolio-Analyse mit Nutzungsnachweis. Koordinatoren-Schreiben-Template.
+## Quellen
 
-- Luftfahrzeug-/Registerdatenblatt
-- LBA- und Lizenzprüfvermerk
-- Aircraft mortgage/arrest map
-- Flughafen-/Slot-/Sicherheits-Dashboard
+- VO EWG 95/93: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31993R0095
+- Fluko: https://fluko.org/koordination/rechtsgrundlage/
+- LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
+- EuGH Urteile: https://eur-lex.europa.eu
+- LBA/Fluko: https://www.lba.de
+- BVerwG: https://www.bverwg.de
 
-## Red-Team-Fragen
+## Hinweise für die Praxis
 
-- Aircraft mortgage mit deutschem Grundpfandrecht gleichgesetzt
-- LBA-Zuständigkeit falsch
-- Insolvenzreife/finanzielle Leistungsfähigkeit nicht getrennt
-- internationales Register/Leasing nicht geklärt
+Dieser Skill deckt den Bereich Slot-Koordination und Flughafenkapazität ab. Folgende praktische Hinweise ergänzen die obigen Ausführungen:
 
-## Ausgabeformat
+- Einschlägige Normen vor Mandatsbearbeitung vollständig auf aktuelle Fassung prüfen.
+- Behördenanschreiben stets mit Aktenzeichen und Fristbenennung versehen.
+- Klagefristen und Widerspruchsfristen sofort bei Mandatsannahme kalendarisch sichern.
+- Bei grenzüberschreitenden Sachverhalten internationalen Normenkonflikt prüfen.
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+### Dokumentationspflichten
 
-## Qualitätsregel
+Für Mandate im Bereich Slot-Koordination und Flughafenkapazität sind folgende Dokumente regelmäßig anzufordern:
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+- Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
+- AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
+- Cape-Town-Registerauszug (ICAO International Registry)
+- Gültige Betriebsgenehmigung und AOC-Kopie
+- Leasingvertrag oder Eigentumsnachweis
+- Aktuelle Behördenbescheide und Aufsichtskorrespondenz

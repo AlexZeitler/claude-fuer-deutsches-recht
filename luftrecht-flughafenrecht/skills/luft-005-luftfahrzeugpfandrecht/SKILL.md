@@ -1,57 +1,86 @@
 ---
 name: luft-005-luftfahrzeugpfandrecht
-description: "Luftrecht und Flughafenrecht: Luftfahrzeugpfandrecht. Luftfahrzeugpfandrecht im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: 'Kreditgeber sichert Flugzeugfinanzierung durch Pfandrecht oder Pfandrechtsinhaber will vollstrecken. Prueft LuftFzgG §§ 1-28 Entstehung Rang Durchsetzung Eintragung AG Braunschweig und Abgrenzung zu Cape Town Convention International Interest und liefert Sicherungsstrategie-Vermerk und Vollstreckungs-Checkliste.'
 ---
 
-# Luftfahrzeugpfandrecht
+# Luftfahrzeugpfandrecht – Bestellung, Rang und Vollstreckung
 
-## Arbeitsauftrag
+## Mandantenfall
 
-Luftfahrzeugpfandrecht wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Luftrecht und Flughafenrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+- Bank finanziert Kauf eines Turboprop-Flugzeugs und will erstrangiges Pfandrecht bestellen; unklar ob deutsches LuftFzgG oder Cape Town Convention vorgeht.
+- Leasinggeber meldet sich weil Leasingnehmer insolvent ist und Pfandrecht auf dem Flugzeug lastet; Rangfrage mit anderen Gläubigern.
+- Flugzeug wird versteigert; Käufer fragt ob er lastenfrei erwirbt oder Pfandrechte übergehen.
 
-## Einstieg ohne Leerlauf
+## Erste Schritte
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+1. Registrierungsstaat prüfen: deutsches Pfandrecht setzt Eintragung ins Pfandrechtsregister AG Braunschweig voraus.
+2. Pfandrechtsbestellung: notarielle Einigung plus Eintragungsantrag beim AG Braunschweig; kein Besitzerfordernis.
+3. Rang klären: Zeitpunkt der Eintragung entscheidet (LuftFzgG § 12); ältere Eintragung geht vor.
+4. Cape Town Convention prüfen: internationales Sicherungsinteresse im ICAO-Register geht nationalem Pfandrecht vor wenn früher eingetragen.
+5. Vollstreckung: Pfandgläubiger betreibt Zwangsversteigerung ZPO §§ 864 ff. oder nutzt Cape Town Remedies Art. 8 ff. Aircraft Protocol.
+6. Insolvenz: Absonderungsrecht nach InsO § 50; Cape Town Art. 30 schützt internationale Sicherungsinteressen.
 
-## Norm- und Quellenanker
+## Rechtsrahmen
 
-- LuftVG, LuftSiG, LuftRegV, LuftFzgG, EU-Airline-Lizenzrecht
-- LBA, Betriebsgenehmigung, finanzielle Leistungsfähigkeit, Slots
-- Flugzeugpfandrecht, Register, Leasing, Beschlagnahme/Pfändung
-- Flughafenplanung, Luftsicherheit, Drohnen, Fluggastrechte-Schnittstelle
+- **LuftFzgG § 1**: Entstehung durch Einigung und Eintragung; kein Besitzerfordernis.
+- **LuftFzgG § 12**: Rangordnung nach Eintragungszeitpunkt.
+- **LuftFzgG § 22**: Vollstreckung; Verweis auf ZPO-Zwangsversteigerungsrecht.
+- **ZPO §§ 864-871**: Zwangsversteigerung von Luftfahrzeugen.
+- **Cape Town Convention Art. 2**: Internationales Sicherungsinteresse.
+- **Aircraft Protocol Art. IX**: Rangverhältnis; Eintragungszeitpunkt im ICAO-Register entscheidend.
+- **InsO § 50**: Absonderungsrecht des Pfandgläubigers in Insolvenz.
+## Prüfraster
 
-## Prüfroutine
+1. Ist Pfandrecht korrekt im AG Braunschweig eingetragen?
+2. Besteht konkurrierendes Cape-Town-Interesse im ICAO-Register?
+3. Welcher Eintrag ist zeitlich früher?
+4. Ist Pfandgläubiger bei Insolvenz als Absonderungsberechtigter angemeldet?
+5. Wurde Flugzeug sichergestellt (Arrest LuftFzgG § 24)?
+6. Besteht gesetzliches Pfandrecht (Werker/Lagerer) mit Vorrang?
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+## Typische Fallstricke
 
-## Typische Artefakte
+- Pfandrecht ohne notarielle Einigung bestellt; formunwirksam.
+- Cape-Town-Register ignoriert; internationaler Gläubiger hat ältere Eintragung.
+- Insolvenzanmeldung versäumt; Pfandrecht geht in Restschuldmasse auf.
+- Zwangsversteigerung ohne Vorabsicherung; Schuldner verbringt Flugzeug ins Ausland.
 
-- Luftfahrzeug-/Registerdatenblatt
-- LBA- und Lizenzprüfvermerk
-- Aircraft mortgage/arrest map
-- Flughafen-/Slot-/Sicherheits-Dashboard
 
-## Red-Team-Fragen
+## Vertiefung Pfandrechtsrecht
 
-- Aircraft mortgage mit deutschem Grundpfandrecht gleichgesetzt
-- LBA-Zuständigkeit falsch
-- Insolvenzreife/finanzielle Leistungsfähigkeit nicht getrennt
-- internationales Register/Leasing nicht geklärt
+Das Luftfahrzeugpfandrecht verbindet nationales Sachenrecht mit dem internationalen Cape-Town-System:
 
-## Ausgabeformat
+- **Rangkonflikt**: Nationales Pfandrecht (LuftFzgG) und Cape-Town-Sicherungsinteresse können konkurrieren; Priorität richtet sich nach Eintragungsdatum im jeweiligen Register.
+- **Vollstreckung**: Pfandrechtsverwertung erfolgt durch öffentliche Versteigerung; ZPO § 864 regelt den besonderen Vollstreckungsweg für Luftfahrzeuge.
+- **Internationaler Arrest**: Luftfahrzeug kann im Ausland nach nationalen Regeln oder Cape-Town-Mechanismus arretiert werden; Koordination mit Local Counsel erforderlich.
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+## Output
 
-## Qualitätsregel
+Sicherungsstrategie-Vermerk mit Pfandrechtsbestellung inkl. Cape-Town-Check. Ranganalyse-Tabelle. Vollstreckungs-Checkliste.
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+## Quellen
+
+- LuftFzgG: https://www.gesetze-im-internet.de/luftfzgg/
+- Pfandrechtsregister: https://www.verwaltungsdaten-informationsplattform.de/register/22
+- Cape Town Convention: https://www.unidroit.org/instruments/security-interests/aircraft-protocol/
+- InsO: https://www.gesetze-im-internet.de/inso/
+
+## Hinweise für die Praxis
+
+Dieser Skill deckt den Bereich Luftrecht ab. Folgende praktische Hinweise ergänzen die obigen Ausführungen:
+
+- Rangkonflikt zwischen nationalem Pfandrecht und Cape-Town-Sicherungsinteresse muss vor Vertragsschluss geklärt werden.
+- Pfandrechtslöschung nach Tilgung der gesicherten Forderung unverzüglich veranlassen.
+- Bei Pfandrecht auf Triebwerke (als Zubehör) gesonderte Eintragung prüfen.
+- Internationale Kreditgeber verlangen regelmäßig Cape-Town-Eintragung als Bedingung.
+
+### Dokumentationspflichten
+
+Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzufordern:
+
+- Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
+- AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
+- Cape-Town-Registerauszug (ICAO International Registry)
+- Gültige Betriebsgenehmigung und AOC-Kopie
+- Leasingvertrag oder Eigentumsnachweis
+- Aktuelle Behördenbescheide und Aufsichtskorrespondenz

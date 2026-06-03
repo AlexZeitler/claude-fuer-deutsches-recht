@@ -1,57 +1,80 @@
 ---
 name: luft-012-luftsicherheit-luftsig
-description: "Luftrecht und Flughafenrecht: Luftsicherheit LuftSiG. Luftsicherheit LuftSiG im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: 'Flughafen oder Airline klaert Sicherheitspflichten oder fechtet LuftSiG-Bescheid an. Prueft LuftSiG §§ 1-9 Sicherheitsplan Kontrollpflichten EU-DVO 2015/1998 Sicherheitsprogramm und Rechtsschutz gegen Auflagen und liefert Compliance-Check-Vermerk und Widerspruchs-Baustein.'
 ---
 
-# Luftsicherheit Luftsig
+# Luftsicherheit nach LuftSiG – Compliance und Rechtsschutz
 
-## Arbeitsauftrag
+## Mandantenfall
 
-Luftsicherheit Luftsig wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Luftrecht und Flughafenrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+- Flughafenbetreiber erhält Bescheid der Luftsicherheitsbehörde mit Auflagen zur Verschärfung der Zugangskontrollen; Kosten unzumutbar Widerspruch geplant.
+- Catering-Unternehmen auf dem Flughafen braucht LuftSiG-Sicherheitsprogramm und Zulassung als bekannter Lieferant.
+- Airline erhält nach LuftSiG-Inspektion Mangelliste und 30-Tage-Frist zur Abhilfe.
 
-## Einstieg ohne Leerlauf
+## Erste Schritte
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+1. Normadressat bestimmen: Flugplatzbetreiber (§ 8 LuftSiG) Luftfahrtunternehmen (§ 9 LuftSiG) andere Unternehmen mit Sicherheitsbereichszugang (§ 7 LuftSiG).
+2. Sicherheitsprogramm prüfen: Flugplatz-Sicherheitsprogramm (§ 8 Abs. 2 LuftSiG) und Airline-Sicherheitsprogramm (§ 9 Abs. 2 LuftSiG) müssen EU-DVO 2015/1998 entsprechen.
+3. Mängel kategorisieren: kritische Mängel (sofortige Abhilfe) gewöhnliche Mängel (30-Tage-Frist) Empfehlungen.
+4. EU-Recht-Abgleich: EU-DVO 2015/1998 enthält technische Spezifikationen im Anhang.
+5. Widerspruch gegen Auflagen: Verhältnismäßigkeit (LuftSiG § 8 Abs. 1 iVm VwVfG § 36).
+6. Compliance-Plan erstellen: Maßnahmen Verantwortliche Fristen Nachweisdokumentation.
 
-## Norm- und Quellenanker
+## Rechtsrahmen
 
-- LuftVG, LuftSiG, LuftRegV, LuftFzgG, EU-Airline-Lizenzrecht
-- LBA, Betriebsgenehmigung, finanzielle Leistungsfähigkeit, Slots
-- Flugzeugpfandrecht, Register, Leasing, Beschlagnahme/Pfändung
-- Flughafenplanung, Luftsicherheit, Drohnen, Fluggastrechte-Schnittstelle
+- **LuftSiG § 1**: Zweck; Schutz vor Angriffen auf die Sicherheit des zivilen Luftverkehrs.
+- **LuftSiG § 7**: Zuverlässigkeitsüberprüfung; Zugangsberechtigungen für Sicherheitsbereiche.
+- **LuftSiG § 8**: Pflichten des Flugplatzbetreibers; Sicherheitsprogramm und Kontrollen.
+- **LuftSiG § 9**: Pflichten der Luftfahrtunternehmen; eigenes Sicherheitsprogramm.
+- **EU-DVO 2015/1998**: Technische Anforderungen für Luftsicherheitsmaßnahmen.
+- **LuftSiG § 12**: Kein aufschiebende Wirkung von Widerspruch und Klage.
+- **VwVfG § 36**: Beifügung von Auflagen; Verhältnismäßigkeitsprüfung.
 
-## Prüfroutine
+## Prüfraster
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+1. Ist das Sicherheitsprogramm EU-DVO-2015/1998-konform und aktuell?
+2. Sind Zugangskontrollen und Personenüberprüfungen vollständig dokumentiert?
+3. Sind Inspektionsmängel korrekt kategorisiert?
+4. Sind Auflagen verhältnismäßig?
+5. Sind Fristen für Abhilfemaßnahmen realistisch?
+6. Besteht Widerspruchsmöglichkeit gegen Ablehnungen?
 
-## Typische Artefakte
+## Typische Fallstricke
 
-- Luftfahrzeug-/Registerdatenblatt
-- LBA- und Lizenzprüfvermerk
-- Aircraft mortgage/arrest map
-- Flughafen-/Slot-/Sicherheits-Dashboard
+- Sicherheitsprogramm veraltet; automatische Auflage.
+- Kritische Mängel nicht als solche erkannt; Betriebsunterbrechung droht.
+- Widerspruch ohne aufschiebende Wirkung (§ 12 LuftSiG); Auflage sofort vollziehbar.
+- EU-DVO-Anforderungen strenger als nationales Verständnis.
 
-## Red-Team-Fragen
+## Output
 
-- Aircraft mortgage mit deutschem Grundpfandrecht gleichgesetzt
-- LBA-Zuständigkeit falsch
-- Insolvenzreife/finanzielle Leistungsfähigkeit nicht getrennt
-- internationales Register/Leasing nicht geklärt
+Compliance-Check-Vermerk mit Ampel-Rating je Sicherheitsbereich. Widerspruchs-Baustein gegen unverhältnismäßige Auflage. Abhilfeplan-Muster.
 
-## Ausgabeformat
+## Quellen
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+- LuftSiG: https://www.gesetze-im-internet.de/luftsig/
+- EU-DVO 2015/1998: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32015R1998
+- LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
+- EASA: https://www.easa.europa.eu/en/domains/aviation-safety-management
 
-## Qualitätsregel
+## Hinweise für die Praxis
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+Dieser Skill deckt den Bereich Luftrecht ab. Folgende praktische Hinweise ergänzen die obigen Ausführungen:
+
+- Einschlägige Normen vor Mandatsbearbeitung vollständig auf aktuelle Fassung prüfen.
+- Behördenanschreiben stets mit Aktenzeichen und Fristbenennung versehen.
+- Klagefristen und Widerspruchsfristen sofort bei Mandatsannahme kalendarisch sichern.
+- Bei grenzüberschreitenden Sachverhalten internationalen Normenkonflikt prüfen.
+
+### Dokumentationspflichten
+
+Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzufordern:
+
+- Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
+- AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
+- Cape-Town-Registerauszug (ICAO International Registry)
+- Gültige Betriebsgenehmigung und AOC-Kopie
+- Leasingvertrag oder Eigentumsnachweis
+- Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+
+

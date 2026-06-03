@@ -1,57 +1,93 @@
 ---
 name: luft-043-flugzeugleasing-pfandrecht-vorbereiten
-description: "Luftrecht und Flughafenrecht: Flugzeugleasing: Pfandrecht vorbereiten. Pfandrecht vorbereiten für Flugzeugleasing im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: 'Leasinggeber will internationales Sicherungsinteresse Cape-Town und nationales Pfandrecht an geleasetem Flugzeug koordinieren. Prueft Cape-Town-Convention Art. 2 ICAO-Register-Eintragung LuftFzgG §§ 1-12 AG-Braunschweig und IDERA-Bestellung und liefert Sicherungsstruktur-Vermerk.'
 ---
 
-# Flugzeugleasing Pfandrecht Vorbereiten
+# Flugzeugleasing – Pfandrecht vorbereiten
 
-## Arbeitsauftrag
+## Mandantenfall
 
-Flugzeugleasing Pfandrecht Vorbereiten wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Luftrecht und Flughafenrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+- Leasinggesellschaft will erstmalig internationales Sicherungsinteresse für neue Flugzeugflotte im ICAO-Register eintragen.
+- Refinanzierung einer Leasingflotte erfordert Umstrukturierung der Sicherheiten; altes Pfandrecht zu löschen.
+- Leasingnehmer will Sublease eingehen; Leasinggeber muss Sicherheiten-Struktur anpassen.
 
-## Einstieg ohne Leerlauf
+## Erste Schritte
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+1. Sachverhalt strukturieren: Parteien betroffene Luftfahrzeuge/Einrichtungen beteiligte Behörden und laufende Fristen.
+2. Einschlägige Normen identifizieren: Cape Town Convention Art. 2 ICAO-Register LuftFzgG §§ 1-12 AG Braunschweig.
+3. Register prüfen: LBA-Luftfahrzeugrolle AG-Braunschweig-Pfandrechtsregister ICAO-Cape-Town-Register je nach Fallrelevanz.
+4. Zuständigkeit klären: LBA vs. Landesbehörde vs. EASA vs. Verwaltungsgericht.
+5. Fristen sichern: Widerspruch (1 Monat) Klage (1 Monat) Insolvenzantrag (3/6 Wochen). IDERA bestellen: notarielle Erklärung des Luftfahrzeugeigentümers; beim ICAO-Register hinterlegen.
+6. Handlungsbedarf dokumentieren: Ampel-Vermerk mit konkreten nächsten Schritten.
 
-## Norm- und Quellenanker
+## Rechtsrahmen
 
-- LuftVG, LuftSiG, LuftRegV, LuftFzgG, EU-Airline-Lizenzrecht
-- LBA, Betriebsgenehmigung, finanzielle Leistungsfähigkeit, Slots
-- Flugzeugpfandrecht, Register, Leasing, Beschlagnahme/Pfändung
-- Flughafenplanung, Luftsicherheit, Drohnen, Fluggastrechte-Schnittstelle
+Cape Town Convention Art. 2 ICAO-Register LuftFzgG §§ 1-12 AG Braunschweig – die einschlägigen Normen werden je nach Sachverhaltsebene (nationaler Betrieb EU-Recht internationales Recht) herangezogen und zu jedem Normzitat kurz erläutert.
 
-## Prüfroutine
+- **LuftVG §§ 6 20 29 31 64**: Genehmigung Betrieb Register Aufsicht.
+- **LuftSiG §§ 7-9**: Zuverlässigkeitsüberprüfung Sicherheitsprogramme Aufsicht.
+- **EU-VO 1008/2008 Art. 3-9**: Betriebsgenehmigung finanzielle Leistungsfähigkeit Überwachung.
+- **Cape Town Convention Art. 2-16**: Internationale Sicherungsinteressen ICAO-Register.
+- **LuftFzgG §§ 1-28**: Nationales Pfandrecht Vollstreckung AG Braunschweig.
+- **InsO §§ 15a 17-19 47 50**: Insolvenzantragspflicht Gläubigerrechte.
+- **VwGO §§ 68 74 80**: Widerspruch Klage aufschiebende Wirkung.
+- **Cape Town Aircraft Protocol Art. XII**: Prioritäten konkurrierender Sicherungsrechte im internationalen Register.
+- **LuftFzgG § 3**: Entstehung des Pfandrechts; Eintragungszeitpunkt als Prioritätsregel.
+- **InsO § 47**: Aussonderungsrecht des Leasinggebers; Priorität gegenüber Insolvenzgläubigern.
+## Prüfraster
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+1. Ist zuständige Behörde korrekt adressiert?
+2. Sind alle Register vollständig abgefragt?
+3. Laufen Fristen – sind alle gesichert?
+4. Besteht Cape-Town-Registrierung mit IDERA?
+5. Ist Insolvenzrisiko bewertet?
+6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
+7. Ist eine IDERA (Irrevocable Deregistration and Export Request Authorisation) im Cape-Town-Register eingetragen?
+8. Hat Leasinggeber wirksam nach InsO § 47 Aussonderung geltend gemacht?
+## Typische Fallstricke
 
-## Typische Artefakte
+- Falsche Behörde adressiert; Frist läuft unbemerkt ab.
+- Cape-Town-Register nicht abgefragt; internationale Belastungen unerkannt.
+- Insolvenzfrühzeichen ignoriert; Antragspflicht ausgelöst ohne Reaktion.
+- Sicherheitsauflage als verhältnismäßig hingenommen ohne eigene Prüfung.
+- IDERA nicht im Cape-Town-Register eingetragen; Deregistrierung im Streitfall verzögert.
+- Leasingvertrag nach englischem Recht; deutsches Insolvenzgericht weicht Aussonderungsanspruch ab.
 
-- Luftfahrzeug-/Registerdatenblatt
-- LBA- und Lizenzprüfvermerk
-- Aircraft mortgage/arrest map
-- Flughafen-/Slot-/Sicherheits-Dashboard
+## Vertiefung Pfandrechtsrecht
 
-## Red-Team-Fragen
+Das Luftfahrzeugpfandrecht verbindet nationales Sachenrecht mit dem internationalen Cape-Town-System:
 
-- Aircraft mortgage mit deutschem Grundpfandrecht gleichgesetzt
-- LBA-Zuständigkeit falsch
-- Insolvenzreife/finanzielle Leistungsfähigkeit nicht getrennt
-- internationales Register/Leasing nicht geklärt
+- **Rangkonflikt**: Nationales Pfandrecht (LuftFzgG) und Cape-Town-Sicherungsinteresse können konkurrieren; Priorität richtet sich nach Eintragungsdatum im jeweiligen Register.
+- **Vollstreckung**: Pfandrechtsverwertung erfolgt durch öffentliche Versteigerung; ZPO § 864 regelt den besonderen Vollstreckungsweg für Luftfahrzeuge.
+- **Internationaler Arrest**: Luftfahrzeug kann im Ausland nach nationalen Regeln oder Cape-Town-Mechanismus arretiert werden; Koordination mit Local Counsel erforderlich.
 
-## Ausgabeformat
+## Output
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+Sicherungsstruktur-Vermerk. IDERA-Hinterlegungs-Ablauf. Pfandrechts-Bestellungs-Checkliste. Cape-Town-Registrierungs-Checkliste. Aussonderungsvermerk bei Insolvenz.
+## Quellen
 
-## Qualitätsregel
+- LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
+- Cape Town Convention: https://www.unidroit.org/instruments/security-interests/aircraft-protocol/
+- LuftFzgG: https://www.gesetze-im-internet.de/luftfzgg/
+- InsO: https://www.gesetze-im-internet.de/inso/
+- ICAO International Registry: https://www.internationalregistry.aero
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+## Hinweise für die Praxis
+
+Dieser Skill deckt den Bereich Flugzeug-Leasing und Cape Town Convention ab. Folgende praktische Hinweise ergänzen die obigen Ausführungen:
+
+- Rangkonflikt zwischen nationalem Pfandrecht und Cape-Town-Sicherungsinteresse muss vor Vertragsschluss geklärt werden.
+- Pfandrechtslöschung nach Tilgung der gesicherten Forderung unverzüglich veranlassen.
+- Bei Pfandrecht auf Triebwerke (als Zubehör) gesonderte Eintragung prüfen.
+- Internationale Kreditgeber verlangen regelmäßig Cape-Town-Eintragung als Bedingung.
+
+### Dokumentationspflichten
+
+Für Mandate im Bereich Flugzeug-Leasing und Cape Town Convention sind folgende Dokumente regelmäßig anzufordern:
+
+- Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
+- AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
+- Cape-Town-Registerauszug (ICAO International Registry)
+- Gültige Betriebsgenehmigung und AOC-Kopie
+- Leasingvertrag oder Eigentumsnachweis
+- Aktuelle Behördenbescheide und Aufsichtskorrespondenz

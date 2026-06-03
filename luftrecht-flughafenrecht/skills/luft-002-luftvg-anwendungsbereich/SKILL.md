@@ -1,57 +1,83 @@
 ---
 name: luft-002-luftvg-anwendungsbereich
-description: "Luftrecht und Flughafenrecht: LuftVG-Anwendungsbereich. LuftVG-Anwendungsbereich im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: 'Mandant fragt ob LuftVG gilt: Drohnenflug im Ausland Segelflug auf Privatgelände auslaendische Airline auf deutschem Flughafen. Prueft §§ 1 und 6 LuftVG Hoheitsgebiet/Luftfahrzeugbegriff Chicagoer Abkommen Art. 1 sowie EASA Basic Regulation Anwendungsausnahmen und liefert Normanwendbarkeits-Vermerk.'
 ---
 
-# Luftvg Anwendungsbereich
+# LuftVG Anwendungsbereich – Normanwendbarkeit im Einzelfall
 
-## Arbeitsauftrag
+## Mandantenfall
 
-Luftvg Anwendungsbereich wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Luftrecht und Flughafenrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+- Drohnenbetreiber fragt ob §§ 21a ff. LuftVG für seinen kommerziellen Multikopter-Einsatz in Österreich gilt weil das Gerät in Deutschland zugelassen ist.
+- Segelflugverein prüft ob Platzrunde über eigenem Gelände der LuftVG-Aufsicht unterliegt.
+- Ausländische Frachtairline möchte wissen ob sie beim Transit durch deutschen Luftraum einer LBA-Genehmigung bedarf.
 
-## Einstieg ohne Leerlauf
+## Erste Schritte
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+1. Klären ob Luftfahrzeug im Sinne § 1 Abs. 2 LuftVG erfasst ist: Flugzeug Drehflügler Luftschiff Segelflugzeug Drohne Ballon oder Raketengerät.
+2. Territorialprinzip nach § 1 Abs. 1 LuftVG prüfen: Benutzung des deutschen Luftraums unabhängig von Nationalität des Luftfahrzeugs.
+3. Registrierungsstaat-Prinzip prüfen: in Deutschland eingetragenes Luftfahrzeug unterliegt deutschem Recht auch im Ausland für Airworthiness und Betriebsgenehmigung.
+4. Ausnahmen checken: § 1 Abs. 3 LuftVG Staatsluftfahrzeuge Chicagoer Abkommen Art. 3 EASA Basic Regulation Art. 2.
+5. EU-Recht prüfen: EASA Basic Regulation gilt für gewerbliche Luftfahrt in EU; nationale LuftVG-Normen bleiben für nicht-EASA-Bereich.
+6. Ergebnis dokumentieren: Normanwendbarkeits-Vermerk mit Begründung und ggf. Kollisionsnorm.
 
-## Norm- und Quellenanker
+## Rechtsrahmen
 
-- LuftVG, LuftSiG, LuftRegV, LuftFzgG, EU-Airline-Lizenzrecht
-- LBA, Betriebsgenehmigung, finanzielle Leistungsfähigkeit, Slots
-- Flugzeugpfandrecht, Register, Leasing, Beschlagnahme/Pfändung
-- Flughafenplanung, Luftsicherheit, Drohnen, Fluggastrechte-Schnittstelle
+- **LuftVG § 1 Abs. 1**: Benutzung des Luftraums über deutschem Hoheitsgebiet; gilt für alle Luftfahrzeuge.
+- **LuftVG § 1 Abs. 2**: Luftfahrzeugbegriff; abschließende Liste erfasster Geräte.
+- **LuftVG § 1 Abs. 3**: Ausnahme für Staatsluftfahrzeuge.
+- **LuftVG § 6**: Erlaubnispflicht für Flugplätze.
+- **Chicagoer Abkommen Art. 1**: Vollständige Souveränität über nationalen Luftraum.
+- **Chicagoer Abkommen Art. 3**: Staatsluftfahrzeuge ausgenommen.
+- **EASA Basic Regulation EU 2018/1139 Art. 2**: Anwendungsbereich; Ausnahmen für Militär Polizei Zoll.
+- **LuftVG § 21a**: Unbemannte Luftfahrtsysteme.
 
-## Prüfroutine
+## Prüfraster
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+1. Liegt ein Luftfahrzeug i.S.d. § 1 Abs. 2 LuftVG vor?
+2. Findet Betrieb im deutschen Luftraum statt oder ist deutsches Luftfahrzeug im Ausland?
+3. Greift staatliche Ausnahme nach § 1 Abs. 3 LuftVG?
+4. Ist EASA-Recht vorrangig?
+5. Gilt Drohnen-Sonderregime (EU-VO 2019/947)?
+6. Bestehen bilaterale Abkommen die deutsches LuftVG modifizieren?
 
-## Typische Artefakte
+## Typische Fallstricke
 
-- Luftfahrzeug-/Registerdatenblatt
-- LBA- und Lizenzprüfvermerk
-- Aircraft mortgage/arrest map
-- Flughafen-/Slot-/Sicherheits-Dashboard
+- Drohne als Spielzeug eingestuft obwohl gewerblicher Einsatz § 21a LuftVG auslöst.
+- EASA-Recht und LuftVG parallel angewendet ohne Vorrangprüfung.
+- Staatsluftfahrzeug-Ausnahme auf kommerzielle Charter ausgedehnt.
+- Transitflug als volle LBA-Genehmigungspflicht eingestuft obwohl Art. 5 Chicagoer Abkommen gilt.
 
-## Red-Team-Fragen
+## Output
 
-- Aircraft mortgage mit deutschem Grundpfandrecht gleichgesetzt
-- LBA-Zuständigkeit falsch
-- Insolvenzreife/finanzielle Leistungsfähigkeit nicht getrennt
-- internationales Register/Leasing nicht geklärt
+Normanwendbarkeits-Vermerk (1 Seite) mit Subsumtionsschema. Kollisionstabelle LuftVG vs. EASA-Recht vs. Chicagoer Abkommen.
 
-## Ausgabeformat
+## Quellen
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+- LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
+- Chicagoer Abkommen: https://www.icao.int/publications/pages/doc7300.aspx
+- EASA Basic Regulation: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32018R1139
+- EU-VO 2019/947: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019R0947
 
-## Qualitätsregel
+## Hinweise für die Praxis
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+Dieser Skill deckt den Bereich Luftrecht ab. Folgende praktische Hinweise ergänzen die obigen Ausführungen:
+
+- Einschlägige Normen vor Mandatsbearbeitung vollständig auf aktuelle Fassung prüfen.
+- Behördenanschreiben stets mit Aktenzeichen und Fristbenennung versehen.
+- Klagefristen und Widerspruchsfristen sofort bei Mandatsannahme kalendarisch sichern.
+- Bei grenzüberschreitenden Sachverhalten internationalen Normenkonflikt prüfen.
+
+### Dokumentationspflichten
+
+Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzufordern:
+
+- Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
+- AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
+- Cape-Town-Registerauszug (ICAO International Registry)
+- Gültige Betriebsgenehmigung und AOC-Kopie
+- Leasingvertrag oder Eigentumsnachweis
+- Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+
+### Weitere Praxishinweise
+
+- Anwendungsbereich des LuftVG stets zuerst prüfen bevor andere Normen herangezogen werden.

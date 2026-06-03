@@ -1,57 +1,80 @@
 ---
 name: luft-017-fluglaerm-und-anwohner
-description: "Luftrecht und Flughafenrecht: Fluglärm und Anwohner. Fluglärm und Anwohner im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: 'Anwohner klagt gegen Fluglaerm oder Flughafen baut Schallschutzprogramm auf. Prueft FluglaermG §§ 1-9 Laermschutzbereiche Tagschutzzone 65-60 dB Nachtschutzzone 55 dB BImSchG § 41 und Schallschutzansprueche und liefert Klagebaustein und Schallschutzanspruchs-Checkliste mit Fristen.'
 ---
 
-# Fluglaerm Und Anwohner
+# Fluglärm und Anwohner – Lärmschutzbereiche und Schallschutzansprüche
 
-## Arbeitsauftrag
+## Mandantenfall
 
-Fluglaerm Und Anwohner wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Luftrecht und Flughafenrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+- Hausbesitzer im Lärmschutzbereich eines Großflughafens beantragt Schallschutzmaßnahmen; Flughafen lehnt ab mit der Begründung das Haus liege außerhalb der Nacht-Schutzzone.
+- Anwohnerinitiative klagt gegen Planfeststellungsbeschluss wegen unzureichender Lärmschutzauflagen bei Flughafenerweiterung.
+- Gemeinde prüft Widerspruch gegen Nachtflug-Genehmigung die über Flughafenbetriebsgenehmigung hinausgeht.
 
-## Einstieg ohne Leerlauf
+## Erste Schritte
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+1. Lärmschutzbereich bestimmen: Flughafen muss Lärmschutzbereich nach FluglärmG § 2 festgesetzt haben; Tag-Schutzzone 1 (65 dB) Tag-Schutzzone 2 (60 dB) Nacht-Schutzzone (55 dB Mittelungspegel).
+2. Schallschutzanspruch prüfen: FluglärmG §§ 7-9; bauliche Schallschutzmaßnahmen auf Kosten des Flughafenbetreibers.
+3. Eigentümer/Mieter-Frage klären: § 7 Abs. 1 FluglärmG Anspruch des Eigentümers.
+4. Antrag beim Flughafenbetreiber stellen: fristgebunden; Anspruchsverlust bei Fristversäumnis.
+5. Planfeststellungsklage: Abwägungsfehler bei Lärmschutzauflagen angreifen.
+6. Nachtflugbeschränkungen: BVerwG hat Nachtfluggenehmigungen an restriktive Bedingungen geknüpft.
 
-## Norm- und Quellenanker
+## Rechtsrahmen
 
-- LuftVG, LuftSiG, LuftRegV, LuftFzgG, EU-Airline-Lizenzrecht
-- LBA, Betriebsgenehmigung, finanzielle Leistungsfähigkeit, Slots
-- Flugzeugpfandrecht, Register, Leasing, Beschlagnahme/Pfändung
-- Flughafenplanung, Luftsicherheit, Drohnen, Fluggastrechte-Schnittstelle
+- **FluglärmG § 1**: Zweck und Anwendungsbereich.
+- **FluglärmG § 2**: Festsetzung des Lärmschutzbereichs mit Tag- und Nacht-Schutzzonen.
+- **FluglärmG §§ 7-9**: Schallschutzansprüche; bauliche Maßnahmen auf Kosten des Betreibers.
+- **BImSchG § 41**: Schutz vor schädlichen Umwelteinwirkungen bei Verkehrswegen.
+- **BImSchG § 42**: Entschädigungsansprüche bei Überschreitung von Immissionsgrenzwerten.
+- **LuftVG § 29b**: Gebot der gegenseitigen Rücksichtnahme.
+- **BVerwG 4 A 1001.04**: Nachtflugregelung FRA; Leitentscheidung für Verhältnismäßigkeit.
 
-## Prüfroutine
+## Prüfraster
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+1. Liegt das Anwesen innerhalb eines Lärmschutzbereichs nach FluglärmG § 2?
+2. Welche Schutzzone ist einschlägig?
+3. Wurde Antrag auf Schallschutz fristgerecht gestellt?
+4. Überschreiten Lärmwerte die Schwellenwerte des FluglärmG?
+5. Bestehen Fehler in der UVP oder Abwägung des Planfeststellungsbeschlusses?
+6. Ist Nachtflug über genehmigte Zeiten hinaus rechtswidrig?
 
-## Typische Artefakte
+## Typische Fallstricke
 
-- Luftfahrzeug-/Registerdatenblatt
-- LBA- und Lizenzprüfvermerk
-- Aircraft mortgage/arrest map
-- Flughafen-/Slot-/Sicherheits-Dashboard
+- Anwesen knapp außerhalb Lärmschutzbereich; kein gesetzlicher Anspruch.
+- Schallschutzantrag zu spät gestellt; Frist abgelaufen Anspruch erloschen.
+- Planfeststellungsklage ohne Einwendung im Verfahren; Präklusion.
+- Nachtflugregelung als Planfeststellungsbestandteil angreifen statt als separate Genehmigung.
 
-## Red-Team-Fragen
+## Output
 
-- Aircraft mortgage mit deutschem Grundpfandrecht gleichgesetzt
-- LBA-Zuständigkeit falsch
-- Insolvenzreife/finanzielle Leistungsfähigkeit nicht getrennt
-- internationales Register/Leasing nicht geklärt
+Schallschutzanspruchs-Checkliste mit Fristen. Klagebaustein gegen Planfeststellungsbeschluss (Lärmschutzfehler). Muster-Antrag an Flughafenbetreiber.
 
-## Ausgabeformat
+## Quellen
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+- FluglärmG: https://www.gesetze-im-internet.de/fluglaermg/
+- BImSchG: https://www.gesetze-im-internet.de/bimschg/
+- LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
+- BVerwG: https://www.bverwg.de
 
-## Qualitätsregel
+## Hinweise für die Praxis
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+Dieser Skill deckt den Bereich Luftrecht ab. Folgende praktische Hinweise ergänzen die obigen Ausführungen:
+
+- Einschlägige Normen vor Mandatsbearbeitung vollständig auf aktuelle Fassung prüfen.
+- Behördenanschreiben stets mit Aktenzeichen und Fristbenennung versehen.
+- Klagefristen und Widerspruchsfristen sofort bei Mandatsannahme kalendarisch sichern.
+- Bei grenzüberschreitenden Sachverhalten internationalen Normenkonflikt prüfen.
+
+### Dokumentationspflichten
+
+Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzufordern:
+
+- Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
+- AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
+- Cape-Town-Registerauszug (ICAO International Registry)
+- Gültige Betriebsgenehmigung und AOC-Kopie
+- Leasingvertrag oder Eigentumsnachweis
+- Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+
+

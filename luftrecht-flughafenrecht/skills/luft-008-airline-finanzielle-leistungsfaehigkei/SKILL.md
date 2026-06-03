@@ -1,57 +1,81 @@
 ---
 name: luft-008-airline-finanzielle-leistungsfaehigkei
-description: "Luftrecht und Flughafenrecht: Airline finanzielle Leistungsfähigkeit. Airline finanzielle Leistungsfähigkeit im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: 'LBA prueft finanzielle Leistungsfaehigkeit nach EU-VO 1008/2008 Art. 5 oder Mandant bewertet Insolvenzrisiko einer Fluggesellschaft. Prueft Nachweispflichten Eigenkapital Versicherung Businessplan LBA-Auflagenpraxis und Fruehwarnindikatoren und liefert Leistungsfaehigkeits-Bewertungs-Vermerk.'
 ---
 
-# Airline Finanzielle Leistungsfaehigkei
+# Airline – Finanzielle Leistungsfähigkeit prüfen
 
-## Arbeitsauftrag
+## Mandantenfall
 
-Airline Finanzielle Leistungsfaehigkei wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Luftrecht und Flughafenrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+- Startup-Airline beantragt Betriebsgenehmigung; LBA fordert Nachweis finanzieller Leistungsfähigkeit nach EU-VO 1008/2008 Art. 5; Mandant fragt welche Unterlagen ausreichen.
+- Bestehende Airline erhält LBA-Schreiben über Zweifel an fortlaufender Leistungsfähigkeit nach Art. 9; Mandant hat einen Monat zur Stellungnahme.
+- Investor prüft Beteiligung an einer Regionalairline; Due-Diligence-Check der Betriebsgenehmigung und Liquiditätslage.
 
-## Einstieg ohne Leerlauf
+## Erste Schritte
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+1. Genehmigungstyp bestimmen: Neugenehmigung (Art. 5) oder laufende Überwachung (Art. 9).
+2. Nachweisunterlagen zusammenstellen: Jahresabschluss (geprüft) Eigenkapitalnachweis Versicherungspolice Businessplan inkl. Liquiditätsplanung für mindestens 3 Monate.
+3. Mindestkapital prüfen: Art. 5 Abs. 2 gibt Richtwerte; LBA kann höhere Anforderungen stellen je nach Flottengröße und Streckennetz.
+4. LBA-Prüfstruktur verstehen: Trigger für Überprüfung sind Verluste Kapitalherabsetzung Lohnrückstände Steuerschulden.
+5. Gegenmaßnahmen bei LBA-Zweifeln: sofortige schriftliche Stellungnahme aktualisierter Businessplan Bankbestätigung über Kreditlinie.
+6. Insolvenzfrühwarnung dokumentieren: Z-Score-Analyse oder Creditreform-Bericht beifügen.
 
-## Norm- und Quellenanker
+## Rechtsrahmen
 
-- LuftVG, LuftSiG, LuftRegV, LuftFzgG, EU-Airline-Lizenzrecht
-- LBA, Betriebsgenehmigung, finanzielle Leistungsfähigkeit, Slots
-- Flugzeugpfandrecht, Register, Leasing, Beschlagnahme/Pfändung
-- Flughafenplanung, Luftsicherheit, Drohnen, Fluggastrechte-Schnittstelle
+- **EU-VO 1008/2008 Art. 5**: Finanzielle Leistungsfähigkeit als Genehmigungsvoraussetzung.
+- **EU-VO 1008/2008 Art. 9**: Laufende Überwachung; LBA kann Genehmigung aussetzen oder widerrufen.
+- **EU-VO 1008/2008 Art. 9 Abs. 1**: Mitteilungspflicht der Airline bei finanziellen Schwierigkeiten.
+- **LuftVG § 20 Abs. 1**: Betriebsgenehmigung als nationale Umsetzungsnorm.
+- **InsO §§ 15a 17-18**: Insolvenzantragspflicht; Zahlungsunfähigkeit und drohende Zahlungsunfähigkeit.
+- **LuftBO § 9**: Haftpflichtversicherungspflicht; Mindestdeckungssummen.
+- **LuftVG § 21a**: Wet-Lease-Genehmigung; Voraussetzungen und Befristung.
+- **LuftVG § 29d**: Aufsichtsbefugnisse des LBA gegenüber Luftverkehrsunternehmen.
+- **EASA Part-OPS ORO.AOC.100**: AOC-Anforderungen; Nachweis technischer und betrieblicher Kompetenz.
+## Prüfraster
 
-## Prüfroutine
+1. Erfüllt Jahresabschluss die LBA-Mindestanforderungen (geprüft aktuell)?
+2. Ist Eigenkapital ausreichend gemäß Art. 5 Abs. 2?
+3. Besteht Haftpflichtversicherung in vorgeschriebener Höhe?
+4. Gibt es Steuerschulden Lohnrückstände oder offene Sozialversicherungsbeiträge?
+5. Ist Mitteilungspflicht nach Art. 9 Abs. 1 ausgelöst?
+6. Sind Frühwarnindikatoren (negativer Cashflow Kreditkündigung) dokumentiert?
+7. Ist das AOC noch gültig und entspricht es dem aktuellen Streckennetz?
+8. Haben sich Eigentümerstruktur oder Hauptsitz geändert (EU-VO 1008/2008 Art. 4)?
+## Typische Fallstricke
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+- Ungeprüfter Jahresabschluss reicht nicht; LBA besteht auf Wirtschaftsprüfer-Testat.
+- Eigenkapital-Mindestbetrag als Einmalnachweis missverstanden; LBA überwacht fortlaufend.
+- Mitteilungspflicht nach Art. 9 Abs. 1 übersehen; LBA legt Untätigkeit als Verschleierung aus.
+- Businessplan zu optimistisch; LBA lehnt ab und Mandant muss nachlegen.
+- Wet-Lease ohne gesonderte Genehmigung nach LuftVG § 21a operiert; rückwirkende Sanktion möglich.
+- AOC und Betriebsgenehmigung als identisch behandelt; sind rechtlich getrennte Instrumente.
+## Output
 
-## Typische Artefakte
+Leistungsfähigkeits-Bewertungs-Vermerk mit Nachweisliste. Muster-Stellungnahme an LBA bei Art.-9-Anfrage. Frühwarn-Checkliste. Zuständigkeitsmatrix Behörde/Register. Fristenkalender mit Ampelstatus.
+## Quellen
 
-- Luftfahrzeug-/Registerdatenblatt
-- LBA- und Lizenzprüfvermerk
-- Aircraft mortgage/arrest map
-- Flughafen-/Slot-/Sicherheits-Dashboard
+- EU-VO 1008/2008: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32008R1008
+- LBA Betriebsgenehmigung: https://www.lba.de/DE/Luftfahrtunternehmen/Genehmigungen/GenehmigungLU.html
+- LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
+- InsO: https://www.gesetze-im-internet.de/inso/
+- EASA: https://www.easa.europa.eu/en/document-library/regulations
 
-## Red-Team-Fragen
+## Hinweise für die Praxis
 
-- Aircraft mortgage mit deutschem Grundpfandrecht gleichgesetzt
-- LBA-Zuständigkeit falsch
-- Insolvenzreife/finanzielle Leistungsfähigkeit nicht getrennt
-- internationales Register/Leasing nicht geklärt
+Dieser Skill deckt den Bereich Airline-Betrieb und Betriebsgenehmigung ab. Folgende praktische Hinweise ergänzen die obigen Ausführungen:
 
-## Ausgabeformat
+- Einschlägige Normen vor Mandatsbearbeitung vollständig auf aktuelle Fassung prüfen.
+- Behördenanschreiben stets mit Aktenzeichen und Fristbenennung versehen.
+- Klagefristen und Widerspruchsfristen sofort bei Mandatsannahme kalendarisch sichern.
+- Bei grenzüberschreitenden Sachverhalten internationalen Normenkonflikt prüfen.
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+### Dokumentationspflichten
 
-## Qualitätsregel
+Für Mandate im Bereich Airline-Betrieb und Betriebsgenehmigung sind folgende Dokumente regelmäßig anzufordern:
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+- Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
+- AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
+- Cape-Town-Registerauszug (ICAO International Registry)
+- Gültige Betriebsgenehmigung und AOC-Kopie
+- Leasingvertrag oder Eigentumsnachweis
+- Aktuelle Behördenbescheide und Aufsichtskorrespondenz
