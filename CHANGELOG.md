@@ -1,3 +1,18 @@
+# v67.0.0 — Handelsregister, Grundbuchamt und Erbbaurecht
+
+## Neu
+
+- Neues Plugin `handelsregister-praxis` mit 72 Skills für Registergericht, Rechtspfleger/Registerrichter, Beanstandung, FamFG-Beschwerde, Gesellschafterliste, Kapitalmaßnahmen, Löschung, Insolvenzvermerk und registerfeste Nachweise.
+- Neues Plugin `grundbuchamt-praxis` mit 64 Skills für Grundbuchauszug, Abteilung I/II/III, § 29 GBO, Zwischenverfügung, Rang, Briefgrundschuld, Aufgebot und grundbuchtaugliche Unterlagen.
+- Neues Plugin `erbbaurecht-praxis` mit 50 Skills für Erbbaurechtsvertrag, Erbbauzins, Heimfall, Finanzierung, Zustimmung, Zwangsversteigerung und Erbbaugrundbuch.
+- Drei neue Demonstrationsakten mit EML, DOCX, XLSX, PDF, JPEG und Gesamt-PDF.
+
+## Synchronisiert
+
+- Marketplace und Plugin-Manifeste auf v67.0.0 vorbereitet; Übersichten und Downloadsektionen werden regeneriert.
+
+---
+
 # v66.0.0 — Kriegsdienstverweigerung und Wehrdienst
 
 ## Neu

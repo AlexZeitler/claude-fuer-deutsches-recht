@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v66.0.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v67.0.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -47,6 +47,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [einfache-leichte-sprache-jura](./einfache-leichte-sprache-jura.md) (54 Skills)
 - [email-umformulierer-berufsrecht](./email-umformulierer-berufsrecht.md) (54 Skills)
 - [energierecht](./energierecht.md) (92 Skills)
+- [erbbaurecht-praxis](./erbbaurecht-praxis.md) (50 Skills)
 - [europarecht-kompass](./europarecht-kompass.md) (54 Skills)
 - [fachanwalt-agrarrecht](./fachanwalt-agrarrecht.md) (54 Skills)
 - [fachanwalt-arbeitsrecht](./fachanwalt-arbeitsrecht.md) (54 Skills)
@@ -84,7 +85,9 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [gewerblicher-rechtsschutz](./gewerblicher-rechtsschutz.md) (54 Skills)
 - [goae-gebuehrenordnung-aerzte](./goae-gebuehrenordnung-aerzte.md) (65 Skills)
 - [grosskanzlei-corporate-ma](./grosskanzlei-corporate-ma.md) (165 Skills)
+- [grundbuchamt-praxis](./grundbuchamt-praxis.md) (64 Skills)
 - [handelsrecht-hgb](./handelsrecht-hgb.md) (51 Skills)
+- [handelsregister-praxis](./handelsregister-praxis.md) (72 Skills)
 - [handelsvertreterrecht](./handelsvertreterrecht.md) (100 Skills)
 - [hausarbeitenmacher](./hausarbeitenmacher.md) (54 Skills)
 - [hinweisgeberschutz-compliance](./hinweisgeberschutz-compliance.md) (100 Skills)

@@ -1,19 +1,6 @@
 # Kanzlei-Allgemein-Plugin
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Kanzlei-Allgemein-Plugin** ([`testakten/kanzlei-allgemein-alltag/`](../testakten/kanzlei-allgemein-alltag/)).
-
-Direkt-Download als ZIP: [testakte-kanzlei-allgemein-alltag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kanzlei-allgemein-alltag.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).

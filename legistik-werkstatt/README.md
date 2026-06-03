@@ -1,19 +1,6 @@
 # Legistik-Werkstatt
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **- Elektronisches Pflichtpostfach** ([`testakten/legistik-pflichtpostfach/`](../testakten/legistik-pflichtpostfach/)).
-
-Direkt-Download als ZIP: [testakte-legistik-pflichtpostfach.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-legistik-pflichtpostfach.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).

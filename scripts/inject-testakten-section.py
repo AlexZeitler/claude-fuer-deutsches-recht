@@ -108,6 +108,9 @@ PLUGIN_TESTAKTEN: dict[str, list[str]] = {
         "zwangsverwaltung-zvg-mietshaus-parkstrasse",
         "zwangsverwaltung-zvg-versteigerung-eppendorf-altbau",
     ],
+    "handelsregister-praxis": ["handelsregister-registergericht-rabenhof-gmbh-2026"],
+    "grundbuchamt-praxis": ["grundbuchamt-briefgrundschuld-wegerecht-altenau-2026"],
+    "erbbaurecht-praxis": ["erbbaurecht-erbbauzins-heimfall-lindenwerder-2026"],
     "zwangsvollstreckung": ["vollstreckungsmappe-mueller-sparkasse-niederrhein"],
 }
 

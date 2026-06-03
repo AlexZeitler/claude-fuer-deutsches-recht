@@ -1,19 +1,6 @@
 # gesellschaftsgründer — Gründungsassistent für deutsche Gesellschaften
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Roeschen Tech GmbH — Gründung, Series A, B-Shares und Streit-Eskalation** ([`testakten/gesellschaftsgruender-streit-roeschen-tech/`](../testakten/gesellschaftsgruender-streit-roeschen-tech/)).
-
-Direkt-Download als ZIP: [testakte-gesellschaftsgruender-streit-roeschen-tech.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsgruender-streit-roeschen-tech.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).

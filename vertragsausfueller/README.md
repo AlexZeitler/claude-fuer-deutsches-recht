@@ -1,19 +1,6 @@
 # Vertragsausfüller
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Vertragsausfueller - BSAG Kiosk Huckelriede** ([`testakten/vertragsausfueller-bsag-kiosk-huckelriede/`](../testakten/vertragsausfueller-bsag-kiosk-huckelriede/)).
-
-Direkt-Download als ZIP: [testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).

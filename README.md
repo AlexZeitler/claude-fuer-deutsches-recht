@@ -24,11 +24,11 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 
 | Kennzahl | Wert |
 |---|---|
-| **Plugins** | 160 |
-| **Skills (SKILL.md)** | 13346 — [Gesamtübersicht](./SKILLS.md) |
-| **Testakten** | 153 |
+| **Plugins** | 164 |
+| **Skills (SKILL.md)** | 13532 — [Gesamtübersicht](./SKILLS.md) |
+| **Testakten** | 157 |
 | **Fachanwalts-/-anwältinnen-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v66.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v67.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -43,7 +43,7 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 
 ### Inhaltliche Cluster
 
-- **Rechtsgebiete (materiell):** BGB Allgemeiner Teil, Arbeitsrecht, Mietrecht (Wohn-/Gewerbe), Nachbarrecht/Nachbarschaftsstreit, Erbrecht, Familienrecht, Sozialrecht, Sozialversicherungsstatus/DRV-Statusfeststellung, Strafrecht, Äußerungsrecht/Meinungsfreiheit, Verwaltungsrecht (inkl. Energieanlagen-BImSchG-Verfahren und Energietrassen-Planfeststellung), Steuerrecht, Insolvenzrecht inkl. StaRUG, Gesellschaftsrecht, Vertragsrecht, AGB-Recht, Markenrecht (inkl. Luxus-Fashion + USPTO/Lanham Act), Urheberrecht, Softwarerecht DE/EU/US, Wettbewerbsrecht, Kartellrecht, Datenschutzrecht, IT-Recht, digitale Barrierefreiheit, Robotikrecht, Bank- und Kapitalmarktrecht, Factoring, Bau- und Architektenrecht, Verkehrsrecht, Medizinrecht, Krankenhausrecht, GOÄ/Arzthonorar, Apothekenrecht, Migrationsrecht, Internationales Recht, Europarecht, Energierecht, Bundesnetzagentur-Verfahren, E-Commerce, Bürokratieverstehen, Vereinsrecht, Parteienrecht, Bundeswehr-/Wehrrecht, Commercial Courts/englischsprachige Wirtschaftsverfahren, Robotikrecht, Zwangsvollstreckung, Beamtenrecht/Richterrecht, US-Copyright Act und US Bankruptcy Code, NIS-2/Cybersecurity-Compliance, Hinweisgeberschutz, Handelsvertreterrecht, Schulrecht, Hochschulrecht und Hochschulprüfungsrecht.
+- **Rechtsgebiete (materiell):** BGB Allgemeiner Teil, Arbeitsrecht, Mietrecht (Wohn-/Gewerbe), Nachbarrecht/Nachbarschaftsstreit, Erbrecht, Familienrecht, Sozialrecht, Sozialversicherungsstatus/DRV-Statusfeststellung, Strafrecht, Äußerungsrecht/Meinungsfreiheit, Verwaltungsrecht (inkl. Energieanlagen-BImSchG-Verfahren und Energietrassen-Planfeststellung), Steuerrecht, Insolvenzrecht inkl. StaRUG, Gesellschaftsrecht, Handelsregisterpraxis, Grundbuchamtspraxis, Erbbaurecht, Vertragsrecht, AGB-Recht, Markenrecht (inkl. Luxus-Fashion + USPTO/Lanham Act), Urheberrecht, Softwarerecht DE/EU/US, Wettbewerbsrecht, Kartellrecht, Datenschutzrecht, IT-Recht, digitale Barrierefreiheit, Robotikrecht, Bank- und Kapitalmarktrecht, Factoring, Bau- und Architektenrecht, Verkehrsrecht, Medizinrecht, Krankenhausrecht, GOÄ/Arzthonorar, Apothekenrecht, Migrationsrecht, Internationales Recht, Europarecht, Energierecht, Bundesnetzagentur-Verfahren, E-Commerce, Bürokratieverstehen, Vereinsrecht, Parteienrecht, Bundeswehr-/Wehrrecht, Commercial Courts/englischsprachige Wirtschaftsverfahren, Robotikrecht, Zwangsvollstreckung, Beamtenrecht/Richterrecht, US-Copyright Act und US Bankruptcy Code, NIS-2/Cybersecurity-Compliance, Hinweisgeberschutz, Handelsvertreterrecht, Schulrecht, Hochschulrecht und Hochschulprüfungsrecht.
 - **Mechanik-Prüfer:** `bgb-at-pruefer` (BGB AT: Vertragsschluss, Willenserklärung, Zugang, Geschäftsfähigkeit, Form, Anfechtung, Stellvertretung, Verjährung, qES/beA/Formfiktion), `bgb-bt-pruefer` (BGB BT: Kauf, Miete, Werk, Bürgschaft, GoA, Bereicherung, Delikt), `subsumtions-pruefer` (generischer Subsumtions-Workflow DE + EU), `bereicherungs-und-anfechtungsrecht-pruefer` (§§ 812 ff. BGB + AnfG + InsO-Anfechtung einschließlich KI-Schuldnerakten-Screening, § 135 InsO und Verteidigung), `ki-vo-ai-act-pruefer` (Verordnung (EU) 2024/1689 mit Anbieter/Betreiber-Entscheidungsbaum, Art. 5/6/25/51 ff.).
 - **Werkstatt- und Werkstatt-Plugins:**
   - `legistik-werkstatt` — komplette Gesetzgebungs-Werkstatt für Bundesministerien, Bundestag, Fraktionen/Opposition, Landesministerien, Landtage und sonstige Normgeber (Referentenentwurf Arial-Hausstil, BT-/Landtagsdrucksache, Vorblatt A–F, Synopse, Lesefassung, Kabinettsmappe, Formulierungshilfe, Änderungsantrag, Antrag, Entschließungsantrag). DOCX/PDF im passenden offiziellen Layout.
@@ -216,6 +216,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`einfache-leichte-sprache-jura`](./einfache-leichte-sprache-jura) | Juristische Texte in Einfache Sprache oder Leichte Sprache übertragen: experimentelle Standard-Annäherung, Zielgruppe klären, Rechtsinhalt sichern und Qualitätsgate nutzen. |
 | [`email-umformulierer-berufsrecht`](./email-umformulierer-berufsrecht) | Formuliert unfreundliche, emotionale oder unsachliche E-Mails in hoefliche, sachliche und berufsrechtskonform formulierte Texte um. Fokus auf BRAO/BORA-Konformität, mit Varianten für Steuerberater, Notare und allgemeine berufliche Korrespondenz. |
 | [`energierecht`](./energierecht) | Freistehendes Energierecht-Plugin für Stadtwerke, Versorger, Wärme, Netze, Vertrieb, Industrie, EEG, KWKG, Verfahren, Transaktionen und Projektfinanzierung. |
+| [`erbbaurecht-praxis`](./erbbaurecht-praxis) | Praxisplugin für Erbbaurecht und Erbbaugrundbuch: Erbbaurechtsvertrag, Erbbauzins, Wertsicherung, Heimfall, Zustimmung, Belastung, Finanzierung, Veräußerung, Laufzeit, Entschädigung, Zwangsversteigerung, Rang und Grundbuchvollzug. |
 | [`europarecht-kompass`](./europarecht-kompass) | Freistehendes Europarecht-Plugin gegen deutsche Denkfehler: Vorrang, unmittelbare Wirkung, Richtlinien, Verordnungen, Charta, Grundfreiheiten, Beihilfen, Vorlageverfahren und EU-Drafting. |
 | [`fachanwalt-agrarrecht`](./fachanwalt-agrarrecht) | Plugin Fachanwalt für Agrarrecht. Höferecht (HöfeO Anerbenrecht Länder) Landpachtrecht BGB §§ 581 ff. GAP EU-Direktzahlungen Cross-Compliance Düngeverordnung Pflanzenschutz Tierschutz Forstrecht. Schnittstelle Plugin fachanwalt-erbrecht. |
 | [`fachanwalt-arbeitsrecht`](./fachanwalt-arbeitsrecht) | Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechung nur mit Datum, Aktenzeichen und verifizierter Quelle. |
@@ -253,7 +254,9 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`gewerblicher-rechtsschutz`](./gewerblicher-rechtsschutz) | Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review, Schutzrechts-Fristen. |
 | [`goae-gebuehrenordnung-aerzte`](./goae-gebuehrenordnung-aerzte) | Super-Plugin zur GOÄ: private Arztrechnungen prüfen, erstellen, begründen, beanstanden und prozessual verwerten. |
 | [`grosskanzlei-corporate-ma`](./grosskanzlei-corporate-ma) | Freistehendes Big-Law-Corporate/M&A-Plugin: Deal-OS, First-Year-Coach, Datenraum, Legal DD, SPA/APA, W&I, Public M&A, UmwG/UmwStG, StaRUG, Fusionskontrolle, FDI, FSR, Signing/Closing, PMI und 40 GmbH-Beirat-Spezialskills. |
+| [`grundbuchamt-praxis`](./grundbuchamt-praxis) | Praxisplugin für Grundbuchamt, Grundbuchauszug und grundbuchtaugliche Nachweise: Abteilung I/II/III lesen, Bewilligung, Antrag, Auflassung, Rang, Zwischenverfügung, Beschwerde, Grundschuldbrief, Aufgebot, Dienstbarkeiten, Vormerkung, Vorkaufsrecht, Teilung und Vollzug. |
 | [`handelsrecht-hgb`](./handelsrecht-hgb) | Reines HGB-Plugin für Handelsrecht: Kaufmann, Handelsregister, Firma, Prokura, Handlungsvollmacht, Handelsgeschäfte, Handelskauf, Handelsvertreter, Makler, Kommission, Fracht, Spedition, Lager, Handelsbücher sowie OHG/KG einschließlich MoPeG-Statuswechsel von GbR zu OHG. |
+| [`handelsregister-praxis`](./handelsregister-praxis) | Praxisplugin für den Umgang mit dem Handelsregister: Anmeldung, Registergericht, Rechtspfleger, Registerrichter, Beanstandung, Zwischenverfügung, Beschwerde, Gesellschafterliste, Kapitalmaßnahmen, Firma, Vertretung, Prokura, Löschung, Insolvenzvermerk und registerfeste Nachweise. |
 | [`handelsvertreterrecht`](./handelsvertreterrecht) | Handelsvertreterrecht nach HGB: Status, Provision, Buchauszug, Kündigung, Ausgleich § 89b, Wettbewerbsverbot § 90a und Vertriebsmodelle. |
 | [`hausarbeitenmacher`](./hausarbeitenmacher) | Didaktisches Plugin für juristische Hausarbeiten und Seminararbeiten. Führt sokratisch durch Zivilrecht öffentliches Recht Strafrecht mit Ausfluegen in Europarecht und Rechtstheorie. Adressaten-Strategie ohne Schleimerei. Liefert keine fertigen Lösungen sondern führt zur eigenen Subsumtion. |
 | [`hinweisgeberschutz-compliance`](./hinweisgeberschutz-compliance) | Hinweisgeberschutzgesetz in der Praxis: interne/externe Meldestelle, NDA-Konflikte, Repressalien, Untersuchungen, Datenschutz und Governance. |
@@ -411,7 +414,7 @@ Wenn Nutzerinnen und Nutzer auf dem Mac scheitern, liegt es häufig an der herun
 - `alle-plugins-megazip.zip` ist nur ein Sammelarchiv. Es muss zuerst entpackt werden; anschließend die darin enthaltenen Plugin-ZIPs einzeln hochladen.
 - Nicht das GitHub-Repository-ZIP aus **Code → Download ZIP** verwenden. Das ist Quellcode, kein direkt installierbares Plugin-ZIP.
 - Bei iCloud-Desktop/Downloads die ZIP erst lokal vollständig laden. Im Zweifel nach `~/Downloads/claude-plugins/` verschieben und dann aus diesem lokalen Ordner auswählen.
-- Beim Cowork-Organisations-Upload müssen Plugin-ZIPs gültige ZIP-Dateien unter 50 MB sein; für alle 161 Plugins ist GitHub-Sync/Marketplace robuster als manueller Einzelupload.
+- Beim Cowork-Organisations-Upload müssen Plugin-ZIPs gültige ZIP-Dateien unter 50 MB sein; für alle 164 Plugins ist GitHub-Sync/Marketplace robuster als manueller Einzelupload.
 - Technischer Check im Terminal:
 
 ```bash

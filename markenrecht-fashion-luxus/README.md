@@ -1,19 +1,6 @@
 # markenrecht-fashion-luxus
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Markenrecht – klôtzzkètté S.A. ./. Brezelmann Discount KG & Donauzon Marketplace GmbH** ([`testakten/markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon/`](../testakten/markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon/)).
-
-Direkt-Download als ZIP: [testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).

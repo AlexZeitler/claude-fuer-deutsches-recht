@@ -1,14 +1,14 @@
 # Skill-Gesamtuebersicht
 
-Automatisch generierte Gesamtuebersicht aller **13346 Skills** in **161 Plugins**.
+Automatisch generierte Gesamtuebersicht aller **13532 Skills** in **164 Plugins**.
 
-Stand: `v66.0.0`.
+Stand: `v67.0.0`.
 
 ## ⬇️ Alle Skills auf einmal herunterladen
 
 | Paket | Inhalt | Download |
 | --- | --- | --- |
-| **Alle Skills (kompakt)** | Alle 161 Plugin-ZIPs in einem Archiv (ca. 11 MB) | [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) |
+| **Alle Skills (kompakt)** | Alle 164 Plugin-ZIPs in einem Archiv (ca. 11 MB) | [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) |
 | **Komplettpaket (alles)** | Plugins + Testakten + Uebersichten (ca. 80 MB) | [`alles-komplettpaket.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) |
 
 Das erste Paket reicht, wenn man nur die Prompts (Skills) braucht. Das zweite enthaelt zusaetzlich die Testakten und alle Repo-Uebersichten.
@@ -34,7 +34,7 @@ So bekommt man die komplette Sammlung als ZIP:
 
 **Wichtig:** Wenn irgendwo im Repo ein neuer Skill angelegt wird (also ein neuer Ordner `<plugin>/skills/<skill>/SKILL.md`), erscheint er beim naechsten Lauf von `scripts/generate-skills-md.py` automatisch -- sowohl in dieser Liste als auch auf der jeweiligen Plugin-Detailseite. Es kann also nichts fehlen.
 
-Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und laedt schnell, statt mit 13346 Tabellenzeilen den Browser-Renderer von GitHub zu ueberfordern.
+Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und laedt schnell, statt mit 13532 Tabellenzeilen den Browser-Renderer von GitHub zu ueberfordern.
 
 ## Alle Plugins
 
@@ -81,6 +81,7 @@ Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschr
 | **einfache-leichte-sprache-jura** | 54 | [Skills ansehen](skills-index/einfache-leichte-sprache-jura.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einfache-leichte-sprache-jura.zip) |
 | **email-umformulierer-berufsrecht** | 54 | [Skills ansehen](skills-index/email-umformulierer-berufsrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/email-umformulierer-berufsrecht.zip) |
 | **energierecht** | 92 | [Skills ansehen](skills-index/energierecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/energierecht.zip) |
+| **erbbaurecht-praxis** | 50 | [Skills ansehen](skills-index/erbbaurecht-praxis.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/erbbaurecht-praxis.zip) |
 | **europarecht-kompass** | 54 | [Skills ansehen](skills-index/europarecht-kompass.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/europarecht-kompass.zip) |
 | **fachanwalt-agrarrecht** | 54 | [Skills ansehen](skills-index/fachanwalt-agrarrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-agrarrecht.zip) |
 | **fachanwalt-arbeitsrecht** | 54 | [Skills ansehen](skills-index/fachanwalt-arbeitsrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-arbeitsrecht.zip) |
@@ -118,7 +119,9 @@ Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschr
 | **gewerblicher-rechtsschutz** | 54 | [Skills ansehen](skills-index/gewerblicher-rechtsschutz.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gewerblicher-rechtsschutz.zip) |
 | **goae-gebuehrenordnung-aerzte** | 65 | [Skills ansehen](skills-index/goae-gebuehrenordnung-aerzte.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/goae-gebuehrenordnung-aerzte.zip) |
 | **grosskanzlei-corporate-ma** | 165 | [Skills ansehen](skills-index/grosskanzlei-corporate-ma.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/grosskanzlei-corporate-ma.zip) |
+| **grundbuchamt-praxis** | 64 | [Skills ansehen](skills-index/grundbuchamt-praxis.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/grundbuchamt-praxis.zip) |
 | **handelsrecht-hgb** | 51 | [Skills ansehen](skills-index/handelsrecht-hgb.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/handelsrecht-hgb.zip) |
+| **handelsregister-praxis** | 72 | [Skills ansehen](skills-index/handelsregister-praxis.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/handelsregister-praxis.zip) |
 | **handelsvertreterrecht** | 100 | [Skills ansehen](skills-index/handelsvertreterrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/handelsvertreterrecht.zip) |
 | **hausarbeitenmacher** | 54 | [Skills ansehen](skills-index/hausarbeitenmacher.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/hausarbeitenmacher.zip) |
 | **hinweisgeberschutz-compliance** | 100 | [Skills ansehen](skills-index/hinweisgeberschutz-compliance.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/hinweisgeberschutz-compliance.zip) |

@@ -53,3 +53,9 @@ Folgende Skills wurden ergänzt, weil sie zur typischen deutschen Beratungspraxi
 25. `produktrecht/skills/preisangaben` – PAngV-Prüfung
 
 - `kriegsdienstverweigerung-wehrdienst` — Kriegsdienstverweigerung aus Gewissensgründen, Wehrdienst, Soldaten, Reservisten, BAPersBw/BAFzA und Rechtsschutz.
+
+- `erbbaurecht-praxis`: Praxisplugin für Erbbaurecht und Erbbaugrundbuch: Erbbaurechtsvertrag, Erbbauzins, Wertsicherung, Heimfall, Zustimmung, Belastung, Finanzierung, Veräußerung, Laufzeit, Entschädigung, Zwangsversteigerung, Rang und Grundbuchvollzug.
+
+- `grundbuchamt-praxis`: Praxisplugin für Grundbuchamt, Grundbuchauszug und grundbuchtaugliche Nachweise: Abteilung I/II/III lesen, Bewilligung, Antrag, Auflassung, Rang, Zwischenverfügung, Beschwerde, Grundschuldbrief, Aufgebot, Dienstbarkeiten, Vormerkung, Vorkaufsrecht, Teilung und Vollzug.
+
+- `handelsregister-praxis`: Praxisplugin für den Umgang mit dem Handelsregister: Anmeldung, Registergericht, Rechtspfleger, Registerrichter, Beanstandung, Zwischenverfügung, Beschwerde, Gesellschafterliste, Kapitalmaßnahmen, Firma, Vertretung, Prokura, Löschung, Insolvenzvermerk und registerfeste Nachweise.
