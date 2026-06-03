@@ -21,53 +21,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akten demonstrieren dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Dr. Ottilie Mondsee und die verschwundene R-Besoldung** (`beamtenrecht-richterlaufbahn-besoldung-mondsee`) | [Gesamt-PDF lesen](../testakten/beamtenrecht-richterlaufbahn-besoldung-mondsee/gesamt-pdf/beamtenrecht-richterlaufbahn-besoldung-mondsee_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-richterlaufbahn-besoldung-mondsee.zip) |
-| **BVG-Widerspruchsstelle — Abschleppen nach MobG BE** (`bvg-widerspruchsstelle-abschleppen-mobg`) | [Gesamt-PDF lesen](../testakten/bvg-widerspruchsstelle-abschleppen-mobg/gesamt-pdf/bvg-widerspruchsstelle-abschleppen-mobg_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bvg-widerspruchsstelle-abschleppen-mobg.zip) |
-| **Windpark-Drittanfechtung Bürgerinitiative Uckermark** (`windpark-drittanfechtung-buergerinitiative-uckermark`) | [Gesamt-PDF lesen](../testakten/windpark-drittanfechtung-buergerinitiative-uckermark/gesamt-pdf/windpark-drittanfechtung-buergerinitiative-uckermark_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-windpark-drittanfechtung-buergerinitiative-uckermark.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Plugin Fachanwalt für Verwaltungsrecht. Orientierung VwGO VwVfG Bundesland-VwVfG. Anfechtungs- und Verpflichtungsklage Eilrechtsschutz Normenkontrolle Polizei- und Ordnungsrecht. Schnittstellen Migrations- und Sozialrecht.
-
-## ⬇️ Zum Ausprobieren: Testakte (separat)
-
-Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
-
-| Testakte | Direkt-Download |
-| --- | --- |
-| **bebauungsplan augsburg bahnhofsareal** | [testakte-bebauungsplan-augsburg-bahnhofsareal.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bebauungsplan-augsburg-bahnhofsareal.zip) |
-| **bvg widerspruchsstelle abschleppen mobg** | [testakte-bvg-widerspruchsstelle-abschleppen-mobg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bvg-widerspruchsstelle-abschleppen-mobg.zip) |
-
-Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
-
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Fachanwalt Verwaltungsrecht (`fachanwalt-verwaltungsrecht`, dieses Plugin) | [fachanwalt-verwaltungsrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-verwaltungsrecht.zip) |
-
-Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
-
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **BVG-Widerspruchsstelle — Abschleppen nach MobG BE** ([`testakten/bvg-widerspruchsstelle-abschleppen-mobg/`](../testakten/bvg-widerspruchsstelle-abschleppen-mobg/)).
-
-Direkt-Download als ZIP: [testakte-bvg-widerspruchsstelle-abschleppen-mobg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bvg-widerspruchsstelle-abschleppen-mobg.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
 
 ## Installation in Claude Code
 

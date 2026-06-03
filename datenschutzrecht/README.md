@@ -22,63 +22,9 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akten demonstrieren dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Akte Datenschutz: US-Transfer CloudSuite Assist** (`datenschutz-us-transfer-cloudsuite-rheinmain`) | [Gesamt-PDF lesen](../testakten/datenschutz-us-transfer-cloudsuite-rheinmain/gesamt-pdf/datenschutz-us-transfer-cloudsuite-rheinmain_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenschutz-us-transfer-cloudsuite-rheinmain.zip) |
-| **DSGVO-Massenscanning Mietinteressenten — VermieterCheck Solutions GmbH (Essen)** (`dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen`) | [Gesamt-PDF lesen](../testakten/dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen/gesamt-pdf/dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen.zip) |
-| **Akte Vellbruck Robotics GmbH — Roboterflotte AtlasCare / LumaMove / Werkbank C7** (`robotikrecht-roboterflotte-vellbruck-muenchen`) | [Gesamt-PDF lesen](../testakten/robotikrecht-roboterflotte-vellbruck-muenchen/gesamt-pdf/robotikrecht-roboterflotte-vellbruck-muenchen_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-robotikrecht-roboterflotte-vellbruck-muenchen.zip) |
-| **Solis Vision X Smartglasses** (`solis-vision-x-smartglasses`) | [Gesamt-PDF lesen](../testakten/solis-vision-x-smartglasses/gesamt-pdf/solis-vision-x-smartglasses_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-solis-vision-x-smartglasses.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Datenschutzrechtliche Arbeitsabläufe für Kanzleien und Datenschutzbeauftragte: AVV-Prüfung, Betroffenenauskunft, Datenschutz-Folgenabschätzung, Drittlandstransfer-Prüfung, US-Transfer mit DPF/SCC/TIA, Behördenpaket, regulatorische Lückenanalyse und Richtlinien-Monitoring. Vollständig ausgerichtet auf DSGVO, BDSG, TDDDG und KUG. Entwickelt für deutsche und EU-ansässige Verantwortliche und Auftragsverarbeiter.
 
 **Jede Ausgabe ist ein Entwurf zur anwaltlichen Prüfung – zitiert, gekennzeichnet und freigabepflichtig, keine abschließende Rechtsauskunft.** Das Plugin übernimmt die Arbeit: es liest Dokumente, wendet Ihr Praxisprofil an, findet Schwachstellen und verfasst Memos. Der Anwalt prüft, verifiziert und entscheidet. Zitate sind nach Herkunft gekennzeichnet (Modellwissen vs. abgerufen). Mandatsgeheimnisschutz (§ 43a Abs. 2 BRAO, § 203 StGB) wird konservativ gehandhabt. Folgenreiche Maßnahmen – Übermittlung an Aufsichtsbehörden, Versand von Betroffenenschreiben, Vertragsunterzeichnung – werden erst nach ausdrücklicher Bestätigung durchgeführt.
-
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Version | Direkt-Download |
-| --- | --- | --- |
-| Datenschutzrecht (`datenschutzrecht`, dieses Plugin) | v3.3.0 | [datenschutzrecht-v3.3.0.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenschutzrecht.zip) |
-| Datenschutzrecht (neueste Version) | latest | [datenschutzrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenschutzrecht.zip) |
-
-Die URL zum latest-Release ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
-
-### Installation in Claude Code
-
-1. ZIP herunterladen (Link oben).
-2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
-3. Fertig. Skills sind sofort verfügbar.
-
-> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
-
-### Zum Ausprobieren: Testakte (separat)
-
-Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
-
-| Testakte | Direkt-Download |
-| --- | --- |
-| **Solis Vision X (Smartglasses, DSGVO/CISG)** | [testakte-solis-vision-x-smartglasses.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-solis-vision-x-smartglasses.zip) |
-| **CloudSuite Assist (US-Transfer, DPF/SCC/TIA)** | [testakte-datenschutz-us-transfer-cloudsuite-rheinmain.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenschutz-us-transfer-cloudsuite-rheinmain.zip) |
-
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Datenschutz: US-Transfer CloudSuite Assist** ([`testakten/datenschutz-us-transfer-cloudsuite-rheinmain/`](../testakten/datenschutz-us-transfer-cloudsuite-rheinmain/)).
-
-Direkt-Download als ZIP: [testakte-datenschutz-us-transfer-cloudsuite-rheinmain.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenschutz-us-transfer-cloudsuite-rheinmain.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
 
 ## Zielgruppe
 

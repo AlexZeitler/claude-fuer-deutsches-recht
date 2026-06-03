@@ -19,28 +19,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Zusammenschlusskontrolle GBW / Tannenheim — Bahnbetonschwellen, Bußgeld, ECN+** (`kartell-zusammenschlusskontrolle-bahnbetonschwellen-grosskopf-westfalen`) | [Gesamt-PDF lesen](../testakten/kartell-zusammenschlusskontrolle-bahnbetonschwellen-grosskopf-westfalen/gesamt-pdf/kartell-zusammenschlusskontrolle-bahnbetonschwellen-grosskopf-westfalen_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kartell-zusammenschlusskontrolle-bahnbetonschwellen-grosskopf-westfalen.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Hochspezialisierte kartellrechtliche Prüfinstanz für vorgelegte Marktabgrenzungen — ob vom eigenen Team, der gegnerischen Partei oder einer Wettbewerbsbehörde. Schwerpunkte: § 18 GWB, Art. 101 und Art. 102 AEUV, EU-Bekanntmachung zur Marktdefinition 2024 (ABl. 2024/C 1645), SSNIP-Test, Nachfrage- und Angebotssubstitution, Evidenzbasierung, EuGH-Leitentscheidungen, Red Flags und alternative Marktdefinitionen.
-
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Kartellrecht Marktabgrenzungsprüfung (`kartellrecht-marktabgrenzung-pruefung`, dieses Plugin) | [kartellrecht-marktabgrenzung-pruefung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kartellrecht-marktabgrenzung-pruefung.zip) |
-
-Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
 
 ## Installation in Claude Code
 

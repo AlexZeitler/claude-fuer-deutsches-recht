@@ -19,18 +19,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Akte Common-Law-Kompass: Crossborder Supply & License Agreement** (`common-law-kompass-crossborder-contract`) | [Gesamt-PDF lesen](../testakten/common-law-kompass-crossborder-contract/gesamt-pdf/common-law-kompass-crossborder-contract_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-common-law-kompass-crossborder-contract.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
 Großes, freistehendes Plugin für deutsche Anwältinnen und Anwälte im Wirtschaftsrecht, die mit Common Law, English Law, US Law, internationalen Verträgen, bilingualen Fassungen und gemischtem Business-English arbeiten. Es verhindert, dass deutsche Rechtsbegriffe gedankenlos übersetzt werden, und markiert typische False Friends wie Bürgschaft, Garantie, Gewährleistung, Rücktritt, Vertretung, Consideration, representations, warranties, covenants, indemnity, damages, equity oder discovery.
 
 Dieses Plugin ist **vollständig freistehend**. Es benötigt keine anderen Plugins, keine externen Agenten und keine Kanzleisoftware. Wenn keine Datenbank, kein DMS, kein Übersetzungstool, keine Rechercheplattform oder kein Behördenzugang angeschlossen ist, arbeitet es mit manuellen Uploads oder einem ausdrücklich markierten Simulationsmodus.
@@ -94,10 +82,69 @@ Dieses Plugin ist **vollständig freistehend**. Es benötigt keine anderen Plugi
 - [Uniform Law Commission: UCC](https://www.uniformlaws.org/acts/ucc)
 - [U.S. Supreme Court](https://www.supremecourt.gov/)
 
-## Download
+## Alle Skills im Ueberblick
 
-- Plugin-ZIP: [common-law-kompass.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/common-law-kompass.zip)
-- Akte: [testakte-common-law-kompass-crossborder-contract.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-common-law-kompass-crossborder-contract.zip)
+Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+
+| Skill | Beschreibung |
+| --- | --- |
+| `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Common Law Kompass-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan.... |
+| `cl-discovery-doc-production-spezial` | Spezialfall US-Discovery / E-Discovery und Document Production: Anforderungen US-Gericht, Hague Evidence Convention, Blocking Statutes (Frankreich), DSGVO. Pruefraster fuer deutsche Mandanten in US-Verfahren. |
+| `cl-mandantenuebersicht-englisch` | Mandantenuebersicht englischsprachig vorbereiten: typische Mandantenfragen zu Common-Law-Unterschieden, Vertragsverhandlung mit US-/UK-Counterparties, Litigation in DE gegenueber Common-Law-Gerichtsbarkeit. Strukturierte Beratungsnotiz E... |
+| `cl-prozesskostenrisiko-each-party-bears-own` | Spezialfall Prozesskostenregime in USA: each party bears its own costs als Grundregel, Fee Shifting nur per Vertrag oder bei statute. Kontrast zur deutschen kostenpflichtigen Loser-pays-Regel. Pruefraster fuer Mandanten-Risikoanalyse. |
+| `cl-spezial-precedent-vs-statute` | Spezialfall Precedent gegen Statute: Verhaeltnis Case Law und Gesetzgebung in England und USA, ratio decidendi gegen obiter dictum, Distinguishing, Overruling. Pruefraster fuer Vergleich mit deutscher Methode und Beispiel-Faelle. |
+| `cl-vertragsklauseln-typische-uebersicht` | Typische Common-Law-Klauseln uebersichtlich erklaeren: Indemnification, Representations and Warranties, Limitation of Liability, Entire Agreement, Severability, Governing Law, Boilerplate. Pro Klausel Funktion, deutsche Entsprechung und... |
+| `common-law-begriffe-uebersetzung` | Deutscher Anwalt uebersetzt Vertrags- oder Rechtsbegriffe ins Englische und will funktionale nicht wörtliche Übersetzung. Anwendungsfall Vertragsverhandlung mit UK/US-Gegenpartei Memo an englischsprachigen Mandanten. Prüfraster Zielrecht... |
+| `common-law-bilingual-contract-review` | Anwalt prüft deutschen und englischen Vertragstext auf Bedeutungsdrift Rangfolge Definitionskonflikte Haftungsrisiken. Anwendungsfall bilingualer SPA NDA oder Lizenzvertrag. Prüfraster Bedeutungsdrift-Analyse Rangfolgen-Klausel Definitio... |
+| `common-law-client-explainer` | Mandant oder Business-Team versteht Common-Law-Konzepte nicht und braucht verstaendliche Erklärung. Anwendungsfall Deutsche kaufen UK-Unternehmen oder schließen US-Vertrag ab. Prüfraster Verstaendlichkeit Vollständigkeit Wesentliche-Punk... |
+| `common-law-contract-formation-consideration` | Anwalt oder Mandant will Vertragsschluss-Grundlagen des Common Law verstehen: offer acceptance consideration deed promissory estoppel UCC. Anwendungsfall Transaktionsvertrag oder NDA mit UK/US-Gegenpartei. Prüfraster Consideration-Prüfun... |
+| `common-law-false-friends-scanner` | Anwalt oder Übersetzer sucht missverstaendliche deutsch-englische Rechtsbegriffe im Vertragstext oder Memo. Anwendungsfall Vertragsentwurf mit False-Friend-Risiko. Prüfraster Begriff-Scan Risikoeinstufung sichere Alternativen Jurisdiktio... |
+| `common-law-governing-law-jurisdiction` | Vertragsparteien muessen Rechtswahlklausel Gerichtsstand und Durchsetzbarkeit für grenzüberschreitenden Vertrag klaeren. UK US oder deutsches Recht. Prüfraster Rechtswahl-Klausel Forum-Venue-Service Arbitrations-Option Vollstreckbarkeit... |
+| `common-law-humor-coach` | Common-Law-Erklärungen sollen für Mandanten oder Team leichter lesbar werden ohne Praezision zu verlieren. Anwendungsfall Onboarding-Dokument oder Mandanten-Erklärung. Prüfraster Verstaendlichkeit Ton-Angemessenheit Praezisions-Erhaltung... |
+| `common-law-interpretation-precedent` | Deutscher Anwalt liest UK oder US-Gerichtsentscheidung und versteht Praezedenzfall-Logik nicht: ratio decidendi obiter dictum stare decisis Vertragsauslegung. Normen UK Supreme Court Rules US Federal Rules. Prüfraster Ratio-obiter-Unters... |
+| `common-law-kommandocenter` | Kanzlei startet Common-Law- UK- US- oder bilinguales Drafting-Mandat und braucht strukturierten Einstieg. Jurisdiktionscheck False-Friends-Scan Arbeitsplan. Prüfraster Jurisdiktion-Identifikation Primaeranliegen-Erfassung Skill-Routing.... |
+| `common-law-litigation-discovery` | Anwalt oder Mandant ist in UK/US-Gerichtsverfahren und will pleadings discovery disclosure depositions privilege evidence settlement verstehen. Prüfraster Verfahrensphasen-Überblick Privilege-Prüfung Discovery-Scope Settlement-Optionen.... |
+| `common-law-ma-commercial-drafting` | Anwalt draftet oder prüft SPA APA NDA LOI Disclosure Schedules oder Commercial Agreement nach Common Law. Common-Law-Risikomatrix. Prüfraster Reps-Warranties-Covenants-Abgrenzung Boilerplate-Risiken Haftungsklauseln Jurisdiktion. Output... |
+| `common-law-quality-gate` | Fertig erstelltes Common-Law-Arbeitsprodukt auf Qualitaet prüfen: Jurisdiktion Quellenstand False Friends UK/US-Trennung Review-Bedarf. Prüfraster Jurisdiktion-Konsistenz Normen-Aktualitaet False-Friends-Scan UK-US-Trennung. Output Quali... |
+| `common-law-remedies-damages-equity` | Mandant erleidet Schaden aus UK/US-Vertrag oder Delikt und fragt nach Rechtsfolgen: damages specific performance injunction rescission restitution equitable relief punitive damages. Prüfraster Remedy-Auswahl Schadensmass Equity-Vorausset... |
+| `common-law-representations-warranties-covenants` | Anwalt ordnet Klauseln in Common-Law-Transaktionsvertraegen ein: reps warranties covenants conditions undertakings indemnities. Anwendungsfall SPA NDA oder Commercial Agreement. Prüfraster Klausel-Typ-Zuordnung Haftungsfolgen Survical-Pe... |
+| `common-law-simulation-negotiation` | Anwalt oder Mandant will UK/US-Vertragsverhandlung oder Mandantengespraech simulieren und False-Friends-Lernkurve absolvieren. Prüfraster Verhandlungs-Simulation Issue-List-Erstellung Mandanten-Erklärung. Output Simulations-Szenario Verh... |
+| `common-law-surety-guarantee-indemnity` | Anwalt prüft Sicherheitenklausel und muss zwischen Buergschaft Garantie suretyship guarantee indemnity primary obligation accessory liability unterscheiden. Prüfraster Klausel-Typ-Identifikation Akzessorietaet Durchsetzbarkeit Regress. O... |
+| `common-law-ucc-sales-goods` | Anwalt prüft Warenkaufvertrag nach UCC oder Sale of Goods Act: title risk warranties perfect tender remedies. Anwendungsfall US-Kaufvertrag oder UK-Warengeschäft. Prüfraster UCC Art. 2 Sale-of-Goods-Act-Prüfung Title-Risk-Transfer Warran... |
+| `common-law-us-vs-uk-drafting` | Anwalt muss zwischen British English English Law US contract style Delaware/New York-Konventionen und Business-English unterscheiden. Anwendungsfall Vertrag für UK- oder US-Gegenpartei. Prüfraster Jurisdiction-Style-Matching Drafting-Kon... |
+| `spezial-bilinguale-compliance-dokumentation-und-akte` | Bilinguale: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-client-mandantenkommunikation-entscheidungsvorlage` | Client: Mandantenkommunikation und Entscheidungsvorlage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-commercial-sonderfall-und-edge-case` | Commercial: Sonderfall und Edge-Case-Prüfung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-common-erstpruefung-und-mandatsziel` | Common: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-consideration-behoerden-gericht-und-registerweg` | Consideration: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-discovery-zahlen-schwellen-und-berechnung` | Discovery: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-drafting-mehrparteien-konflikt-und-interessen` | Drafting: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-explainer-beweislast-und-darlegungslast` | Explainer: Beweislast, Darlegungslast und Substantiierung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-false-friends-contracts` | False Friends in Common-Law-Verträgen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
+| `spezial-false-fristen-form-und-zustaendigkeit` | False: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-friends-dokumentenmatrix-und-lueckenliste` | Friends: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-gate-red-team-und-qualitaetskontrolle` | Gate: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-indemnity-verhandlung-vergleich-und-eskalation` | Indemnity: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-precedent-livequellen-und-rechtsprechungscheck` | Precedent: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-quality-formular-portal-und-einreichung` | Quality: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-rechtsvergleichender-begriffscheck` | Rechtsvergleichender Begriffscheck für deutsche Juristinnen und Juristen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
+| `spezial-reviews-internationaler-bezug-und-schnittstellen` | Reviews: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-suretyship-schriftsatz-brief-und-memo-bausteine` | Suretyship: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-vertragsbegriffe-risikoampel-und-gegenargumente` | Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-wirtschaftsjuristen-tatbestand-beweis-und-belege` | Wirtschaftsjuristen: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin common-law-kompass: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor. |
+| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin common-law-kompass: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
+| `workflow-dokumentenintake` | Dokumentenintake im Plugin common-law-kompass: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte. |
+| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin common-law-kompass: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing im Plugin common-law-kompass: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
+| `workflow-mandantenkommunikation` | Mandantenkommunikation im Plugin common-law-kompass: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
+| `workflow-output-waehlen` | Output wählen im Plugin common-law-kompass: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung. |
+| `workflow-rechtsquellen-livecheck` | Rechtsquellen-Livecheck im Plugin common-law-kompass: zwingt vor tragenden Aussagen zum aktuellen Quellencheck bei Gesetzen, Behörden, Gerichten und Formularen. |
+| `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin common-law-kompass: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste im Plugin common-law-kompass: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
+
+<!-- END SKILLS-OVERVIEW (auto-generated) -->
+
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

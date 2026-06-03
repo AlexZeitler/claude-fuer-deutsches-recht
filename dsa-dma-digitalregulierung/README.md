@@ -20,68 +20,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akten demonstrieren dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Aktenübersicht — Baustube Meißnerlein GmbH ./. Glitzerwald Inc. u. a.** (`dsa-dma-bayrische-baustube-meissner`) | [Gesamt-PDF lesen](../testakten/dsa-dma-bayrische-baustube-meissner/gesamt-pdf/dsa-dma-bayrische-baustube-meissner_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsa-dma-bayrische-baustube-meissner.zip) |
-| **DSA/DMA — VLOP-Designation und Mahnverfahren Körnerstrom Social GmbH (Halmweise.de)** (`dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom`) | [Gesamt-PDF lesen](../testakten/dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom/gesamt-pdf/dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Plugin für die anwaltliche Praxis im Recht der digitalen Märkte und Dienste.
-
-## Direkt-Download
-
-| Datei | Direkt-Download |
-| --- | --- |
-| **Plugin-ZIP: DSA, DMA und Digitalregulierung** | [dsa-dma-digitalregulierung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/dsa-dma-digitalregulierung.zip) |
-| **Akte: Bayerische Baustube / Meissner (DSA/DMA)** | [testakte-dsa-dma-bayrische-baustube-meissner.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsa-dma-bayrische-baustube-meissner.zip) |
-
-Für den ZIP-Upload das einzelne Plugin-ZIP verwenden, nicht das komplette Repository-ZIP.
-
-### Zum Ausprobieren: Testakte (separat)
-
-Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
-
-| Testakte | Direkt-Download |
-| --- | --- |
-| **Bayerische Baustube / Meissner (DSA/DMA)** | [testakte-dsa-dma-bayrische-baustube-meissner.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsa-dma-bayrische-baustube-meissner.zip) |
-
-Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
-
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **nübersicht — Baustube Meißnerlein GmbH ./. Glitzerwald Inc. u. a.** ([`testakten/dsa-dma-bayrische-baustube-meissner/`](../testakten/dsa-dma-bayrische-baustube-meissner/)).
-
-Direkt-Download als ZIP: [testakte-dsa-dma-bayrische-baustube-meissner.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsa-dma-bayrische-baustube-meissner.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| DSA, DMA und Digitalregulierung (`dsa-dma-digitalregulierung`, dieses Plugin) | [dsa-dma-digitalregulierung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/dsa-dma-digitalregulierung.zip) |
-
-Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
-
-### Installation in Claude Code
-
-1. ZIP herunterladen (Link oben).
-2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
-3. Fertig. Skills sind sofort verfügbar.
-
-> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
 
 ## Abgedeckte Rechtsakte
 

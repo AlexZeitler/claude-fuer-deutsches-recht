@@ -25,8 +25,8 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 | Kennzahl | Wert |
 |---|---|
 | **Plugins** | 132 |
-| **Skills (SKILL.md)** | 9516 -- [Gesamtuebersicht](./SKILLS.md) |
-| **Testakten** | 140 |
+| **Skills (SKILL.md)** | 9517 -- [Gesamtuebersicht](./SKILLS.md) |
+| **Testakten** | 141 |
 | **Fachanwalts-/-anwältinnen-Profile** | 24 |
 | **Plugin-Version / Arbeitsstand** | `v61.2.0` -- [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
