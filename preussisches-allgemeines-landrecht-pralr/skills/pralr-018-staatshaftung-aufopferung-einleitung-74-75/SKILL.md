@@ -1,6 +1,6 @@
 ---
 name: pralr-018-staatshaftung-aufopferung-einleitung-74-75
-description: "PrALR: Einleitung §§ 74, 75, Aufopferung, enteignender/enteignungsgleicher Eingriff und heutige Dogmatik trennen."
+description: "PrALR: Einleitung §§ 74 und 75, Aufopferung, enteignender/enteignungsgleicher Eingriff und heutige Dogmatik trennen."
 ---
 
 # Aufopferung
