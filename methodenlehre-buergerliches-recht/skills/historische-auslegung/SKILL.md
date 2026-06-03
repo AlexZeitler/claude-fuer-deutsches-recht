@@ -30,7 +30,7 @@ In der Praxis ist die Historie haeufig nachgeordnet, weil Materialien lueckenhaf
 
 Die heutige BGH-Rechtsprechung folgt einer **vermittelnden Linie**: Massgeblich ist der "objektivierte Wille des Gesetzgebers", wie er aus Wortlaut, Sinnzusammenhang, Entstehungsgeschichte und Zweck folgt. Die Materialien werden als Auslegungshilfe genutzt, nicht als bindendes Auslegungssubstitut.
 
-**Klassische Werke:** Karl Larenz, "Methodenlehre der Rechtswissenschaft" 1960; Bernd Ruethers, "Rechtstheorie" (zuerst 1999), betont die Bindung an den historischen Gesetzgeber.
+**Klassische Spannung:** Die historische Auslegung steht zwischen Entstehungsgeschichte, demokratischer Rückbindung und der Gefahr, spätere Wertungen als ursprünglichen Normzweck auszugeben.
 
 ## Anwendung im deutschen Zivilrecht
 
@@ -81,7 +81,7 @@ Die heutige BGH-Rechtsprechung folgt einer **vermittelnden Linie**: Massgeblich 
 
 - Friedrich Carl von Savigny, System des heutigen Roemischen Rechts, Band 1, Berlin 1840, § 33.
 - Karl Larenz, Methodenlehre der Rechtswissenschaft, 1960.
-- Bernd Ruethers, Rechtstheorie, 1999.
+- Keine Literatur- oder Autorennamen aus Modellwissen als tragende Quelle verwenden; bei Bedarf nur vom Nutzer bereitgestellte oder live verifizierte Quellen heranziehen.
 - Bundestags-Drucksachen ueber `dipbt.bundestag.de`.
 - BT-Drs. 14/6040 — Schuldrechtsmodernisierung.
 - §§ 241, 280, 311, 312 ff. BGB (gesetze-im-internet.de).

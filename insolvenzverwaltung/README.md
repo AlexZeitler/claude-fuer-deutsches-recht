@@ -156,7 +156,7 @@ Die Planwerkstatt aus dem freien Plugin ist inhaltlich vollständig auch in dies
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 51 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -165,6 +165,7 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 | `iv-anfechtung-129ff` | Insolvenzanfechtungsansprüche nach §§ 129-147 InsO aus Verwaltersicht prüfen und verfolgen. Enthält KI-gestütztes Schuldnerakten-Screening, Kandidatenmatrix, §§ 130/131/133/134/135, Bargeschäft § 142, Rechtsfolgen §§ 143-147, Verjährung... |
 | `iv-arbeitsrecht-insolvenzgeld` | Personalthemen im Insolvenzverfahren bearbeiten: Lohnrückstaende Insolvenzgeld Kündigungen Betriebsuebergang Betriebsrat. §§ 113 125 InsO § 165 SGB III Insolvenzgeld. Prüfraster: Arbeitnehmerbestand Rückstaende Insolvenzgeldzeitraum Vorf... |
 | `iv-berichte-gericht-glaeubiger` | Zwischenberichte Sachstandsberichte und Beschlussvorlagen für Insolvenzgericht Gläubiger­ausschuss und Gläubiger­versammlung erstellen. §§ 58 66 79 InsO Berichtspflichten. Prüfraster: Stichtag Massestand Tabelle Verwertung Prozesse Perso... |
+| `iv-cross-border-assets-trustee-registervollzug` | Insolvenzverwaltung bei Cross-Border-Assets: ausländischer trustee, debtor in possession oder monitor verwertet deutsche GmbH-Anteile, Grundstücke oder Forderungen; Anerkennung, Inzidentprüfung, Register- und Grundbuchvollzug. |
 | `iv-eigenverwaltung-sachwaltung` | Sachwalter­kontrolle und Schnittstellenmanagement bei Eigenverwaltung nach §§ 270 ff. InsO. §§ 270 274 275 InsO Sachwalterbefugnisse und Kontrollrechte. Prüfraster: Rollenabgrenzung Finanzplankontrolle Rechnungslegung Anfechtung Haftung... |
 | `iv-eroeffnungsgutachten` | Eroeffnungsgutachten als Sachverständiger oder vorlaeufiger Insolvenzverwalter erstellen wenn Gericht Prüfauftrag erteilt. §§ 17 18 19 InsO Eroffnungsgründe §§ 26 54 InsO Massekostendeckung. Prüfraster: Zahlungsunfähigkeit drohende ZU Üb... |
 | `iv-forderungsanmeldung-pruefung` | Eingehende Forderungsanmeldungen nach § 174 InsO prüfen und Tabelle für Prüfungstermin vorbereiten. §§ 174 175 176 InsO §§ 38 39 InsO Rang. Prüfraster: Schriftform Beleg Grund Betrag Rang Absonderungsrechte vorsaetzlich unerlaubte Handlu... |
@@ -206,9 +207,9 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 | `iv-verteilung-schlussrechnung` | Abschlussphase des Insolvenzverfahrens durchführen: Schlussrechnung Schlussbericht Verteilungsverzeichnis Quote Nachtragsverteilung. §§ 196 197 InsO Schlussverteilung §§ 66 67 InsO Schlussrechnung. Prüfraster: Abschlussreife Massekonto K... |
 | `iv-vorlaeufige-verwaltung` | Erste Massnahmen als vorlaeufliger Insolvenzverwalter nach § 21 InsO umsetzen: Bankkonten Besitz Post Drittschuldner Betrieb. § 21 InsO Sicherungsmassnahmen § 22 InsO Pflichten des vorl. Verwalters. Prüfraster: Beschlussumfang Zustimmung... |
 | `iv-zahlungsklagen-15b` | Zahlungsklagen nach § 15b InsO gegen Geschäftsleiter vorbereiten wenn Zahlungen nach Insolvenzreife erfolgt sind. § 15b InsO §§ 17 19 InsO Insolvenzreife. Prüfraster: Insolvenzreifedatum Zahlungen nach Stichtag Organstellung Ausnahmen or... |
-| `spezial-insolvenzverwalter-fristen-form-und-zustaendigkeit` | Insolvenzverwalter: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-insolvenzverwaltungs-erstpruefung-und-mandatsziel` | Insolvenzverwaltungs: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-sicht-tatbestand-beweis-und-belege` | Sicht: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-insolvenzverwalter-fristen-form-und-zustaendigkeit` | Insolvenzverwalter: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin insolvenzverwaltung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-insolvenzverwaltungs-erstpruefung-und-mandatsziel` | Insolvenzverwaltungs: Erstprüfung, Rollenklärung und Mandatsziel im Plugin insolvenzverwaltung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-sicht-tatbestand-beweis-und-belege` | Sicht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin insolvenzverwaltung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `workflow-kaltstart-und-routing` | Kaltstart und Routing im Plugin insolvenzverwaltung: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

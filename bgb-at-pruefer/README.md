@@ -18,10 +18,11 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | **Anfechtung / Irrtum — Restaurant-Kette Pohlmann-Ofenkaess, Erbenstraße Leipzig** (`anfechtung-irrtum-restaurant-kette-pohlmann-erbenstrasse-leipzig`) | [Gesamt-PDF lesen](../testakten/anfechtung-irrtum-restaurant-kette-pohlmann-erbenstrasse-leipzig/gesamt-pdf/anfechtung-irrtum-restaurant-kette-pohlmann-erbenstrasse-leipzig_gesamt.pdf) | [`testakte-anfechtung-irrtum-restaurant-kette-pohlmann-erbenstrasse-leipzig.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-anfechtung-irrtum-restaurant-kette-pohlmann-erbenstrasse-leipzig.zip) |
 | **Akte BGB AT: Altfränkische Werkstatt** (`bgb-at-altfraenkische-werkstatt`) | [Gesamt-PDF lesen](../testakten/bgb-at-altfraenkische-werkstatt/gesamt-pdf/bgb-at-altfraenkische-werkstatt_gesamt.pdf) | [`testakte-bgb-at-altfraenkische-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-at-altfraenkische-werkstatt.zip) |
 | **BGB BT — Holzofen, Lieferkette, Bürgschaft, GoA und Brandschaden** (`bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt`) | [Gesamt-PDF lesen](../testakten/bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt/gesamt-pdf/bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt_gesamt.pdf) | [`testakte-bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt.zip) |
+| **BGB BT — Smart-Kühlschrank, digitale Elemente und Reparaturblockade** (`bgb-bt-smart-kuehlschrank-digital-repair-koeln`) | [Gesamt-PDF lesen](../testakten/bgb-bt-smart-kuehlschrank-digital-repair-koeln/gesamt-pdf/bgb-bt-smart-kuehlschrank-digital-repair-koeln_gesamt.pdf) | [`testakte-bgb-bt-smart-kuehlschrank-digital-repair-koeln.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-bt-smart-kuehlschrank-digital-repair-koeln.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-Großes Prüfplugin zum BGB Allgemeiner Teil. Es führt durch Vertragsschluss, Willenserklärungen, Zugang, Auslegung, Geschäftsfähigkeit, Form, Nichtigkeit, Anfechtung, Stellvertretung, Bedingungen, Fristen und Verjährung. Der Formteil ist mit qES, beA, § 130e ZPO und § 46h ArbGG verschaltet. Ziel ist ein schöner, schneller und trotzdem präziser Workflow für Klausur, Ausbildung, Kanzleivermerk und Mandatsarbeit.
+Großes Prüfplugin zum BGB Allgemeiner Teil. Es führt durch Vertragsschluss, Willenserklärungen, Zugang, Auslegung, Geschäftsfähigkeit, Form, Nichtigkeit, Anfechtung, Stellvertretung, Bedingungen, Fristen und Verjährung. Der Formteil ist mit qES, beA, § 130e ZPO und § 46h ArbGG verschaltet. Neu verschaltet sind digitale Elemente, Updatehinweise, App-/Portalzugang, Reparaturverlangen und Right-to-Repair-Fragen als allgemeinzivilrechtlicher Router in BGB-BT, AGB-Recht und Produktrecht. Ziel ist ein schöner, schneller und trotzdem präziser Workflow für Klausur, Ausbildung, Kanzleivermerk und Mandatsarbeit.
 
 Experimentelles Werkzeug. Keine Rechtsberatung, keine Gewähr. Gesetzestext und Rechtsprechung müssen im konkreten Fall geprüft werden. Literatur- oder Kommentarstellen dürfen nur genutzt werden, wenn sie vom Nutzer bereitgestellt wurden oder über eine lizenzierte Quelle live verifiziert sind.
 
@@ -40,6 +41,7 @@ Starte mit dem Skill [allgemein](./skills/allgemein/SKILL.md). Der Einstieg frag
 - Stellvertretung, Vollmacht, Rechtsschein und § 181 BGB trennen
 - Form, Nichtigkeit, Gesetzesverbot, Sittenwidrigkeit und Bedingung als Wirksamkeitsfragen einordnen
 - elektronische Form, qES-Zugang, beA-Einreichung und prozessuale Formfiktion auseinanderhalten
+- Waren mit digitalen Elementen, Updatehinweise, AGB-Abweichungen und Reparaturverlangen in die richtigen Spezial-Skills routen
 - aus dem Ergebnis Gutachten, Mandatsmemo, Schriftsatzbaustein, Rückfragenbrief oder Trainingsfall machen
 
 ## Empfohlener Workflow
@@ -125,7 +127,7 @@ Starte mit dem Skill [allgemein](./skills/allgemein/SKILL.md). Der Einstieg frag
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 53 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -144,6 +146,7 @@ Automatisch generierte Komplett-Liste aller 53 Skills in diesem Plugin. Beschrei
 | `bgb-at-output-gutachten-memo-schriftsatz` | Erstellt aus BGB-AT-Prüfungen wahlweise Gutachten, Klausurlösung, Mandatsmemo, Schriftsatzbaustein, Fristenvermerk, Anspruchsmatrix oder Rückfragenbrief. |
 | `bgb-at-training-fallvarianten` | Erzeugt und variiert BGB-AT-Trainingsfälle mit anonymen, fiktiven Personen, Lernzielen, Lösungsskizze, Abwandlungen und typischen Fehlern für Ausbildung und Kanzleitraining. |
 | `cic-vorvertragliche-pflichten-schnittstelle` | Schnittstellen-Skill zur culpa in contrahendo: vorvertragliches Schuldverhältnis, Schutzpflichten, Aufklärung, Abbruch von Verhandlungen und Abgrenzung zu BGB-AT-Wirksamkeitsfragen. |
+| `digitale-elemente-reparaturrecht-router` | Allgemeinzivilrechtlicher Router fuer Waren mit digitalen Elementen, digitale Produkte, Updatepflichten, Zugang elektronischer Erklaerungen, AGB-Abweichungen und Right-to-Repair-Schnittstellen. |
 | `duldungs-anscheinsvollmacht` | Prüft Duldungs- und Anscheinsvollmacht als Rechtsscheinvertretung: zurechenbarer Rechtsschein, Vertrauen, Gutgläubigkeit und Abgrenzung zur bloßen Gefälligkeit. |
 | `eigenschaftsirrtum-paragraph-119-2` | Prüft Eigenschaftsirrtum nach § 119 Abs. 2 BGB: verkehrswesentliche Eigenschaften von Person oder Sache, Wertabgrenzung, Beschaffenheit und Gewährleistungs-Schnittstelle. |
 | `einseitige-geschaefte-minderjaehrige-paragraph-111` | Prüft einseitige Rechtsgeschäfte Minderjähriger nach § 111 BGB, insbesondere Kündigung, Anfechtung, Rücktritt, Vollmachtserteilung und Zugang gegenüber dem Minderjährigen. |

@@ -1,34 +1,43 @@
 ---
 name: verlags-batchplan-serien-und-backlist
-description: "Batchplan für Backlist, Reihen, Neuauflagen, Serien und Priorisierung bei begrenztem Budget."
+description: "Batchplan für Backlist, Reihen, Neuauflagen und Serien: Priorisierung nach US-Risiko, Marktwert, Rechtekette, Kosten, Deposit-Logistik und Litigation Readiness."
 ---
 
-# Verlags Batchplan Serien Und Backlist
+# Verlags-Batchplan, Serien und Backlist
 
 ## Aufgabe
 
-Batchplan für Backlist, Reihen, Neuauflagen, Serien und Priorisierung bei begrenztem Budget.
+Plane mehrere Registrierungen wie ein kleines Projekt. Ziel ist nicht Vollständigkeitsromantik, sondern ein vernünftiger Batch nach Risiko, Wert und Machbarkeit.
 
-## Vorgehen
+## Priorisierung
 
-Sortiere nach Litigation-Risiko, US-Markt, Backlist-Wert, Neuauflage, Lieferbarkeit und Kosten. Empfiehl Pilotlauf mit zwei Titeln, dann Template-Rollout.
+- **Hoch:** US-Vertrieb, KI-/Plattformrisiko, Lizenzgeschäft, Bestseller, Standardwerke, streitanfällige Autorenschaft, baldige Prozess-/Abmahnlage.
+- **Mittel:** lieferbare Backlist mit US-Relevanz, wichtige Reihen, neue Auflagen, digitale Produktfamilien.
+- **Niedrig:** rein interne oder kaum verwertete Titel ohne US-Bezug, veraltete Ausgaben mit unklarer Rechtekette.
 
-## Pflichtfragen
+## Projektlogik
 
-- Welches Werk, welche Ausgabe, welcher Titel im Antrag?
-- Wer ist Autor, Herausgeber, Verlag und Rechteinhaber?
-- Ist das Werk veröffentlicht, unveröffentlicht, nur elektronisch oder physisch erschienen?
-- Wird eCO Standard Application, Single-Author-Option oder eine Gruppenoption genutzt?
-- Soll digital hochgeladen oder physisch mit Shipping Slip eingereicht werden?
-- Welche Belege sollen in der Verlagsakte landen?
+1. Pilot mit zwei bis drei typischen Titeln.
+2. Fehler aus eCO, Deposit und Versand auswerten.
+3. Datenmodell für Titel, Autoren, Rechte und Publication standardisieren.
+4. Batchfenster planen: Zahlung, Packen, Tracking, Wiedervorlagen.
+5. Abschlussreport für Verlagsleitung und Rechteabteilung erstellen.
 
 ## Output
 
-- Schrittfolge mit Verantwortlichen.
-- Datenblatt pro Werk.
-- Risiko- und Fehlerliste.
-- Aktenvermerk mit Gebühren, Deposit, Tracking und Wiedervorlage.
+Batchboard mit Titel, Antragstyp, Priorität, Aufwand, Kosten, Deposit-Art, Risiken, Verantwortlicher Person und Status.
 
 ## Quellenhygiene
 
-Aktuelle Gebühren, Uploadregeln, Deposit-Anforderungen und Special-Handling-Regeln immer auf den Seiten des U.S. Copyright Office prüfen. Keine US-Rechtsberatung behaupten; bei Litigation- oder Ownership-Streit US-Counsel einbinden.
+Aktuelle Gebühren, Formulare, Deposit-Anforderungen, Gruppenoptionen und Bearbeitungszeiten vor einer konkreten Ausgabe immer auf den offiziellen Seiten des U.S. Copyright Office prüfen. Rechtliche Schlussfolgerungen zu US-Prozessführung, Ownership-Streit, Work made for hire, AI-Material oder Schadenersatz nur als Vorprüfung formulieren und bei Tragweite US-Counsel einschalten.
+
+## Tiefencheck für die Akte
+
+Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
+
+- Welche Werkart, Nutzung, Rechtekette und US-Berührung bestimmen den Prüfpfad?
+- Welche Elemente sind schutzfähig, welche sind ausgeschlossen, lizenziert, public domain oder nur vertraglich relevant?
+- Welche aktuelle USCO-Quelle, Title-17-Norm, Plattformregel oder Prozessanforderung muss vor konkreter Verwendung live geprüft werden?
+- Welche Ausgabe braucht der Mandant: Antragspaket, Clearance-Memo, Risikomatrix, Takedown, Lizenzklausel oder US-Counsel-Briefing?
+
+**Mindest-Output:** Arbeitsprodukt mit Claim Scope, Rechtekette, Risikomatrix, Evidenzlücken und nächstem US-Schritt.

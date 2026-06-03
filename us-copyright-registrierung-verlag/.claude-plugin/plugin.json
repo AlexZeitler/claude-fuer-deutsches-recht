@@ -1,7 +1,7 @@
 {
   "name": "us-copyright-registrierung-verlag",
-  "version": "61.2.0",
-  "description": "US-Copyright-Registrierung für deutsche Verlage: eCO-Account, Standard Application, Gebühren, Deposit, Shipping Slip, Versand aus Deutschland, Monitoring und Archivierung.",
+  "version": "61.2.1",
+  "description": "US Copyright Act fuer deutsche Verlage und Rechteinhaber: Title 17, Registrierung, Rechte, Fair Use, DMCA, Musik, AI, Litigation und Deals.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

@@ -1,34 +1,46 @@
 ---
 name: gebuehren-paygov-deposit-account
-description: "Gebühren, Pay.gov, Kreditkarte/ACH, Deposit Account und feste Reihenfolge im eCO-Prozess."
+description: "Gebühren- und Zahlungsworkflow: Fee Schedule live prüfen, Pay.gov, Kreditkarte/ACH, Deposit Account, Special Handling und Kostenstellen sauber dokumentieren."
 ---
 
-# Gebuehren Paygov Deposit Account
+# Gebühren, Pay.gov und Deposit Account
 
 ## Aufgabe
 
-Gebühren, Pay.gov, Kreditkarte/ACH, Deposit Account und feste Reihenfolge im eCO-Prozess.
+Führe durch die Zahlungslogik im eCO-Prozess. Der entscheidende Punkt: Erst ausfüllen, dann zahlen, danach wird die jeweilige Einreichungsroute mit Upload oder Shipping Slip praktisch freigeschaltet.
 
-## Vorgehen
+## Prüfschritte
 
-Prüfe aktuelle Fee Schedule. Nenne bekannte Orientierung nur nach Quellencheck: Standard Application 65 USD, Single-author/single-claimant 45 USD, Paper 125 USD, Special Handling 800 USD. Zahlung kommt vor Upload/Shipping Slip.
+- Aktuelle Fee Schedule live prüfen; bekannte Orientierungswerte nur als Plausibilitätsanker verwenden.
+- Antragstyp zuordnen: Standard Application, Single-author/same-claimant/one-work/not-for-hire, Paper Filing, Gruppenoption, Special Handling.
+- Entscheiden, ob Einzelzahlung über Pay.gov oder Deposit Account sinnvoll ist.
+- Bei Deposit Account Mindestguthaben, interne Freigabe, Kostenstelle und laufende Abstimmung dokumentieren.
+- Zahlungsbeleg, Case Number und Werkdaten in der Akte verbinden.
 
-## Pflichtfragen
+## Ergebnis
 
-- Welches Werk, welche Ausgabe, welcher Titel im Antrag?
-- Wer ist Autor, Herausgeber, Verlag und Rechteinhaber?
-- Ist das Werk veröffentlicht, unveröffentlicht, nur elektronisch oder physisch erschienen?
-- Wird eCO Standard Application, Single-Author-Option oder eine Gruppenoption genutzt?
-- Soll digital hochgeladen oder physisch mit Shipping Slip eingereicht werden?
-- Welche Belege sollen in der Verlagsakte landen?
+Erzeuge eine Gebührentabelle:
 
-## Output
+| Werk | Antragstyp | Gebühr live geprüft | Zahlungsweg | Beleg | nächster Schritt |
+| --- | --- | --- | --- | --- | --- |
 
-- Schrittfolge mit Verantwortlichen.
-- Datenblatt pro Werk.
-- Risiko- und Fehlerliste.
-- Aktenvermerk mit Gebühren, Deposit, Tracking und Wiedervorlage.
+## Warnungen
+
+- Gebühren ändern sich; keine alten Beträge blind übernehmen.
+- Special Handling ist teuer und wird nicht als Erfolgsgarantie formuliert.
+- Nach Pay.gov nicht abbrechen: Upload oder Shipping Slip muss noch erledigt werden.
 
 ## Quellenhygiene
 
-Aktuelle Gebühren, Uploadregeln, Deposit-Anforderungen und Special-Handling-Regeln immer auf den Seiten des U.S. Copyright Office prüfen. Keine US-Rechtsberatung behaupten; bei Litigation- oder Ownership-Streit US-Counsel einbinden.
+Aktuelle Gebühren, Formulare, Deposit-Anforderungen, Gruppenoptionen und Bearbeitungszeiten vor einer konkreten Ausgabe immer auf den offiziellen Seiten des U.S. Copyright Office prüfen. Rechtliche Schlussfolgerungen zu US-Prozessführung, Ownership-Streit, Work made for hire, AI-Material oder Schadenersatz nur als Vorprüfung formulieren und bei Tragweite US-Counsel einschalten.
+
+## Tiefencheck für die Akte
+
+Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
+
+- Welcher Antragstyp passt wirklich: Standard Application, Single-Option, Group Registration, Supplementary Registration oder Recordation?
+- Sind title, claimant, author, publication date, excluded material, AI-Anteile und deposit copy konsistent?
+- Wird digital hochgeladen oder physisch mit Shipping Slip eingereicht, und warum ist die Alternative unzulässig oder riskant?
+- Welche Frist-/Remedy-Wirkung hat timing nach § 411/§ 412 und was muss als Nachweis in die Verlagsakte?
+
+**Mindest-Output:** Registrierungsakte mit Antragstyp, Werkdaten, Rechtekette, Deposit-Route, Fee/Tracking und Certificate-Archiv.

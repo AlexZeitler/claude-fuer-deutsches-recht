@@ -1,6 +1,6 @@
 # aussenwirtschaft-zoll-sanktionen
 
-**100 Skills** · Stand `v61.1.1`
+**100 Skills** · Stand `v61.3.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/aussenwirtschaft-zoll-sanktionen/README.md)
