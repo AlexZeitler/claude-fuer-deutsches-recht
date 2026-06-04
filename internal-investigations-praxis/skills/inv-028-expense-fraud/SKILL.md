@@ -1,30 +1,86 @@
 ---
 name: inv-028-expense-fraud
-description: "Spezialskill fuer Expense Fraud: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie."
+description: "Untersucht Spesenabrechungs- und Reisekostenbetrug – forensische Buchprüfung, Beweissicherung, arbeitsrechtliche und strafrechtliche Konsequenzen."
 ---
 
-# Internal Investigation: Expense Fraud
+# Spesenbetrug und Reisekostenmissbrauch
 
+## Rechtlicher Rahmen
 
-## Ziel
+Spesenabrechungsbetrug ist eine der häufigsten Formen des Mitarbeiterbetrugs und erfüllt regelmäßig den Tatbestand des § 263 StGB (Betrug, [gesetze-im-internet.de](https://www.gesetze-im-internet.de/stgb/__263.html)) oder § 266 StGB (Untreue, [gesetze-im-internet.de](https://www.gesetze-im-internet.de/stgb/__266.html)), wenn der Täter besondere Vertrauensstellung hat. Hinzu kommt § 370 AO (Steuerhinterziehung), wenn Falschabrechnungen steuerlich geltend gemacht werden. Für Unternehmen begründet § 130 OWiG eine Haftung, wenn fehlende Kontrollmechanismen den Missbrauch ermöglicht haben.
 
-Dieser Skill führt nicht schematisch durch Expense Fraud, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.
+## Ziel dieses Skills
+
+Dieser Skill strukturiert die forensische Untersuchung von Spesenbetrug: von der Datenbankanalyse über Dokumentenprüfung bis zu den arbeitsrechtlichen und strafrechtlichen Maßnahmen.
 
 ## Arbeitsprogramm
 
-- Sachverhalt und Risiko bei Expense Fraud präzise eingrenzen.
-- Beweissicherung und Zugriffsschutz getrennt planen.
-- Bericht, Behördenstrategie und arbeitsrechtliche Folgen sauber entkoppeln.
+### 1. Datenanalyse – Erste Auffälligkeiten
+- **Statistische Ausreißer**: Mitarbeiter mit überdurchschnittlich hohen Spesenabrechnungen im Vergleich zu Peers.
+- **Timing-Analyse**: Abrechnungen direkt nach Jahresendabrechnung oder kurz vor Ausscheiden.
+- **Doppelabrechnung**: dieselbe Leistung zweimal abgerechnet (z. B. Taxi und Mietwagen für dieselbe Strecke).
+- **Phantomrechnungen**: Lieferanten, die nicht existieren oder keine Leistung erbracht haben.
+- **Round-Numbers-Test**: Rechnungen in runden Beträgen (z. B. genau 999 EUR kurz unter Genehmigungsgrenze).
+- **Benford's Law**: führende Ziffern der Abrechnungsbeträge auf Manipulation prüfen.
+
+### 2. Dokumentenprüfung
+- Originalbelege verlangen: Kreditkartenabrechnung, Quittung, Hotelbuchungsbestätigung.
+- Abgleich mit externen Quellen: Flugbuchungen, Hotelraten, Taxiquittungen.
+- Modifizierte Belege (PDF-Manipulation): Metadaten, Schriftarten, Formatierungsfehler prüfen.
+- Lieferantenregister: Existenz und Aktivität der in Rechnungen genannten Unternehmen prüfen (Handelsregister).
+
+### 3. Digitale Forensik
+- E-Mails: Kommunikation mit Lieferanten; Selbstbuchungen; Genehmigungsanfragen.
+- Systeme: ERP-Buchungen (SAP, Oracle), Kreditkartensystemdaten, Reisebuchungstools.
+- Zugriffsrechte: Hatte der Täter Zugriff auf Genehmigungsprozesse, die er manipulieren konnte?
+- Temporäre Dateien: gelöschte Dokumente, Entwürfe (in forensischen Images oder Backup).
+
+### 4. Interviews
+- Täter-Interview: erst nach vollständiger Dokumenten- und Datenanalyse; Konfrontation mit konkreten Belegen.
+- Zeugen: Kollegen, Vorgesetzte, Genehmiger; haben sie Auffälligkeiten wahrgenommen?
+- Kontrollperson: Wer hat die Abrechnungen genehmigt? Mitverantwortung?
+- Belehrung: wenn strafrechtliche Relevanz, nemo tenetur.
+
+### 5. Schadensberechnung
+- Vollständige Berechnung des Schadens: zu Unrecht erstattete Beträge + steuerliche Nachteile des Unternehmens.
+- Gegenrechnung: Steuererstattungen, die auf betrügerischen Abrechnungen basieren → auch Schadensposition.
+- Zeitraum: Wie lange dauerte der Betrug? Verjährung (§ 78 StGB, § 195 BGB)?
+
+### 6. Arbeitsrechtliche und strafrechtliche Konsequenzen
+- Außerordentliche Kündigung: Betrug am Arbeitgeber ist regelmäßig ein wichtiger Grund (§ 626 BGB); kein Abmahnungserfordernis bei erheblichem Betrug.
+- Strafanzeige: § 263 oder § 266 StGB; Ermessen des Unternehmens; Interessenabwägung (Öffentlichkeit vs. Reputationsschaden).
+- Schadensersatz: § 249 BGB; Einbehalt des letzten Gehalts auf Basis einer Aufrechnung (Aufrechnung nach § 387 BGB mit zu Unrecht erstatteten Beträgen).
+
+### 7. Systemic Findings
+- Wie war der Betrug möglich? Fehlende Vier-Augen-Prinzipien, fehlende Belegnachweise, überhöhte Genehmigungsgrenzen.
+- Remediation: Kontrollen verschärfen, Spending-Limits anpassen, Prüfung externer Lieferanten automatisieren.
+- § 130 OWiG: Fehlende Kontrollen können selbst bußgeldbewehrt sein.
 
 ## Red-Team-Fragen
 
-- Ist der Untersuchungsauftrag eng genug, oder wird ein unnötiger Beweisordner für Behörde, Gegner oder US-Discovery gebaut?
-- Wer ist Mandant, wer Berichtsadressat, wer potenziell betroffen, und kollidiert das mit Privilege, Berufsrecht oder Organpflichten?
-- Welche Daten müssen gesichert werden, welche dürfen gerade nicht breit kopiert werden, und wo greift Datenminimierung?
-- Sind Interviewrolle, arbeitsrechtliche Mitwirkungspflicht, Schweigerecht, Betriebsrat und Protokollstandard vor Beginn geklärt?
-- Welche Version des Berichts kann beschlagnahmt, herausverlangt, geleakt oder in einem Parallelverfahren gegen die Gesellschaft verwendet werden?
+- Wurden alle verfügbaren Datenquellen (ERP, Kreditkarte, Reisebuchung) systematisch ausgewertet?
+- Gibt es Indizien, dass Genehmiger kompromittiert oder mitbeteiligt waren?
+- Sind die modifizierten Belege so dokumentiert (Metadaten, Schriftarten), dass ein Sachverständiger im Strafverfahren den Betrug bestätigen kann?
+- Wurde der Schaden vollständig berechnet, einschließlich steuerlicher Effekte?
+- Ist die 2-Wochen-Frist für die außerordentliche Kündigung eingehalten?
+- Wurden Systemschwachstellen identifiziert und Remediation-Maßnahmen festgelegt?
 
-## Ausgabe
+## Normenregister
 
-Erzeuge Investigation Workplan, Interviewfragen, Risikoampel und Board-taugliche Empfehlung. Nenne Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle live vorliegen; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+| Norm | Inhalt | Quelle |
+|---|---|---|
+| § 263 StGB | Betrug | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/stgb/__263.html) |
+| § 266 StGB | Untreue | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/stgb/__266.html) |
+| § 370 AO | Steuerhinterziehung | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/ao_1977/__370.html) |
+| § 626 BGB | Außerordentliche Kündigung | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__626.html) |
+| § 130 OWiG | Aufsichtspflichtverletzung | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/owig/__130.html) |
 
+## Ausgabeformate
+
+- **Spesenbetrugs-Analyse-Template** (Statistische Ausreißer, Doppelbuchungen, Phantomrechnungen)
+- **Dokumenten-Prüfmatrix** (Beleg × Originalcheck × Ergebnis)
+- **Schadensberechnungs-Tabelle**
+- **Kündigungsschreiben** bei Spesenbetrug
+- **Remediation-Maßnahmenplan** (Kontrolllücken schließen)
+
+Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.

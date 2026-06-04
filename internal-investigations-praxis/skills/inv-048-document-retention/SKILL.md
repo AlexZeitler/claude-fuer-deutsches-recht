@@ -1,30 +1,90 @@
 ---
 name: inv-048-document-retention
-description: "Spezialskill fuer Document Retention: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie."
+description: "Definiert Dokumentenaufbewahrungs- und -vernichtungsstrategien für Internal Investigation – HGB-Fristen, DSGVO-Löschpflichten, Legal Hold."
 ---
 
-# Internal Investigation: Document Retention
+# Dokumentenaufbewahrung und -vernichtung nach Internal Investigations
 
+## Rechtlicher Rahmen
 
-## Ziel
+Dokumentenaufbewahrung unterliegt einem komplexen Spannungsfeld: Handelsrechtliche Aufbewahrungspflichten (§ 257 HGB: 10 Jahre für Buchführung, 6 Jahre für Handelsbriefe, [gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__257.html)) und steuerrechtliche Pflichten (§ 147 AO) stehen im Konflikt mit dem DSGVO-Löschungsgebot (Art. 17 DSGVO). Im Rahmen einer Internal Investigation wird dieser Konflikt durch den Legal Hold verschärft: Dokumente müssen trotz DSGVO-Löschpflicht aufbewahrt werden, bis die Untersuchung abgeschlossen ist.
 
-Dieser Skill führt nicht schematisch durch Document Retention, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.
+## Ziel dieses Skills
+
+Dieser Skill definiert für alle relevanten Dokumentenkategorien klare Aufbewahrungs- und Löschregeln, die sowohl handelsrechtliche Pflichten als auch DSGVO-Anforderungen erfüllen.
 
 ## Arbeitsprogramm
 
-- Sachverhalt und Risiko bei Document Retention präzise eingrenzen.
-- Beweissicherung und Zugriffsschutz getrennt planen.
-- Bericht, Behördenstrategie und arbeitsrechtliche Folgen sauber entkoppeln.
+### 1. Aufbewahrungspflichten-Übersicht
+| Dokumentenart | Frist | Norm |
+|---|---|---|
+| Buchführungsunterlagen, Jahresabschlüsse | 10 Jahre | § 257 Abs. 4 HGB |
+| Handelsbriefe (inkl. E-Mail) | 6 Jahre | § 257 Abs. 4 HGB |
+| Steuerunterlagen | 10 Jahre | § 147 AO |
+| Lohnunterlagen | 6–10 Jahre | § 147 AO |
+| Personalakten (nach Austritt) | 3–5 Jahre | § 195 BGB |
+| Verträge | 10 Jahre nach Vertragsende | § 195 BGB |
+
+### 2. Legal Hold – Vorrang vor Löschpflicht
+- Art. 17 Abs. 3 lit. e DSGVO: Löschungsrecht entfällt, wenn Verarbeitung zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich ist.
+- Automatische Löschroutinen für Legal-Hold-Dokumente deaktivieren.
+- Legal-Hold-Register führen: welche Dokumente stehen unter Hold, seit wann, weshalb?
+- Aufhebung des Legal Hold: nach Abschluss aller Verfahren (Untersuchung, Behördenverfahren, Gerichtsverfahren).
+
+### 3. Untersuchungsspezifische Aufbewahrung
+- Interviewprotokolle: solange verfahrensrelevant; danach DSGVO-konforme Löschung.
+- Forensic Images: bis zur Beendigung aller Verfahren; danach sicheres Löschen (NIST SP 800-88).
+- Untersuchungsbericht (Vollbericht): strategische Entscheidung; kann dauerhaft archiviert werden, wenn er keine personenbezogenen Daten enthält; Pseudonymisierung möglich.
+- Korrespondenz mit Behörden: 10 Jahre nach Abschluss des Verfahrens.
+
+### 4. DSGVO-konforme Löschung
+- Art. 17 DSGVO: Recht auf Löschung muss nach Wegfall des Legal Hold beachtet werden.
+- Technisches Löschen: sichere Überschreibung oder Zerstörung von Datenträgern (NIST SP 800-88).
+- Löschprotokoll: Dokumentation, was wann wie gelöscht wurde.
+- Backups: Löschung muss sich auch auf Backup-Systeme erstrecken (Art. 5 Abs. 1 lit. c DSGVO).
+
+### 5. Aufbewahrung für US-Discovery
+- Dokumente unter US-Litigation-Hold: bis zum Abschluss des US-Verfahrens.
+- Spoliation-Risiko: vorzeitige Vernichtung kann Sanktionen auslösen (FRCP 37(e)).
+- Koordination zwischen deutschem Handelsrecht (Aufbewahrungspflicht) und DSGVO-Löschpflicht und US-Litigation-Hold.
+
+### 6. Aufbewahrung in der Praxis
+- Dokumentenmanagement-System: automatische Fristen und Erinnerungen.
+- Records-Management-Policy: welche Dokumente werden wie lange aufbewahrt?
+- Jährliche Aufbewahrungs-Reviews: abgelaufene Dokumente identifizieren und vernichten.
+- Ausnahmen dokumentieren: warum wird ein Dokument über die Standardfrist hinaus aufbewahrt?
+
+### 7. Vernichtungsstrategie nach Untersuchungsabschluss
+- Nach Aufhebung des Legal Hold: Überprüfung jedes Dokuments auf verbleibende Aufbewahrungspflichten.
+- Priorisierung: personenbezogene Daten zuerst löschen (DSGVO-Sensibilität).
+- Keine selektive Vernichtung: alle Kopien (lokal, Cloud, Backup) müssen erfasst sein.
+- Zeuge der Vernichtung: Protokollierung der sicheren Löschung durch IT-Abteilung.
 
 ## Red-Team-Fragen
 
-- Ist der Untersuchungsauftrag eng genug, oder wird ein unnötiger Beweisordner für Behörde, Gegner oder US-Discovery gebaut?
-- Wer ist Mandant, wer Berichtsadressat, wer potenziell betroffen, und kollidiert das mit Privilege, Berufsrecht oder Organpflichten?
-- Welche Daten müssen gesichert werden, welche dürfen gerade nicht breit kopiert werden, und wo greift Datenminimierung?
-- Sind Interviewrolle, arbeitsrechtliche Mitwirkungspflicht, Schweigerecht, Betriebsrat und Protokollstandard vor Beginn geklärt?
-- Welche Version des Berichts kann beschlagnahmt, herausverlangt, geleakt oder in einem Parallelverfahren gegen die Gesellschaft verwendet werden?
+- Wurden alle automatischen Löschroutinen für Legal-Hold-Dokumente deaktiviert?
+- Gibt es US-Litigation-Hold-Pflichten, die mit dem deutschen DSGVO-Löschungsgebot kollidieren?
+- Ist das Löschprotokoll nach Aufhebung des Legal Holds vollständig und deckt alle Speicherorte ab (inkl. Backups)?
+- Wurden Interviewprotokolle und forensische Images nach Verfahrensabschluss datenschutzgerecht gelöscht?
+- Ist die handelsrechtliche Aufbewahrungspflicht für alle relevanten Untersuchungsdokumente geprüft?
+- Gibt es verbleibende personenbezogene Daten in den Untersuchungsunterlagen, die unter DSGVO gelöscht werden müssen?
 
-## Ausgabe
+## Normenregister
 
-Erzeuge Investigation Workplan, Interviewfragen, Risikoampel und Board-taugliche Empfehlung. Nenne Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle live vorliegen; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+| Norm | Inhalt | Quelle |
+|---|---|---|
+| § 257 HGB | Aufbewahrungspflichten | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__257.html) |
+| § 147 AO | Steuerrechtliche Aufbewahrung | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/ao_1977/__147.html) |
+| Art. 17 DSGVO | Recht auf Löschung | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679) |
+| Art. 5 DSGVO | Datensparsamkeit | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679) |
+| FRCP Rule 37(e) | Spoliation Sanctions | US Federal Courts |
 
+## Ausgabeformate
+
+- **Aufbewahrungsfristen-Matrix** (Dokumententyp × Norm × Frist)
+- **Legal-Hold-Register-Vorlage**
+- **Löschprotokoll-Vorlage**
+- **Records-Management-Policy-Template**
+- **Aufbewahrungskonzept** für Untersuchungsunterlagen
+
+Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.

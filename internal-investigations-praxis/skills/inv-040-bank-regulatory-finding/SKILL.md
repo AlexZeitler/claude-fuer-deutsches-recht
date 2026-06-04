@@ -1,30 +1,87 @@
 ---
 name: inv-040-bank-regulatory-finding
-description: "Spezialskill fuer Bank Regulatory Finding: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie."
+description: "Reagiert auf BaFin-Prüfungsfeststellungen und aufsichtsrechtliche Findings – Mängelbeseitigungspflicht, Anordnungsbefugnisse, Internal Investigation als Reaktion."
 ---
 
-# Internal Investigation: Bank Regulatory Finding
+# BaFin-Prüfungsfeststellungen und Bankregulatorik
 
+## Rechtlicher Rahmen
 
-## Ziel
+Die BaFin hat weitgehende Aufsichts- und Eingriffsbefugnisse nach dem KWG ([gesetze-im-internet.de](https://www.gesetze-im-internet.de/kredwg/)), dem WpHG, dem GwG und dem VAG. Prüfungsfeststellungen der BaFin verpflichten das betroffene Institut zur Mängelbeseitigung (§ 25a Abs. 1 KWG: Anforderungen an die ordnungsgemäße Geschäftsorganisation, [gesetze-im-internet.de](https://www.gesetze-im-internet.de/kredwg/__25a.html)) und können Anordnungen nach § 45 KWG (Maßnahmen zur Verbesserung der Eigenkapital- und Liquiditätslage) oder § 46 KWG (Maßnahmen bei Gefahr) auslösen. Nicht-Behebung kann zu Abberufung von Organmitgliedern führen (§ 36 KWG).
 
-Dieser Skill führt nicht schematisch durch Bank Regulatory Finding, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.
+## Ziel dieses Skills
+
+Dieser Skill strukturiert die Reaktion auf BaFin-Prüfungsfeststellungen: Internal Investigation als Reaktionsmechanismus, Maßnahmenplanung und behördliche Kommunikation.
 
 ## Arbeitsprogramm
 
-- Sachverhalt und Risiko bei Bank Regulatory Finding präzise eingrenzen.
-- Beweissicherung und Zugriffsschutz getrennt planen.
-- Bericht, Behördenstrategie und arbeitsrechtliche Folgen sauber entkoppeln.
+### 1. Kategorisierung der Prüfungsfeststellung
+- **Kritische Feststellung** (MaRisk/MaComp-Verstöße): systemic deficiencies in Risikomanagement, IKS, Compliance.
+- **Erhebliche Feststellung**: Einzelverstöße gegen WpHG, GwG, MiFID II.
+- **Anzeigepflichtige Ereignisse**: §§ 24, 25a KWG (z. B. wesentliche Änderungen der Geschäftsorganisation).
+- **Schwere Verstöße**: Straftat-Verdacht (§ 25h KWG: Pflicht zur Verdachtsmeldung, [gesetze-im-internet.de](https://www.gesetze-im-internet.de/kredwg/__25h.html)).
+
+### 2. Sofortmaßnahmen nach Prüfungsfeststellung
+- Feststellungs-Protokoll vollständig auswerten; alle Mängel inventarisieren.
+- Interne Eskalation: Vorstand, Aufsichtsrat, Prüfungsausschuss informieren.
+- Rechtsberater hinzuziehen: wann ist eine Stellungnahme gegenüber BaFin erforderlich?
+- Fristen prüfen: BaFin setzt regelmäßig Fristen zur Mängelbeseitigung; Fristversäumnisse können Anordnungen auslösen.
+
+### 3. Internal Investigation als Reaktion
+- Bei Hinweisen auf individuelle Pflichtverletzungen (z. B. Händler hat interne Limits verletzt): Investigation einleiten.
+- Scope: welche Personen, welche Transaktionen, welcher Zeitraum?
+- Ergebnisse der Investigation in BaFin-Stellungnahme einbeziehen (kontrollierte Offenbarung).
+- Arbeitsrechtliche Konsequenzen nach Abschluss.
+
+### 4. MaRisk und MaComp-Anforderungen
+- MaRisk (Mindestanforderungen an das Risikomanagement, Bundesbank/BaFin-Rundschreiben): IKS, Risikosteuerung, Compliance-Funktion.
+- MaComp (Mindestanforderungen an Compliance, BaFin-Rundschreiben): Wertpapierdienstleistungsunternehmen.
+- AT 9 MaRisk: Outsourcing-Kontrollen; bei Feststellungen zu Drittparteien.
+- Compliance-Funktion (§ 25a Abs. 1 S. 3 Nr. 3c KWG): unabhängig, ressourcenstark, direkter Zugang zum Vorstand.
+
+### 5. GwG-Feststellungen
+- § 25h KWG: Verdachtsmeldepflicht bei Geldwäsche-Hinweisen aus BaFin-Prüfung.
+- GwG §§ 43, 44: Pflicht zur Meldung an FIU (Financial Intelligence Unit).
+- Sonderprüfungen: BaFin kann bei konkretem GwG-Verdacht Sonderprüfer (§ 44 KWG) einsetzen.
+
+### 6. Kommunikation mit BaFin
+- Stellungnahme: sachlich, vollständig, kein Herunterspielen von Mängeln.
+- Maßnahmenplan: konkrete Schritte mit Verantwortlichen und Fristen; BaFin erwartet Umsetzungsberichte.
+- Eskalation: wenn BaFin eine formelle Anordnung erwägt, sofort externe Anwälte einschalten.
+- Anwaltsgeheimnis: Stellungnahme-Entwürfe über Anwalt kommunizieren, um Privilege zu wahren.
+- Self-Reporting: bei eigenständig entdeckten Verstößen proaktive Meldung vor BaFin-Entdeckung ([bafin.de](https://www.bafin.de/)).
+
+### 7. Organhaftung und persönliche Konsequenzen
+- § 36 KWG: BaFin kann Abberufung eines Geschäftsleiters verlangen, wenn er für Mängel verantwortlich ist.
+- § 56 KWG: Bußgelder für Organmitglieder bei schwerwiegenden Verstößen.
+- § 93 AktG i. V. m. BGH II ZR 234/09: Vorstand haftet intern bei schuldhafter Nichtbehebung von Compliance-Mängeln.
+- D&O-Versicherung: Deckungsschutz für Untersuchungskosten und Abwehrmaßnahmen prüfen.
 
 ## Red-Team-Fragen
 
-- Ist der Untersuchungsauftrag eng genug, oder wird ein unnötiger Beweisordner für Behörde, Gegner oder US-Discovery gebaut?
-- Wer ist Mandant, wer Berichtsadressat, wer potenziell betroffen, und kollidiert das mit Privilege, Berufsrecht oder Organpflichten?
-- Welche Daten müssen gesichert werden, welche dürfen gerade nicht breit kopiert werden, und wo greift Datenminimierung?
-- Sind Interviewrolle, arbeitsrechtliche Mitwirkungspflicht, Schweigerecht, Betriebsrat und Protokollstandard vor Beginn geklärt?
-- Welche Version des Berichts kann beschlagnahmt, herausverlangt, geleakt oder in einem Parallelverfahren gegen die Gesellschaft verwendet werden?
+- Sind alle BaFin-Feststellungen vollständig inventarisiert und priorisiert?
+- Gibt es unter den Feststellungen Hinweise auf individuelle Pflichtverletzungen, die eine separate Internal Investigation erfordern?
+- Ist die Kommunikation mit der BaFin in allen Punkten präzise und vollständig – keine Halbwahrheiten?
+- Wurden alle erforderlichen GwG-Verdachtsmeldungen abgegeben?
+- Ist der Maßnahmenplan realistisch und wurden die Fristen eingehalten?
+- Haben Organmitglieder persönliche Abberufungsrisiken (§ 36 KWG), und wurde die D&O-Deckung geprüft?
 
-## Ausgabe
+## Normenregister
 
-Erzeuge Investigation Workplan, Interviewfragen, Risikoampel und Board-taugliche Empfehlung. Nenne Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle live vorliegen; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+| Norm | Inhalt | Quelle |
+|---|---|---|
+| § 25a KWG | Ordnungsgemäße Geschäftsorganisation | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/kredwg/__25a.html) |
+| § 36 KWG | Abberufung Geschäftsleiter | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/kredwg/__36.html) |
+| § 25h KWG | Verdachtsmeldung | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/kredwg/__25h.html) |
+| § 43 GwG | Geldwäsche-Verdachtsmeldung | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/gwg_2017/__43.html) |
+| BaFin | Aufsichtspraxis | [bafin.de](https://www.bafin.de/) |
 
+## Ausgabeformate
+
+- **Feststellungs-Inventar** (Kritische / erhebliche / sonstige Mängel)
+- **Maßnahmenplan** mit Verantwortlichen und Fristen
+- **BaFin-Stellungnahmen-Template**
+- **GwG-Verdachtsmeldungs-Prüfcheckliste**
+- **Organhaftungs-Risikoanalyse** (§ 36 KWG, D&O)
+
+Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.

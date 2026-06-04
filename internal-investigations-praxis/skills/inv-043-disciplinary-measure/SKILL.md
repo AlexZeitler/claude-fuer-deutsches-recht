@@ -1,30 +1,93 @@
 ---
 name: inv-043-disciplinary-measure
-description: "Spezialskill fuer Disciplinary Measure: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie."
+description: "Wählt und setzt arbeitsrechtliche Disziplinarmaßnahmen um – Abmahnung, Versetzung, Kürzung von Boni, Freistellung, Zielvereinbarungsänderung."
 ---
 
-# Internal Investigation: Disciplinary Measure
+# Disziplinarmaßnahmen nach Internal Investigations
 
+## Rechtlicher Rahmen
 
-## Ziel
+Nach Abschluss einer Internal Investigation müssen geeignete Disziplinarmaßnahmen ergriffen werden. Dies ergibt sich aus der Pflicht des Vorstands, auf festgestellte Verstöße zu reagieren (§ 93 AktG, BGH II ZR 234/09, [openjur.de](https://openjur.de/o/577696.html)) und aus § 130 OWiG (fehlende Reaktion ist selbst ein Aufsichtspflichtverstoß, [gesetze-im-internet.de](https://www.gesetze-im-internet.de/owig/__130.html)). Gleichzeitig müssen Disziplinarmaßnahmen verhältnismäßig sein und das Betriebsverfassungsrecht beachten.
 
-Dieser Skill führt nicht schematisch durch Disciplinary Measure, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.
+## Ziel dieses Skills
+
+Dieser Skill wählt die proportionale Disziplinarmaßnahme auf Grundlage der Untersuchungsergebnisse aus und stellt die rechtssichere Umsetzung sicher.
 
 ## Arbeitsprogramm
 
-- Sachverhalt und Risiko bei Disciplinary Measure präzise eingrenzen.
-- Beweissicherung und Zugriffsschutz getrennt planen.
-- Bericht, Behördenstrategie und arbeitsrechtliche Folgen sauber entkoppeln.
+### 1. Disziplinarmaßnahmen-Spektrum
+| Schwere | Maßnahme | Rechtsgrundlage |
+|---|---|---|
+| Leicht | Ermahnung (ohne Abmahnung) | Arbeitsvertrag, § 242 BGB |
+| Mittel | Abmahnung | § 314 BGB analog |
+| Mittel-schwer | Versetzung, Funktionsentzug | § 106 GewO, Direktionsrecht |
+| Schwer | Ordentliche Kündigung | § 1 KSchG |
+| Sehr schwer | Außerordentliche Kündigung | § 626 BGB |
+| Parallel | Strafanzeige | StGB |
+| Finanziell | Bonusentzug, Gehaltskürzung | Arbeitsvertrag, § 315 BGB |
+
+### 2. Verhältnismäßigkeitsprüfung
+- Schwere des Verstoßes: war es vorsätzlich oder fahrlässig?
+- Schadensausmaß: wirtschaftlicher Schaden für das Unternehmen.
+- Verschulden: war der Mitarbeiter allein verantwortlich, oder hat das System versagt?
+- Vorleben: gab es frühere Verstöße?
+- Mitwirkung: hat der Mitarbeiter an der Untersuchung kooperiert?
+
+### 3. Abmahnung
+- Konkrete Beschreibung der Verfehlung (nicht pauschal) mit Datum, Handlung, Norm.
+- Hinweis auf mögliche Kündigung bei Wiederholung.
+- Keine Abmahnung erforderlich bei sehr schweren Verstößen (Betrug, Bestechung).
+- Wirkungsdauer: ca. 2 Jahre; nach Ablauf oft keine Grundlage mehr für verhaltensbedingte Kündigung.
+
+### 4. Versetzung und Funktionsentzug
+- § 106 GewO (Direktionsrecht): Arbeitgeber kann Aufgabenbereich ändern, soweit nicht ausdrücklich vertraglich ausgeschlossen.
+- Versetzung bei Interessenkonflikt: z. B. Entfernung aus Beschaffungsfunktion.
+- Funktionsentzug bei Verdacht: Entzug von Zugriffsrechten, Zeichnungsberechtigungen.
+- Betriebsrat: § 99 BetrVG – Zustimmung bei wesentlicher Versetzung (vgl. inv-006-betriebsrat).
+
+### 5. Bonus- und Gehaltskürzungen
+- Leistungsabhängige Boni: können bei Compliance-Verstößen verweigert oder zurückgefordert werden, wenn Vertrag entsprechende Klausel enthält (Claw-Back).
+- Claw-Back-Klauseln: in Vergütungsstrukturen von Banken (§ 5 Abs. 6 InstVV) und börsennootierten Unternehmen.
+- § 315 BGB: Billigkeitsbestimmung bei einseitigem Bestimmungsrecht des Arbeitgebers.
+- Keine Gehaltskürzungen ohne arbeitsvertragliche Grundlage.
+
+### 6. Maßnahmen gegen Organmitglieder
+- Vorstandsmitglied: Abberufung (§ 84 AktG bei wichtigem Grund, [gesetze-im-internet.de](https://www.gesetze-im-internet.de/aktg/__84.html)); Schadensersatz (§ 93 Abs. 2 AktG).
+- Aufsichtsratsmitglied: Abberufung durch Hauptversammlung (§ 103 AktG); Haftung nach § 116 AktG.
+- D&O-Versicherung: Deckungsschutz prüfen; oft kein Schutz bei vorsätzlichem Handeln.
+- Gehalts- und Tantième-Rückforderung: § 93 Abs. 3 AktG; Insolvenzanfälligkeit prüfen.
+
+### 7. Dokumentation
+- Alle Disziplinarmaßnahmen schriftlich und im Personalakt dokumentieren.
+- Betriebsratsanhörung gemäß § 102 BetrVG für alle Kündigungen.
+- Fristen einhalten: § 626 Abs. 2 BGB (2-Wochen-Frist für außerordentliche Kündigung ab Kenntniserlangung).
+- Nachverfolgung: wurden Maßnahmen tatsächlich vollständig umgesetzt?
 
 ## Red-Team-Fragen
 
-- Ist der Untersuchungsauftrag eng genug, oder wird ein unnötiger Beweisordner für Behörde, Gegner oder US-Discovery gebaut?
-- Wer ist Mandant, wer Berichtsadressat, wer potenziell betroffen, und kollidiert das mit Privilege, Berufsrecht oder Organpflichten?
-- Welche Daten müssen gesichert werden, welche dürfen gerade nicht breit kopiert werden, und wo greift Datenminimierung?
-- Sind Interviewrolle, arbeitsrechtliche Mitwirkungspflicht, Schweigerecht, Betriebsrat und Protokollstandard vor Beginn geklärt?
-- Welche Version des Berichts kann beschlagnahmt, herausverlangt, geleakt oder in einem Parallelverfahren gegen die Gesellschaft verwendet werden?
+- Ist die gewählte Disziplinarmaßnahme verhältnismäßig zur festgestellten Verfehlung?
+- Wurden alle Mitarbeiter mit ähnlichem Verhalten gleich behandelt (Gleichbehandlungsgrundsatz)?
+- Ist die 2-Wochen-Frist für außerordentliche Kündigung eingehalten?
+- Gibt es Claw-Back-Klauseln in den Vergütungsverträgen, die bei Compliance-Verstößen aktiviert werden können?
+- Wurden alle Betriebsratsrechte gewahrt (§ 102 BetrVG-Anhörung)?
+- Sind die Disziplinarmaßnahmen nach außen hin konsistent – keine unterschiedliche Behandlung nach Hierarchieebene ohne sachlichen Grund?
 
-## Ausgabe
+## Normenregister
 
-Erzeuge Investigation Workplan, Interviewfragen, Risikoampel und Board-taugliche Empfehlung. Nenne Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle live vorliegen; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+| Norm | Inhalt | Quelle |
+|---|---|---|
+| § 626 BGB | Außerordentliche Kündigung | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__626.html) |
+| § 106 GewO | Direktionsrecht | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/gewo/__106.html) |
+| § 84 AktG | Abberufung Vorstand | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/aktg/__84.html) |
+| § 93 AktG | Haftung Vorstand | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/aktg/__93.html) |
+| § 102 BetrVG | Anhörung vor Kündigung | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/betrvg/__102.html) |
 
+## Ausgabeformate
+
+- **Disziplinarmaßnahmen-Entscheidungsmatrix** (Schwere × Maßnahme × Rechtsgrundlage)
+- **Abmahnungsvorlage**
+- **Betriebsratsanhörung** nach § 102 BetrVG
+- **Claw-Back-Berechnungs-Vorlage**
+- **Organhaftungs-Schadensersatz-Memo**
+
+Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.

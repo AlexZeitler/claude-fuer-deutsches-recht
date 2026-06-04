@@ -1,30 +1,84 @@
 ---
 name: inv-047-privilege-log
-description: "Spezialskill fuer Privilege Log: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie."
+description: "Erstellt und verwaltet das Privilege-Log für privilegierte Untersuchungsdokumente – FRCP Rule 26(b)(5), deutsche Schutzstandards, Waiver-Risiken."
 ---
 
-# Internal Investigation: Privilege Log
+# Privilege-Log in Internal Investigations
 
+## Rechtlicher Rahmen
 
-## Ziel
+Das Privilege-Log ist das zentrale Instrument zur Dokumentation aller zurückgehaltenen privilegierten Dokumente. Im US-amerikanischen Recht ist es zwingend nach FRCP Rule 26(b)(5) für alle als „privileged" zurückgehaltenen Dokumente zu erstellen. Im deutschen Recht gibt es keine vergleichbare Formvorschrift, aber der Beschlagnahmeschutz nach § 97 StPO ([gesetze-im-internet.de](https://www.gesetze-im-internet.de/stpo/__97.html)) setzt voraus, dass die Unterlagen als privilegiert identifizierbar sind. Das Privilege-Log schützt vor dem Vorwurf, Dokumente willkürlich zurückgehalten zu haben.
 
-Dieser Skill führt nicht schematisch durch Privilege Log, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.
+## Ziel dieses Skills
+
+Dieser Skill stellt sicher, dass das Privilege-Log vollständig, korrekt und US-FRCP-konform ist und den Privilegeschutz im Verfahren sichert.
 
 ## Arbeitsprogramm
 
-- Sachverhalt und Risiko bei Privilege Log präzise eingrenzen.
-- Beweissicherung und Zugriffsschutz getrennt planen.
-- Bericht, Behördenstrategie und arbeitsrechtliche Folgen sauber entkoppeln.
+### 1. FRCP Rule 26(b)(5) – Anforderungen
+- Jedes zurückgehaltene Dokument muss im Log enthalten sein.
+- Pflichtangaben: Datum, Autor (inkl. Funktion), Empfänger, CC/BCC, Dokumententyp, kurze Beschreibung (ohne Offenbarung des privilegierten Inhalts), Basis des Privilege (Attorney-Client, Work Product).
+- Keine „Blanket" Privilege-Behauptungen ohne spezifische Begründung.
+- Privilege-Log ist selbst kein privilegiertes Dokument (Existenz des Logs muss offengelegt werden).
+
+### 2. Attorney-Client Privilege – Voraussetzungen
+- Kommunikation zwischen Mandant und Anwalt (in anwaltlicher Eigenschaft).
+- Zweck: Rechtsberatung (nicht rein geschäftliche Kommunikation).
+- Vertraulichkeit: Kommunikation war und blieb vertraulich (kein Teilen mit Dritten außerhalb des Privilege-Kreises).
+- Upjohn-Erweiterung (US): auch Kommunikation mit Mitarbeitern, wenn im Rahmen der Rechtsberatung des Unternehmens.
+
+### 3. Work-Product Doctrine
+- Dokumente des Anwalts, die in Erwartung eines Rechtsstreits erstellt wurden.
+- Stärkerer Schutz für „opinion work product" (rechtliche Bewertungen, mentale Eindrücke).
+- Schwächerer Schutz für „fact work product" (Tatsachenzusammenfassungen); kann bei substantial need überwindbar sein.
+- Nicht auf Mandantenbeziehung angewiesen (auch Anwaltsdokumente ohne direkte Mandantenkommunikation).
+
+### 4. Deutsches Recht – § 97 StPO
+- Schutz: schriftlicher Verkehr zwischen Beschuldigtem und Verteidiger.
+- Anwaltliche Arbeitsunterlagen: grundsätzlich schutzwürdig, wenn in mandatlicher Eigenschaft erstellt.
+- Grenzen: Unternehmen als potenziell Beschuldigter wird anders behandelt als natürliche Person als Beschuldigter (BGH, Beschl. v. 5.4.2017 – StB 3/17, [bgh.de](https://www.bgh.de/)).
+- Kennzeichnung: Dokumente sollten als „Anwaltliche Arbeitsunterlagen – Vertraulich" gekennzeichnet sein.
+
+### 5. Waiver-Risiken
+- Voluntary Disclosure: freiwillige Weitergabe an Dritte (inkl. Behörden) hebt Privilege auf.
+- Selective Waiver: in den USA nicht allgemein anerkannt; Weitergabe an DOJ ohne entsprechende Vereinbarung kann zum Subject-Matter-Waiver führen.
+- Crime-Fraud Exception: Privilege entfällt, wenn Dokument zur Unterstützung einer Straftat diente.
+- Inadvertent Disclosure: versehentliche Weitergabe; FRCP Rule 26(b)(5)(B) ermöglicht Claw-Back.
+
+### 6. Privilege-Log-Erstellung in der Praxis
+- Einsatz von eDiscovery-Plattformen (Relativity, Reveal) für automatische Privilege-Identifikation.
+- Überprüfung durch Anwalt: jedes als privilegiert getaggte Dokument muss von Anwalt bestätigt werden.
+- Stichwortlisten für automatische Erkennung: Anwaltsnamen, Kanzleinamen, „privileged", „attorney-client", „attorney work product".
+- Regelmäßige Aktualisierung: Privilege-Log wächst mit dem Untersuchungsumfang.
+
+### 7. Reaktion auf Privilege-Anfechtungen
+- Gegenseite ficht Privilege an: Klausel zu In-Camera-Überprüfung durch Gericht (§ 97 Abs. 2 StPO analog; FRCP Rule 26(b)(5)).
+- Begründung des Privilege für jedes angegriffene Dokument vorbereiten.
+- Keine Teiloffenbarung ohne Strategie (Subject-Matter-Waiver-Risiko).
 
 ## Red-Team-Fragen
 
-- Ist der Untersuchungsauftrag eng genug, oder wird ein unnötiger Beweisordner für Behörde, Gegner oder US-Discovery gebaut?
-- Wer ist Mandant, wer Berichtsadressat, wer potenziell betroffen, und kollidiert das mit Privilege, Berufsrecht oder Organpflichten?
-- Welche Daten müssen gesichert werden, welche dürfen gerade nicht breit kopiert werden, und wo greift Datenminimierung?
-- Sind Interviewrolle, arbeitsrechtliche Mitwirkungspflicht, Schweigerecht, Betriebsrat und Protokollstandard vor Beginn geklärt?
-- Welche Version des Berichts kann beschlagnahmt, herausverlangt, geleakt oder in einem Parallelverfahren gegen die Gesellschaft verwendet werden?
+- Enthält das Privilege-Log alle zurückgehaltenen Dokumente, oder fehlen bestimmte Kategorien?
+- Sind alle Privilege-Ansprüche mit konkreten Begründungen versehen – keine Blanket-Behauptungen?
+- Gibt es Dokumente, die an Behörden weitergegeben wurden, für die kein Selective-Waiver-Schutz vereinbart wurde?
+- Wurden versehentlich offenbarte privilegierte Dokumente sofort per Claw-Back zurückgefordert?
+- Ist das Privilege-Log im FRCP Rule 26(b)(5)-konformen Format erstellt?
+- Haben Nicht-Anwälte (Wirtschaftsprüfer, IT-Forensiker) Dokumente erstellt, die fälschlicherweise als privilegiert getaggt sind?
 
-## Ausgabe
+## Normenregister
 
-Erzeuge Investigation Workplan, Interviewfragen, Risikoampel und Board-taugliche Empfehlung. Nenne Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle live vorliegen; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+| Norm | Inhalt | Quelle |
+|---|---|---|
+| § 97 StPO | Beschlagnahmeschutz | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/stpo/__97.html) |
+| EuGH C-550/07 P | Akzo Nobel Privilege | [curia.europa.eu](https://curia.europa.eu/juris/document/document.jsf?docid=83458&doclang=DE) |
+| FRCP Rule 26(b)(5) | US Privilege Log Requirements | US Federal Courts |
 
+## Ausgabeformate
+
+- **Privilege-Log-Template** (FRCP Rule 26(b)(5)-konform)
+- **Privilege-Prüfprotokoll** für Dokument-Reviewer
+- **Claw-Back-Vorlage** bei inadvertent disclosure
+- **Privilege-Anfechtungs-Verteidigung** (In-Camera-Memo)
+- **Attorney-Client-Privilege-Prüfliste** (Voraussetzungen im Einzelfall)
+
+Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.

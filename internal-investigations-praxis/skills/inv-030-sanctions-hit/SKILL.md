@@ -1,30 +1,84 @@
 ---
 name: inv-030-sanctions-hit
-description: "Spezialskill fuer Sanctions Hit: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie."
+description: "Reagiert auf einen Sanktionstreffer – EU-Sanktionsverordnungen, OFAC, Einfrierung, Meldepflichten, Strafrisiken und Behördenstrategie."
 ---
 
-# Internal Investigation: Sanctions Hit
+# Sanktionstreffer – Sofortmaßnahmen und Behördenstrategie
 
+## Rechtlicher Rahmen
 
-## Ziel
+Sanktionsverstöße sind strafrechtlich nach § 18 AWG ([gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/__18.html)) und nach EU-Sanktionsverordnungen (z. B. VO (EU) Nr. 269/2014 Russland, [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32014R0269)) bußgeldbewehrt. EU-Sanktionen verpflichten Finanzinstitute und Unternehmen, Gelder und wirtschaftliche Ressourcen sanktionierter Personen einzufrieren (Art. 2 ff. der jeweiligen Sanktions-VO) und Treffer zu melden. US-Sanktionen (OFAC, 50 U.S.C. § 1701 ff.) haben extraterritoriale Reichweite. Ein Sanktionstreffer erfordert sofortiges, koordiniertes Handeln.
 
-Dieser Skill führt nicht schematisch durch Sanctions Hit, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.
+## Ziel dieses Skills
+
+Dieser Skill definiert die Sofortmaßnahmen nach einem Sanktionstreffer und leitet die weiteren Schritte (Einfrierung, Meldung, Behördenkommunikation) ab.
 
 ## Arbeitsprogramm
 
-- Sachverhalt und Risiko bei Sanctions Hit präzise eingrenzen.
-- Beweissicherung und Zugriffsschutz getrennt planen.
-- Bericht, Behördenstrategie und arbeitsrechtliche Folgen sauber entkoppeln.
+### 1. Sofortmaßnahmen beim Treffer
+- **Transaktion stoppen**: Zahlung oder Lieferung sofort aussetzen.
+- **Einfrierung der Gelder**: Art. 2 der jeweiligen EU-Sanktions-VO; unmittelbare Pflicht, keine Verzögerung.
+- **Interne Eskalation**: Compliance-Beauftragter, General Counsel, CFO informieren; keine eigenständigen Entscheidungen auf Sachbearbeiterebene.
+- **Keine Warnung an Sanktionierten**: § 261 StGB (Geldwäsche) und Sanktions-VO verbieten Vorwarnung.
+
+### 2. Überprüfung des Treffers (False Positive vs. True Positive)
+- Name-Matching-Probleme: Falltreffer durch ähnliche Namen, falsche Schreibweise.
+- Due-Diligence-Dokumentation: OFAC-SDN-Liste, EU-Consolidated-Sanctions-List prüfen; Screenshot und Zeitstempel sichern.
+- Birthdate, Nationality, Address: alle verfügbaren Identifikatoren abgleichen.
+- Zweifelhafte Treffer: OFAC-Specific-License-Antrag oder Anfrage bei Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA).
+
+### 3. Meldepflichten
+- **EU-Meldepflichten**: Art. 8 der meisten EU-Sanktions-VO verpflichtet zur Meldung eingefrorener Gelder an nationale Behörden (in Deutschland: Deutsche Bundesbank oder BAFA, je nach Sanktionsregime).
+- **OFAC Reporting**: freiwillige oder zwingende Meldung; OFAC-SDN-Treffermeldung im Rahmen des Blocked Persons Reporting.
+- **Geldwäschemeldung**: § 43 GwG – Sanktionstreffer kann gleichzeitig Verdachtsmeldung auslösen ([gesetze-im-internet.de](https://www.gesetze-im-internet.de/gwg_2017/__43.html)).
+- BaFin: bei Kreditinstituten und Finanzdienstleistern gesonderte Meldepflichten.
+
+### 4. Einfrierungs-Management
+- Gesperrte Konten und Gelder separat verwalten; keine Transaktionen ohne Genehmigung.
+- Zinsen und andere Erträge aus eingefrorenen Mitteln: ebenfalls einfrieren (EU-Sanktions-VO).
+- Lizenzanträge: bestimmte Transaktionen können mit Genehmigung durchgeführt werden (EU Art. 5 ff.; OFAC General/Specific License).
+
+### 5. Rückwirkende Analyse
+- Historische Transaktionen prüfen: gab es frühere Zahlungen an dieselbe Person/Entität?
+- Sanktionslisten rückwirkend anwenden: ab wann stand die Person auf der Liste?
+- Kumulierter Schadensbetrag für OFAC-Penalty-Berechnung.
+
+### 6. OFAC-Voluntary Disclosure
+- Substantieller Selbstanzeigeeffekt: Basisstrafe wird halbiert.
+- Inhalt: vollständige Chronologie, betroffene Transaktionen, Namen, Beträge, Maßnahmen.
+- Timing: schnell, aber nach vollständiger interner Untersuchung.
+- Gleichzeitig prüfen: DOJ-Exposure bei strafrechtlicher Relevanz.
+
+### 7. Remediation
+- Sanktionsscreening verbessern (Fuzzy Matching, Phonetic Matching, PEP-Screening).
+- Compliance-Programm-Update: neue Sanktionsregime implementieren (z. B. nach neuen EU-Verordnungen).
+- Training: alle relevanten Mitarbeiter.
+- Externe Überprüfung: OFAC Compliance Commitment-Dokument oder EU-Compliance-Programm-Assessment.
 
 ## Red-Team-Fragen
 
-- Ist der Untersuchungsauftrag eng genug, oder wird ein unnötiger Beweisordner für Behörde, Gegner oder US-Discovery gebaut?
-- Wer ist Mandant, wer Berichtsadressat, wer potenziell betroffen, und kollidiert das mit Privilege, Berufsrecht oder Organpflichten?
-- Welche Daten müssen gesichert werden, welche dürfen gerade nicht breit kopiert werden, und wo greift Datenminimierung?
-- Sind Interviewrolle, arbeitsrechtliche Mitwirkungspflicht, Schweigerecht, Betriebsrat und Protokollstandard vor Beginn geklärt?
-- Welche Version des Berichts kann beschlagnahmt, herausverlangt, geleakt oder in einem Parallelverfahren gegen die Gesellschaft verwendet werden?
+- Wurde die Transaktion sofort gestoppt, oder gab es eine Verzögerung durch interne Entscheidungsprozesse?
+- Ist der Treffer ein True Positive? Wurden alle verfügbaren Identifikatoren geprüft?
+- Wurden alle Meldepflichten (EU-Behörde, BAFA, BaFin, OFAC) innerhalb der vorgesehenen Fristen erfüllt?
+- Gibt es historische Transaktionen mit derselben sanktionierten Entität, die eine kumulierte OFAC-Penalty begründen?
+- Hat das Compliance-Team den sanktionierten Kunden vorgewarnt? (Verbotsverstoß!)
+- Ist eine OFAC-Voluntary Disclosure sinnvoll, und wurde die Entscheidung dokumentiert?
 
-## Ausgabe
+## Normenregister
 
-Erzeuge Investigation Workplan, Interviewfragen, Risikoampel und Board-taugliche Empfehlung. Nenne Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle live vorliegen; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+| Norm | Inhalt | Quelle |
+|---|---|---|
+| § 18 AWG | Straftatbestände Sanktionsverstoß | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/__18.html) |
+| § 43 GwG | Geldwäsche-Verdachtsmeldung | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/gwg_2017/__43.html) |
+| VO (EU) Nr. 269/2014 | Russland-Sanktionen | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32014R0269) |
+| BAFA | Behördeninfos Sanktionen | [bafa.de](https://www.bafa.de/) |
 
+## Ausgabeformate
+
+- **Sanktionstreffer-Sofortprotokoll** (Ausfüllvorlage)
+- **True/False-Positive-Prüfcheckliste**
+- **Meldepflichten-Matrix** (EU-Behörde, BAFA, BaFin, OFAC)
+- **OFAC-Voluntary-Disclosure-Vorlage**
+- **Remediation-Plan** Sanktions-Compliance
+
+Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.

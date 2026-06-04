@@ -1,30 +1,87 @@
 ---
 name: inv-052-us-counsel-coordination
-description: "Spezialskill fuer US Counsel Coordination: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie."
+description: "Koordiniert die Zusammenarbeit zwischen deutschem und US-amerikanischem Counsel in Cross-Border-Investigations – Privilege-Konflikte, Offenbarungspflichten, Joint-Defense."
 ---
 
-# Internal Investigation: US Counsel Coordination
+# US-Counsel-Koordination in Cross-Border-Investigations
 
+## Rechtlicher Rahmen
 
-## Ziel
+Cross-Border-Investigations mit US-Bezug (FCPA, SEC, DOJ) erfordern die enge Koordination zwischen deutschem und US-amerikanischem Anwalt. Unterschiede im Privilege-Recht (deutsches Anwaltsgeheimnis vs. US Attorney-Client Privilege), in den Discovery-Pflichten und in den Selbstbelastungsrechten erzeugen erhebliche Friktionen. Joint-Defense-Agreements schützen die Kommunikation zwischen Co-Counsel verschiedener Parteien; ohne sie riskiert jede Partei, dass Kommunikation mit anderen Verteidigern privilegienmäßig nicht geschützt ist. Der EuGH (Akzo Nobel, C-550/07 P, [curia.europa.eu](https://curia.europa.eu/juris/document/document.jsf?docid=83458&doclang=DE)) und das US-Recht unterscheiden sich fundamental beim Inhouse-Counsel-Privilege.
 
-Dieser Skill führt nicht schematisch durch US Counsel Coordination, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.
+## Ziel dieses Skills
+
+Dieser Skill strukturiert die Koordination zwischen deutschem und US-Counsel so, dass Privilege-Verluste vermieden, widersprüchliche Aussagen gegenüber Behörden verhindert und strategische Entscheidungen konsistent getroffen werden.
 
 ## Arbeitsprogramm
 
-- Sachverhalt und Risiko bei US Counsel Coordination präzise eingrenzen.
-- Beweissicherung und Zugriffsschutz getrennt planen.
-- Bericht, Behördenstrategie und arbeitsrechtliche Folgen sauber entkoppeln.
+### 1. Aufgabenteilung zwischen deutschem und US-Counsel
+- **Deutsches Recht**: deutsches Straf- und Ordnungswidrigkeitenrecht (§§ 266, 263, 299 StGB; §§ 30, 130 OWiG), Arbeitsrecht, Datenschutz, BetrVG, HinSchG.
+- **US-Counsel**: FCPA, SEC-Regulierung, DOJ-Verfahren, US-Discovery, SOX, OFAC-Sanktionen.
+- **Gemeinsame Felder**: Privilege-Strategie, Behördenstrategie, Berichtsstrategie, Settlement.
+- Lead Counsel-Festlegung: wer kommuniziert mit welcher Behörde?
+
+### 2. Joint-Defense-Agreement (JDA)
+- Schützt Kommunikation zwischen Anwälten verschiedener Co-Defendants.
+- Voraussetzung: gemeinsames Verteidigungsinteresse.
+- Inhalt: Gemeinsam-nutzbarer Informationsaustausch; Verbot der unilateralen Weitergabe an Dritte; Exit-Regelung bei Interessenkonflikt.
+- Deutsches Recht: vergleichbare Schutzfunktion über Berufsgeheimnis (§ 203 StGB) und § 97 StPO.
+- Achtung: JDA schützt nicht, wenn eine Partei „flips" (mit Behörde kooperiert und die anderen belastet).
+
+### 3. Privilege-Koordination
+- US-Dokumente: US Attorney-Client Privilege gilt für US-Counsel-Kommunikation; Work-Product-Doctrine für Arbeitsdokumente.
+- Deutsche Dokumente: § 97 StPO; kein EU-Privilege für Inhouse-Counsel (EuGH Akzo Nobel).
+- Cross-Border-Problem: Dokument, das nach US-Recht privilegiert ist, kann nach deutschem Recht beschlagnahmt werden, und umgekehrt.
+- Gemeinsame Privilege-Strategie: alle Beratungskommunikation über einen privilegierten Kanal laufen lassen.
+
+### 4. Behörden-Koordination
+- DOJ/SEC vs. BaFin/Staatsanwaltschaft: Widersprüchliche Aussagen gegenüber verschiedenen Behörden sind katastrophal.
+- „One Voice"-Strategie: alle Aussagen gegenüber Behörden werden zentral zwischen deutschem und US-Counsel abgestimmt.
+- DOJ-Kooperationsanforderungen vs. deutsches Datenschutzrecht: kein unkontrolliertes Herausgeben von DSGVO-geschützten Daten an US-Behörden.
+- Simultane Kooperation: wenn DOJ und StA gleichzeitig Kooperation erwarten.
+
+### 5. Zeugenbefragungen in den USA
+- US-Grand-Jury-Subpoena für deutsche Mitarbeiter: problematisch wegen Territorialitätsprinzip; Rechtshilfe-Verfahren eigentlich erforderlich.
+- MLAT (Mutual Legal Assistance Treaty): Germany-US MLAT regelt formelle Rechtshilfe.
+- Deutsche Mitarbeiter haben Recht auf deutschen Anwalt neben US-Anwalt.
+- Testimony vor Grand Jury: erhebliches Selbstbelastungsrisiko; Fifth Amendment gilt für US-Personen, nicht für ausländische Staatsbürger.
+
+### 6. Dritte Counsel in Drittstaaten
+- UK: UK Bribery Act erfordert ggf. englischen Anwalt.
+- Frankreich: französisches Droit à la preuve vs. US-Discovery.
+- China: Datenlokalisierungsgesetze verbieten Transfer von Daten an ausländische Behörden.
+- Koordination: Country-Counsel für jeden betroffenen Rechtsraum; Lead Counsel koordiniert.
+
+### 7. Settlement-Koordination
+- DOJ-DPA/NPA: Abstimmung zwischen US-Counsel und deutschem Anwalt.
+- Deutsches OWiG-Bußgeld: parallele Verhandlung.
+- Kein Widerspruch: was das Unternehmen dem DOJ zugegeben hat, kann in deutschen Strafverfahren gegen Individuen verwendet werden.
 
 ## Red-Team-Fragen
 
-- Ist der Untersuchungsauftrag eng genug, oder wird ein unnötiger Beweisordner für Behörde, Gegner oder US-Discovery gebaut?
-- Wer ist Mandant, wer Berichtsadressat, wer potenziell betroffen, und kollidiert das mit Privilege, Berufsrecht oder Organpflichten?
-- Welche Daten müssen gesichert werden, welche dürfen gerade nicht breit kopiert werden, und wo greift Datenminimierung?
-- Sind Interviewrolle, arbeitsrechtliche Mitwirkungspflicht, Schweigerecht, Betriebsrat und Protokollstandard vor Beginn geklärt?
-- Welche Version des Berichts kann beschlagnahmt, herausverlangt, geleakt oder in einem Parallelverfahren gegen die Gesellschaft verwendet werden?
+- Gibt es widersprüchliche Aussagen gegenüber DOJ und deutschen Behörden?
+- Ist ein Joint-Defense-Agreement in Kraft, und schützt es die Kommunikation zwischen allen Co-Defendants?
+- Wurden US-Dokumente dem DOJ übergeben, ohne die DSGVO-Rechtsgrundlage für den Transfer zu prüfen?
+- Ist der „One-Voice"-Ansatz tatsächlich umgesetzt – werden alle Behördenkommunikationen koordiniert?
+- Hat das Unternehmen bei der Grand-Jury-Befragung die Interessen der deutschen Mitarbeiter gewahrt?
+- Gibt es Drittstaaten (UK, Frankreich, China), die eigene Counsel-Koordination erfordern?
 
-## Ausgabe
+## Normenregister
 
-Erzeuge Investigation Workplan, Interviewfragen, Risikoampel und Board-taugliche Empfehlung. Nenne Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle live vorliegen; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+| Norm | Inhalt | Quelle |
+|---|---|---|
+| § 97 StPO | Beschlagnahmeschutz | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/stpo/__97.html) |
+| § 203 StGB | Berufsgeheimnis | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/stgb/__203.html) |
+| Art. 49 DSGVO | Drittstaatentransfer | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679) |
+| EuGH C-550/07 P | Akzo Nobel Privilege | [curia.europa.eu](https://curia.europa.eu/juris/document/document.jsf?docid=83458&doclang=DE) |
+| 15 U.S.C. § 78dd-1 | FCPA | US Government |
 
+## Ausgabeformate
+
+- **Counsel-Koordinationsplan** (Aufgabenteilung, Lead Counsel)
+- **Joint-Defense-Agreement-Template**
+- **Privilege-Matrix** (Dokument × deutsches Recht × US-Recht)
+- **Behörden-Kommunikations-Protokoll** (One-Voice)
+- **DSGVO-/US-Discovery-Konfliktanalyse**
+
+Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.

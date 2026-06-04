@@ -1,30 +1,84 @@
 ---
 name: inv-042-works-council-conflict
-description: "Spezialskill fuer Works Council Conflict: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie."
+description: "Löst Konflikte mit dem Betriebsrat während einer Internal Investigation – Mitbestimmungsstreit, Einigungsstelle, einstweiliger Rechtsschutz."
 ---
 
-# Internal Investigation: Works Council Conflict
+# Betriebsrats-Konflikte in Internal Investigations
 
+## Rechtlicher Rahmen
 
-## Ziel
+Betriebsräte können eine Internal Investigation erheblich blockieren oder verlangsamen, wenn sie Mitbestimmungsrechte geltend machen. Gleichzeitig ist der Betriebsrat ein wichtiger Partner, dessen Einbindung die Verwertbarkeit von Untersuchungsergebnissen sichert. Konflikte entstehen regelmäßig bei: (1) Streit über Mitbestimmungspflicht bei technischen Überwachungsmaßnahmen (§ 87 Abs. 1 Nr. 6 BetrVG, [gesetze-im-internet.de](https://www.gesetze-im-internet.de/betrvg/__87.html)), (2) Verweigerung der Zustimmung zu Versetzungen oder Kündigungen, (3) Zugang des Betriebsrats zu Untersuchungsergebnissen.
 
-Dieser Skill führt nicht schematisch durch Works Council Conflict, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.
+## Ziel dieses Skills
+
+Dieser Skill löst konkrete Betriebsrats-Konflikte und sichert die Fortführung der Untersuchung ohne unnötige Verzögerungen.
 
 ## Arbeitsprogramm
 
-- Sachverhalt und Risiko bei Works Council Conflict präzise eingrenzen.
-- Beweissicherung und Zugriffsschutz getrennt planen.
-- Bericht, Behördenstrategie und arbeitsrechtliche Folgen sauber entkoppeln.
+### 1. Streit über Mitbestimmungspflicht bei IT-Überwachungsmaßnahmen
+- § 87 Abs. 1 Nr. 6 BetrVG: Mitbestimmung bei technischen Einrichtungen, die Verhalten oder Leistung überwachen.
+- Streitfrage: Ist die forensische Auswertung bestehender Daten (ohne neue Überwachungsanlage) mitbestimmungspflichtig?
+- BAG-Rechtsprechung: einmalige, anlassbezogene Auswertung ist regelmäßig nicht mitbestimmungspflichtig; fortlaufende Überwachung schon.
+- Wenn Betriebsrat Zustimmung verweigert: Einigungsstelle (§ 76 BetrVG, [gesetze-im-internet.de](https://www.gesetze-im-internet.de/betrvg/__76.html)) oder einstweiliger Rechtsschutz beim Arbeitsgericht.
+
+### 2. Zugangsanspruch des Betriebsrats
+- § 80 Abs. 2 BetrVG: Unterrichtungsrecht des Betriebsrats über Angelegenheiten, die die Arbeitnehmer betreffen.
+- Grenzen: keine Offenlegung von Anwaltsgeheimnissen, keine Offenbarung von personenbezogenen Daten unbeteiligter Arbeitnehmer.
+- Betriebsrat hat kein Recht auf vollständigen Untersuchungsbericht.
+- Praxis: Information über den Sachverhalt in allgemeiner Form; keine Detailprotokolle.
+
+### 3. Zustimmungsverweigerung bei Kündigung (§ 102 BetrVG)
+- § 102 Abs. 3 BetrVG: Betriebsrat kann Widerspruch gegen Kündigung einlegen; begründeter Widerspruch ermöglicht Weiterbeschäftigung bis zum ArbG-Urteil.
+- Strategische Reaktion: Antizipieren der Widerspruchsgründe und in der Anhörungsmitteilung entkräften.
+- Klage auf Zustimmungsersetzung: nicht möglich; aber Kündigungsschutzklage des Arbeitnehmers ist der eigentliche Prüfstein.
+
+### 4. Einigungsstelle
+- § 76 BetrVG: Einigungsstelle als Schlichter bei Meinungsverschiedenheiten zwischen Arbeitgeber und Betriebsrat.
+- Einsetzung: auf Antrag durch Arbeitsgericht (§ 76 Abs. 2 BetrVG).
+- Einigungsstellenspruch ist für beide Parteien bindend (bei erzwingbarer Mitbestimmung).
+- Zeitdauer: Einigungsstellenverfahren kann Monate dauern; Untersuchung sollte nicht blockiert werden.
+
+### 5. Einstweiliger Rechtsschutz
+- Arbeitgeber kann bei dringendem Bedarf Eilantrag beim Arbeitsgericht stellen.
+- Voraussetzung: dringendes betriebliches Bedürfnis überwiegt Mitbestimmungsrecht (§ 100 Abs. 1 BetrVG für Versetzungen).
+- § 87 BetrVG: einstweilige Verfügung auf vorläufige Zustimmungsersetzung in Ausnahmefällen.
+
+### 6. Betriebsrat als Interessenkollision
+- Wenn Betriebsratsmitglied selbst Beschuldigter ist: § 103 BetrVG (Zustimmung zur Kündigung, [gesetze-im-internet.de](https://www.gesetze-im-internet.de/betrvg/__103.html)).
+- Betriebsrat muss sich von eigenen Mitgliedern, die Beschuldigte sind, distanzieren und darf sich nicht schützend vor sie stellen.
+- Strafbarkeit: Betriebsratsmitglied, das Untersuchung aktiv behindert, kann sich nach § 274 StGB (Beweisunterdrückung) oder § 258 StGB (Strafvereitelung) strafbar machen.
+
+### 7. Konstruktive Kooperationsstrategie
+- Betriebsrat frühzeitig in allgemeiner Form informieren, bevor er von dritter Seite erfährt.
+- Regelmäßige, kontrollierte Updates; kein Informationsvakuum.
+- Betriebsvereinbarung über Untersuchungsprozesse als langfristige Lösung.
+- Betriebsrat als Partner in der Remediation-Phase einbinden.
 
 ## Red-Team-Fragen
 
-- Ist der Untersuchungsauftrag eng genug, oder wird ein unnötiger Beweisordner für Behörde, Gegner oder US-Discovery gebaut?
-- Wer ist Mandant, wer Berichtsadressat, wer potenziell betroffen, und kollidiert das mit Privilege, Berufsrecht oder Organpflichten?
-- Welche Daten müssen gesichert werden, welche dürfen gerade nicht breit kopiert werden, und wo greift Datenminimierung?
-- Sind Interviewrolle, arbeitsrechtliche Mitwirkungspflicht, Schweigerecht, Betriebsrat und Protokollstandard vor Beginn geklärt?
-- Welche Version des Berichts kann beschlagnahmt, herausverlangt, geleakt oder in einem Parallelverfahren gegen die Gesellschaft verwendet werden?
+- Ist die Mitbestimmungspflicht für alle Untersuchungsmaßnahmen korrekt eingeschätzt worden?
+- Hat der Betriebsrat tatsächlich Zugang zu Unterlagen erhalten, der über sein gesetzliches Recht nach § 80 BetrVG hinausgeht?
+- Wurde die Betriebsratsanhörung nach § 102 BetrVG für alle geplanten Kündigungen korrekt durchgeführt?
+- Blockiert der Betriebsrat die Untersuchung aus legitimen Gründen oder aus verfahrensfremden Motiven?
+- Gibt es ein Betriebsratsmitglied unter den Beschuldigten, und sind die Verfahrensrechte nach § 103 BetrVG beachtet?
+- Wurde eine konstruktive Einbindungsstrategie entwickelt, die den Betriebsrat zum Partner macht?
 
-## Ausgabe
+## Normenregister
 
-Erzeuge Investigation Workplan, Interviewfragen, Risikoampel und Board-taugliche Empfehlung. Nenne Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle live vorliegen; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+| Norm | Inhalt | Quelle |
+|---|---|---|
+| § 87 BetrVG | Mitbestimmung Überwachung | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/betrvg/__87.html) |
+| § 80 BetrVG | Überwachungsrecht | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/betrvg/__80.html) |
+| § 102 BetrVG | Anhörung vor Kündigung | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/betrvg/__102.html) |
+| § 103 BetrVG | Kündigung Betriebsratsmitglied | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/betrvg/__103.html) |
+| § 76 BetrVG | Einigungsstelle | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/betrvg/__76.html) |
 
+## Ausgabeformate
+
+- **Mitbestimmungs-Prüfmatrix** (Maßnahme × § 87 BetrVG × Streitfrage)
+- **Informationsschreiben** an Betriebsrat (kontrollierte Zusammenfassung)
+- **Betriebsratsanhörung** nach § 102 BetrVG
+- **Einigungsstellen-Antrag** (Musterstruktur)
+- **Kooperationsstrategie-Memo** für konstruktive Einbindung
+
+Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.

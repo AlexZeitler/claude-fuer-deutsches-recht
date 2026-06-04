@@ -1,30 +1,85 @@
 ---
 name: inv-024-audit-committee
-description: "Spezialskill fuer Audit Committee: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie."
+description: "Definiert Rolle und Pflichten des Audit Committee bei Internal Investigations – § 107 AktG, Berichtspflichten, Unabhängigkeit."
 ---
 
-# Internal Investigation: Audit Committee
+# Audit Committee in Internal Investigations
 
+## Rechtlicher Rahmen
 
-## Ziel
+Das Audit Committee (Prüfungsausschuss) des Aufsichtsrats spielt in Internal Investigations eine zentrale Rolle. § 107 Abs. 3 S. 2 AktG ([gesetze-im-internet.de](https://www.gesetze-im-internet.de/aktg/__107.html)) weist dem Prüfungsausschuss die Überwachung der Rechnungslegung, des internen Kontrollsystems, des Risikomanagementsystems, des internen Revisionssystems sowie der Abschlussprüfung zu. Bei kapitalmarktorientierten Unternehmen gelten die EU-Abschlussprüfungsverordnung (VO (EU) Nr. 537/2014, [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32014R0537)) und das AReG. Das Audit Committee ist häufig der erste Empfänger von Compliance-Meldungen und muss entscheiden, ob eine Internal Investigation einzuleiten ist.
 
-Dieser Skill führt nicht schematisch durch Audit Committee, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.
+## Ziel dieses Skills
+
+Dieser Skill klärt die Pflichten und Befugnisse des Audit Committee bei Internal Investigations und stellt sicher, dass es seine Aufgaben ordnungsgemäß wahrnimmt.
 
 ## Arbeitsprogramm
 
-- Sachverhalt und Risiko bei Audit Committee präzise eingrenzen.
-- Beweissicherung und Zugriffsschutz getrennt planen.
-- Bericht, Behördenstrategie und arbeitsrechtliche Folgen sauber entkoppeln.
+### 1. Aufgaben des Audit Committee
+- Überwachung der Rechnungslegung und Abschlussprüfung (§ 107 Abs. 3 AktG).
+- Überwachung des Compliance-Management-Systems (CMS) und des internen Kontrollsystems (IKS).
+- Empfang von Hinweisen aus dem Hinweisgebersystem (HinSchG § 13).
+- Entscheidung über Einleitung einer Internal Investigation oder Delegation an Special Committee.
+
+### 2. Wann wird das Audit Committee aktiv?
+- Whistleblower-Meldung enthält Vorwürfe gegen Vorstandsmitglied.
+- Abschlussprüfer meldet Unregelmäßigkeiten nach § 321 HGB ([gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__321.html)).
+- Interne Revision findet Indizien für Unregelmäßigkeiten.
+- BaFin oder andere Regulatoren nehmen Kontakt auf.
+- Medienberichte oder Whistleblower-Hinweis aus der Öffentlichkeit.
+
+### 3. Direktmandat des Prüfungsausschusses
+- Prüfungsausschuss kann externen Anwalt direkt beauftragen, ohne dass der Vorstand involviert ist.
+- Besonders wichtig, wenn der Vorstand selbst Gegenstand der Untersuchung ist.
+- § 111 Abs. 2 AktG: Aufsichtsrat darf die Bücher und Schriften der Gesellschaft einsehen ([gesetze-im-internet.de](https://www.gesetze-im-internet.de/aktg/__111.html)).
+- Kosten der Untersuchung: trägt die Gesellschaft (§ 113 AktG).
+
+### 4. Zusammenarbeit mit dem Abschlussprüfer
+- Abschlussprüfer hat nach § 321 HGB besondere Berichtspflicht bei Unregelmäßigkeiten.
+- Prüfungsausschuss kann Abschlussprüfer zu verstärkter Prüfung bestimmter Bereiche beauftragen.
+- Unabhängigkeit des Abschlussprüfers: keine Übertragung von Untersuchungsaufgaben an Abschlussprüfer (Unabhängigkeitsproblem nach VO (EU) Nr. 537/2014).
+- Trennung von Prüfungs- und Beratungsleistungen beachten.
+
+### 5. Berichtspflichten des Audit Committee an den Gesamtaufsichtsrat
+- § 107 Abs. 3 S. 4 AktG: Ausschussvorsitzender berichtet dem Aufsichtsrat über die Tätigkeit des Ausschusses.
+- Regelmäßige Berichte in Aufsichtsratssitzungen.
+- Wesentliche Untersuchungsergebnisse: sofortige Berichtspflicht (Ad-hoc-Pflicht).
+
+### 6. Haftungsrisiken des Audit Committee
+- § 116 AktG i. V. m. § 93 AktG: Aufsichtsratsmitglieder haften wie Vorstandsmitglieder bei schuldhafter Pflichtverletzung.
+- Pflicht zur Einleitung einer Untersuchung bei konkretem Verdacht (BGH II ZR 234/09, [openjur.de](https://openjur.de/o/577696.html)).
+- Untätigkeit trotz Kenntnis von Unregelmäßigkeiten: Haftungsrisiko.
+
+### 7. Besondere Situation: Audit Committee vs. Vorstand
+- Wenn Vorstandsmitglied Gegenstand der Untersuchung: Audit Committee hat Leitungsfunktion, nicht der Vorstand.
+- Informationsfluss kontrollieren: Vorstand erhält nur das, was für laufende Geschäftsführung notwendig ist.
+- Anwaltliche Kommunikation direkt an Prüfungsausschuss, nicht über Vorstand leiten.
 
 ## Red-Team-Fragen
 
-- Ist der Untersuchungsauftrag eng genug, oder wird ein unnötiger Beweisordner für Behörde, Gegner oder US-Discovery gebaut?
-- Wer ist Mandant, wer Berichtsadressat, wer potenziell betroffen, und kollidiert das mit Privilege, Berufsrecht oder Organpflichten?
-- Welche Daten müssen gesichert werden, welche dürfen gerade nicht breit kopiert werden, und wo greift Datenminimierung?
-- Sind Interviewrolle, arbeitsrechtliche Mitwirkungspflicht, Schweigerecht, Betriebsrat und Protokollstandard vor Beginn geklärt?
-- Welche Version des Berichts kann beschlagnahmt, herausverlangt, geleakt oder in einem Parallelverfahren gegen die Gesellschaft verwendet werden?
+- Hat das Audit Committee ein Direktmandat für den externen Anwalt erteilt, ohne Einbindung des betroffenen Vorstands?
+- Wurde der Abschlussprüfer über die laufende Untersuchung informiert – und wenn nein, warum nicht?
+- Sind alle Mitglieder des Audit Committee tatsächlich unabhängig (keine Verbindungen zu Beschuldigten)?
+- Wurde dem Gesamtaufsichtsrat rechtzeitig über wesentliche Untersuchungsergebnisse berichtet?
+- Trägt das Audit Committee selbst ein Haftungsrisiko für Untätigkeit?
+- Wurde die Abgrenzung zwischen Audit Committee und Special Committee klar dokumentiert?
 
-## Ausgabe
+## Normenregister
 
-Erzeuge Investigation Workplan, Interviewfragen, Risikoampel und Board-taugliche Empfehlung. Nenne Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle live vorliegen; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+| Norm | Inhalt | Quelle |
+|---|---|---|
+| § 107 AktG | Ausschüsse des Aufsichtsrats | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/aktg/__107.html) |
+| § 111 AktG | Aufgaben Aufsichtsrat | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/aktg/__111.html) |
+| § 116 AktG | Haftung Aufsichtsratsmitglieder | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/aktg/__116.html) |
+| § 321 HGB | Berichtspflicht Abschlussprüfer | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__321.html) |
+| BGH II ZR 234/09 | Siemens/Neubürger | [openjur.de](https://openjur.de/o/577696.html) |
 
+## Ausgabeformate
+
+- **Audit-Committee-Beschlussvorlage** (Einleitung einer Untersuchung)
+- **Direktmandatierungsschreiben** für externen Anwalt
+- **Berichterstattungsschema** an Gesamtaufsichtsrat
+- **Haftungsrisikoanalyse** für Audit-Committee-Mitglieder
+- **Checkliste** Zusammenarbeit mit Abschlussprüfer
+
+Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
