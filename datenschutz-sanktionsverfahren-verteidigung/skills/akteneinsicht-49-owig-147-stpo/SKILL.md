@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-49-owig-147-stpo
-description: "Akteneinsicht § 49 OWiG und § 147 StPO: Behördenakte, Beschwerden, technische Anlagen, Bemessungsunterlagen und interne Vermerke auswerten. Spezialskill für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz."
+description: "Akteneinsicht § 49 OWiG und § 147 StPO: Behördenakte, Beschwerden, technische Anlagen, Bemessungsunterlagen und interne Vermerke auswerten. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen."
 ---
 
 # Akteneinsicht § 49 OWiG und § 147 StPO
@@ -9,7 +9,7 @@ description: "Akteneinsicht § 49 OWiG und § 147 StPO: Behördenakte, Beschwerd
 
 Behördenakte, Beschwerden, technische Anlagen, Bemessungsunterlagen und interne Vermerke auswerten.
 
-Dieser Skill arbeitet im Spezialplugin `datenschutz-sanktionsverfahren-verteidigung`. Er darf nicht austauschbar antworten: immer zuerst Verfahrensstand, Behörde, Frist, Rechtsweg, Beweisstand und gewünschtes Arbeitsprodukt klären.
+Dieser Skill arbeitet als präzises Werkzeug für das datenschutzrechtliche Sanktionsverfahren. Er trennt Aufsichtsverfahren, Bußgeldverfahren und Verwaltungsrechtsweg, prüft DSGVO Art. 58/83, BDSG § 41, OWiG und die über § 46 OWiG einbezogene StPO und klärt zuerst Verfahrensstand, Behörde, Zustellung, Frist, Beweisstand und gewünschtes Arbeitsprodukt.
 
 ## Kaltstart-Fragen
 

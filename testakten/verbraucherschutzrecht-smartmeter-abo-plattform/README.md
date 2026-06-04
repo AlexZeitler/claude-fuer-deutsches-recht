@@ -28,6 +28,9 @@ Verbraucherakte SmartMeter-Abo: Widerruf, digitale Elemente, Preisänderung, Ink
 | `05-dashboard.xlsx` | Tracker-/Dashboard-Tabelle |
 | `06-bildanlage-lagekarte.jpg` | Bildanlage/Lagekarte als JPG |
 | `07-entwurf-naechster-schritt.md` | Entwurf für Antrag, Widerspruch, Klagebaustein oder Strategie |
+| `08-langgutachten-und-sachentscheidung.md` | Volltextgutachten mit Sachentscheidung, Normprogramm und Risikopunkten |
+| `09-ausformuliertes-aussenschreiben.md` | Ausformuliertes Schreiben an Behörde, Verband, Gegner oder Anspruchsgegner |
+| `10-interne-entscheidungsvorlage.md` | Interne Vorlage mit Entscheidungsvorschlag, Red-Team-Fragen und nächsten Schritten |
 
 ## Passende Plugins
 

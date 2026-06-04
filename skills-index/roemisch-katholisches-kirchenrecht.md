@@ -1,10 +1,12 @@
 # roemisch-katholisches-kirchenrecht
 
-**100 Skills** · Stand `v71.2.2`
+**1852 Skills** · Stand `v71.3.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/roemisch-katholisches-kirchenrecht/README.md)
 - [Alle Skills als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisch-katholisches-kirchenrecht.zip) (komplettes Plugin)
+
+> Zusätzlich zu den thematischen Skills enthält dieses Plugin den Canon-Navigator `cic-can-0001` bis `cic-can-1752`; die einzelnen Dateien liegen im Pluginordner `skills/`.
 
 ## So benutzt man einen Skill
 

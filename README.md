@@ -20,8 +20,6 @@ Die Skills sind inzwischen deutlich verbessert und in verschiedenen Konstellatio
 
 Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im konkreten Mandat oder Unternehmen – insbesondere nicht zu §§ 203, 204 StGB, § 43e BRAO, § 2 BORA, § 53, § 97, § 160a StPO, DSGVO / BDSG (inkl. Drittlandtransfer), US-Cloud-Act / FISA, der KI-VO (VO (EU) 2024/1689) oder sonstigen berufsrechtlichen, datenschutzrechtlichen und regulatorischen Vorgaben. Ob und wie ihr diese Beispiele produktiv nutzen dürft, müsst ihr **eigenverantwortlich** prüfen und in eure bestehende Governance (Mandatsgeheimnis, AVV, TOMs, KI-Richtlinien, Betriebsvereinbarungen etc.) integrieren.
 
-> 🧪 **Übrigens — es gibt auch sehr schöne Testakten.** Im Verzeichnis [`testakten/`](./testakten) liegen mehrere umfangreiche, anonymisierte Arbeitsakten mit echten PDFs, Excel-Tabellen, Word-Entwürfen und handschriftlichen Notizen — bewusst unstrukturiert benannt wie ein realer Datenraum, damit sich die Plugins an echten Mandaten ausprobieren lassen. Details und Direkt-Downloads im [Testakten-README](./testakten/README.md).
-
 ## Überblick
 
 | Kennzahl | Wert |
@@ -40,6 +38,23 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 | **Alle Plugins als MegaZIP** | [alle-plugins-megazip.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) | Alle installierbaren Plugin-ZIPs plus `marketplace.json` in einem Archiv. |
 | **Alle Testakten als ZIP** | [alle-testakten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) | Alle Testaktenordner in Originalstruktur mit PDF, DOCX, XLSX, JPEG, EML, Markdown und jeweiligem Gesamt-PDF. |
 | **Alles komplett als ZIP** | [alles-komplettpaket.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) | Alle Plugin-ZIPs, alle Testakten-ZIPs, Marketplace-Manifest und Übersichtsdateien in einem Archiv. |
+
+> 🧪 **Übrigens — es gibt auch sehr schöne Testakten.** Im Verzeichnis [`testakten/`](./testakten) liegen mehrere umfangreiche, anonymisierte Arbeitsakten mit echten PDFs, Excel-Tabellen, Word-Entwürfen und handschriftlichen Notizen — bewusst unstrukturiert benannt wie ein realer Datenraum, damit sich die Plugins an echten Mandaten ausprobieren lassen. Details und Direkt-Downloads im [Testakten-README](./testakten/README.md).
+
+
+### Neu in v71
+
+- [`roemisch-katholisches-kirchenrecht`](./roemisch-katholisches-kirchenrecht) — Römisch-katholisches Kirchenrecht nach CIC und Katechismus: Sakramente, Ehe, Kirchenaustritt, Verfahren, Disziplin, Pfarrei/Diözese/Kurie und mehrsprachige papsttreue Kommunikation.
+- [`notariat-alltag`](./notariat-alltag) — Notariatsalltag, Beurkundung, Register, Grundbuch, Vollzug, Kosten, Geldwäsche und gestresste Sachbearbeitung.
+- [`weltraumrecht`](./weltraumrecht) — deutsches, europäisches und internationales Weltraumrecht mit Satelliten, Startplätzen, Haftung, Raumstationen, Frequenzen und Space Property.
+- [`krankenkassenrecht-krankenversicherung`](./krankenkassenrecht-krankenversicherung) — GKV, PKV, Beihilfe, Krankengeld, Hilfsmittel, MD, Widerspruch und Sozialgericht.
+- [`datenbankrecht`](./datenbankrecht) — Datenbankherstellerrecht, Datenbankrichtlinie, Scraping, API, KI-Training, Lizenz und Beweissicherung.
+- [`verlagsrecht-buchpreisbindung`](./verlagsrecht-buchpreisbindung) — Verlagsgesetz, Buchpreisbindung, Autorenverträge, E-Book, Hörbuch, Vertrieb und VG-Wort-Nähe.
+- [`influencer-recht`](./influencer-recht) — Werbekennzeichnung, Sachleistungen, Steuer, Plattformrecht, Musik, Persönlichkeitsrechte und Creator-Verträge.
+- [`leasingrecht-praxis`](./leasingrecht-praxis) — Leasing, Sale-and-lease-back, Restwert, Rückgabe, Refinanzierung und Insolvenz.
+- [`insiderrecht-compliance`](./insiderrecht-compliance) — Insiderinformation, Ad-hoc-Publizität, Aufschub, Insiderlisten, Directors' Dealings, Leaks und BaFin-Kommunikation.
+- [`internal-investigations-praxis`](./internal-investigations-praxis) — interne Untersuchungen zwischen Compliance, Arbeitsrecht, Datenschutz, Strafverfahren, Beschlagnahme, Privilege und US-Discovery.
+- [`franchiserecht-praxis`](./franchiserecht-praxis) — Franchise-Aufklärung, Systemhandbuch, Gebietsschutz, Kartellrecht, Marke, Kündigung und Exit.
 
 ### Inhaltliche Cluster
 
@@ -366,6 +381,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`us-copyright-registrierung-verlag`](./us-copyright-registrierung-verlag) | US Copyright Act fuer deutsche Verlage und Rechteinhaber: Title 17, Registrierung, Rechte, Fair Use, DMCA, Musik, AI, Litigation und Deals. |
 | [`venture-capital-geber`](./venture-capital-geber) | VC-Geber-Plugin für deutsche Venture-Capital-Investoren, Family Offices, Angels und junge VCs: Sourcing, Deal-Tracking, Wandeldarlehen, SAFE, Pre-Seed, Series A/B, Cap Table, Follow-on, Portfolio-Updates, KAGB/BaFin-Grenzen, EU/CH/UK/US-Brücken und legitime Deal-Taktik. |
 | [`verbraucher-rechtsstaat-alltag`](./verbraucher-rechtsstaat-alltag) | Kleines, hilfreiches Plugin für Verbraucher: E-Commerce, Kaufrecht, Reparaturen, kleine Dienstleistungen, Rechnungen, Inkasso, Plattformen, Behördenbriefe und Gerichtspost verständlich einordnen und vorsichtig reagieren. |
+| [`verbraucherinsolvenz-schuldenbereinigung`](./verbraucherinsolvenz-schuldenbereinigung) | Verbraucherinsolvenz und Schuldenbereinigung nach InsO: außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, Antrag, Restschuldbefreiung, P-Konto, ehemalige Selbstständige und lebensnahe Verfahrensführung. |
 | [`verbraucherschutzrecht-pruefer`](./verbraucherschutzrecht-pruefer) | Großer Verbraucherschutz-Prüfer für BGB, EGBGB, UWG, UKlaG, VSBG, E-Commerce, digitale Produkte, Reise, Finanzen, Energie, Gesundheit und Alltag. |
 | [`verbraucherschutzverband-durchsetzung`](./verbraucherschutzverband-durchsetzung) | Plugin für Verbraucherverbände: VDuG, UKlaG, UWG, Abhilfeklage, Musterfeststellung, Unterlassung, Register, Finanzierung, Vergleich und Kampagnenakte. |
 | [`vereinsrecht-vereinsmanager`](./vereinsrecht-vereinsmanager) | Vereinsrechts- und Vereinsmanagement-Plugin für eingetragene und nicht eingetragene Vereine: Gründung, Satzung, Mitgliederversammlung, Vorstand, Protokolle, Beschlüsse, Gemeinnützigkeit, Register, Haftung, Datenschutz, Finanzen, Veranstaltungen und Spezialvereine. |

@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-checkliste-vor-absenden
-description: "Laienverstaendlicher Sozialrechts-Skill zu Checkliste Vor Absenden. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung."
+description: "Laienverstaendlicher Sozialrechts-Skill zu Checkliste Vor Absenden. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung."
 ---
 
 # Laienhilfe: Checkliste Vor Absenden

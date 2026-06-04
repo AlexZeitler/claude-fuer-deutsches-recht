@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-krankengeld-ablauf
-description: "Laienverstaendlicher Sozialrechts-Skill zu Krankengeld Ablauf. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung."
+description: "Laienverstaendlicher Sozialrechts-Skill zu Krankengeld Ablauf. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung."
 ---
 
 # Laienhilfe: Krankengeld Ablauf
@@ -57,7 +57,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Beginn Krankengeld § 46 SGB V:**
   - Bei Krankenhausaufenthalt: ab Aufnahme.
   - Bei AU: ab Tag nach Feststellung AU (Achtung Aenderung seit 2020 - rueckwirkender Tag möglich); seit 2023 elektronische AU (eAU).
-  - **Lueckenlose Krankschreibung** zwingend - **Verlust Krankengeldanspruch** bei Lueckentag (BSG-Linie staendige Rspr.; bei Aerztewechsel insbesondere kritisch).
+  - **Lueckenlose Krankschreibung** zwingend - **Verlust Krankengeldanspruch** bei Lueckentag (BSG-Linie staendige Rspr; bei Aerztewechsel insbesondere kritisch).
   - **Lueckenfueller-Frist:** AU-Folgebescheinigung muss spaetestens am Werktag nach Ende der vorherigen AU erfolgen.
 - **Hoehe Krankengeld § 47 SGB V:**
   - 70 % des Bruttoarbeitsentgelts, max. 90 % des Nettoarbeitsentgelts.

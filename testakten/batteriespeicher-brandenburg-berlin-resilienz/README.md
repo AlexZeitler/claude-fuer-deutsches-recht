@@ -38,6 +38,7 @@ Passt zu `energierecht`, `bundesnetzagentur-verfahren`, `umweltrecht`, `verkehr-
 | `12-kosten-und-zeitplan.csv` | Zahlenmodell grob |
 | `13-risikoregister.csv` | Risikoampel |
 | `14-technikblatt-hersteller-widersprueche.md` | Herstellerangaben, Degradation, Temperatur, Garantien |
+| `15-vollgutachten-batteriespeicher-genehmigung-netz-und-schutz.md` | Ausformuliertes Vollgutachten mit Normprogramm, Subsumtion, Beweisstrategie und nächstem Schritt |
 | `15-gemeinderatsvorlage.md` | kommunale Beschlussvorlage mit politischer Überhöhung |
 | `16-feuerwehr-workshop-protokoll.md` | Einsatz-, Löschwasser- und Havariefragen |
 | `17-bank-term-sheet-redlines.md` | Bank-Term-Sheet mit CPs und Sicherheitsauflagen |

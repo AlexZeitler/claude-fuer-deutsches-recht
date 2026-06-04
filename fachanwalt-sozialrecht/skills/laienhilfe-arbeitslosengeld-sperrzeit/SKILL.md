@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-arbeitslosengeld-sperrzeit
-description: "Laienverstaendlicher Sozialrechts-Skill zu Arbeitslosengeld Sperrzeit. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung."
+description: "Laienverstaendlicher Sozialrechts-Skill zu Arbeitslosengeld Sperrzeit. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung."
 ---
 
 # Laienhilfe: Arbeitslosengeld Sperrzeit

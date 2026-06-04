@@ -30,6 +30,20 @@ Es soll nicht relativieren oder bloß soziologisch kommentieren, sondern klären
 - Sakramente, Ehe- und Statusfragen, Kirchenaustritt, Wiederaufnahme, Kirchensteuerfolgen, Disziplinar- und Strafrecht, Verwaltungsrekurs, Vermögensverwaltung, Schulen, Orden, Vereine und Verbände.
 - Mehrsprachige Arbeit in **Deutsch, Englisch, Spanisch, Italienisch, Arabisch, Latein und Portugiesisch** mit sauberer Trennung zwischen Übersetzung, kirchenrechtlicher Prüfung und pastoraler Ansprache.
 
+## Mehrsprachiger Schnellstart
+
+| Sprache | Arbeitsauftrag |
+| --- | --- |
+| Deutsch | Bitte zuerst Rolle, Sprache, Sakrament/Status/Verfahren, zuständige Stelle und vorhandene Urkunden klären. Danach CIC, Katechismus, Partikularrecht und staatliches Recht getrennt prüfen und in einer kirchentreuen, pastoralen Antwort zusammenführen. |
+| English | Start by identifying the role, language, sacramental/status/procedural issue, competent ecclesial authority and available documents. Then separate canon law, catechetical doctrine, particular law and civil law before drafting a loyal, pastoral Catholic answer. |
+| Español | Comenzar con la función de la persona, el idioma, la cuestión sacramental, de estado o de procedimiento, la autoridad competente y los documentos disponibles. Después distinguir derecho canónico, catecismo, derecho particular y derecho civil. |
+| Português | Começar pela função da pessoa, língua, questão sacramental, estatuto, procedimento, autoridade competente e documentos. Em seguida separar CIC, catecismo, direito particular e direito estatal, sem perder o tom pastoral católico. |
+| Français | Commencer par le rôle, la langue, la question sacramentelle, statutaire ou procédurale, l'autorité ecclésiale compétente et les pièces disponibles. Distinguer ensuite droit canonique, catéchisme, droit particulier et droit civil. |
+| Italiano | Iniziare da ruolo, lingua, sacramento/status/procedura, autorità competente e documenti disponibili. Poi distinguere CIC, Catechismo, diritto particolare e diritto statale, con risposta fedele al Magistero e pastoralmente prudente. |
+| العربية | ابدأ بتحديد صفة السائل، اللغة المطلوبة، المسألة الكنسية أو الأسرارية أو الإجرائية، الجهة المختصة، والوثائق الموجودة. بعد ذلك افصل بين القانون الكنسي، والتعليم الكاثوليكي، والقانون الخاص المحلي، والقانون المدني. |
+| Latine | Primo persona, lingua, status sacramentalis vel processualis, auctoritas competens et documenta cognoscantur. Deinde Codex Iuris Canonici, Catechismus, ius particulare et ius civile distincte examinentur. |
+| 简体中文 | 先确认提问者身份、所需语言、圣事/身份/程序问题、教会主管机关以及现有文件；再分别核对《天主教法典》、教理、本地特别法和国家法律，并形成忠于教会训导且适合牧灵沟通的答复。 |
+
 ## Haltung und Arbeitsweise
 
 Das Plugin ist maximal kirchentreu angelegt. Es prüft im Zweifel nach Norm, Lehramt, Sakramentenordnung, Zuständigkeit und pastoraler Verantwortung. Gleichzeitig arbeitet es nüchtern: Es unterscheidet Dogma, Disziplin, Partikularrecht, staatliches Recht, pastorale Klugheit und Beweisstand. Bei schweren Status-, Straf-, Ehe- oder Sakramentenfragen wird an Ordinariat, Offizialat, Diözesanbischof oder zuständige römische Stelle geroutet.
@@ -40,6 +54,10 @@ Das Plugin ist maximal kirchentreu angelegt. Es prüft im Zweifel nach Norm, Leh
 - Katechismus der Katholischen Kirche und Kompendium in den vom Heiligen Stuhl bereitgestellten Sprachfassungen.
 - Reformen und Sondernormen, insbesondere reformiertes Buch VI seit 2021, Kurienordnung seit 2022, Schutz- und Meldenormen sowie diözesanes Partikularrecht.
 - Für Deutschland: staatlicher Kirchenaustritt, Kirchensteuer und innerkirchlicher Status getrennt prüfen.
+
+## CIC-Canon-Navigator
+
+Zusätzlich zu den thematischen Fachskills enthält das Plugin jetzt einen direkten Navigator für **can. 1 bis can. 1752 CIC**. Die Skills `cic-can-0001` bis `cic-can-1752` sind bewusst als Normkarten angelegt: amtlichen Canon-Text live prüfen, Buch/Systemstelle bestimmen, Tatbestand, Rechtsfolge, Zuständigkeit, Partikularrecht, Katechismusbezug und pastorale Ausgabe trennen. Sie ersetzen keine kanonistische Verantwortung, machen aber jede Vorschrift unmittelbar ansteuerbar.
 
 ## Kaltstart
 

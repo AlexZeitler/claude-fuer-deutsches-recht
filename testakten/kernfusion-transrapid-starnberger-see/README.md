@@ -38,4 +38,5 @@ Passt zu `energierecht`, `verkehr-infrastrukturrecht`, `umweltrecht`, `bundesnet
 | `12-sicherheitsbeirat-protokoll.md` | technischer Sicherheitsbeirat |
 | `13-ip-foerdermittel-matrix.md` | IP-/Fördermittelmatrix |
 | `14-buergerbrief-entwurf.md` | Bürgerbrief mit juristischer Korrektur |
+| `15-vollgutachten-planung-sicherheit-und-energieanbindung.md` | Ausformuliertes Vollgutachten mit Normprogramm, Subsumtion, Beweisstrategie und nächstem Schritt |
 | `15-behoerdenfragen.md` | Fragenpaket für Behördenvorgespräch |

@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-kdu-miete-heizung
-description: "Laienverstaendlicher Sozialrechts-Skill zu Kdu Miete Heizung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung."
+description: "Laienverstaendlicher Sozialrechts-Skill zu Kdu Miete Heizung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung."
 ---
 
 # Laienhilfe: Kdu Miete Heizung

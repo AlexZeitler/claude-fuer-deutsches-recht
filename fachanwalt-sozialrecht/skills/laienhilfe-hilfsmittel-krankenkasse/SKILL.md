@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-hilfsmittel-krankenkasse
-description: "Laienverstaendlicher Sozialrechts-Skill zu Hilfsmittel Krankenkasse. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung."
+description: "Laienverstaendlicher Sozialrechts-Skill zu Hilfsmittel Krankenkasse. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung."
 ---
 
 # Laienhilfe: Hilfsmittel Krankenkasse

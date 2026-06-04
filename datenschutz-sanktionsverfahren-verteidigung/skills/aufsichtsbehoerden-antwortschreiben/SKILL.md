@@ -1,6 +1,6 @@
 ---
 name: aufsichtsbehoerden-antwortschreiben
-description: "Antwortschreiben an Aufsichtsbehörde: Behördenschreiben präzise, beweisgestützt, nicht überschießend und mit klaren Vorbehalten formulieren. Spezialskill für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz."
+description: "Antwortschreiben an Aufsichtsbehörde: Behördenschreiben präzise, beweisgestützt, nicht überschießend und mit klaren Vorbehalten formulieren. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen."
 ---
 
 # Antwortschreiben an Aufsichtsbehörde
@@ -9,7 +9,7 @@ description: "Antwortschreiben an Aufsichtsbehörde: Behördenschreiben präzise
 
 Behördenschreiben präzise, beweisgestützt, nicht überschießend und mit klaren Vorbehalten formulieren.
 
-Dieser Skill arbeitet im Spezialplugin `datenschutz-sanktionsverfahren-verteidigung`. Er darf nicht austauschbar antworten: immer zuerst Verfahrensstand, Behörde, Frist, Rechtsweg, Beweisstand und gewünschtes Arbeitsprodukt klären.
+Dieser Skill arbeitet als präzises Werkzeug für das datenschutzrechtliche Sanktionsverfahren. Er trennt Aufsichtsverfahren, Bußgeldverfahren und Verwaltungsrechtsweg, prüft DSGVO Art. 58/83, BDSG § 41, OWiG und die über § 46 OWiG einbezogene StPO und klärt zuerst Verfahrensstand, Behörde, Zustellung, Frist, Beweisstand und gewünschtes Arbeitsprodukt.
 
 ## Kaltstart-Fragen
 

@@ -38,6 +38,7 @@ Passt zu `private-equity-praxis`, `grosskanzlei-corporate-ma`, `corporate-kanzle
 | `12-risikoregister.csv` | Risikoampel |
 | `13-management-call-transkript.md` | Management-Call |
 | `14-lender-questions.md` | Fragen an Facility Agent/Zahlstelle |
+| `15-vollgutachten-buyout-finanzierung-und-npl-transfer.md` | Ausformuliertes Vollgutachten mit Normprogramm, Subsumtion, Beweisstrategie und nächstem Schritt |
 | `15-transfer-closing-checkliste.md` | Closing-Checkliste Schuldschein/LMA/NPL |
 | `16-portfolio-tape-analyse.md` | NPL Portfolio Tape Analyse |
 | `17-red-flag-report.md` | Red-Flag-Report |

@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-aussteuerung-nahtlosigkeit
-description: "Laienverstaendlicher Sozialrechts-Skill zu Aussteuerung Nahtlosigkeit. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung."
+description: "Laienverstaendlicher Sozialrechts-Skill zu Aussteuerung Nahtlosigkeit. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung."
 ---
 
 # Laienhilfe: Aussteuerung Nahtlosigkeit

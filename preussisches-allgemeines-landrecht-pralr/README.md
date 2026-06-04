@@ -46,6 +46,10 @@ Für die Arbeit am PrALR sollen Digitalisate offen benannt und gegeneinander gep
 
 Arbeitsregel: 1794-, 1804- und spätere Textzeugen dürfen nie blind gleichgesetzt werden. Der Normnavigator erzeugt für jede einzelne Fundstelle eine Normkarte mit Teil, Titel, Paragraph, Textzeuge, OCR-Risiko, möglicher Abweichung und heutiger Anschlussfrage. Das ersetzt nicht die Einzelprüfung, macht aber jede Norm praktisch auffindbar.
 
+## Normblock-Navigator
+
+Das PrALR umfasst eine enorme Zahl einzelner Vorschriften. Damit das Plugin im Alltag bedienbar bleibt, erschließen zusätzliche Normblock-Skills jeweils 100 Paragraphen. Innerhalb des Blocks ist aber jede Vorschrift einzeln zu prüfen: Teil/Titel/Paragraph, Textzeuge 1794 oder 1804, OCR-Risiko, historische Bedeutung, heutige Anschlussfrage und mögliche Abweichung zwischen den Fassungen. So entsteht praktisch ein Skill-Zugang zu jeder Vorschrift, ohne das README mit tausenden Einzeleinträgen unbenutzbar zu machen.
+
 ## Arbeitsweise
 
 1. Textzeuge und Ausgabejahr klären: Scan, OCR, PDF, 1794-Druck, spätere Ausgabe oder Sekundärhinweis.

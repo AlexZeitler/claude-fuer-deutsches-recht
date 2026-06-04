@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-erwerbsminderungsrente-antrag
-description: "Laienverstaendlicher Sozialrechts-Skill zu Erwerbsminderungsrente Antrag. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung."
+description: "Laienverstaendlicher Sozialrechts-Skill zu Erwerbsminderungsrente Antrag. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung."
 ---
 
 # Laienhilfe: Erwerbsminderungsrente Antrag

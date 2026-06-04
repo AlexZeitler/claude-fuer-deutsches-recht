@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-einkommen-vermoegen-sgbii
-description: "Laienverstaendlicher Sozialrechts-Skill zu Einkommen Vermoegen Sgbii. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung."
+description: "Laienverstaendlicher Sozialrechts-Skill zu Einkommen Vermoegen Sgbii. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung."
 ---
 
 # Laienhilfe: Einkommen Vermoegen Sgbii
