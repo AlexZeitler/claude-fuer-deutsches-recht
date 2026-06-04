@@ -1,53 +1,92 @@
 ---
-name: notariat-004-gmbh-gruendung-mit-musterprotokoll-oder-individuell
-description: "Notariat im Alltag: GmbH-Gründung mit Musterprotokoll oder individueller Satzung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-004-gmbh-gruendung-mit-musterprotokoll-oder
+description: "Notariat im Alltag: GmbH-Gründung – Musterprotokoll oder individuelle Satzung. Beurkundung, Handelsregisteranmeldung, Gesellschafterliste und Vollzug nach GmbHG § 2, inkl. Vor-GmbH-Phase, Stammkapitalaufbringung und Geschäftsführerbestellung."
 ---
 
-# Notariat im Alltag: GmbH-Gründung mit Musterprotokoll oder individueller Satzung
+# Notariat im Alltag: GmbH-Gründung – Musterprotokoll oder individuelle Satzung
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **GmbH-Gründung mit Musterprotokoll oder individueller Satzung** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Dieser Skill führt durch die notarielle GmbH-Gründung von der Wahl zwischen Musterprotokoll und individueller Satzung bis zur Handelsregisteranmeldung. Er klärt Formvoraussetzungen, Stammkapitalaufbringung, Geschäftsführerbestellung, GwG-Pflichten und Vollzugsfristen.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: § 2 GmbHG (notarielle Beurkundung), § 3 GmbHG (Mindestinhalt Satzung), §§ 5–5a GmbHG (Stammkapital, Unternehmergesellschaft), § 7 GmbHG (Anmeldung), § 8 GmbHG (Anmeldeinhalt), § 9c GmbHG (Prüfungspflicht Registergericht), § 40 GmbHG (Gesellschafterliste), § 12 HGB (Beglaubigung HR-Anmeldung), GwG §§ 10–11, GNotKG.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Musterprotokoll vs. individuelle Satzung
+
+| Merkmal | Musterprotokoll (§ 2 Abs. 1a GmbHG) | Individuelle Satzung |
+|---|---|---|
+| Gesellschafter | max. 3 natürliche Personen | unbeschränkt |
+| Geschäftsführer | max. 1 Person aus Gesellschafterkreis | beliebig |
+| Stammeinlage | nur Bareinlage | Bar- und Sacheinlage |
+| Reduzierte Kosten | Ja (1,0 Gebühr statt 2,0) | Nein |
+| Flexibilität | keine Abweichungen möglich | vollständig gestaltbar |
+| Wann sinnvoll | Einzel- oder Zwei-Personen-GmbH, Standardfall | komplexe Gesellschafterstruktur, Poolverträge, Sonderrechte |
+
+## Pflichtinhalt der Satzung (§ 3 GmbHG)
+
+- Firma und Sitz
+- Unternehmensgegenstand (hinreichend bestimmt, registergerichtliche Praxis beachten)
+- Stammkapital (mind. 25.000 € bei GmbH, 1 € bei UG)
+- Zahl und Nennbetrag der Geschäftsanteile jedes Gesellschafters
+
+## Vollzugskette
+
+1. **Beurkundung** – Gesellschaftsvertrag/Musterprotokoll (§ 2 GmbHG)
+2. **Gesellschafterliste** – sofort nach Beurkundung anfertigen (§ 40 Abs. 1 GmbHG)
+3. **Stammkapitalaufbringung** – Einzahlungsnachweis bei Bareinlage (§ 8 Abs. 2 GmbHG)
+4. **Geschäftsführer-Unterschriftsbeglaubigung** – für HR-Anmeldung (§ 12 HGB)
+5. **Handelsregisteranmeldung** – elektronisch via EGVP/XJustiz (§ 12 HGB, § 8 GmbHG)
+6. **Registereintragung** – Vor-GmbH endet, GmbH entsteht
+7. **GwG-Dokumentation** – wirtschaftlich Berechtigte, Transparenzregister-Meldung
+
+## Vor-GmbH-Phase
+
+Zwischen Beurkundung und Eintragung besteht die Vor-GmbH. Sie ist rechtsfähig, aber die Gesellschafter haften persönlich für Verbindlichkeiten, die vor der Eintragung begründet werden (§ 11 Abs. 2 GmbHG). Sacheinlage-Differenzhaftung bleibt auch nach Eintragung bestehen (§ 9 GmbHG).
+
+## GwG-Pflichten bei GmbH-Gründung
+
+- Identifizierung aller Gesellschafter und Geschäftsführer (§ 10 GwG)
+- Feststellung wirtschaftlich Berechtigter (§ 3 GwG): wer hält > 25 % der Anteile oder Stimmrechte?
+- Transparenzregister-Meldung nach Eintragung (§ 20 GwG), Frist: sofort
+- PEP-Screening aller Beteiligten
+- Risikoklassifizierung dokumentieren
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Unternehmensgegenstand registergerichtlich zulässig? (kein Umgehungsgeschäft, keine Täuschung)
+- Firma nach §§ 17–37 HGB zulässig, kein Täuschungsverbot?
+- Sacheinlage: Einbringungsvertrag und Bewertungsnachweis vorhanden (§ 5 Abs. 4 GmbHG)?
+- Vinkulierungsklauseln im Gesellschaftsvertrag mit Registergericht abgestimmt?
+- UG: vollständige Bareinlage vor Anmeldung? Rücklagenbildungspflicht erläutert?
+- Mehrheit der Gesellschafter im Ausland: beglaubigte Übersetzung und Apostille nötig?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Musterprotokoll gewählt, obwohl > 3 Gesellschafter oder Sacheinlage geplant.
+- Unternehmensgegenstand zu weit gefasst → Zurückweisung Registergericht.
+- Stammkapital nicht vollständig eingezahlt vor Anmeldung → § 9c GmbHG-Prüfung schlägt an.
+- Gesellschafterliste enthält falsche Nennbeträge → spätere Abtretung scheitert.
+- GwG-Meldung an Transparenzregister vergessen.
 
-## Output
+## Kostenhinweise
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+GmbH-Gründung individuelle Satzung: 2,0 Gebühr (KV Nr. 21100), Gegenstandswert mind. 30.000 € (§ 106 GNotKG). Musterprotokoll: 1,0 Gebühr, Gegenstandswert 30.000 €. HR-Gebühr: 150 € pauschal.
 
-## Notariatsvertiefung
+## Rechtsquellen
 
-Bei **GmbH-Gründung mit Musterprotokoll oder individueller Satzung** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- § 2 GmbHG: https://dejure.org/gesetze/GmbHG/2.html
+- § 3 GmbHG: https://dejure.org/gesetze/GmbHG/3.html
+- § 40 GmbHG: https://dejure.org/gesetze/GmbHG/40.html
+- GwG: https://www.gesetze-im-internet.de/gwg_2017/
+- GNotKG: https://www.gesetze-im-internet.de/gnotkg/
+- BNotK Handelsrecht: https://www.bnotk.de
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
+## Output-Formate
 
+- **Entscheidungsbaum** (Musterprotokoll oder individuelle Satzung)
+- **Vollzugscockpit** (Checkliste alle Schritte bis Registereintragung)
+- **GwG-Dokumentationsblatt**
+- **Mandantenmail** (Vor-GmbH-Haftungshinweis, nächste Schritte)
+- **Kostenvoranschlag**
+
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

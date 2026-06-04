@@ -1,53 +1,81 @@
 ---
-name: notariat-005-gesellschafterliste-nach-anteilskauf-kapitalerhoehu
-description: "Notariat im Alltag: Gesellschafterliste nach Anteilskauf Kapitalerhoehung oder Einziehung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-005-gesellschafterliste-nach-anteilskauf
+description: "Notariat im Alltag: Gesellschafterliste nach Anteilskauf, Kapitalerhöhung oder Einziehung. Pflichten nach § 40 GmbHG, Inhalt, Einreichung, Registeraktualisierung und Gutglaubensschutz."
 ---
 
-# Notariat im Alltag: Gesellschafterliste nach Anteilskauf Kapitalerhoehung oder Einziehung
+# Notariat im Alltag: Gesellschafterliste – Anteilskauf, Kapitalerhöhung, Einziehung
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Gesellschafterliste nach Anteilskauf Kapitalerhoehung oder Einziehung** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Die Gesellschafterliste (§ 40 GmbHG) ist die zentrale Publizitätsurkunde der GmbH. Ihre Aktualität entscheidet über Stimmrechte, Gutglaubensschutz bei Anteilserwerb und die Wirksamkeit von Gesellschafterbeschlüssen. Dieser Skill strukturiert Inhalt, Einreichungspflicht und Haftungsrisiken.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: § 16 GmbHG (Legitimationswirkung), § 40 GmbHG (Listeninhalt und Einreichungspflicht), § 15 GmbHG (Anteilsabtretung, notarielle Form), §§ 55–57 GmbHG (Kapitalerhöhung), § 34 GmbHG (Einziehung), § 12 HGB (elektronische Einreichung), GwG § 20 (Transparenzregister).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Pflichtinhalt der Gesellschafterliste (§ 40 Abs. 1 GmbHG)
+
+- Vor- und Nachname oder Firma jedes Gesellschafters
+- Geburtsdatum (natürliche Personen) oder Registernummer (juristische Personen)
+- Wohnort oder Sitz
+- Nennbetrag und laufende Nummer jedes Geschäftsanteils
+- Gesamtbetrag der Stammeinlagen
+
+## Auslöser für Listenaktualisierung
+
+| Ereignis | Pflicht | Zuständig |
+|---|---|---|
+| Anteilsabtretung (§ 15 GmbHG) | Notar (§ 40 Abs. 2 GmbHG) | Notar innerhalb 1 Woche |
+| Kapitalerhöhung (§§ 55–57 GmbHG) | Geschäftsführer nach Eintragung | Geschäftsführer/Notar |
+| Einziehung (§ 34 GmbHG) | Geschäftsführer | Geschäftsführer |
+| Umwandlung, Erbfolge | je nach Vorgang | Notar/Geschäftsführer |
+
+## Gutglaubensschutz (§ 16 GmbHG)
+
+Ein Erwerber kann sich auf die im Handelsregister aufgenommene Gesellschafterliste verlassen, wenn die Liste mindestens 3 Jahre alt ist oder der Berechtigte die Unrichtigkeit nicht kannte (§ 16 Abs. 3 GmbHG). Die Listeneintragung ersetzt bei der GmbH die Buchungsfunktion des Aktienregisters.
+
+Wichtig: Gutglaubensschutz gilt nur für die beim HR eingereichte Liste, nicht für interne Listenversionen.
+
+## Notar-Einreichungspflicht bei Abtretung
+
+Nach § 40 Abs. 2 GmbHG hat der Notar, der die Abtretungsurkunde beurkundet oder beglaubigt hat, unverzüglich (spätestens innerhalb einer Woche) eine neue Gesellschafterliste beim Registergericht einzureichen. Der Notar haftet bei verspäteter Einreichung für Schäden.
+
+Elektronische Einreichung über EGVP mit qualifizierter elektronischer Signatur (§ 12 HGB, § 40 Abs. 2 S. 3 GmbHG).
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Ist die Abtretung wirksam? Notarielle Form (§ 15 Abs. 3 GmbHG), Vollmachten geprüft?
+- Vinkulierung: Ist Zustimmung der Gesellschafterversammlung erforderlich (§ 15 Abs. 5 GmbHG)?
+- Treuhänderschaft: Wer ist wirtschaftlich Berechtigter? GwG-Konsequenz?
+- Kapitalerhöhung: Übernahmeerklärung beurkundet, Einzahlung nachgewiesen?
+- Einziehung: Satzungsgrundlage vorhanden, Abfindung geregelt, Einziehungsbeschluss wirksam?
+- Nennbeträge nach Änderung korrekt neu berechnet und summiert?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Notar vergisst Listeneinreichungspflicht nach Abtretung → Gutglaubensrisiko für Käufer.
+- Liste zeigt noch alten Gesellschafter → wirksame Stimmrechte fraglich.
+- Kapitalerhöhungsbeträge falsch summiert → Registerrichter beanstandet Liste.
+- Einziehung ohne wirksame Satzungsgrundlage → Einziehung nichtig, Liste falsch.
+- Transparenzregister nicht aktualisiert nach Gesellschafterwechsel.
 
-## Output
+## Kostenhinweise
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+Notar-Listeneinreichung: KV Nr. 21201 GNotKG – 0,3 Gebühr aus Nennbetrag der betroffenen Anteile. Mindestgebühr beachten.
 
-## Notariatsvertiefung
+## Rechtsquellen
 
-Bei **Gesellschafterliste nach Anteilskauf Kapitalerhoehung oder Einziehung** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- § 15 GmbHG: https://dejure.org/gesetze/GmbHG/15.html
+- § 16 GmbHG: https://dejure.org/gesetze/GmbHG/16.html
+- § 40 GmbHG: https://dejure.org/gesetze/GmbHG/40.html
+- § 34 GmbHG (Einziehung): https://dejure.org/gesetze/GmbHG/34.html
+- BGH zu § 16 GmbHG: https://www.bgh.de
+- GwG Transparenzregister: https://www.gesetze-im-internet.de/gwg_2017/
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
+## Output-Formate
 
+- **Gesellschafterlisten-Muster** (ausfüllbar für konkrete GmbH)
+- **Vollzugscheckliste** (Abtretung / Kapitalerhöhung / Einziehung)
+- **Einreichungs-Fristnotiz** (Notar-Pflicht 1 Woche)
+- **GwG-Updatebogen** (Transparenzregister-Konsequenz)
+- **Red-Team** (Risiken bei fehlerhafter Liste)
+
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

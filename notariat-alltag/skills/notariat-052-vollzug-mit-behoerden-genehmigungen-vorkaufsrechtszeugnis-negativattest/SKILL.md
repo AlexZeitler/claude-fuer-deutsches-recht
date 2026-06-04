@@ -1,53 +1,82 @@
 ---
-name: notariat-052-vollzug-mit-behoerden-genehmigungen-vorkaufsrechtsz
-description: "Notariat im Alltag: Vollzug mit Behörden Genehmigungen Vorkaufsrechtszeugnis Negativattest mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-052-vollzug-mit-behoerden-genehmigungen
+description: "Notariat im Alltag: Vollzug mit Behörden – Genehmigungen, Vorkaufsrechtszeugnis und Negativattest. Behördenkommunikation beim Grundstücksvollzug, BauGB-Vorkaufsrecht, Genehmigungsverfahren und Attestbeschaffung."
 ---
 
-# Notariat im Alltag: Vollzug mit Behörden Genehmigungen Vorkaufsrechtszeugnis Negativattest
+# Notariat im Alltag: Vollzug mit Behörden – Genehmigungen, Vorkaufsrechtszeugnis, Negativattest
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Vollzug mit Behörden Genehmigungen Vorkaufsrechtszeugnis Negativattest** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Der Immobilienvollzug erfordert die Kooperation mit zahlreichen Behörden. Dieser Skill strukturiert alle behördlichen Schritte von der Vorkaufsrechtsmitteilung bis zur steuerlichen Unbedenklichkeit.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: §§ 24–28 BauGB (Vorkaufsrecht Gemeinde), § 28 BauGB (Mitteilung, Vorkaufsrechtszeugnis), GrdstVG §§ 2–12 (GVO, Negativattest), GrEStG § 22 (steuerliche Unbedenklichkeit), § 6 GrdstVG (Genehmigungsfreiheit), § 1643 BGB n.F. (Familiengericht), FamFG § 151 (Betreuungsgericht).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Überblick: Behördliche Vollzugsschritte
+
+| Behörde | Maßnahme | Frist/Zeitraum |
+|---|---|---|
+| Gemeinde | Vorkaufsrechtsmitteilung + Zeugnis/Negativattest | 2 Monate § 28 BauGB |
+| Landwirtschaftsbehörde | GVO-Genehmigung oder Negativattest | 1–3 Monate |
+| Finanzamt | Steuerliche Unbedenklichkeit (§ 22 GrEStG) | nach GrESt-Bescheid |
+| Familiengericht | Genehmigung für Minderjährige | 4–8 Wochen |
+| Betreuungsgericht | Genehmigung für Betreute | 4–8 Wochen |
+| Denkmalschutzbehörde | Genehmigung bei Denkmalschutz | variabel |
+| Sanierungsbehörde | Sanierungsgenehmigung (§§ 144, 145 BauGB) | 1 Monat |
+
+## Vorkaufsrecht Gemeinde (§§ 24–28 BauGB)
+
+**Mitteilungspflicht des Notars (§ 28 Abs. 1 BauGB):**
+- Sofortige Mitteilung nach Beurkundung an alle Gemeinden, auf deren Gebiet das Grundstück liegt
+- Inhalt: Kaufvertragsabschrift und alle Angaben nach § 28 Abs. 1 BauGB
+- Frist für Gemeinde: 2 Monate zur Ausübung des Vorkaufsrechts (§ 28 Abs. 2 BauGB)
+
+**Vorkaufsrechtszeugnis:** Bestätigung, dass Vorkaufsrecht nicht ausgeübt wird (oder kein Vorkaufsrecht besteht). Negativattest wenn kein Vorkaufsrecht.
+
+## Steuerliche Unbedenklichkeit (§ 22 GrEStG)
+
+Ohne Unbedenklichkeitsbescheinigung des Finanzamts darf das Grundbuchamt keine Eigentumsumschreibung vornehmen (§ 22 GrEStG). Diese wird erteilt, wenn die Grunderwerbsteuer bezahlt oder Sicherheit geleistet wurde.
+
+**Zeitrahmen:** GrESt-Bescheid ergeht i.d.R. 4–8 Wochen nach Anzeige des Kaufvertrags.
+**Anzeige durch Notar:** § 18 GrEStG, elektronisch via Datev/Notar-Software.
+
+## Familiengericht und Betreuungsgericht
+
+Wenn Minderjährige oder Betreute an Grundstücksgeschäften beteiligt sind, braucht der Betreuer/Elternteil die gerichtliche Genehmigung (§§ 1643, 1821 BGB n.F.).
+
+**Antrag:** Notar kann für Betreuten/Eltern den Antrag stellen.
+**Genehmigungsbeschluss:** Muss rechtskräftig sein, bevor der Notar den Vollzug fortsetzt.
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Alle relevanten Vorkaufsrechte (BauGB, GrdstVG, Siedlungsrecht) berücksichtigt?
+- Vorkaufsrechtsmitteilung fristgerecht versandt?
+- GrESt angezeigt, Frist für Unbedenklichkeit einkalkuliert?
+- Familiengerichtliche Genehmigung nötig und beantragt?
+- Genehmigungsbeschluss rechtskräftig (kein Beschwerderecht offensteht)?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Vorkaufsrechtsmitteilung an falsche Gemeinde (zwei Gemeinden betroffen).
+- GrESt-Anzeige vergessen → Unbedenklichkeit kommt nicht.
+- Familiengerichtsgenehmigung nicht rechtskräftig abgewartet.
+- GVO übersehen bei landwirtschaftlichem Grundstück.
+- Sanierungsgenehmigung (§ 144 BauGB) bei Sanierungsgebiet vergessen.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- § 28 BauGB: https://dejure.org/gesetze/BauGB/28.html
+- § 22 GrEStG: https://dejure.org/gesetze/GrEStG/22.html
+- GrdstVG: https://www.gesetze-im-internet.de/grundstverkg/
+- § 1643 BGB n.F.: https://dejure.org/gesetze/BGB/1643.html
+- BGH zu Vorkaufsrecht: https://www.bgh.de
+- BNotK Vollzugshinweise: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Vollzug mit Behörden Genehmigungen Vorkaufsrechtszeugnis Negativattest** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Behörden-Vollzugscockpit** (alle Stellen, Fristen, Status)
+- **Vorkaufsrechtsmitteilung** (Muster an Gemeinde)
+- **GrESt-Anzeige** (Prozessablauf, Frist)
+- **Genehmigungsantrag** (Familiengericht, Muster)
+- **Vollzugsampel** (welche Genehmigungen fehlen noch?)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

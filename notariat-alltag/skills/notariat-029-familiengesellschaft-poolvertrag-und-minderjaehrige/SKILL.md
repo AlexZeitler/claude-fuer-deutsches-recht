@@ -1,53 +1,91 @@
 ---
 name: notariat-029-familiengesellschaft-poolvertrag-und-minderjaehrige
-description: "Notariat im Alltag: Familiengesellschaft Poolvertrag und Minderjährige mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Notariat im Alltag: Familiengesellschaft, Poolvertrag und Minderjährige. Gestaltung von Familien-GmbH und GbR, Poolverträge zur Sicherung von Gesellschaftermehrheiten, Beteiligung Minderjähriger und familiengerichtliche Genehmigung."
 ---
 
-# Notariat im Alltag: Familiengesellschaft Poolvertrag und Minderjährige
+# Notariat im Alltag: Familiengesellschaft, Poolvertrag, Minderjährige
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Familiengesellschaft Poolvertrag und Minderjährige** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Familiengesellschaften dienen der steueroptimalen Vermögensübertragung und Unternehmensnachfolge. Dieser Skill führt durch die Gestaltung von Familien-GmbH, GbR und Poolverträgen sowie durch die besonderen Anforderungen bei Beteiligung Minderjähriger.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: §§ 2, 3, 15 GmbHG (GmbH-Recht), §§ 705–740c BGB n.F. (GbR, MoPeG ab 2024), § 1629 BGB (gesetzliche Vertretung Kind), § 1643 BGB n.F. (genehmigungspflichtige Rechtsgeschäfte für Minderjährige), §§ 1821–1822 BGB a.F. / §§ 1803–1806 BGB n.F. (Genehmigungskatalog), FamFG §§ 151 ff. (Familiensachen), GwG § 20 (Transparenzregister Minderjährige).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Familiengesellschaft: Gestaltungsformen
+
+| Form | Besonderheit | Notarielle Relevanz |
+|---|---|---|
+| Familien-GmbH | Kapitalgesellschaft; klare Haftungsgrenzen | Beurkundungspflicht § 2 GmbHG |
+| Familien-GbR | Personengesellschaft; MoPeG 2024 | Keine Formzwang, aber empfohlene Beurkundung für Grundstücke |
+| Familien-KG | GmbH & Co. KG häufig | GmbH-Gründung beurkunden |
+| Stiftung | Dauerhafte Vermögensbindung | Stiftungsgeschäft: Beurkundung |
+
+## Poolverträge
+
+Ein Poolvertrag (Stimmrechtsbindungsvertrag) verpflichtet mehrere Gesellschafter, ihre Stimmrechte einheitlich auszuüben. Ziel: Familienmehrheit sichern, Zersplitterung verhindern.
+
+**Inhalt:**
+- Stimmrechtsbindung (einheitliche Abstimmung der Poolmitglieder)
+- Verfügungsbeschränkungen (Anteilsverkauf nur innerhalb des Pools)
+- Poolsprecher/Koordinationsregeln
+- Austritts- und Eintrittsmechanismen
+- Schiedsklausel
+
+**Form:** Kein gesetzlicher Formzwang; aber notarielle Beurkundung empfohlen wegen Beweissicherheit und Registertauglichkeit.
+
+## Minderjährige als Gesellschafter
+
+Minderjährige können Gesellschafter sein, benötigen aber für bestimmte Rechtsgeschäfte die familiengerichtliche Genehmigung.
+
+**Genehmigungspflichtige Handlungen (§ 1643 BGB n.F.):**
+- Beteiligung an Personengesellschaft mit unbeschränkter Haftung
+- GmbH-Beteiligung: schenkweise Zuwendung ist genehmigungsfrei (str.); entgeltlicher Erwerb genehmigungspflichtig
+- Verfügung über Grundstücke oder Grundstücksrechte
+- Aufnahme von Darlehen
+
+**Ergänzungspfleger (§ 1809 BGB n.F.):**
+Bei Interessenkollision zwischen Eltern und Kind muss ein Ergänzungspfleger bestellt werden. Z.B.: Eltern übertragen Beteiligung auf Kind als Schenkung → Eltern sind Schenker und gesetzliche Vertreter des Kindes → Interessenkonflikt.
+
+## Transparenzregister bei Familiengesellschaft
+
+Alle Gesellschafter, die > 25 % Anteile oder Stimmrechte halten, sind als wirtschaftlich Berechtigte einzutragen. Minderjährige können wirtschaftlich Berechtigte sein.
+
+## MoPeG 2024: GbR-Reform
+
+Ab 1.1.2024 ist die GbR im Gesellschaftsregister eintragbar (§ 707 BGB n.F.). Eingetragene GbR (eGbR) kann Grundstücke und Anteile im eigenen Namen halten. Vor MoPeG: GbR musste als Gesellschafter im GbR-Gesellschafterkreis in Klammern erscheinen.
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Minderjährige beteiligt? → Genehmigung nötig?
+- Interessenkonflikt Eltern/Kind? → Ergänzungspfleger?
+- Poolvertrag: Schriftform ausreichend oder Beurkundung nötig?
+- Transparenzregister: alle wirtschaftlich Berechtigten inkl. Minderjährige gemeldet?
+- GbR: eintragungswürdig? MoPeG-Optionen genutzt?
+- Stimmrechtsbindung mit Satzung der GmbH in Einklang?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Genehmigung für Minderjährigen vergessen → schwebend unwirksam.
+- Interessenkonflikt Eltern/Kind übersehen → Vertretung unwirksam.
+- Poolvertrag ohne Austrittsregeln → gesperrt bei Dissens.
+- GbR nach MoPeG nicht eingetragen, aber Grundstücke in Bestand → Vollzugsproblem.
+- Transparenzregister-Meldung für Minderjährige vergessen.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- § 1643 BGB n.F.: https://dejure.org/gesetze/BGB/1643.html
+- §§ 705–740c BGB (MoPeG): https://www.gesetze-im-internet.de/bgb/
+- § 2 GmbHG: https://dejure.org/gesetze/GmbHG/2.html
+- GwG § 20: https://dejure.org/gesetze/GwG/20.html
+- BGH zu Familiengesellschaft: https://www.bgh.de
+- BNotK Familienrecht: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Familiengesellschaft Poolvertrag und Minderjährige** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Poolvertragsentwurf** (Grundstruktur)
+- **Genehmigungsprüfung Minderjährige** (Checkliste)
+- **Interessenkonflikt-Diagnose** (Ergänzungspfleger nötig?)
+- **Transparenzregister-Meldeblatt**
+- **Mandantenmail** (Ablauf, Genehmigungswartezeit)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

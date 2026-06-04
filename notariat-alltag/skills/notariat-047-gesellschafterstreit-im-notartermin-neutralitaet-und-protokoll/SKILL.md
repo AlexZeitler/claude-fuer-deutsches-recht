@@ -1,53 +1,83 @@
 ---
-name: notariat-047-gesellschafterstreit-im-notartermin-neutralitaet-un
-description: "Notariat im Alltag: Gesellschafterstreit im Notartermin Neutralität und Protokoll mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-047-gesellschafterstreit-im-notartermin-neutralitaet
+description: "Notariat im Alltag: Gesellschafterstreit im Notartermin – Neutralität und Protokoll. Umgang mit streitigen Beschlüssen und Gesellschafterversammlungen, Beschlussmängelklage und Protokollpflichten."
 ---
 
-# Notariat im Alltag: Gesellschafterstreit im Notartermin Neutralität und Protokoll
+# Notariat im Alltag: Gesellschafterstreit im Notartermin – Neutralität, Protokoll
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Gesellschafterstreit im Notartermin Neutralität und Protokoll** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Wenn Gesellschafter im Beurkundungstermin streiten, ist der Notar in einer schwierigen Lage. Dieser Skill klärt Neutralitätspflichten, Protokollierungsanforderungen und die Konsequenzen fehlerhafter Beschlussprotokolle.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: § 14 BNotO (Unparteilichkeit), § 17 BeurkG (Willensermittlung), § 130 AktG (Beschlussprotokoll AG), § 53 GmbHG (Satzungsänderung GmbH), § 48 GmbHG (Gesellschafterversammlung GmbH), §§ 241–261 AktG (Beschlussmängel AG), FamFG §§ 375–406 (Registerverfahren).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Beurkundung von Gesellschafterbeschlüssen
+
+Bestimmte Gesellschafterbeschlüsse bedürfen der notariellen Beurkundung:
+- GmbH: Satzungsänderung (§ 53 Abs. 2 GmbHG), Kapitalerhöhung/-herabsetzung
+- AG: Satzungsänderung, Kapitalmaßnahmen (§§ 179, 182 AktG), Verschmelzungsbeschluss (§ 13 UmwG)
+- Beschlussprotokolle: § 130 AktG für alle HV-Beschlüsse der AG
+
+## Beschlussprotokoll: Pflichtinhalt
+
+| Element | Norm |
+|---|---|
+| Ort und Datum der Versammlung | § 130 Abs. 1 AktG |
+| Anwesende Aktionäre/Gesellschafter und Stimmzahl | § 130 Abs. 2 AktG |
+| Beschlüsse mit Abstimmungsergebnis (Ja/Nein/Enthaltung) | § 130 Abs. 2 AktG |
+| Unterschrift des Vorsitzenden und des Notars | § 130 Abs. 3 AktG |
+| Anträge und Widersprüche | § 130 Abs. 2 S. 3 AktG |
+
+## Neutralitätspflicht (§ 14 BNotO)
+
+Der Notar protokolliert nur das, was tatsächlich beschlossen wird. Er gibt keine Bewertung über die Zweckmäßigkeit von Beschlüssen ab. Er kann auf formelle Mängel hinweisen (fehlende Beschlussfähigkeit, Einberufungsfehler), aber er verhindert nicht den Beschluss.
+
+## Beschlussmängel: Was ist zu protokollieren?
+
+Wenn ein Gesellschafter Widerspruch erhebt oder Beschlussmängel rügt:
+- Widerspruch vollständig protokollieren (§ 130 Abs. 2 S. 3 AktG)
+- Mängelrüge des Gesellschafters in das Protokoll aufnehmen
+- Notar wertet den Mangel nicht in der Urkunde – das ist Sache des Gerichts
+
+**Rechtsfolgen von Beschlussmängeln:**
+- Anfechtbarkeit (§§ 243–255 AktG bei AG, § 51a GmbHG analog): 1-Monat-Frist
+- Nichtigkeit (§§ 241–242 AktG): unbefristet
+
+## Einberufungsmängel
+
+Einberufungsfehler (zu kurze Frist, fehlende Tagesordnung) führen zur Anfechtbarkeit der Beschlüsse. Notar kann darauf hinweisen, aber nicht allein verhindern. Protokoll muss Einberufungsnachweis enthalten.
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Ist die Gesellschafterversammlung ordnungsgemäß einberufen (Frist, Form, Tagesordnung)?
+- Sind alle Gesellschafter anwesend oder ordnungsgemäß vertreten?
+- Ist die Beschlussfähigkeit (Quorum) erfüllt?
+- Werden alle Widersprüche vollständig protokolliert?
+- Beschlussfassung mit korrektem Stimmzählergebnis?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Beschlussprotokoll ohne Stimmzählung → Anfechtungsrisiko.
+- Widerspruch nicht protokolliert → Gesellschafter verliert Anfechtungsrecht.
+- Einberufungsfehler übersehen → alle Beschlüsse anfechtbar.
+- Notar gibt inhaltliche Bewertung im Protokoll → Unparteilichkeitsverstoß.
+- Nichterscheinen eines Gesellschafters bei Allstimmigkeitsbeschluss → Beschluss unwirksam.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- § 130 AktG: https://dejure.org/gesetze/AktG/130.html
+- § 53 GmbHG: https://dejure.org/gesetze/GmbHG/53.html
+- §§ 241–261 AktG: https://dejure.org/gesetze/AktG/241.html
+- § 14 BNotO: https://dejure.org/gesetze/BNotO/14.html
+- BGH zu Beschlussmängeln: https://www.bgh.de
+- BNotK Gesellschaftsrecht: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Gesellschafterstreit im Notartermin Neutralität und Protokoll** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Beschlussprotokoll-Muster** (GmbH / AG)
+- **Beschlussfähigkeits-Prüfbogen**
+- **Widerspruchs-Protokollierung** (Muster)
+- **Beschlussmängel-Checkliste** (Anfechtbar vs. Nichtig)
+- **Mandantenmail** (nach streitigem Termin)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

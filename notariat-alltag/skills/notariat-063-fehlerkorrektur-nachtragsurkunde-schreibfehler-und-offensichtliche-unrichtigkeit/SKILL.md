@@ -1,53 +1,84 @@
 ---
 name: notariat-063-fehlerkorrektur-nachtragsurkunde-schreibfehler-und
-description: "Notariat im Alltag: Fehlerkorrektur Nachtragsurkunde Schreibfehler und offensichtliche Unrichtigkeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Notariat im Alltag: Fehlerkorrektur – Nachtragsurkunde, Schreibfehler und offensichtliche Unrichtigkeit. Möglichkeiten zur Korrektur von Fehlern in notariellen Urkunden und im Grundbuch."
 ---
 
-# Notariat im Alltag: Fehlerkorrektur Nachtragsurkunde Schreibfehler und offensichtliche Unrichtigkeit
+# Notariat im Alltag: Fehlerkorrektur – Nachtragsurkunde, Schreibfehler, offensichtliche Unrichtigkeit
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Fehlerkorrektur Nachtragsurkunde Schreibfehler und offensichtliche Unrichtigkeit** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Fehler in notariellen Urkunden und im Grundbuch lassen sich auf verschiedene Arten korrigieren, je nach Art und Schwere des Fehlers. Dieser Skill unterscheidet zwischen behebbaren Schreibfehlern, inhaltlichen Korrekturen und dem Verfahren der offensichtlichen Unrichtigkeit.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: § 44a BeurkG (Schreibfehlerberichtigung), § 55 GBO (offensichtliche Unrichtigkeit Grundbuch), § 894 BGB (Grundbuchberichtigungsanspruch), § 13 BeurkG (Unterschrift und Vorlesen), § 44 BeurkG (Nachtragsurkunde), BGH-Rechtsprechung zu Urkundsberichtigungen.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Kategorien von Fehlern
+
+| Fehlertyp | Korrekturfähigkeit | Methode |
+|---|---|---|
+| Offensichtlicher Schreibfehler in Urkunde (Tippfehler, Zahlendreher) | Ja | § 44a BeurkG-Berichtigung |
+| Inhaltlicher Fehler (falscher Betrag, falscher Name) | Nur mit Zustimmung aller Beteiligten | Nachtragsurkunde |
+| Offensichtliche Unrichtigkeit im Grundbuch | Ja | § 55 GBO-Berichtigung |
+| Wesentlicher Irrtum über den Geschäftsinhalt | Anfechtung § 119 BGB | Anfechtungserklärung, ggf. neuer Vertrag |
+
+## Schreibfehlerberichtigung (§ 44a BeurkG)
+
+Ein Schreibfehler in der Urkundsniederschrift, der offensichtlich ist und den Inhalt nicht ändert, kann der Notar einseitig korrigieren.
+
+**Voraussetzungen:**
+- Fehler ist offensichtlich (keine Auslegungsfrage)
+- Berichtigung ändert den Inhalt der Willenserklärungen nicht
+- Berichtigung wird am Rand oder am Ende der Urschrift vermerkt und vom Notar unterzeichnet
+
+**Nicht zulässig:** Inhaltliche Korrekturen ohne Zustimmung der Beteiligten.
+
+## Nachtragsurkunde (§ 44 BeurkG)
+
+Wenn inhaltliche Änderungen nötig sind, die den Willen der Beteiligten korrekt zum Ausdruck bringen:
+- Alle Beteiligten müssen die Nachtragsurkunde unterzeichnen
+- Bezug auf die ursprüngliche Urkunde (Urkundenrolle-Nr.)
+- Beurkundungsverfahren läuft wie bei Haupturkunde
+- Verbraucherwartefrist ggf. erneut zu beachten?
+
+## Offensichtliche Unrichtigkeit im Grundbuch (§ 55 GBO)
+
+Das Grundbuchamt kann eine offensichtliche Unrichtigkeit von Amts wegen berichtigen, wenn die Unrichtigkeit aus dem Grundbuch selbst oder aus den Eintragungsunterlagen zweifelsfrei ersichtlich ist.
+
+**Berichtigungsantrag:** Eigentümer oder Berechtigter stellt Antrag beim Grundbuchamt; Notar kann für den Berechtigten den Antrag stellen.
+
+## Grundbuchberichtigungsanspruch (§ 894 BGB)
+
+Wer unrichtigerweise im Grundbuch eingetragen ist oder wessen Recht unrichtigerweise nicht eingetragen ist, hat einen Anspruch auf Berichtigung. Dieser Anspruch kann notfalls klageweise durchgesetzt werden.
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Ist der Fehler ein offensichtlicher Schreibfehler oder ein inhaltlicher Fehler?
+- Kann die Berichtigung ohne Zustimmung der Beteiligten erfolgen?
+- Betrifft der Fehler nur die Urkunde oder auch das Grundbuch?
+- Ist eine Nachtragsurkunde nötig und sind alle Beteiligten erreichbar?
+- Liegt ein § 894 BGB-Anspruch vor?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Inhaltlichen Fehler als Schreibfehler behandelt → § 44a BeurkG-Berichtigung unzulässig.
+- Nachtragsurkunde ohne Beurkundungsverfahren → unwirksam.
+- Grundbuchfehler durch § 55 GBO-Antrag korrigierbar, aber Notar hat Zurückweisung nicht angefochten.
+- Alle Beteiligten für Nachtragsurkunde nötig, aber ein Beteiligter verstorben → § 177 BGB-Genehmigung durch Erben.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- § 44a BeurkG: https://dejure.org/gesetze/BeurkG/44a.html
+- § 44 BeurkG: https://dejure.org/gesetze/BeurkG/44.html
+- § 55 GBO: https://dejure.org/gesetze/GBO/55.html
+- § 894 BGB: https://dejure.org/gesetze/BGB/894.html
+- BGH zur Urkundsberichtigung: https://www.bgh.de
+- BNotK Urkundspraxis: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Fehlerkorrektur Nachtragsurkunde Schreibfehler und offensichtliche Unrichtigkeit** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Fehlertyp-Entscheidungsbaum** (Schreibfehler / inhaltlich / Grundbuch)
+- **Schreibfehlerberichtigungs-Vermerk** (§ 44a BeurkG, Muster)
+- **Nachtragsurkunde-Entwurf** (Muster)
+- **§ 55 GBO-Berichtigungsantrag** (Muster)
+- **Mandantenmail** (Fehler identifiziert, nächste Schritte)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

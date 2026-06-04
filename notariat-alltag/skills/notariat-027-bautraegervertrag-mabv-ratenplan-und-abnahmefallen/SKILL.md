@@ -1,53 +1,97 @@
 ---
 name: notariat-027-bautraegervertrag-mabv-ratenplan-und-abnahmefallen
-description: "Notariat im Alltag: Bauträgervertrag MaBV Ratenplan und Abnahmefallen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Notariat im Alltag: Bauträgervertrag – MaBV, Ratenplan und Abnahmefallen. Pflichtinhalt nach MaBV, Sicherungsanforderungen, Ratenplan-Voraussetzungen, Abnahme und typische Risiken für Erwerber."
 ---
 
-# Notariat im Alltag: Bauträgervertrag MaBV Ratenplan und Abnahmefallen
+# Notariat im Alltag: Bauträgervertrag – MaBV, Ratenplan, Abnahmefallen
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Bauträgervertrag MaBV Ratenplan und Abnahmefallen** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Der Bauträgervertrag verbindet Grundstückskauf und Werkvertrag. Er unterliegt besonderen Verbraucherschutzvorschriften (MaBV) und erfordert vom Notar eine intensivere Belehrungspflicht als der klassische Grundstückskauf. Dieser Skill strukturiert die MaBV-Anforderungen, den Ratenplan und die häufigen Abnahmefallen.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: § 311b BGB (Formzwang), §§ 631–651 BGB (Werkvertragsrecht), MaBV (Makler- und Bauträgerverordnung) §§ 3–9 (Sicherungspflichten), § 12 MaBV (Verbraucherrecht), § 17 Abs. 2a BeurkG (Wartefrist), §§ 640–641 BGB (Abnahme), AGBG/§ 307 BGB (AGB-Kontrolle Bauträger-AGB), BauGB (Baugenehmigung).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Pflichtinhalt des Bauträgervertrags
+
+- Genaue Beschreibung des Grundstücks und des zu errichtenden Bauwerks (Baubeschreibung)
+- Kaufpreis (Gesamtpreis für Grundstück und Bauwerk)
+- Fertigstellungstermin oder Fertigstellungsfrist
+- Zahlungsplan nach MaBV (§ 3 Abs. 2 MaBV)
+- Sicherungsabrede: Bürgschaft oder Fertigstellungssicherheit
+- Abnahme-Regelung
+- Mängelgewährleistung nach § 634 BGB
+
+## MaBV-Ratenplan (§ 3 Abs. 2 MaBV)
+
+Ratenzahlungen sind nur nach tatsächlichem Baufortschritt zulässig:
+
+| Rate | Voraussetzung | max. % |
+|---|---|---|
+| 1. Rate | Beginn Erdarbeiten | 30 % |
+| 2. Rate | Rohbau (Erdgeschossdecke) | 28 % |
+| 3. Rate | Dacheindeckung | 8,4 % |
+| 4. Rate | Rohinstallation | 2 % |
+| 5. Rate | Fenster/Außentüren | 8,4 % |
+| 6. Rate | Innenputz | 4,2 % |
+| 7. Rate | Fliesen | 2,1 % |
+| 8. Rate | Estrich | 2,8 % |
+| 9. Rate | Bezugsfertigkeit | 8,4 % |
+| 10. Rate | Fertigstellung | 5,6 % |
+
+Erste Rate: erst nach Auflassungsvormerkung und Freistellungserklärung der Finanzierungsbank (§ 3 Abs. 1 MaBV).
+
+## Sicherungsanforderungen nach MaBV
+
+Vor der ersten Ratenzahlung muss der Bauträger entweder:
+1. **Fertigstellungsbürgschaft:** Bürgschaft einer Bank für Fertigstellung
+2. **Freistellungserklärung der finanzierenden Bank** des Bauträgers
+
+Ohne diese Absicherung darf der Notar keine Fälligkeitsbestätigung erteilen.
+
+## Abnahmefallen
+
+Die Abnahme (§ 640 BGB) ist der entscheidende Moment: Ab Abnahme läuft die Gewährleistungsfrist (5 Jahre), die Beweislast kehrt sich um, und der Restbetrag wird fällig.
+
+**Typische Klauseln, die den Verbraucher benachteiligen:**
+- Abnahme durch Sachverständigen des Bauträgers (AGB-Kontrolle: str.)
+- Automatische Abnahme nach Fristablauf (§ 640 Abs. 2 BGB: Sonderregel)
+- Übergabe = Abnahme (unzulässig: § 307 BGB)
+- Teileabnahme erzwingt Endabnahme ohne vollständige Mängelprüfung
+
+**Empfehlung:** Verbraucher sollte Sachverständigen zur Abnahme mitbringen; Abnahmeprotokoll mit Mängelliste.
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Liegt Baugenehmigung vor?
+- MaBV-Ratenplan entspricht den Voraussetzungen?
+- Freistellungserklärung / Bürgschaft vorhanden?
+- Ist die Baubeschreibung hinreichend präzise? (Qualitäten, Ausstattung, DIN-Normen)
+- Fertigstellungstermin verbindlich oder nur Prognose?
+- Abnahmeklausel AGB-konform?
+- Verbraucherwartefrist 14 Tage (§ 17 Abs. 2a BeurkG) eingehalten?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Erste Rate ohne Auflassungsvormerkung → MaBV-Verstoß, Notar haftet.
+- Baubeschreibung zu ungenau → spätere Mängelstreitigkeiten vorprogrammiert.
+- Automatische Abnahme nach Frist ohne Verbraucheraufklärung → § 640 Abs. 2 BGB-Risiko.
+- Freistellungserklärung deckt nur Teilfläche → erste Rate für falsche Fläche freigegeben.
+- AGB-Klauseln zur Abnahme nicht auf § 307 BGB geprüft.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- MaBV: https://www.gesetze-im-internet.de/makler_baubetrgv/
+- § 640 BGB (Abnahme): https://dejure.org/gesetze/BGB/640.html
+- § 307 BGB (AGB): https://dejure.org/gesetze/BGB/307.html
+- BGH zu Bauträgerverträgen: https://www.bgh.de
+- BNotK MaBV-Hinweise: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Bauträgervertrag MaBV Ratenplan und Abnahmefallen** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **MaBV-Ratenplan-Prüfcheckliste**
+- **Freistellungserklärung / Bürgschaft-Prüfung**
+- **Abnahmecheckliste für Verbraucher**
+- **AGB-Klauselkatalog** (zulässig/unzulässig)
+- **Mandantenmail** (Risikohinweis Bauträger, Abnahme)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

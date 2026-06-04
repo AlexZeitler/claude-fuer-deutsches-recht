@@ -1,53 +1,119 @@
 ---
 name: notariat-040-mandantenmail-freundlich-knapp-und-rechtssicher
-description: "Notariat im Alltag: Mandantenmail freundlich knapp und rechtssicher mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Notariat im Alltag: Mandantenmail – freundlich, knapp und rechtssicher. Kommunikationsregeln für notarielle Schreiben an Mandanten, zulässige Hinweise, Abgrenzung zur unzulässigen Rechtsberatung und Formulierungsbeispiele."
 ---
 
-# Notariat im Alltag: Mandantenmail freundlich knapp und rechtssicher
+# Notariat im Alltag: Mandantenmail – freundlich, knapp, rechtssicher
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Mandantenmail freundlich knapp und rechtssicher** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Die Mandantenkommunikation ist das Aushängeschild des Notariats. Dieser Skill strukturiert, was in einer Mandantenmail stehen darf, was vermieden werden muss und wie schwierige Informationen (Vollzugsblockaden, Kosten, Wartefristen) klar und freundlich kommuniziert werden.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: § 17 BeurkG (Belehrungspflicht), § 14 BNotO (Unparteilichkeit), § 29 BNotO (Verschwiegenheit), § 18 BNotO (Auskunftspflicht), RDG (Rechtsdienstleistungsgesetz) – Abgrenzung zur Rechtsberatung, § 97 StGB (Verletzung Privatgeheimnis), DSGVO Art. 5 (Datenminimierung).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Was darf in eine Mandantenmail?
+
+**Zulässige Inhalte:**
+- Statusbericht zum Vollzugsstand (Schritt X erledigt, Schritt Y ausstehend)
+- Übermittlung von Entwürfen zur Durchsicht
+- Anforderung fehlender Unterlagen
+- Hinweis auf Fristen und nächste Termine
+- Kostenmitteilung und Zahlungsaufforderung
+- Allgemeine Erläuterung des Verfahrens (nicht als Rechtsrat)
+- Weitergabe von Behörden-/Registerrückmeldungen
+
+**Unzulässig oder bedenklich:**
+- Einseitige Rechtsberatung für eine Partei (§ 14 BNotO: Unparteilichkeit)
+- Prognosen über Rechtswirksamkeit ohne die nötige Differenzierung
+- Weitergabe von Informationen einer Partei an die andere ohne Einwilligung (§ 29 BNotO)
+- Empfehlungen, die außerhalb der notariellen Amtstätigkeit liegen (Steuerberatung, anwaltliche Vertretung)
+
+## Kommunikationsregeln
+
+| Regel | Begründung |
+|---|---|
+| Kurze Sätze | Mandanten lesen auf dem Smartphone |
+| Ampel-Struktur | Grün: erledigt, Gelb: in Arbeit, Rot: Ihre Aktion nötig |
+| Konkreter nächster Schritt | „Bitte schicken Sie uns bis zum [Datum] …" |
+| Kein Fachjargon ohne Erklärung | „Auflassungsvormerkung" erklären oder umschreiben |
+| Keine einseitige Parteinahme | Alle Beteiligten gleichbehandeln |
+| Vertraulich halten | CC/BCC nur wenn nötig; keine persönlichen Daten in Betreff |
+
+## Musterstruktur einer Vollzugsstandsmail
+
+```
+Betreff: Ihre Urkundensache [Kurzbezeichnung] – Vollzugsstand [Datum]
+
+Sehr geehrte Frau/Herr [Name],
+
+zur oben genannten Urkundensache teilen wir Ihnen den aktuellen Stand mit:
+
+✓ Erledigt:
+– Auflassungsvormerkung eingetragen (Abt. II Blatt …)
+– Vorkaufsrechtsverzicht Gemeinde liegt vor
+
+⟳ In Bearbeitung:
+– Steuerliche Unbedenklichkeit beim Finanzamt beantragt; Eingang ca. [Datum]
+
+→ Ihre Aktion erforderlich:
+– Bitte reichen Sie bis [Datum] nach: Personalausweis-Kopie des Käufers (aktuell)
+
+Nach Vorlage aller Unterlagen werden wir die Fälligkeitsmitteilung erteilen.
+
+Für Rückfragen stehen wir gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+[Notariat]
+```
+
+## Schwierige Botschaften kommunizieren
+
+**Vollzugsblockade:**
+„Wir müssen Sie darüber informieren, dass der Vollzug derzeit durch [Ursache] blockiert ist. Wir arbeiten an einer Lösung und werden Sie in [Zeitraum] erneut informieren."
+
+**Kosten höher als erwartet:**
+„Der endgültige Gegenstandswert beläuft sich auf [Betrag], was zu einer Gesamtkostenrechnung von [Betrag] führt. Dies ergibt sich aus [Norm/Begründung]. Für Fragen stehen wir zur Verfügung."
+
+**Schlechte Nachricht (Zurückweisung):**
+„Das Registergericht hat unseren Antrag mit Zwischenverfügung vom [Datum] beanstandet. Wir haben die Beanstandung geprüft und [werden/werden nicht] dagegen vorgehen. Bitte melden Sie sich, damit wir das weitere Vorgehen besprechen können."
+
+## Datenschutz in der Mandantenkommunikation
+
+- Keine personenbezogenen Daten im Betreff (DSGVO-Minimalitätsgrundsatz)
+- Anhänge nur wenn verschlüsselt oder per beN
+- Keine Weiterleitung an Dritte ohne Einwilligung
+- CC-Adressen prüfen: werden alle Empfänger berechtigt informiert?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Ist der Inhalt unparteiisch (alle Beteiligten gleich behandelt)?
+- Werden Fristen klar kommuniziert?
+- Ist der nächste Handlungsschritt eindeutig?
+- Werden keine steuerrechtlichen oder anwaltlichen Empfehlungen gegeben?
+- Datenschutz: Anhang verschlüsselt, Betreff neutral?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Einseitige Formulierungen, die den Eindruck erwecken, der Notar vertrete eine Partei.
+- Zu technische Sprache → Mandant versteht Handlungsbedarf nicht.
+- Kein konkreter Termin in der Anforderung → Verzögerung.
+- Kostenmitteilung ohne Erläuterung → Unmut und Rückfragen.
+- CC-Fehler: E-Mail an falsche Person → Datenpanne.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- § 14 BNotO: https://dejure.org/gesetze/BNotO/14.html
+- § 29 BNotO: https://dejure.org/gesetze/BNotO/29.html
+- § 17 BeurkG: https://dejure.org/gesetze/BeurkG/17.html
+- RDG: https://www.gesetze-im-internet.de/rdg/
+- DSGVO Art. 5: https://dejure.org/gesetze/DSGVO/5.html
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Mandantenmail freundlich knapp und rechtssicher** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Vollzugsstandsmail** (Muster mit Ampel)
+- **Unterlagen-Anforderungsmail** (Muster)
+- **Schwierige-Nachricht-Vorlage** (Zurückweisung, Kostensteigerung)
+- **Kostenmitteilungs-Muster**
+- **Datenschutz-Checkliste** (vor dem Versand)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

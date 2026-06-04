@@ -1,53 +1,95 @@
 ---
-name: notariat-049-liste-wirtschaftlich-berechtigter-transparenzregist
-description: "Notariat im Alltag: Liste wirtschaftlich Berechtigter Transparenzregister mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-049-liste-wirtschaftlich-berechtigter
+description: "Notariat im Alltag: Liste wirtschaftlich Berechtigter und Transparenzregister. Meldepflichten nach GwG §§ 20–24, Abfragepflichten des Notars, Bußgelder und praktische Umsetzung."
 ---
 
-# Notariat im Alltag: Liste wirtschaftlich Berechtigter Transparenzregister
+# Notariat im Alltag: Liste wirtschaftlich Berechtigter – Transparenzregister
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Liste wirtschaftlich Berechtigter Transparenzregister** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Das Transparenzregister erfasst die wirtschaftlich Berechtigten hinter Gesellschaften und sonstigen Vereinigungen. Notare haben sowohl Abfrage- als auch Hinweispflichten. Dieser Skill strukturiert die Pflichten, Abfragewege und Bußgeldrisiken.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: §§ 20–24 GwG (Transparenzregister), § 3 GwG (Definition wirtschaftlich Berechtigter), § 56 GwG (Bußgeldvorschriften), EU-Richtlinie 2018/843 (5. Geldwäscherichtlinie), § 26a GwG (Transparenzregisterauszüge für Notare), GwG-Anwendungserlass des BMF.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Definition wirtschaftlich Berechtigter (§ 3 GwG)
+
+Wirtschaftlich Berechtigter ist:
+- Bei juristischen Personen: natürliche Person, die mehr als 25 % der Kapitalanteile oder Stimmrechte direkt oder indirekt hält
+- Bei Trusts und Stiftungen: Gründer, Treuhänder, Protector, Begünstigte oder Personengruppe im Interesse derer der Trust verwaltet wird
+- Wenn kein wirtschaftlicher Eigentümer feststellbar: gesetzlicher Vertreter (fiktiv Berechtigter)
+
+## Transparenzregister-Meldepflicht (§ 20 GwG)
+
+**Meldepflichtige Vereinigungen:**
+- Alle juristischen Personen des Privatrechts (GmbH, AG, Stiftung, Verein wenn eingetragen)
+- Eingetragene Personengesellschaften (OHG, KG, GmbH & Co. KG)
+- Nicht meldepflichtig: BGB-Gesellschaft (GbR) – bis auf eGbR nach MoPeG
+
+**Meldefrist:** Unverzüglich nach Eintragung; bei Änderungen: unverzüglich.
+
+**Inhalt:** Name, Geburtsdatum, Staatsangehörigkeit, Wohnanschrift, Art und Umfang des wirtschaftlichen Interesses.
+
+## Notar-Abfragepflicht (§ 10 Abs. 3 Nr. 2 GwG i.V.m. § 20 GwG)
+
+Bei Beurkundungsgeschäften, die Gesellschaften betreffen, muss der Notar das Transparenzregister abfragen und die Ergebnisse dokumentieren.
+
+**Pflicht-Abfrage bei:**
+- Anteilsübertragungen
+- Gesellschaftsgründungen
+- Grundstückstransaktionen mit Gesellschaftsbeteiligung
+- Kapitalerhöhungen
+
+**Dokumentation:** Abfrageergebnis ausdrucken oder elektronisch speichern; in die GwG-Akte aufnehmen.
+
+## Transparenzregister und Vollregister (ab 2021)
+
+Seit dem Transparenzregister- und Finanzinformationsgesetz (2021) ist das Transparenzregister ein Vollregister: Alle Vereinigungen müssen ihre wirtschaftlich Berechtigten aktiv eintragen, auch wenn diese bereits aus anderen Registern (HR, Vereinsregister) ersichtlich wären. Die „Mitteilungsfiktion" (§ 20 Abs. 2 GwG a.F.) entfiel.
+
+## Abfrage und Einsicht
+
+- Öffentliche Abfrage: https://www.transparenzregister.de (kostenpflichtig für bestimmte Zwecke)
+- Notare: erhöhte Einsichtsrechte (§ 23 Abs. 1 Nr. 4 GwG)
+- Abfrage im Rahmen der GwG-Sorgfaltspflicht: gebührenfrei für Verpflichtete unter bestimmten Voraussetzungen
+
+## Bußgelder (§ 56 GwG)
+
+| Verstoß | Bußgeld bis |
+|---|---|
+| Nicht-Meldung wirtschaftlich Berechtigter | 1 Mio. € |
+| Verspätete Meldung | 150.000 € |
+| Unterlassene Aktualisierung | 150.000 € |
+| Notar: Unterlassung der Abfrage | 150.000 € |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Transparenzregister abgefragt und Ergebnis dokumentiert?
+- Stimmt das Ergebnis mit den identifizierten Angaben überein?
+- Ist die Meldung der Gesellschaft vollständig und aktuell?
+- Widersprüche zwischen Transparenzregister und Gesellschafterstruktur dokumentiert?
+- Bei Nichtmeldung: Hinweis an Geschäftsführer/Vorstand erteilt?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Abfrage vergessen → GwG-Verstoß des Notars.
+- Gesellschaft hat Meldung nicht aktualisiert (nach Gesellschafterwechsel) → Notar muss hinweisen.
+- Fiktiver Berechtigter (gesetzlicher Vertreter) statt echtem wirtschaftlichen Eigentümer → unzulässig wenn echter WB identifizierbar.
+- Transparenzregister-Auszug nicht archiviert → Dokumentationslücke.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- § 20 GwG: https://dejure.org/gesetze/GwG/20.html
+- § 3 GwG (WB-Definition): https://dejure.org/gesetze/GwG/3.html
+- § 56 GwG (Bußgeld): https://dejure.org/gesetze/GwG/56.html
+- Transparenzregister: https://www.transparenzregister.de
+- 5. GeldwäscheRL: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32018L0843
+- BNotK GwG-Leitfaden: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Liste wirtschaftlich Berechtigter Transparenzregister** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Transparenzregister-Abfragprotokoll** (Datum, Ergebnis, Abweichungen)
+- **Hinweisschreiben an Gesellschaft** (bei fehlerhafter Meldung)
+- **GwG-Dokumentationsblatt** (zusammenfassung für Akte)
+- **Bußgeld-Risikocheck** (Melde-/Aktualisierungspflicht)
+- **Mandantenmail** (WB-Meldepflicht erklären)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

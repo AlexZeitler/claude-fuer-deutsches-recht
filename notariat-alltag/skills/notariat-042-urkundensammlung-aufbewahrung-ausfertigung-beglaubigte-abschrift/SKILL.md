@@ -1,53 +1,91 @@
 ---
-name: notariat-042-urkundensammlung-aufbewahrung-ausfertigung-beglaubi
-description: "Notariat im Alltag: Urkundensammlung Aufbewahrung Ausfertigung beglaubigte Abschrift mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-042-urkundensammlung-aufbewahrung-ausfertigung
+description: "Notariat im Alltag: Urkundensammlung, Aufbewahrung, Ausfertigung und beglaubigte Abschrift. Pflichten nach DONot, Ausfertigungs- und Abschriftsarten, Aufbewahrungsfristen und Vernichtungsvoraussetzungen."
 ---
 
-# Notariat im Alltag: Urkundensammlung Aufbewahrung Ausfertigung beglaubigte Abschrift
+# Notariat im Alltag: Urkundensammlung, Aufbewahrung, Ausfertigung, beglaubigte Abschrift
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Urkundensammlung Aufbewahrung Ausfertigung beglaubigte Abschrift** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Die Urkundensammlung ist das Herzstück des Notararchivs. Dieser Skill klärt die unterschiedlichen Dokumentenarten (Urschrift, Ausfertigung, beglaubigte Abschrift), Aufbewahrungsfristen und Ausfertigungsvoraussetzungen.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: §§ 44–64 BeurkG (Ausfertigungen, Abschriften), § 50 BeurkG (Ausfertigung), § 51 BeurkG (beglaubigte Abschrift), § 52 BeurkG (unbeglaubigte Abschrift), §§ 9–14 DONot (Urkundenrolle, Aufbewahrung), § 18 BNotO (Aktenaufbewahrung), GBO § 29 (Form der Eintragungsunterlagen).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Dokumentenarten im Überblick
+
+| Dokumententyp | Definition | Rechtswirkung |
+|---|---|---|
+| Urschrift | Das Original-Dokument beim Notar verbleibt | Niemals herausgegeben (§ 45 BeurkG) |
+| Ausfertigung (§ 47 BeurkG) | Amtlich gleichgestellte Abschrift der Urschrift; vollstreckbar | Gleichwertig mit Urschrift für Vollzug |
+| Beglaubigte Abschrift (§ 42 BeurkG) | Wortgleiche Kopie mit Beglaubigungsvermerk | Zulässig für Beweis, Register (soweit ausreichend) |
+| Elektronische Ausfertigung (§ 47 BeurkG) | qeS-signierte Ausfertigung | Für elektronischen Rechtsverkehr |
+| Abschrift (§ 42 BeurkG) | Einfache Kopie ohne Beglaubigung | Nur für interne Zwecke, kein Vollzug |
+
+## Ausfertigung: Voraussetzungen und Erteilung
+
+Ausfertigungen dürfen nur erteilt werden:
+- An die Beteiligten (§ 47 BeurkG)
+- An deren Rechtsnachfolger
+- An öffentliche Behörden auf Antrag
+- Mehr als eine vollstreckbare Ausfertigung nur auf richterliche Anordnung (§ 733 ZPO)
+
+**Vollstreckbare Ausfertigung:** Bei Vollstreckungsunterwerfung nach § 794 ZPO; erfordert Klauselerteilung; Gegenwehr: § 732 ZPO (sofortige Beschwerde).
+
+## Beglaubigte Abschrift
+
+- Für Registeranmeldungen, bei denen beglaubigte Abschrift statt Ausfertigung ausreicht
+- Beglaubigung durch Notar, der die Urschrift verwahrt, oder durch Beglaubigungsvermerk eines anderen Notars nach Einsichtnahme
+- Wortlautgenauigkeit Voraussetzung
+
+## Aufbewahrungsfristen (DONot §§ 9–18, § 18 BNotO)
+
+| Dokument | Aufbewahrungsfrist |
+|---|---|
+| Urkundenrolle | 100 Jahre |
+| Urkunden (Urschriften) | 100 Jahre |
+| Nebenakten | 30 Jahre |
+| GwG-Dokumentation | 5 Jahre |
+| Verwahrungsbücher | 30 Jahre |
+| Kostenrechnungen | 10 Jahre (HGB § 257) |
+
+## Vernichtung von Unterlagen
+
+Nach Ablauf der Aufbewahrungsfrist dürfen Unterlagen vernichtet werden. Vor Vernichtung: Prüfung, ob Unterlagen für laufende Verfahren noch benötigt werden. Vernichtung ordnungsgemäß dokumentieren (Vernichtungsprotokoll).
+
+## Elektronische Aktenführung
+
+Elektronische Akte ist zulässig. Papierurkunden müssen dennoch aufbewahrt werden (§ 45 BeurkG). Elektronische Kopien sind Arbeitskopien, nicht Ersatz für das Original. Backup-Pflicht für elektronische Akten.
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Welche Ausfertigungsart benötigt Register/Gericht (Ausfertigung vs. beglaubigte Abschrift)?
+- Ist die vollstreckbare Ausfertigung korrekt mit Klausel versehen?
+- Sind alle Aufbewahrungsfristen in der Akte vermerkt?
+- Wurde nach Ablauf der Frist ordnungsgemäß vernichtet?
+- Elektronische Akten: Backup vorhanden?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Ausfertigung an Nichtberechtigten herausgegeben.
+- Mehrere vollstreckbare Ausfertigungen ohne richterliche Anordnung.
+- Urschrift herausgegeben statt Ausfertigung.
+- GwG-Dokumentation zu früh vernichtet (nur 5 Jahre!).
+- Elektronische Akte ohne Backup.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- §§ 44–64 BeurkG: https://dejure.org/gesetze/BeurkG/44.html
+- § 50 BeurkG (Ausfertigung): https://dejure.org/gesetze/BeurkG/50.html
+- DONot §§ 9–18: https://www.bnotk.de/notare/berufsrecht/dienstordnung/
+- § 18 BNotO: https://dejure.org/gesetze/BNotO/18.html
+- § 733 ZPO (zweite vollstreckbare Ausfertigung): https://dejure.org/gesetze/ZPO/733.html
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Urkundensammlung Aufbewahrung Ausfertigung beglaubigte Abschrift** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Ausfertigungs-Entscheidungsbaum** (welche Art für welchen Zweck)
+- **Aufbewahrungsfristen-Übersicht** (Tabelle)
+- **Vernichtungsprotokoll-Muster**
+- **Vollstreckbare Ausfertigung** (Klauseltext-Muster)
+- **Mandantenmail** (Ausfertigung angefordert, Anleitung)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

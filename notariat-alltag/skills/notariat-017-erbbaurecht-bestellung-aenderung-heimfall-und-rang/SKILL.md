@@ -1,53 +1,86 @@
 ---
 name: notariat-017-erbbaurecht-bestellung-aenderung-heimfall-und-rang
-description: "Notariat im Alltag: Erbbaurecht Bestellung Änderung Heimfall und Rang mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Notariat im Alltag: Erbbaurecht – Bestellung, Änderung, Heimfall und Rang. Inhalt des Erbbaurechtsvertrags, Grundbuchrecht, Erbbauzins, Heimfallklauseln und Finanzierbarkeit des Erbbaurechts."
 ---
 
-# Notariat im Alltag: Erbbaurecht Bestellung Änderung Heimfall und Rang
+# Notariat im Alltag: Erbbaurecht – Bestellung, Änderung, Heimfall, Rang
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Erbbaurecht Bestellung Änderung Heimfall und Rang** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Das Erbbaurecht ist ein grundstücksgleiches Recht, das dem Erbbauberechtigten ermöglicht, auf einem fremden Grundstück ein Bauwerk zu haben. Es ist ein wichtiges Instrument für kommunale und kirchliche Grundstückseigentümer sowie für Wohnprojekte. Dieser Skill führt durch Bestellung, Inhalt, Finanzierbarkeit und Heimfall.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: ErbbauRG (Erbbaurechtsgesetz), §§ 1–39 ErbbauRG, §§ 873, 877 BGB (Entstehung dinglicher Rechte), GBO §§ 14–30 (Grundbuchverfahren), § 9 ErbbauRG (Erbbauzins), § 2 ErbbauRG (Inhalt), §§ 23–26 ErbbauRG (Heimfall), GNotKG.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Grundstruktur des Erbbaurechts
+
+Das Erbbaurecht ist ein selbständiges, veräußerliches und vererbliches Recht (§ 1 Abs. 1 ErbbauRG). Es wird im Erbbaugrundbuch (separates Grundbuchblatt) und im Grundstücksgrundbuch eingetragen. Das Bauwerk ist wesentlicher Bestandteil des Erbbaurechts, nicht des Grundstücks (§ 12 Abs. 1 ErbbauRG).
+
+## Pflichtinhalt des Erbbaurechtsvertrags (§ 2 ErbbauRG)
+
+Inhalt kraft Gesetzes (buchungsfähige Bestimmungen):
+- Erbbauzins: Höhe, Anpassung (§ 9 ErbbauRG)
+- Heimfall: Voraussetzungen, Entschädigung (§§ 23–26 ErbbauRG)
+- Nutzung: Art und Umfang der Bebauung
+- Erneuerung bei Verfall (§ 27 ErbbauRG)
+- Entschädigung bei Zeitablauf (§§ 27–28 ErbbauRG)
+- Vorkaufsrecht des Grundstückseigentümers (§ 1094 BGB analog)
+
+## Bestellung
+
+1. Notarielle Beurkundung des Erbbaurechtsvertrags (§ 311b BGB analog i.V.m. ErbbauRG)
+2. Eintragungsbewilligung des Grundstückseigentümers
+3. Antrag auf Eintragung in Grundbuch (§ 873 BGB)
+4. Anlage des Erbbaugrundbuchs
+5. Vermerkung im Grundstücksgrundbuch (Abt. II: Erbbaurecht)
+
+## Erbbauzins und Anpassung (§ 9 ErbbauRG)
+
+Der Erbbauzins ist regelmäßige Gegenleistung. Anpassungsklausel empfohlen (Lebenshaltungsindex, Bodenwertsteigerung). Wertsicherungsklausel muss den Anforderungen der BdB/BBankG genügen. Erbbauzins ist grundstücksgleich belastbar (Reallast nach § 9 Abs. 2 ErbbauRG → Eintragung im Grundstücksgrundbuch als Reallast).
+
+## Heimfall (§§ 23–26 ErbbauRG)
+
+Bei schwerwiegenden Vertragsverstößen durch den Erbbauberechtigten kann der Grundstückseigentümer den Heimfall verlangen (Übertragung des Erbbaurechts gegen Entschädigung). Heimfallvoraussetzungen müssen im Vertrag bestimmt sein (§ 2 Nr. 4 ErbbauRG).
+
+Entschädigung: Zeitwert des Bauwerks (§ 27 Abs. 1 ErbbauRG), abzüglich offener Verbindlichkeiten gegenüber Grundpfandgläubigern.
+
+## Finanzierbarkeit des Erbbaurechts
+
+Erbbaurechte sind beleihbar (Grundschuldbestellung auf Erbbaurecht, § 11 ErbbauRG). Banken verlangen i.d.R.:
+- Mindest-Restlaufzeit (üblicherweise 30–40 Jahre über Kreditlaufzeit)
+- Zustimmung des Grundstückseigentümers zu Belastungen (§ 5 ErbbauRG)
+- Heimfallabsicherung: Mitteilung an Grundpfandgläubiger (§ 25 ErbbauRG)
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Ist die Restlaufzeit für Finanzierung ausreichend?
+- Heimfallklauseln eindeutig? Entschädigungsregelung vollständig?
+- Anpassungsklausel Erbbauzins zulässig (keine unzulässige Wertsicherungsklausel)?
+- Nutzungsart klar definiert? Bebauungspflicht aufgenommen?
+- Zustimmungserfordernisse (§§ 5–6 ErbbauRG) im Vertrag berücksichtigt?
+- Vorkaufsrecht des Grundstückseigentümers geregelt?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Fehlende Heimfallentschädigungsklausel → Rechtsstreit bei Heimfall.
+- Erbbauzins ohne Anpassungsklausel → Werterosion bei Inflation.
+- Grundpfandgläubiger nicht über Heimfall informiert → Bank verliert Sicherheit.
+- Erbbaurecht ohne Eintragung im Erbbaugrundbuch → entsteht nicht.
+- Nutzungsänderung ohne Zustimmung des Grundstückseigentümers → Heimfalltatbestand.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- ErbbauRG: https://www.gesetze-im-internet.de/erbbaurvo/
+- § 9 ErbbauRG (Erbbauzins): https://dejure.org/gesetze/ErbbauRG/9.html
+- §§ 23–26 ErbbauRG (Heimfall): https://dejure.org/gesetze/ErbbauRG/23.html
+- BGH zu Erbbaurecht: https://www.bgh.de
+- BNotK Erbbaurecht: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Erbbaurecht Bestellung Änderung Heimfall und Rang** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Erbbaurechtsvertrag-Gliederung** (mit allen Pflichtinhalten)
+- **Erbbauzins-Anpassungsklausel** (Muster, wertsicherungskonform)
+- **Heimfall-Klauselkatalog**
+- **Vollzugscockpit** (Grundbuchanlegung, Rangeintragung)
+- **Finanzierbarkeitscheck** (Restlaufzeit, Bankauflagen)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

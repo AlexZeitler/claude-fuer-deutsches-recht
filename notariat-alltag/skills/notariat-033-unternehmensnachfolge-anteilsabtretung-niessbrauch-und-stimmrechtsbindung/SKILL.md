@@ -1,53 +1,90 @@
 ---
 name: notariat-033-unternehmensnachfolge-anteilsabtretung-niessbrauch
-description: "Notariat im Alltag: Unternehmensnachfolge Anteilsabtretung Nießbrauch und Stimmrechtsbindung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Notariat im Alltag: Unternehmensnachfolge – Anteilsabtretung, Nießbrauch und Stimmrechtsbindung. Strukturierung der Unternehmensnachfolge mittels GmbH-Anteilsabtretung, Nießbrauchsvorbehalt und Poolvertrag."
 ---
 
-# Notariat im Alltag: Unternehmensnachfolge Anteilsabtretung Nießbrauch und Stimmrechtsbindung
+# Notariat im Alltag: Unternehmensnachfolge – Anteilsabtretung, Nießbrauch, Stimmrechtsbindung
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Unternehmensnachfolge Anteilsabtretung Nießbrauch und Stimmrechtsbindung** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Die Unternehmensnachfolge ist die komplexeste Aufgabe der Notariatsberatung. Dieser Skill strukturiert die wichtigsten notariellen Gestaltungsmittel: Anteilsabtretung, Nießbrauchsvorbehalt, Stimmrechtsbindung und Poolverträge für GmbH-Anteile.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: § 15 GmbHG (Anteilsabtretung, notarielle Form), §§ 1030–1089 BGB (Nießbrauch), §§ 2325–2338 BGB (Pflichtteilsergänzung), § 16 GmbHG (Gutglaubensschutz), ErbStG (Bewertung, Freibeträge, § 13a ff.), UmwStG, GwG.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Anteilsabtretung (§ 15 GmbHG)
+
+Die Abtretung von GmbH-Anteilen bedarf der notariellen Beurkundung (§ 15 Abs. 3 GmbHG). Ausnahmen: kraft Gesetzes kraft Gesetzes übergehende Anteile (Erbfall). Die Beurkundung erfasst Abtretungsvertrag und Übernahmeerklärung.
+
+**Schenkungsabtretung:**
+- Formzwang doppelt: § 15 Abs. 3 GmbHG (GmbH-Abtretung) + § 518 BGB (Schenkung)?
+- h.M.: § 15 Abs. 3 GmbHG genügt; keine doppelte Beurkundung nötig.
+
+## Nießbrauchs-Vorbehalt bei Anteilsübertragung
+
+Der Übergeber überträgt den Anteil, behält sich aber den Nießbrauch (§ 1030 BGB) vor. Unterschieden werden:
+- **Dividenden-Nießbrauch:** Recht auf Ausschüttungen; kein Stimmrecht
+- **Vollrechtsnießbrauch:** Recht auf Ausschüttungen + Stimmrecht (str., BGH-Rspr. beachten)
+- **Vorzugs-Nießbrauch:** Stimmrecht bleibt beim Übergeber (via Vollmacht oder direkt)
+
+**Steuerlich:** Nießbrauchsvorbehalt mindert Schenkungsteuerwert (§ 14 BewG: Kapitalwert des Nießbrauchs).
+
+## Stimmrechtsbindung (Poolvertrag)
+
+Zur Sicherung der Unternehmensführung werden Poolverträge vereinbart:
+- Stimmrechtsbindung: alle Poolmitglieder stimmen nach Mehrheitsentscheid des Pools ab
+- Verfügungsbeschränkung: Anteilsverkauf nur an Pool-Mitglieder oder mit Zustimmung
+- **Steuervorteil:** gebündelte Anteile > 25 % = Unternehmensvermögen (§ 13b ErbStG) → Begünstigung § 13a/13c ErbStG
+
+## ErbStG-Begünstigungen (§§ 13a, 13b, 13c ErbStG)
+
+- **§ 13a ErbStG:** 85 % Verschonungsabschlag (Regelverschonung) oder 100 % Optionsverschonung
+- **Voraussetzungen:** Lohnsummenregel (§ 13a Abs. 3 ErbStG), Behaltensfristen (5 bzw. 7 Jahre)
+- **Poolvertrag:** Anteile > 25 % im Pool gelten als begünstigtes Betriebsvermögen
+
+## Pflichtteilsergänzung (§§ 2325–2328 BGB)
+
+Schenkungen innerhalb von 10 Jahren können Pflichtteilsansprüche erhöhen. Nießbrauchsvorbehalt: 10-Jahres-Frist beginnt erst mit Aufhebung des Nießbrauchs (BGH, Urt. v. 27.4.1994 – IV ZR 175/92).
+
+## Vollzugskette
+
+1. Beurkundung Anteilsabtretungsvertrag (§ 15 GmbHG)
+2. Gesellschafterliste aktualisieren und einreichen (§ 40 GmbHG, Notar-Pflicht)
+3. Transparenzregister aktualisieren (§ 20 GwG)
+4. Nießbrauch als dingliches Recht ggf. im Gesellschaftsvertrag verankern
+5. Poolvertrag schließen (kein Formzwang, aber Beurkundung empfohlen)
+6. ErbSt-Meldung an Finanzamt (§ 30 ErbStG)
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Pflichtteilsansprüche der weichenden Kinder beachtet?
+- Nießbrauch steuerlich optimal gestaltet (Vollrecht vs. Dividendennießbrauch)?
+- Poolvertrag: Mehrheiten, Austritt, Erbfolge geregelt?
+- ErbStG-Begünstigung: Lohnsummenregel und Behaltensfrist realistisch?
+- GwG: neue wirtschaftlich Berechtigte nach Anteilsübertragung gemeldet?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Nießbrauchsvorbehalt ohne Stimmrechtsregelung → Übergeberin verliert Einfluss.
+- Poolvertrag ohne Erbfolgeregelung → Pool zerfällt nach Todesfall.
+- ErbStG-Begünstigung verloren weil Behaltensfrist verletzt.
+- Pflichtteilsergänzung nicht kalkuliert → unerwartete Liquiditätsbelastung.
+- Transparenzregister nicht aktualisiert → Bußgeld.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- § 15 GmbHG: https://dejure.org/gesetze/GmbHG/15.html
+- §§ 13a, 13b ErbStG: https://dejure.org/gesetze/ErbStG/13a.html
+- §§ 2325–2328 BGB: https://dejure.org/gesetze/BGB/2325.html
+- BGH zur Nießbrauchsschenkung: https://www.bgh.de
+- GwG § 20: https://dejure.org/gesetze/GwG/20.html
+- BNotK Nachfolgeplanung: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Unternehmensnachfolge Anteilsabtretung Nießbrauch und Stimmrechtsbindung** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Nachfolge-Strukturplan** (Übertragungsweg, Steuerfolge)
+- **Anteilsabtretungsvertrag-Entwurf** (mit Nießbrauchsvorbehalt)
+- **Poolvertrag-Grundstruktur**
+- **ErbStG-Begünstigungscheck** (Lohnsumme, Behaltensfrist)
+- **Mandantenmail** (Pflichtteilsrisiko, nächste Schritte)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

@@ -1,53 +1,88 @@
 ---
-name: notariat-057-remote-vorbereitung-ohne-unzulaessige-fernbeurkundu
-description: "Notariat im Alltag: Remote-Vorbereitung ohne unzulässige Fernbeurkundung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-057-remote-vorbereitung-ohne-unzulaessige
+description: "Notariat im Alltag: Remote-Vorbereitung ohne unzulässige Fernbeurkundung. Was remote vorbereitet werden darf, Grenzen der Fernkommunikation, zulässige digitale Zusammenarbeit und Terminvorbereitung."
 ---
 
 # Notariat im Alltag: Remote-Vorbereitung ohne unzulässige Fernbeurkundung
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Remote-Vorbereitung ohne unzulässige Fernbeurkundung** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Die Digitalisierung verleitet zu der Annahme, man könne Beurkundungen vollständig remote abwickeln. Dieser Skill klärt, was vor dem Termin remote erlaubt ist, welche Schritte zwingend persönlich stattfinden müssen und wie ein optimaler Remote-Vorbereitungsprozess aussieht.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: §§ 6–35 BeurkG (Beurkundungsverfahren – Präsenzerfordernis), § 13 BeurkG (Vorlesen in Gegenwart), § 16 BeurkG (Dolmetscher), § 16a BNotO (Videobeurkundung – begrenzt), §§ 40a–40e BeurkG (Online-Beglaubigung), § 29 BNotO (Verschwiegenheit bei Kommunikation), DSGVO (Datenschutz).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Was ist remote zulässig?
+
+| Tätigkeit | Remote zulässig? |
+|---|---|
+| Entwurfserstellung und -versand | Ja |
+| Sachverhaltsaufnahme per Telefon/Video | Ja (kein Beurkundungsakt) |
+| Identifizierung per Video-KYC | Nur für Online-Beglaubigung (§ 40a BeurkG) |
+| Korrekturen am Entwurf besprechen | Ja |
+| Erläuterung des Entwurfs | Ja (aber Belehrung nach § 17 BeurkG beim Termin) |
+| Vollmacht vorausfüllen | Ja |
+| GwG-Unterlagen anfordern | Ja |
+| Beurkundung selbst | NEIN (§ 13 BeurkG: Gegenwart erforderlich) |
+| Unterschriftsbeglaubigung | NEIN (Ausnahme: Online-Beglaubigung § 40a BeurkG) |
+
+## Zulässige Online-Beglaubigung (§§ 40a–40e BeurkG)
+
+Seit 2022: Unterschriftsbeglaubigung kann unter bestimmten Voraussetzungen online erfolgen:
+- Beteiligter nutzt qualifizierte elektronische Signatur (qeS) nach eIDAS
+- Notar und Beteiligter kommunizieren per Videokonferenz
+- Identifizierung über zugelassenes Videoident-Verfahren
+- Geltungsbereich begrenzt auf bestimmte Urkunden
+
+## Optimaler Remote-Vorbereitungsprozess
+
+1. **Sachverhaltsaufnahme** (Telefon/Video, 30 Min.)
+2. **GwG-Unterlagen-Anforderung** per E-Mail
+3. **Entwurf erstellen und versenden** (Entwurfsversand + Wartefrist §17 Abs. 2a BeurkG)
+4. **Entwurfsreview per Video** (Fragen klären, Änderungen besprechen)
+5. **Termin vereinbaren** (erst nach Ablauf Wartefrist)
+6. **Terminerinnerung** mit Unterlagen-Checkliste (was mitbringen?)
+7. **Präsenztermin** (Identifizierung, Vorlesen, Belehrung, Unterzeichnung)
+
+## Datenschutz bei Remote-Kommunikation
+
+- Videocalls: nur über datenschutzkonforme Plattformen (DSGVO, Art. 32)
+- Dokumentenversand: beN oder verschlüsseltes PDF
+- Aufzeichnung von Videocalls: nur mit Einwilligung; für Beurkundungszwecke nicht geeignet
+- Speicherung von Videokonferenzdaten: begrenzte Aufbewahrung
+
+## Häufige Fehler bei Remote-Zusammenarbeit
+
+- Notar erteilt „Vorab-Belehrung" per Video, die die formelle Belehrung beim Termin ersetzen soll → unzulässig.
+- Notar nimmt Änderungswünsche per Video entgegen ohne beide Parteien gleichzeitig einzubeziehen → Unparteilichkeitsrisiko.
+- Mandant möchte Beurkundung per Video-Call → ausdrückliche Aufklärung: nur in gesetzlich geregelten Ausnahmefällen.
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Ist der geplante Schritt eine Beurkundungshandlung (Präsenz erforderlich) oder eine Vorbereitungsmaßnahme?
+- Liegt eine gesetzliche Grundlage für die Online-Beglaubigung vor?
+- Remote-Kommunikation DSGVO-konform?
+- Entwurfsversand dokumentiert?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Belehrung remote erteilt, nicht wiederholt beim Termin → §17 BeurkG-Mangel.
+- Beurkundung via Zoom ohne gesetzliche Basis → nichtige Urkunde.
+- Entwurfsänderungen remote vereinbart, aber nicht in aktualisiertem Entwurf festgehalten.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- § 13 BeurkG: https://dejure.org/gesetze/BeurkG/13.html
+- §§ 40a–40e BeurkG: https://dejure.org/gesetze/BeurkG/40a.html
+- § 16a BNotO: https://dejure.org/gesetze/BNotO/16a.html
+- DSGVO Art. 32: https://dejure.org/gesetze/DSGVO/32.html
+- BNotK Online-Beurkundung: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Remote-Vorbereitung ohne unzulässige Fernbeurkundung** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Remote-Vorbereitungsplan** (Schritt für Schritt)
+- **Zulässigkeits-Entscheidungsbaum** (was remote geht, was nicht)
+- **Video-Terminagenda** (Entwurfsreview, kein Beurkundungsakt)
+- **DSGVO-Prüfung Kommunikationstool**
+- **Mandantenmail** (Vorbereitung remote, Präsenztermin nötig)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

@@ -1,53 +1,88 @@
 ---
-name: notariat-016-teilungserklaerung-weg-sondernutzungsrechte-und-auf
-description: "Notariat im Alltag: Teilungserklärung WEG Sondernutzungsrechte und Aufteilungsplan mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-016-teilungserklaerung-weg-sondernutzungsrechte-und
+description: "Notariat im Alltag: Teilungserklärung WEG, Sondernutzungsrechte und Aufteilungsplan. Begründung von Wohnungseigentum nach § 8 WEG, Inhalt der Teilungserklärung, Gemeinschaftsordnung, Sondernutzungsrechte und grundbuchrechtliche Vollzugsfragen."
 ---
 
-# Notariat im Alltag: Teilungserklärung WEG Sondernutzungsrechte und Aufteilungsplan
+# Notariat im Alltag: Teilungserklärung WEG, Sondernutzungsrechte, Aufteilungsplan
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Teilungserklärung WEG Sondernutzungsrechte und Aufteilungsplan** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Die Begründung von Wohnungseigentum durch Teilungserklärung ist die Voraussetzung für den Verkauf einzelner Wohnungen aus einem Gebäude. Dieser Skill führt durch den gesamten Prozess von der Teilungserklärung bis zur Grundbuchanlegung.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: §§ 1–49 WEG (Wohnungseigentumsgesetz), § 8 WEG (Teilung durch Eigentümer), § 3 WEG (Begründung durch Vertrag), §§ 5–7 WEG (Gemeinschafts- und Sondereigentum), § 9 WEG (Grundbuchrecht), § 10 WEG (Gemeinschaftsordnung), GBO §§ 18–22 (Eintragungsverfahren), BauO der Länder (Abgeschlossenheitsbescheinigung), WEG Reform 2020 (WEMoG).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Begründungsformen
+
+| Form | Voraussetzung | Notar |
+|---|---|---|
+| § 8 WEG – Einheitliche Teilung durch Alleineigentümer | Alleineigentümer erklärt Aufteilung | Notarielle Beurkundung |
+| § 3 WEG – Vertragliche Begründung | Alle Miteigentümer vereinbaren Aufteilung | Notarielle Beurkundung |
+
+## Pflichtinhalt der Teilungserklärung
+
+- Genaue Bezeichnung des Grundstücks
+- Aufteilung in Sondereigentum und Gemeinschaftseigentum
+- Miteigentumsanteile in Bruchteilen
+- Bezugnahme auf Aufteilungsplan (Anlage)
+- Gemeinschaftsordnung (§ 10 WEG): Verwaltung, Beschlussfassung, Kostentragung
+
+## Abgeschlossenheitsbescheinigung
+
+Vor der Grundbucheintragung muss die Baubehörde die Abgeschlossenheit der einzelnen Einheiten bescheinigen (§ 7 Abs. 4 WEG). Sie bestätigt, dass jede Einheit baulich vollständig abgegrenzt ist. Diese Bescheinigung ist dem Grundbuchamt vorzulegen.
+
+## Sondernutzungsrechte
+
+Sondernutzungsrechte sind dingliche Rechte, die einem Wohnungseigentümer die alleinige Nutzung von Gemeinschaftseigentum (z.B. Stellplatz, Gartenanteil, Kellerraum) einräumen.
+
+**Begründung:** In der Teilungserklärung oder durch Vereinbarung aller Eigentümer; muss ins Grundbuch eingetragen werden (§ 10 Abs. 3 WEG).
+**Übertragung:** Nur zusammen mit dem Sondereigentum.
+**Abgrenzung zu Sondereigentum:** Sondernutzungsrecht ≠ Sondereigentum; Gemeinschaftseigentum bleibt es rechtlich, aber Nutzung ist exklusiv.
+
+## Gemeinschaftsordnung (§ 10 WEG)
+
+Die Gemeinschaftsordnung regelt das Verhältnis der Eigentümer untereinander. Wichtige Regelungspunkte:
+- Kostentragung (Abweichung vom gesetzlichen Kostenverteilungsschlüssel § 16 WEG)
+- Beschlussfähigkeit und Stimmrechte
+- Verwaltungsbeirat
+- Nutzungsbeschränkungen (z.B. Vermietungsverbote, Tierhaltung)
+- Veräußerungszustimmung (§ 12 WEG): Verwalterzustimmung als Zustimmungsvorbehalt
+
+## WEG-Reform 2020 (WEMoG)
+
+Seit 1.12.2020: Wohnungseigentümergemeinschaft ist teilrechtsfähig (§ 9a WEG). Beschlussfassung erleichtert. Verwaltungsbeirat stärker. Bauliche Veränderungen neu geregelt (§§ 20–21 WEG). Notarielle Relevanz: Teilungserklärungen sollten WEMoG-konforme Gemeinschaftsordnung aufweisen.
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Abgeschlossenheitsbescheinigung vorhanden?
+- Aufteilungsplan enthält alle Einheiten mit korrekten Nummern?
+- Sondernutzungsrechte klar zugeordnet (Einheit, Umfang, Dauer)?
+- Kostenverteilungsschlüssel sinnvoll und WEMoG-konform?
+- Verwalterzustimmung (§ 12 WEG) in Teilungserklärung aufgenommen?
+- Grundbuchanlegung: separates Wohnungsgrundbuchblatt je Einheit nötig?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Abgeschlossenheitsbescheinigung für falsche Einheiten ausgestellt.
+- Sondernutzungsrecht nicht ins Grundbuch eingetragen → nur schuldrechtliche Wirkung.
+- Aufteilungsplan und Teilungserklärung stimmen nicht überein.
+- Alte Gemeinschaftsordnung nicht WEMoG-kompatibel → Beschlussmängel.
+- Stellplätze als Sondereigentum statt Sondernutzungsrecht (Einzel-Tiefgaragenplätze: Teileigentum).
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- WEG: https://www.gesetze-im-internet.de/weg/
+- § 8 WEG: https://dejure.org/gesetze/WEG/8.html
+- § 10 WEG: https://dejure.org/gesetze/WEG/10.html
+- BGH zu WEG: https://www.bgh.de
+- BNotK WEG-Hinweise: https://www.bnotk.de
+- WEMoG: https://www.gesetze-im-internet.de/weg/
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Teilungserklärung WEG Sondernutzungsrechte und Aufteilungsplan** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Teilungserklärungsentwurf** (Grundstruktur mit Gemeinschaftsordnung)
+- **Sondernutzungsrechts-Tabelle** (Einheit → Fläche/Nutzung)
+- **Abgeschlossenheits-Checkliste**
+- **Vollzugsplan** (Grundbuchanlegung, Eintragungsreihenfolge)
+- **Mandantenmail** (Ablauf, Fristen, Kosten)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

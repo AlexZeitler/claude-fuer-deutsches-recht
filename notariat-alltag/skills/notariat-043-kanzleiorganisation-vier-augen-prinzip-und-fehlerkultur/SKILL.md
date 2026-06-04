@@ -1,53 +1,100 @@
 ---
-name: notariat-043-kanzleiorganisation-vier-augen-prinzip-und-fehlerku
-description: "Notariat im Alltag: Kanzleiorganisation Vier-Augen-Prinzip und Fehlerkultur mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-043-kanzleiorganisation-vier-augen-prinzip-und
+description: "Notariat im Alltag: Kanzleiorganisation, Vier-Augen-Prinzip und Fehlerkultur. Organisatorische Anforderungen an das Notariat, Qualitätssicherung, Fehlermanagement und Lernkultur."
 ---
 
-# Notariat im Alltag: Kanzleiorganisation Vier-Augen-Prinzip und Fehlerkultur
+# Notariat im Alltag: Kanzleiorganisation, Vier-Augen-Prinzip, Fehlerkultur
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Kanzleiorganisation Vier-Augen-Prinzip und Fehlerkultur** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Die Kanzleiorganisation entscheidet über Fehlerrate, Haftungsrisiken und Mitarbeiterzufriedenheit. Dieser Skill strukturiert organisatorische Mindestanforderungen, das Vier-Augen-Prinzip und eine konstruktive Fehlerkultur.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: § 1 BNotO (Unabhängigkeit), § 14 BNotO (Amtspflichten), § 26 BNotO (Aufsicht über Notariatspersonal), § 23 BNotO (Verschwiegenheitspflicht des Personals), DONot §§ 1–56 (Dienstpflichten), § 19 BNotO (Haftung), Datenschutz-Grundverordnung (DSGVO).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Organisatorische Mindestanforderungen
+
+| Bereich | Anforderung |
+|---|---|
+| Vollzugsüberwachung | Täglicher Vollzugsmonitor, Wiedervorlage-System |
+| Fristenkalender | Zentrales System, tägliche Prüfung, Eskalationsregeln |
+| Aktenführung | Papier und/oder elektronisch; Backup täglich |
+| GwG-Compliance | Prüfablauf dokumentiert, Schulung jährlich |
+| Datenschutz | AV-Verträge, Datenpannenprotokoll |
+| Kostenfestsetzung | Vier-Augen-Prüfung vor Rechnungsversand |
+| Urkundenversand | Empfangsbestätigung einholen |
+
+## Vier-Augen-Prinzip
+
+Das Vier-Augen-Prinzip bedeutet: Wichtige Handlungen werden von zwei Personen geprüft, bevor sie ausgeführt werden.
+
+**Anwendungsfelder im Notariat:**
+- Kostenrechnung: Sachbearbeitung erstellt, Notar oder Leitungsperson prüft
+- Fälligkeitsmitteilung: Alle Vollzugsvoraussetzungen von zwei Personen geprüft
+- Anträge beim Grundbuchamt: inhaltliche und formale Prüfung getrennt
+- GwG-Risikoklassifizierung: bei erhöhtem Risiko zweite Prüfperson
+- Einreichung beim Registergericht: Signaturprüfung und Inhaltscheck
+
+## Fehlerkultur im Notariat
+
+Ein Notariat mit guter Fehlerkultur:
+- behandelt Fehler als Lernchancen, nicht als Schuldzuweisungen
+- hat klare Eskalationsprozesse (wann wird der Notar informiert?)
+- dokumentiert Fehler in einem internen Fehlerregister
+- analysiert wiederkehrende Fehler und passt Abläufe an
+- schult Mitarbeitende regelmäßig
+
+**Fehlerkategorien:**
+- Formfehler (Datum, Namen, Beträge)
+- Vollzugsfehler (Frist übersehen, Antrag vergessen)
+- GwG-Fehler (Identifizierung lückenhaft)
+- Kommunikationsfehler (falsche Empfänger, falsche Inhalte)
+
+## Qualitätsgate vor jeder Einreichung (→ Skill 055)
+
+Jede Einreichung bei Registergericht oder Grundbuchamt durchläuft ein Qualitätsgate:
+- Namen und Personalien korrekt?
+- Signaturen vorhanden und gültig?
+- Alle Anlagen vorhanden?
+- Fristen eingehalten?
+- Bevollmächtigungen aktuell?
+
+## Mitarbeitereinsatz und Delegation
+
+Notarielle Amtshandlungen (Beurkundung, Beglaubigung, Bescheinigung) können nicht delegiert werden. Zulässige Delegation:
+- Aktenführung
+- Entwurfsvorbereitung (Vorlage, nicht Freigabe)
+- Antragsstellung beim Register (wenn Notar unterzeichnet)
+- Mandantenkommunikation (Routineinformationen)
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Gibt es ein funktionierendes Vier-Augen-System für Fälligkeitsmitteilungen?
+- Wird ein internes Fehlerregister geführt?
+- Sind alle Mitarbeitenden über GwG und DSGVO geschult?
+- Gibt es klare Eskalationsprozesse?
+- Wird der Vollzugsmonitor täglich geprüft?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Fälligkeitsmitteilung ohne Vier-Augen-Check → Auszahlung ohne vollständige Voraussetzungen.
+- Fehler nicht dokumentiert → keine Prozessverbesserung.
+- Delegation von Amtshandlungen → berufsrechtliche Konsequenzen.
+- Kein Vollzugsmonitor → Fristen übersehen.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- § 26 BNotO: https://dejure.org/gesetze/BNotO/26.html
+- § 14 BNotO: https://dejure.org/gesetze/BNotO/14.html
+- § 19 BNotO (Haftung): https://dejure.org/gesetze/BNotO/19.html
+- DONot: https://www.bnotk.de/notare/berufsrecht/dienstordnung/
+- BNotK Organisationshinweise: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Kanzleiorganisation Vier-Augen-Prinzip und Fehlerkultur** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Vier-Augen-Checkliste** (je Prozesstyp)
+- **Fehlerregister-Vorlage** (intern)
+- **Qualitätsgate-Protokoll** (vor jeder Einreichung)
+- **Delegationsmatrix** (was darf delegiert werden?)
+- **Schulungsplan** (GwG, DSGVO, Vollzug)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

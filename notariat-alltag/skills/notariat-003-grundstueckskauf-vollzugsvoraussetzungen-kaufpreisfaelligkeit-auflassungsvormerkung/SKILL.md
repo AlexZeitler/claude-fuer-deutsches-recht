@@ -1,53 +1,98 @@
 ---
-name: notariat-003-grundstueckskauf-vollzugsvoraussetzungen-kaufpreisf
-description: "Notariat im Alltag: Grundstückskauf Vollzugsvoraussetzungen Kaufpreisfaelligkeit Auflassungsvormerkung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-003-grundstueckskauf-vollzugsvoraussetzungen
+description: "Notariat im Alltag: Grundstückskauf – Vollzugsvoraussetzungen, Kaufpreisfälligkeit und Auflassungsvormerkung. Strukturierter Vollzugsablauf von der Beurkundung bis zur Eigentumsumschreibung mit GrESt, GBO und Lastenfreistellung."
 ---
 
-# Notariat im Alltag: Grundstückskauf Vollzugsvoraussetzungen Kaufpreisfaelligkeit Auflassungsvormerkung
+# Notariat im Alltag: Grundstückskauf – Vollzugsvoraussetzungen, Kaufpreisfälligkeit, Auflassungsvormerkung
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Grundstückskauf Vollzugsvoraussetzungen Kaufpreisfaelligkeit Auflassungsvormerkung** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Der Grundstückskauf ist das volumenstärkste notarielle Geschäft. Dieser Skill steuert den gesamten Vollzugsprozess von der Beurkundung bis zur Eigentumsumschreibung. Ziel ist die lückenlose Prüfung aller Fälligkeitsvoraussetzungen, damit Kaufpreis und Eigentumsübergang zeitlich sauber synchronisiert werden.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: § 311b Abs. 1 BGB (Formpflicht), § 873 BGB (Einigung und Eintragung), § 925 BGB (Auflassung), §§ 19–22 GBO (Eintragungsvoraussetzungen), § 883 BGB (Auflassungsvormerkung), § 22 GrEStG (steuerliche Unbedenklichkeit), § 3 GrEStG (Befreiungen), GNotKG §§ 34 ff. (Kostenwert), § 17 Abs. 2a BeurkG (Verbraucherwartefrist), MaBV (Bauträger), GwG.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Vollzugskette im Überblick
+
+1. **Beurkundung** – Kaufvertrag inkl. Auflassung oder Verpflichtung zur Auflassung (§ 311b BGB)
+2. **Auflassungsvormerkung beantragen** – sofort nach Beurkundung (§ 883 BGB, § 13 GBO)
+3. **Vorkaufsrechtszeugnis einholen** – Gemeinde (§§ 24–28 BauGB), ggf. ENEV/Denkmal
+4. **Genehmigungen** – familiengerichtlich (§ 1643 BGB), Betreuerrecht, GVO (§ 2 GrdstVG)
+5. **Löschungsunterlagen** – Ablösung bestehender Grundschulden/Hypotheken
+6. **GwG-Prüfung** – Risikoklasse, wirtschaftlich Berechtigter, PEP-Screening
+7. **Steuerliche Unbedenklichkeit** – § 22 GrEStG, GrESt-Bescheid abwarten
+8. **Kaufpreisfälligkeit melden** – Notarbestätigung über Vorliegen aller Voraussetzungen
+9. **Kaufpreiszahlung** – direkt an Verkäufer oder über Notaranderkonto
+10. **Auflassung vollziehen** – Eigentumsumschreibung beantragen (§ 20 GBO)
+11. **Lastenfreistellung** – Löschung eingetragener Belastungen nach Tilgung
+12. **Grundbuchberichtigung** – Eintragung neuer Eigentümer, Löschung Auflassungsvormerkung
+
+## Fälligkeitsvoraussetzungen (Checkliste)
+
+| Voraussetzung | Status | Zuständig | Frist |
+|---|---|---|---|
+| Auflassungsvormerkung eingetragen | offen | Notariat | sofort |
+| Vorkaufsrechtszeugnis Gemeinde | offen | Notariat | 2 Monate |
+| Familiengerichtliche Genehmigung | offen | Käufer/Notariat | variabel |
+| GVO-Genehmigung | offen | Notariat | 1 Monat |
+| Löschungsbewilligung + Pfandfreigabe | offen | Verkäufer/Bank | variabel |
+| Steuerliche Unbedenklichkeit FA | offen | Notariat | nach GrESt-Bescheid |
+| GwG-Dokumentation vollständig | offen | Notariat | vor Vollzug |
+
+## Auflassungsvormerkung: Funktion und Risiken
+
+Die Auflassungsvormerkung (§ 883 BGB) sichert den schuldrechtlichen Auflassungsanspruch dinglich. Sie verhindert rangspätere Verfügungen (§ 883 Abs. 2 BGB) und Zwangsvollstreckungsmaßnahmen (§ 883 Abs. 2 S. 2 BGB). Ohne Vormerkung ist der Käufer bis zur Eigentumsumschreibung ungesichert.
+
+**Antrag:** Unmittelbar nach Beurkundung durch Notar; Bewilligung ist Teil der Kaufvertragsurkunde.
+**Rang:** Entscheidend für Priorität gegenüber zwischenzeitlichen Eintragungen.
+**Löschung:** Automatisch nach Eigentumsumschreibung oder auf Antrag des Käufers.
+
+## Kaufpreisfälligkeit: Typische Klauselstruktur
+
+Der Kaufpreis ist fällig, wenn:
+- die Auflassungsvormerkung im Grundbuch eingetragen ist,
+- ein Negativattest oder ein Vorkaufsrechtsverzicht der Gemeinde vorliegt,
+- alle erforderlichen Genehmigungen rechtskräftig erteilt sind,
+- die Löschungsunterlagen (Grundschuld-Löschungsbewilligungen) beim Notariat vorliegen oder der Notar die Kaufpreisverteilung an bestehende Grundpfandgläubiger sicherstellt,
+- und der Notar die Fälligkeit schriftlich mitteilt (Fälligkeitsmitteilung).
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- GrESt-Pflicht prüfen: Wert, Befreiungen (§ 3 GrEStG), verbundene Unternehmen (§ 6a GrEStG).
+- Mehrwertsteuer-Option des Verkäufers (§ 9 UStG) – Auswirkung auf Grunderwerbsteuer.
+- Belastungsvollmachten im Kaufvertrag (§ 3 MaBV, Bauträger): Sicherungsabrede prüfen.
+- Rangstelle der Auflassungsvormerkung: Zwischeneinträge nach Abt. II/III prüfen.
+- Kaufpreis auf Richtigkeit prüfen (Bewertungsgrundlage, Niedrigstwertprinzip FA).
+- Vollstreckungsunterwerfung des Käufers (§ 794 Abs. 1 Nr. 5 ZPO): Gegenstandswert Vollstreckung = Kaufpreis.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Fälligkeitsmitteilung versandt, aber Löschungsunterlagen fehlen noch → Käufer zahlt, Lastenfreistellung verzögert sich.
+- Vorkaufsrechtszeugnis für falsche Flurstücke beantragt.
+- GrESt-Bescheid nicht abgewartet → § 22 GrEStG-Sperre, Grundbuchamt weist ab.
+- Auflassungsvormerkung mit zu schmalem Inhalt (fehlende Auflassung in der Urkunde → keine Basis für Vormerkung).
+- Verkäufer löst Grundschuld nicht ab, obwohl Kaufpreis gezahlt – Notariat muss Löschungsunterlagen sichern.
+- Mehrere Miteigentümer: Zustimmung aller Berechtigten oder Vertretungsnachweis fehlt.
 
-## Output
+## Kostenhinweise
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+Gegenstandswert: Kaufpreis (§ 47 GNotKG). Hauptgebühr Beurkundung: 2,0 Gebühr (KV Nr. 21100). Auflassungsvormerkung: 0,5 Gebühr (KV Nr. 14110). Eigentumsumschreibung (Grundbuchamt): 1,0 Gebühr (KV GNotKG Grundbuchabschnitt). Notar-Vollzugsgebühr: 0,5 Gebühr (KV Nr. 22110).
 
-## Notariatsvertiefung
+## Rechtsquellen und Fundstellen
 
-Bei **Grundstückskauf Vollzugsvoraussetzungen Kaufpreisfaelligkeit Auflassungsvormerkung** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- § 311b BGB: https://dejure.org/gesetze/BGB/311b.html
+- §§ 883–888 BGB: https://dejure.org/gesetze/BGB/883.html
+- §§ 19–22 GBO: https://dejure.org/gesetze/GBO/19.html
+- § 22 GrEStG: https://dejure.org/gesetze/GrEStG/22.html
+- GNotKG KV: https://www.gesetze-im-internet.de/gnotkg/
+- BGH zum Grundstückskauf: https://www.bgh.de
+- BNotK Vollzugshinweise: https://www.bnotk.de
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
+## Output-Formate
 
+- **Vollzugscockpit** (Tabelle aller Fälligkeitsvoraussetzungen, Status, Verantwortlicher)
+- **Fälligkeitsmitteilung** (Muster)
+- **Kostenvoranschlag** (aufgeschlüsselt nach Beurkundung, Vollzug, Grundbuchgebühren)
+- **Mandantenmail** (Überblick Vollzugsstand, nächste Schritte)
+- **Red-Team-Notiz** (kritische Vollzugsrisiken)
+
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

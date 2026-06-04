@@ -1,53 +1,91 @@
 ---
-name: notariat-021-urkundsentwurf-mandantenkorrektur-und-belehrungsdok
-description: "Notariat im Alltag: Urkundsentwurf Mandantenkorrektur und Belehrungsdokumentation mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-021-urkundsentwurf-mandantenkorrektur-und
+description: "Notariat im Alltag: Urkundsentwurf, Mandantenkorrektur und Belehrungsdokumentation. Prozess der Entwurfserstellung, Versand- und Wartefristpflichten, Protokollierung von Korrekturen und Belehrungen nach § 17 BeurkG."
 ---
 
-# Notariat im Alltag: Urkundsentwurf Mandantenkorrektur und Belehrungsdokumentation
+# Notariat im Alltag: Urkundsentwurf, Mandantenkorrektur, Belehrungsdokumentation
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Urkundsentwurf Mandantenkorrektur und Belehrungsdokumentation** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Die Entwurfsphase ist rechtlich und haftungsrechtlich kritisch. Dieser Skill strukturiert den Entwurfsprozess, die Mandantenkommunikation, den Entwurfsversand mit Fristberechnung und die Dokumentation der Belehrung nach § 17 BeurkG.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: § 17 BeurkG (Belehrungspflicht, Entwurfsversand, Wartefrist), § 17 Abs. 2a BeurkG (Verbraucherwartefrist 14 Tage), § 14 BNotO (Unparteilichkeit), § 15 BeurkG (Niederschrift), DONot §§ 13–19 (Urkundsführung, Aufbewahrung), GNotKG § 8 (Auslagenpauschale Entwurf).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Entwurfsphase: Schritte
+
+1. **Erstbeauftragung:** Welche Unterlagen benötigt das Notariat? (Grundbuchauszug, Handelsregisterauszug, Personalien, Gesellschaftsvertrag)
+2. **Sachverhaltsaufnahme:** Telefonisch, schriftlich oder im Vorgespräch. Ziel: vollständiger Sachverhalt, keine Unklarheiten.
+3. **Rechtliche Vorprüfung:** Form- und Registertauglichkeit, GwG-Erstprüfung, Kostenschätzung.
+4. **Entwurfserstellung:** Rechtlich vollständiger Entwurf, alle Beteiligten korrekt bezeichnet.
+5. **Entwurfsversand:** Schriftlich an alle Beteiligten (§ 17 Abs. 2a BeurkG).
+6. **Wartefrist:** Bei Verbraucherimmobilienkäufen: 14 Tage zwischen Entwurfsversand und Beurkundungstermin.
+7. **Korrekturphase:** Einarbeitung von Änderungswünschen, neue Entwurfsversion, erneuter Versand bei wesentlichen Änderungen.
+8. **Terminvereinbarung:** Erst nach Ablauf der Wartefrist.
+9. **Belehrung beim Termin:** § 17 BeurkG, vollständige Dokumentation.
+
+## Verbraucherwartefrist (§ 17 Abs. 2a BeurkG)
+
+Bei Grundstückskaufverträgen, an denen mindestens eine Vertragspartei Verbraucher (§ 13 BGB) ist und die andere Partei Unternehmer (§ 14 BGB), muss der Notar den Entwurf mindestens 14 Tage vor dem Beurkundungstermin an den Verbraucher versenden. Versand per E-Mail, Fax oder Post; Empfangsnachweis empfohlen.
+
+Ausnahmen: beide Parteien Verbraucher (str.), reine Unternehmerverträge, ausdrücklicher Verzicht des Verbrauchers (zulässig, aber risikoreich; Dokumentation zwingend).
+
+## Belehrungspflicht (§ 17 BeurkG)
+
+Der Notar muss:
+- Den Willen der Beteiligten erforschen
+- Den Sachverhalt klären
+- Über die rechtliche Bedeutung des Geschäfts belehren
+- Zweifelhaften Rechtslagen hinweisen
+- Ausdruck des Willens in klarer und bestimmter Fassung sichern
+
+**Dokumentation:** Die Belehrung ist im Protokoll zu vermerken; bei komplexen Vorgängen: separate Belehrungsnotiz im Akt.
+
+## Korrekturmanagement
+
+- Korrekturwünsche von Beteiligten schriftlich aufnehmen.
+- Änderungen klar kennzeichnen (Tracking-Changes oder Vergleichsdatei).
+- Bei inhaltlich wesentlichen Änderungen: erneuter Entwurfsversand mit Neustart der Wartefrist?
+- Mehrere Entwurfsversionen in der Akte dokumentieren (wer hat was wann bestätigt).
+- Notar muss neutral bleiben; Entwürfe nur nach Auftrag aller Beteiligten anpassen.
+
+## Dokumentation und Aktenführung
+
+- Datum des Entwurfsversands mit Übermittlungsweg (E-Mail-Kopie, Fax-Bericht, Postaufgabe).
+- Zeitpunkt und Inhalt von Korrekturwünschen.
+- Belehrungsinhalt und -zeitpunkt beim Termin.
+- Verzicht auf Wartefrist (wenn erklärt): Unterschrift beider Parteien.
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Alle Beteiligten korrekt mit vollständigen Personalien im Entwurf?
+- Wartefrist 14 Tage eingehalten oder Verzicht dokumentiert?
+- Sind inhaltliche Korrekturen nach erneutem Entwurfsversand neu geprüft?
+- Belehrungsprotokoll vollständig?
+- Entwurfsgebühr berechnet? (KV Nr. 24101 GNotKG: 0,5 Gebühr bei nicht zur Ausführung gekommenem Entwurf)
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Wartefrist nicht eingehalten → § 17 Abs. 2a BeurkG-Verstoß; keine automatische Nichtigkeit, aber Haftungsrisiko.
+- Entwurfsversand nur an eine Partei → andere Partei nicht ausreichend informiert.
+- Belehrung beim Termin nicht dokumentiert → Nachweisproblem bei Haftungsfall.
+- Notar ändert Entwurf einseitig ohne Beauftragung aller Parteien → Unparteilichkeitsverstoß.
+- Entwurfsgebühr nicht berechnet → Unterkosten.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- § 17 BeurkG: https://dejure.org/gesetze/BeurkG/17.html
+- § 17 Abs. 2a BeurkG (Wartefrist): https://dejure.org/gesetze/BeurkG/17.html
+- § 14 BNotO: https://dejure.org/gesetze/BNotO/14.html
+- GNotKG KV Nr. 24101: https://www.gesetze-im-internet.de/gnotkg/
+- BGH zur Belehrungspflicht: https://www.bgh.de
+- BNotK Urkundsführung: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Urkundsentwurf Mandantenkorrektur und Belehrungsdokumentation** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Entwurfsversand-Protokoll** (Datum, Empfänger, Inhalt)
+- **Fristberechnung** (14-Tage-Wartefrist, Terminblock)
+- **Belehrungsprotokoll-Muster** (§ 17 BeurkG)
+- **Korrekturtracking-Tabelle**
+- **Mandantenmail** (Entwurfsversand, Frist, nächste Schritte)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

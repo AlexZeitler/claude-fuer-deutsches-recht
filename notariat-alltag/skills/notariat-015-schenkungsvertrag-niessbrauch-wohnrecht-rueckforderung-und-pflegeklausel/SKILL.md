@@ -1,53 +1,98 @@
 ---
-name: notariat-015-schenkungsvertrag-niessbrauch-wohnrecht-rueckforder
-description: "Notariat im Alltag: Schenkungsvertrag Nießbrauch Wohnrecht Rückforderung und Pflegeklausel mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-015-schenkungsvertrag-niessbrauch-wohnrecht
+description: "Notariat im Alltag: Schenkungsvertrag – Nießbrauch, Wohnrecht, Rückforderung und Pflegeklausel. Formzwang bei Schenkungsversprechen, dingliche Absicherung des Schenkers, steuerliche Aspekte und typische Klauselbausteine."
 ---
 
-# Notariat im Alltag: Schenkungsvertrag Nießbrauch Wohnrecht Rückforderung und Pflegeklausel
+# Notariat im Alltag: Schenkungsvertrag – Nießbrauch, Wohnrecht, Rückforderung, Pflegeklausel
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Schenkungsvertrag Nießbrauch Wohnrecht Rückforderung und Pflegeklausel** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Die vorweggenommene Erbfolge durch Schenkung unter Lebenden ist das häufigste Instrument der Nachfolgeplanung. Dieser Skill führt durch Formzwang, Schenkungsinhalt, dingliche Absicherung des Schenkers und typische Schutzklauseln.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: § 516 BGB (Schenkung), §§ 518–519 BGB (Form, Heilung), § 528 BGB (Rückforderung wegen Verarmung), § 530 BGB (Widerruf wegen groben Undanks), §§ 1030–1089 BGB (Nießbrauch), §§ 1090–1093 BGB (beschränkte persönliche Dienstbarkeit, Wohnungsrecht), § 311b BGB (Formzwang Grundstück), ErbStG (Erbschaft- und Schenkungsteuer), §§ 2325–2328 BGB (Pflichtteilsergänzung).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Formzwang
+
+| Schenkungsart | Form |
+|---|---|
+| Schenkungsversprechen ohne Vollzug | Notarielle Beurkundung (§ 518 Abs. 1 BGB) |
+| Vollzogene Schenkung (Hand-zu-Hand) | Formfrei (§ 518 Abs. 2 BGB) |
+| Grundstücksschenkung | Notarielle Beurkundung (§ 311b BGB) + Auflassung |
+| Schenkung mit Auflage | Beurkundung wenn Hauptgeschäft Beurkundung erfordert |
+
+## Nießbrauch (§§ 1030–1089 BGB)
+
+Der Nießbrauch ist das umfassendste dingliche Nutzungsrecht. Der Nießbraucher zieht alle Nutzungen (Mieteinnahmen, Früchte), trägt die gewöhnlichen Lasten. Der Eigentümer trägt außergewöhnliche Lasten und Instandsetzungen.
+
+**Bestellung:** Beurkundung + Grundbucheintragung (§§ 873, 1030 BGB).
+**Erlöschen:** Tod des Berechtigten (§ 1061 BGB), Löschung.
+**Steuerlich:** Nießbrauch mindert Schenkungsteuerwert (§ 14 BewG: Kapitalwert).
+
+## Wohnungsrecht (§ 1093 BGB)
+
+Das Wohnungsrecht berechtigt zur Nutzung des Gebäudes oder Teils davon als Wohnung. Es ist weniger umfassend als Nießbrauch (keine Vermietung an Dritte). Geringerer Kapitalwert → geringere Steuerreduzierung.
+
+## Rückforderungsklauseln
+
+**§ 528 BGB – Rückforderung wegen Verarmung:** Schenker kann Geschenk zurückfordern, wenn er nach der Schenkung verarmt. Beschenkte muss nur den noch vorhandenen Wert zurückgeben.
+
+**§ 530 BGB – Widerruf wegen groben Undanks:** Widerruf innerhalb 1 Jahr nach Kenntnis des Undanks.
+
+**Vertragliche Rückforderungsrechte (empfohlen):**
+- Vorversterben des Beschenkten
+- Insolvenz des Beschenkten
+- Zwangsvollstreckung in das Geschenk
+- Veräußerung ohne Zustimmung des Schenkers
+- Pflichtteilsansprüche Dritter, die das Geschenk gefährden
+
+## Pflegeklausel
+
+Eine Pflegeklausel verpflichtet den Beschenkten zur Pflege des Schenkers. Sie ist als Auflage (§ 525 BGB) oder als Rückforderungsrecht bei Nichterfüllung zu gestalten. Wichtig: Konkrete Pflegeleistungen und Umfang definieren; alternativ Geldleistung als Äquivalent.
+
+## Pflichtteilsergänzung (§§ 2325–2328 BGB)
+
+Schenkungen innerhalb von 10 Jahren vor dem Erbfall können den Pflichtteilsanspruch erhöhen. Ausnahme: Schenkungen unter Nießbrauchs- oder Wohnrechtsvorbehalt beginnen die 10-Jahres-Frist erst mit Vollzug der Schenkung zu laufen.
+
+## Schenkungsteuer (ErbStG)
+
+- Freibeträge: Ehegatte 500.000 €, Kind 400.000 € (alle 10 Jahre erneut nutzbar, § 16 ErbStG).
+- Steuerwert des Grundstücks: Grundbesitzwert (§ 151 BewG).
+- Nießbrauchsabzug: Kapitalwert nach § 14 BewG mindert steuerpflichtigen Erwerb.
+- Meldepflicht des Notars: § 34 ErbStG.
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Ist der Schenker geschäftsfähig? (§ 104 BGB: keine Geschäftsunfähigkeit durch Demenz)
+- Sind Pflichtteilsansprüche anderer Kinder beachtet?
+- 10-Jahres-Frist für Pflichtteilsergänzung bei Grundstücksschenkung?
+- Nießbrauch oder Wohnrecht steueroptimal ausgestaltet?
+- Rückforderungsklauseln für alle relevanten Fälle vorhanden?
+- GrESt: Schenkung grds. befreit (§ 3 Nr. 2 GrEStG), aber Ausnahmen bei Gegenleistungen?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Schenkungsversprechen ohne Beurkundung → § 518 BGB-Nichtigkeit, keine Heilung solange kein Vollzug.
+- Nießbrauch ohne Grundbucheintragung → nur schuldrechtliche Wirkung, nicht dinglich.
+- Rückforderungsklausel fehlt → bei Insolvenz des Beschenkten verliert Schenker alles.
+- Pflichtteilsergänzung nicht kalkuliert → unerwartete Ansprüche nach Erbfall.
+- Schenkungsteuerpflicht vergessen → Steuernachzahlung mit Zinsen.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- § 518 BGB: https://dejure.org/gesetze/BGB/518.html
+- §§ 1030–1093 BGB: https://dejure.org/gesetze/BGB/1030.html
+- § 528 BGB: https://dejure.org/gesetze/BGB/528.html
+- §§ 2325–2328 BGB: https://dejure.org/gesetze/BGB/2325.html
+- ErbStG: https://www.gesetze-im-internet.de/erbstg/
+- BGH zur Schenkung: https://www.bgh.de
+- BNotK Nachfolgeplanung: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Schenkungsvertrag Nießbrauch Wohnrecht Rückforderung und Pflegeklausel** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Schenkungsvertragsentwurf** (mit Nießbrauch, Rückforderung, Pflegeklausel)
+- **Steuerrechner** (Schenkungsteuerwert, Nießbrauchsabzug)
+- **Pflichtteilsergänzungs-Risikocheck**
+- **Mandantenmail** (Übersicht Regelungen, Steuermeldepflicht)
+- **10-Jahres-Fristenplan**
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

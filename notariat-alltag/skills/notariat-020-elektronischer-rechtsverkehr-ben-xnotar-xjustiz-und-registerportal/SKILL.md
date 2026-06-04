@@ -1,53 +1,86 @@
 ---
-name: notariat-020-elektronischer-rechtsverkehr-ben-xnotar-xjustiz-und
-description: "Notariat im Alltag: Elektronischer Rechtsverkehr beN XNotar XJustiz und Registerportal mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-020-elektronischer-rechtsverkehr-ben-xnotar-xjustiz
+description: "Notariat im Alltag: Elektronischer Rechtsverkehr – beN, XNotar, XJustiz und Registerportal. Technische und rechtliche Anforderungen für elektronische Einreichungen beim Handelsregister, Grundbuchamt und den Gerichten."
 ---
 
-# Notariat im Alltag: Elektronischer Rechtsverkehr beN XNotar XJustiz und Registerportal
+# Notariat im Alltag: Elektronischer Rechtsverkehr – beN, XNotar, XJustiz, Registerportal
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Elektronischer Rechtsverkehr beN XNotar XJustiz und Registerportal** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Der elektronische Rechtsverkehr ist für Notare seit 2022 obligatorisch. Dieser Skill führt durch die technischen Anforderungen, Übermittlungswege (beN, EGVP, XJustiz) und die Besonderheiten des Registerportals sowie der elektronischen Grundbucheinreichung.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: § 12 HGB i.V.m. § 10 EGovG (elektronische Anmeldung HR), § 39a BeurkG (elektronische Beglaubigung), § 137l EGBGB (Übergangsnormen), ERVV (Elektronischer Rechtsverkehr Verordnung), ERV-Verordnung, § 130a ZPO, §§ 14–15 GBO (elektronische Einreichung), NotVO, BNotO §§ 78a–78e (Notarpostfach beN).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Übermittlungswege im Überblick
+
+| Weg | Für | Besonderheit |
+|---|---|---|
+| beN (besonderes elektronisches Notarpostfach) | Gerichtskommunikation, HR-Einreichung | Ende-zu-Ende-verschlüsselt, § 78b BNotO |
+| EGVP (Elektronisches Gerichts- und Verwaltungspostfach) | Bundesweite Gerichtskommunikation | XJustiz-Container-Format |
+| Registerportal (www.handelsregister.de) | HR-Anmeldungen | XJUSTIZ-basiert, direkt |
+| Elektronisches Grundbuch | Grundbuchanträge (je nach Bundesland) | XGBO-Format, Bundesland-abhängig |
+| XNotar | Elektronische notarielle Urkunden | qualifizierte elektronische Signatur (qeS) |
+
+## Qualifizierte Elektronische Signatur (qeS)
+
+Die qeS (§ 126a BGB, eIDAS-Verordnung) ersetzt die eigenhändige Unterschrift in elektronischen Dokumenten. Für Notare:
+- Signaturkarte der Bundesnotarkammer
+- Nur für eigene Amtshandlungen (kein Aufgabenausgliedern)
+- Zeitstempel empfohlen (qualifizierter Zeitstempel nach eIDAS)
+- Signaturformat: XAdES oder PAdES (je nach Übermittlungsweg)
+
+## Elektronische Beglaubigung (§ 39a BeurkG)
+
+Notar kann Dokumente elektronisch beglaubigen (qualifizierte elektronische Signatur). Diese Beglaubigung ist der papierenen Beglaubigung gleichwertig (§ 39a Abs. 1 BeurkG). Einreichung beim Grundbuchamt oder HR möglich.
+
+## XNotar und Urkundenübermittlung
+
+XNotar ist das standardisierte Datenformat der Bundesnotarkammer für den Austausch notarieller Urkunden. Elektronisch signierte Urkunden können direkt aus dem Notarsystem via beN an Register und Gerichte übermittelt werden.
+
+## Registerportal (Handelsregister)
+
+- Über www.handelsregister.de können HR-Anmeldungen elektronisch eingereicht werden
+- Notar authentifiziert sich mit beN oder qeS-Karte
+- Anlagen (Urkunden, Beschlüsse) als PDF/A mit qeS
+- Einreichungsdatum ist verbindlich für Fristen
+- Registergericht sendet Zwischenverfügungen/Beschlüsse zurück via beN
+
+## Grundbuch: Elektronische Einreichung
+
+In vielen Bundesländern ist elektronische Einreichung möglich (ELRV-Landesrecht). Antrag mit qeS des Notars. Anlagen als PDF/A. Rangdatum ab Eingang beim Grundbuchamt (§ 17 GBO).
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- beN-Zertifikat aktuell und gültig?
+- Dokument als PDF/A (ISO 19005) gespeichert?
+- qeS korrekt angebracht (Signaturbereich, kein nachträgliches Ändern)?
+- XJustiz-Container vollständig strukturiert?
+- Dateigrößenbeschränkung beachtet (je nach System max. 60 MB)?
+- Eingangsbestätigung vom Register erhalten und dokumentiert?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- beN-Zertifikat abgelaufen → Einreichung schlägt fehl.
+- PDF nicht PDF/A-konform → Registergericht weist zurück.
+- Signatur nach PDF-Änderung ungültig.
+- Falsche XJustiz-Nachrichtentyp verwendet.
+- Keine Eingangsbestätigung archiviert → Fristnachweis fehlt.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- § 39a BeurkG: https://dejure.org/gesetze/BeurkG/39a.html
+- § 78b BNotO (beN): https://dejure.org/gesetze/BNotO/78b.html
+- § 12 HGB: https://dejure.org/gesetze/HGB/12.html
+- ERVV: https://www.gesetze-im-internet.de/ervv/
+- eIDAS-VO: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0910
+- BNotK ERV-Leitfaden: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Elektronischer Rechtsverkehr beN XNotar XJustiz und Registerportal** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Einreichungs-Checkliste** (je nach Zielregister)
+- **qeS-Prüfprotokoll** (Signatur, Format, Zeitstempel)
+- **Fehleranalyse bei Zurückweisung** (typische Fehlerbilder)
+- **Mandantenhinweis** (was elektronisch geht und was nicht)
+- **beN-Konfigurationsleitfaden** (intern)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

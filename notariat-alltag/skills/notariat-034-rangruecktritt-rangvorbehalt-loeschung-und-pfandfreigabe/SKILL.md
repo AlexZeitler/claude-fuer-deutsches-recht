@@ -1,53 +1,85 @@
 ---
-name: notariat-034-rangruecktritt-rangvorbehalt-loeschung-und-pfandfre
-description: "Notariat im Alltag: Rangrücktritt Rangvorbehalt Löschung und Pfandfreigabe mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-034-rangruecktritt-rangvorbehalt-loeschung-und
+description: "Notariat im Alltag: Rangrücktritt, Rangvorbehalt, Löschung und Pfandfreigabe. Grundbuchrangrecht nach §§ 879–882 BGB, Rangrücktritt, Löschungsunterlagen und Pfandfreigabe-Mechanismen."
 ---
 
-# Notariat im Alltag: Rangrücktritt Rangvorbehalt Löschung und Pfandfreigabe
+# Notariat im Alltag: Rangrücktritt, Rangvorbehalt, Löschung, Pfandfreigabe
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Rangrücktritt Rangvorbehalt Löschung und Pfandfreigabe** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Rangfragen bestimmen im Grundbuch, wer bei Zwangsversteigerung zuerst befriedigt wird. Dieser Skill klärt Rangordnung, Rangänderungen, Rangrücktrittsvereinbarungen, Löschungsunterlagen und Pfandfreigabe im Rahmen von Immobilientransaktionen.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: §§ 879–882 BGB (Rang der Grundstücksrechte), § 880 BGB (Rangänderung), § 881 BGB (Rangvorbehalt), §§ 1191–1203 BGB (Grundschuld), § 1163 BGB (Eigentümergrundschuld), §§ 19, 27 GBO (Löschung), § 875 BGB (Aufhebung), ZVG (Zwangsversteigerungsgesetz).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Rangprinzip
+
+Rechte in Abt. II und III des Grundbuchs haben den Rang entsprechend ihrer Eintragungsreihenfolge (§ 879 Abs. 1 BGB). Gleichzeitig eingetragene Rechte haben gleichen Rang (§ 879 Abs. 3 BGB). Rang ist entscheidend bei Zwangsversteigerung: vorrangige Gläubiger werden zuerst befriedigt (§§ 44–52 ZVG).
+
+## Rangänderung (§ 880 BGB)
+
+Rang eines eingetragenen Rechts kann geändert werden durch:
+1. Einigung zwischen dem zurücktretenden Gläubiger (Rangrücktritt) und dem vortretenden Gläubiger
+2. Eintragung der Rangänderung im Grundbuch
+
+**Notarielle Relevanz:** Einigung und Eintragungsbewilligung müssen in öffentlich beglaubigter Form vorliegen (§ 19 GBO). Rangänderung ist praktisch bei Refinanzierungen und Rangklärungen.
+
+## Rangvorbehalt (§ 881 BGB)
+
+Bei Bestellung eines Rechts kann sich der Eigentümer einen Rang vorbehalten, der einem künftig einzutragenden Recht eingeräumt werden soll. Der Rangvorbehalt ist in die Grundbucheintragung des belastenden Rechts aufzunehmen.
+
+## Löschungsunterlagen bei Grundstückskauf
+
+Der Käufer erwirbt lastenfreies Grundstück. Voreintragungen in Abt. II und III müssen gelöscht werden:
+
+**Löschungsbewilligung:** Schriftliche Erklärung des Gläubigers, dass das Recht gelöscht werden kann (§ 19 GBO). Form: öffentlich beglaubigte Unterschrift.
+
+**Ablösung:** Gleichzeitig mit Kaufpreiszahlung wird der gesicherte Kredit abgelöst. Notar koordiniert: Kaufpreisteil geht direkt an Bank, Bank gibt Löschungsunterlagen frei.
+
+**Löschungskette:**
+1. Bank bestätigt offene Valuta
+2. Kaufpreis wird (teils) an Bank gezahlt
+3. Bank erteilt Löschungsbewilligung
+4. Notar beantragt Löschung beim Grundbuchamt
+
+## Pfandfreigabe
+
+Bei Teilveräußerungen aus einem belasteten Grundstückskomplex: Bank gibt Pfandrecht für die veräußerte Fläche frei (Teilfreigabe, § 1132 BGB analog). Voraussetzungen: verbleibende Sicherheit deckt Restkredit ausreichend.
+
+## Eigentümergrundschuld (§ 1163 BGB)
+
+Wenn eine Grundschuld vollständig abgelöst ist, fällt sie an den Eigentümer zurück (Eigentümergrundschuld). Sie kann erneut belastet oder abgetreten werden. Praktisch wichtig bei vorrangigen Finanzierungen.
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Rangstelle in Abt. III: alle Grundschulden mit Valuta-Status und Löschungsstatus prüfen.
+- Löschungsunterlagen vollständig (Bewilligung + Quittung oder Ablösungsbestätigung)?
+- Rangvorbehalt vorhanden? → beeinflusst Rang neuer Bestellungen.
+- Pfandfreigabe: Rest-Beleihung der Bank ausreichend gedeckt?
+- Teilfreigabe: korrekte Flurstücksbezeichnung?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Löschungsbewilligung auf falschen Namen ausgestellt.
+- Rangänderung ohne Grundbucheintragung → nur schuldrechtliche Wirkung.
+- Eigentümergrundschuld als Voreintragung übersehen → Rang der neuen Grundschuld schlechter.
+- Pfandfreigabe für falsche Flurstücke → Grundbuch falsch.
+- Ablösung ohne Bestätigung der Bank → Löschungsunterlagen kommen nicht.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- § 880 BGB: https://dejure.org/gesetze/BGB/880.html
+- § 881 BGB: https://dejure.org/gesetze/BGB/881.html
+- § 1163 BGB: https://dejure.org/gesetze/BGB/1163.html
+- § 19 GBO: https://dejure.org/gesetze/GBO/19.html
+- ZVG §§ 44–52: https://dejure.org/gesetze/ZVG/44.html
+- BGH zu Rangrecht: https://www.bgh.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Rangrücktritt Rangvorbehalt Löschung und Pfandfreigabe** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Rang-Übersicht Abt. II/III** (Tabelle, Status, Löschbedarf)
+- **Löschungsunterlagen-Checkliste**
+- **Rangrücktrittsvereinbarung** (Muster)
+- **Pfandfreigabe-Anforderungsschreiben** (an Bank)
+- **Mandantenmail** (Vollzugsstand Lastenfreistellung)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

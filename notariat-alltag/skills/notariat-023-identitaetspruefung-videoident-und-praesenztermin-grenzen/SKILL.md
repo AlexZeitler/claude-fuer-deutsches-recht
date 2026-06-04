@@ -1,53 +1,85 @@
 ---
-name: notariat-023-identitaetspruefung-videoident-und-praesenztermin-g
-description: "Notariat im Alltag: Identitätsprüfung Videoident und Präsenztermin Grenzen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-023-identitaetspruefung-videoident-und-praesenztermin
+description: "Notariat im Alltag: Identitätsprüfung – Videoident und Präsenztermin, Grenzen. Pflichten nach § 10 BeurkG, anerkannte Legitimationsdokumente, Videobeurkundung und Abgrenzung zur unzulässigen Fernbeurkundung."
 ---
 
-# Notariat im Alltag: Identitätsprüfung Videoident und Präsenztermin Grenzen
+# Notariat im Alltag: Identitätsprüfung – Videoident und Präsenztermin, Grenzen
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Identitätsprüfung Videoident und Präsenztermin Grenzen** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Die sichere Identifizierung aller Beteiligten ist eine Kernpflicht des Beurkundungsverfahrens. Dieser Skill klärt die Anforderungen nach BeurkG und GwG, die Möglichkeiten der Online-Identifikation und die Grenzen der Fernbeurkundung.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: § 10 BeurkG (Feststellung der Beteiligten), § 13 BeurkG (Vorlesen und Unterzeichnung), § 16 BeurkG (Behinderungen, Dolmetscher), GwG § 8 (Identifizierungspflichten), GwG § 12 (Fernidentifizierung), BNotO §§ 10a, 16a (Videobeurkundung, ab 2022), BeurkG §§ 40a–40e (Online-Beglaubigung), DONot §§ 10–12 (Beurkundungsverfahren).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Identifizierungspflichten (§ 10 BeurkG)
+
+Der Notar muss sich über die Person der Beteiligten Gewissheit verschaffen. Zulässige Mittel:
+- Personalausweis (Lichtbildausweis, § 10 Abs. 1 BeurkG)
+- Reisepass mit weiteren Nachweisen bei Zweifeln
+- Aufenthaltstitel für Ausländer
+- Für juristische Personen: Handelsregisterauszug + Personalausweis des Vertreters
+- Vertrauenspersonen als Zeugen (§ 10 Abs. 2 BeurkG) bei fehlenden Legitimationsdokumenten
+
+## GwG-Identifizierung (§§ 8–12 GwG)
+
+Ergänzend zur BeurkG-Pflicht: GwG verlangt Kopie des Identifikationsdokuments, Überprüfung auf Aktualität und Echtheit, PEP-Screening, Transparenzregisterabfrage. GwG-Identifizierung auch bei bloßen Beglaubigungen und Bescheinigungen.
+
+## Online-Beurkundung und Videoidentifikation
+
+**Videobeurkundung (§ 16a BNotO n.F., ab 2022):**
+Mit Inkrafttreten der entsprechenden Rechtsverordnung können bestimmte Beurkundungsakte per Videokonferenz durchgeführt werden. Voraussetzungen (noch begrenzt):
+- Technische Anforderungen nach Verordnung
+- Eindeutige Identifizierung via Video + qualifizierter Videoident-Dienst
+- Nur für bestimmte Urkundenarten (noch nicht für alle Beurkundungen)
+- Notar und Beteiligter in Echtzeit im Bild
+
+**Online-Beglaubigung (§§ 40a–40e BeurkG, ab 2022):**
+Unterschriftsbeglaubigung per Video möglich für qualifizierte elektronische Unterschriften. Biometrische Identifizierung des Berechtigten nötig.
+
+## Präsenztermin: wann zwingend?
+
+Alle Beurkundungen nach BeurkG (§§ 6–35) erfordern grundsätzlich die persönliche Anwesenheit (§ 13 BeurkG: Vorlesen in Gegenwart der Beteiligten). Die Videobeurkundung ist die gesetzte Ausnahme, die strenger Verordnung bedarf.
+
+Ausnahme: Genehmigungen können per Vollmacht auch ohne persönliche Anwesenheit des Genehmigenden erteilt werden (§ 182 BGB).
+
+## Grenzen der Fernbeurkundung
+
+- Keine Beurkundung per E-Mail, schriftlichem Austausch oder Videokonferenz ohne gesetzliche Grundlage.
+- Notar, der Fernbeurkundung ohne gesetzliche Basis durchführt, begeht Amtspflichtverletzung (§ 17 BeurkG i.V.m. § 19 BNotO).
+- „Beurkundung" mit elektronischer Signatur allein ist unwirksam, wenn BeurkG-Präsenzerfordernis gilt.
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Liegt ein anerkanntes Legitimationsdokument vor?
+- Ist das Dokument noch gültig (Ablaufdatum prüfen)?
+- Stimmt das Bild überein? (§ 10 Abs. 1 BeurkG: eigene Überzeugung)
+- Bei juristischen Personen: Registerauszug aktuell?
+- GwG: Kopie archiviert, PEP-Screening dokumentiert?
+- Ist die geplante Urkundsart für Online-Identifizierung/Video geeignet?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Abgelaufener Ausweis → § 10 BeurkG-Mangel; Beurkundung anfechtbar.
+- Identifizierung per Vollmacht (GF der GmbH) ohne aktuellen Registerauszug.
+- GwG-Kopie vergessen → Dokumentationsmangel, Bußgeldrisiko.
+- Fernbeurkundungsversuch ohne gesetzliche Basis → Unwirksamkeit.
+- Vertreter ohne ausreichende Vollmacht als Beteiligter aufgeführt.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- § 10 BeurkG: https://dejure.org/gesetze/BeurkG/10.html
+- § 16a BNotO (Videobeurkundung): https://dejure.org/gesetze/BNotO/16a.html
+- §§ 40a–40e BeurkG (Online-Beglaubigung): https://dejure.org/gesetze/BeurkG/40a.html
+- GwG §§ 8, 12: https://dejure.org/gesetze/GwG/8.html
+- BGH zur Identitätsprüfung: https://www.bgh.de
+- BNotK ERV und Video: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Identitätsprüfung Videoident und Präsenztermin Grenzen** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Identifizierungsprotokoll** (BeurkG + GwG, je Beteiligter)
+- **Videoident-Checkliste** (technische + rechtliche Anforderungen)
+- **Präsenzpflicht-Entscheidungsbaum** (welche Urkundsart ist video-tauglich?)
+- **GwG-Dokumentationsblatt**
+- **Mandantenhinweis** (benötigte Ausweisdokumente)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

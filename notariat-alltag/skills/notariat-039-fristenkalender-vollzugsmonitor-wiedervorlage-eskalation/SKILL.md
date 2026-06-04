@@ -1,53 +1,91 @@
 ---
-name: notariat-039-fristenkalender-vollzugsmonitor-wiedervorlage-eskal
-description: "Notariat im Alltag: Fristenkalender Vollzugsmonitor Wiedervorlage Eskalation mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-039-fristenkalender-vollzugsmonitor-wiedervorlage
+description: "Notariat im Alltag: Fristenkalender, Vollzugsmonitor, Wiedervorlage und Eskalation. Systematisches Fristenmanagement im Notariat, Wiedervorlagepflichten und Eskalationsregeln bei drohenden Vollzugsblockaden."
 ---
 
-# Notariat im Alltag: Fristenkalender Vollzugsmonitor Wiedervorlage Eskalation
+# Notariat im Alltag: Fristenkalender, Vollzugsmonitor, Wiedervorlage, Eskalation
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Fristenkalender Vollzugsmonitor Wiedervorlage Eskalation** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Das Fristenmanagement ist die operative Lebensader des Notariats. Versäumte Fristen können den Rangverlust im Grundbuch, den Verfall einer Genehmigung oder die Haftung des Notars bedeuten. Dieser Skill strukturiert ein vollständiges Fristensystem für das Notariat.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: §§ 186–193 BGB (Fristberechnung), § 17 Abs. 2a BeurkG (Verbraucherwartefrist), § 28 BauGB (Vorkaufsrechtsfrist 2 Monate), § 18 GBO (Zwischenverfügungs-Nachreichungsfrist), § 63 FamFG (Beschwerde 1 Monat), § 1944 BGB (Ausschlagungsfrist 6 Wochen), § 22 GrEStG (GrESt-Unbedenklichkeit), GwG § 8 (5 Jahre Aufbewahrung).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Fristen-Kategorien im Notariat
+
+| Kategorie | Beispiel | Konsequenz bei Versäumnis |
+|---|---|---|
+| Rechtsfrist (gesetzlich) | Ausschlagungsfrist § 1944 BGB | Erbschaft gilt als angenommen |
+| Vollzugsfrist | Zwischenverfügung-Nachreichung | Antragszurückweisung, Rangverlust |
+| Wartefrist | § 17 Abs. 2a BeurkG (14 Tage) | Haftungsrisiko, kein Nichtigkeit |
+| Behördenfrist | § 28 BauGB (2 Monate Vorkaufsrecht) | Vollzug blockiert |
+| Steuerfrist | GrESt-Bescheid vor Eintragung | § 22 GrEStG-Sperre |
+| Archivfrist | GwG-Dokumentation 5 Jahre | Bußgeld |
+
+## Vollzugsmonitor: Felder pro Vorgang
+
+| Feld | Inhalt |
+|---|---|
+| Urkundenrolle-Nr. | Laufende Nummer |
+| Beteiligte | Namen, Rollen |
+| Offene Vollzugsblocks | Genehmigung / Negativattest / Löschungsunterlage |
+| Nächste Frist | Datum, Art, Konsequenz |
+| Verantwortliche Person | Notar / Sachbearbeitung / Mandant |
+| Letzter Kontakt | Datum, Inhalt |
+| Eskalationsstufe | Grün / Gelb / Rot |
+
+## Wiedervorlagepflichten
+
+Jeder Vorgang, der nicht vollständig abgeschlossen ist, erhält eine Wiedervorlage. Standardintervalle:
+- Nach Beurkundung: 2 Wochen (Eingangsbestätigungen, erste Anträge)
+- Nach Antrag bei Behörde: 4 Wochen (Erinnerung, falls keine Reaktion)
+- Bei Zwischenverfügung: sofort (Fristnotiz, Mandanteninfo)
+- Bei abgelaufener Frist ohne Reaktion: eskalieren
+
+## Eskalationsregeln
+
+| Ampel | Auslöser | Maßnahme |
+|---|---|---|
+| Grün | Fristen mind. 2 Wochen entfernt | Routine-Wiedervorlage |
+| Gelb | Frist in < 1 Woche | Mandant aktiv kontaktieren, Sachbearbeitung priorisieren |
+| Rot | Frist übermorgen oder abgelaufen | Notar persönlich informieren, Sofortmaßnahme einleiten |
+| Schwarz | Frist verpasst | Schadensminimierung, ggf. Beschwerde/Fristverlängerung, Haftungscheck |
+
+## Fristberechnung nach BGB (§§ 186–193 BGB)
+
+- Beginn einer nach Tagen bemessenen Frist: § 187 Abs. 1 BGB – Tag des Ereignisses zählt nicht
+- Ende: § 188 Abs. 1 BGB – letzter Tag um 24 Uhr
+- Frist endet auf Samstag/Sonntag/Feiertag: § 193 BGB – nächster Werktag
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Sind alle Vollzugsfälligkeitsvoraussetzungen im Fristenkalender eingetragen?
+- Gibt es Vorgänge ohne Wiedervorlage?
+- Sind Ampel-Status aktuell?
+- Wurde Mandant bei Gelbstufe bereits kontaktiert?
+- Haftungsrelevante Fristen (Ausschlagung, Beschwerde) gesondert gekennzeichnet?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Zwischenverfügungsfrist übersehen → Antragszurückweisung, Rangverlust.
+- Vorkaufsrechtsfrist (§ 28 BauGB) abgelaufen → Grundbuchamt fordert Negativattest neu.
+- Ausschlagungsfrist versäumt → Erbschaft gilt als angenommen, Haftungsfolgen.
+- Keine Wiedervorlage für offene Genehmigung → Kaufvertrag monatelang blockiert.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- §§ 186–193 BGB: https://dejure.org/gesetze/BGB/186.html
+- § 18 GBO: https://dejure.org/gesetze/GBO/18.html
+- § 28 BauGB: https://dejure.org/gesetze/BauGB/28.html
+- § 1944 BGB: https://dejure.org/gesetze/BGB/1944.html
+- BNotK Vollzugshinweise: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Fristenkalender Vollzugsmonitor Wiedervorlage Eskalation** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Vollzugsmonitor-Tabelle** (alle Felder pro Vorgang)
+- **Fristenkalender-Vorlage** (nach Fristen-Kategorie sortiert)
+- **Ampel-Statusbericht** (tägliche Übersicht)
+- **Eskalationsmail-Muster** (Mandant bei Gelbstufe)
+- **Notar-Haftungswarnung** (bei verpasster kritischer Frist)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

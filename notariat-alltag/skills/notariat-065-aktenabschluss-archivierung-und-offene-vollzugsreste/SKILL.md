@@ -1,53 +1,106 @@
 ---
-name: notariat-065-aktenabschluss-archivierung-und-offene-vollzugsrest
-description: "Notariat im Alltag: Aktenabschluss Archivierung und offene Vollzugsreste mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-065-aktenabschluss-archivierung-und-offene
+description: "Notariat im Alltag: Aktenabschluss, Archivierung und offene Vollzugsreste. Ordnungsgemäßer Abschluss eines Vorgangs nach vollständigem Vollzug, Archivierungsanforderungen und Behandlung offener Vollzugsreste."
 ---
 
-# Notariat im Alltag: Aktenabschluss Archivierung und offene Vollzugsreste
+# Notariat im Alltag: Aktenabschluss, Archivierung, offene Vollzugsreste
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Aktenabschluss Archivierung und offene Vollzugsreste** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Der Aktenabschluss ist der letzte Schritt eines Urkundsvorgangs. Er setzt voraus, dass alle Vollzugshandlungen abgeschlossen sind, alle Kosten bezahlt wurden und keine offenen Restpunkte mehr existieren. Dieser Skill strukturiert den ordnungsgemäßen Abschlussprozess.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: DONot §§ 9–56 (Aktenführung, Aufbewahrung), § 18 BNotO (Aufbewahrungspflicht), §§ 44–64 BeurkG (Urkundensammlung), GwG § 8 (5-Jahres-Aufbewahrung), DSGVO Art. 17 (Löschungsrecht), GNotKG § 19 (Kostenforderung), GBO § 35 (Vollständigkeit der Grundbucheintragungen).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Aktenabschluss: Voraussetzungen
+
+Ein Vorgang kann nur abgeschlossen werden, wenn:
+- [ ] Alle Vollzugshandlungen durchgeführt (Grundbucheintragung, HR-Anmeldung, Genehmigungen)
+- [ ] Alle Bestätigungen eingegangen (Eintragungsnachricht Grundbuchamt, HR-Eintragungsnachweis)
+- [ ] Steuerliche Meldungen erledigt (GrESt-Anzeige, ErbSt-Meldung)
+- [ ] Kosten vollständig bezahlt
+- [ ] GwG-Dokumentation vollständig und archiviert
+- [ ] Alle Originalunterlagen in die Urkundensammlung eingefügt
+- [ ] Alle Ausfertigungen und beglaubigte Abschriften an Berechtigte versandt
+
+## Abschlussprotokoll
+
+Ein Aktenabschlussprotokoll bestätigt, dass alle Punkte erfüllt sind. Inhalt:
+- Urkundenrolle-Nummer
+- Datum des Abschlusses
+- Vollzugshandlungen im Überblick
+- Archivierungs-Verweise
+- Verantwortliche Person
+
+## Archivierung
+
+**Urkundensammlung (§ 9 DONot):**
+- Urschriften: dauerhaft beim Notar oder nach Amtsende beim Amtsgericht
+- Aufbewahrungsfrist: 100 Jahre
+- Keine Vernichtung zulässig
+
+**Nebenakten (§ 50 DONot):**
+- Schriftverkehr, Entwürfe, Vollzugsdokumentation
+- Aufbewahrungsfrist: 30 Jahre
+
+**GwG-Dokumentation (§ 8 Abs. 4 GwG):**
+- Identifizierungsnachweise, Risikovermerk, Transparenzregister-Abfrage
+- Aufbewahrungsfrist: 5 Jahre
+- Getrennt archivierbar (§ 8 Abs. 4 S. 2 GwG)
+
+## Offene Vollzugsreste
+
+Manchmal ist ein Vorgang formal abgeschlossen, aber es gibt noch offene Punkte (z.B. Nießbrauchsrückübertragung nach Todesfall). Diese müssen im System als „Wiedervorlage nach Ereignis" markiert werden.
+
+**Typische offene Vollzugsreste:**
+- Auflage aus familiengerichtlicher Genehmigung erfüllt?
+- Löschung des Nießbrauchs nach Tod des Berechtigten
+- Bedingungseintritt bei aufschiebend bedingten Verträgen
+- Rückforderungsklausel-Aktivierung prüfen
+
+## Mandantenschlusskorrespondenz
+
+Nach Aktenabschluss erhält der Mandant:
+- Bestätigung des Vollzugsabschlusses
+- Originalunterlagen (soweit auszuhändigen)
+- Hinweis auf Aufbewahrungsempfehlung
+- Hinweis auf künftige Ereignisse (Nießbrauch-Löschung nach Tod, Nachmeldepflichten)
+
+## DSGVO beim Aktenabschluss
+
+Nach Ablauf der gesetzlichen Aufbewahrungsfristen sind personenbezogene Daten grundsätzlich zu löschen (DSGVO Art. 17). Dies gilt nicht für Urschriften (gesetzliche Aufbewahrungspflicht geht vor). Für Nebenakten: nach 30 Jahren löschen (soweit keine aktive Forderung mehr).
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Alle Vollzugsvoraussetzungen erfüllt und bestätigt?
+- Kostenrechnung bezahlt?
+- GwG-Dokumentation komplett und archiviert?
+- Abschlussprotokoll erstellt?
+- Mandant über Abschluss informiert?
+- Offene Vollzugsreste als Wiedervorlage gesetzt?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Akte vorzeitig abgeschlossen, Eintragungsnachweis fehlt noch.
+- Kosten nicht vollständig eingenommen → Aktenabschluss unvollständig.
+- GwG-Dokumentation nicht separat archiviert → 5-Jahres-Frist unklar.
+- Nießbrauchsrückfall nach Tod vergessen → Grundbuch bleibt belastet.
+- DSGVO-Löschungsrecht nach Aufbewahrungsfrist nicht umgesetzt.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- DONot §§ 9–56: https://www.bnotk.de/notare/berufsrecht/dienstordnung/
+- § 18 BNotO: https://dejure.org/gesetze/BNotO/18.html
+- GwG § 8: https://dejure.org/gesetze/GwG/8.html
+- DSGVO Art. 17: https://dejure.org/gesetze/DSGVO/17.html
+- GNotKG § 19: https://dejure.org/gesetze/GNotKG/19.html
+- BNotK Archivierungshinweise: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Aktenabschluss Archivierung und offene Vollzugsreste** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Aktenabschluss-Protokoll** (Muster)
+- **Abschluss-Checkliste** (alle Voraussetzungen)
+- **Archivierungs-Fristen-Übersicht** (Urschrift / Nebenakte / GwG)
+- **Mandanten-Schlussschreiben** (mit Aufbewahrungshinweis)
+- **Wiedervorlage-Offene-Reste** (Tabelle für Folgeereignisse)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

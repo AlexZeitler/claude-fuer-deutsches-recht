@@ -1,53 +1,81 @@
 ---
 name: notariat-011-vollmacht-genehmigung-vollmachtloser-vertreter-und
-description: "Notariat im Alltag: Vollmacht Genehmigung vollmachtloser Vertreter und Nachgenehmigung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Notariat im Alltag: Vollmacht, Genehmigung, vollmachtloser Vertreter und Nachgenehmigung. Formvoraussetzungen, Prüfung der Vertretungsmacht, Wirkung der Genehmigung und Schwebende Unwirksamkeit nach § 177 BGB."
 ---
 
-# Notariat im Alltag: Vollmacht Genehmigung vollmachtloser Vertreter und Nachgenehmigung
+# Notariat im Alltag: Vollmacht, Genehmigung, vollmachtloser Vertreter, Nachgenehmigung
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Vollmacht Genehmigung vollmachtloser Vertreter und Nachgenehmigung** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Vertretungsfragen sind in jedem notariellen Vorgang präsent. Dieser Skill strukturiert die Prüfung der Vollmacht, die Rechtsfolgen vollmachtlosen Handelns und die Möglichkeiten der Nachgenehmigung. Besonderer Fokus liegt auf der Formakzessorietät der Vollmacht und der Schwebeunwirksamkeit.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: §§ 164–181 BGB (Vertretung), § 167 BGB (Vollmacht), § 168 BGB (Erlöschen), §§ 177–180 BGB (vollmachtloser Vertreter), § 182 BGB (Genehmigung), § 181 BGB (Insichgeschäft), § 12 BeurkG (Vollmacht im Beurkundungsverfahren), § 172 BGB (Vollmachtsurkunde), §§ 1629, 1643, 1819 BGB (gesetzliche Vertretung).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Formakzessorietät der Vollmacht
 
-## Prüfprogramm
+Grundsatz: Vollmachten bedürfen grundsätzlich keiner Form (§ 167 Abs. 2 BGB). Ausnahmen:
+- Beurkundungspflichtige Geschäfte: Vollmacht muss nicht notariell beurkundet sein, aber → nach § 12 BeurkG muss sie in öffentlich beglaubigter Form vorliegen, wenn die Vollmacht nicht in der Urkunde selbst erteilt wird.
+- Grundbuch: § 29 GBO verlangt öffentlich beglaubigte Form für Vollmachten.
+- Handelsregister: § 12 HGB analog.
+- Widerrufsresistente Vollmacht bei Vorsorge: Beurkundung empfohlen (§ 1820 BGB n.F.).
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+## Vollmachtprüfungsprogramm
+
+1. Ist die Vollmacht formell ordnungsgemäß (öffentlich beglaubigt, beurkundet)?
+2. Ist die Vollmacht inhaltlich ausreichend (Generalvollmacht oder spezielle Vollmacht für das konkrete Geschäft)?
+3. Ist die Vollmacht noch wirksam? (Widerruf nach § 168 BGB, Tod des Vollmachtgebers, Eintritt einer auflösenden Bedingung?)
+4. Erlaubt die Vollmacht das Insichgeschäft (§ 181 BGB)?
+5. Vertretungsmacht bei juristischen Personen: Registerauszug aktuell?
+
+## Vollmachtloser Vertreter (§ 177 BGB)
+
+Handelt jemand ohne Vertretungsmacht, ist der Vertrag schwebend unwirksam bis zur Genehmigung durch den Vertretenen. Das Registergericht und das Grundbuchamt akzeptieren schwebend unwirksame Erklärungen nicht. Der Notar muss die Genehmigung als Vollzugsvoraussetzung aufnehmen.
+
+**Genehmigung:**
+- Durch den Vertretenen selbst
+- Form der Genehmigung: bei formpflichtigen Rechtsgeschäften bedarf die Genehmigung der gleichen Form (str., BGH: Genehmigung kann formfrei erteilt werden wenn der Vertrag selbst bereits beurkundet ist – aber Praxis fordert häufig Beglaubigung zur Registersicherheit)
+- Genehmigung wirkt auf den Zeitpunkt des Vertragsschlusses zurück (§ 184 BGB)
+
+## Nachgenehmigung: praktische Abwicklung
+
+1. Notar dokumentiert, dass X ohne Vollmacht gehandelt hat.
+2. Fälligkeitsmitteilung wird zurückgehalten bis Genehmigung eingeht.
+3. Genehmigung wird beurkundet oder beglaubigt (für Grundbuch/HR: öffentlich beglaubigt).
+4. Genehmigung als Nachtragsurkunde oder separater Akt der Urkundenrolle.
+5. Erst nach Genehmigung: Vollzug, Kaufpreisfälligkeit, Registeranmeldung.
+
+## § 181 BGB (Insichgeschäft)
+
+Abschluss eines Rechtsgeschäfts mit sich selbst oder als Vertreter mehrerer Seiten ist verboten, es sei denn:
+- Vollmacht enthält ausdrückliche Gestattung
+- Geschäft ist lediglich rechtlich vorteilhaft (Schenkung an Minderjährigen)
+- Gesetz ordnet es an
+
+Praxisrelevanz: Alleingesellschafter-GF schließt Vertrag zwischen sich selbst und der GmbH; Notar muss § 181-Befreiung dokumentieren.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Generalvollmacht ohne ausdrückliche Befreiung von § 181 BGB → Insichgeschäft unwirksam.
+- Vollmacht erlischt mit Tod des Vollmachtgebers (§ 168 BGB) – keine Ausnahme für Postmortem-Vollmachten ohne entsprechende Klausel.
+- Genehmigung zu spät → Dritter zieht Bindungsangebot zurück (§ 177 Abs. 2 BGB).
+- Registergericht akzeptiert nur öffentlich beglaubigte Genehmigung, obwohl formfrei ausreichend wäre.
+- Untervollmacht ohne entsprechende Ermächtigung in der Hauptvollmacht.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- §§ 164–181 BGB: https://dejure.org/gesetze/BGB/164.html
+- § 177 BGB: https://dejure.org/gesetze/BGB/177.html
+- § 181 BGB: https://dejure.org/gesetze/BGB/181.html
+- § 12 BeurkG: https://dejure.org/gesetze/BeurkG/12.html
+- BGH zur Vollmacht: https://www.bgh.de
+- BNotK Vollmachthinweise: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Vollmacht Genehmigung vollmachtloser Vertreter und Nachgenehmigung** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Vollmachts-Prüfcheckliste** (Form, Inhalt, Wirksamkeit)
+- **Genehmigungsmuster** (mit Rückwirkungsklarstellung)
+- **Vollzugscockpit-Eintrag** (Genehmigung als Fälligkeitsvoraussetzung)
+- **Mandantenmail** (Erläuterung Schwebezustand, nächste Schritte)
+- **Red-Team** (Risiken bei unvollständiger Vollmachtsprüfung)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

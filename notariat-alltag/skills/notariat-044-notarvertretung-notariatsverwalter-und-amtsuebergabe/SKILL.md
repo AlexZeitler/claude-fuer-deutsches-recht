@@ -1,53 +1,97 @@
 ---
-name: notariat-044-notarvertretung-notariatsverwalter-und-amtsuebergab
-description: "Notariat im Alltag: Notarvertretung Notariatsverwalter und Amtsübergabe mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-044-notarvertretung-notariatsverwalter-und
+description: "Notariat im Alltag: Notarvertretung, Notariatsverwalter und Amtsübergabe. Verfahren bei Vertretung, Amtsniederlegung und Notariatsverwaltung nach BNotO, Aktentransfer und Mandantenkommunikation."
 ---
 
-# Notariat im Alltag: Notarvertretung Notariatsverwalter und Amtsübergabe
+# Notariat im Alltag: Notarvertretung, Notariatsverwalter, Amtsübergabe
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Notarvertretung Notariatsverwalter und Amtsübergabe** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Urlaub, Krankheit, Tod oder Amtsniederlegung des Notars erfordern klare Regelungen zur Fortführung des Amts. Dieser Skill führt durch die Vertretungsregelungen, das Notariatsverwalterverfahren und die Amtsübergabe.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: §§ 38–44 BNotO (Vertretung, Notariatsverwalter), § 8 BNotO (Zuständigkeit), § 48 BNotO (Amtsniederlegung), § 49 BNotO (Amtsenthebung), § 51 BNotO (Erlöschen des Amts), DONot §§ 50–56 (Aktenübergabe), § 9 DONot (Urkundenrolle bei Amtswechsel).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Notarvertretung (§ 38 BNotO)
+
+Der Notar kann sich bei vorübergehender Verhinderung (Urlaub, Krankheit) durch einen anderen Notar vertreten lassen.
+
+**Voraussetzungen:**
+- Notar zeigt Vertretung bei der Notarkammer an (§ 38 Abs. 1 BNotO)
+- Vertreter ist zugelassener Notar oder Notarassessor
+- Vertreter handelt im Namen des vertretenen Notars
+- Urkundenrolle läuft unter dem Namen des vertretenen Notars weiter
+
+**Urkundsaufnahme durch Vertreter:**
+- Vertreter unterzeichnet mit eigenem Namen und dem Zusatz „als Vertreter von Notar X"
+- Urschrift verbleibt beim vertretenen Notar
+
+## Notariatsverwalter (§§ 40–44 BNotO)
+
+Bei längerem Ausfall (Krankheit > 1 Monat, Tod, Amtsenthebung) bestellt die Notarkammer einen Notariatsverwalter.
+
+**Aufgaben des Notariatsverwalters:**
+- Führt das Notariat fort, einschließlich laufender Vorgänge
+- Nimmt neue Beurkundungen vor (im eigenen Namen)
+- Verwaltet Akten und Urkundssammlungen
+- Koordiniert die Amtsübergabe
+
+**Haftung:** Notariatsverwalter haftet wie ein Notar (§ 19 BNotO).
+
+## Amtsübergabe / Amtsniederlegung (§ 48 BNotO)
+
+Bei Amtsniederlegung oder Ruhestand:
+1. Notar zeigt Niederlegung bei der Notarkammer an
+2. Urkundensammlung wird an die zuständige Stelle übertragen (§ 51 BNotO: Amtsgericht oder andere Notare)
+3. Offene Vollzugsvorgänge werden an den Nachfolger oder Notariatsverwalter übergeben
+4. Mandanten werden informiert
+5. Aktenübergabe gemäß DONot §§ 50–56
+
+## Aktenübergabe
+
+| Unterlagentyp | Übergabe an |
+|---|---|
+| Urkundenrolle und Urschriften | Amtsgericht (Verwahrstelle) oder Nachfolgenotar |
+| Nebenakten | Notariatsverwalter / Nachfolgenotar |
+| Elektronische Akten | Nachfolgenotar mit Datentransfer |
+| GwG-Dokumentation | Aufbewahrungspflicht: 5 Jahre |
+| Notaranderkonto | Auflösung nach abgeschlossenen Vorgängen |
+
+## Mandantenkommunikation bei Amtswechsel
+
+- Rechtzeitige Information aller Mandanten mit laufenden Vorgängen
+- Kontaktdaten des Nachfolgers/Notariatsverwalters mitteilen
+- Vollzugsstand aller Vorgänge dokumentieren und übergeben
+- Fristen im Vollzugsmonitor gesichert übergeben
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Ist die Vertretungsanzeige bei der Notarkammer erfolgt?
+- Vertreter qualifiziert (Notar oder Notarassessor)?
+- Bei Amtsniederlegung: alle Vorgänge ordnungsgemäß übergeben?
+- Urkundenrolle vollständig und übergabefähig?
+- Offene Vollzugsvorgänge inventarisiert?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Vertretung ohne Anzeige bei der Notarkammer → berufsrechtliche Konsequenzen.
+- Vertreter handelt im eigenen Namen statt als Vertreter → Urschriften-Problem.
+- Aktenübergabe ohne Vollzugsstandsprotokoll → offene Vorgänge verloren.
+- Notaranderkonto nicht aufgelöst → Vermögen blockiert.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- §§ 38–44 BNotO: https://dejure.org/gesetze/BNotO/38.html
+- § 48 BNotO: https://dejure.org/gesetze/BNotO/48.html
+- § 51 BNotO: https://dejure.org/gesetze/BNotO/51.html
+- DONot §§ 50–56: https://www.bnotk.de/notare/berufsrecht/dienstordnung/
+- BNotK Vertretungshinweise: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Notarvertretung Notariatsverwalter und Amtsübergabe** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Vertretungsanzeige** (Muster für Notarkammer)
+- **Vollzugsstandsprotokoll** (Übergabe-Checkliste)
+- **Mandantenrundschreiben** (bei Amtswechsel)
+- **Aktenübergabe-Inventar** (Tabelle)
+- **Notariatsverwalter-Briefing** (offene Vorgänge, Fristen)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

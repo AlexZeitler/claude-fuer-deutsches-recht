@@ -1,53 +1,84 @@
 ---
-name: notariat-031-umwandlung-verschmelzung-spaltung-formwechsel-regis
-description: "Notariat im Alltag: Umwandlung Verschmelzung Spaltung Formwechsel Registervollzug mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-031-umwandlung-verschmelzung-spaltung-formwechsel
+description: "Notariat im Alltag: Umwandlung – Verschmelzung, Spaltung, Formwechsel, Registervollzug. UmwG-Verfahren, notarielle Beurkundungspflichten, Handelsregisteranmeldung und Vollzugsvoraussetzungen bei Umstrukturierungen."
 ---
 
-# Notariat im Alltag: Umwandlung Verschmelzung Spaltung Formwechsel Registervollzug
+# Notariat im Alltag: Umwandlung – Verschmelzung, Spaltung, Formwechsel, Registervollzug
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Umwandlung Verschmelzung Spaltung Formwechsel Registervollzug** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Umwandlungen nach dem UmwG (Verschmelzung, Spaltung, Formwechsel, Vermögensübertragung) sind komplexe strukturverändernde Maßnahmen, die umfangreiche notarielle Begleitung erfordern. Dieser Skill gibt einen Überblick über das Verfahren und die notariellen Beurkundungspflichten.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: UmwG (Umwandlungsgesetz), §§ 2–38 UmwG (Verschmelzung), §§ 123–173 UmwG (Spaltung), §§ 190–304 UmwG (Formwechsel), §§ 305–320 UmwG (Vermögensübertragung), § 13 UmwG (notarielle Beurkundung), § 17 UmwG (Anmeldung), GmbHG, AktG, HGB, GNotKG.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Umwandlungsarten im Überblick
+
+| Art | Norm | Ergebnis |
+|---|---|---|
+| Verschmelzung durch Aufnahme | §§ 2–38 UmwG | Übertragendes Unternehmen erlischt, übernehmend bleibt |
+| Verschmelzung durch Neugründung | §§ 36–38 UmwG | Beide erlöschen, neues entsteht |
+| Aufspaltung | § 123 Abs. 1 UmwG | Übertragendes erlischt, Teile gehen auf bestehende/neue über |
+| Abspaltung | § 123 Abs. 2 UmwG | Übertragender besteht fort; Teil geht über |
+| Ausgliederung | § 123 Abs. 3 UmwG | Übertragendes besteht fort; Teil wird in neue Gesellschaft ausgegliedert |
+| Formwechsel | §§ 190–304 UmwG | Rechtsform ändert sich, Identität bleibt |
+
+## Notarielle Beurkundungspflichten
+
+- **Verschmelzungsvertrag:** Notarielle Beurkundung (§ 6 UmwG) wenn beteiligte Rechtsträger AG, KGaA, SE oder GmbH
+- **Formwechselbeschluss:** Notarielle Beurkundung (§ 193 Abs. 3 UmwG)
+- **Spaltungsplan:** Notarielle Beurkundung (§ 136 UmwG)
+- **Handelsregisteranmeldung:** Öffentlich beglaubigte Unterschrift (§ 12 HGB)
+
+## Vollzugskette (am Beispiel Verschmelzung)
+
+1. Verschmelzungsvertrag beurkunden (§ 6 UmwG)
+2. Gesellschafterversammlungen beider Gesellschaften, Verschmelzungsbeschluss (§§ 13–14 UmwG), notarielle Beurkundung
+3. Ausgabe Abfindungsangebot an Minderheitsgesellschafter (§ 29 UmwG, ggf.)
+4. Handelsregisteranmeldung beider Register (§ 17 UmwG)
+5. Eintragung → Rechtswirksamkeit der Verschmelzung (§ 20 UmwG)
+
+## Wirkungen der Eintragung
+
+- Universalsukzession: alle Aktiva und Passiva gehen auf übernehmenden Rechtsträger über (§ 20 Abs. 1 Nr. 1 UmwG)
+- Erlöschen des übertragenden Rechtsträgers (§ 20 Abs. 1 Nr. 2 UmwG)
+- Anteilseigner werden Gesellschafter des übernehmenden Rechtsträgers
+
+## Steuerliche Aspekte
+
+UmwStG (Umwandlungssteuergesetz) regelt die steuerliche Neutralität unter bestimmten Voraussetzungen. Buchwertfortführung bei Erfüllung der Voraussetzungen (§§ 11–19 UmwStG). Steuerlicher Berater muss eingebunden sein.
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Welche UmwG-Art passt zum Sachverhalt?
+- Sind alle beteiligten Rechtsträger umwandlungsfähig (§ 1 UmwG)?
+- Notarielle Beurkundung für Beschluss und Vertrag?
+- Gläubigerschutz beachtet (§ 22 UmwG: Sicherheitsleistung)?
+- Arbeitnehmerrecht: Betriebsrat gehört? (§ 5 UmwG)
+- Steuerliche Beratung eingebunden?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Verschmelzungsvertrag ohne notarielle Beurkundung → unwirksam.
+- Formwechselbeschluss formlos → § 193 Abs. 3 UmwG-Verstoß → Zurückweisung Registergericht.
+- Gläubigerbenachrichtigung vergessen → Schadenersatzpflicht.
+- Grundstücke im Betriebsvermögen: GrESt-Frage nicht geklärt.
+- Verschmelzung ohne vorherige Steuerberatung → stille Reserven aufgedeckt.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- UmwG: https://www.gesetze-im-internet.de/umwg_1994/
+- § 6 UmwG (Beurkundung): https://dejure.org/gesetze/UmwG/6.html
+- § 193 UmwG (Formwechsel): https://dejure.org/gesetze/UmwG/193.html
+- UmwStG: https://www.gesetze-im-internet.de/umwstg_2006/
+- BGH zu UmwG: https://www.bgh.de
+- BNotK Umwandlungsrecht: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Umwandlung Verschmelzung Spaltung Formwechsel Registervollzug** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Umwandlungsart-Entscheidungsbaum** (Verschmelzung / Spaltung / Formwechsel)
+- **Vollzugscockpit** (alle Schritte bis zur Eintragung)
+- **Beurkundungs-Checkliste** (welcher Akt braucht notarielle Form?)
+- **Gläubigerschutz-Protokoll**
+- **Mandantenmail** (Zeitplanung, Steuerberater einbinden)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

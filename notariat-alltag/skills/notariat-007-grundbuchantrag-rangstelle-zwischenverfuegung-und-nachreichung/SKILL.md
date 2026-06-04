@@ -1,53 +1,85 @@
 ---
-name: notariat-007-grundbuchantrag-rangstelle-zwischenverfuegung-und-n
-description: "Notariat im Alltag: Grundbuchantrag Rangstelle Zwischenverfuegung und Nachreichung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-007-grundbuchantrag-rangstelle-zwischenverfuegung-und
+description: "Notariat im Alltag: Grundbuchantrag – Rangstelle, Zwischenverfügung und Nachreichung. GBO-Verfahren, Antragsgrundsatz, Rangprinzip, typische Beanstandungen und fristgerechte Nachreichung."
 ---
 
-# Notariat im Alltag: Grundbuchantrag Rangstelle Zwischenverfuegung und Nachreichung
+# Notariat im Alltag: Grundbuchantrag – Rangstelle, Zwischenverfügung, Nachreichung
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Grundbuchantrag Rangstelle Zwischenverfuegung und Nachreichung** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Der Grundbuchantrag ist das prozessuale Werkzeug für jede Änderung im Grundbuch. Dieser Skill erklärt das Antragsprinzip, das Rangprinzip, den Umgang mit Zwischenverfügungen und die fristgerechte Nachreichung fehlender Unterlagen.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: §§ 13–30 GBO (Antragsgrundsatz, Form, Inhalt), § 17 GBO (Rangprinzip), §§ 18–19 GBO (Zwischenverfügung, Eintragungsbewilligung), § 20 GBO (Auflassung), §§ 29–30 GBO (Form der Bewilligungen), § 71 GBO (Beschwerde), GBV (Grundbuchverfügung), FamFG §§ 380–410 (Grundbuchsachen).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Antragsgrundsatz (§ 13 GBO)
+
+Eine Eintragung erfolgt nur auf Antrag. Der Antrag kann von jedem gestellt werden, dessen Recht betroffen ist. Der Notar stellt regelmäßig den Antrag namens der Beteiligten (§ 15 GBO). Der Antrag muss den Eintragungsgegenstand eindeutig bezeichnen (Grundstück, Recht, Berechtigter).
+
+## Rangprinzip (§ 17 GBO)
+
+Anträge werden in der Reihenfolge ihres Eingangs beim Grundbuchamt bearbeitet. Der Eingang begründet den Rang für das beantragte Recht. Bei mehreren gleichzeitig eingehenden Anträgen entscheidet die Reihenfolge im Tagebuch. Rangvorbehalt (§ 881 BGB) und Rangänderung (§ 880 BGB) sind möglich.
+
+## Checkliste Antragsinhalte
+
+- Bezeichnung des Grundbuchs (Amtsgericht, Grundbuchbezirk, Band/Blatt oder Grundstücksnummer)
+- Art der begehrten Eintragung (Eigentumsumschreibung, Grundschuldbestellung, Löschung, Vormerkung)
+- Eintragungsbewilligung oder Eintragungsantrag des Berechtigten (§ 19 GBO)
+- Beilagen: Auflassung/Bewilligung in beglaubigter Form (§§ 29–30 GBO)
+- Steuerliche Unbedenklichkeit (§ 22 GrEStG) bei Eigentumsumschreibung
+- Erbschein/ENZ bei Erbfolge als Legitimationsnachweis
+
+## Zwischenverfügung (§ 18 GBO)
+
+Wenn der Antrag noch nicht vollständig ist, ergeht eine Zwischenverfügung. Der Eingang des Antrags bleibt als Rangdatum erhalten. Der Notar hat die fehlenden Unterlagen innerhalb der gesetzten Frist (üblicherweise 1–3 Monate) nachzureichen. Nach Ablauf kann das Grundbuchamt den Antrag zurückweisen.
+
+**Typische Zwischenverfügungsgründe:**
+- Fehlende steuerliche Unbedenklichkeit
+- Unvollständige oder fehlende Vollmacht
+- Fehlender Erbnachweis
+- Formfehler in der Bewilligung
+- Fehlende Löschungsbewilligung eingetragener Rechte
+- Fehlende Genehmigung (Betreuer, Familiengericht)
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Ist das Grundbuch aktiv? (Keine Grundstücksverschmelzung, kein Berichtigungsverfahren anhängig?)
+- Liegt die Eintragungsbewilligung in richtiger Form vor? (§ 29 GBO: öffentlich beglaubigte Unterschrift)
+- Auflassung in der Urkunde enthalten oder separat? (§ 925 BGB, § 20 GBO)
+- Rangverhältnis: Bestehende Belastungen in Abt. II/III geprüft?
+- Löschungsbewilligungen der abzulösenden Rechte vollständig?
+- Vertretungsnachweis (Vollmacht, Gesellschaftsvertrag, Registerauszug) aktuell?
+
+## Nachreichungsfristen verwalten
+
+Sofort bei Zwischenverfügungseingang: Frist im Vollzugskalender vermerken, Mandant informieren, fehlende Unterlagen anfordern. Fristversäumnis → Antragszurückweisung → Rangrelevanz. Fristverlängerungsantrag vor Ablauf stellen (§ 18 Abs. 2 GBO).
+
+## Beschwerde (§ 71 GBO)
+
+Gegen Zwischenverfügungen und Zurückweisungen ist die Beschwerde nach § 71 GBO statthaft (Beschwerdegericht: Landgericht). Frist: keine gesetzliche, aber faktisch zeitkritisch wegen Rangverlust.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Rangverlust durch verspätete Nachreichung → neuer Antrag mit schlechterem Rang.
+- Steuerliche Unbedenklichkeit beantragt, aber GrESt-Bescheid noch nicht erlassen.
+- Löschungsbewilligung auf falschen Namen ausgestellt.
+- Auflassung ohne Einigung (§ 873 BGB) – formell unvollständig.
+- Unklare Bezeichnung des Grundstücks (Flurstücksnummer veraltet).
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- GBO §§ 13–30: https://dejure.org/gesetze/GBO/13.html
+- § 17 GBO (Rang): https://dejure.org/gesetze/GBO/17.html
+- § 18 GBO (Zwischenverfügung): https://dejure.org/gesetze/GBO/18.html
+- GBV: https://www.gesetze-im-internet.de/gbv/
+- BGH zu Grundbuchverfahren: https://www.bgh.de
+- BNotK Grundbuchhinweise: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Grundbuchantrag Rangstelle Zwischenverfuegung und Nachreichung** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Antragsentwurf** (strukturiert nach GBO-Anforderungen)
+- **Zwischenverfügungsantwort** (Muster, fristwahrend)
+- **Rangtabelle** (bestehende Belastungen, neue Eintragung)
+- **Vollzugscockpit** (offene Nachreichungen, Fristen, Verantwortliche)
+- **Mandantenmail** (Statusbericht Grundbuchverfahren)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

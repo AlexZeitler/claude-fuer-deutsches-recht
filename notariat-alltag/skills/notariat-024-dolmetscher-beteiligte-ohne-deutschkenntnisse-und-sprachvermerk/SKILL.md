@@ -1,53 +1,82 @@
 ---
-name: notariat-024-dolmetscher-beteiligte-ohne-deutschkenntnisse-und-s
-description: "Notariat im Alltag: Dolmetscher Beteiligte ohne Deutschkenntnisse und Sprachvermerk mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-024-dolmetscher-beteiligte-ohne-deutschkenntnisse-und
+description: "Notariat im Alltag: Dolmetscher, Beteiligte ohne Deutschkenntnisse und Sprachvermerk. Anforderungen nach § 16 BeurkG, Dolmetscherqualifikation, Sprachvermerk in der Urkunde und zweisprachige Beurkundung."
 ---
 
-# Notariat im Alltag: Dolmetscher Beteiligte ohne Deutschkenntnisse und Sprachvermerk
+# Notariat im Alltag: Dolmetscher, Beteiligte ohne Deutschkenntnisse, Sprachvermerk
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Dolmetscher Beteiligte ohne Deutschkenntnisse und Sprachvermerk** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Wenn Beteiligte die deutsche Sprache nicht ausreichend beherrschen, muss ein Dolmetscher hinzugezogen werden. Dieser Skill klärt die Anforderungen nach § 16 BeurkG, die Dolmetscherqualifikation, Sprachvermerke und die Möglichkeit zweisprachiger Beurkundungen.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: § 16 BeurkG (Behinderungen; Dolmetscher), § 17 BeurkG (Belehrung in verständlicher Weise), § 13 BeurkG (Vorlesen und Unterzeichnung), GwG § 10 (Identifizierung auch bei Sprachbarrieren), BGH-Rechtsprechung zu § 16 BeurkG.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## § 16 BeurkG: Pflicht zum Dolmetscher
+
+Wenn ein Beteiligter der deutschen Sprache nicht hinreichend mächtig ist, muss ein Dolmetscher hinzugezogen werden (§ 16 Abs. 1 BeurkG). Der Dolmetscher übersetzt die Niederschrift mündlich in die Sprache des Beteiligten. Dies ist im Protokoll zu vermerken.
+
+Ausnahme: Wenn der Notar selbst der fremden Sprache mächtig ist (§ 16 Abs. 3 BeurkG), kann er auf Dolmetscher verzichten – dann muss er die Urkunde entweder zweisprachig aufnehmen oder die Urkunde in der Fremdsprache niederschreiben und in beiden Sprachen verlesen.
+
+## Dolmetscherqualifikation
+
+- **Vereidigter Dolmetscher:** Amtlich bestellt, höchste Verlässlichkeit; für wichtige Urkunden empfohlen.
+- **Nicht vereidigter Dolmetscher:** Zulässig, wenn der Notar von seiner Eignung überzeugt ist.
+- Der Dolmetscher unterschreibt die Niederschrift mit (§ 16 Abs. 1 S. 3 BeurkG).
+- Interessenkollision: Dolmetscher darf nicht Beteiligter oder Bevollmächtigter sein.
+
+## Sprachvermerk in der Urkunde
+
+Die Urkunde muss einen Vermerk enthalten:
+- Name des Dolmetschers
+- Sprache, in die übersetzt wurde
+- Aussage, dass die Niederschrift vorgelesen und dem Beteiligten durch den Dolmetscher übersetzt wurde
+- Unterschrift des Dolmetschers
+
+Musterformulierung: „Die Niederschrift wurde dem Beteiligten X durch die Dolmetscherin Y in die russische Sprache übersetzt; die Dolmetscherin hat die Niederschrift mitunterzeichnet."
+
+## Zweisprachige Beurkundung
+
+Bei häufig beurkundeten Sprachen (Englisch, Französisch, Spanisch) bietet sich eine zweisprachige Urkunde an. Beide Sprachfassungen stehen nebeneinander. Im Streitfall gilt die deutsche Fassung. Zweisprachige Urkunden sind registertauglich (ausländisches Register akzeptiert die Fremdsprachfassung).
+
+## Notar spricht Fremdsprache (§ 16 Abs. 3 BeurkG)
+
+Ist der Notar der Fremdsprache hinreichend mächtig, kann er die Urkunde zweisprachig oder in der Fremdsprache errichten. Er muss dies in der Niederschrift vermerken.
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Beherrscht der Beteiligte Deutsch ausreichend für die Belehrung nach § 17 BeurkG?
+- Liegt der Dolmetscher-Nachweis (vereidigt oder Eignung des Notars festgestellt) vor?
+- Ist der Sprachvermerk in der Urkunde enthalten?
+- Hat der Dolmetscher die Urkunde mit unterzeichnet?
+- GwG: Identifizierung auch durch Sprachbarriere nicht beeinträchtigt?
+- Zweisprachige Urkunde sinnvoll (ausländisches Register)?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Dolmetscher ist gleichzeitig Bevollmächtigter → Interessenkonflikt, unzulässig.
+- Sprachvermerk fehlt → formeller Mangel (§ 16 BeurkG), Anfechtbarkeit.
+- Notar verlässt sich auf rudimentäre Deutschkenntnisse des Beteiligten → unzureichende Belehrung.
+- Zweisprachige Urkunde ohne Vorrangregelung (deutsch vs. fremd) → Auslegungsstreit.
+- Dolmetscher unterschreibt nicht → formeller Fehler.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- § 16 BeurkG: https://dejure.org/gesetze/BeurkG/16.html
+- § 17 BeurkG: https://dejure.org/gesetze/BeurkG/17.html
+- § 13 BeurkG: https://dejure.org/gesetze/BeurkG/13.html
+- BGH zu § 16 BeurkG: https://www.bgh.de
+- BNotK Dolmetscher-Leitfaden: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Dolmetscher Beteiligte ohne Deutschkenntnisse und Sprachvermerk** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Dolmetscher-Checkliste** (Qualifikation, Vermerk, Unterschrift)
+- **Sprachvermerk-Muster** (für die Urkunde)
+- **Zweisprachige Urkunden-Struktur** (Formatvorlage)
+- **Mandantenhinweis** (Dolmetscher mitbringen oder Notar stellt ihn)
+- **GwG-Vermerk** (Identifizierung mit Dolmetscher)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
 
+## Kostenhinweise
+
+Der Dolmetscher ist keine notarielle Leistung; die Kosten trägt der Beteiligte direkt. Bei zweisprachiger Niederschrift durch den Notar selbst: erhöhte Komplexität rechtfertigt Ermessenserhöhung der Gebühr (§ 127 GNotKG). Keine gesonderte GNotKG-Gebühr für Sprachvermerk.

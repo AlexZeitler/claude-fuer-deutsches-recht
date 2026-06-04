@@ -1,53 +1,82 @@
 ---
-name: notariat-030-stiftung-verein-genossenschaft-notarielle-schnittst
-description: "Notariat im Alltag: Stiftung Verein Genossenschaft notarielle Schnittstellen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-030-stiftung-verein-genossenschaft-notarielle
+description: "Notariat im Alltag: Stiftung, Verein, Genossenschaft – notarielle Schnittstellen. Stiftungsgeschäft, Satzungsbeurkundung, Registrierung und typische notarielle Beiträge zu diesen Rechtsformen."
 ---
 
-# Notariat im Alltag: Stiftung Verein Genossenschaft notarielle Schnittstellen
+# Notariat im Alltag: Stiftung, Verein, Genossenschaft – notarielle Schnittstellen
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Stiftung Verein Genossenschaft notarielle Schnittstellen** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Stiftungen, Vereine und Genossenschaften haben unterschiedliche notarielle Berührungspunkte. Dieser Skill klärt, wann der Notar zwingend oder sinnvoll einzuschalten ist, und führt durch die jeweiligen Anforderungen.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: §§ 80–88 BGB (Stiftungsrecht), §§ 21–79b BGB (Vereinsrecht), GenG (Genossenschaftsgesetz), § 33 BGB (Satzungsänderung Verein), § 6 StiftG der Bundesländer, § 2 GmbHG (wenn Stiftung GmbH-Anteile hält), § 12 HGB (Registereintragung), GwG.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Stiftung
+
+**Notarielle Mitwirkung:**
+- Stiftungsgeschäft (§ 81 BGB): Errichtungsurkunde, keine gesetzliche Beurkundungspflicht, aber Beurkundung empfohlen (Beweissicherheit, Anerkennung durch Stiftungsbehörde)
+- Testamentarische Stiftung (§ 83 BGB): Wirkung mit Erbfall, Beurkundung als Testament (§ 2231 Nr. 1 BGB)
+- Satzung: keine Beurkundungspflicht, aber Beglaubigung nötig für Anerkennungsantrag bei Behörde
+- Zuwendungen an Stiftung: Schenkung mit Formpflicht (§ 518 BGB), wenn Grundstücke: § 311b BGB
+
+**Stiftungsrecht 2023:** Seit 1.7.2023 gilt das neue Stiftungsrecht (§§ 80–88 BGB n.F.). Stiftungsregister (§ 82a BGB n.F.) ist neu eingeführt.
+
+## Verein
+
+**Notarielle Mitwirkung:**
+- Vereinsgründung: kein Formzwang; Satzung und Beschlüsse durch Vorstand ohne Notar möglich
+- **Satzungsänderung:** § 33 Abs. 1 BGB – Beschluss und Vorlage beim Vereinsregister, keine Beurkundungspflicht
+- **Grundstückstransaktionen des Vereins:** Beurkundung nach § 311b BGB
+- **Vertretungsbescheinigung:** § 21 BGB i.V.m. Registerauszug – Notar kann bescheinigen (§ 21 BNotO)
+- **Beglaubigung HR-Anmeldung:** § 12 HGB für Satzungsänderungen, Vorstandsänderungen
+
+## Genossenschaft
+
+**Notarielle Mitwirkung:**
+- Gründung (§ 11 GenG): Statut (Satzung) und Gründungsprotokoll; Beglaubigung der Anmeldung (§ 11 Abs. 3 GenG)
+- Satzungsänderung (§ 16 GenG): Beschluss und Registeranmeldung; Beglaubigung
+- Grundstücksgeschäfte der Genossenschaft: § 311b BGB
+- **Prüfungsverband:** Genossenschaft muss prüfungsverbandsmitglied sein (§ 54 GenG)
+
+## GwG bei Stiftungen, Vereinen, Genossenschaften
+
+Stiftungen und Vereine, die nicht ins Handelsregister eingetragen sind, müssen unter bestimmten Umständen wirtschaftlich Berechtigte ans Transparenzregister melden (§ 20 GwG). Der Notar prüft bei Beurkundungen, ob GwG-Pflichten erfüllt sind.
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Stiftung: Landesstiftungsrecht prüfen (unterschiedliche Anforderungen je Bundesland).
+- Verein: Gemeinützigkeit und steuerrechtliche Aspekte (§ 52 AO)?
+- Genossenschaft: Prüfungsverbandsmitgliedschaft vor Eintragung?
+- Transparenzregister-Pflicht für Verein/Stiftung?
+- Grundstückstransaktionen: Vertretungsbefugnis des Vorstands, Registernachweis?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Stiftungsgeschäft formlos → Beweisprobleme bei Behördenantrag.
+- Satzungsänderung beim Verein ohne Notifizierung an Registergericht.
+- Genossenschaft ohne Prüfungsverband → Eintragung scheitert.
+- Transparenzregister für gemeinnützigen Verein vergessen.
+- Stiftung erwirbt Grundstück ohne Genehmigung der Stiftungsaufsicht (§ 86 BGB n.F.).
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- §§ 80–88 BGB (Stiftung): https://dejure.org/gesetze/BGB/80.html
+- § 33 BGB (Verein, Satzungsänderung): https://dejure.org/gesetze/BGB/33.html
+- GenG: https://www.gesetze-im-internet.de/geng/
+- GwG § 20: https://dejure.org/gesetze/GwG/20.html
+- Stiftungsregister: https://www.stiftungsregister.de
+- BNotK Stiftungsrecht: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Stiftung Verein Genossenschaft notarielle Schnittstellen** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Stiftungsgeschäft-Muster** (Grundstruktur)
+- **Genossenschafts-Anmeldecheckliste**
+- **Vereins-Satzungsänderung** (Ablauf, Beglaubigung)
+- **Transparenzregister-Prüfblatt** (Pflicht Stiftung/Verein?)
+- **Mandantenmail** (Rechtsform-Überblick, notarielle Schritte)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
 
+## Kostenhinweise
+
+Stiftungsgeschäft: 2,0 Gebühr (KV Nr. 21100 GNotKG), Gegenstandswert = Stiftungskapital (§ 55 GNotKG). Vereins-Satzungsbeglaubigung: KV Nr. 25100 (max. 70 € je Unterschrift). Genossenschaft HR-Anmeldung: pauschal ca. 150 €. Bei Grundstücksschenkung an Stiftung: § 311b BGB + GNotKG Vollwert des Grundstücks.

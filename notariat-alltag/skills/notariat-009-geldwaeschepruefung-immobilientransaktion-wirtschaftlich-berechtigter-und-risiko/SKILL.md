@@ -1,53 +1,86 @@
 ---
-name: notariat-009-geldwaeschepruefung-immobilientransaktion-wirtschaf
-description: "Notariat im Alltag: Geldwäscheprüfung Immobilientransaktion wirtschaftlich Berechtigter und Risiko mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-009-geldwaeschepruefung-immobilientransaktion
+description: "Notariat im Alltag: Geldwäscheprüfung bei Immobilientransaktionen – wirtschaftlich Berechtigter, Risikoklassifizierung, Dokumentationspflichten nach GwG §§ 1–17 und Meldepflichten."
 ---
 
-# Notariat im Alltag: Geldwäscheprüfung Immobilientransaktion wirtschaftlich Berechtigter und Risiko
+# Notariat im Alltag: Geldwäscheprüfung – Immobilientransaktion, wirtschaftlich Berechtigter, Risikoklassifizierung
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Geldwäscheprüfung Immobilientransaktion wirtschaftlich Berechtigter und Risiko** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Notare sind Verpflichtete nach dem Geldwäschegesetz (GwG). Dieser Skill führt durch die vollständige GwG-Prüfung bei Immobilientransaktionen: Identifizierung, Transparenzregisterprüfung, Risikoklassifizierung, PEP-Screening, verstärkte Sorgfaltspflichten und Meldepflichten.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: §§ 1–17 GwG (Begriffsbestimmungen, allgemeine Sorgfaltspflichten), §§ 10–11 GwG (Sorgfaltspflichten im Detail), §§ 14–17 GwG (verstärkte Sorgfaltspflichten), §§ 43–47 GwG (Meldepflichten, Verdachtsanzeige), §§ 20–24 GwG (Transparenzregister), § 43 GwG (Verdachtsmeldung FIU), BNotO § 18 (Verschwiegenheit vs. GwG-Pflicht).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Pflichten des Notars nach GwG
 
-## Prüfprogramm
+1. **Identifizierung aller Vertragsparteien** (§ 10 Abs. 1 Nr. 1 GwG): Personalausweis oder Pass bei natürlichen Personen; Registerauszug und Vollmacht bei juristischen Personen.
+2. **Feststellung wirtschaftlich Berechtigter** (§ 3 GwG): Bei juristischen Personen: wer hält > 25 % der Anteile oder Stimmrechte? Bei Trusts/Stiftungen: Gründer, Treuhänder, Begünstigte.
+3. **Transparenzregisterabfrage** (§§ 20–24 GwG): Liegt die Meldung vor? Stimmt sie mit den identifizierten Angaben überein?
+4. **Risikoklassifizierung** (§ 10 Abs. 2 GwG): Standard- oder verstärkte Sorgfalt?
+5. **PEP-Screening**: Sind Beteiligte politisch exponierte Personen (§ 1 Abs. 12 GwG)?
+6. **Dokumentation** (§ 8 GwG): Alle Maßnahmen aufzeichnen, 5 Jahre aufbewahren.
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+## Verstärkte Sorgfaltspflichten (§§ 14–17 GwG)
+
+Erforderlich bei:
+- PEP-Status eines Beteiligten
+- Hochrisikoländer (FATF-Liste)
+- Komplexe Konstrukte (Treuhänder, Offshore-Gesellschaften, Kaskaden-Strukturen)
+- Ungewöhnlich hohe Barzahlung oder atypische Finanzierungsstruktur
+- Nicht plausibles wirtschaftliches Interesse
+
+Maßnahmen: Genehmigung durch Führungsebene, Herkunft der Mittel prüfen, laufendes Monitoring.
+
+## Risikoindikatorenkatalog (Immobilien)
+
+| Indikator | Risikostufe |
+|---|---|
+| Kaufpreis weit über Marktwert | Hoch |
+| Barzahlung oder Kryptowährung | Hoch |
+| Gesellschaftskette ohne erkennbaren Wirtschaftszweck | Hoch |
+| Auslandsgesellschaft ohne operatives Geschäft | Mittel-Hoch |
+| Erwerber ist dem Verkäufer erst kurz bekannt | Mittel |
+| PEP oder Familienangehöriger | Hoch |
+| Normale Bankfinanzierung, bekannte Parteien | Niedrig |
+
+## Verdachtsanzeige (§ 43 GwG)
+
+Der Notar muss eine Verdachtsmeldung an die Financial Intelligence Unit (FIU) erstatten, wenn er Tatsachen kennt, die darauf hindeuten, dass ein Vermögenswert aus einer Straftat stammt oder der Terrorismusfinanzierung dient. Die Meldung ist vor der Transaktion zu erstatten; die Transaktion ist vorläufig zu stoppen.
+
+Ausnahme: § 43 Abs. 2 GwG – Notar darf Meldung nicht erstatten, wenn dadurch die notarielle Amtsverschwiegenheit verletzt würde (str.; in der Praxis: immer Meldung erstatten).
+
+## Dokumentationspflicht (§ 8 GwG)
+
+- Kopie des Identifikationsdokuments
+- Nachweis der Transparenzregisterabfrage
+- Risikoklassifizierungsvermerk
+- PEP-Screeningergebnis
+- Bei verstärkter Sorgfalt: Mittelherkunftsnachweis, Genehmigungsdokumentation
+- Aufbewahrung: 5 Jahre nach Ende der Geschäftsbeziehung
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- GwG-Prüfung erst nach Beurkundung → Verstoß gegen § 10 GwG.
+- Transparenzregister nicht abgefragt (Pflicht auch wenn kein Eintragungserfordernis).
+- Wirtschaftlich Berechtigter hinter mehrstufiger GmbH-Kette nicht identifiziert.
+- PEP-Status übersehen bei ausländischen Beteiligten.
+- Meldung an FIU vergessen bei klaren Verdachtsmomenten.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- GwG: https://www.gesetze-im-internet.de/gwg_2017/
+- § 43 GwG (Verdachtsmeldung): https://dejure.org/gesetze/GwG/43.html
+- § 3 GwG (wirtschaftl. Berechtigter): https://dejure.org/gesetze/GwG/3.html
+- Transparenzregister: https://www.transparenzregister.de
+- BNotK GwG-Leitfaden: https://www.bnotk.de
+- FATF-Hochrisikoliste: https://www.fatf-gafi.org
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Geldwäscheprüfung Immobilientransaktion wirtschaftlich Berechtigter und Risiko** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **GwG-Prüfbogen** (alle Pflichtfelder, Risikoindikator-Ampel)
+- **Transparenzregister-Abfragedokumentation**
+- **Risikovermerk** (mit Begründung der Klassifizierung)
+- **Mandantenmail** (benötigte Unterlagen für GwG-Compliance)
+- **Meldungshinweis an FIU** (bei Verdacht, ohne Inhaltsangabe an Mandant)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

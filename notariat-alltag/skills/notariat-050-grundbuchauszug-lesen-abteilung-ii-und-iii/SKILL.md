@@ -1,53 +1,97 @@
 ---
 name: notariat-050-grundbuchauszug-lesen-abteilung-ii-und-iii
-description: "Notariat im Alltag: Grundbuchauszug lesen Abteilung II und III mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Notariat im Alltag: Grundbuchauszug lesen – Abteilung II und III. Systematische Analyse aller Grundbuchinhalte, Bedeutung der Eintragungen in Abt. I (Eigentum), II (Belastungen) und III (Grundpfandrechte) für den Vollzug."
 ---
 
-# Notariat im Alltag: Grundbuchauszug lesen Abteilung II und III
+# Notariat im Alltag: Grundbuchauszug lesen – Abt. II und III
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Grundbuchauszug lesen Abteilung II und III** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Ein aktueller Grundbuchauszug ist Ausgangspunkt jedes Grundstücksgeschäfts. Dieser Skill führt durch die systematische Lektüre aller drei Abteilungen und zeigt, welche Eintragungen vollzugsrelevant sind.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: GBO §§ 2–15 (Grundbuchinhalt), GBV §§ 1–21 (Grundbuchverfügung), §§ 873–902 BGB (Grundstücksrechte), §§ 1030–1093 BGB (Dienstbarkeiten), §§ 1094–1104 BGB (Vorkaufsrechte), §§ 1105–1112 BGB (Reallasten), §§ 1113–1203 BGB (Grundpfandrechte).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Aufbau des Grundbuchs
+
+| Abteilung | Inhalt |
+|---|---|
+| Bestandsverzeichnis | Grundstücksbezeichnung (Gemarkung, Flur, Flurstück), Fläche |
+| Abteilung I | Eigentümer (Name, Geburtsdatum, Anteil bei Miteigentum) |
+| Abteilung II | Lasten und Beschränkungen (außer Grundpfandrechte) |
+| Abteilung III | Grundpfandrechte (Hypotheken, Grundschulden, Rentenschulden) |
+
+## Abteilung I: Eigentümer
+
+- Eintragung von Name, Geburtsdatum, ggf. Anschrift
+- Anteil bei Miteigentum (Bruchteil)
+- Bezeichnung des Erwerbsgrundes (Auflassung, Erbfolge, Zuschlagsbeschluss)
+- Achtung: Voreintragungserfordernis bei GbR nach MoPeG (§ 707 BGB n.F.)
+
+## Abteilung II: Lasten und Beschränkungen
+
+Typische Eintragungen:
+- **Auflassungsvormerkung** (§ 883 BGB): sichert Kaufanspruch
+- **Dienstbarkeiten** (§§ 1018–1029 BGB): Grunddienstbarkeit (z.B. Wegerecht)
+- **Beschränkte persönliche Dienstbarkeit** (§ 1090 BGB): Wohnungsrecht, Nießbrauch
+- **Reallast** (§§ 1105–1112 BGB): wiederkehrende Leistungen (z.B. Altenteil)
+- **Vorkaufsrecht** (§§ 1094–1104 BGB): dingliches Vorkaufsrecht
+- **Verfügungsbeschränkungen** (z.B. Insolvenzvermerk, Testamentsvollstreckervermerk)
+
+**Vollzugsrelevanz:** Jede Eintragung in Abt. II muss geprüft werden, ob sie bei Verkauf gelöscht werden soll oder auf den Käufer übergeht.
+
+## Abteilung III: Grundpfandrechte
+
+Typische Eintragungen:
+- **Grundschuld** (§ 1191 BGB): häufigste Kreditsicherung; Inhaber, Betrag, Zinsen
+- **Hypothek** (§§ 1113–1190 BGB): akzessorisch; selten geworden
+- **Rentenschuld** (§§ 1199–1203 BGB): verzinsliche Geldrente
+
+**Brief- vs. Buchgrundschuld:** Grundbuch vermerkt ob „Brief" ausgegeben oder „Ohne Brief" (Buchgrundschuld).
+
+**Rangfolge:** Reihenfolge der Nummern in Abt. III = Rangfolge. Bei Zwangsversteigerung: Rangplatz entscheidend.
+
+## Vollzugsanalyse des Grundbuchauszugs
+
+**Für Grundstückskauf:**
+1. Abt. I: Ist der Verkäufer als Eigentümer eingetragen?
+2. Abt. II: Welche Belastungen gehen über? (Dienstbarkeiten bleiben oft bestehen)
+3. Abt. II: Welche müssen gelöscht werden? (Auflassungsvormerkungen, Verfügungsbeschränkungen)
+4. Abt. III: Welche Grundschulden müssen abgelöst und gelöscht werden?
+5. Alle Löschungsunterlagen für Abt. III anfordern
+
+## Aktueller Auszug: Wichtigkeit
+
+Grundbuchauszüge veralten schnell. Für Beurkundung: Auszug nicht älter als 3 Monate. Für Vollzug: Auszug direkt vor Einreichung beantragen (bei elektronischem Grundbuch: Online-Abruf).
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Ist der Eigentümer der tatsächliche Verkäufer (Abt. I)?
+- Welche Abt. II-Eintragungen sind löschungsbedürftig vs. kaufmitübernommen?
+- Alle Abt. III-Grundschulden mit Valuta-Status und Löschungsbedarf erfasst?
+- Verfügungsbeschränkungen (Testamentsvollstrecker, Insolvenz) vorhanden?
+- Auszug aktuell genug?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Veralteter Grundbuchauszug → Zwischeneintragungen übersehen.
+- Abt. II-Dienstbarkeit übersehen → Käufer kauft belastetes Grundstück.
+- Abt. III-Rangstelle falsch gelesen → Finanzierung scheitert.
+- Testamentsvollstreckervermerk übersehen → Eigentümer verfügungsbeschränkt.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- GBO §§ 2–15: https://dejure.org/gesetze/GBO/2.html
+- §§ 873–902 BGB: https://dejure.org/gesetze/BGB/873.html
+- §§ 1018–1029 BGB (Dienstbarkeit): https://dejure.org/gesetze/BGB/1018.html
+- §§ 1191–1203 BGB (Grundschuld): https://dejure.org/gesetze/BGB/1191.html
+- GBV: https://www.gesetze-im-internet.de/gbv/
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Grundbuchauszug lesen Abteilung II und III** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Grundbuchauszug-Analyse** (tabellarisch: Abt. I/II/III, Status, Handlungsbedarf)
+- **Löschungsbedarfs-Übersicht** (je Eintragung: löschen / übernehmen / prüfen)
+- **Vollzugsrisiko-Ampel** (was blockiert den Vollzug)
+- **Mandantenmail** (Grundbuchlage, Belastungsüberblick)
+- **Auszug-Anforderungsschreiben** (an Grundbuchamt)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

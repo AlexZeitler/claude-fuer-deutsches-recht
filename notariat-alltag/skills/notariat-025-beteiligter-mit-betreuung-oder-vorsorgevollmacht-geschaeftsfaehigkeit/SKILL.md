@@ -1,53 +1,91 @@
 ---
-name: notariat-025-beteiligter-mit-betreuung-oder-vorsorgevollmacht-ge
-description: "Notariat im Alltag: Beteiligter mit Betreuung oder Vorsorgevollmacht Geschäftsfähigkeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-025-beteiligter-mit-betreuung-oder-vorsorgevollmacht
+description: "Notariat im Alltag: Beteiligter mit Betreuung oder Vorsorgevollmacht – Geschäftsfähigkeit. Prüfprogramm für Geschäftsfähigkeit, gesetzliche Vertretung durch Betreuer, Einwilligungsvorbehalt und familiengerichtliche Genehmigung."
 ---
 
-# Notariat im Alltag: Beteiligter mit Betreuung oder Vorsorgevollmacht Geschäftsfähigkeit
+# Notariat im Alltag: Beteiligter mit Betreuung oder Vorsorgevollmacht – Geschäftsfähigkeit
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Beteiligter mit Betreuung oder Vorsorgevollmacht Geschäftsfähigkeit** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Wenn ein Beteiligter unter Betreuung steht oder eine Vorsorgevollmacht besteht, muss der Notar die Handlungsfähigkeit des Beteiligten sorgfältig prüfen. Dieser Skill strukturiert die rechtlichen Voraussetzungen und das praktische Prüfprogramm.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: §§ 104–113 BGB (Geschäftsfähigkeit), §§ 1814–1874 BGB n.F. (Betreuungsrecht 2023), § 1820 BGB n.F. (Vorsorgevollmacht), § 1825 BGB n.F. (Einwilligungsvorbehalt), §§ 1821–1822 BGB n.F. (Genehmigungspflichtige Rechtsgeschäfte), FamFG §§ 271–341 (Betreuungssachen), BeurkG § 10 (Feststellung der Beteiligten).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Geschäftsfähigkeit: Grundsätze
 
-## Prüfprogramm
+| Zustand | Rechtsfolge |
+|---|---|
+| Volljährig, keine Betreuung | Voll geschäftsfähig (§ 2 BGB) |
+| Geschäftsunfähigkeit (§ 104 Nr. 2 BGB) | Willenserklärung nichtig; gesetzlicher Vertreter (Betreuer) handelt |
+| Einwilligungsvorbehalt (§ 1825 BGB n.F.) | Willenserklärung bedarf Einwilligung des Betreuers |
+| Vorsorgevollmacht aktiv | Bevollmächtigter handelt; Betreuer nicht nötig |
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+## Prüfprogramm Geschäftsfähigkeit
+
+1. **Erscheinungsbild:** Wirkt der Beteiligte orientiert, kann er den Inhalt der Urkunde verstehen?
+2. **Betreuungsbeschluss:** Liegt ein Betreuungsgerichtsbeschluss vor? → Aufgabenkreise des Betreuers lesen!
+3. **Einwilligungsvorbehalt:** § 1825 BGB n.F. – gilt nur für bestimmte Aufgabenkreise?
+4. **Vorsorgevollmacht:** Ist die Vollmacht aktiviert? Liegt Arztzeugnis über Geschäftsunfähigkeit vor?
+5. **Notarielle Pflicht:** Notar muss Zweifel dokumentieren; im Zweifel Urkunde nicht aufnehmen.
+
+## Betreuer: Handlungsbefugnis und Genehmigungspflichten
+
+Der Betreuer vertritt den Betreuten in den zugewiesenen Aufgabenkreisen (§ 1823 BGB n.F.). Für bestimmte Rechtsgeschäfte benötigt der Betreuer die Genehmigung des Betreuungsgerichts:
+
+**Genehmigungspflichtige Geschäfte (§§ 1821–1822 BGB n.F.):**
+- Grundstückserwerb und -veräußerung
+- Schenkungen
+- Erbverzicht
+- Aufnahme von Darlehen
+- Kündigung von Dauerschuldverhältnissen
+- Auflösung von Konten über 3.000 €
+
+## Familiengerichtliche Genehmigung
+
+Genehmigung des Betreuungsgerichts ist Vollzugsvoraussetzung (§ 1829 BGB analog für Betreuer). Der Notar nimmt die Willenserklärung des Betreuers auf, aber vollzieht erst nach Vorliegen der Genehmigung.
+
+**Antrag:** Betreuer stellt Antrag beim Betreuungsgericht (§ 1828 BGB n.F. i.V.m. FamFG §§ 271 ff.).
+**Frist:** Variable; i.d.R. 4–8 Wochen.
+**Inhalt:** Genehmigung muss das konkrete Rechtsgeschäft benennen.
+
+## Vorsorgevollmacht im Beurkundungsverfahren
+
+Wenn eine Vorsorgevollmacht vorliegt und aktiviert ist, handelt der Bevollmächtigte. Der Notar muss prüfen:
+- Inhalt der Vollmacht: Ermächtigt sie zum konkreten Rechtsgeschäft?
+- Aktivierungsvoraussetzung: Ist die Vollmacht „aktiv" (i.d.R. bei Geschäftsunfähigkeit des Vollmachtgebers)?
+- Liegt ärztliche Bescheinigung über Geschäftsunfähigkeit vor (für Außenverhältnis)?
+
+## Prüfprogramm für Notar
+
+- Erscheint der Beteiligte orientiert und einwilligungsfähig?
+- Ist Betreuungsbeschluss aktuell (HR: aktueller Registerauszug analog → beim Betreuungsgericht einholen)?
+- Genehmigungspflicht nach § 1821 BGB n.F. für das konkrete Geschäft?
+- Vorsorgevollmacht: Formell korrekt, inhaltlich ausreichend, aktiviert?
+- Einwilligungsvorbehalt geprüft?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Betreuungsbeschluss übersehen → Einwilligungsvorbehalt-Verstoß → Nichtigkeit.
+- Genehmigung fehlt → Vollzug unmöglich; Vertrag schwebend unwirksam.
+- Vorsorgevollmacht nicht aktiviert, aber Bevollmächtigter handelt → nicht vertretungsbefugt.
+- Notar unterschätzt Demenz-Erscheinungsbild → Risiko der Anfechtung.
+- Betreuungsaufgabenkreis zu eng → Betreuer handelt ultra vires.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- §§ 1821–1822 BGB n.F.: https://dejure.org/gesetze/BGB/1821.html
+- § 1825 BGB n.F.: https://dejure.org/gesetze/BGB/1825.html
+- § 104 BGB: https://dejure.org/gesetze/BGB/104.html
+- FamFG § 271: https://dejure.org/gesetze/FamFG/271.html
+- BGH zu Geschäftsfähigkeit: https://www.bgh.de
+- BNotK Betreuungsrecht: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Beteiligter mit Betreuung oder Vorsorgevollmacht Geschäftsfähigkeit** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Geschäftsfähigkeitsprüfprotokoll** (Notar-interner Vermerk)
+- **Genehmigungsantrag-Checkliste** (Betreuungsgericht)
+- **Vollzugscockpit** (Genehmigung als Fälligkeitsvoraussetzung)
+- **Vorsorgevollmacht-Aktivierungsnachweis** (Muster)
+- **Mandantenmail** (nächste Schritte, Genehmigungswartezeit)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

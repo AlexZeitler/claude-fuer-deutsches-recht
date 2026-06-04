@@ -1,53 +1,84 @@
 ---
-name: notariat-006-handelsregisteranmeldung-geschaeftsfuehrer-bestellu
-description: "Notariat im Alltag: Handelsregisteranmeldung Geschäftsführer Bestellung Abberufung Vertretungsmacht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-006-handelsregisteranmeldung-geschaeftsfuehrer
+description: "Notariat im Alltag: Handelsregisteranmeldung – Geschäftsführer-Bestellung, Abberufung, Vertretungsmacht. Formelle Anforderungen, Inhalt der Anmeldung, Vollzug und Zwischenverfügungsrisiken."
 ---
 
-# Notariat im Alltag: Handelsregisteranmeldung Geschäftsführer Bestellung Abberufung Vertretungsmacht
+# Notariat im Alltag: Handelsregisteranmeldung – Geschäftsführer Bestellung, Abberufung, Vertretungsmacht
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Handelsregisteranmeldung Geschäftsführer Bestellung Abberufung Vertretungsmacht** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Jede Änderung des Vertretungsorgans einer GmbH oder AG muss unverzüglich zum Handelsregister angemeldet werden. Dieser Skill strukturiert die formellen Anforderungen, den Inhalt der Anmeldung sowie typische Zwischenverfügungsrisiken beim Registergericht.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: § 10 GmbHG (Registerpublizität), § 39 GmbHG (Anmeldung Geschäftsführer), § 78 GmbHG (Liquidatoren), §§ 76–94 AktG (Vorstand AG), §§ 12, 14 HGB (Form, Anmeldung), § 37 HGB (Firmengrundsätze), FamFG §§ 374–380 (Registerverfahren), § 15 HGB (negative/positive Publizität), GwG.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Formelle Anforderungen
+
+**GmbH (§ 12 HGB, § 39 GmbHG):**
+- Öffentlich beglaubigte Unterschrift des/der Geschäftsführer unter der Anmeldung
+- Musterzeichnung (Unterschrift des neu Bestellten vor Notar oder unter beglaubigter Unterschrift)
+- Gesellschafterbeschluss (Bestellungs- oder Abberufungsbeschluss) – beglaubigte Abschrift oder als Anlage
+- Versicherung des Geschäftsführers über keine Vorstrafen (§ 6 Abs. 2 GmbHG, § 53 BZRG)
+
+**AG (§§ 76, 81, 83 AktG, § 12 HGB):**
+- Bestellung durch Aufsichtsrat (§ 84 AktG) – Protokoll als Anlage
+- Öffentlich beglaubigte Anmeldung durch Vorstandsmitglieder und Vorsitzenden des Aufsichtsrats
+
+## Inhalt der Anmeldung
+
+- Art der Änderung: Neubestellung, Abberufung, Vertretungsregelung (Alleinvertretung, Gesamtvertretung, Befreiung von § 181 BGB)
+- Personalien: vollständiger Name, Geburtsdatum, Wohnort
+- Vertretungsart klar bezeichnen (z.B.: „Der Geschäftsführer ist einzelvertretungsberechtigt und von den Beschränkungen des § 181 BGB befreit.")
+- Datum der Bestellung/Abberufung
+
+## Negative Publizität (§ 15 HGB)
+
+Die Handelsregistereintragung hat deklaratorische Wirkung. Bis zur Eintragung kann ein gut gläubiger Dritter nicht auf den bisherigen Stand vertrauen, wenn die Änderung bereits eingetreten ist. Umgekehrt schützt § 15 Abs. 1 HGB den Dritten, dem die nicht eingetragene Tatsache unbekannt war.
+
+## Vollzugskette
+
+1. Gesellschafterbeschluss/Aufsichtsratsbeschluss fassen (Protokoll sichern)
+2. Bestellter Geschäftsführer: Musterzeichnung beim Notar
+3. Notar fertigt Anmeldungsurkunde mit beglaubigter Unterschrift
+4. Prüfung: § 6 Abs. 2 GmbHG-Erklärung (keine Vorstrafe, keine Gewerbeuntersagung)
+5. Elektronische Einreichung via EGVP mit qeS (§ 12 HGB)
+6. Registergericht prüft – ggf. Zwischenverfügung (§ 382 FamFG)
+7. Eintragung → Bekanntmachung (§ 10 HGB)
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Abberufungsgrund bei fristloser Abberufung? Wichtiger Grund nötig (§ 38 GmbHG)?
+- § 181 BGB-Befreiung: Ist sie in der Satzung vorgesehen oder Gesellschafterbeschluss nötig?
+- Gesamtvertretung: Wie viele Geschäftsführer müssen gemeinsam handeln?
+- Prokura gleichzeitig erteilt? Separate Anmeldung nötig (§ 53 HGB).
+- Liquidation statt laufender Geschäftsführung? Andere Anmeldepflichten (§§ 65–77 GmbHG).
+- Nicht-EU-Bürger als GF: Aufenthaltstitel erforderlich, Registerakzeptanz prüfen.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Musterzeichnung fehlt → Zwischenverfügung Registergericht.
+- § 6 Abs. 2-Erklärung fehlt oder zu alt → Zurückweisung.
+- § 181 BGB-Befreiung nicht beurkundet/beschlossen, aber in Anmeldung behauptet.
+- Alte Unterschriftsbeglaubigung auf falschem Personaldokument basierend.
+- Abberufung ohne wichtigen Grund bei fristloser Kündigung → arbeitsrechtliche und gesellschaftsrechtliche Trennung beachten.
 
-## Output
+## Kostenhinweise
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+Beglaubigung der Anmeldung: KV Nr. 25100 GNotKG (max. 70 € je Unterschrift). HR-Gebühr: pauschal nach Registergerichtsgebühren-Verordnung (ca. 70 € für Änderung).
 
-## Notariatsvertiefung
+## Rechtsquellen
 
-Bei **Handelsregisteranmeldung Geschäftsführer Bestellung Abberufung Vertretungsmacht** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- § 39 GmbHG: https://dejure.org/gesetze/GmbHG/39.html
+- § 12 HGB: https://dejure.org/gesetze/HGB/12.html
+- § 15 HGB: https://dejure.org/gesetze/HGB/15.html
+- § 84 AktG: https://dejure.org/gesetze/AktG/84.html
+- FamFG § 382: https://dejure.org/gesetze/FamFG/382.html
+- BGH zu § 15 HGB: https://www.bgh.de
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
+## Output-Formate
 
+- **Anmeldungs-Checkliste** (GmbH/AG, je nach Vorgang)
+- **Entwurf Anmeldungstext** (mit Vertretungsregelung und § 181-Befreiung)
+- **Mandantenmail** (Ablauf, Frist, Unterlagen)
+- **Zwischenverfügungsantwort** (Muster)
+
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

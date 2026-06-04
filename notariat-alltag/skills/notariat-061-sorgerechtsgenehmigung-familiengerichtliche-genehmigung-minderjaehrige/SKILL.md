@@ -1,53 +1,88 @@
 ---
-name: notariat-061-sorgerechtsgenehmigung-familiengerichtliche-genehmi
-description: "Notariat im Alltag: Sorgerechtsgenehmigung familiengerichtliche Genehmigung Minderjährige mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-061-sorgerechtsgenehmigung-familiengerichtliche
+description: "Notariat im Alltag: Sorgerechtsgenehmigung – familiengerichtliche Genehmigung für Minderjährige. Genehmigungspflichten nach §§ 1643 und 1821 ff. BGB n.F., Antrag beim Familiengericht, Genehmigungsinhalt und Vollzugskoordination."
 ---
 
-# Notariat im Alltag: Sorgerechtsgenehmigung familiengerichtliche Genehmigung Minderjährige
+# Notariat im Alltag: Sorgerechtsgenehmigung – familiengerichtliche Genehmigung, Minderjährige
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Sorgerechtsgenehmigung familiengerichtliche Genehmigung Minderjährige** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Wenn Eltern oder Betreuer im Namen Minderjähriger handeln, brauchen sie für bestimmte Rechtsgeschäfte die Genehmigung des Familiengerichts. Dieser Skill führt durch Genehmigungsanforderungen, Antragstellung und Vollzugskoordination.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: §§ 1629, 1643 BGB n.F. (Elterliche Sorge, genehmigungspflichtige Geschäfte), §§ 1803–1810 BGB n.F. (Betreuungsgenehmigungen), §§ 151–168 FamFG (Familiensachen), § 1821 BGB n.F. (Genehmigung durch Betreuungsgericht), § 1809 BGB n.F. (Ergänzungspfleger), § 1810 BGB n.F. (Einzelgenehmigung).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Genehmigungspflicht (§ 1643 BGB n.F.)
+
+Eltern benötigen die Genehmigung des Familiengerichts für folgende Rechtsgeschäfte im Namen des Kindes:
+- Erwerb oder Veräußerung von Grundstücken oder Grundstücksrechten
+- Eingehung von Miet- oder Pachtverträgen > 1 Jahr
+- Aufnahme von Darlehen
+- Erbschaftsannahme oder -ausschlagung
+- Beteiligung an Gesellschaften (mit unbeschränkter Haftung)
+- Schenkungen an Dritte
+
+## Ergänzungspfleger (§ 1809 BGB n.F.)
+
+Wenn Eltern oder Betreuer in einem Interessenkonflikt mit dem Minderjährigen stehen, muss das Familiengericht einen Ergänzungspfleger bestellen. Dieser handelt dann statt der Eltern.
+
+**Typische Interessenkonflikte:**
+- Eltern übertragen Grundstück auf Kind (Eltern = Schenker und gleichzeitig gesetzliche Vertreter des Kindes)
+- Eltern kaufen von Kind
+- Beide Elternteile haben eigene Interessen
+
+## Antrag beim Familiengericht (§§ 151 ff. FamFG)
+
+Antrag wird gestellt durch:
+- Eltern oder Betreuer (§ 151 FamFG)
+- Notar kann für Beteiligte den Antrag vorbereiten (nicht selbst stellen)
+
+**Inhalt des Antrags:**
+- Genaue Beschreibung des Rechtsgeschäfts
+- Begründung, warum es für das Kind vorteilhaft oder erforderlich ist
+- Entwurf des Vertrags als Anlage
+
+**Frist:** Das Gericht entscheidet i.d.R. innerhalb von 4–8 Wochen.
+
+## Vollzugskoordination
+
+1. Notar beurkundet Vertrag mit dem Vorbehalt der familiengerichtlichen Genehmigung
+2. Eltern/Betreuer stellen Genehmigungsantrag beim Familiengericht
+3. Genehmigungsbeschluss muss **rechtskräftig** werden (Beschwerdefrist 2 Wochen nach § 63 FamFG)
+4. Erst nach Rechtskraft der Genehmigung: Vollzug
+
+**Keine Fälligkeitsmitteilung vor Rechtskraft der Genehmigung!**
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Ist ein Minderjähriger am Rechtsgeschäft beteiligt?
+- Handeln Eltern oder Betreuer im Namen des Minderjährigen?
+- Liegt ein genehmigungspflichtiges Geschäft vor (§ 1643 BGB n.F.)?
+- Liegt ein Interessenkonflikt vor → Ergänzungspfleger nötig?
+- Genehmigungsbeschluss rechtskräftig (Beschwerdefrist abgewartet)?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Vollzug vor Rechtskraft der Genehmigung → nichtig.
+- Interessenkonflikt übersehen → Vertretung ohne Ergänzungspfleger unwirksam.
+- Genehmigungsantrag nicht gestellt → Vollzug blockiert.
+- Genehmigung für falsches Rechtsgeschäft erteilt (zu unspezifisch).
+- Beschwerdefrist nicht beachtet → Genehmigung noch nicht rechtskräftig.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- § 1643 BGB n.F.: https://dejure.org/gesetze/BGB/1643.html
+- § 1809 BGB n.F. (Ergänzungspfleger): https://dejure.org/gesetze/BGB/1809.html
+- §§ 151–168 FamFG: https://dejure.org/gesetze/FamFG/151.html
+- § 63 FamFG (Beschwerdefrist): https://dejure.org/gesetze/FamFG/63.html
+- BGH zur Elternvertretung: https://www.bgh.de
+- BNotK Familienrecht: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Sorgerechtsgenehmigung familiengerichtliche Genehmigung Minderjährige** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Genehmigungspflicht-Prüfblatt** (§ 1643-Katalog)
+- **Genehmigungsantrag-Entwurf** (für Eltern/Betreuer)
+- **Interessenkonflikt-Diagnose** (Ergänzungspfleger nötig?)
+- **Vollzugscockpit** (Genehmigung als Fälligkeitsvoraussetzung)
+- **Mandantenmail** (Ablauf, Frist, Rechtskraft abwarten)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

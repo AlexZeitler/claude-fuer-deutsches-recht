@@ -1,53 +1,95 @@
 ---
-name: notariat-041-konflikttraechtige-mandanten-und-neutrale-amtsfuehr
-description: "Notariat im Alltag: Konfliktträchtige Mandanten und neutrale Amtsführung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-041-konflikttraechtige-mandanten-und-neutrale
+description: "Notariat im Alltag: Konfliktträchtige Mandanten und neutrale Amtsführung. Umgang mit streitigen Beteiligten im Beurkundungsverfahren, Grenzen der notariellen Mitwirkung und Ablehnung der Beurkundung."
 ---
 
 # Notariat im Alltag: Konfliktträchtige Mandanten und neutrale Amtsführung
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Konfliktträchtige Mandanten und neutrale Amtsführung** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Streitige Situationen zwischen Beteiligten, Druck auf den Notar oder Unsicherheit über die Freiwilligkeit einer Willenserklärung sind Alltagsrealität im Notariat. Dieser Skill strukturiert die notariellen Pflichten und Rechte bei konfliktträchtigen Situationen.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: § 17 BeurkG (Willensermittlung, Belehrung), § 4 BeurkG (Ablehnung), § 14 BNotO (Unparteilichkeit), § 15 BNotO (Verschwiegenheit), § 17 Abs. 3 BeurkG (Missverhältnis der Verhandlungsstärken), BGH-Rechtsprechung zu § 17 BeurkG.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Unparteilichkeitspflicht (§ 14 BNotO)
+
+Der Notar ist unparteiischer Betreuer aller Beteiligten. Er darf keine Seite bevorzugen, keine Interessen einer Partei gegen die andere durchsetzen und keine einseitigen Formulierungsvorschläge machen, die einer Partei schaden.
+
+Praktische Anforderung: Wenn ein Anwalt einer Seite den Entwurf geliefert hat, prüft der Notar den Entwurf auf Ausgewogenheit. Er muss die benachteiligte Partei auf ungünstige Klauseln hinweisen (§ 17 BeurkG).
+
+## Ablehnung der Beurkundung (§ 4 BeurkG)
+
+Der Notar kann die Beurkundung ablehnen, wenn:
+- Die Beurkundung unzulässig ist (z.B. Verstoß gegen Gesetz oder gute Sitten)
+- Einer der Beteiligten erkennbar unter unzulässigem Druck steht
+- Die Geschäftsfähigkeit eines Beteiligten ernsthaft zweifelhaft ist
+- Das Rechtsgeschäft einer strafbaren Handlung dient
+
+**Muss nicht abgelehnt werden:** Nur weil ein Beteiligter schwächerer Verhandlungspartner ist. Der Notar hat eine ausgleichende Funktion.
+
+## Willenserklärung unter Druck
+
+Erkennbare Zeichen von Druck oder Nötigung:
+- Beteiligter weint, ist sichtlich verängstigt
+- Dritter im Raum gibt dem Beteiligten sichtlich Anweisungen
+- Beteiligter erklärt, er unterschreibt nur, weil er sonst Nachteile fürchtet
+- Beteiligter kann keine eigene Aussage machen, spricht nur nach Vorlage
+
+**Maßnahmen:** Einzelgespräch mit dem betroffenen Beteiligten ohne Dritte (§ 17 Abs. 1 S. 2 BeurkG), Unterbrechung der Beurkundung, im Extremfall Ablehnung (§ 4 BeurkG).
+
+## Sittenwidrigkeit erkennen
+
+Der Notar muss bei offensichtlicher Sittenwidrigkeit (§ 138 BGB) die Beurkundung ablehnen oder den Beteiligten darauf hinweisen. Beispiele:
+- Knebelungsvertrag (Kernbereichslehre im Ehevertrag)
+- Wucherischer Kaufpreis
+- Verdecktes Scheingeschäft
+
+## Streit im Beurkundungstermin
+
+Kommt es während der Beurkundung zum Streit zwischen den Beteiligten:
+1. Beurkundung unterbrechen
+2. Parteien getrennt befragen
+3. Prüfen, ob Einigkeit noch herstellbar ist
+4. Beurkundung abbrechen, wenn kein gemeinsamer Wille feststellbar
+5. Abbruchsvermerk in der Akte dokumentieren
+
+## Interessenkonflikt des Notars
+
+Wenn der Notar in einem Interessenkonflikt steht (persönliche Beziehung zu einem Beteiligten, wirtschaftliches Interesse), muss er die Beurkundung ablehnen (§ 7 BeurkG: Ausschluss).
+
+Ausschluss: Notar selbst oder Angehörige sind Beteiligte oder bevollmächtigte Vertreter.
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Gibt es Anzeichen von Druck, Nötigung oder Geschäftsunfähigkeit?
+- Ist der Notar selbst in einem Interessenkonflikt?
+- Ist das Rechtsgeschäft offensichtlich sittenwidrig?
+- Einzelgespräch angeboten/durchgeführt, wenn nötig?
+- Abbruchsvermerk dokumentiert, wenn Beurkundung nicht fortgeführt werden konnte?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Notar beurkundet trotz erkennbarem Druck → Amtspflichtverletzung.
+- Kein Einzelgespräch trotz erkennbarer Beeinflussungszeichen.
+- Sittenwidrigkeit nicht erkannt → Haftung.
+- Interessenkonflikt übersehen (Angehöriger Beteiligter).
+- Abbruch ohne Dokumentation → keine Beweis für Notarhandeln.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- § 4 BeurkG: https://dejure.org/gesetze/BeurkG/4.html
+- § 17 BeurkG: https://dejure.org/gesetze/BeurkG/17.html
+- § 14 BNotO: https://dejure.org/gesetze/BNotO/14.html
+- § 138 BGB: https://dejure.org/gesetze/BGB/138.html
+- BGH zum Notar bei Druck: https://www.bgh.de
+- BNotK Berufsrecht: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Konfliktträchtige Mandanten und neutrale Amtsführung** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Abbruchsvermerk** (Muster)
+- **Einzelgespräch-Protokoll** (Muster)
+- **Sittenwidrigkeits-Checkliste**
+- **Interessenkonflikt-Prüfbogen**
+- **Mandantenhinweis** (warum Beurkundung abgelehnt wurde)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

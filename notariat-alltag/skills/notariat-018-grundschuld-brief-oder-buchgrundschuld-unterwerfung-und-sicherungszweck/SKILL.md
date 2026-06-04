@@ -1,53 +1,86 @@
 ---
-name: notariat-018-grundschuld-brief-oder-buchgrundschuld-unterwerfung
-description: "Notariat im Alltag: Grundschuld Brief oder Buchgrundschuld Unterwerfung und Sicherungszweck mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-018-grundschuld-brief-oder-buchgrundschuld
+description: "Notariat im Alltag: Grundschuld – Brief- oder Buchgrundschuld, Vollstreckungsunterwerfung und Sicherungszweck. Bestellung, Sicherungsabrede, sofortige Vollstreckungsunterwerfung nach § 794 ZPO und Bankauflagen."
 ---
 
-# Notariat im Alltag: Grundschuld Brief oder Buchgrundschuld Unterwerfung und Sicherungszweck
+# Notariat im Alltag: Grundschuld – Brief- oder Buchgrundschuld, Unterwerfung, Sicherungszweck
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Grundschuld Brief oder Buchgrundschuld Unterwerfung und Sicherungszweck** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Die Grundschuld ist das wichtigste Grundpfandrecht zur Kreditsicherung. Dieser Skill führt durch die notarielle Bestellung, die Wahl zwischen Brief- und Buchgrundschuld, die Vollstreckungsunterwerfung und die Sicherungsabrede mit der finanzierenden Bank.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: §§ 1191–1203 BGB (Grundschuld), §§ 1113–1190 BGB (Hypothek, analog anwendbar), § 873 BGB (Entstehung), § 1154 BGB (Übertragung Briefgrundschuld), § 1192 BGB (Anwendbarkeit der Hypothekenvorschriften), § 794 Abs. 1 Nr. 5 ZPO (Vollstreckungsunterwerfung), §§ 19, 29 GBO, GNotKG KV.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Brief- vs. Buchgrundschuld
+
+| Merkmal | Briefgrundschuld | Buchgrundschuld |
+|---|---|---|
+| Übertragung | durch Briefübergabe + Abtretungserklärung (§ 1154 BGB) | durch Abtretung + Grundbucheintragung (§ 1154 Abs. 3 BGB) |
+| Kosten | Briefherstellungsgebühr (ca. 25 €) | keine Briefgebühr |
+| Praxis | früher Standard; heute seltener | banküblicher Standard |
+| Sicherheit | Briefbesitz wichtig | kein Brief-Verlustrisiko |
+| Schnelligkeit | Abtretung ohne Grundbuch möglich | Grundbucheintragung nötig |
+
+## Bestellungsvoraussetzungen
+
+1. Einigung zwischen Eigentümer und Gläubiger (§ 873 BGB)
+2. Notariell beurkundete Bestellungsurkunde (§ 873 BGB i.V.m. § 19 GBO – Bewilligung in öffentl. beglaubigter Form ausreichend)
+3. Eintragungsantrag beim Grundbuchamt
+4. Grundbucheintragung → Entstehung der Grundschuld
+
+## Vollstreckungsunterwerfung (§ 794 Abs. 1 Nr. 5 ZPO)
+
+Schuldner unterwirft sich der sofortigen Zwangsvollstreckung in das Grundstück (und ggf. auch persönlich). Dies erspart der Bank ein gerichtliches Erkenntnisverfahren.
+
+**Form:** Notarielle Beurkundung (§ 794 Abs. 1 Nr. 5 ZPO) – nicht nur Beglaubigung!
+**Inhalt:** Duldung der Zwangsvollstreckung in das Grundstück; ggf. persönliche Vollstreckungsunterwerfung des Schuldners.
+**Ausfertigung:** Vollstreckbare Ausfertigung für Bank; weitere Ausfertigungen nur mit Klausel (§ 724 ZPO).
+
+## Sicherungsabrede
+
+Die Grundschuld ist abstrakt (§ 1191 BGB) – sie sichert jede Forderung. Die Sicherungsabrede ist ein schuldrechtlicher Vertrag zwischen Schuldner und Gläubiger, der bestimmt, welche Forderungen durch die Grundschuld gesichert sind und wann Rückübertragungsanspruch entsteht.
+
+**Inhalt:**
+- Gesicherter Kredit (Kreditlinie oder konkrete Forderung)
+- Rückübertragungspflicht bei Ablösung
+- Verbot der Weiterbelastung ohne Zustimmung
+
+## Rangfragen
+
+Grundschulden haben den Rang ihrer Eintragung im Grundbuch. Erstrangige Grundschulden sind für Banken wertvoll; nachrangige schwer beleihbar. Rangvorbehalt (§ 881 BGB) möglich. Rangänderung (§ 880 BGB): Einigung + Eintragung.
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Ist der Eigentümer Schuldner oder dritter Eigentümer (Drittsicherheit)?
+- Brief- oder Buchgrundschuld je nach Bankenpräferenz?
+- Vollstreckungsunterwerfung: persönlich und dinglich oder nur dinglich?
+- Sicherungsabrede übereinstimmend mit Kreditvertrag?
+- Löschungsunterlagen für Voreintragungen vorhanden?
+- Rangstelle in Abt. III geprüft?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Vollstreckungsunterwerfung nur beglaubigt statt beurkundet → unwirksamer Vollstreckungstitel.
+- Sicherungsabrede nicht mit Kreditvertrag abgestimmt → Rückübertragungsstreit.
+- Briefgrundschuld: Brief geht verloren → Aufgebotsverfahren nötig (§§ 1162 ff. BGB).
+- Rangstelle nicht wie erwartet → Bank beleiht nicht.
+- Persönliche Vollstreckungsunterwerfung fehlt → Bank muss getrennt gegen Schuldner vorgehen.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- §§ 1191–1203 BGB: https://dejure.org/gesetze/BGB/1191.html
+- § 794 ZPO: https://dejure.org/gesetze/ZPO/794.html
+- § 1154 BGB: https://dejure.org/gesetze/BGB/1154.html
+- GBO §§ 19, 29: https://dejure.org/gesetze/GBO/19.html
+- BGH zur Grundschuld: https://www.bgh.de
+- BNotK Grundpfandrecht: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Grundschuld Brief oder Buchgrundschuld Unterwerfung und Sicherungszweck** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Grundschuldurkunde-Entwurf** (mit Vollstreckungsunterwerfung)
+- **Sicherungsabrede-Muster**
+- **Rangübersicht Grundbuch Abt. III**
+- **Vollstreckungsausfertigung** (Hinweis auf Klauselverfahren)
+- **Mandantenmail** (Grundschuld, Vollzug, Bankauflagen)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

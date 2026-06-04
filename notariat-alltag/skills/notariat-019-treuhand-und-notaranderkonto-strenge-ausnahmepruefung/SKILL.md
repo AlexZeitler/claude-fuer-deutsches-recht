@@ -1,53 +1,94 @@
 ---
-name: notariat-019-treuhand-und-notaranderkonto-strenge-ausnahmepruefu
-description: "Notariat im Alltag: Treuhand und Notaranderkonto strenge Ausnahmeprüfung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-019-treuhand-und-notaranderkonto-strenge
+description: "Notariat im Alltag: Treuhand und Notaranderkonto – strenge Ausnahmeprüfung. Zulässigkeit des Notaranderkontos nach § 57a BeurkG und DONot, Verwahrungsanweisung, Auszahlungsvoraussetzungen und Haftungsrisiken."
 ---
 
-# Notariat im Alltag: Treuhand und Notaranderkonto strenge Ausnahmeprüfung
+# Notariat im Alltag: Treuhand und Notaranderkonto – strenge Ausnahmeprüfung
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Treuhand und Notaranderkonto strenge Ausnahmeprüfung** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Das Notaranderkonto ist kein Standardinstrument, sondern ein Ausnahmefall. Dieser Skill führt durch die strengen Zulässigkeitsvoraussetzungen, die Verwahrungsanweisung, Auszahlungsbedingungen und die besondere Haftungsverantwortung des Notars.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: § 54a BeurkG (Verwahrungsgeschäfte), §§ 23–26 DONot (Notaranderkonto), § 57a BeurkG (Grundlagen Treuhand), § 14 BNotO (Amtspflichten), BeurkG § 17 (Belehrung), GNotKG KV Nr. 25300 ff. (Verwahrungsgebühren), § 3 GwG (GwG-Pflichten auch bei Verwahrung).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Zulässigkeit des Notaranderkontos (§ 54a BeurkG)
+
+Das Notaranderkonto ist nur zulässig, wenn ein berechtigtes Sicherungsinteresse der Beteiligten besteht, das nicht auf andere Weise angemessen gewahrt werden kann (§ 54a Abs. 2 BeurkG). Die bloße Bequemlichkeit der Parteien genügt nicht.
+
+**Typische Zulässigkeitsfälle:**
+- Kaufpreiszahlung bei komplexen Vollzugskonstellationen (mehrstufige Abwicklung)
+- Ablösung mehrerer Grundpfandrechte, die nicht unmittelbar an den Verkäufer zahlen wollen
+- Auslandssachverhalte, wo direkte Zahlung Risiken birgt
+- Erbauseinandersetzung mit mehreren Beteiligten
+- Treuhandabwicklung bei Bauträgerverträgen (§ 3 MaBV)
+
+**Nicht zulässig:**
+- Bloße Bequemlichkeit
+- Routinemäßige Abwicklung ohne besonderes Sicherungsbedürfnis
+- Umgehung GwG-Pflichten
+
+## Verwahrungsanweisung
+
+Die Verwahrungsanweisung regelt:
+- Von wem Geld empfangen wird und in welcher Höhe
+- Zu welchem Zweck es verwahrt wird
+- Unter welchen Bedingungen ausgezahlt wird (Auszahlungsvoraussetzungen)
+- An wen ausgezahlt wird
+- Was bei Streit oder Bedingungsnichterfüllung gilt
+
+**Form:** Teil der Beurkundungsurkunde oder gesonderte Urkunde; von allen Beteiligten zu unterzeichnen.
+
+## Auszahlungsvoraussetzungen
+
+Notar darf nur auszahlen, wenn alle in der Verwahrungsanweisung genannten Voraussetzungen erfüllt sind:
+- Auflassungsvormerkung eingetragen
+- Löschungsunterlagen vorhanden
+- Steuerliche Unbedenklichkeit vorhanden
+- Alle Genehmigungen eingegangen
+- Kaufpreis vollständig eingezahlt
+
+Notar haftet persönlich bei Auszahlung ohne Vorliegen der Voraussetzungen.
+
+## Haftung des Notars
+
+§ 19 BNotO: Der Notar haftet für Schäden, die er durch schuldhaftes Verhalten bei der Amtstätigkeit verursacht. Bei Anderkontoabwicklung: strenge Sorgfaltspflicht. Mindestversicherungssumme: 500.000 € je Schadensfall.
+
+## GwG beim Notaranderkonto
+
+Geldzahlungen über Notaranderkonto unterliegen GwG-Prüfung. Der Notar muss auch bei Geldeingang auf das Anderkonto alle GwG-Sorgfaltspflichten erfüllen (Identifizierung, wirtschaftlich Berechtigter).
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Liegt ein legitimes Sicherungsbedürfnis vor? (§ 54a Abs. 2 BeurkG-Prüfung)
+- Sind alle Auszahlungsvoraussetzungen klar und abschließend in der Verwahrungsanweisung definiert?
+- Wer zahlt ein, wer erhält ausgezahlt – ist die Kette lückenlos?
+- GwG: Herkunft der Mittel geklärt?
+- Kosten kommuniziert? (KV Nr. 25300 GNotKG)
+- Alternative zur Direktzahlung geprüft (günstigere Lösung für Parteien)?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Notaranderkonto als Routineinstrument geführt → Verstoß § 54a BeurkG.
+- Auszahlungsvoraussetzungen unvollständig → Streit, Notar zwischen den Parteien.
+- GwG-Prüfung bei Geldeingang vergessen.
+- Auszahlung vor Vorliegen aller Bedingungen → Schadensersatzhaftung.
+- Keine Streitfallregelung → bei Dissens ist Notar handlungsunfähig.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- § 54a BeurkG: https://dejure.org/gesetze/BeurkG/54a.html
+- DONot §§ 23–26: https://www.bnotk.de/notare/berufsrecht/dienstordnung/
+- § 19 BNotO: https://dejure.org/gesetze/BNotO/19.html
+- GwG § 10: https://dejure.org/gesetze/GwG/10.html
+- BGH zu Notaranderkonto: https://www.bgh.de
+- BNotK Anderkontohinweise: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Treuhand und Notaranderkonto strenge Ausnahmeprüfung** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Zulässigkeitsprüfung** (Entscheidungsbaum: Anderkonto ja/nein)
+- **Verwahrungsanweisung** (Muster mit Auszahlungsbedingungen)
+- **Kostenvoranschlag** (KV Nr. 25300)
+- **Haftungshinweis** (interner Vermerk für Notar)
+- **GwG-Checklist für Geldeingang**
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

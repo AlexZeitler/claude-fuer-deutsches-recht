@@ -1,53 +1,97 @@
 ---
 name: notariat-051-wohnungsrecht-dienstbarkeit-baulast-abgrenzung
-description: "Notariat im Alltag: Wohnungsrecht Dienstbarkeit Baulast Abgrenzung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Notariat im Alltag: Wohnungsrecht, Dienstbarkeit, Baulast – Abgrenzung. Grunddienstbarkeit, beschränkte persönliche Dienstbarkeit, Wohnungsrecht und Baulast – Inhalt, Bestellung und Grenzen."
 ---
 
-# Notariat im Alltag: Wohnungsrecht Dienstbarkeit Baulast Abgrenzung
+# Notariat im Alltag: Wohnungsrecht, Dienstbarkeit, Baulast – Abgrenzung
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Wohnungsrecht Dienstbarkeit Baulast Abgrenzung** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Dienstbarkeiten sind häufige Grundstücksbelastungen, die zwischen Käufer und Verkäufer verhandelt werden. Dieser Skill klärt die Abgrenzung der drei wichtigsten Varianten und ihre grundbuchrechtliche Behandlung.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: §§ 1018–1029 BGB (Grunddienstbarkeit), §§ 1090–1093 BGB (beschränkte persönliche Dienstbarkeit, Wohnungsrecht), § 1093 BGB (Wohnungsrecht), Bauordnungsrecht der Länder (Baulast), GBO §§ 19, 29 (Form), GNotKG (Bewertung).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Grunddienstbarkeit (§ 1018 BGB)
+
+Die Grunddienstbarkeit belastet ein Grundstück (das dienende Grundstück) zugunsten des jeweiligen Eigentümers eines anderen Grundstücks (herrschendes Grundstück). Sie läuft mit dem Eigentum.
+
+**Typische Inhalte:**
+- Wegerecht (Zugang über das dienende Grundstück)
+- Leitungsrecht (Strom, Wasser, Gas)
+- Hammerschlags- und Leiterrecht
+- Bebauungsverbote (negative Servitut)
+- Abstandsflächenüberbauungsrecht
+
+**Bestellung:** Einigung + Eintragung in Grundbuch (§ 873 BGB); notariell beurkundete oder öffentlich beglaubigte Bewilligung.
+
+## Beschränkte persönliche Dienstbarkeit (§ 1090 BGB)
+
+Belastet ein Grundstück zugunsten einer bestimmten Person (nicht übertragbar, § 1092 BGB). Sie erlischt mit dem Tod des Berechtigten.
+
+**Typische Inhalte:**
+- Benutzungsrecht (z.B. Stellplatz für eine bestimmte Person)
+- Wohnungsrecht (§ 1093 BGB)
+- Nutzungsrechte für Betriebe
+
+## Wohnungsrecht (§ 1093 BGB)
+
+Das Wohnungsrecht berechtigt zur Nutzung eines Gebäudes oder Gebäudeteils als Wohnung. Es ist eine besondere Form der beschränkten persönlichen Dienstbarkeit.
+
+**Abgrenzung zu Nießbrauch:**
+- Nießbrauch: volle Nutzung inkl. Vermieten
+- Wohnungsrecht: nur eigene Nutzung, kein Vermieten an Dritte (§ 1093 Abs. 2 BGB)
+
+**Steuerlich:** Wohnungsrecht mindert Schenkungsteuerwert des übertragenen Grundstücks.
+
+## Baulast
+
+Die Baulast ist eine öffentlich-rechtliche Verpflichtung des Grundstückseigentümers gegenüber der Baubehörde (nicht im Grundbuch eingetragen, sondern im Baulastenverzeichnis der Gemeinde).
+
+**Typische Baulasten:**
+- Erschließungsbaulast (Zugang über fremdes Grundstück)
+- Abstandsflächenbaulast (Abstandsfläche eines Nachbargrundstücks)
+- Stellplatzbaulast
+
+**Prüfung:** Baulastenverzeichnis der Gemeinde anfragen; nicht im Grundbuch.
+
+## Abgrenzungstabelle
+
+| Merkmal | Grunddienstbarkeit | Pers. Dienstbarkeit | Wohnungsrecht | Baulast |
+|---|---|---|---|---|
+| Zugunsten | Eigentümer eines anderen Grundstücks | Einer bestimmten Person | Einer bestimmten Person | Behörde |
+| Übertragbar | Ja (mit herrsch. Grundstück) | Nein | Nein | Nein |
+| Erlischt | Mit Löschung | Mit Tod des Berechtigten | Mit Tod | Freiwillig oder Ablösung |
+| Register | Grundbuch Abt. II | Grundbuch Abt. II | Grundbuch Abt. II | Baulastenverzeichnis |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Welche Art von Dienstbarkeit ist sachlich richtig?
+- Inhalt klar und bestimmt formuliert (bestimmte Flächen, zeitliche Begrenzung)?
+- Baulastenverzeichnis abgefragt?
+- Dienstbarkeit im Kaufvertrag als Belastungsübernahme oder Löschungsverpflichtung?
+- Bewertung für Schenkungsteuer ermittelt (Nießbrauch vs. Wohnungsrecht)?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Wohnungsrecht mit Vermietungsrecht formuliert → § 1093 Abs. 2 BGB-Widerspruch.
+- Baulast übersehen (nicht im Grundbuch) → Käufer überrascht von öffentlicher Pflicht.
+- Grunddienstbarkeit zu unbestimmt formuliert → Streit über Umfang.
+- Dienstbarkeit nicht im Kaufvertrag erwähnt → Anfechtungsrisiko.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- § 1018 BGB (Grunddienstbarkeit): https://dejure.org/gesetze/BGB/1018.html
+- § 1090 BGB (pers. Dienstbarkeit): https://dejure.org/gesetze/BGB/1090.html
+- § 1093 BGB (Wohnungsrecht): https://dejure.org/gesetze/BGB/1093.html
+- BGH zu Dienstbarkeiten: https://www.bgh.de
+- BNotK Grundstücksrecht: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Wohnungsrecht Dienstbarkeit Baulast Abgrenzung** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Abgrenzungs-Entscheidungsbaum** (welche Dienstbarkeit ist geeignet?)
+- **Dienstbarkeits-Klauselmuster** (je Typ)
+- **Baulastenverzeichnis-Anforderungsschreiben**
+- **Schenkungsteuerbewertung** (Wohnungsrecht vs. Nießbrauch)
+- **Mandantenmail** (Erläuterung Dienstbarkeit, Auswirkung auf Nutzung)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

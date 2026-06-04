@@ -1,53 +1,84 @@
 ---
-name: notariat-037-datenschutz-im-notariat-aktenversand-und-cloudgrenz
-description: "Notariat im Alltag: Datenschutz im Notariat Aktenversand und Cloudgrenzen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-037-datenschutz-im-notariat-aktenversand-und
+description: "Notariat im Alltag: Datenschutz im Notariat – Aktenversand und Cloudgrenzen. DSGVO-Pflichten, verschlüsselter Aktenversand, Cloudnutzung im Notariat und Datenschutzfolgenabschätzung."
 ---
 
-# Notariat im Alltag: Datenschutz im Notariat Aktenversand und Cloudgrenzen
+# Notariat im Alltag: Datenschutz im Notariat – Aktenversand, Cloudgrenzen
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Datenschutz im Notariat Aktenversand und Cloudgrenzen** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Das Notariat verarbeitet besonders sensible personenbezogene Daten (Vermögensverhältnisse, Gesundheitsdaten in Vorsorgevollmachten, biometrische Daten). Dieser Skill klärt DSGVO-Pflichten, sicheren Aktenversand und Grenzen der Cloud-Nutzung.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: DSGVO (EU) 2016/679, BDSG 2018, §§ 29–30 BNotO (Verschwiegenheitspflicht), § 18 BNotO (Aktenaufbewahrung), GwG §§ 8, 10 (GwG-Dokumentation), BeurkG § 54 (Urkundenaufbewahrung), Landesnotargesetze.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## DSGVO-Grundpflichten im Notariat
+
+| Pflicht | Norm | Umsetzung |
+|---|---|---|
+| Verzeichnis der Verarbeitungstätigkeiten | Art. 30 DSGVO | Alle Verarbeitungsprozesse dokumentieren |
+| Datenschutzerklärung | Art. 13, 14 DSGVO | Mandanten bei Erstbeauftragung informieren |
+| Technisch-organisatorische Maßnahmen | Art. 32 DSGVO | Verschlüsselung, Zugangskontrollen |
+| Auftragsverarbeitung | Art. 28 DSGVO | AV-Vertrag mit Software-Anbietern |
+| Datenpanne | Art. 33 DSGVO | Meldung an Aufsichtsbehörde in 72 h |
+| Datenlöschung | Art. 17 DSGVO | Aufbewahrungsfristen beachten |
+
+## Verschwiegenheitspflicht vs. DSGVO
+
+Die notarielle Verschwiegenheitspflicht (§ 29 BNotO) geht über die DSGVO hinaus. Datenweitergabe an Dritte (außer Register und Gerichte) ist nur mit Einwilligung der Beteiligten oder gesetzlicher Grundlage (GwG, Strafrecht) zulässig. Die DSGVO erlaubt Verarbeitung für Erfüllung des Amtes als Rechtsgrundlage (Art. 6 Abs. 1 lit. c, e DSGVO).
+
+## Sicherer Aktenversand
+
+**Unverschlüsselte E-Mail ist keine sichere Übertragung.** DSGVO Art. 32 verlangt angemessene Sicherheit. Optionen:
+- **beN (besonderes elektronisches Notarpostfach):** Ende-zu-Ende-verschlüsselt; für Austausch mit Gerichten, Notaren, Anwälten
+- **Verschlüsselte E-Mail:** S/MIME oder PGP – aufwändig, für Mandantenkommunikation selten praktikabel
+- **Passwortgeschütztes PDF:** Mindeststandard für sensitive Inhalte per E-Mail
+- **Verschlüsselter Cloud-Share-Link:** mit Ablaufdatum und Passwort
+
+## Cloud-Nutzung: Grenzen
+
+Cloud-Dienste für Aktenverarbeitung:
+- **Europäische Cloud** (AWS EU, Microsoft EU, Ionos): grundsätzlich DSGVO-konform mit AV-Vertrag
+- **US-Cloud ohne EU-Verarbeitung:** Drittlandübermittlung → Standard-Vertragsklauseln (Art. 46 DSGVO) nötig
+- **Verboten:** Übertragung notarieller Urkunden an US-Dienste ohne SCCs
+- **KI-Tools:** Verarbeitung von Mandantendaten durch KI-Dienste erfordert DSGVO-Prüfung und AV-Vertrag
+
+## Aufbewahrungsfristen
+
+- Urkundsrolle: 100 Jahre (§ 18 Abs. 1 DONot)
+- Nebenakten: 30 Jahre (§ 50 DONot)
+- GwG-Dokumentation: 5 Jahre (§ 8 Abs. 4 GwG)
+- Personenbezogene Daten (DSGVO): Grundsatz Datensparsamkeit, Löschen nach Wegfall Zweck
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Ist ein AV-Vertrag mit allen Software-Anbietern abgeschlossen?
+- Wird Aktenversand per E-Mail ausreichend gesichert (PDF-Kennwort oder beN)?
+- Cloud-Dienst EU-basiert und DSGVO-konform?
+- Datenpannenprozess dokumentiert (72h-Meldepflicht)?
+- Mandanten über Datenverarbeitung informiert (Art. 13 DSGVO)?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Unverschlüsselte E-Mail mit Kauf- oder Erbvertragsanhang → Datenpanne.
+- US-Cloud ohne SCCs → Art. 46 DSGVO-Verstoß.
+- Keine AV-Verträge mit Softwareanbietern → Haftungsrisiko.
+- GwG-Dokumentation zu früh gelöscht.
+- KI-Tools mit Mandantendaten ohne DSGVO-Prüfung genutzt.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- DSGVO: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679
+- § 29 BNotO: https://dejure.org/gesetze/BNotO/29.html
+- BDSG: https://www.gesetze-im-internet.de/bdsg_2018/
+- GwG § 8: https://dejure.org/gesetze/GwG/8.html
+- BNotK Datenschutz-Leitfaden: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Datenschutz im Notariat Aktenversand und Cloudgrenzen** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **DSGVO-Checkliste** (alle Pflichten im Überblick)
+- **Aktenversand-Sicherheitsbewertung** (E-Mail / beN / Cloud)
+- **Cloud-Dienst-Prüfbogen** (EU / SCCs / AV-Vertrag)
+- **Datenpannen-Meldeprotokoll** (72h-Verfahren)
+- **Mandanteninfo** (Art. 13 DSGVO-Informationsblatt)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

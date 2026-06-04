@@ -1,53 +1,91 @@
 ---
-name: notariat-045-auszahlungsvoraussetzungen-kaufpreis-und-loeschungs
-description: "Notariat im Alltag: Auszahlungsvoraussetzungen Kaufpreis und Löschungsunterlagen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-045-auszahlungsvoraussetzungen-kaufpreis-und
+description: "Notariat im Alltag: Auszahlungsvoraussetzungen – Kaufpreis und Löschungsunterlagen. Vollständige Prüfung aller Fälligkeitsvoraussetzungen vor Fälligkeitsmitteilung, Löschungsunterlagen-Management und Direktzahlung an Grundpfandgläubiger."
 ---
 
-# Notariat im Alltag: Auszahlungsvoraussetzungen Kaufpreis und Löschungsunterlagen
+# Notariat im Alltag: Auszahlungsvoraussetzungen – Kaufpreis, Löschungsunterlagen
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Auszahlungsvoraussetzungen Kaufpreis und Löschungsunterlagen** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Die Fälligkeitsmitteilung ist der kritischste Schritt im Grundstücksvollzug: Erst wenn alle Voraussetzungen lückenlos vorliegen, darf der Käufer den Kaufpreis zahlen. Dieser Skill prüft systematisch alle Voraussetzungen und strukturiert das Löschungsunterlagen-Management.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: § 311b BGB (Kaufvertrag), §§ 19, 22 GBO (Grundbuchanforderungen), § 22 GrEStG (steuerliche Unbedenklichkeit), § 3 MaBV (Bauträger), §§ 883–888 BGB (Auflassungsvormerkung), § 54a BeurkG (Verwahrungsanweisung), § 1192 BGB (Grundschuld), GNotKG Kostenfälligkeitsregeln.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Vollständige Fälligkeitsprüfung
+
+Kein Kaufpreis ohne Abschluss ALLER dieser Punkte:
+
+| Voraussetzung | Norm | Status |
+|---|---|---|
+| Auflassungsvormerkung Käufer eingetragen | § 883 BGB, § 13 GBO | □ |
+| Vorkaufsrecht-Negativattest Gemeinde | § 28 BauGB | □ |
+| GVO-Genehmigung (Landwirtschaft) | GrdstVG | □ (falls relevant) |
+| Familiengerichtliche Genehmigung | § 1643 BGB n.F. | □ (falls Minderjährige) |
+| Betreuerrechtliche Genehmigung | § 1821 BGB n.F. | □ (falls Betreuer) |
+| Steuerliche Unbedenklichkeit | § 22 GrEStG | □ |
+| Löschungsunterlagen für Abt. III | § 19 GBO | □ |
+| Löschungsunterlagen für Abt. II (soweit relevant) | § 19 GBO | □ |
+| GwG-Dokumentation vollständig | §§ 10–11 GwG | □ |
+| MaBV-Voraussetzungen (Bauträger) | § 3 MaBV | □ (falls Bauträger) |
+
+## Löschungsunterlagen-Management
+
+Bestehende Grundschulden (Abt. III) müssen vor oder Zug-um-Zug mit der Eigentumsumschreibung gelöscht werden.
+
+**Ablauf:**
+1. Bestehende Grundschulden aus Abt. III listen (offene Valuta ermitteln)
+2. Tilgungsbeträge aus Kaufpreis berechnen
+3. Frühzeitig bei Bank anfordern (Vorlaufzeit 2–4 Wochen)
+4. Löschungsunterlagen prüfen: Bewilligung + Quittung/Freistellung für richtigen Betrag und richtiges Grundstück
+5. Direktzahlung aus Kaufpreis an Bank koordinieren (Zahlungsanweisung im Kaufvertrag)
+
+## Direktzahlung an Grundpfandgläubiger
+
+Wenn Grundschulden abgelöst werden:
+- Kaufpreisteil wird direkt an die finanzierende Bank des Verkäufers gezahlt
+- Notar koordiniert die Zahlungsplanung: Restbetrag an Verkäufer
+- Löschungsunterlagen werden erst nach Zahlungsnachweis freigegeben
+- Einzugsermächtigung im Kaufvertrag dokumentieren
+
+## Fälligkeitsmitteilung
+
+Die Fälligkeitsmitteilung ist das förmliche Schreiben, mit dem der Notar dem Käufer mitteilt, dass alle Voraussetzungen erfüllt sind und der Kaufpreis nun fällig ist.
+
+**Inhalt der Fälligkeitsmitteilung:**
+- Datum der Prüfung
+- Bestätigung, dass alle vertraglich genannten Voraussetzungen erfüllt sind
+- Zahlungsziel und Zahlungsempfänger
+- Betrag (aufgeteilt: Bank/Verkäufer)
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Vollständige Checkliste vor jeder Fälligkeitsmitteilung abgehakt?
+- Vier-Augen-Prüfung vor Versand?
+- Sind Löschungsunterlagen inhaltlich korrekt (richtiger Name, richtiges Grundstück, richtiger Betrag)?
+- Steuerliche Unbedenklichkeit aktuell (nicht älter als 3 Monate)?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Fälligkeitsmitteilung ohne steuerliche Unbedenklichkeit → § 22 GrEStG-Sperre.
+- Löschungsunterlagen für falsches Grundstück → Löschung unmöglich.
+- Direktzahlung an Bank vergessen → Bank gibt Löschungsunterlagen nicht heraus.
+- Familiengericht-Genehmigung fehlt → Vollzug blockiert.
+- Vier-Augen-Prüfung unterblieben → Fehler nicht bemerkt.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- § 22 GrEStG: https://dejure.org/gesetze/GrEStG/22.html
+- § 28 BauGB: https://dejure.org/gesetze/BauGB/28.html
+- § 883 BGB: https://dejure.org/gesetze/BGB/883.html
+- § 19 GBO: https://dejure.org/gesetze/GBO/19.html
+- BNotK Vollzugshinweise: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Auszahlungsvoraussetzungen Kaufpreis und Löschungsunterlagen** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Fälligkeits-Vollprüfungs-Checkliste** (alle Voraussetzungen)
+- **Löschungsunterlagen-Tabelle** (Grundschuld, Betrag, Status)
+- **Fälligkeitsmitteilung** (Muster)
+- **Direktzahlungs-Anweisung** (an Käufer)
+- **Vier-Augen-Prüfprotokoll** (vor Versand)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

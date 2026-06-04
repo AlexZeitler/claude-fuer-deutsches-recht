@@ -1,53 +1,98 @@
 ---
-name: notariat-048-satzungsaenderung-beschlussmaengel-und-registerrisi
-description: "Notariat im Alltag: Satzungsänderung Beschlussmängel und Registerrisiko mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-048-satzungsaenderung-beschlussmaengel-und
+description: "Notariat im Alltag: Satzungsänderung – Beschlussmängel und Registerrisiko. Voraussetzungen für wirksame Satzungsänderungen bei GmbH und AG, häufige Beschlussmängel und Konsequenzen bei der Handelsregistereintragung."
 ---
 
-# Notariat im Alltag: Satzungsänderung Beschlussmängel und Registerrisiko
+# Notariat im Alltag: Satzungsänderung – Beschlussmängel, Registerrisiko
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Satzungsänderung Beschlussmängel und Registerrisiko** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Satzungsänderungen sind das häufigste gesellschaftsrechtliche Beurkundungsgeschäft neben der Gründung. Fehlerhafte Beschlüsse können dazu führen, dass das Registergericht die Eintragung ablehnt oder dass die Änderung nachträglich angefochten wird. Dieser Skill strukturiert Voraussetzungen, Beschlussmängelkategorien und Registerrisiken.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: § 53 GmbHG (Satzungsänderung GmbH), § 54 GmbHG (Anmeldung), §§ 179–180 AktG (Satzungsänderung AG), § 181 AktG (Anmeldung), § 130 AktG (Beschlussprotokoll), §§ 241–261 AktG (Beschlussmängel AG), FamFG §§ 382–384 (Registerverfahren).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Voraussetzungen der Satzungsänderung
+
+**GmbH (§ 53 GmbHG):**
+- Gesellschafterbeschluss mit 3/4-Mehrheit (§ 53 Abs. 2 GmbHG) oder höherer Satzungsmehrheit
+- Notarielle Beurkundung des Beschlusses
+- Handelsregisteranmeldung (§ 54 GmbHG)
+- Eintragung hat konstitutive Wirkung (§ 54 Abs. 3 GmbHG)
+
+**AG (§§ 179–181 AktG):**
+- Hauptversammlungsbeschluss mit 3/4-Mehrheit des vertretenen Grundkapitals (§ 179 Abs. 2 AktG)
+- Notarielle Beurkundung des HV-Protokolls (§ 130 AktG)
+- Handelsregistereintragung (§ 181 AktG): konstitutive Wirkung
+
+## Typische Satzungsänderungsinhalte
+
+- Firmenänderung (§ 17 HGB)
+- Sitzverlegung
+- Gegenstandsänderung
+- Stammkapitalerhöhung/-herabsetzung
+- Änderung der Vertretungsregelung
+- Aufnahme/Änderung von Vinkulierungsklauseln
+- Gesellschafterwechsel-Regelungen
+
+## Beschlussmängelkategorien
+
+| Mangel | Folge | Frist |
+|---|---|---|
+| Einberufungsfehler (zu kurze Frist, falsche Form) | Anfechtbarkeit | 1 Monat (§ 246 AktG analog GmbH) |
+| Beschlussfähigkeit nicht erreicht | Nichtigkeit (wenn kein quorum-heilendes Protokoll) | Unbefristet |
+| Stimmrechtsverletzung | Anfechtbarkeit | 1 Monat |
+| Inhaltlich gesetzwidrig (§ 241 AktG Nr. 3) | Nichtigkeit | Unbefristet |
+| Sittenwidriger Beschluss | Nichtigkeit | Unbefristet |
+
+## Registerrisiken
+
+Das Registergericht prüft die angemeldete Satzungsänderung formell und materiell:
+- Notarielle Beurkundung vorhanden?
+- Beschlussmehrheit ausreichend?
+- Neue Satzungsfassung widerspruchsfrei?
+- Satzungsänderung mit Mindestkapitalanforderungen vereinbar?
+
+**Typische Zurückweisungsgründe:**
+- Fehlende Beurkundung
+- Unklarer Beschlussinhalt
+- Satzungsfassung nicht vollständig eingereicht
+- Mehrheitsnachweis fehlt
+
+## Konsolidierte Satzungsfassung
+
+Nach der Satzungsänderung muss der Notar eine konsolidierte Neufassung der Satzung einreichen (§ 54 Abs. 2 GmbHG). Diese enthält alle bisherigen und neuen Bestimmungen in einer lesbaren Fassung.
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Beschlussprotokoll enthält alle Pflichtangaben (§ 130 AktG / DONot)?
+- Mehrheit korrekt berechnet (nur anwesende Stimmen oder alle Stimmen)?
+- Beschluss inhaltlich klar formuliert und widerspruchsfrei?
+- Konsolidierte Satzungsfassung erstellt?
+- Handelsregisteranmeldung korrekt (qeS, Anlage Beschluss)?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Beschlussprotokoll unvollständig → Registergericht beanstandet.
+- Mehrheitsberechnung aus falscher Basis → anfechtbarer Beschluss.
+- Keine konsolidierte Satzungsfassung → Zurückweisung.
+- Satzungsänderung ohne Registeranmeldung → Rechtsunwirksamkeit (konstitutiv!).
+- Einberufungsfehler → anfechtbarer Beschluss.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- § 53 GmbHG: https://dejure.org/gesetze/GmbHG/53.html
+- § 54 GmbHG: https://dejure.org/gesetze/GmbHG/54.html
+- §§ 179–181 AktG: https://dejure.org/gesetze/AktG/179.html
+- §§ 241–261 AktG: https://dejure.org/gesetze/AktG/241.html
+- BGH zu Beschlussmängeln: https://www.bgh.de
+- BNotK Gesellschaftsrecht: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Satzungsänderung Beschlussmängel und Registerrisiko** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Satzungsänderungsbeschluss-Entwurf** (GmbH / AG)
+- **Beschlussmängel-Checkliste** (vor Einreichung)
+- **Konsolidierte Satzungsfassung** (Muster-Gliederung)
+- **Handelsregisteranmeldung** (nach Satzungsänderung)
+- **Mandantenmail** (Ablauf, Eintragungsfrist)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

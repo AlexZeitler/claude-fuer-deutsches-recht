@@ -1,53 +1,93 @@
 ---
-name: notariat-014-ehevertrag-scheidungsfolgenvereinbarung-versorgungs
-description: "Notariat im Alltag: Ehevertrag Scheidungsfolgenvereinbarung Versorgungsausgleich und Belehrung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-014-ehevertrag-scheidungsfolgenvereinbarung
+description: "Notariat im Alltag: Ehevertrag, Scheidungsfolgenvereinbarung, Versorgungsausgleich und Belehrung. Formzwang § 1410 BGB, Kernbereichslehre des BGH, Sittenwidrigkeit und Belehrungspflichten des Notars."
 ---
 
-# Notariat im Alltag: Ehevertrag Scheidungsfolgenvereinbarung Versorgungsausgleich und Belehrung
+# Notariat im Alltag: Ehevertrag, Scheidungsfolgenvereinbarung, Versorgungsausgleich, Belehrung
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Ehevertrag Scheidungsfolgenvereinbarung Versorgungsausgleich und Belehrung** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Der Ehevertrag gestaltet die Vermögens- und Versorgungsrechtslage zwischen Eheleuten oder Verlobten. Dieser Skill steuert die notarielle Beratung, den Formzwang, die richterrechtliche Kontrolle (Kernbereichslehre des BGH) und die Belehrungspflichten des Notars.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: § 1410 BGB (notarielle Form), §§ 1408–1414 BGB (Güterrecht), §§ 1569–1586 BGB (Unterhalt), §§ 1587–1587p BGB (Versorgungsausgleich), VersAusglG, § 17 BeurkG (Belehrung), § 138 BGB (Sittenwidrigkeit), BGH-Rechtsprechung zu Kernbereichslehre.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Formzwang (§ 1410 BGB)
+
+Der Ehevertrag und die Scheidungsfolgenvereinbarung (soweit sie ehevertragliche Regelungen enthält) bedürfen der notariellen Beurkundung bei gleichzeitiger Anwesenheit beider Teile (§ 1410 BGB). Gleichzeitige Anwesenheit: beide Teile müssen beim selben Beurkundungsakt anwesend sein; getrennte Beurkundungen sind unwirksam (§ 125 BGB). Ausnahme: Genehmigungen können nachträglich erfolgen.
+
+## Regelungsbereiche im Ehevertrag
+
+| Bereich | Gestaltungsmöglichkeit | Kernbereichsschutz |
+|---|---|---|
+| Güterstand | Gütertrennung, Zugewinngemeinschaft modifiziert, Gütergemeinschaft | Erhebliche Schranken |
+| Unterhalt | Ausschluss, Modifikation, Befristung | Unabdingbar bei einseitiger Belastung |
+| Versorgungsausgleich | Ausschluss möglich, wenn nicht grob unbillig | § 8 VersAusglG |
+| Zugewinnausgleich | Ausschluss, Modifikation möglich | Eingeschränkt |
+| Versorgungsausgleich intern | Konkrete Teilungsvereinbarungen | VersAusglG |
+
+## Kernbereichslehre des BGH
+
+Der BGH hat eine zweistufige Inhaltskontrolle entwickelt:
+1. **Wirksamkeitskontrolle (§ 138 BGB):** Ist der Vertrag sittenwidrig, weil er auf die einseitige Benachteiligung einer Partei abzielt (insbes. wenn der stärker Beteiligte die schwächere Lage ausgenutzt hat)?
+2. **Ausübungskontrolle (§ 242 BGB):** Auch wenn der Vertrag wirksam ist – darf er angesichts der nachehezeitlichen Verhältnisse vollständig durchgesetzt werden?
+
+Kernbereiche (nicht oder nur eingeschränkt abdingbar):
+- Kindesunterhalt: § 1614 BGB, § 1360a BGB
+- Betreuungsunterhalt: § 1570 BGB
+- Versorgungsausgleich bei langer Ehe mit einseitiger Erwerbsaufgabe
+
+## Belehrungspflicht des Notars (§ 17 BeurkG)
+
+Der Notar muss über die Bedeutung, Wirkungen und Risiken des Ehevertrags belehren, insbesondere:
+- Güterrechtliche Folgen der Gütertrennung (kein Zugewinnausgleich)
+- Unterhaltsrechtliche Konsequenzen
+- Risiken bei Sittenwidrigkeit (§ 138 BGB)
+- Kernbereichslehre und richterliche Kontrolle
+- Wahrung der gleichzeitigen Anwesenheit
+- Belehrung beider Parteien gleichgewichtig (Unparteilichkeit, § 14 BNotO)
+
+## Inhaltskontrolle bei Scheidungsfolgenvereinbarungen
+
+Scheidungsfolgenvereinbarungen (nach Trennung) unterliegen ebenfalls § 1410 BGB und der Kernbereichslehre. Zusätzlich: Anfechtung wegen Irrtums oder arglistiger Täuschung (§§ 119 ff. BGB). Bei formularmäßigen Regelungen: AGB-Kontrolle (§ 305 ff. BGB) grds. nicht anwendbar, aber Billigkeitskontrolle nach § 242 BGB.
+
+## Versorgungsausgleich (VersAusglG)
+
+Der Versorgungsausgleich ist bei der Scheidung von Gesetzes wegen durchzuführen, es sei denn er ist ausgeschlossen oder modifiziert. Ausschluss durch Ehevertrag möglich, aber:
+- § 8 VersAusglG: grobe Unbilligkeit verhindert Ausschluss
+- § 27 VersAusglG: Härteklausel des Gerichts
+- Zeitpunkt: Ausschluss nur bis zur Rechtskraft der Scheidung möglich
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Beide Parteien gleichzeitig anwesend?
+- Sind alle güterrechtlichen, unterhaltsrechtlichen und versorgungsrechtlichen Folgen erläutert?
+- Liegt ein krasses Ungleichgewicht vor (Schwangerschaft, wirtschaftliche Abhängigkeit)?
+- Ist Kindesunterhalt berücksichtigt (nicht abdingbar)?
+- Versorgungsausgleichsausschluss: grobe Unbilligkeit erkennbar?
+- Sprachbarrieren? Dolmetscher nötig?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Nicht gleichzeitige Anwesenheit → § 1410 BGB-Nichtigkeit.
+- Kernbereichsverletzung übersehen → Vertrag sittenwidrig nach §138 BGB.
+- Belehrung nur einer Partei → Unparteilichkeitsverstoß (§ 14 BNotO).
+- Versorgungsausgleichsausschluss ohne Prüfung der Ehedauer → grobe Unbilligkeit.
+- Falsche Güterstandsbezeichnung → Vertragsinhalt unklar.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- § 1410 BGB: https://dejure.org/gesetze/BGB/1410.html
+- VersAusglG: https://www.gesetze-im-internet.de/versausglg/
+- BGH Kernbereichslehre: https://www.bgh.de (BGH XII ZR 265/02)
+- § 138 BGB: https://dejure.org/gesetze/BGB/138.html
+- BNotK Familienrecht: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Ehevertrag Scheidungsfolgenvereinbarung Versorgungsausgleich und Belehrung** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Ehevertragsentwurf** (Grundstruktur, alle Regelungsbereiche)
+- **Belehrungsprotokoll** (nach § 17 BeurkG)
+- **Kernbereichscheck** (Checkliste für Sittenwidrigkeitsprüfung)
+- **Mandantenmail** (Risiken, nächste Schritte)
+- **Red-Team** (Risiko BGH-Kontrolle)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

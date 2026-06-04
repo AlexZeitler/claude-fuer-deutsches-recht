@@ -1,53 +1,83 @@
 ---
-name: notariat-010-auslandsurkunde-apostille-legalisation-uebersetzung
-description: "Notariat im Alltag: Auslandsurkunde Apostille Legalisation Übersetzung und Registertauglichkeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-010-auslandsurkunde-apostille-legalisation
+description: "Notariat im Alltag: Auslandsurkunde – Apostille, Legalisation, Übersetzung und Registertauglichkeit. Prüfprogramm für ausländische Urkunden, Haager Apostillekonvention, konsularische Legalisation und Anforderungen der deutschen Register."
 ---
 
-# Notariat im Alltag: Auslandsurkunde Apostille Legalisation Übersetzung und Registertauglichkeit
+# Notariat im Alltag: Auslandsurkunde – Apostille, Legalisation, Übersetzung, Registertauglichkeit
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Auslandsurkunde Apostille Legalisation Übersetzung und Registertauglichkeit** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Ausländische Urkunden müssen für die Verwendung in deutschen Registern und Verfahren besondere Förmlichkeiten erfüllen. Dieser Skill klärt, wann Apostille oder Legalisation nötig ist, welche Übersetzungsanforderungen gelten und wie die Registertauglichkeit geprüft wird.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: Haager Apostillekonvention (HÜ) vom 5.10.1961, §§ 438 ZPO (öffentliche Urkunden), § 29 GBO (Grundbuchform), § 12 HGB (Handelsregisterform), § 13 BeurkG (Beurkundungsverfahren), EU-Verordnung 1191/2016 (EU-Befreiung), EuErbVO Art. 62–73 (ENZ), EGBGB Artt. 11–12 (Formstatut).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Entscheidungsbaum: Apostille oder Legalisation?
+
+| Herkunftsland | Maßnahme |
+|---|---|
+| Haager-Konventions-Staat (> 120 Länder) | Apostille der zuständigen Behörde im Ausstellungsstaat |
+| Nicht-Konventions-Staat | Konsularische Legalisation (Stufenverfahren: lokale Behörde → Außenministerium → deutsche Botschaft) |
+| EU-Mitgliedstaat (öffentliche Urkunden, Verordnung 1191/2016) | Keine Apostille nötig für öffentliche Urkunden mit Standard-Formblatt |
+| Deutschland-interne Urkunde | Keine Apostille/Legalisation nötig |
+
+## Apostille: Voraussetzungen und Prüfung
+
+- Apostille muss von der im Herkunftsland zuständigen Behörde ausgestellt sein (Liste auf HCCH-Website).
+- Apostille bezieht sich auf die Echtheit der Unterschrift und der Eigenschaft der unterzeichnenden Person.
+- Apostille prüft nicht den Inhalt der Urkunde.
+- Bei digitalisierten Apostillen: e-Apostille über offizielle HCCH-Datenbank verifizierbar (https://www.hcch.net/apostille).
+
+## Übersetzungsanforderungen
+
+- Deutsche Register verlangen i.d.R. eine Übersetzung durch einen in Deutschland vereidigten/ermächtigten Übersetzer.
+- Ausnahme: Englische Texte bei manchen Registergerichten akzeptiert (Praxis variiert).
+- Zweisprachige Urkunden: Übersetzung muss von Urschrift getrennt als Anlage beiliegen.
+- Beglaubigte vs. vereidigte Übersetzung: Registergerichte verlangen i.d.R. vereidigte (§ 142 Abs. 3 ZPO analog).
+
+## Registertauglichkeit: Grundbuch und Handelsregister
+
+**Grundbuch (§ 29 GBO):**
+Eintragungsbewilligungen und Eintragungsanträge müssen in öffentlich beglaubigter Form vorliegen. Ausländische Beglaubigungen: mit Apostille/Legalisation + Übersetzung akzeptiert, wenn materielle Formäquivalenz besteht (§ 17 EGBGB).
+
+**Handelsregister (§ 12 HGB):**
+Anmeldungen müssen in beglaubigter Form vorliegen. Ausländische Gesellschaftsbeschlüsse mit Apostille + Übersetzung + Bescheinigung zur Vertretungsmacht.
+
+## Formstatut (EGBGB Art. 11)
+
+Die Form eines Rechtsgeschäfts bestimmt sich nach dem Recht des Ortes der Vornahme (lex loci actus) oder nach dem Recht, dem das Rechtsgeschäft unterliegt. Eine ausländische Urkunde, die dem Recht des Vornahmeortes genügt, ist in Deutschland formwirksam, sofern das deutsche Recht nicht eine inländische Beurkundung vorschreibt (§ 311b BGB: inländische Auflassung erforderlich).
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Ist das Herkunftsland Apostillekonventions-Staat? (HCCH-Liste)
+- Ist Apostille oder Legalisation vorhanden und auf aktuelles Datum?
+- Liegt eine Übersetzung durch vereidigten Übersetzer vor?
+- Ist der Inhalt der Urkunde materiell dem deutschen Recht äquivalent?
+- Grundbuchamt oder Registergericht vorab anfragen bei Zweifeln?
+- EU-VO 1191/2016: Liegt Standard-Mehrsprachenformblatt vor?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Apostille auf falscher Behörde (z.B. Stadtgericht statt Oberstes Gericht im Herkunftsland).
+- Legalisation nur bis zum Außenministerium, deutsche Botschaft fehlt.
+- Übersetzung durch im Ausland vereidigte Person → nicht anerkannt.
+- Inhalt der ausländischen Urkunde enthält Regelungen, die mit deutschem Recht unvereinbar sind.
+- EU-VO 1191/2016-Formblatt fehlt → Apostille trotzdem nötig (wenn keine öffentliche Urkunde i.S.d. VO).
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- HCCH Apostillekonvention: https://www.hcch.net/de/instruments/conventions/full-text/?cid=41
+- EU-VO 1191/2016: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R1191
+- EGBGB Art. 11: https://dejure.org/gesetze/EGBGB/11.html
+- § 29 GBO: https://dejure.org/gesetze/GBO/29.html
+- § 438 ZPO: https://dejure.org/gesetze/ZPO/438.html
+- BNotK Auslandsurkunden: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Auslandsurkunde Apostille Legalisation Übersetzung und Registertauglichkeit** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Prüfschema** (Apostille/Legalisation/EU-VO-Befreiung)
+- **Checkliste Übersetzung** (Anforderungen je Register)
+- **Mandantenmail** (benötigte Dokumente aus dem Ausland)
+- **Registertauglichkeits-Vermerk**
+- **Red-Team** (Risiken bei lückenhafter Beglaubigungskette)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

@@ -1,53 +1,89 @@
 ---
 name: notariat-046-abwicklung-todesfall-beteiligter-vor-vollzug
-description: "Notariat im Alltag: Abwicklung Todesfall Beteiligter vor Vollzug mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Notariat im Alltag: Abwicklung Todesfall eines Beteiligten vor Vollzug. Rechtliche Konsequenzen des Todes eines Käufers, Verkäufers oder GmbH-Gesellschafters während des laufenden Vollzugs und notarielle Schritte."
 ---
 
-# Notariat im Alltag: Abwicklung Todesfall Beteiligter vor Vollzug
+# Notariat im Alltag: Abwicklung Todesfall eines Beteiligten vor Vollzug
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Abwicklung Todesfall Beteiligter vor Vollzug** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Der Tod eines Beteiligten vor Abschluss des Vollzugs wirft komplexe Rechtsfragen auf: Geht der Vertrag auf die Erben über? Wer ist jetzt handlungsfähig? Wie wird der Vollzug gesichert? Dieser Skill strukturiert die notariellen Sofortmaßnahmen.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: § 1922 BGB (Gesamtrechtsnachfolge), §§ 2032–2063 BGB (Erbengemeinschaft), §§ 2353–2375 BGB (Erbschein), § 35 GBO (Grundbuchberichtigung), § 1629 BGB (Vertretung Minderjähriger durch überlebenden Elternteil), §§ 177–180 BGB (vollmachtloser Vertreter), § 130 Abs. 2 BGB (Tod des Erklärenden nach Abgabe der Willenserklärung).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Wirkung beurkundeter Verträge bei Tod eines Beteiligten
+
+Beurkundete Willenserklärungen wirken nach § 130 Abs. 2 BGB fort, auch wenn der Erklärende nach Abgabe der Erklärung stirbt. Das Verpflichtungsgeschäft (Kaufvertrag) bleibt wirksam und geht auf die Erben über (§ 1922 BGB).
+
+Ausnahmen: Höchstpersönliche Rechtsgeschäfte (z.B. Ehevertrag) erlöschen mit dem Tod.
+
+## Tod des Käufers
+
+Der Kaufvertrag geht auf die Erben über. Die Erben treten in die Käuferposition ein.
+
+**Konsequenzen:**
+- Erbnachweis (Erbschein oder Testament + Eröffnungsprotokoll) muss vorgelegt werden
+- Auflassungsvormerkung bleibt für die Erben-Käufer bestehen
+- Vollzug läuft auf die Erben; ggf. müssen alle Erben handeln (§ 2040 BGB: gemeinschaftliche Verfügung)
+- Finanzierung: Bank des Käufers prüft, ob Kredit auf Erben übertragen wird
+
+## Tod des Verkäufers
+
+Der Kaufvertrag geht auf die Erben über.
+
+**Konsequenzen:**
+- Erben sind zur Auflassung verpflichtet (§§ 433, 2032 BGB)
+- Grundbuchberichtigung auf Erben nötig, bevor Auflassung an Käufer vollzogen werden kann (§ 40 GBO: Voreintragung)
+- Alternativ: Erben lassen direkt auf Käufer auf (direkte Auflassung ohne Zwischeneintragung, wenn alle Erben mitwirken)
+- Sterbeurkunde und Erbnachweis besorgen
+
+## Tod eines GmbH-Gesellschafters
+
+GmbH-Anteile gehen auf die Erben über (§§ 1922, 15 Abs. 1 GmbHG, sofern kein Einziehungsrecht).
+
+**Konsequenzen:**
+- Gesellschafterliste muss aktualisiert werden (§ 40 GmbHG)
+- Falls Satzung eine Einziehungsklausel enthält: Einziehungsrecht der verbleibenden Gesellschafter prüfen
+- Erbnachweis für die Erben als neue Gesellschafter
+- Ggf. Abtretung der Anteile an verbleibende Gesellschafter (Kauf oder Schenkung)
+
+## Vollzugsblockade und sofortige Maßnahmen
+
+1. **Vollzug sofort stoppen:** Keine Fälligkeitsmitteilung bis Rechtslage geklärt.
+2. **Alle Beteiligten informieren** (Käufer/Verkäufer, Bank, Gegenseite).
+3. **Erbnachweis anfordern:** Erbschein beim Nachlassgericht oder Testament + Eröffnungsprotokoll.
+4. **Bevollmächtigungsstatus prüfen:** Hatte der Verstorbene einen Bevollmächtigten? Postmortem-Vollmacht?
+5. **Genehmigungen:** Ggf. neue Genehmigungen für Erben (Minderjährige, Betreuung?).
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Ist der Kaufvertrag noch erfüllbar (nicht höchstpersönlich)?
+- Liegt Erbnachweis vor?
+- Bei Verkäufertod: Voreintragung auf Erben nötig?
+- Bei Käufertod: Erbengemeinschaft, alle müssen handeln?
+- GmbH: Satzungsregelung für Erbfall beachtet?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Vollzug weitergeführt ohne Erbnachweis → Eigentumsumschreibung ohne Legitimation.
+- Direktauflassung Verkäufererben an Käufer ohne alle Erben → Unwirksamkeit.
+- GmbH-Gesellschafterliste nicht aktualisiert → Stimmrechtsprobleme.
+- Minderjährige Erben: familiengerichtliche Genehmigung vergessen.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- § 1922 BGB: https://dejure.org/gesetze/BGB/1922.html
+- § 130 Abs. 2 BGB: https://dejure.org/gesetze/BGB/130.html
+- § 2040 BGB: https://dejure.org/gesetze/BGB/2040.html
+- § 35 GBO: https://dejure.org/gesetze/GBO/35.html
+- § 40 GmbHG: https://dejure.org/gesetze/GmbHG/40.html
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Abwicklung Todesfall Beteiligter vor Vollzug** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Todesfall-Sofortmaßnahmen-Checkliste** (je nach Beteiligter-Rolle)
+- **Erbnachweis-Anforderungsschreiben**
+- **Vollzugscockpit-Update** (neuer Status nach Todesfall)
+- **Mandantenmail** (Information Erben über Vertragsfortsetzung)
+- **GmbH-Gesellschafterliste** (Erbfolge-Aktualisierung)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

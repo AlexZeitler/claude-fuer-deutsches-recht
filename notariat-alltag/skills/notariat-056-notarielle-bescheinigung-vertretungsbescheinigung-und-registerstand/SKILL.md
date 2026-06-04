@@ -1,53 +1,86 @@
 ---
-name: notariat-056-notarielle-bescheinigung-vertretungsbescheinigung-u
-description: "Notariat im Alltag: Notarielle Bescheinigung Vertretungsbescheinigung und Registerstand mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-056-notarielle-bescheinigung-vertretungsbescheinigung
+description: "Notariat im Alltag: Notarielle Bescheinigung – Vertretungsbescheinigung und Registerstand. Bescheinigungen nach § 21 BNotO, Vertretungsberechtigungsbescheinigung und aktuelle Registerstandsbescheinigungen."
 ---
 
-# Notariat im Alltag: Notarielle Bescheinigung Vertretungsbescheinigung und Registerstand
+# Notariat im Alltag: Notarielle Bescheinigung – Vertretungsbescheinigung, Registerstand
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Notarielle Bescheinigung Vertretungsbescheinigung und Registerstand** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Notarielle Bescheinigungen nach § 21 BNotO sind ein häufig unterschätztes, aber wichtiges Instrument. Sie bestätigen Tatsachen, die der Notar aus öffentlichen Registern oder seiner eigenen Wahrnehmung kennt. Dieser Skill klärt Voraussetzungen, Inhalte und Abgrenzungen.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: § 21 BNotO (notarielle Bescheinigung), § 20 BNotO (Beratung), § 39 BeurkG (Beglaubigung), § 21 FamFG (Registerauskunft), HGB § 15 (negative Publizität), EGBGB Art. 11 (Formstatut), GNotKG KV Nr. 25200 (Bescheinigungsgebühr).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## § 21 BNotO: Bescheinigung über Tatsachen
+
+Der Notar kann Bescheinigungen ausstellen über:
+- Den Inhalt öffentlicher Register (Handelsregister, Grundbuch, Grundbuchauszüge)
+- Die Vertretungsmacht einer Person (Vertretungsbescheinigung)
+- Sonstige Tatsachen, die der Notar kennt oder zuverlässig prüfen kann
+
+**Abgrenzung zur Beglaubigung:** Die Bescheinigung bestätigt Tatsachen; die Beglaubigung bestätigt die Echtheit einer Unterschrift oder die Übereinstimmung einer Abschrift mit dem Original.
+
+## Vertretungsbescheinigung
+
+Die Vertretungsbescheinigung bestätigt, dass eine bestimmte Person eine Gesellschaft oder Institution rechtswirksam vertreten kann. Inhalt:
+- Name der vertretenen Gesellschaft und Registernummer
+- Name des Vertreters
+- Art der Vertretungsmacht (Einzel- oder Gesamtvertretung, § 181 BGB-Befreiung)
+- Datum des Registerauszugs, auf den sich die Bescheinigung stützt
+
+**Verwendung:** Für ausländische Register, Notariate, Gerichte, die einen aktuellen deutschen HR-Auszug nicht direkt abrufen können.
+
+## Registerstandsbescheinigung
+
+Bestätigt den aktuellen Stand eines deutschen Registers (Handelsregister, Grundbuch) zu einem bestimmten Datum. Wichtig für:
+- Auslandsgeschäfte (ausländisches Notariat braucht Beweis über deutschen Registerstand)
+- M&A-Transaktionen (Closing-Bestätigung des Registerinhalts)
+- Kreditvergabe (aktueller Gesellschafterbestand der GmbH)
+
+## Grenzen der Bescheinigung
+
+Der Notar bescheinigt nur Tatsachen, die er korrekt prüfen kann:
+- Registerinhalte: nur auf Basis eines aktuellen Auszugs
+- Vertretungsmacht: nur was aus dem Register ersichtlich ist (keine Unterschreitung der Vertretungsmacht durch interne Satzungsregeln, die nicht eingetragen sind)
+- Keine Aussagen über die wirtschaftliche Lage oder Bonität der Gesellschaft
+
+## Form und Sprache
+
+Bescheinigungen können auf Wunsch zweisprachig (Deutsch + Fremdsprache) ausgestellt werden. Sie benötigen die Unterschrift des Notars und das Amtssiegel. Apostille oder Legalisation ggf. erforderlich für die Verwendung im Ausland.
+
+## Kostenhinweise
+
+Bescheinigung nach § 21 BNotO: KV Nr. 25200 GNotKG. Gegenstandswert: Wert des bescheinigten Vorgangs. Mindestgebühr beachten.
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Ist der Inhalt der Bescheinigung korrekt und vollständig aus dem Register ersichtlich?
+- Ist der Registerauszug aktuell (max. 3 Monate)?
+- Ist die Bescheinigung auf die im Ausland/bei der Behörde benötigte Form abgestimmt?
+- Apostille oder Legalisation nötig?
+- Zweisprachige Fassung gewünscht?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Veralteter Registerauszug als Basis → Bescheinigung überholt.
+- Bescheinigung bestätigt interne Vertretungseinschränkungen, die nicht eingetragen sind → falsche Angabe.
+- Keine Apostille für Auslandsverwendung.
+- Bescheinigung über Tatsachen, die der Notar nicht aus dem Register kennt → Haftungsrisiko.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- § 21 BNotO: https://dejure.org/gesetze/BNotO/21.html
+- § 39 BeurkG: https://dejure.org/gesetze/BeurkG/39.html
+- GNotKG KV Nr. 25200: https://www.gesetze-im-internet.de/gnotkg/
+- EGBGB Art. 11: https://dejure.org/gesetze/EGBGB/11.html
+- BNotK Bescheinigungen: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Notarielle Bescheinigung Vertretungsbescheinigung und Registerstand** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Vertretungsbescheinigung-Muster** (§ 21 BNotO)
+- **Registerstandsbescheinigung-Muster**
+- **Zweisprachige Bescheinigung** (DE/EN)
+- **Apostille-Checkliste** (bei Auslandsverwendung)
+- **Mandantenmail** (Zweck der Bescheinigung erläutern)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

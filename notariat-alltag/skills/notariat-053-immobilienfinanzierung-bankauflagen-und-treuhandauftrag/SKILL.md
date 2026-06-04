@@ -1,53 +1,88 @@
 ---
-name: notariat-053-immobilienfinanzierung-bankauflagen-und-treuhandauf
-description: "Notariat im Alltag: Immobilienfinanzierung Bankauflagen und Treuhandauftrag mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-053-immobilienfinanzierung-bankauflagen-und
+description: "Notariat im Alltag: Immobilienfinanzierung – Bankauflagen und Treuhandauftrag. Abstimmung von Kaufvertragsvollzug und Bankfinanzierung, Sicherungsabrede, Bankauflagen und treuhänderische Koordination durch den Notar."
 ---
 
-# Notariat im Alltag: Immobilienfinanzierung Bankauflagen und Treuhandauftrag
+# Notariat im Alltag: Immobilienfinanzierung – Bankauflagen, Treuhandauftrag
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Immobilienfinanzierung Bankauflagen und Treuhandauftrag** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Käufer finanzieren Immobilien häufig über Bankdarlehen, die eigene Auflagen für den Vollzug stellen. Der Notar koordiniert Kaufvertragsvollzug und Bankfinanzierung. Dieser Skill klärt Bankauflagen, Treuhandaufträge und Koordinationspflichten.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: §§ 311b, 873, 925 BGB (Kaufvertrag, Auflassung), §§ 1191–1203 BGB (Grundschuld), § 54a BeurkG (Verwahrungsgeschäfte), § 3 MaBV (Bauträger), GNotKG KV Nr. 22110 (Vollzugsgebühr), §§ 488–490 BGB (Darlehensvertrag), § 489 BGB (Kündigung Verbraucherdarlehen).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Typische Bankauflagen
+
+| Bankauflage | Erklärung |
+|---|---|
+| Grundschuldbestellung vor Kaufpreiszahlung | Bank sichert ihr Darlehen ab, bevor sie auszahlt |
+| Auflassungsvormerkung vor Kaufpreisfälligkeit | Sicherung des Käufer-Anspruchs |
+| Löschungsunterlagen für Voreintragungen | Kaufobjekt soll lastenfrei übergehen |
+| Freistellungserklärung oder Bürgschaft (Bauträger) | MaBV § 3 |
+| Bonitätsunterlagen und Finanzierungsnachweis | Bank prüft Käufer-Bonität |
+| Eintragung Grundschuld an erster Rangstelle | Priorität für Bankensicherheit |
+
+## Koordinationsablauf Finanzierung
+
+1. Beurkundung Kaufvertrag und Grundschuldbestellungsurkunde (oft gemeinsam)
+2. Notar beantragt Auflassungsvormerkung und Grundschuld beim Grundbuchamt
+3. Bank erhält vollstreckbare Ausfertigung der Grundschuld nach Eintragung
+4. Bank bestätigt Bereitstellung des Darlehens (Auszahlungsvoraussetzungen intern der Bank erfüllt)
+5. Notar prüft alle Fälligkeitsvoraussetzungen des Kaufvertrags
+6. Notar erteilt Fälligkeitsmitteilung
+7. Käufer weist Bank an, Kaufpreis an Verkäufer zu zahlen
+
+## Treuhandauftrag an den Notar
+
+Manchmal überweist die Bank das Darlehen an den Notar treuhänderisch, der es dann an den Verkäufer weiterleitet, nachdem alle Voraussetzungen erfüllt sind.
+
+**Zulässigkeit:** Nur bei berechtigtem Sicherungsinteresse (§ 54a Abs. 2 BeurkG). Nicht als Routineinstrument.
+**Verwahrungsanweisung:** Muss alle Auszahlungsvoraussetzungen lückenlos definieren.
+
+## Grundschuldbestellung im Kaufvertrag
+
+Häufig wird die Grundschuldbestellungsurkunde mit dem Kaufvertrag kombiniert. Inhalt:
+- Grundschuld für Bank X
+- Vollstreckungsunterwerfung des Käufers (§ 794 ZPO)
+- Sicherungszweckerklärung
+- Ggf. Mittelherkunftserklärung (GwG)
+
+## Rangfragen bei Finanzierung
+
+Die Bank verlangt oft erste Rangstelle. Bestehende Grundschulden (Voreintragungen aus Abt. III) müssen vor der Bankgrundschuld gelöscht oder zumindest rangmäßig zurückgetreten werden.
+
+Taktik: Gleichzeitige Einreichung von Löschungsantrag (Voreintragung) und Bestellungsantrag (neue Grundschuld) beim Grundbuchamt, um denselben Tag als Rangdatum zu nutzen.
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Bankauflage mit Kaufvertragsinhalt abgestimmt?
+- Rangstelle für Bankgrundschuld sichergestellt?
+- Treuhandauftrag nur bei echtem Sicherungsbedürfnis?
+- GwG: Mittelherkunft bei Kaufpreis und Eigenkapital dokumentiert?
+- Auszahlungsvoraussetzungen Kaufvertrag = Auszahlungsvoraussetzungen Bank?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Bankgrundschuld eingetragen, aber Rang schlechter als erwartet → Bank verweigert Auszahlung.
+- Fälligkeitsmitteilung erteilt, bevor Bank das Darlehen bereitgestellt hat → Käufer kann nicht zahlen.
+- Treuhandauftrag ohne ausreichende Rechtsgrundlage (§ 54a BeurkG).
+- GwG: Eigenkapital-Herkunft nicht dokumentiert.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- § 54a BeurkG: https://dejure.org/gesetze/BeurkG/54a.html
+- §§ 1191–1203 BGB: https://dejure.org/gesetze/BGB/1191.html
+- § 794 ZPO: https://dejure.org/gesetze/ZPO/794.html
+- § 3 MaBV: https://www.gesetze-im-internet.de/makler_baubetrgv/
+- GwG § 10: https://dejure.org/gesetze/GwG/10.html
+- BNotK Vollzugshinweise: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Immobilienfinanzierung Bankauflagen und Treuhandauftrag** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Bankauflagen-Checkliste** (alle Punkte des Finanzierungsangebots)
+- **Vollzugskoordinations-Plan** (Kaufvertrag + Bankfinanzierung synchronisiert)
+- **Treuhandauftrag-Prüfung** (§ 54a BeurkG)
+- **Grundschuld-Rangprüfung** (Abt. III-Analyse)
+- **Mandantenmail** (Finanzierungskoordination, nächste Schritte)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

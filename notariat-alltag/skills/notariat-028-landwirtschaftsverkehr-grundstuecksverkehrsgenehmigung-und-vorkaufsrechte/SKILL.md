@@ -1,53 +1,88 @@
 ---
-name: notariat-028-landwirtschaftsverkehr-grundstuecksverkehrsgenehmig
-description: "Notariat im Alltag: Landwirtschaftsverkehr Grundstücksverkehrsgenehmigung und Vorkaufsrechte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-028-landwirtschaftsverkehr
+description: "Notariat im Alltag: Landwirtschaftsverkehr – Grundstücksverkehrsgenehmigung und Vorkaufsrechte. GrdstVG, Zuständigkeitsfragen, gesetzliche Vorkaufsrechte nach BauGB und GrdstVG, sowie siedlungsrechtliche Vorkaufsrechte."
 ---
 
-# Notariat im Alltag: Landwirtschaftsverkehr Grundstücksverkehrsgenehmigung und Vorkaufsrechte
+# Notariat im Alltag: Landwirtschaftsverkehr – GVO, Vorkaufsrechte
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Landwirtschaftsverkehr Grundstücksverkehrsgenehmigung und Vorkaufsrechte** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Käufe von land- und forstwirtschaftlichen Grundstücken unterliegen besonderen öffentlich-rechtlichen Anforderungen. Dieser Skill führt durch die Grundstücksverkehrsgenehmigung (GrdstVG), Negativatteste und Vorkaufsrechte.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: GrdstVG (Grundstücksverkehrsgesetz), §§ 2–12 GrdstVG (Genehmigungspflicht), § 9 GrdstVG (Versagungsgründe), §§ 4–6 GrdstVG (Genehmigungsfreiheit), §§ 24–28 BauGB (gemeindliches Vorkaufsrecht), RSG (Reichssiedlungsgesetz) §§ 4–11 (Siedlungsrecht), Höfeordnung (in Norddeutschland), ALG, FlurbG.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Genehmigungspflicht (§ 2 GrdstVG)
+
+Die Veräußerung landwirtschaftlicher Grundstücke bedarf der Genehmigung der zuständigen Behörde (Landwirtschaftsbehörde, je nach Bundesland unterschiedlich), wenn das Grundstück überwiegend land- oder forstwirtschaftlich genutzt wird oder genutzt werden kann.
+
+**Genehmigungsfreiheit (§ 4 GrdstVG):**
+- Erwerb unter Ehegatten, Lebenspartnern
+- Erb- und Pflichtteilserwerb
+- Erwerb durch Geschwister
+- Grundstücke unter 0,5 ha (je nach Bundesland, str.)
+- Übertragung an Körperschaften des öffentlichen Rechts
+
+## Versagungsgründe (§ 9 GrdstVG)
+
+Die Genehmigung ist zu versagen, wenn die Veräußerung:
+- eine ungesunde Verteilung des Grund und Bodens bedeuten würde
+- das Grundstück zu einem unangemessen niedrigen Preis veräußert wird (§ 9 Abs. 1 Nr. 3 GrdstVG: Verkauf unter Verkehrswert)
+- einem Nichtlandwirt überlassen wird und ein Landwirt das Grundstück dringend benötigt
+
+## Vorkaufsrecht nach RSG und GrdstVG
+
+Wird die Genehmigung versagt, kann die Siedlungsbehörde ihr Vorkaufsrecht ausüben (§§ 4–9 RSG). Das Vorkaufsrecht ist an enge Voraussetzungen geknüpft und muss innerhalb von 3 Monaten ausgeübt werden.
+
+## Gemeindliches Vorkaufsrecht (§§ 24–28 BauGB)
+
+Die Gemeinde hat in bestimmten Fällen ein gesetzliches Vorkaufsrecht:
+- Umlegungsgebiete (§ 24 Abs. 1 Nr. 1 BauGB)
+- Sanierungsgebiete (Nr. 3)
+- Naturschutz, Flächennutzungsplan (Nr. 5)
+- Flächen für den Gemeinbedarf
+
+**Ausübungsfrist:** 2 Monate ab Mitteilung durch den Notar (§ 28 Abs. 1 BauGB).
+**Negativattest:** Wenn kein Vorkaufsrecht besteht, erteilt die Gemeinde ein Negativattest (§ 28 Abs. 1 S. 3 BauGB).
+
+## Vollzugsablauf bei landwirtschaftlichem Grundstück
+
+1. Beurkundung des Kaufvertrags mit aufschiebender Bedingung: GVO-Genehmigung
+2. Genehmigungsantrag bei zuständiger Landwirtschaftsbehörde (Notar stellt Antrag)
+3. Gemeindliches Vorkaufsrecht: Mitteilung an Gemeinde (§ 28 BauGB), Frist 2 Monate
+4. Nach Genehmigung und Negativattest: Fälligkeitsmitteilung
+5. Vollzug wie normaler Grundstückskauf
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Ist das Grundstück landwirtschaftlich genutzt oder nutzbar?
+- Liegt ein Genehmigungsfreiheitstatbestand vor (§ 4 GrdstVG)?
+- Liegt eine gemeindliche Vorkaufsrechtslage vor (§ 24 BauGB)?
+- Kaufpreis: Liegt er im Bereich des Verkehrswerts?
+- Ist der Käufer Landwirt? Falls nicht: Versagungsrisiko?
+- Vollzugsbedingung (Genehmigung) in den Vertrag aufgenommen?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Genehmigungserfordernis übersehen → Vertrag schwebend unwirksam bis Genehmigung.
+- Vorkaufsrechtsmitteilung an Gemeinde vergessen → Vollzug blockiert.
+- Kaufpreis zu niedrig → Versagung wegen Preiswuchertatbestand.
+- GVO-Genehmigung und gemeindliches Negativattest verwechselt.
+- Höfeordnung (Norddeutschland): landwirtschaftlicher Betrieb als „Hof" → andere Erbfolge.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- GrdstVG: https://www.gesetze-im-internet.de/grundstverkg/
+- §§ 24–28 BauGB: https://dejure.org/gesetze/BauGB/24.html
+- RSG: https://www.gesetze-im-internet.de/rsg/
+- BGH zum Landwirtschaftsverkehr: https://www.bgh.de
+- BNotK Landwirtschaft: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Landwirtschaftsverkehr Grundstücksverkehrsgenehmigung und Vorkaufsrechte** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Genehmigungsprüfung** (GVO: ja/nein, Begründung)
+- **Vollzugscockpit** (GVO-Antrag, Vorkaufsrecht-Mitteilung, Fristen)
+- **Negativattest-Anforderungsschreiben** (Gemeinde, Landwirtschaftsbehörde)
+- **Mandantenmail** (Ablauf, Fristen, Risiken)
+- **Vorkaufsrechts-Übersicht** (alle anwendbaren Vorkaufsrechte)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

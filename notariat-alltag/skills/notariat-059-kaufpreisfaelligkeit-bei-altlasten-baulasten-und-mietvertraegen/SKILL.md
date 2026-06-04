@@ -1,53 +1,80 @@
 ---
-name: notariat-059-kaufpreisfaelligkeit-bei-altlasten-baulasten-und-mi
-description: "Notariat im Alltag: Kaufpreisfälligkeit bei Altlasten Baulasten und Mietverträgen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-059-kaufpreisfaelligkeit-bei-altlasten-baulasten-und
+description: "Notariat im Alltag: Kaufpreisfälligkeit bei Altlasten, Baulasten und Mietverträgen. Sonderkonstellationen der Kaufpreisfälligkeit bei öffentlich-rechtlichen Belastungen, Mietverträgen und Altlastenverdacht."
 ---
 
-# Notariat im Alltag: Kaufpreisfälligkeit bei Altlasten Baulasten und Mietverträgen
+# Notariat im Alltag: Kaufpreisfälligkeit bei Altlasten, Baulasten, Mietverträgen
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Kaufpreisfälligkeit bei Altlasten Baulasten und Mietverträgen** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Nicht jeder Grundstückskauf ist ein Standard-Fall. Altlasten, Baulasten, laufende Mietverträge und öffentlich-rechtliche Beschränkungen können die Kaufpreisfälligkeit und den Vollzug erheblich verkomplizieren. Dieser Skill klärt die Besonderheiten.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: §§ 433–453 BGB (Kaufvertrag, Sachmängelrecht), §§ 435–436 BGB (Rechtsmangel), § 437 BGB (Gewährleistung), BBodSchG §§ 4–24 (Bodenschutz, Altlasten), BauOrdnungsrecht der Länder (Baulast), §§ 566–570 BGB (Mietvertragsübergang bei Verkauf), § 311b BGB (Form).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Altlasten und Bodenkontaminationen
+
+Altlasten (kontaminierter Boden, Altablagerungen) sind ein häufiges Risiko bei gewerblichen und ehemalig industriell genutzten Grundstücken.
+
+**Rechtliche Einordnung:**
+- Altlasten als Sachmangel (§ 434 BGB) → Haftung des Verkäufers, wenn bekannt oder erkennbar
+- Altlasten-Ausschlussklausel: häufig im Kaufvertrag vereinbart (wirksam wenn ausdrücklich und nicht arglistige Täuschung)
+- Öffentliche Altlastenliste: Altlastenkataster der Gemeinde/Umweltbehörde prüfen
+
+**Kaufpreisfälligkeitssonderfall:** Wenn Altlastenrisiko bekannt → einvernehmliche Regelung in der Urkunde über Kostentragung, Sanierung, Kaufpreisreduzierung oder Rücktrittsrecht.
+
+## Baulasten
+
+Baulasten sind im Baulastenverzeichnis der Bauaufsichtsbehörde eingetragen (nicht im Grundbuch). Sie verpflichten den Eigentümer zu bestimmten öffentlich-rechtlichen Leistungen.
+
+**Vollzugsrelevanz:** Baulastenverzeichnis abfragen. Baulast kann den Wert des Grundstücks erheblich beeinflussen (z.B. Abstandsflächenbaulast). Im Kaufvertrag erwähnen (Sachmangel wenn nicht offenbart).
+
+## Mietverträge (§ 566 BGB: „Kauf bricht nicht Miete")
+
+§ 566 BGB: Bei Verkauf eines vermieteten Grundstücks tritt der Käufer in laufende Mietverträge ein. Wichtige Punkte für Kaufpreisfälligkeit:
+- Ist das Grundstück vermietet? → Mietvertragsübernahme durch Käufer
+- Mietkaution (§ 566a BGB): Käufer haftet für Kautionsrückzahlung ab Übergang
+- Bestandsmieter-Information (§ 566b BGB): Notar kann Mitteilung vorbereiten
+- Vermieterrechte/-pflichten gehen über: laufende Reparaturen, Nebenkostenabrechnung
+
+## Kaufpreisfälligkeit bei Mietverträgen
+
+Standard-Kaufvertrag sieht vor: Kaufpreis fällig nach Vorliegen der normalen Vollzugsvoraussetzungen. Bei vermietetem Objekt:
+- Mietvertragsübernahme vertraglich klar geregelt?
+- Sonderkündigungsrecht des Mieters geprüft (§ 567 BGB)?
+- Kautionsübernahme geregelt?
+- Mieterschutzrecht (Eigenbedarfskündigung nach § 577a BGB: 3 Jahre Wartezeit nach Verkauf)?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Altlastenkataster abgefragt?
+- Baulastenverzeichnis abgefragt?
+- Mietverträge im Kaufvertrag erwähnt und Übernahme geregelt?
+- Kautionsübernahme durch Käufer vereinbart?
+- § 577a BGB (Eigenbedarfssperre nach Verkauf): Käufer informiert?
+- Kaufpreisfälligkeit an Besitzübergang geknüpft?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Altlasten bekannt, aber nicht im Kaufvertrag offenbart → Arglisthaftung Verkäufer.
+- Baulast nicht im Kaufvertrag genannt → Sachmangel § 435 BGB.
+- Mietvertrag endet nach Kaufpreisfälligkeit → Käufer übernimmt laufenden Mieter.
+- Kaution nicht an Käufer weitergeleitet → Haftung Verkäufer gegenüber Mieter.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- § 434 BGB (Sachmangel): https://dejure.org/gesetze/BGB/434.html
+- § 566 BGB (Kauf bricht nicht Miete): https://dejure.org/gesetze/BGB/566.html
+- BBodSchG: https://www.gesetze-im-internet.de/bbodschg/
+- § 577a BGB: https://dejure.org/gesetze/BGB/577a.html
+- BGH zum Sachmängelrecht beim Grundstückskauf: https://www.bgh.de
+- BNotK Grundstücksrecht: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Kaufpreisfälligkeit bei Altlasten Baulasten und Mietverträgen** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Altlasten-Checkliste** (Kataster, Offenbarungspflicht, Klauselgestaltung)
+- **Baulastenverzeichnis-Anforderung** (Muster)
+- **Mietvertragsübernahme-Regelung** (Klauselvorschlag)
+- **Kaufpreisfälligkeit-Sonderfall** (Vollzugscockpit-Anpassung)
+- **Mandantenmail** (Altlasten/Mietrisiken erläutern)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

@@ -1,53 +1,105 @@
 ---
 name: notariat-064-checkliste-tagesstart-im-notariat
-description: "Notariat im Alltag: Checkliste Tagesstart im Notariat mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Notariat im Alltag: Checkliste Tagesstart im Notariat. Tagesöffnungsroutine, Vollzugsmonitor-Prüfung, Fristenkontrolle, Eingangspost und Terminvorbereitung für den täglichen Notariatsbetrieb."
 ---
 
 # Notariat im Alltag: Checkliste Tagesstart im Notariat
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Checkliste Tagesstart im Notariat** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Ein strukturierter Tagesstart vermeidet Fehler, verhindert Fristversäumnisse und stellt sicher, dass keine Vollzugsblockaden übersehen werden. Dieser Skill beschreibt eine vollständige Morgenroutine für das Notariat.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: § 14 BNotO (Amtspflichten), § 26 BNotO (Kanzleiaufsicht), DONot §§ 1–56 (Kanzleibetrieb), §§ 186–193 BGB (Fristberechnung), GBO § 17 (Rangprinzip Fristen), BNotO § 19 (Haftung).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Tagesstart-Checkliste: 8 Blöcke
+
+### Block 1: Fristenkalender prüfen (täglich, 09:00 Uhr)
+
+- [ ] Welche Fristen enden heute?
+- [ ] Welche Fristen enden in den nächsten 3 Werktagen?
+- [ ] Gibt es Rote-Ampel-Vorgänge? (Sofortmaßnahme nötig)
+- [ ] Gibt es Gelbe-Ampel-Vorgänge? (Mandant heute kontaktieren)
+
+### Block 2: Eingangspost und beN-Postfach prüfen
+
+- [ ] beN-Eingänge: Zwischenverfügungen, Eintragungsnachrichten, Gerichtsbeschlüsse
+- [ ] Post: Löschungsunterlagen, Genehmigungsbeschlüsse, Unbedenklichkeitsbescheinigungen
+- [ ] E-Mails: Mandantenanfragen, Nachrichten von Parteien
+- [ ] Alle Eingänge unverzüglich in Vollzugsmonitor eintragen
+
+### Block 3: Vollzugsmonitor aktualisieren
+
+- [ ] Neu eingegangene Unterlagen in Vorgänge einpflegen
+- [ ] Vollzugsvoraussetzungen: welche sind jetzt erfüllt?
+- [ ] Fälligkeitsmitteilungen: Ist jetzt eine Fälligkeitsmitteilung auszulösen?
+- [ ] Wiedervorlagen auf morgen setzen, wenn kein Handlungsbedarf
+
+### Block 4: Heutige Beurkundungstermine vorbereiten
+
+- [ ] Urkunden-Entwürfe ausdrucken / elektronisch vorbereiten
+- [ ] Identifizierungsunterlagen bereit (Personalausweis-Prüfliste)
+- [ ] GwG: Risikoklassifizierung und PEP-Screening vorbereitet?
+- [ ] Wartefrist abgelaufen? (§ 17 Abs. 2a BeurkG)
+- [ ] Dolmetscher bestätigt?
+
+### Block 5: Offene Zwischenverfügungen
+
+- [ ] Welche ZV-Fristen laufen heute oder morgen ab?
+- [ ] Nachreichungen fertiggestellt?
+- [ ] Fristverlängerungsanträge nötig?
+
+### Block 6: GwG-Tagesreview
+
+- [ ] Neue Vorgänge: GwG-Erstprüfung durchgeführt?
+- [ ] Hochrisiko-Vorgänge: verstärkte Sorgfalt dokumentiert?
+- [ ] Offene Transparenzregister-Abfragen: erledigt?
+
+### Block 7: Kostennoten
+
+- [ ] Welche Vorgänge sind abgeschlossen? → Kostenrechnung stellen
+- [ ] Offene Kostenforderungen: Wiedervorlage gesetzt?
+- [ ] Vier-Augen-Prüfung für heute zu versendende Kostennoten?
+
+### Block 8: Interne Kommunikation
+
+- [ ] Mitarbeitende über aktuelle Prioritäten informiert?
+- [ ] Eskalationen: Notar über kritische Vorgänge informiert?
+- [ ] Vertretungsregelungen (falls Notar abwesend): klar kommuniziert?
+
+## Tagesabschluss-Check (optional, 17:00 Uhr)
+
+- [ ] Vollzugsmonitor: alle Tagesaktionen eingetragen?
+- [ ] Fristen für morgen gesetzt?
+- [ ] Mandantenmails erledigt?
+- [ ] beN-Postfach geleert?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Werden alle 8 Blöcke täglich abgearbeitet?
+- Gibt es schriftliche Aufzeichnungen des Tagesstarts (Protokollpflicht bei kritischen Vorgängen)?
+- Werden Eskalationen zeitnah an den Notar weitergegeben?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Block 1 übersprungen → Frist wird übersehen.
+- Block 2 verspätet → Löschungsunterlagen liegen schon da, Fälligkeit wurde nicht ausgelöst.
+- Keine Terminvorbereitung → Identifizierungsunterlagen fehlen beim Termin.
+- GwG-Block übersprungen → Compliance-Lücke.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- § 14 BNotO: https://dejure.org/gesetze/BNotO/14.html
+- § 26 BNotO: https://dejure.org/gesetze/BNotO/26.html
+- DONot: https://www.bnotk.de/notare/berufsrecht/dienstordnung/
+- §§ 186–193 BGB (Fristberechnung): https://dejure.org/gesetze/BGB/186.html
+- BNotK Kanzleiführung: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Checkliste Tagesstart im Notariat** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Tagesstart-Checkliste** (druckbar, alle 8 Blöcke)
+- **Vollzugsmonitor-Tagesupdate** (Tabelle)
+- **Eskalationsprotokoll** (Muster für kritische Vorgänge)
+- **Terminvorbereitungs-Kurzblatt** (je Beurkundungstyp)
+- **Fristenampel-Übersicht** (Tagessicht)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

@@ -1,53 +1,92 @@
 ---
-name: notariat-062-gerichts-und-behoerdenkommunikation-aus-dem-notaria
-description: "Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem Notariat mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-062-gerichts-und-behoerdenkommunikation-aus-dem
+description: "Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem Notariat. Strukturierte Korrespondenz mit Registergerichten, Grundbuchämtern, Finanzämtern und Familien-/Betreuungsgerichten."
 ---
 
 # Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem Notariat
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Gerichts- und Behördenkommunikation aus dem Notariat** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Der Notar kommuniziert täglich mit zahlreichen Behörden und Gerichten. Dieser Skill strukturiert die formellen Anforderungen, typische Kommunikationsanlässe und Formulierungsstandards für die häufigsten Schreiben.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: § 12 HGB (HR-Einreichung), GBO §§ 13–15 (Grundbuchantrag), § 28 BauGB (Vorkaufsrechtsmitteilung), § 22 GrEStG (GrESt-Anzeige), § 34 ErbStG (Schenkungsanzeige), FamFG §§ 271 ff. (Familiengericht), §§ 374 ff. FamFG (Registergericht), BeurkG § 17 (Belehrungsprotokoll als Behördendokument).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Kommunikationskanäle
+
+| Behörde | Kanal | Format |
+|---|---|---|
+| Handelsregister | beN / EGVP | XJustiz-Container, PDF/A mit qeS |
+| Grundbuchamt | beN / Post | PDF/A mit qeS oder Papier |
+| Finanzamt (GrESt, ErbSt) | Datev/ERiC oder Post | Steuerformular oder Anzeige |
+| Gemeinde (Vorkaufsrecht) | Post oder E-Mail | Kaufvertragsabschrift |
+| Familiengericht | beN oder Post | Antrag mit Anlagen |
+| Amtsgericht (Nachlassgericht) | beN oder Post | Erbscheinsantrag |
+
+## Handelsregister-Kommunikation
+
+**Standard-Anmeldung:** Über www.handelsregister.de oder EGVP mit qeS des Notars. Anlagestruktur:
+- Anmeldungstext mit qeS
+- Beurkundungsurkunde als PDF/A
+- Gesellschafterliste (falls relevant)
+- Sonstige Anlagen (Vollmachten, Beschlüsse)
+
+**Reaktion auf Zwischenverfügung:** Schriftlich oder elektronisch; mit Bezugnahme auf Aktenzeichen, Datum der ZV und konkrete Nachreichung.
+
+## Grundbuchamt-Kommunikation
+
+**Antrag:** Schriftlich oder elektronisch; mit exakter Grundbuchbezeichnung, Aktenzeichen des Kaufvertrags und vollständigen Anlagen (Bewilligung, Unterlagen).
+
+**Nachreichung:** Immer Bezugnahme auf ursprünglichen Antrag und Datum; Fristwahrungsnachweis ggf. durch Eingangsbestätigung.
+
+## Finanzbehörden
+
+**GrESt-Anzeige (§ 18 GrEStG):** Notar zeigt den Kaufvertrag innerhalb von 2 Wochen beim Finanzamt an (elektronisch via Datev oder Notar-Software). Inhalt: Vertragspartner, Kaufpreis, Grundstückswert.
+
+**Schenkungsanzeige (§ 34 ErbStG):** Schenkungen von Grundstücken und Gesellschaftsanteilen innerhalb von 3 Monaten beim Finanzamt anzeigen.
+
+## Familien- und Betreuungsgericht
+
+**Genehmigungsantrag:** Schriftlich, mit vollständiger Sachverhaltsdarstellung, Vertragsanlage und Begründung, warum die Maßnahme für den Betreuten/Minderjährigen erforderlich oder vorteilhaft ist. Antragsteller sind die Eltern/Betreuer; Notar bereitet vor.
+
+## Formulierungsstandards
+
+| Element | Anforderung |
+|---|---|
+| Betreffzeile | Aktenzeichen der Behörde + Datum + Gegenstand |
+| Bezugnahme | „Bezugnehmend auf Ihre Zwischenverfügung vom [Datum], Az. [Nr.]" |
+| Inhalt | Knapp, sachlich, keine Wertungen; nur Fakten |
+| Anlagen | Vollständig aufgelistet mit Bezeichnung |
+| Unterschrift | qeS oder handschriftlich + Amtssiegel |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Richtiges Aktenzeichen auf jedem Schreiben?
+- Alle erforderlichen Anlagen aufgelistet und beigefügt?
+- Elektronisches Format korrekt (PDF/A, qeS)?
+- Frist für Nachreichung eingehalten?
+- Empfangsbestätigung archiviert?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Falsches Aktenzeichen → Schreiben landet in falscher Akte.
+- Anlagen fehlen → Zurückweisung.
+- Frist nicht eingehalten → Rangverlust.
+- GrESt-Anzeige zu spät → Verzugszinsen.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- § 12 HGB: https://dejure.org/gesetze/HGB/12.html
+- § 28 BauGB: https://dejure.org/gesetze/BauGB/28.html
+- § 18 GrEStG (Anzeige): https://dejure.org/gesetze/GrEStG/18.html
+- § 34 ErbStG: https://dejure.org/gesetze/ErbStG/34.html
+- BNotK Kommunikationshinweise: https://www.bnotk.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Gerichts- und Behördenkommunikation aus dem Notariat** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Standard-HR-Anmeldungsschreiben** (Muster)
+- **Grundbuchantrag-Begleitschreiben** (Muster)
+- **GrESt-Anzeige** (Prozessablauf, Formular)
+- **Schenkungsanzeige § 34 ErbStG** (Muster)
+- **Genehmigungsantrag-Begleitschreiben** (Familiengericht)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

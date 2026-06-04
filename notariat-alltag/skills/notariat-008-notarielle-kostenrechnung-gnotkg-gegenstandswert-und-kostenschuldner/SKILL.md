@@ -1,53 +1,91 @@
 ---
-name: notariat-008-notarielle-kostenrechnung-gnotkg-gegenstandswert-un
-description: "Notariat im Alltag: Notarielle Kostenrechnung GNotKG Gegenstandswert und Kostenschuldner mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: notariat-008-notarielle-kostenrechnung-gnotkg-gegenstandswert
+description: "Notariat im Alltag: Notarielle Kostenrechnung – GNotKG, Gegenstandswert und Kostenschuldner. Strukturierte Kostenberechnung nach dem Kostenverzeichnis, Gegenstandswertermittlung, Schuldnerbestimmung und Rechnungsstellung."
 ---
 
-# Notariat im Alltag: Notarielle Kostenrechnung GNotKG Gegenstandswert und Kostenschuldner
+# Notariat im Alltag: Notarielle Kostenrechnung – GNotKG, Gegenstandswert, Kostenschuldner
 
-## Aufgabe
+## Zweck und Anwendungsbereich
 
-Dieser Skill bearbeitet **Notarielle Kostenrechnung GNotKG Gegenstandswert und Kostenschuldner** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Die notarielle Kostenrechnung nach dem Gerichts- und Notarkostengesetz (GNotKG) ist zwingend und nicht verhandelbar. Dieser Skill führt durch Gegenstandswertermittlung, Gebührentatbestände, Kostenschuldner und häufige Fehlerquellen in der Rechnungsstellung.
 
-## Kaltstart in 6 Fragen
+Rechtsgrundlagen: GNotKG (gesamt), §§ 34–55 GNotKG (Gegenstandswerte), § 29 GNotKG (Kostenschuldner), §§ 17–20 GNotKG (Kostenforderung, Fälligkeit), §§ 85–94 GNotKG (Vorschuss), KV GNotKG (Kostenverzeichnis), § 19 GNotKG (Kostenrechnung), § 81 GNotKG (Rechtsbehelf).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Grundstruktur der Kostenrechnung
+
+**Formel:** Gegenstandswert × Gebührensatz (aus KV) = Gebühr (nach Tabelle B)
+
+**Tabelle B-Gebühr:** gestaffelt nach Gegenstandswert (§ 34 GNotKG), z.B. bei 300.000 € Gegenstandswert: 1,0 Gebühr = 685 €.
+
+## Gegenstandswert (§§ 46–106 GNotKG)
+
+| Geschäftsart | Bewertungsgrundlage |
+|---|---|
+| Grundstückskauf | Kaufpreis (§ 47 GNotKG) |
+| Grundschuld | Nennbetrag (§ 53 GNotKG) |
+| GmbH-Gründung | Stammkapital, mind. 30.000 € (§ 106 GNotKG) |
+| Ehevertrag | 30 % des Reinvermögens beider Ehegatten (§ 100 GNotKG) |
+| Testament/Erbvertrag | Reinnachlasswert (§ 102 GNotKG) |
+| Auflassung | Verkehrswert (§ 47 GNotKG) |
+| Vollmacht | 1/4 des Grundgeschäfts, mind. 1.000 € (§ 98 GNotKG) |
+| Gesellschafterliste | Nennbetrag betroffene Anteile (§ 105 GNotKG) |
+
+## Wichtige Gebührentatbestände (KV GNotKG Auswahl)
+
+| KV-Nr. | Tatbestand | Gebühr |
+|---|---|---|
+| 21100 | Beurkundung Grundstückskauf | 2,0 |
+| 21200 | Beurkundung GmbH-Gründung (individuell) | 2,0 |
+| 22110 | Vollzugstätigkeit (Grundstück) | 0,5 |
+| 22200 | Betreuungstätigkeit (Grundstück) | 0,5 |
+| 25100 | Beglaubigung je Unterschrift | pauschal max. 70 € |
+| 14110 | Auflassungsvormerkung (Grundbuchamt) | 0,5 |
+| 14121 | Eigentumsumschreibung (Grundbuchamt) | 1,0 |
+
+## Kostenschuldner (§ 29 GNotKG)
+
+Kostenschuldner sind diejenigen, die die notarielle Tätigkeit veranlasst haben. Bei Grundstückskäufen ist der Käufer Schuldner für alle Kosten, soweit im Vertrag nicht abweichend vereinbart (aber Vereinbarung ist nur zwischen den Parteien wirksam, gegenüber dem Notar haftet jeder Beteiligte für seinen Anteil). Bei GmbH-Gründung: alle Gesellschafter als Gesamtschuldner.
+
+## Rechnungsstellung (§ 19 GNotKG)
+
+- Schriftliche Kostenrechnung mit Urkundenrolle-Nummer
+- Auflistung aller Gebührentatbestände und Gegenstandswerte
+- Auslagen (§§ 20–23 GNotKG): Dokumentenpauschale, Post- und Telekommunikation (20 €), Reisekosten
+- USt: 19 % auf Nettobetrag (§ 148 GNotKG)
+- Zahlungsfrist: sofort fällig (§ 17 GNotKG)
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Gegenstandswert nach den gesetzlichen Regeln berechnet (nicht vertraglich reduziert)?
+- Mehrere Geschäfte in einer Urkunde: je ein Gegenstandswert (§ 35 GNotKG)?
+- Niedrigstwertprinzip (§ 35 Abs. 4 GNotKG) bei Einheitswert beachtet?
+- Beglaubigungsgebühr-Deckel (max. 70 € je Unterschrift) angewandt?
+- Vollzugsgebühr nur für Grundstücks- und Handelsregistersachen (KV Nr. 22110)?
+- Vorschuss (§ 85 GNotKG): Anforderung bei aufwändigen Vorgängen zulässig?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Gegenstandswert nach Parteiwunsch zu niedrig angesetzt → Unterkosten → Haftung.
+- Mehrere Beurkundungen zu einem Gegenstand als eine Gebühr abgerechnet (falsch).
+- Beglaubigungsgebühr überschreitet 70 €-Grenze pro Unterschrift.
+- Vollzugsgebühr bei reinen Beglaubigungsvorgängen angesetzt (nicht berechtigt).
+- USt vergessen oder falsch berechnet.
+- Kostenschuldner falsch bezeichnet → Inkassoproblem.
 
-## Output
+## Rechtsquellen
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+- GNotKG: https://www.gesetze-im-internet.de/gnotkg/
+- § 47 GNotKG (Kaufpreis): https://dejure.org/gesetze/GNotKG/47.html
+- § 29 GNotKG (Schuldner): https://dejure.org/gesetze/GNotKG/29.html
+- BNotK Kostenrechner: https://www.bnotk.de
+- BGH zu GNotKG: https://www.bgh.de
 
-## Notariatsvertiefung
+## Output-Formate
 
-Bei **Notarielle Kostenrechnung GNotKG Gegenstandswert und Kostenschuldner** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar/in oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+- **Kostenvoranschlag** (aufgegliedert nach KV-Nr.)
+- **Gegenstandswert-Tabelle** (alle Geschäfte eines Vorgangs)
+- **Rechnungsentwurf** (vollständig nach § 19 GNotKG)
+- **Kostenschuldner-Zuordnung** (Tabelle)
+- **Mandantenmail** (Kostenübersicht, Fälligkeit)
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
