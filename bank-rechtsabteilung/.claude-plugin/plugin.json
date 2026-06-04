@@ -1,7 +1,7 @@
 {
   "name": "bank-rechtsabteilung",
-  "version": "74.1.0",
-  "description": "Rechtsabteilung einer mittelgroßen deutschen Bank: Aufsicht, Kredit, ZAG/PSD2, PSD3/PSR-Vorschau, eWpG, MiCAR, Tokenisierung, BaFin, Vorstand, HV und Kanzleisteuerung.",
+  "version": "74.1.1",
+  "description": "Rechtsabteilung einer mittelgroßen deutschen Bank: Aufsicht, Kredit, Avale, Bürgschaft, Garantien, Trade Finance, ZAG/PSD2, PSD3/PSR-Vorschau, eWpG, MiCAR, Tokenisierung, BaFin, Vorstand, HV und Kanzleisteuerung.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"
@@ -10,11 +10,14 @@
   "keywords": [
     "agb",
     "aufsichtsrecht",
+    "aval",
     "bafin",
     "bank",
+    "buergschaft",
     "dora",
     "ewpg",
     "kredit",
+    "kreditsicherheiten",
     "kryptowertpapierregister",
     "kwg",
     "marisk",

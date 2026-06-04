@@ -9,7 +9,9 @@ Dieses Verzeichnis nennt offizielle und frei zugängliche Anker, gegen die die S
 - WpHG: https://www.gesetze-im-internet.de/wphg/
 - GwG: https://www.gesetze-im-internet.de/gwg_2017/
 - HGB Handelsvertreterrecht: https://www.gesetze-im-internet.de/hgb/
-- BGB AGB- und Darlehensrecht: https://www.gesetze-im-internet.de/bgb/
+- HGB kaufmännische Bürgschaft, Handelsgeschäfte: https://www.gesetze-im-internet.de/hgb/
+- BGB AGB-, Darlehens- und Bürgschaftsrecht: https://www.gesetze-im-internet.de/bgb/
+- Wechselgesetz / Aval / Wechselbürgschaft: https://www.gesetze-im-internet.de/wg/BJNR003990933.html
 - AktG: https://www.gesetze-im-internet.de/aktg/
 - InsO: https://www.gesetze-im-internet.de/inso/
 - StaRUG: https://www.gesetze-im-internet.de/starug/
