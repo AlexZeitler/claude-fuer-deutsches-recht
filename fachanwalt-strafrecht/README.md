@@ -59,7 +59,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 212 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 216 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -141,6 +141,10 @@ Automatisch generierte Komplett-Liste aller 212 Skills in diesem Plugin. Beschre
 | `strafr-vermoegensabschoepfung-spezial` | Spezialfall Vermoegensabschoepfung §§ 73 ff. StGB nach Reform 2017: Einziehung von Taterzeugnissen, Wertersatzeinziehung, erweiterte Einziehung. Pruefraster fuer Verteidiger und Drittbetroffene. |
 | `strafr-wirtschaftsstrafrecht-leitfaden` | Leitfaden Wirtschaftsstrafrecht: Untreue § 266 StGB, Betrug § 263, Bilanzdelikte §§ 331 ff. HGB / § 400 AktG, Compliance-Verteidigung. Pruefraster Wirtschaftsstrafkammer. |
 | `strafrecht-polizeifilmerei-201-stgb-kug-verteidigung` | Strafverteidigung bei Vorwurf wegen Filmens von Polizeieinsätzen: § 201 StGB, § 201a StGB, KunstUrhG/KUG §§ 22 bis 23 sowie § 33, Beschlagnahme des Smartphones, Beweisverwertung, Strafbefehl, Widerspruch gegen polizeiliche Maßnahmen und... |
+| `strafrecht-spezial-188-stgb-anklage-und-strafbefehl` | Reaktion auf Anklage, Strafbefehl oder Eröffnungsverfahren wegen § 188 StGB. Baut eine schnelle Verteidigungsakte mit Fristen, Einspruch, Akteneinsicht, § 199 StPO-Erwiderung, § 203 StPO-Eröffnungsangriff, Einstellungsanregung, Strafantr... |
+| `strafrecht-spezial-188-stgb-art5-schrift-und-hv` | Art.-5-GG-Verteidigung bei § 188 StGB in Schriftsatz und Hauptverhandlung. Entwickelt Argumentation zu politischer Machtkritik, Deutung der Äußerung, Meinung/Tatsache, § 193 StGB, Schmähkritik-Engführung, Eignung zur erheblichen Erschwer... |
+| `strafrecht-spezial-188-stgb-easy-verteidigung` | Easy-Verteidigung gegen § 188 StGB: schneller Verteidigungsworkflow bei Anzeige, Strafbefehl oder Anklage wegen Beleidigung, übler Nachrede oder Verleumdung gegen Personen des politischen Lebens. Prüft Basisdelikt §§ 185-187 StGB, Öffent... |
+| `strafrecht-spezial-188-stgb-social-media-beweise` | Beweis- und Kontextverteidigung bei § 188 StGB auf X, Facebook, Instagram, TikTok, Telegram, WhatsApp, Blogs, Kommentarspalten und Demonstrationsvideos. Prüft Account-Zuordnung, Öffentlichkeit, Verbreiten eines Inhalts (§ 11 Abs. 3 StGB)... |
 | `strafrecht-spezial-amtsdelikte-340-stgb-koerperverletzung-im-amt` | Koerperverletzung im Amt nach Paragraph 340 StGB. Sonderdelikt fuer Amtstraeger insbesondere Polizeibeamte. Qualifikation der Paragraphen 223 224 226 StGB. In Ausuebung des Dienstes oder Beziehung darauf. Praktisch wichtige Fallgruppen p... |
 | `strafrecht-spezial-amtstraegerbestechung-332-334-stgb` | Bestechlichkeit § 332 StGB und Bestechung § 334 StGB von Amtstraegern: Anwendungsfall Verteidigung bei Vorwurf pflichtwidriger Diensthandlung gegen Vorteil. Pruefraster Amtstraeger Vorteil Unrechtsvereinbarung pflichtwidrige Diensthandlu... |
 | `strafrecht-spezial-arzneimittelstrafrecht-amg-95-96` | Arzneimittelstrafrecht: § 95 sowie § 96 AMG Strafvorschriften, gefaelschte Arzneimittel, Inverkehrbringen ohne Zulassung. Abgrenzung zu BtMG, NpSG. § 95 AMG Doping-Bezug, AntiDopG. Praxis Online-Apotheken und Forensik. |

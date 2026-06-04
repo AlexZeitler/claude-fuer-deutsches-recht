@@ -1,6 +1,6 @@
 {
   "name": "fachanwalt-strafrecht",
-  "version": "74.1.1",
+  "version": "74.1.2",
   "description": "Plugin Fachanwalt Strafrecht: StPO/StGB, Nebenstrafrecht, Verteidigung, Ermittlungsverfahren, HV, Revision, Nebenklage und Zeugenbeistand plus Strafprozess-Cockpit fuer Fristen, Aktenlog, U-Haft, Akteneinsicht, HV-Tagesmappe, Antragslog und Mandanteninstruktionen.",
   "license": "Apache-2.0 OR MIT",
   "author": {
@@ -13,6 +13,9 @@
     "strafverteidigung",
     "stpo",
     "stgb",
+    "188-stgb",
+    "politikerbeleidigung",
+    "meinungsfreiheit",
     "ermittlungsverfahren",
     "hauptverhandlung",
     "revision",
