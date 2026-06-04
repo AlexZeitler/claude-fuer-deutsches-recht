@@ -1,38 +1,103 @@
 ---
 name: pflicht-zum-treuen-dienen-7-sg
-description: "Pflicht zum treuen Dienen § 7 SG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
+description: "Pflicht zum treuen Dienen § 7 SG: prüft Treuepflicht, politisches Mäßigungsgebot, Inhalt und Grenzen. Norm-/Quellenanker: § 7 SG, § 7a SG, Art. 5 GG, BVerwG."
 ---
 
-# Pflicht zum treuen Dienen § 7 SG
+# Pflicht zum treuen Dienen (§ 7 SG)
+
+## Fachlicher Kontext
+
+§ 7 SG begründet die Pflicht des Soldaten, der Bundesrepublik treu zu dienen. § 7a SG konkretisiert: politisches Mäßigungsgebot (Soldat muss in und außer Dienst politische Mäßigung üben).
+
+§ 8 SG verpflichtet zum Eintreten für die freiheitliche demokratische Grundordnung. Verstöße (Extremismus, illoyale Äußerungen) können Disziplinar- und Entlassungsverfahren auslösen.
+
+## Einschlägige Normen und Quellen
+
+- § 7 SG — Treuepflicht (Pflicht zum treuen Dienen)
+- § 7a SG — Politisches Mäßigungsgebot
+- § 8 SG — Eintreten für demokratische Grundordnung
+- Art. 5 GG — Meinungsfreiheit (Abgrenzung)
+- Art. 4 GG — Gewissensfreiheit
+- BVerwG — Treuepflichtverletzungen
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Sachverhaltsaufnahme — Startfragen
+
+- Was ist der konkrete Vorwurf (extremistische Äußerung, politische Betätigung, soziale Medien)?
+- Handelt es sich um dienstliches oder außerdienstliches Verhalten?
+- Liegt tatsächlich eine Treuepflichtverletzung vor?
+- Wurde die Meinungsfreiheit Art. 5 GG abgewogen?
+- Drohen Disziplinar- oder Entlassungsverfahren?
 
 ## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Pflicht zum treuen Dienen § 7 SG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+### Schritt 1 — Treuepflicht § 7 SG
+
+Inhalt: Loyalität gegenüber Bundesrepublik Deutschland, Verfassung, Volk.
+Konkreter Verstoß: illoyale Äußerungen, Sabotage, Zusammenarbeit mit feindlichen Stellen.
+Abgrenzung: politische Aktivität vs. politische Tätigkeit gegen die Grundordnung.
+
+### Schritt 2 — Politisches Mäßigungsgebot § 7a SG
+
+Gebot zur Zurückhaltung bei politischen Äußerungen (in und außer Dienst).
+Unterschied Beamte: ähnliche Regelung (§ 60 BBG), aber Soldaten noch enger wegen militärischer Disziplin.
+Art. 5 GG Meinungsfreiheit: muss mit § 7a SG abgewogen werden (BVerwG).
+
+### Schritt 3 — Pflicht § 8 SG
+
+Soldat muss aktiv für freiheitliche demokratische Grundordnung eintreten.
+Verletzung: Mitgliedschaft in verfassungsfeindlicher Organisation.
+MAD-Relevanz: Extremismus-Verdacht.
+BVerfG: Extremisten haben kein Recht, Bundeswehrsoldat zu sein.
+
+### Schritt 4 — Disziplinar und Entlassungsrecht
+
+Verstoß → einfaches oder gerichtliches Disziplinarverfahren.
+Bei schwerwiegendem Verstoß: Entlassung § 55 Abs. 5 SG.
+Entlassung: wenn Soldat zu Bundes-/Landesregierung, Verfassung oder militärischer Ordnung in grob feindseligen Gegensatz tritt.
+Verhältnismäßigkeit prüfen.
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Prüfschema: Treuepflichtverletzung § 7 SG
+- Checkliste: Meinungsäußerung Soldat — erlaubt oder verboten?
+- Tabelle: §§ 7, 7a, 8 SG — Pflichten im Überblick
 
 ## Quellenhygiene
+
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/sg/ — §§ 7, 7a, 8 SG
+- https://www.bverwg.de — BVerwG Treuepflichtverletzungen
+- https://www.bverfg.de
+- https://dejure.org/gesetze/SG/7.html
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

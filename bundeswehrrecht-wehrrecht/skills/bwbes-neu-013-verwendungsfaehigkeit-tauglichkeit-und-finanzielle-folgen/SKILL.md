@@ -1,45 +1,99 @@
 ---
-name: bwbes-neu-013-verwendungsfaehigkeit-tauglichkeit-und-finanzielle
-description: "Bundeswehrrecht: Verwendungsfähigkeit Tauglichkeit und finanzielle Folgen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: bwbes-neu-013-verwendungsfaehigkeit-tauglichkeit-und
+description: "Verwendungsfähigkeit, Tauglichkeit, finanzielle Folgen: prüft Tauglichkeitsstufen, dienstrechtliche Konsequenzen und SVG-Versorgung. Norm-/Quellenanker: §§ 44–45 und 55 SG, SVG."
 ---
 
-# Bundeswehrrecht: Verwendungsfähigkeit Tauglichkeit und finanzielle Folgen
+# Verwendungsfähigkeit, Tauglichkeit und finanzielle Folgen
 
-## Aufgabe
+## Fachlicher Kontext
 
-Dieser Skill bearbeitet **Verwendungsfähigkeit Tauglichkeit und finanzielle Folgen** im Bereich **Bundeswehrrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+T1–T5: Tauglichkeitsstufen bestimmen Verwendungsfähigkeit. Dauerhafte T5-Einstufung führt zu Entlassung (SaZ) oder Zurruhesetzung (BeruSold).
 
-## Kaltstart in 6 Fragen
+Die Versorgungsfolgen sind erheblich: Ruhegehalt, Übergangsgebührnisse, WDB-Zuschlag. Fehlerhafte Einstufungen sind anfechtbar.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Einschlägige Normen und Quellen
 
-## Prüfprogramm
+- § 44 SG — Verwendungsunfähigkeit
+- § 45 SG — Zurruhesetzung Berufssoldat
+- § 55 Abs. 2 SG — Entlassung SaZ
+- SVG §§ 1–26 — Versorgungsfolgen
+- DV 46/1 — Begutachtungsrichtlinien
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+## Einsatz
 
-## Typische Fallen
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+## Sachverhaltsaufnahme — Startfragen
 
-## Output
+- Tauglichkeitsstufe festgestellt?
+- Dauerhaft oder vorübergehend?
+- Entlassung oder Zurruhesetzung droht?
+- Versorgungsanspruch nach SVG?
+- Gegengutachten beauftragt?
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+## Prüf- und Arbeitslogik
+
+### Schritt 1 — Tauglichkeitsstufen im Detail
+
+T1: voll tauglich. T2: beschränkt tauglich. T3: verwendungseingeschränkt. T4: nicht für alle Tätigkeiten. T5: dauerhaft dienstunfähig.
+Sondereignungen (fliegerärztlich, ABC, Taucher) separat prüfen.
+
+### Schritt 2 — Dienstrechtliche Folgen
+
+SaZ T5: Entlassung § 55 Abs. 2 SG — kein Rückforderungsanspruch Ausbildungskosten!
+BeruSold T5: Zurruhesetzung § 45 SG; Ruhegehalt nach Dienstzeit.
+Frist: Entlassungsverfügung anfechten (WBO § 6).
+
+### Schritt 3 — Versorgungsfolgen
+
+BeruSold: Ruhegehalt § 26 SVG (Mindestversorgung, Prozentsatz nach Dienstzeit).
+SaZ: Übergangsgebührnisse § 5 SVG.
+WDB-Zuschlag § 26a SVG bei krankheitsbedingter Entlassung.
+Einsatzbedingte Dienstunfähigkeit: erhöhte Versorgung.
+
+### Schritt 4 — Rechtsbehelfe
+
+WBO-Beschwerde gegen Entlassungsverfügung.
+Gegengutachten beauftragen.
+Versorgungsklage: VG (Rentenansprüche), Sozialgericht (WDB).
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Tabelle: Tauglichkeitsstufen T1–T5 mit dienstrechtlichen Konsequenzen
+- Prüfschema: Entlassung vs. Zurruhesetzung
+- Checkliste: Gegengutachten beauftragen
+
+## Quellenhygiene
+
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/sg/ — §§ 44–45, 55 SG
+- https://www.gesetze-im-internet.de/svg/ — SVG
+- https://www.bverwg.de
+
+## Qualitätsgate
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

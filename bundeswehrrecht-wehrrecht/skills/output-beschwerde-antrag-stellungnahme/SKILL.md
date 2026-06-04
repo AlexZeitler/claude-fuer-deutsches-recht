@@ -1,38 +1,108 @@
 ---
 name: output-beschwerde-antrag-stellungnahme
-description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Output Beschwerde Antrag Stellungnahme."
+description: "Output Beschwerde, Antrag, Stellungnahme: erstellt strukturierte Schriftstücke nach WBO, WDO und VwGO. Norm-/Quellenanker: WBO §§ 6–11, WDO, VwGO."
 ---
 
-# Output Beschwerde Antrag Stellungnahme
+# Output: Beschwerde, Antrag, Stellungnahme erstellen
+
+## Fachlicher Kontext
+
+Der Output-Skill produziert handlungsfertige Schriftstücke: WBO-Beschwerde, Vollzugsaussetzungsantrag, Widerspruch, Akteneinsichtsantrag, Stellungnahme im Disziplinarverfahren.
+
+Qualitätsanforderungen: klar strukturiert, alle Pflichtbestandteile, Rechtsprechungsbelege, Fristen vermerkt.
+
+## Einschlägige Normen und Quellen
+
+- §§ 6–11 WBO — Beschwerdeverfahren (Form, Frist, Inhalt)
+- § 17 WBO — Antrag auf gerichtliche Entscheidung
+- VwGO §§ 68–74 — Widerspruch und Klage
+- WDO §§ 91–92 — Schlussplädoyer TDG
+- ZDv — Formvorschriften
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-## Startfragen
-- Was soll sofort entstehen: Kurztriage, Aktenplan, Fragenliste, Memo, Schriftsatz, Vertrag, Formular oder Mandantenbrief?
-- Wo drohen Fristen, Formerfordernisse, Bußgelder, Gebührennachteile, Verfahrensfehler oder irreversible Schritte?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Sachverhaltsaufnahme — Startfragen
+
+- Was soll entstehen: Beschwerde, Antrag, Stellungnahme, Schriftsatz?
+- An wen und in welchem Verfahren?
+- Was ist der genaue Sachverhalt und die rechtliche Einordnung?
+- Sind alle relevanten Dokumente bekannt?
+- Was ist das Ziel (Aufhebung, Änderung, Aussetzung, Feststellung)?
 
 ## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Output Beschwerde Antrag Stellungnahme..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+### Schritt 1 — WBO-Beschwerde Struktur
+
+Kopf: An [Disziplinarvorgesetzter], Datum, Absender.
+Betreff: Beschwerde nach § 6 WBO.
+Sachverhalt: tatsächliche Darstellung der Maßnahme.
+Rechtliche Würdigung: Norm, Tatbestand, Rechtswidrigkeit.
+Antrag: konkret formuliert.
+Ggf. Vollzugsaussetzung § 9 WBO.
+
+### Schritt 2 — Widerspruch VwGO
+
+§ 70 VwGO: Beschwerdestelle, 1 Monat.
+Aufbau: Bescheid-Bezeichnung, Anfechtungsantrag, Begründung.
+Begründung: Rechts- oder Ermessensfehler.
+Anlage: Kopien Bescheid und Belege.
+
+### Schritt 3 — Stellungnahme im Disziplinarverfahren
+
+Formfrei, aber klar gegliedert.
+Tatbestandsprüfung: Pflichtverletzung bestreiten oder relativieren.
+Milderungsgründe: § 38 WDO.
+Maßnahmenangemessenheit: Verhältnismäßigkeit.
+Beweisangebote.
+
+### Schritt 4 — Qualitätsgate vor Ausgabe
+
+Alle Pflichtbestandteile vorhanden?
+Frist vermerkt?
+Antrag konkret formuliert?
+Keine erfundenen Rechtsprechungszitate?
+Ton: sachlich, nicht emotional?
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Vorlage: WBO-Beschwerde (leer, ausfüllbar)
+- Vorlage: Widerspruch nach VwGO
+- Vorlage: Stellungnahme Disziplinarverfahren
 
 ## Quellenhygiene
+
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/wbo/ — WBO
+- https://www.gesetze-im-internet.de/vwgo/ — VwGO
+- https://www.gesetze-im-internet.de/wdo_2002/ — WDO
+- https://openjur.de
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

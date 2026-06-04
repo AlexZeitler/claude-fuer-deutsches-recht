@@ -1,45 +1,102 @@
 ---
 name: bwbes-neu-008-heilfuersorge-truppenaerztliche-versorgung-und-pkv
-description: "Bundeswehrrecht: Heilfürsorge truppenärztliche Versorgung und PKV mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Heilfürsorge, truppenärztliche Versorgung, PKV: prüft § 70 BBesG, Leistungsumfang, PKV-Übergang und SVG-Heilbehandlung. Norm-/Quellenanker: BBesG § 70, SVG §§ 69–74, BBhV."
 ---
 
-# Bundeswehrrecht: Heilfürsorge truppenärztliche Versorgung und PKV
+# Heilfürsorge, truppenärztliche Versorgung und PKV
 
-## Aufgabe
+## Fachlicher Kontext
 
-Dieser Skill bearbeitet **Heilfürsorge truppenärztliche Versorgung und PKV** im Bereich **Bundeswehrrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Aktive Soldaten haben Anspruch auf unentgeltliche Heilfürsorge (§ 70 BBesG). Nach Entlassung endet die Heilfürsorge sofort; PKV-Pflicht entsteht.
 
-## Kaltstart in 6 Fragen
+Probleme entstehen bei PKV-Aufnahme nach langer Dienstzeit (Vorerkrankungen, Wartezeiten) und bei WDB-Heilbehandlungsansprüchen nach Entlassung.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Einschlägige Normen und Quellen
 
-## Prüfprogramm
+- BBesG § 70 — Heilfürsorge aktive Soldaten
+- SVG §§ 69–74 — Heilbehandlung bei WDB
+- BBhV — Bundesbeihilfeverordnung (nach Entlassung)
+- SG § 30 — Fürsorge- und Treuepflicht
+- GOÄ/GOZ — Gebührenordnungen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+## Einsatz
 
-## Typische Fallen
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+## Sachverhaltsaufnahme — Startfragen
 
-## Output
+- Aktiver Soldat (Heilfürsorge) oder entlassen (PKV/Beihilfe)?
+- Welche Leistung abgelehnt oder unzureichend erstattet?
+- Streit über Wahlleistungen (Chefarzt, Einzelzimmer)?
+- Einsatzbedingte Erkrankung → SVG-Heilbehandlung?
+- PKV-Aufnahme nach Entlassung gescheitert?
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+## Prüf- und Arbeitslogik
+
+### Schritt 1 — Heilfürsorge aktive Soldaten § 70 BBesG
+
+Umfang: ärztliche/zahnärztliche Behandlung, Arzneimittel, Krankenhaus, Heilmittel.
+Behandlung über Sanitätszentren/BwKrhs oder Vertragsärzte.
+Wahlleistungen: gesondert beantragen, Zuzahlung möglich.
+Keine Erstattung ohne vorherige Genehmigung bei Privatärzten.
+
+### Schritt 2 — Entlassung und PKV-Übergang
+
+Heilfürsorge endet mit Entlassung sofort.
+PKV-Kontrahierungszwang: bei langer Dienstzeit Öffnungsklausel.
+Beihilfe: nach Entlassung BBhV analog.
+Übergangsbeihilfe SVG: keine Kostenfortsetzung für PKV.
+
+### Schritt 3 — SVG-Heilbehandlung § 69 SVG
+
+Einsatzbedingte Erkrankungen: Heilbehandlung auf Bundeskosten.
+Keine zeitliche Begrenzung für anerkannte WDB-Folgen.
+Antrag: BAPersBw Versorgungsreferat.
+
+### Schritt 4 — Rechtsbehelfe
+
+Ablehnung Heilfürsorge-Leistung: WBO-Beschwerde + ggf. VG.
+PKV-Streit: Zivilgericht.
+SVG-Heilbehandlung abgelehnt: Widerspruch + Sozialgericht.
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Checkliste: Heilfürsorge-Genehmigung Wahlleistung
+- Tabelle: Heilfürsorge vs. Beihilfe vs. SVG-Heilbehandlung
+- Merkblatt: PKV-Übergang nach Entlassung
+
+## Quellenhygiene
+
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/bbesg/ — § 70 BBesG
+- https://www.gesetze-im-internet.de/svg/ — §§ 69–74 SVG
+- https://www.gesetze-im-internet.de/bbhv/ — BBhV
+- https://www.bundeswehr.de
+
+## Qualitätsgate
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

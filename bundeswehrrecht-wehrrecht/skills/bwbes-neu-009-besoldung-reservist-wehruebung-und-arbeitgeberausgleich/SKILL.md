@@ -1,45 +1,102 @@
 ---
-name: bwbes-neu-009-besoldung-reservist-wehruebung-und-arbeitgeberausg
-description: "Bundeswehrrecht: Besoldung Reservist Wehrübung und Arbeitgeberausgleich mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: bwbes-neu-009-besoldung-reservist-wehruebung-und
+description: "Besoldung Reservisten, Wehrübung, Arbeitgeberausgleich: prüft ArbPlSchG, UhSiG, Freistellungspflicht und Kündigungsschutz. Norm-/Quellenanker: ArbPlSchG, UhSiG, WSG."
 ---
 
-# Bundeswehrrecht: Besoldung Reservist Wehrübung und Arbeitgeberausgleich
+# Besoldung Reservist: Wehrübung und Arbeitgeberausgleich
 
-## Aufgabe
+## Fachlicher Kontext
 
-Dieser Skill bearbeitet **Besoldung Reservist Wehrübung und Arbeitgeberausgleich** im Bereich **Bundeswehrrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Reservisten haben während Wehrübung Anspruch auf Wehrsold (WSG) und Unterhaltssicherung (UhSiG). Ihr Arbeitgeber ist zur Freistellung verpflichtet (ArbPlSchG) und darf nicht kündigen (§ 4 ArbPlSchG).
 
-## Kaltstart in 6 Fragen
+Kleine Arbeitgeber können Erstattung beantragen. Benachteiligungen am Arbeitsplatz wegen Reservedienst sind unzulässig.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Einschlägige Normen und Quellen
 
-## Prüfprogramm
+- ArbPlSchG — Arbeitsplatzschutzgesetz
+- UhSiG — Unterhaltssicherungsgesetz
+- WSG — Wehrsoldgesetz
+- § 4 ArbPlSchG — Kündigungsverbot
+- AGG — Diskriminierungsverbot
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+## Einsatz
 
-## Typische Fallen
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+## Sachverhaltsaufnahme — Startfragen
 
-## Output
+- Freiwillige Wehrübung, Bündnisfall oder Spannungsfall-Heranziehung?
+- Arbeitgeber Freistellung verweigert oder gekündigt?
+- Unterhaltssicherung beansprucht?
+- Selbstständiger oder Arbeitnehmer?
+- Nachteile am Arbeitsplatz wegen Reservistentätigkeit?
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+## Prüf- und Arbeitslogik
+
+### Schritt 1 — Freistellungspflicht ArbPlSchG
+
+§ 1 ArbPlSchG: Freistellung für Dauer der Wehrübung.
+Entgelt ruht (nicht verloren).
+§ 4 ArbPlSchG: Kündigungsverbot ab Zustellung Einberufungsbescheid bis 2 Wochen danach.
+Ausnahme dringendes betriebliches Bedürfnis: sehr eng.
+
+### Schritt 2 — Unterhaltssicherung UhSiG
+
+Arbeitnehmer und Selbstständige.
+Höhe: Nettoverdienst abzüglich Wehrsold.
+Selbstständige: Einkommensnachweise 3 Jahre.
+Antrag: Karrierecenter/BAPersBw.
+
+### Schritt 3 — Diskriminierungsverbot und Mobbing
+
+ArbPlSchG Spezialregelung.
+Mobbingschutz: § 12 AGG + allgemeines Schikaneverbot.
+Kündigungsschutzklage bei unzulässiger Kündigung: ArbG, 3-Wochen-Frist.
+
+### Schritt 4 — Arbeitgebererstattung
+
+ArbPlSchG §§ 13–14: kleine Betriebe können Erstattung beantragen.
+Antrag nach Ende Wehrübung.
+Fristen einhalten.
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Muster-Freistellungsschreiben für Arbeitgeber
+- Checkliste: Unterlagen UhSiG-Antrag
+- Tabelle: Rechte/Pflichten Arbeitgeber bei Wehrübung des Arbeitnehmers
+
+## Quellenhygiene
+
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/arb-plschg/ — ArbPlSchG
+- https://www.gesetze-im-internet.de/uhsig/ — UhSiG
+- https://www.gesetze-im-internet.de/wsg/ — WSG
+- https://www.bundeswehr.de/de/soldat-werden/reservisten
+
+## Qualitätsgate
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

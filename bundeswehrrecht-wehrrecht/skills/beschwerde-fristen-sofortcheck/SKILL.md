@@ -1,38 +1,114 @@
 ---
 name: beschwerde-fristen-sofortcheck
-description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Beschwerde Fristen Sofortcheck."
+description: "Beschwerde-Fristen Sofortcheck WBO: prüft Fristbeginn, Berechnung, Form, Wiedereinsetzung und Vollzugsaussetzung. Norm-/Quellenanker: §§ 6–11 und 23a WBO."
 ---
 
-# Beschwerde Fristen Sofortcheck
+# Beschwerde-Fristen Sofortcheck (WBO)
+
+## Fachlicher Kontext
+
+Die WBO-1-Monats-Frist beginnt mit Bekanntgabe der Maßnahme — häufig früher als der Soldat denkt. Mündliche Mitteilung durch den Vorgesetzten reicht für Fristbeginn aus.
+
+Fristversäumnis führt zur Unzulässigkeit. Wiedereinsetzung (§ 23a WBO) ist nur bei unverschuldetem Hindernis möglich. In der Praxis läuft der Soldat Gefahr, bei informellen Dienstgesprächen bereits die Frist in Gang zu setzen.
+
+## Einschlägige Normen und Quellen
+
+- § 6 WBO — Beschwerdefrist (1 Monat)
+- § 7 WBO — Form der Beschwerde
+- § 8 WBO — Zuständigkeit und Einreichung
+- § 9 WBO — Aussetzung des Vollzugs
+- § 10 WBO — Entscheidung
+- § 17a WBO — Antrag auf gerichtliche Entscheidung (TDG)
+- § 23a WBO — Wiedereinsetzung
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-## Startfragen
-- Was soll sofort entstehen: Kurztriage, Aktenplan, Fragenliste, Memo, Schriftsatz, Vertrag, Formular oder Mandantenbrief?
-- Wo drohen Fristen, Formerfordernisse, Bußgelder, Gebührennachteile, Verfahrensfehler oder irreversible Schritte?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Sachverhaltsaufnahme — Startfragen
+
+- Was ist die angefochtene Maßnahme (Befehl, Versetzung, Beurteilung, Entlassung)?
+- Wann wurde die Maßnahme bekannt gegeben (Datum, Form)?
+- Ist die 1-Monats-Frist noch offen?
+- Wurden Fristen versäumt — Hindernisse für Wiedereinsetzung?
+- An wen und in welcher Form wurde Beschwerde eingereicht?
+- Soll gleichzeitig Vollzugsaussetzung (§ 9 WBO) beantragt werden?
 
 ## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Beschwerde Fristen Sofortcheck..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+### Schritt 1 — Fristbeginn ermitteln
+
+§ 6 WBO: Kenntnis der Maßnahme = Fristbeginn.
+Mündliche Bekanntgabe: Beginn am selben Tag.
+Schriftliche Zustellung: Beginn am Tag des Zugangs.
+Fristende: entsprechendes Datum des Folgemonats.
+
+### Schritt 2 — Fristberechnung
+
+§§ 187 ff. BGB analog: Beginn am Folgetag nach Kenntnistag.
+Fällt Fristende auf Sa/So/Feiertag → nächster Werktag.
+Datum der Kenntnisnahme sichern (Zeugen, Schriftstücke, Protokoll).
+
+### Schritt 3 — Form der Beschwerde § 7 WBO
+
+Schriftlich oder zur Niederschrift.
+Einreichung: nächster Disziplinarvorgesetzter (§ 8 WBO).
+Pflichtinhalt: Maßnahme benennen, Antrag (Aufhebung/Änderung), Beschwerdeführer.
+Fax/E-Mail: Schriftformerfordernis prüfen!
+
+### Schritt 4 — Wiedereinsetzung § 23a WBO
+
+Unverschuldetes Hindernis erforderlich.
+Antrag: unverzüglich nach Wegfall, max. 2 Wochen.
+Versäumte Handlung nachholen.
+Gründe: Krankheit, Fehlberatung, höhere Gewalt.
+
+### Schritt 5 — Vollzugsaussetzung § 9 WBO
+
+Antrag bei Disziplinarvorgesetzten oder Beschwerdestelle.
+Ermessen: Erfolgsaussichten und Vollzugsinteresse.
+Bei drohender Versetzung/Entlassung: sofort beantragen.
+Einstweiliger Rechtsschutz TDG: § 17a WBO analog.
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Fristenkalender: WBO-Beschwerdefrist berechnen
+- Muster-Beschwerde §§ 6–8 WBO
+- Checkliste: Vollständigkeit Beschwerde
+- Entscheidungsbaum: Frist abgelaufen → Wiedereinsetzung?
 
 ## Quellenhygiene
+
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/wbo/ — WBO
+- https://dejure.org/gesetze/WBO/6.html
+- https://www.bverwg.de
+- https://openjur.de
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

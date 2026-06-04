@@ -1,38 +1,102 @@
 ---
 name: mandantenbrief-soldat-verstaendlich
-description: "Mandantenbrief Soldat verständlich: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
+description: "Mandantenbrief Soldat verständlich: erstellt klare, nicht-juristische Erläuterungen komplexer Rechtssituationen für Soldaten. Norm-/Quellenanker: WBO, WDO, SG, SVG."
 ---
 
-# Mandantenbrief Soldat verständlich
+# Mandantenbrief Soldat — Verständlich erläutern
+
+## Fachlicher Kontext
+
+Soldaten sind oft mit komplexen Rechtssituationen konfrontiert, ohne juristische Ausbildung. Der Mandantenbrief muss verständlich, klar strukturiert und handlungsorientiert sein — ohne Fachvokabular ohne Erklärung.
+
+Kernformat: Situation → Was bedeutet das für Sie → Ihre Optionen → Empfehlung → Fristen.
+
+## Einschlägige Normen und Quellen
+
+- WBO — Verfahrensrechte
+- WDO — Disziplinar
+- SG — Statusrecht
+- SVG — Versorgung
+- BBesG — Besoldung
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Sachverhaltsaufnahme — Startfragen
+
+- Was soll dem Soldaten erklärt werden?
+- Welcher Bildungsstand und Vorwissen darf angenommen werden?
+- Soll ein Empfehlungsschreiben oder eine kurze Erklärung entstehen?
+- Gibt es spezifische Dokumente, auf die Bezug genommen werden soll?
 
 ## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Mandantenbrief Soldat verständlich: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+### Schritt 1 — Sprachliche Anforderungen
+
+Kein Fachjargon ohne Erklärung.
+Kurze Sätze, aktive Formulierungen.
+Konkrete Zahlen und Fristen.
+Klare Handlungsempfehlungen (Bullet Points).
+Worst-Case und Best-Case nennen.
+
+### Schritt 2 — Standardformat Mandantenbrief
+
+1. Ihre Situation: kurze sachliche Zusammenfassung.
+2. Was das bedeutet: rechtliche Konsequenzen in Alltagssprache.
+3. Ihre Optionen: A, B, C — mit Pro/Contra.
+4. Empfehlung: Prioritätsmaßnahme.
+5. Fristen und nächste Schritte.
+
+### Schritt 3 — Typische Themen für Mandantenbriefe
+
+Beschwerde gegen Versetzung: 'Sie können Widerspruch einlegen — Frist ist X.'
+Rückforderung Ausbildungskosten: 'Die Bundeswehr will Y zurück — hier ist was Sie tun können.'
+Disziplinarverfahren: 'Sie werden beschuldigt — Ihre Rechte sind...'
+
+### Schritt 4 — Rechtssicherheitshinweise
+
+Immer darauf hinweisen: 'Dies ist eine Ersteinschätzung, kein verbindlicher Rechtsrat.'
+Auf weitergehende anwaltliche Beratung hinweisen.
+Datum und Aktualitätsvorbehalt.
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Vorlage: Mandantenbrief-Format für Disziplinarfall
+- Vorlage: Mandantenbrief-Format für Besoldungsstreit
+- Vorlage: Mandantenbrief-Format für Entlassung
 
 ## Quellenhygiene
+
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/wbo/ — WBO
+- https://www.gesetze-im-internet.de/sg/ — SG
+- https://www.bundeswehr.de
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

@@ -1,38 +1,105 @@
 ---
 name: versetzung-kommandierung-abordnung
-description: "Versetzung Kommandierung Abordnung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
+description: "Versetzung, Kommandierung, Abordnung: prüft SG §§ 22–27, Voraussetzungen, Rechtsbehelfe und Besoldungsfolgen. Norm-/Quellenanker: SG §§ 22–27, WBO, TGV."
 ---
 
-# Versetzung Kommandierung Abordnung
+# Versetzung, Kommandierung und Abordnung
+
+## Fachlicher Kontext
+
+Versetzung (§ 22 SG), Kommandierung (§ 24 SG) und Abordnung sind die häufigsten organisatorischen Maßnahmen in der Bundeswehr. Sie unterscheiden sich in Dauer, Zweck und Rechtsfolgen.
+
+Der Soldat hat Rechtsschutz (WBO), Versetzungen müssen dienstlich notwendig sein und dürfen nicht willkürlich erfolgen.
+
+## Einschlägige Normen und Quellen
+
+- § 22 SG — Versetzung
+- § 24 SG — Kommandierung
+- § 25 SG — Abordnung (zivile Beschäftigte)
+- WBO — Beschwerderecht
+- TGV, BUKG — Besoldungsfolgen
+- Art. 6 GG — Familienschutz
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Sachverhaltsaufnahme — Startfragen
+
+- Welche Maßnahme liegt vor (Versetzung, Kommandierung, Abordnung)?
+- Ist die Maßnahme dienstlich notwendig oder erscheint sie willkürlich?
+- Familiäre Belange berücksichtigt?
+- Frist WBO-Beschwerde noch offen?
+- Besoldungs- und Umzugsfolgen?
 
 ## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Versetzung Kommandierung Abordnung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+### Schritt 1 — Versetzung § 22 SG
+
+Dauerhafter Wechsel des Dienstortes.
+Voraussetzung: dienstliches Interesse.
+Personalrat (BPersVG) oder Vertrauensmann: nur für zivile Beschäftigte relevant.
+Schutz Familienleben Art. 6 GG: berücksichtigen, aber kein absolutes Recht.
+
+### Schritt 2 — Kommandierung § 24 SG
+
+Vorübergehende Zuweisung zu anderer Einheit/Dienststelle.
+Regelmäßig ohne Umzugszweck.
+Trennungsgeld TGV: je nach Dauer und Entfernung.
+Keine dauerhafte Statusänderung.
+
+### Schritt 3 — Rechtsbehelfe
+
+WBO-Beschwerde gegen Versetzungsverfügung: 1 Monat.
+Vollzugsaussetzung § 9 WBO sofort beantragen (bei drohendem Umzug).
+Inhalt der Beschwerde: fehlende dienstliche Notwendigkeit, Willkür, Verstoß Art. 6 GG.
+Gerichtlicher Antrag TDG.
+
+### Schritt 4 — Besoldungs- und Sozialfolgen
+
+Versetzung → BUKG-Ansprüche (Umzugszusage einholen!).
+Kommandierung → TGV (Trennungsgeld).
+Beihilfe für Familie: ggf. Anpassung.
+Schule der Kinder: Berücksichtigung bei Versetzungsentscheidung?
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Tabelle: Versetzung vs. Kommandierung vs. Abordnung
+- Muster-WBO-Beschwerde gegen Versetzung
+- Checkliste: Umzugszusage und BUKG bei Versetzung
 
 ## Quellenhygiene
+
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/sg/ — §§ 22–27 SG
+- https://www.gesetze-im-internet.de/wbo/ — WBO
+- https://www.gesetze-im-internet.de/tgv/ — TGV
+- https://www.bverwg.de
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

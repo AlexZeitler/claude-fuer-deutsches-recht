@@ -1,45 +1,103 @@
 ---
-name: bwbes-neu-002-wehrsold-freiwilliger-wehrdienst-und-unterhaltssic
-description: "Bundeswehrrecht: Wehrsold freiwilliger Wehrdienst und Unterhaltssicherung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: bwbes-neu-002-wehrsold-freiwilliger-wehrdienst-und
+description: "Wehrsold FWD Unterhaltssicherung: prüft WSG, UhSiG, Höhe, Verfahren und Schnittstellen SGB. Norm-/Quellenanker: WSG, UhSiG, § 58b SG."
 ---
 
-# Bundeswehrrecht: Wehrsold freiwilliger Wehrdienst und Unterhaltssicherung
+# Wehrsold, freiwilliger Wehrdienst und Unterhaltssicherung
 
-## Aufgabe
+## Fachlicher Kontext
 
-Dieser Skill bearbeitet **Wehrsold freiwilliger Wehrdienst und Unterhaltssicherung** im Bereich **Bundeswehrrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Der freiwillige Wehrdienst (FWD, § 58b SG, 7–23 Monate) wurde nach Aussetzung der allgemeinen Wehrpflicht eingeführt. Freiwillige erhalten Wehrsold nach WSG. Das UhSiG sichert den Verdienstausfallausgleich für Arbeitnehmer und Selbstständige.
 
-## Kaltstart in 6 Fragen
+Schnittstellen mit Sozialrecht (SGB II/III, GRV) sind komplex; FWD-Zeiten zählen als Pflichtbeitragszeiten.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Einschlägige Normen und Quellen
 
-## Prüfprogramm
+- WSG — Wehrsoldgesetz
+- UhSiG — Unterhaltssicherungsgesetz
+- § 58b SG — Freiwilliger Wehrdienst
+- SGB VI § 3 — Pflichtbeitragszeiten FWD
+- § 3 Nr. 5 EStG — Steuerfreiheit Wehrsold
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+## Einsatz
 
-## Typische Fallen
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+## Sachverhaltsaufnahme — Startfragen
 
-## Output
+- FWD, Reserveübung oder Spannungsfall-Wehrdienst?
+- Arbeitnehmer oder Selbstständiger — welche UhSiG-Leistung?
+- Wurde Unterhaltssicherung beantragt und in welcher Höhe?
+- Streit über Berechnung oder Auszahlung?
+- Rentenversicherungszeiten korrekt erfasst?
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+## Prüf- und Arbeitslogik
+
+### Schritt 1 — Wehrsold WSG
+
+Staffelung nach Dienstgrad und Dienstzeit.
+FWD: 7–23 Monate § 58b SG, danach ggf. SaZ.
+Sachleistungen: Verpflegung, Unterkunft, Bekleidung.
+Steuerfreiheit § 3 Nr. 5 EStG.
+
+### Schritt 2 — Unterhaltssicherung UhSiG
+
+Anspruchsberechtigte: Arbeitnehmer, Selbstständige, Landwirte.
+Höhe: Netto-Monatseinkommen abzüglich Wehrsold.
+Selbstständige: Einkommensnachweise 3 Jahre.
+Antrag: Karrierecenter/BAPersBw.
+
+### Schritt 3 — Sozialrecht-Schnittstellen
+
+SGB VI § 3: FWD als Pflichtbeitragszeiten GRV.
+SGB II/III: ALG-Anwartschaft nach FWD prüfen.
+Kindergeld: ggf. fortgezahlt während FWD.
+Krankenversicherung: Heilfürsorge während FWD, danach PKV-Wechsel.
+
+### Schritt 4 — Rechtsbehelfe
+
+Widerspruch gegen UhSiG-Bescheid: 1 Monat.
+Klage: VG (öffentlich-rechtliche Leistung).
+WSG-Streit: WBO-Beschwerde oder VwGO?
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Tabelle: Wehrsold-Stufen FWD nach Dienstgrad
+- Berechnungsschema UhSiG (Arbeitnehmer/Selbstständiger)
+- Checkliste: Unterlagen UhSiG-Antrag
+
+## Quellenhygiene
+
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/wsg/ — WSG
+- https://www.gesetze-im-internet.de/uhsig/ — UhSiG
+- https://www.gesetze-im-internet.de/sg/ — § 58b SG
+- https://www.bundeswehr.de
+
+## Qualitätsgate
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

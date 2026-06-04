@@ -1,38 +1,102 @@
 ---
 name: social-media-soldat-dienstpflichten
-description: "Social Media Soldat Dienstpflichten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
+description: "Social Media und Dienstpflichten Soldat: prüft Mäßigungsgebot § 7a SG, Treuepflicht, Disziplinarrecht und Grenzen. Norm-/Quellenanker: §§ 7 und 7a SG, Art. 5 GG, BVerwG."
 ---
 
-# Social Media Soldat Dienstpflichten
+# Social Media und Dienstpflichten des Soldaten
+
+## Fachlicher Kontext
+
+Soldaten haben auch in sozialen Medien Dienstpflichten: politisches Mäßigungsgebot, Treuepflicht, Verschwiegenheit. Gleichzeitig ist die Meinungsfreiheit (Art. 5 GG) zu beachten.
+
+Disziplinarrechtliche Konsequenzen drohen bei extremistischen Äußerungen, VS-Verletzungen, Diskriminierung oder ehrverletzendem Verhalten gegenüber Kameraden.
+
+## Einschlägige Normen und Quellen
+
+- § 7 SG — Treuepflicht
+- § 7a SG — Politisches Mäßigungsgebot
+- § 17 SG — Verschwiegenheitspflicht (außerdienstlich)
+- Art. 5 GG — Meinungsfreiheit
+- AGG, SoldGG — Diskriminierungsverbot
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Sachverhaltsaufnahme — Startfragen
+
+- Was wurde gepostet (Inhalt, Plattform)?
+- War es dienstlich oder außerdienstlich?
+- Ist der Soldat als Bundeswehrangehöriger erkennbar?
+- Wurde VS-Inhalt oder dienstliche Information geteilt?
+- Liegt extremistische, diskriminierende oder kameradschaftsverletzende Äußerung vor?
 
 ## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Social Media Soldat Dienstpflichten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+### Schritt 1 — Mäßigungsgebot § 7a SG in sozialen Medien
+
+Auch außerdienstliche Äußerungen in sozialen Medien: § 7a SG gilt.
+Erkennbarkeit als Bundeswehrsoldat: verstärkt die Bindung.
+Abgrenzung: Satire und Meinungsäußerung Art. 5 GG vs. politische Hetze.
+BVerwG: Verhältnismäßigkeitsabwägung erforderlich.
+
+### Schritt 2 — Verschwiegenheitspflicht
+
+§ 17 SG: keine dienstlichen Informationen offenbaren.
+VS-Inhalte: Strafbarkeit nach SÜG, StGB (Landesverrat, Geheimnisverrat).
+Fotos aus Einsätzen: taktische, personenbezogene Inhalte nicht veröffentlichen.
+Soziale Medien gelten als öffentlich!
+
+### Schritt 3 — Disziplinarrechtliche Konsequenzen
+
+Verstöße → einfaches oder gerichtliches Disziplinarverfahren.
+Schweregrad: einmalige Entgleisung → Verweis; systematisch/schwerwiegend → gerichtliches Verfahren.
+Verhältnismäßigkeit: öffentliche Erkennbarkeit als Bundeswehr-Soldat erhöht Schwere.
+
+### Schritt 4 — Meinungsfreiheit Art. 5 GG
+
+Art. 5 Abs. 1 GG: Meinungsfreiheit gilt auch für Soldaten.
+Einschränkung: allgemeines Gesetz (hier § 7a SG) als Schranke.
+BVerwG: strenge Verhältnismäßigkeitsprüfung bei Disziplinarmaßnahmen wegen Social-Media-Posts.
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Checkliste: Social-Media-Prüfung vor Posting
+- Tabelle: Erlaubt vs. Verboten für Soldaten in sozialen Medien
+- Prüfschema: Disziplinarmaßnahme vs. Meinungsfreiheit
 
 ## Quellenhygiene
+
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/sg/ — §§ 7, 7a, 17 SG
+- https://www.bverfg.de — Art. 5 GG
+- https://www.bverwg.de
+- https://dejure.org/gesetze/SG/7a.html
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

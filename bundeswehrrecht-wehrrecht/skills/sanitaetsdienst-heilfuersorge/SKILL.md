@@ -1,38 +1,102 @@
 ---
 name: sanitaetsdienst-heilfuersorge
-description: "Sanitätsdienst Heilfürsorge: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
+description: "Sanitätsdienst und Heilfürsorge: prüft truppenärztliche Versorgung, Leistungsumfang, Ablehnung und Rechtsbehelfe. Norm-/Quellenanker: BBesG § 70, SVG §§ 69–74, SG § 30."
 ---
 
-# Sanitätsdienst Heilfürsorge
+# Sanitätsdienst und Heilfürsorge
+
+## Fachlicher Kontext
+
+Der Bundeswehr-Sanitätsdienst stellt truppenärztliche Versorgung für aktive Soldaten sicher. Leistungsumfang: ambulante und stationäre Behandlung, Arzneimittel, Heil- und Hilfsmittel.
+
+Probleme: Ablehnung von Behandlungen, Wahlleistungen, externe Spezialisten, WDB-Heilbehandlung nach Entlassung.
+
+## Einschlägige Normen und Quellen
+
+- BBesG § 70 — Heilfürsorge
+- SVG §§ 69–74 — Heilbehandlung WDB
+- SG § 30 — Fürsorgepflicht
+- ZSanDBw — Sanitätsdienstvorschriften
+- GOÄ/GOZ — Gebührenordnungen
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Sachverhaltsaufnahme — Startfragen
+
+- Aktiver Soldat oder entlassener (WDB)?
+- Welche Leistung wurde abgelehnt?
+- Wahlleistung oder Regelleistung?
+- Spezialist extern erforderlich?
+- WDB-Heilbehandlung nach Entlassung?
 
 ## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Sanitätsdienst Heilfürsorge: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+### Schritt 1 — Truppenärztliche Grundversorgung
+
+Ambulant: Sanitätszentren (SanZ), Truppenärzte.
+Stationär: Bundeswehrkrankenhäuser (BwKrhs).
+Überweisung für Spezialisten: Genehmigungspflicht.
+Notfall: jede Behandlung, Kosten nachträglich geltend machen.
+
+### Schritt 2 — Leistungsumfang und Genehmigung
+
+Notwendige Behandlungen: erstattungsfähig ohne Einschränkung.
+Wahlleistungen (Chefarzt, Einzelzimmer): Antrag, Zuzahlung.
+Externe Spezialisten: Überweisung und Genehmigung erforderlich.
+Ablehnung: WBO-Beschwerde.
+
+### Schritt 3 — WDB-Heilbehandlung § 69 SVG
+
+Anerkannte WDB: Heilbehandlung auf Bundeskosten, zeitlich unbegrenzt.
+Antrag: BAPersBw.
+Keine Vorabgenehmigung bei Notfall.
+Abgrenzung: WDB-Folge vs. eigenständige neue Erkrankung.
+
+### Schritt 4 — Rechtsbehelfe
+
+Ablehnung Heilfürsorge: WBO-Beschwerde, dann ggf. VG.
+SVG-Heilbehandlung: Widerspruch + Sozialgericht.
+PKV-Streit nach Entlassung: Zivilgericht.
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Tabelle: Leistungsarten Sanitätsdienst vs. SVG-Heilbehandlung
+- Checkliste: Genehmigung externer Spezialist
+- Muster: Antrag WDB-Heilbehandlung
 
 ## Quellenhygiene
+
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/bbesg/ — § 70 BBesG
+- https://www.gesetze-im-internet.de/svg/ — §§ 69–74 SVG
+- https://www.bundeswehr.de/de/organisation/streitkraefte/sanitaetsdienst
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

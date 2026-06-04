@@ -1,38 +1,112 @@
 ---
 name: besoldung-zulagen-auslandsverwendungszuschlag
-description: "Besoldung Zulagen Auslandsverwendungszuschlag: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
+description: "Besoldung, Zulagen, AVZ: prüft BBesG, AVZ-Berechnung, Erschwernis- und Einsatzzulagen sowie Rückforderungen. Norm-/Quellenanker: BBesG §§ 56–58, EZulV, AuslVZV."
 ---
 
-# Besoldung Zulagen Auslandsverwendungszuschlag
+# Besoldung, Zulagen und Auslandsverwendungszuschlag
+
+## Fachlicher Kontext
+
+Soldaten erhalten Grundgehalt nach BBesG (A-Besoldung) zuzüglich Zulagen. Bei Auslandseinsätzen kommt der AVZ hinzu (§§ 56–58 BBesG), gestaffelt nach Gefährdungsstufen (bis ca. 110 €/Tag).
+
+Häufige Fehler: Fehlberechnungen beim AVZ, nicht ausgezahlte Erschwerniszulagen, Rückforderungen nach fehlerhafter Auszahlung.
+
+## Einschlägige Normen und Quellen
+
+- BBesG — Bundesbesoldungsgesetz
+- §§ 56–58 BBesG — Auslandsverwendungszuschlag (AVZ)
+- EZulV — Erschwerniszulagenverordnung
+- AuslVZV — Auslandsverwendungszulagenverordnung
+- § 9a BBesG — Rückforderung
+- EinsatzWVG — Einsatzweiterverwendungsgesetz
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Sachverhaltsaufnahme — Startfragen
+
+- Welche Besoldungsgruppe und welcher Dienstgrad?
+- Handelt es sich um Auslandseinsatz, und welche Einsatzregion?
+- Welche Zulagen werden beansprucht oder sind streitig?
+- Liegt ein Rückforderungsbescheid vor?
+- Wurden Einsatztage korrekt berechnet?
+- Gibt es einen Widerspruch gegen eine Besoldungsmitteilung?
 
 ## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Besoldung Zulagen Auslandsverwendungszuschlag: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+### Schritt 1 — Grundgehalt und Besoldungsgruppe
+
+Anlage IV BBesG: Grundgehaltstabellen nach Gruppen und Stufen.
+Beförderung → sofortiger Gruppenwechsel.
+Stufenaufstieg: § 27 BBesG erfahrungsabhängig (2–3 Jahre/Stufe).
+Fehler: falsche Stufenzuordnung bei Einstellung prüfen.
+
+### Schritt 2 — Auslandsverwendungszuschlag §§ 56–58 BBesG
+
+Stufen 1–7 nach AuslVZV: abhängig von Gefahrenlage.
+Tageweise Berechnung für jeden Einsatztag.
+Abgrenzung: AVZ (Einsatz) vs. Auslandsdienstbezüge § 52 BBesG (stationäre Verwendung).
+Fehler: falsche Stufenzuordnung → Nachforderung (Ausschlussfrist beachten!).
+
+### Schritt 3 — Erschwernis- und Sonderzulagen EZulV
+
+§§ 47–50 BBesG i.V.m. EZulV: Fallschirmspringer, Kampfschwimmer, ABC, Heeresflugzeugführer.
+Voraussetzung: aktive Ausübung der qualifizierten Tätigkeit.
+Wegfall bei Verwendungswechsel → sofort, keine Übergangsfrist ohne Rechtsgrundlage.
+
+### Schritt 4 — Rückforderung § 9a BBesG
+
+Überzahlung grundsätzlich rückforderbar.
+Gutgläubiger Verbrauch schützt: kein Rückforderungsanspruch.
+Bösgläubigkeit: Soldat wusste oder hätte wissen müssen.
+Billigkeitserlass § 12 Abs. 2 BBesG: Ratenzahlung, Stundung.
+
+### Schritt 5 — Rechtsbehelfe
+
+Widerspruch gegen Besoldungsbescheid: 1 Monat Zustellung.
+Klage: VG (Besoldungsstreitigkeiten).
+Verjährung: 3 Jahre, Ausschlussfristen beachten.
+Parallel: Billigkeitserlass beantragen.
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Tabelle: AVZ-Gefährdungsstufen und Tagessätze (aktuell prüfen)
+- Berechnungsschema AVZ für Einsatzzeitraum
+- Checkliste: Unterlagen für Besoldungswiderspruch
 
 ## Quellenhygiene
+
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/bbesg/ — BBesG §§ 56–58
+- https://www.gesetze-im-internet.de/ezulv/ — EZulV
+- https://www.gesetze-im-internet.de/auslvzv/ — AuslVZV
+- https://www.bverwg.de
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

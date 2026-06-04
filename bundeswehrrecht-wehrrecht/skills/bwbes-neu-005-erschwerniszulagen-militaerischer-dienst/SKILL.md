@@ -1,45 +1,101 @@
 ---
 name: bwbes-neu-005-erschwerniszulagen-militaerischer-dienst
-description: "Bundeswehrrecht: Erschwerniszulagen militärischer Dienst mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Erschwerniszulagen militärischer Dienst: prüft EZulV, Anspruchsvoraussetzungen, Wegfall und Rückforderung. Norm-/Quellenanker: BBesG §§ 47–50, EZulV."
 ---
 
-# Bundeswehrrecht: Erschwerniszulagen militärischer Dienst
+# Erschwerniszulagen für militärischen Dienst
 
-## Aufgabe
+## Fachlicher Kontext
 
-Dieser Skill bearbeitet **Erschwerniszulagen militärischer Dienst** im Bereich **Bundeswehrrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Soldaten in bestimmten Verwendungen erhalten Erschwerniszulagen: Fallschirmspringer, Kampfschwimmer, Minenräumer, ABC-Schutz, Heeresfliegerpersonal. Voraussetzung: aktive Ausübung der qualifizierten Tätigkeit.
 
-## Kaltstart in 6 Fragen
+Wegfall der Verwendung führt oft zum sofortigen Wegfall der Zulage — Rückforderung nur bei Bösgläubigkeit.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Einschlägige Normen und Quellen
 
-## Prüfprogramm
+- §§ 47–50 BBesG — Zulagen für Erschwernisse
+- EZulV — Erschwerniszulagenverordnung
+- § 9a BBesG — Rückforderung Bezüge
+- ZDv — Verwendungsbestimmungen für besondere Tätigkeiten
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+## Einsatz
 
-## Typische Fallen
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+## Sachverhaltsaufnahme — Startfragen
 
-## Output
+- Welche Erschwerniszulage beansprucht oder weggefallen?
+- Welche Tätigkeit liegt vor (Fallschirmjäger, ABC, Taucher)?
+- Liegen Voraussetzungen der EZulV vor?
+- Rückforderungsbescheid erlassen?
+- War Soldat gutgläubig?
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+## Prüf- und Arbeitslogik
+
+### Schritt 1 — Anspruchsvoraussetzungen EZulV
+
+EZulV § 2 ff.: Zulage nur bei aktiver Ausübung.
+Fallschirmspringen: Mindestanzahl Sprünge/Jahr.
+Kampfschwimmer: Tauchschein und aktive Einsätze.
+Heeresflugzeugführer: aktive Flugverwendung.
+Erfüllungsnachweise prüfen.
+
+### Schritt 2 — Wegfall der Zulage
+
+Verwendungswechsel → Zulage entfällt mit Monatsende.
+Keine auslaufende Zahlung ohne Rechtsgrundlage.
+Mitteilungspflicht des Dienstherrn; ohne Mitteilung: Gutglaubensschutz.
+Übergangsregelungen EZulV beachten.
+
+### Schritt 3 — Rückforderung § 9a BBesG
+
+Überzahlte Zulagen grundsätzlich rückforderbar.
+Gutgläubiger Empfang und Verbrauch: kein Rückforderungsanspruch.
+Bösgläubigkeit: Soldat wusste oder hätte wissen müssen.
+Billigkeitserlass möglich.
+
+### Schritt 4 — Rechtsbehelfe
+
+Widerspruch 1 Monat.
+Klage: VG.
+Parallel: Billigkeitserlass beantragen.
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Tabelle: Erschwerniszulagen nach EZulV (Typen, Voraussetzungen, Höhe)
+- Checkliste: Nachweise für Erschwerniszulage
+- Muster-Widerspruch gegen Rückforderungsbescheid
+
+## Quellenhygiene
+
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/ezulv/ — EZulV
+- https://www.gesetze-im-internet.de/bbesg/ — §§ 47–50 BBesG
+
+## Qualitätsgate
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

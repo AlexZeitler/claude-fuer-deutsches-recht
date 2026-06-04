@@ -1,38 +1,102 @@
 ---
 name: trennungsgeld-umzugskosten-reisekosten
-description: "Trennungsgeld Umzugskosten Reisekosten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
+description: "Trennungsgeld, Umzugskosten, Reisekosten: prüft TGV, BUKG, BRKG im Bundeswehr-Kontext. Norm-/Quellenanker: TGV, BUKG, BRKG."
 ---
 
-# Trennungsgeld Umzugskosten Reisekosten
+# Trennungsgeld, Umzugskosten und Reisekosten
+
+## Fachlicher Kontext
+
+Versetzungen lösen ein komplexes System von Folgeansprüchen aus. Der Soldat muss aktiv Anträge stellen — die Ansprüche entstehen nicht automatisch.
+
+Präklusionsfristen: TGV 6 Monate, BUKG 2 Jahre — unbedingt einhalten.
+
+## Einschlägige Normen und Quellen
+
+- TGV — Trennungsgeldverordnung
+- BUKG — Bundesumzugskostengesetz
+- BRKG — Bundesreisekostengesetz
+- BBesG §§ 12–13 — Reisekostenvergütung
+- SG § 22 — Versetzung
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Sachverhaltsaufnahme — Startfragen
+
+- Versetzungsverfügung und Datum?
+- Umzugszusage § 3 BUKG vorhanden?
+- TGV oder BUKG beansprucht?
+- Reisekosten Dienstreise oder Familienheimfahrt?
+- Rückforderungsbescheid?
 
 ## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Trennungsgeld Umzugskosten Reisekosten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+### Schritt 1 — TGV im Detail
+
+Trennungstagegeld: Betrag pro Tag der Trennung.
+Trennungsübernachtungsgeld: bei Unterkunft am neuen Dienstort.
+Reisegeld: Familienheimfahrten (Höhe nach Entfernung).
+Antrag: spätestens 6 Monate nach Versetzung!
+
+### Schritt 2 — BUKG im Detail
+
+Umzugszusage: vor Umzug, ohne Zusage kein Anspruch!
+Erstattungsfähige Kosten: Transportkosten, Mietentschädigungen, Maklerkosten, Reisekosten Familie.
+Antrag: 2 Jahre nach Umzug.
+Umzugspauschale: anstatt Einzelnachweise möglich.
+
+### Schritt 3 — Reisekosten BRKG
+
+Dienstreisen: Tagegeld (vollständig/gekürzt je nach Abwesenheitsdauer), Übernachtungsgeld, Fahrtkosten.
+Kilometer-Pauschale für Pkw.
+Bahncard: wenn wirtschaftlicher als Volltarif.
+Abgrenzung Dienstreise vs. Familienheimfahrt.
+
+### Schritt 4 — Rückforderung und Rechtsbehelfe
+
+Rückforderung bei Falschangaben: keine Gutgläubigkeit möglich bei wissentlicher Fehlingabe.
+Irrtum: Billigkeitserlass möglich.
+Widerspruch: 1 Monat.
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Fristenübersicht: TGV, BUKG, BRKG
+- Berechnungsbeispiel Trennungsgeld-Antrag
+- Checkliste: Umzugszusage BUKG
 
 ## Quellenhygiene
+
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/tgv/ — TGV
+- https://www.gesetze-im-internet.de/bukg/ — BUKG
+- https://www.gesetze-im-internet.de/brkg/ — BRKG
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

@@ -1,38 +1,105 @@
 ---
 name: fristenkalender-bundeswehrrecht
-description: "Fristenkalender Bundeswehrrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
+description: "Fristenkalender Bundeswehrrecht: systematische Übersicht aller relevanten Fristen nach WBO, WDO, SG, BBesG und VwGO. Norm-/Quellenanker: WBO, WDO, VwGO, SG."
 ---
 
 # Fristenkalender Bundeswehrrecht
 
+## Fachlicher Kontext
+
+Fristversäumnisse sind die häufigste Ursache für Rechtsverluste im Wehr- und Verwaltungsrecht. Dieser Skill gibt einen systematischen Überblick und berechnet Fristen nach Eingabe des Ereignisdatums.
+
+Besonders kritisch: WBO-Frist 1 Monat ab Bekanntgabe; TDG-Antrag nach Beschwerdebescheid; Klage VG 1 Monat nach Widerspruchsbescheid.
+
+## Einschlägige Normen und Quellen
+
+- § 6 WBO — 1 Monat Beschwerde
+- § 17a WBO — Antrag TDG
+- §§ 68–70 VwGO — Widerspruch
+- § 74 VwGO — Klage
+- § 38 WDO — WDO-Fristen
+- § 17 WDO — Ausschlussfrist Disziplinar
+
 ## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Sachverhaltsaufnahme — Startfragen
+
+- Was ist das maßgebliche Ereignis (Bekanntgabe, Zustellung, Bescheid)?
+- Welches Verfahren ist einschlägig (WBO, WDO, VwGO)?
+- Was ist das genaue Datum?
+- Gibt es Hindernisse für Fristwahrung (Krankheit, Urlaub)?
+- Ist Wiedereinsetzung noch möglich?
 
 ## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Fristenkalender Bundeswehrrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+### Schritt 1 — WBO-Fristen Übersicht
+
+§ 6 WBO: 1 Monat ab Kenntnis der Maßnahme.
+§ 17 WBO: 2 Wochen nach Beschwerdebescheid für Antrag TDG.
+§ 23a WBO: Wiedereinsetzung, unverzüglich + max. 2 Wochen.
+§ 9 WBO: Vollzugsaussetzung — jederzeit beantragbar.
+
+### Schritt 2 — VwGO-Fristen
+
+§ 70 VwGO: Widerspruch 1 Monat nach Bescheidzustellung.
+§ 74 VwGO: Klage 1 Monat nach Widerspruchsbescheid.
+§ 60 VwGO: Wiedereinsetzung 2 Wochen ab Wegfall Hindernisses.
+§ 80 Abs. 5 VwGO: Eilantrag jederzeit.
+
+### Schritt 3 — WDO-Fristen
+
+§ 17 WDO: Ausschlussfrist 5 Jahre nach Pflichtverletzung.
+§ 23 WDO: Einspruchsfrist gegen Disziplinarbuße 2 Wochen.
+§ 82 WDO: Berufungsfrist 1 Monat nach Urteil TDG.
+§ 84 WDO: Revisionsfrist 1 Monat.
+
+### Schritt 4 — BBesG/SVG-Fristen
+
+BBesG: Widerspruch 1 Monat, Klage 1 Monat nach Widerspruchsbescheid.
+SVG-Versorgungsanträge: keine starre Frist, aber Verjährung 3 Jahre.
+BUKG: Umzugskosten 2 Jahre nach Umzug.
+TGV: Trennungsgeld 6 Monate nach Versetzung.
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Fristenkalender-Tabelle: alle Fristen im Überblick
+- Berechnungsformular: Datum eingeben → Fristende berechnen
+- Warnsystem: kritische Fristen (< 1 Woche bis Ablauf)
 
 ## Quellenhygiene
+
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/wbo/ — WBO
+- https://www.gesetze-im-internet.de/wdo_2002/ — WDO
+- https://www.gesetze-im-internet.de/vwgo/ — VwGO
+- https://www.bverwg.de
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

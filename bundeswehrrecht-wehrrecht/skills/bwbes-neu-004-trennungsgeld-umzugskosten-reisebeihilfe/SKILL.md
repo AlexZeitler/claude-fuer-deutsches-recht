@@ -1,45 +1,104 @@
 ---
 name: bwbes-neu-004-trennungsgeld-umzugskosten-reisebeihilfe
-description: "Bundeswehrrecht: Trennungsgeld Umzugskosten Reisebeihilfe mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Trennungsgeld, Umzugskosten, Reisebeihilfe: prüft TGV, BUKG, Anspruchsvoraussetzungen, Präklusionsfristen und Rückforderungen. Norm-/Quellenanker: TGV, BUKG, BRKG."
 ---
 
-# Bundeswehrrecht: Trennungsgeld Umzugskosten Reisebeihilfe
+# Trennungsgeld, Umzugskosten und Reisebeihilfe
 
-## Aufgabe
+## Fachlicher Kontext
 
-Dieser Skill bearbeitet **Trennungsgeld Umzugskosten Reisebeihilfe** im Bereich **Bundeswehrrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Versetzungen lösen Ansprüche auf Trennungsgeld (TGV), Umzugskostenvergütung (BUKG) und Reisebeihilfe aus. Typische Fehler: zu späte Beantragung, fehlende Umzugszusage (BUKG), fehlerhafte Berechnung des Trennungsgeldes.
 
-## Kaltstart in 6 Fragen
+Präklusionsfristen sind strikt: TGV-Antrag spätestens 6 Monate nach Versetzung; BUKG-Antrag 2 Jahre nach Umzug.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Einschlägige Normen und Quellen
 
-## Prüfprogramm
+- TGV — Trennungsgeldverordnung
+- BUKG — Bundesumzugskostengesetz
+- BRKG — Bundesreisekostengesetz
+- BBesG §§ 12–13 — Reisekostenvergütung
+- SG § 22 — Versetzung (Auslöser)
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+## Einsatz
 
-## Typische Fallen
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+## Sachverhaltsaufnahme — Startfragen
 
-## Output
+- Liegt Versetzungsverfügung vor? Wann wirksam?
+- Hat der Soldat Umzugszusage § 3 BUKG erhalten?
+- Trennungsgeld oder Umzugskostenvergütung?
+- Wie lange dauert Trennung vom Familienwohnsitz?
+- Familienheimfahrten beansprucht?
+- Droht Rückforderung?
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+## Prüf- und Arbeitslogik
+
+### Schritt 1 — Trennungsgeld TGV
+
+Anspruch: Soldat versetzt, Familienwohnsitz nicht aufgegeben, wohnt am neuen Dienstort.
+Trennungstagegeld, Übernachtungsgeld, Reisegeld (Familienheimfahrten).
+Präklusionsfrist: Antrag spätestens 6 Monate nach Versetzung!
+Dauer: i.d.R. max. 3 Jahre, Verlängerung ausnahmsweise.
+
+### Schritt 2 — Umzugskostenvergütung BUKG
+
+Umzugszusage § 3 BUKG vor dem Umzug — zwingend!
+Erstattungsfähig: Beförderungskosten, Mietentschädigungen, Maklerkosten.
+Antrag: innerhalb 2 Jahre nach Umzug.
+Familie mitgezogen: erhöhte Pauschalen.
+
+### Schritt 3 — Reisekostenvergütung BRKG
+
+Dienstreisen: Tagegeld, Übernachtung, Fahrtkosten.
+Familienheimfahrten im Trennungsgeld: TGV geht vor.
+Auslandseinsatz: AVZ hat Vorrang (lex specialis).
+
+### Schritt 4 — Rückforderung und Rechtsbehelfe
+
+Rückforderung bei Falschangaben oder vorzeitiger Rückkehr.
+Gutglaubensschutz analog BBesG.
+Billigkeitserlass möglich.
+Widerspruch: 1 Monat nach Bescheid.
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Checkliste: Unterlagen BUKG-Antrag
+- Fristen-Übersicht: TGV vs. BUKG
+- Muster-Antrag Trennungsgeld
+
+## Quellenhygiene
+
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/tgv/ — TGV
+- https://www.gesetze-im-internet.de/bukg/ — BUKG
+- https://www.gesetze-im-internet.de/brkg/ — BRKG
+- https://dejure.org/gesetze/TGV
+
+## Qualitätsgate
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

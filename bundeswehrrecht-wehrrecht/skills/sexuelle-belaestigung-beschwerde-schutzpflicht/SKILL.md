@@ -1,38 +1,102 @@
 ---
 name: sexuelle-belaestigung-beschwerde-schutzpflicht
-description: "Sexuelle Belästigung Beschwerde Schutzpflicht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
+description: "Sexuelle Belästigung, Beschwerde, Schutzpflicht: prüft SoldGG, AGG § 3 Abs. 4, SG §§ 10 und 12, Beschwerdewege und Schutzmaßnahmen. Norm-/Quellenanker: SoldGG, AGG, WBO."
 ---
 
-# Sexuelle Belästigung Beschwerde Schutzpflicht
+# Sexuelle Belästigung, Beschwerde und Schutzpflicht
+
+## Fachlicher Kontext
+
+Sexuelle Belästigung ist eine besonders schwere Form der Diskriminierung nach SoldGG und AGG. Dienstherr hat aktive Schutzpflichten. Betroffene haben umfassende Rechte.
+
+Wichtig: mehrere parallele Wege (intern, WBO, Strafrecht) können und sollten gleichzeitig beschritten werden.
+
+## Einschlägige Normen und Quellen
+
+- SoldGG — Soldatinnen- und Soldatengleichbehandlungsgesetz
+- AGG § 3 Abs. 4 — sexuelle Belästigung
+- SG § 12 — Kameradschaft
+- SG § 10 — Fürsorgepflicht Vorgesetzter
+- WBO — Beschwerderecht
+- StGB §§ 177, 184i — strafrechtliche Tatbestände
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Sachverhaltsaufnahme — Startfragen
+
+- Was ist das konkrete Verhalten?
+- Wer ist Täter (Vorgesetzter, Gleichrangiger, Untergebener)?
+- Gibt es Zeugen?
+- Wurde der Vorfall gemeldet?
+- Sind weitere Maßnahmen erforderlich (Trennung, Schutz)?
 
 ## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Sexuelle Belästigung Beschwerde Schutzpflicht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+### Schritt 1 — Rechtliche Einordnung
+
+AGG § 3 Abs. 4: unerwünschtes Verhalten sexueller Natur.
+SoldGG: besonderer Schutz für Soldaten.
+SG § 12: Kameradschaftspflichtverletzung.
+StGB: § 184i (sexuelle Belästigung), § 177 (sexuelle Übergriffe) — parallele Strafverfolgung.
+
+### Schritt 2 — Dienstherr-Schutzpflichten
+
+SoldGG § 13 (analog AGG § 12): Dienstherr muss Schutzmaßnahmen ergreifen.
+Untätigkeit trotz Kenntnis = Pflichtverletzung, Amtshaftung möglich.
+Maßnahmen: Versetzung Täter, Verbote, Disziplinar.
+Dokumentation der Meldung für spätere Ansprüche!
+
+### Schritt 3 — Beschwerdewege
+
+1. Gleichstellungsbeauftragte (SoldGG). 2. Vorgesetzter (wenn nicht Täter). 3. WBO-Beschwerde. 4. BAPersBw — Beschwerde-/Meldestelle. 5. Strafanzeige. 6. AGG-Entschädigungsklage (Frist: 2 Monate! AGG § 15 Abs. 4).
+
+### Schritt 4 — Schutzmaßnahmen und einstweiliger Rechtsschutz
+
+Sofortige räumliche Trennung beantragen.
+Kontaktverbot beantragen.
+WBO § 9 Vollzugsaussetzung.
+Einstweilige Verfügung beim VG (analog § 123 VwGO) gegen weitere Belästigungen.
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Checkliste: Meldung sexueller Belästigung — Schritte
+- Muster-WBO-Beschwerde bei sexueller Belästigung
+- Tabelle: Beschwerdewege und Fristen
 
 ## Quellenhygiene
+
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/soldgg/ — SoldGG
+- https://www.gesetze-im-internet.de/agg/ — AGG
+- https://www.gesetze-im-internet.de/stgb/ — StGB §§ 177, 184i
+- https://www.gesetze-im-internet.de/wbo/ — WBO
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

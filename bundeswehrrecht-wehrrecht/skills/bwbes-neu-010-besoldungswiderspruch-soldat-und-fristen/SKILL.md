@@ -1,45 +1,101 @@
 ---
 name: bwbes-neu-010-besoldungswiderspruch-soldat-und-fristen
-description: "Bundeswehrrecht: Besoldungswiderspruch Soldat und Fristen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Besoldungswiderspruch Soldat: prüft VwGO-Fristen, Form, aufschiebende Wirkung und Klagewege. Norm-/Quellenanker: §§ 68–73 VwGO, BBesG."
 ---
 
-# Bundeswehrrecht: Besoldungswiderspruch Soldat und Fristen
+# Besoldungswiderspruch Soldat und Fristen
 
-## Aufgabe
+## Fachlicher Kontext
 
-Dieser Skill bearbeitet **Besoldungswiderspruch Soldat und Fristen** im Bereich **Bundeswehrrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Besoldungsstreitigkeiten folgen dem VwGO-Weg, nicht der WBO. Der Widerspruch ist Voraussetzung für die Klage (1-Monats-Frist nach Bescheidzustellung).
 
-## Kaltstart in 6 Fragen
+Wichtig: Unterscheidung dienstrechtliche Maßnahme (WBO) vs. Geldzahlungsanspruch (VwGO/VG).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Einschlägige Normen und Quellen
 
-## Prüfprogramm
+- §§ 68–73 VwGO — Widerspruchsverfahren
+- § 74 VwGO — Klagefrist
+- § 80 VwGO — Aufschiebende Wirkung
+- § 9a BBesG — Rückforderung
+- § 6 WBO — Beschwerde (dienstrechtliche Maßnahmen)
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+## Einsatz
 
-## Typische Fallen
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+## Sachverhaltsaufnahme — Startfragen
 
-## Output
+- Was ist Streitgegenstand (Grundgehalt, Zulage, Rückforderung)?
+- Schriftlicher Bescheid vorhanden? Wann zugestellt?
+- Läuft 1-Monats-Frist noch?
+- Aufschiebende Wirkung bei Rückforderung beantragen?
+- Widerspruchsbescheid schon erteilt?
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+## Prüf- und Arbeitslogik
+
+### Schritt 1 — Widerspruchsfrist und Form
+
+§ 70 VwGO: 1 Monat ab Zustellung.
+Schriftlich oder zur Niederschrift bei der Behörde.
+Adressat: BAPersBw oder zuständiges Personalamt.
+Eingang maßgeblich! Wiedereinsetzung § 60 VwGO möglich.
+
+### Schritt 2 — Inhalt des Widerspruchs
+
+Bezeichnung des Bescheides (Datum, Az).
+Anfechtungsbegehren.
+Begründung: Rechtsfehler, Rechenfehler, Ermessensfehler.
+Belege beifügen.
+
+### Schritt 3 — Aufschiebende Wirkung § 80 VwGO
+
+Widerspruch hat grundsätzlich aufschiebende Wirkung.
+Sofortige Vollziehung: Antrag § 80 Abs. 5 VwGO beim VG.
+Ratenzahlung oder Sicherheitsleistung als Alternative.
+
+### Schritt 4 — Klage nach Widerspruchsbescheid
+
+§ 74 VwGO: 1 Monat nach Zustellung Widerspruchsbescheid.
+VG: allgemeine Leistungsklage.
+Kostentragung: §§ 161 ff. VwGO.
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Muster-Widerspruch gegen Besoldungsbescheid
+- Fristenplan: Widerspruch → Widerspruchsbescheid → Klage
+- Entscheidungsbaum: WBO oder VwGO-Widerspruch?
+
+## Quellenhygiene
+
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/vwgo/ — VwGO
+- https://www.gesetze-im-internet.de/bbesg/ — BBesG
+- https://www.bverwg.de
+
+## Qualitätsgate
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

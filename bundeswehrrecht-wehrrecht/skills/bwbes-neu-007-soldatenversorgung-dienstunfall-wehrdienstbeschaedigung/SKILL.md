@@ -1,45 +1,105 @@
 ---
-name: bwbes-neu-007-soldatenversorgung-dienstunfall-wehrdienstbeschaed
-description: "Bundeswehrrecht: Soldatenversorgung Dienstunfall Wehrdienstbeschädigung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: bwbes-neu-007-soldatenversorgung-dienstunfall
+description: "Dienstunfall und WDB: prüft § 27 SVG, Kausalitätsmaßstab, Leistungsarten und Verfahren. Norm-/Quellenanker: SVG §§ 27–38, SGB XIV."
 ---
 
-# Bundeswehrrecht: Soldatenversorgung Dienstunfall Wehrdienstbeschädigung
+# Soldatenversorgung: Dienstunfall und Wehrdienstbeschädigung
 
-## Aufgabe
+## Fachlicher Kontext
 
-Dieser Skill bearbeitet **Soldatenversorgung Dienstunfall Wehrdienstbeschädigung** im Bereich **Bundeswehrrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Eine WDB liegt vor, wenn ein Soldat durch wehrdienstliche Verrichtung einen Körperschaden erleidet (§ 27 SVG). Kausalitätsmaßstab: 'hinreichende Wahrscheinlichkeit' (> 50%). Bei Auslandseinsätzen: erleichterte Kausalitätsvermutung.
 
-## Kaltstart in 6 Fragen
+Das Verfahren ist komplex: BAPersBw, Versorgungsämter, ggf. Sozialgerichte.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Einschlägige Normen und Quellen
 
-## Prüfprogramm
+- § 27 SVG — Wehrdienstbeschädigung
+- §§ 30–38 SVG — Versorgungsleistungen
+- §§ 63a–63h SVG — Einsatzversorgung
+- SGB XIV — Soziales Entschädigungsrecht (ab 2024)
+- OEG — Opferentschädigungsgesetz (Abgrenzung)
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+## Einsatz
 
-## Typische Fallen
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+## Sachverhaltsaufnahme — Startfragen
 
-## Output
+- Was ist der Schaden (körperlich, psychisch, PTBS)?
+- Wie und wann entstanden (Unfall, schleichend, Einsatz)?
+- Besteht Zusammenhang mit Wehrdienst?
+- Welche Leistungen beansprucht (Ausgleich, Rente, Heilbehandlung)?
+- WDB bereits anerkannt oder streitig?
+- Gutachterlicher Streit über Kausalität?
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+## Prüf- und Arbeitslogik
+
+### Schritt 1 — Tatbestand WDB § 27 SVG
+
+Schädigungsfolge: körperliche, seelische oder geistige Gesundheitsstörung.
+Wehrdienstliche Verrichtung: Ausübung des Wehrdienstes oder damit zusammenhängende Tätigkeit.
+Kausalität: 'hinreichende Wahrscheinlichkeit'.
+Ausschluss: vorsätzliche Selbstschädigung.
+
+### Schritt 2 — Kausalitätsprüfung
+
+Vollbeweis für Schaden; Wahrscheinlichkeitsbeweis für Kausalität.
+Gutachten: BwKrhs, externer Gutachter.
+Gegengutachten bei Ablehnung beauftragen.
+Vorerkrankungen: Mitverursachung ausreichend (§ 27 Abs. 3 SVG).
+
+### Schritt 3 — Leistungsarten SVG
+
+§ 85 SVG: Ausgleich/Rente nach MdE.
+Grundrente §§ 30 ff. SVG analog BVG.
+Heilbehandlung kostenlos.
+Pflegezulage, Schwerstbeschädigtenzulage bei hohem GdS.
+
+### Schritt 4 — Verfahren und Rechtsbehelfe
+
+Antrag: BAPersBw Versorgungsreferat.
+Gutachtenverfahren, Recht auf Gegengutachten.
+Widerspruch 1 Monat.
+Klage: Sozialgericht (seit SGB XIV 2024 prüfen).
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Prüfschema: WDB § 27 SVG (Schaden → Tätigkeit → Kausalität)
+- Checkliste: Unterlagen WDB-Antrag
+- Tabelle: Leistungsarten nach SVG und MdE-Graden
+
+## Quellenhygiene
+
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/svg/ — SVG §§ 27–38
+- https://www.gesetze-im-internet.de/sgb_xiv/ — SGB XIV
+- https://www.bverwg.de
+- https://www.bundessozialgericht.de
+
+## Qualitätsgate
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

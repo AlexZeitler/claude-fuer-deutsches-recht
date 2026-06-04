@@ -1,38 +1,103 @@
 ---
 name: disziplinarverfahren-intake
-description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Disziplinarverfahren Intake."
+description: "Disziplinarverfahren Intake: strukturierte Aufnahme, Priorisierung, Ausgabe im Thema Disziplinarverfahren. Norm-/Quellenanker: WDO, SG, BVerwG Wehrdienstsenat."
 ---
 
 # Disziplinarverfahren Intake
 
+## Fachlicher Kontext
+
+Das Disziplinarverfahren nach WDO beginnt mit einer Pflichtverletzung und kann bis zur Entfernung aus dem Dienst führen. Einfache Maßnahmen liegen beim Disziplinarvorgesetzten; schwere Maßnahmen beim Truppendienstgericht.
+
+Zentral ist die sorgfältige Sachverhaltsaufnahme zu Beginn: Status, Vorwurf, Verfahrensstand, Fristen, Rechtsbeistände.
+
+## Einschlägige Normen und Quellen
+
+- §§ 22–30 WDO — Einfache Disziplinarmaßnahmen
+- §§ 58–77 WDO — Gerichtliches Disziplinarverfahren
+- §§ 46–57 WDO — Untersuchungsverfahren
+- §§ 1–17 WDO — Allgemeine Vorschriften, Fristen
+- § 17 SG — Personalakte
+
 ## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-## Startfragen
-- Was soll sofort entstehen: Kurztriage, Aktenplan, Fragenliste, Memo, Schriftsatz, Vertrag, Formular oder Mandantenbrief?
-- Wo drohen Fristen, Formerfordernisse, Bußgelder, Gebührennachteile, Verfahrensfehler oder irreversible Schritte?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Sachverhaltsaufnahme — Startfragen
+
+- Was ist der Pflichtverletzungsvorwurf?
+- Welches Verfahrensstadium liegt vor (Vorermittlung, förmliches Verfahren, Hauptverhandlung)?
+- Welche Maßnahme droht?
+- Hat der Soldat einen Rechtsbeistand?
+- Welche Fristen laufen?
+- Welche Dokumente liegen vor?
 
 ## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Disziplinarverfahren Intake..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+### Schritt 1 — Sofort-Triage
+
+Verfahrensstadium: einfaches Verfahren (Disziplinarvorgesetzter) oder gerichtliches Verfahren (TDG)?
+Vorwurf: konkreter Tatvorwurf festhalten.
+Fristen: Einleitungsverfügung, Einspruchsfristen, Verhandlungstermin.
+Risikobewertung: Maßnahmenschwere grün/gelb/rot.
+
+### Schritt 2 — Verfahrensrechte des Soldaten
+
+Rechtsbeistand: § 91 WDO, Wahlverteidiger.
+Akteneinsicht: §§ 18–21 WDO.
+Aussageverweigerungsrecht: analog StPO.
+Anwesenheitsrecht bei Beweisaufnahme.
+
+### Schritt 3 — Verteidigungsstrategie
+
+Tatbestandsprüfung: Pflichtnorm, Tatbestand, Rechtswidrigkeit, Schuld.
+Beweislast: WDO § 42: Dienstherr trägt Beweislast.
+Milderungsgründe: WDO § 38.
+Zeitliche Grenzen: Ausschlussfrist § 17 WDO.
+
+### Schritt 4 — Einfache vs. gerichtliche Maßnahmen
+
+Einfache Maßnahmen: Disziplinarvorgesetzter entscheidet (§§ 22–30 WDO).
+Gerichtliche Maßnahmen: TDG entscheidet (§§ 58 ff. WDO).
+Schwelle: gerichtliches Verfahren bei Degradierung, Entfernung.
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Risikoampel: Verfahrensstand und Maßnahmenschwere
+- Fragenliste für Mandantengespräch (Disziplinarverfahren)
+- Tabelle: Einfache vs. gerichtliche Disziplinarmaßnahmen
 
 ## Quellenhygiene
+
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/wdo_2002/ — WDO
+- https://www.bverwg.de — BVerwG Wehrdienstsenat
+- https://openjur.de
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

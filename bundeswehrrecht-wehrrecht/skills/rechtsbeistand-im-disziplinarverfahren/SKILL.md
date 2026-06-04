@@ -1,38 +1,104 @@
 ---
 name: rechtsbeistand-im-disziplinarverfahren
-description: "Rechtsbeistand im Disziplinarverfahren: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
+description: "Rechtsbeistand im Disziplinarverfahren: prüft Verteidigungsrecht § 91 WDO, Bestellungsverfahren, Verteidigungsstrategien und Kosten. Norm-/Quellenanker: WDO §§ 91–92, BRAO."
 ---
 
 # Rechtsbeistand im Disziplinarverfahren
 
+## Fachlicher Kontext
+
+Das Recht auf einen Verteidiger im gerichtlichen Disziplinarverfahren ist ein grundlegendes Verfahrensrecht. § 91 WDO: Soldat kann Rechtsanwalt oder sonstigen Rechtsbeistand bestellen.
+
+Ein erfahrener Verteidiger kennt die Besonderheiten des Truppendienstgerichts (Richter sind Berufsrichter + ehrenamtliche Richter aus der Truppe).
+
+## Einschlägige Normen und Quellen
+
+- § 91 WDO — Recht auf Verteidiger
+- § 92 WDO — Wahlverteidiger, Pflichtverteidiger
+- WDO §§ 18–21 — Akteneinsicht des Verteidigers
+- BRAO — Rechtsanwälte
+- RDGEG — Rechtsdienstleistungsgesetz
+
 ## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Sachverhaltsaufnahme — Startfragen
+
+- Wann wurde Rechtsbeistand bestellt oder soll er bestellt werden?
+- Ist es ein einfaches oder gerichtliches Disziplinarverfahren?
+- Hat der Soldat bereits Unterlagen an den Verteidiger übergeben?
+- Gibt es Prozesskostenhilfe oder Kostentragung durch Dienstherrn?
+- Welche Verfahrensstadien stehen an?
 
 ## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Rechtsbeistand im Disziplinarverfahren: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+### Schritt 1 — Verteidigungsrecht § 91 WDO
+
+§ 91 WDO: Soldat kann sich in gerichtlichem Disziplinarverfahren eines Verteidigers bedienen.
+Zeitpunkt: spätestens nach Einleitungsverfügung, besser früher (Untersuchungsverfahren).
+Pflichtverteidiger: im WDO-Verfahren nicht vorgesehen; Wahlverteidiger.
+
+### Schritt 2 — Aufgaben des Verteidigers
+
+Akteneinsicht §§ 18–21 WDO.
+Teilnahme an Beweisaufnahme (Untersuchungsführer).
+Anwesenheit bei Hauptverhandlung.
+Beweisantragsrecht.
+Schlussplädoyer § 92 WDO.
+
+### Schritt 3 — Kostenregelung
+
+Kosten des Verteidigers: grundsätzlich der Soldat.
+Bei Freispruch: Erstattung durch Bundeskasse (§ 114 WDO analog).
+Prozesskostenhilfe: im WDO-Verfahren eingeschränkt möglich.
+Kostentragung bei Einstellung: analog § 114 WDO.
+
+### Schritt 4 — Strategische Punkte
+
+Frühe Mandatsübernahme: vor Vernehmungen!
+Aussageverweigerung empfehlen bis Akteneinsicht.
+Untersuchungsverfahren: Fehler hier beeinflussen Hauptverhandlung.
+Verzögerungsstrategie: Ausschlussfrist § 17 WDO prüfen.
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Checkliste: Erste Schritte als Verteidiger im WDO-Verfahren
+- Tabelle: Verfahrensstadien und Verteidigungsoptionen
+- Muster-Vollmacht für WDO-Verfahren
 
 ## Quellenhygiene
+
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/wdo_2002/ — WDO §§ 91–92
+- https://www.bverwg.de — BVerwG Wehrdienstsenat
+- https://openjur.de
+- https://www.brak.de
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

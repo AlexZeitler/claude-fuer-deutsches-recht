@@ -1,38 +1,103 @@
 ---
 name: weitere-beschwerde-und-gerichtlicher-antrag-wehrdienstgericht
-description: "Weitere Beschwerde und gerichtlicher Antrag Wehrdienstgericht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
+description: "Weitere Beschwerde und gerichtlicher Antrag TDG: prüft § 16 WBO, § 17 WBO, TDG-Verfahren und BVerwG-Berufung. Norm-/Quellenanker: §§ 16–22a WBO, TDG."
 ---
 
-# Weitere Beschwerde und gerichtlicher Antrag Wehrdienstgericht
+# Weitere Beschwerde und gerichtlicher Antrag beim Wehrdienstgericht
+
+## Fachlicher Kontext
+
+Die weitere Beschwerde (§ 16 WBO) und der Antrag auf gerichtliche Entscheidung (§ 17 WBO) sind die Rechtsmittel, wenn die erste Beschwerde erfolglos war.
+
+Das Truppendienstgericht (TDG) entscheidet über WBO-Anträge. BVerwG-Wehrdienstsenat ist letzte Instanz.
+
+## Einschlägige Normen und Quellen
+
+- § 16 WBO — Weitere Beschwerde
+- § 17 WBO — Antrag auf gerichtliche Entscheidung
+- §§ 19–22a WBO — TDG-Verfahren
+- § 82 WDO — Berufung BVerwG
+- BVerwG Wehrdienstsenat
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Sachverhaltsaufnahme — Startfragen
+
+- Liegt ein ablehnender Beschwerdebescheid vor?
+- Welche Fristen gelten für weitere Beschwerde oder Antrag TDG?
+- Was ist Gegenstand (dienstrechtliche Maßnahme, Disziplinar)?
+- Neue Tatsachen oder Beweise für weiteres Verfahren?
 
 ## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Weitere Beschwerde und gerichtlicher Antrag Wehrdienstgericht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+### Schritt 1 — Weitere Beschwerde § 16 WBO
+
+§ 16 WBO: Weitere Beschwerde an nächst höheren Disziplinarvorgesetzten.
+Frist: 1 Monat nach Zustellung Beschwerdebescheid.
+Ziel: Aufhebung oder Änderung der Ausgangsentscheidung.
+Dann: Antrag TDG § 17 WBO möglich.
+
+### Schritt 2 — Antrag auf gerichtliche Entscheidung § 17 WBO
+
+§ 17 WBO: Antrag beim zuständigen Truppendienstgericht.
+Frist: 2 Wochen nach Beschwerdebescheid (WICHTIG!).
+Form: schriftlich, beim TDG.
+TDG: zweistufig — Kammer und Senat.
+
+### Schritt 3 — TDG-Verfahren §§ 19–22a WBO
+
+Mündliche Verhandlung: grundsätzlich möglich.
+Beweis: Soldaten haben Anwesenheitsrecht.
+Beschluss oder Urteil.
+Berufung: BVerwG Wehrdienstsenat.
+
+### Schritt 4 — BVerwG-Wehrdienstsenat
+
+Revision/Berufung: 1 Monat nach Urteil TDG.
+Zulassungsberufung: nur bei grundsätzlicher Bedeutung.
+BVerwG entscheidet in letzter Instanz.
+Kein weiteres Rechtsmittel nach BVerwG (außer BVerfG).
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Fristen-Tabelle: Beschwerde → Weitere Beschwerde → TDG → BVerwG
+- Muster: Antrag auf gerichtliche Entscheidung § 17 WBO
+- Prüfschema: Welches Rechtsmittel als nächstes?
 
 ## Quellenhygiene
+
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/wbo/ — §§ 16–22a WBO
+- https://www.bverwg.de — BVerwG Wehrdienstsenat
+- https://openjur.de — TDG-Entscheidungen
+- https://dejure.org/gesetze/WBO/17.html
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

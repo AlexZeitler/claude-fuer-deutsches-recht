@@ -1,45 +1,103 @@
 ---
 name: bwbes-neu-015-ruhensregelungen-versorgung-und-erwerbseinkommen
-description: "Bundeswehrrecht: Ruhensregelungen Versorgung und Erwerbseinkommen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Ruhensregelungen Versorgung und Erwerbseinkommen: prüft SVG §§ 53–56, BeamtVG § 68, Anrechnungsgrenzen und Ausnahmen. Norm-/Quellenanker: SVG, BeamtVG analog, BBesG."
 ---
 
-# Bundeswehrrecht: Ruhensregelungen Versorgung und Erwerbseinkommen
+# Ruhensregelungen: Versorgung und Erwerbseinkommen
 
-## Aufgabe
+## Fachlicher Kontext
 
-Dieser Skill bearbeitet **Ruhensregelungen Versorgung und Erwerbseinkommen** im Bereich **Bundeswehrrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Soldatenversorgung (Ruhegehalt, Übergangsgebührnisse) trifft auf Erwerbseinkommen und Rentenbezüge. Ruhensregelungen (§§ 53–56 SVG) können zur erheblichen Kürzung führen.
 
-## Kaltstart in 6 Fragen
+Berufssoldaten im Ruhestand, die eine Erwerbstätigkeit aufnehmen, müssen Anrechnungsgrenzen kennen. Anzeigepflicht gegenüber BAPersBw!
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Einschlägige Normen und Quellen
 
-## Prüfprogramm
+- SVG §§ 53–56 — Ruhensregelungen
+- § 55 SVG — Zusammentreffen Versorgung und Rentenansprüche
+- BeamtVG § 68 — Ruhensregelung (analog)
+- BBesG — Besoldung und Versorgung gleichzeitig
+- SGB VI — Rentenrecht (Schnittstelle)
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+## Einsatz
 
-## Typische Fallen
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+## Sachverhaltsaufnahme — Startfragen
 
-## Output
+- Berufssoldat im Ruhestand mit Erwerbseinkommen?
+- SaZ mit Übergangsgebührnissen und Erwerbstätigkeit?
+- Höhe des Erwerbseinkommens, das angerechnet wird?
+- Rentenansprüche vorhanden (§ 55 SVG)?
+- Wurde Erwerbseinkommen gemeldet?
+- Droht Rückforderung wegen unterlassener Meldung?
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+## Prüf- und Arbeitslogik
+
+### Schritt 1 — Ruhensregelungen §§ 53–56 SVG
+
+§ 53 SVG: Ruhegehalt ruht, soweit Ruhegehalt + Erwerbseinkommen Höchstgrenze übersteigt.
+Höchstgrenze: letztes aktives Grundgehalt + Zulagen (gesetzlich festgelegt).
+Ausnahmen: ehrenamtliche Tätigkeit, soziale Aktivitäten.
+Anzeigepflicht: sofortige Meldung an BAPersBw.
+
+### Schritt 2 — Zusammentreffen Versorgung und Rente § 55 SVG
+
+Versorgung + GRV-Rente: Rente wird auf Versorgung angerechnet.
+Anrechnungsfreier Betrag (Freibetrag).
+Überprüfung: Jahresrentenanpassung kann Ruhens-Grenze verschieben.
+Antrag: BAPersBw jährlich melden.
+
+### Schritt 3 — Übergangsgebührnisse SaZ
+
+§ 5 Abs. 6 SVG: Erwerbseinkommen wird auf Übergangsgebührnisse angerechnet.
+Vollständiger Wegfall möglich bei hohem Einkommen.
+Anzeigepflicht: monatliche Meldung.
+
+### Schritt 4 — Rückforderung und Rechtsbehelfe
+
+Unterlassene Meldung: Überzahlung rückforderbar (kein Gutglaubensschutz!).
+Widerspruch gegen Ruhens-/Rückforderungsbescheid: 1 Monat.
+Klage: VG.
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Tabelle: Ruhensregelungen SVG — Grenzen und Ausnahmen
+- Berechnungsbeispiel: Ruhegehalt + Erwerbseinkommen vs. Höchstgrenze
+- Checkliste: Anzeigepflichten BAPersBw
+
+## Quellenhygiene
+
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/svg/ — SVG §§ 53–56
+- https://dejure.org/gesetze/SVG
+- https://www.bverwg.de
+- https://www.bundeswehr.de/de/organisation/personal/bundesamt-fuer-das-personalmanagement
+
+## Qualitätsgate
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

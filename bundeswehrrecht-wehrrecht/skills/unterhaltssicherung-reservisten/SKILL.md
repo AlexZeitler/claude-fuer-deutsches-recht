@@ -1,38 +1,103 @@
 ---
 name: unterhaltssicherung-reservisten
-description: "Unterhaltssicherung Reservisten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
+description: "Unterhaltssicherung Reservisten: prüft UhSiG, Anspruchsberechtigte, Berechnung, Verfahren und Rechtsbehelfe. Norm-/Quellenanker: UhSiG."
 ---
 
-# Unterhaltssicherung Reservisten
+# Unterhaltssicherung für Reservisten
+
+## Fachlicher Kontext
+
+Das UhSiG sichert den Lebensunterhalt von Arbeitnehmern und Selbstständigen während der Wehrübung. Anspruch: Verdienstausfallausgleich (Netto-Monatseinkommen abzüglich Wehrsold).
+
+Selbstständige müssen Einkommen der letzten 3 Jahre nachweisen; dies ist oft die schwierigste Praxis-Hürde.
+
+## Einschlägige Normen und Quellen
+
+- UhSiG — Unterhaltssicherungsgesetz
+- WSG — Wehrsoldgesetz (Abzug)
+- ArbPlSchG — Arbeitgebererstattung
+- SGB II/III — Schnittstellen
+- SG §§ 60–69 — Dienstleistungspflicht
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Sachverhaltsaufnahme — Startfragen
+
+- Arbeitnehmer oder Selbstständiger?
+- Welche Wehrübung (freiwillig/Pflicht)?
+- Höhe des bisherigen Einkommens?
+- Wurde UhSiG bereits beantragt?
+- Streit über Berechnungsgrundlage?
 
 ## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Unterhaltssicherung Reservisten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+### Schritt 1 — Anspruchsvoraussetzungen
+
+Arbeitnehmer: laufendes Arbeitsverhältnis, Einkommensausfall durch Wehrübung.
+Selbstständige: Einkommenseinbuße durch Abwesenheit.
+FWD: kein UhSiG, aber WSG.
+Pflicht-Heranziehung: UhSiG gilt.
+
+### Schritt 2 — Berechnung Arbeitnehmer
+
+Basis: Netto-Monatseinkommen aus Lohn/Gehalt.
+Abzug: erhaltener Wehrsold.
+Leistung: Differenz.
+Nachweis: Lohnnachweis, letzter Monat vor Einberufung.
+
+### Schritt 3 — Berechnung Selbstständiger
+
+Basis: Durchschnittseinkommen der letzten 3 Jahre (steuerliche Nachweise).
+Besonderheit: nicht der tatsächliche Ausfall, sondern Durchschnitt.
+Streit: Berechnungsjahre, Einkommensart.
+
+### Schritt 4 — Verfahren und Rechtsbehelfe
+
+Antrag: Karrierecenter oder BAPersBw.
+Fristen: Antrag möglichst vor Beginn der Übung.
+Widerspruch gegen ablehnenden Bescheid: 1 Monat.
+Klage: VG.
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Berechnungsschema UhSiG Arbeitnehmer
+- Berechnungsschema UhSiG Selbstständiger
+- Checkliste: Unterlagen für UhSiG-Antrag
 
 ## Quellenhygiene
+
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/uhsig/ — UhSiG
+- https://www.gesetze-im-internet.de/wsg/ — WSG
+- https://www.gesetze-im-internet.de/arb-plschg/ — ArbPlSchG
+- https://www.bundeswehr.de
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

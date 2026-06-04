@@ -1,38 +1,105 @@
 ---
 name: beurteilung-konkurrentenstreit-auswahlentscheidung
-description: "Beurteilung Konkurrentenstreit Auswahlentscheidung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
+description: "Beurteilung, Konkurrentenstreit, Auswahlentscheidung: prüft Beurteilungsfehlerlehre, Bestenauslese, Auswahlvermerk und einstweiligen Rechtsschutz. Norm-/Quellenanker: Art. 33 Abs. 2 GG, § 3 SG, ZDv A-1340/50."
 ---
 
-# Beurteilung Konkurrentenstreit Auswahlentscheidung
+# Beurteilung, Konkurrentenstreit und Auswahlentscheidung
+
+## Fachlicher Kontext
+
+Beurteilungen sind Grundlage für Beförderungen und Verwendungsentscheidungen. Fehlerhafte Beurteilungen blockieren Karrieren; unterlegene Bewerber haben Konkurrentenschutzrecht aus Art. 33 Abs. 2 GG.
+
+Typische Fehler: unzuständiger Beurteiler, fehlende Begründung, Nichtberücksichtigung wesentlicher Leistungen, Verstoß gegen ZDv-Maßstäbe. Einstweiliger Rechtsschutz ist oft zeitkritisch.
+
+## Einschlägige Normen und Quellen
+
+- Art. 33 Abs. 2 GG — Bestenauslese
+- § 3 SG — Ernennungs- und Verwendungsgrundsätze
+- § 23 SG — Personalakte und Beurteilungen
+- ZDv A-1340/50 — Beurteilungsbestimmungen
+- §§ 6, 17 WBO — Beschwerde und gerichtlicher Antrag
+- § 123 VwGO — Einstweiliger Rechtsschutz (analog)
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Sachverhaltsaufnahme — Startfragen
+
+- Welche Beurteilung oder Auswahlentscheidung wird angefochten?
+- Wann wurde die Beurteilung eröffnet (Fristbeginn!)?
+- Welche konkreten Fehler werden gerügt?
+- Gibt es Auswahlentscheidung zugunsten eines Konkurrenten?
+- Ist die Stelle noch unbesetzt (einstweiliger Rechtsschutz sinnvoll)?
+- Soll Besetzungsstopp beantragt werden?
 
 ## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Beurteilung Konkurrentenstreit Auswahlentscheidung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+### Schritt 1 — Beurteilungsfehlerlehre
+
+Dienstherr hat Beurteilungsspielraum: nur Fehler kontrollierbar, nicht Richtigkeit.
+Kontrollfähige Fehler: Unzuständigkeit des Beurteilers, Verfahrensfehler, sachfremde Erwägungen, Widerspruch zum Akteninhalt.
+Nicht prüfbar: Wertung an sich, solange nachvollziehbar.
+
+### Schritt 2 — Auswahlentscheidung und Bestenauslese
+
+Art. 33 Abs. 2 GG: Eignung, Befähigung, fachliche Leistung.
+Aktuelle Beurteilung hat Vorrang vor älteren.
+Gleichwertigkeit: Hilfskriterien zulässig (Vorbildung, Einsatzerfahrung).
+Auswahlvermerk: muss Bewerbervergleich erkennbar machen.
+
+### Schritt 3 — WBO-Beschwerde gegen Beurteilung
+
+Frist: 1 Monat nach Eröffnung (§ 6 WBO).
+Ziel: Aufhebung und Neubeurteilung.
+Gleichzeitig: WBO-Beschwerde gegen Auswahlentscheidung (separate Maßnahme!).
+Eröffnungsprotokoll aufbewahren.
+
+### Schritt 4 — Einstweiliger Rechtsschutz
+
+Antrag auf gerichtliche Entscheidung § 17 WBO beim TDG.
+Besetzungsstopp: TDG kann vorläufig untersagen.
+Sofort handeln: Beförderung schafft vollendete Tatsachen!
+Akteneinsicht beantragen (Auswahlvermerk, Beurteilungen Mitbewerber).
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Muster-WBO-Beschwerde gegen Beurteilung
+- Checkliste: Beurteilungsfehler — Typen und Nachweis
+- Prüfschema: Auswahlentscheidung Art. 33 Abs. 2 GG
 
 ## Quellenhygiene
+
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/sg/ — § 3 SG
+- https://www.bverwg.de — BVerwG 2 WD Beurteilungsrechtsprechung
+- https://dejure.org/gesetze/GG/33.html
+- https://openjur.de
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

@@ -1,38 +1,103 @@
 ---
 name: einsatz-unfall-versorgung-dokumentenplan
-description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Einsatz Unfall Versorgung Dokumentenplan."
+description: "Einsatz, Unfall, Versorgung Dokumentenplan: prüft erforderliche Unterlagen für Einsatz-WDB-Anträge, Fristen und Beweissicherung. Norm-/Quellenanker: SVG §§ 27 und 63a ff., EinsatzWVG."
 ---
 
-# Einsatz Unfall Versorgung Dokumentenplan
+# Einsatz, Unfall, Versorgung — Dokumentenplan
+
+## Fachlicher Kontext
+
+Nach Einsatz und Unfall müssen zahlreiche Dokumente gesichert und rechtzeitig eingereicht werden. Fehlende Unterlagen führen häufig zu Ablehnungen trotz berechtigter Ansprüche.
+
+Der Dokumentenplan stellt sicher, dass alle relevanten Unterlagen systematisch erfasst und dem BAPersBw fristgerecht vorgelegt werden.
+
+## Einschlägige Normen und Quellen
+
+- SVG §§ 27, 63a–63h — WDB und Einsatzversorgung
+- EinsatzWVG — Weiterverwendung
+- § 17 SG — Personalakte und Befunde
+- BAPersBw — Antragsverfahren
+- SGB XIV — ab 2024
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-## Startfragen
-- Was soll sofort entstehen: Kurztriage, Aktenplan, Fragenliste, Memo, Schriftsatz, Vertrag, Formular oder Mandantenbrief?
-- Wo drohen Fristen, Formerfordernisse, Bußgelder, Gebührennachteile, Verfahrensfehler oder irreversible Schritte?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Sachverhaltsaufnahme — Startfragen
+
+- Welcher Schaden ist eingetreten (Verletzung, Erkrankung, PTBS)?
+- Wann und wo ereignete sich der Einsatz/Unfall?
+- Wurden sanitätsdienstliche Befunde dokumentiert?
+- Liegt eine Einsatzbescheinigung vor?
+- Welche Stellen müssen informiert werden?
 
 ## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Einsatz Unfall Versorgung Dokumentenplan..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+### Schritt 1 — Kategorien der Unterlagen
+
+Einsatzbescheinigung: Kontingentführer, Zeitraum, Region, Vorkommnisse.
+Sanitätsdienstliche Befunde: Truppenarzt, SanZ, BwKrhs, externe Ärzte.
+Unfallbericht: Dienstunfallmeldung an BAPersBw.
+Zeugenerklärungen: Kameraden zu Kampfereignissen.
+
+### Schritt 2 — Fristen und Meldepflichten
+
+Dienstunfall: unverzügliche Meldung (spätestens innerhalb von 2 Wochen).
+PTBS/späte Schäden: keine starre Frist, aber frühzeitig melden.
+WDB-Antrag: möglichst innerhalb 2 Jahre nach Schaden.
+EinsatzWVG: nach Entlassung stellen.
+
+### Schritt 3 — Beweissicherung im Einsatz
+
+Einsatztagebuch, Lagekarten, Funkprotokolle.
+Fotos von Verletzungen.
+Ärztliche Erstdokumentation sichern.
+PTBS: psychologische Erstbetreuung dokumentieren lassen.
+
+### Schritt 4 — Einreichung beim BAPersBw
+
+Ansprechpartner: Referat Einsatzversorgung, BAPersBw.
+Vollständige Unterlagen = schnellere Bearbeitung.
+Bestätigung des Eingangs verlangen.
+Widerspruch bei Ablehnung: 1 Monat.
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Dokumenten-Checkliste: Einsatz-WDB-Antrag (vollständige Liste)
+- Muster: Dienstunfallmeldung
+- Zeitstrahl: Fristen nach Einsatz/Unfall
 
 ## Quellenhygiene
+
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/svg/ — SVG §§ 27, 63a ff.
+- https://www.gesetze-im-internet.de/einsatzwvg/ — EinsatzWVG
+- https://www.bundeswehr.de/de/organisation/personal/bundesamt-fuer-das-personalmanagement
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

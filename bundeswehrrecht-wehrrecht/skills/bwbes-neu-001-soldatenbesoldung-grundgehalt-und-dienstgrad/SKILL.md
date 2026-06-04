@@ -1,45 +1,101 @@
 ---
 name: bwbes-neu-001-soldatenbesoldung-grundgehalt-und-dienstgrad
-description: "Bundeswehrrecht: Soldatenbesoldung Grundgehalt und Dienstgrad mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Soldatenbesoldung Grundgehalt Dienstgrad: prüft BBesG-Gruppen, Stufenaufstieg, Dienstgradkorrelation und Rückwirkungsfragen. Norm-/Quellenanker: BBesG Anlagen I, IV, § 27 BBesG."
 ---
 
-# Bundeswehrrecht: Soldatenbesoldung Grundgehalt und Dienstgrad
+# Soldatenbesoldung: Grundgehalt und Dienstgrad
 
-## Aufgabe
+## Fachlicher Kontext
 
-Dieser Skill bearbeitet **Soldatenbesoldung Grundgehalt und Dienstgrad** im Bereich **Bundeswehrrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Das Grundgehalt von Berufssoldaten und Soldaten auf Zeit richtet sich nach der Besoldungsgruppe (A-Besoldung), die mit dem Dienstgrad korrespondiert. Der Stufenaufstieg nach § 27 BBesG ist erfahrungsabhängig.
 
-## Kaltstart in 6 Fragen
+Beförderungen lösen sofortigen Besoldungsgruppenwechsel aus. Fehler bei Stufenzuordnung sind häufig und führen zu Nachzahlungspflichten oder ungerechtfertigten Rückforderungen.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Einschlägige Normen und Quellen
 
-## Prüfprogramm
+- §§ 1–3 BBesG — Geltungsbereich und Grundsätze
+- §§ 27–28 BBesG — Grundgehalt und Stufen
+- Anlage I BBesG — Besoldungsordnung A (Soldaten)
+- Anlage IV BBesG — Grundgehaltstabellen
+- SG § 3 — Ernennung und Dienstgrad
+- § 9a BBesG — Rückforderung
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+## Einsatz
 
-## Typische Fallen
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+## Sachverhaltsaufnahme — Startfragen
 
-## Output
+- Welcher Dienstgrad und welche Besoldungsgruppe?
+- Seit wann in dieser Stufe, und war die Stufenzuordnung bei Einstellung/Beförderung korrekt?
+- Liegt ein Beförderungsbescheid vor? Rückwirkung?
+- Werden Aufwandsentschädigungen oder Stellenzulagen geltend gemacht?
+- Streit über Dienstzeitanrechnung für Erfahrungsstufen?
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+## Prüf- und Arbeitslogik
+
+### Schritt 1 — Besoldungsgruppe nach Dienstgrad
+
+Anlage I BBesG: Mannschaften A4–A6, Unteroffiziere A7–A9, Offiziere A10–A16, Generale B.
+Dienstgradkorrelation aktuell in BBesG prüfen.
+Statuswechsel SaZ → BeruSold: Besoldungsanpassung ab Ernennungsdatum.
+
+### Schritt 2 — Grundgehaltsstufen § 27 BBesG
+
+Stufen 1–8: zeitgebundener Aufstieg (2–3 Jahre/Stufe).
+Anrechnung: frühere Dienstzeiten im öffentl. Dienst, Bundeswehr, Studium § 28 BBesG.
+Fehler: falsche Stufenzuordnung bei Einstellung → Nachzahlungsanspruch.
+
+### Schritt 3 — Beförderung und Rückwirkung
+
+Beförderung wirkt ab Ernennungsdatum.
+Rechtswidrig verzögerte Beförderung: Schadensersatzanspruch möglich.
+Konkurrentenklage: Besetzungsstopp TDG, damit Mitbewerber nicht befördert wird.
+
+### Schritt 4 — Rückforderung § 9a BBesG
+
+Überzahltes Grundgehalt: grundsätzlich rückforderbar.
+Gutgläubiger Verbrauch schützt.
+Billigkeitserlass § 12 Abs. 2 BBesG beantragen.
+Widerspruch 1 Monat nach Bescheid.
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Tabelle: Dienstgrad → Besoldungsgruppe aktuell
+- Berechnungsbeispiel Stufenaufstieg über 10 Jahre
+- Checkliste: Widerspruch gegen Besoldungsmitteilung
+
+## Quellenhygiene
+
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/bbesg/ — BBesG
+- https://dejure.org/gesetze/BBesG
+- https://www.bverwg.de
+
+## Qualitätsgate
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

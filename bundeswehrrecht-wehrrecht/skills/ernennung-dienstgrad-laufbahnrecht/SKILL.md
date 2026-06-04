@@ -1,38 +1,104 @@
 ---
 name: ernennung-dienstgrad-laufbahnrecht
-description: "Ernennung Dienstgrad Laufbahnrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
+description: "Ernennung, Dienstgrad, Laufbahnrecht: prüft SG §§ 1–5, Laufbahngruppen, Beförderungsvoraussetzungen und Konkurrentenklage. Norm-/Quellenanker: SG, SLV, ZDv A-1340."
 ---
 
-# Ernennung Dienstgrad Laufbahnrecht
+# Ernennung, Dienstgrad und Laufbahnrecht
+
+## Fachlicher Kontext
+
+Ernennung und Beförderung erfordern Eignung, Befähigung und fachliche Leistung (Art. 33 Abs. 2 GG). Die SLV regelt Laufbahngruppen (Mannschaften, Unteroffiziere, Offiziere), Voraussetzungen und Wartezeiten.
+
+Fehlende Beförderungen und Fehlentscheidungen bei der Ernennung sind mit WBO-Beschwerde anfechtbar.
+
+## Einschlägige Normen und Quellen
+
+- §§ 1–5 SG — Status und Ernennung
+- SLV — Soldatenlaufbahnverordnung
+- ZDv A-1340 — Laufbahnvorschriften
+- Art. 33 Abs. 2 GG — Bestenauslese
+- §§ 6, 17 WBO — Rechtsbehelfe
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Sachverhaltsaufnahme — Startfragen
+
+- Welcher Dienstgrad und welche Laufbahn?
+- Wurde eine Beförderung abgelehnt oder verzögert?
+- Liegt ein Konkurrentenstreit vor?
+- Welche Eignungsvoraussetzungen sind streitig?
+- Wurden Auswahlentscheidungen dokumentiert?
 
 ## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Ernennung Dienstgrad Laufbahnrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+### Schritt 1 — Ernennungsvoraussetzungen
+
+SG § 4: Ernennung durch Bundesminister der Verteidigung (oder Delegation).
+SLV: Laufbahngruppen und Zugangsbedingungen.
+Dienstgradfolge: geregelt in SLV Anlagen.
+Statusbegründung: Aushändigung der Ernennungsurkunde.
+
+### Schritt 2 — Laufbahngruppen SLV
+
+Mannschaften: Stabsunteroffizier ist Beförderungsziel ohne Offiziersausbildung.
+Unteroffiziere: Aufstiegsmöglichkeiten, Portepée, Feldwebel.
+Offiziere: Leutnant bis General.
+Sanitätsoffiziere, Militärmusik: Sonderlaufbahnen.
+
+### Schritt 3 — Beförderungsvoraussetzungen
+
+Mindestdienstzeit in Dienstgrad (SLV).
+Positive Beurteilung (Notenschwelle).
+Planstelle muss vorhanden sein (Stellenplan).
+Auswahlentscheidung nach Art. 33 Abs. 2 GG.
+
+### Schritt 4 — Konkurrentenklage und einstweiliger Rechtsschutz
+
+WBO-Beschwerde: 1 Monat nach Bekanntgabe Auswahlentscheidung.
+TDG: Besetzungsstopp beantragen — sofort!
+Akteneinsicht: Auswahlvermerk und Beurteilungen Mitbewerber.
+BVerwG Wehrdienstsenat: Grundsatzfragen.
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Tabelle: Laufbahngruppen und Beförderungsstufen (SLV)
+- Prüfschema: Beförderungsvoraussetzungen
+- Muster-WBO-Beschwerde gegen Nichtbeförderung
 
 ## Quellenhygiene
+
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/sg/ — SG §§ 1–5
+- https://www.gesetze-im-internet.de/slv_2002/ — SLV
+- https://dejure.org/gesetze/GG/33.html
+- https://www.bverwg.de
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

@@ -1,38 +1,113 @@
 ---
 name: arbeitsrecht-zivile-bundeswehrbeschaeftigte
-description: "Arbeitsrecht zivile Bundeswehrbeschäftigte: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
+description: "Arbeitsrecht zivile Bundeswehrbeschäftigte: prüft TVöD-Anwendung, Personalrat BPersVG, Kündigung, Versetzung und Rechtsweg. Norm-/Quellenanker: TVöD Bund, BPersVG, KSchG."
 ---
 
-# Arbeitsrecht zivile Bundeswehrbeschäftigte
+# Arbeitsrecht für zivile Bundeswehrbeschäftigte
+
+## Fachlicher Kontext
+
+Die Bundeswehr beschäftigt neben Soldaten eine große Zahl ziviler Arbeitnehmerinnen und Arbeitnehmer. Deren Arbeitsverhältnisse richten sich nach TVöD Bund und allgemeinem Arbeitsrecht; Mitbestimmung durch Personalrat (BPersVG, nicht BetrVG).
+
+Besonderheiten entstehen durch militärische Organisationsstruktur, häufige Versetzungen, Sicherheitsüberprüfungen (SÜG) als Beschäftigungsvoraussetzung und ggf. Auslandsverwendungen.
+
+## Einschlägige Normen und Quellen
+
+- TVöD Bund — Tarifvertrag öffentlicher Dienst Bund
+- BPersVG — Bundespersonalvertretungsgesetz
+- § 1 KSchG — Kündigungsschutz
+- § 613a BGB — Betriebsübergang
+- ArbGG — Arbeitsgerichtsgesetz
+- NATO-Truppenstatut — bei ausländischen Truppen mit zivilem Personal
+- SÜG — Sicherheitsüberprüfung als Beschäftigungsvoraussetzung
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Sachverhaltsaufnahme — Startfragen
+
+- Welcher Tarifvertrag gilt (TVöD Bund, TV-L, sonstiger)?
+- Geht es um Kündigung, Versetzung, Abmahnung, Eingruppierung oder Sicherheitsüberprüfung?
+- Hat der Personalrat zugestimmt, oder wurde seine Beteiligung unterlassen?
+- Liegt ein Versetzungsfall unter NATO-Truppenstatut vor?
+- Sind Fristen nach KSchG (3 Wochen) oder BPersVG abgelaufen?
+- Besteht Sonderkündigungsschutz (Schwerbehinderung, Schwangerschaft, Personalrat)?
 
 ## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Arbeitsrecht zivile Bundeswehrbeschäftigte: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+### Schritt 1 — Arbeitsverhältnis einordnen
+
+TVöD Bund: Entgeltgruppen E1–E15.
+Abgrenzung: Beamte der Bundeswehrverwaltung → BBG (anderer Rechtsweg!).
+Befristung: TzBfG prüfen.
+Leiharbeit: AÜG, höchstens 18 Monate.
+
+### Schritt 2 — Personalratsbeteiligung BPersVG
+
+Mitbestimmung bei Kündigung (§ 79 BPersVG), Versetzung (§ 76), Eingruppierung (§ 75).
+Fehlende Beteiligung → Kündigung unwirksam!
+Frist: Personalrat hat 10 Arbeitstage für Stellungnahme.
+Einigungsstellenverfahren bei Blockade.
+
+### Schritt 3 — Kündigung prüfen
+
+KSchG ab 6 Monaten, Betrieb > 10 MA (hier: Dienststelle zählt).
+Gründe: personenbedingt (Sicherheitsüberprüfung entzogen!), verhaltensbedingt, betriebsbedingt.
+Sonderkündigungsschutz: SGB IX, MuSchG, BEEG, Personalrat-Mitglieder.
+Klage ArbG: 3-Wochen-Frist.
+
+### Schritt 4 — Versetzung und Direktionsrecht
+
+§ 106 GewO Direktionsrecht, aber Grenzen TVöD und BPersVG.
+Versetzung andere Dienststelle: Personalratsbeteiligung, ggf. Zustimmungsverweigerung.
+Sicherheitsüberprüfung entzogen: Versetzung nicht-VS-Dienstposten oder Kündigung prüfen.
+
+### Schritt 5 — Rechtsweg
+
+Arbeitsgerichte (ArbG/LAG/BAG) für alle TVöD-Streitigkeiten.
+NICHT Verwaltungsgericht!
+Kündigungsschutzklage: 3-Wochen-Frist unbedingt wahren.
+BPersVG-Streitigkeiten: VG möglich bei Statusfragen des Personalrats.
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Tabelle: Personalrat (BPersVG) vs. Betriebsrat (BetrVG) — Unterschiede in der Bundeswehr
+- Checkliste: Kündigung ziviler Bundeswehrbeschäftigter — häufige Fehler
+- Muster: Widerspruch gegen Versetzungsverfügung
 
 ## Quellenhygiene
+
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/tvod/ — TVöD
+- https://www.gesetze-im-internet.de/bpersvg/ — BPersVG
+- https://www.gesetze-im-internet.de/kschg/ — KSchG
+- https://www.bundesarbeitsgericht.de
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

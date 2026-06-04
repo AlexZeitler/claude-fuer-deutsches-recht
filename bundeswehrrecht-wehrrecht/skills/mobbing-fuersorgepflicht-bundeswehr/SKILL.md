@@ -1,38 +1,102 @@
 ---
 name: mobbing-fuersorgepflicht-bundeswehr
-description: "Mobbing Fürsorgepflicht Bundeswehr: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
+description: "Mobbing und Fürsorgepflicht Bundeswehr: prüft §§ 10 und 12 SG, Beschwerdewege, Schadensersatz und WBO. Norm-/Quellenanker: §§ 10 und 12 SG, SoldGG, WBO."
 ---
 
-# Mobbing Fürsorgepflicht Bundeswehr
+# Mobbing und Fürsorgepflicht Bundeswehr
+
+## Fachlicher Kontext
+
+Die Bundeswehr ist als Dienstherr zur Fürsorge verpflichtet (§ 36 SG). Mobbing im Dienstverhältnis verletzt sowohl § 12 SG (Kameradschaft) als auch die allgemeine Fürsorgepflicht.
+
+Opfer haben Ansprüche: WBO-Beschwerde, Schadensersatz (BGBl Amtshaftung), Disziplinarmaßnahmen gegen Täter.
+
+## Einschlägige Normen und Quellen
+
+- § 10 SG — Fürsorgepflicht Vorgesetzte
+- § 12 SG — Kameradschaft
+- SoldGG — Diskriminierungsschutz
+- § 36 SG — Fürsorge des Dienstherrn
+- BGB §§ 823, 826 — Schadensersatz
+- WBO — Beschwerdeverfahren
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Sachverhaltsaufnahme — Startfragen
+
+- Was ist das konkrete Mobbing-Verhalten (Ausgrenzung, Demütigung, Schikane)?
+- Wer ist Täter (Vorgesetzter, Gleichrangiger)?
+- Wie lange besteht das Verhalten?
+- Wurde der Dienstherr informiert und hat er gehandelt?
+- Gibt es Gesundheitsschäden?
 
 ## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Mobbing Fürsorgepflicht Bundeswehr: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+### Schritt 1 — Fürsorgepflicht § 36 SG
+
+Dienstherr hat aktive Schutzpflicht bei Mobbing.
+Untätigkeit trotz Kenntnis = Pflichtverletzung.
+Amtshaftung (Art. 34 GG, § 839 BGB) bei nachgewiesenem Versagen.
+Parallele WBO-Beschwerde gegen untätige Vorgesetzte.
+
+### Schritt 2 — Mobbing-Definition und Nachweisführung
+
+Systematisches, wiederholtes feindseliges Verhalten über längeren Zeitraum.
+Einzelne Vorfälle regelmäßig nicht ausreichend.
+Beweis: Tagebuch, Zeugen, ärztliche Bescheinigungen.
+Kausalität Mobbing → Gesundheitsschaden prüfen.
+
+### Schritt 3 — Beschwerdewege und Rechtsbehelfe
+
+1. Vorgesetzter (wenn nicht Täter). 2. WBO-Beschwerde. 3. Gleichstellungsbeauftragte (wenn Diskriminierung). 4. BAPersBw. 5. Klage VG (Amtshaftung) oder LG (§ 839 BGB i.V.m. Art. 34 GG).
+
+### Schritt 4 — Disziplinar gegen Täter
+
+Meldung des Mobbings als Pflichtverletzung des Täters.
+Disziplinaranzeige bei zuständigem Vorgesetzten.
+WDO-Verfahren.
+Strafrecht: § 185 StGB (Beleidigung), § 240 StGB (Nötigung), § 223 StGB (Körperverletzung).
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Mobbing-Tagebuch-Vorlage
+- Muster-WBO-Beschwerde bei Mobbing
+- Checkliste: Schadensersatzklage — Anforderungen
 
 ## Quellenhygiene
+
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/sg/ — §§ 10, 12, 36 SG
+- https://www.gesetze-im-internet.de/soldgg/ — SoldGG
+- https://www.gesetze-im-internet.de/wbo/ — WBO
+- https://www.bverwg.de
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

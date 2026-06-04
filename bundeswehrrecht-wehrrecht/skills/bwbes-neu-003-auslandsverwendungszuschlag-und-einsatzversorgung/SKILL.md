@@ -1,45 +1,105 @@
 ---
 name: bwbes-neu-003-auslandsverwendungszuschlag-und-einsatzversorgung
-description: "Bundeswehrrecht: Auslandsverwendungszuschlag und Einsatzversorgung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "AVZ und Einsatzversorgung: prüft §§ 56–58 BBesG, Gefährdungsstufen, EinsatzWVG, SVG §§ 63a ff. und PTBS-Anerkennung. Norm-/Quellenanker: BBesG, EinsatzWVG, SVG."
 ---
 
-# Bundeswehrrecht: Auslandsverwendungszuschlag und Einsatzversorgung
+# Auslandsverwendungszuschlag und Einsatzversorgung
 
-## Aufgabe
+## Fachlicher Kontext
 
-Dieser Skill bearbeitet **Auslandsverwendungszuschlag und Einsatzversorgung** im Bereich **Bundeswehrrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Auslandseinsätze lösen besondere Besoldungs- und Versorgungsansprüche aus. AVZ tageweise nach Gefährdungsstufen; SVG §§ 63a ff. regeln Einsatzversorgung bei einsatzbedingten Schäden.
 
-## Kaltstart in 6 Fragen
+PTBS und psychische Einsatzfolgen sind anerkannte Wehrdienstbeschädigungen. Das EinsatzWVG sichert Weiterverwendung bei einsatzbedingten Schäden.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Einschlägige Normen und Quellen
 
-## Prüfprogramm
+- §§ 56–58 BBesG — AVZ
+- AuslVZV — Auslandsverwendungszulagenverordnung
+- SVG §§ 63a–63h — Einsatzversorgung
+- EinsatzWVG — Einsatzweiterverwendungsgesetz
+- § 27 SVG — Wehrdienstbeschädigung
+- SGB XIV — Soziales Entschädigungsrecht
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+## Einsatz
 
-## Typische Fallen
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+## Sachverhaltsaufnahme — Startfragen
 
-## Output
+- In welchem Einsatz und welchem Zeitraum?
+- Welche Gefährdungsstufe galt?
+- Wurde der volle AVZ korrekt ausgezahlt?
+- Einsatzbedingte Erkrankung oder Verletzung?
+- Wurden Nachversorgungsansprüche geltend gemacht?
+- Streit über Kausalität (Einsatz → Schaden)?
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+## Prüf- und Arbeitslogik
+
+### Schritt 1 — AVZ Berechnung §§ 56–58 BBesG
+
+Stufen 1–7 AuslVZV: Gefahrenlage und Region.
+Tageweise Berechnung inkl. An-/Abreisetage.
+Abgrenzung: AVZ (Kampfeinsatz) vs. Auslandsdienstbezüge § 52 BBesG (stationäre NATO-Verwendung).
+Fehler: Stufenzuordnung korrekt? Alle Einsatztage erfasst?
+
+### Schritt 2 — Einsatzversorgung SVG §§ 63a ff.
+
+Einsatzbedingte Gesundheitsschäden: erleichterte Kausalitätsvermutung § 63c SVG.
+Einsatz-Versorgungskrankengeld, Übergangsgeld.
+Antrag beim BAPersBw, Versorgungsreferat.
+Schäden unverzüglich melden — Beweissicherung!
+
+### Schritt 3 — EinsatzWVG
+
+Zweck: Weiterverwendung einsatzgeschädigter Soldaten.
+Anspruch auf erneute Einstellung zur Rehabilitation.
+Subsidiarität: erst SVG-Ansprüche, dann EinsatzWVG.
+
+### Schritt 4 — PTBS und psychische Folgen
+
+PTBS: anerkannte Wehrdienstbeschädigung.
+Kausalität: 'hinreichende Wahrscheinlichkeit'.
+Eigene Fachärzte einschalten, Gegengutachten.
+Verwaltungsstreit: VG + Sozialgericht für Versorgungsleistungen.
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Tabelle: AVZ-Gefährdungsstufen und Tagessätze
+- Prüfschema: Einsatzversorgungsansprüche SVG
+- Checkliste: Einsatzbedingte Schäden dokumentieren
+
+## Quellenhygiene
+
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/bbesg/ — §§ 56–58 BBesG
+- https://www.gesetze-im-internet.de/einsatzwvg/ — EinsatzWVG
+- https://www.gesetze-im-internet.de/svg/ — SVG §§ 63a ff.
+- https://www.gesetze-im-internet.de/auslvzv/ — AuslVZV
+
+## Qualitätsgate
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

@@ -1,38 +1,104 @@
 ---
 name: geheimschutz-sicherheitsueberpruefung-sueg
-description: "Geheimschutz Sicherheitsüberprüfung SÜG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
+description: "Geheimschutz und Sicherheitsüberprüfung SÜG: prüft Ü1–Ü3-Verfahren, Anhörungsrecht, Rechtsschutz und Datenschutz. Norm-/Quellenanker: SÜG, MADG, SG."
 ---
 
-# Geheimschutz Sicherheitsüberprüfung SÜG
+# Geheimschutz und Sicherheitsüberprüfung (SÜG)
+
+## Fachlicher Kontext
+
+Die Sicherheitsüberprüfung ist Voraussetzung für Verwendungen auf VS-Dienstposten. Stufen: Ü1 (VS-NfD), Ü2 (VS-Vertraulich), Ü3 (VS-Geheim). Ein negativer Sicherheitsbescheid hat massive dienstrechtliche Konsequenzen.
+
+§ 22 SÜG: Anhörungsrecht vor negativem Bescheid ist zwingend — nicht verschlafen!
+
+## Einschlägige Normen und Quellen
+
+- SÜG — Sicherheitsüberprüfungsgesetz §§ 1–30
+- § 5 SÜG — Ü1 (einfache Sicherheitsüberprüfung)
+- § 9 SÜG — Ü2 (erweiterte SÜ)
+- § 10 SÜG — Ü3 (erweiterte SÜ mit Sicherheitsermittlungen)
+- § 22 SÜG — Anhörungsrecht
+- § 25 SÜG — Datenverarbeitung
+- MADG — MAD-Ermittlungen
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Sachverhaltsaufnahme — Startfragen
+
+- Welche Überprüfungsstufe wurde eingeleitet?
+- Wurde ein negativer Sicherheitsbescheid erteilt?
+- Wurden Sicherheitsbedenken mitgeteilt?
+- Soll Überprüfungsverfahren angefochten werden?
+- Überschneidungen mit MAD-Verfahren?
 
 ## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Geheimschutz Sicherheitsüberprüfung SÜG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+### Schritt 1 — Überprüfungsstufen SÜG
+
+Ü1 § 5: Eigenauskünfte, BZR-Abfrage, Verfassungsschutzbehörden.
+Ü2 § 9: zusätzlich Befragung Betroffener, Bezugspersonen, BND.
+Ü3 § 10: umfangreiche Ermittlungen im persönlichen Umfeld, Ehegatte einbezogen.
+
+### Schritt 2 — Sicherheitsrelevante Sachverhalte
+
+§ 5 Abs. 1 SÜG Nr. 1–11: Vorstrafen, Extremismus, Auslandskontakte, Sucht, finanzielle Probleme.
+Bewertung: Gesamtschau der Zuverlässigkeit.
+Nicht jedes Negativ = automatisch negativer Bescheid.
+
+### Schritt 3 — Anhörungsrecht § 22 SÜG
+
+Bevor negativer Bescheid erteilt: Anhörung zwingend!
+Stellungnahme schriftlich einreichen.
+Gegennachweise, Erklärungen, Zeugen benennen.
+Protokoll der Anhörung verlangen.
+
+### Schritt 4 — Rechtsschutz
+
+Kein eigenständiger Rechtsweg gegen SÜG-Bescheid (§ 29 SÜG).
+Aber: WBO-Beschwerde gegen dienstrechtliche Konsequenz (Versetzung, Entlassung).
+VG-Klage gegen die dienstrechtliche Entscheidung.
+BfDI-Beschwerde bei Datenschutzverletzung.
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Tabelle: VS-Stufen und SÜG-Anforderungen
+- Checkliste: Anhörung § 22 SÜG — Vorbereitung
+- Prüfschema: Sicherheitsüberprüfungsstufe für Dienstposten
 
 ## Quellenhygiene
+
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/sug/ — SÜG
+- https://www.gesetze-im-internet.de/madg/ — MADG
+- https://www.bfdi.bund.de — BfDI
+- https://dejure.org/gesetze/SÜG
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

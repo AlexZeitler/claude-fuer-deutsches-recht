@@ -1,38 +1,104 @@
 ---
 name: beamtenrecht-bundeswehrverwaltung-abgrenzung
-description: "Beamtenrecht Bundeswehrverwaltung Abgrenzung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
+description: "Beamtenrecht Bundeswehrverwaltung Abgrenzung: prüft Status, anwendbares Recht und Rechtsweg. Norm-/Quellenanker: BBG, SG, TVöD, GG Art. 60."
 ---
 
-# Beamtenrecht Bundeswehrverwaltung Abgrenzung
+# Beamtenrecht Bundeswehrverwaltung — Abgrenzung Soldat/Beamter/Arbeitnehmer
+
+## Fachlicher Kontext
+
+Die Bundeswehr ist organisatorisch zweigeteilt: Streitkräfte (Soldaten, SG) und Bundeswehrverwaltung (Beamte/Arbeitnehmer, BBG/TVöD). Der Rechtsweg ist grundverschieden: Soldaten → WBO/TDG/BVerwG-Wehrdienstsenat; Beamte → VG; Arbeitnehmer → ArbG.
+
+Fehlzuordnungen beim Rechtsweg führen zu Unzulässigkeit und Fristrisiken. § 17a GVG ermöglicht Verweisung, aber nur wenn Frist nicht verstrichen ist.
+
+## Einschlägige Normen und Quellen
+
+- Art. 60 GG — Streitkräfte; Art. 33 Abs. 4–5 GG — Berufsbeamtentum
+- BBG — Bundesbeamtengesetz (Beamte Bundeswehrverwaltung)
+- SG — Soldatengesetz (Soldaten)
+- TVöD Bund — zivile Arbeitnehmer
+- § 54 BBG — Rechtsweg Beamte (VG)
+- §§ 82 ff. SG i.V.m. WBO — Rechtsweg Soldaten
+- § 17a GVG — Rechtswegverweisung bei Irrtum
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Sachverhaltsaufnahme — Startfragen
+
+- Welchen Status hat die Person: Soldat, Bundeswehrbeamter oder ziviler Arbeitnehmer?
+- Welche Dienststelle ist Dienstherr?
+- Handelt es sich um dienstrechtliche Maßnahme (Versetzung, Disziplinar, Besoldung)?
+- Welcher Rechtsweg soll beschritten werden?
+- Laufen Fristen, und auf welches Verfahren beziehen sie sich?
 
 ## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Beamtenrecht Bundeswehrverwaltung Abgrenzung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+### Schritt 1 — Statusfeststellung
+
+Soldat: Ernennung nach SG, Dienstverhältnis öffentlich-rechtlich sui generis.
+Beamter Bundeswehrverwaltung: Ernennung nach BBG, Verwaltungsbeamter.
+Ziviler Arbeitnehmer: privatrechtlich, TVöD Bund.
+Hybridfall: Beamter zum Soldaten ernannt → welches Recht gilt?
+
+### Schritt 2 — Anwendbares Recht
+
+Soldaten: SG, WBO, WDO, SVG. Kein BBG, kein TVöD.
+Beamte Bundeswehrverwaltung: BBG, BeamtVG, BPersVG, VwGO.
+Arbeitnehmer: TVöD, BPersVG, KSchG, ArbGG.
+Sicherheitsüberprüfung SÜG: gilt für alle.
+
+### Schritt 3 — Rechtsweg bestimmen
+
+Soldat → WBO → TDG → BVerwG Wehrdienstsenat.
+Beamter → Widerspruch + VG-Klage (§ 54 BBG).
+Arbeitnehmer → Arbeitsgericht.
+Fehlerhafte Rechtswegwahl: § 17a GVG Verweisung, aber Fristrisiko!
+
+### Schritt 4 — Typische Abgrenzungsprobleme
+
+Beamter erhält Versetzung → WBO oder VwGO? → VwGO!
+Soldat vor Ernennung in befristetem Arbeitsverhältnis → TzBfG.
+NATO-Truppenstatut: ausländische Soldaten → kein deutsches Dienstrecht.
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Tabelle: Statusvergleich Soldat / Beamter / Arbeitnehmer
+- Flussdiagramm: Rechtsweg nach Personalstatus
+- Checkliste: Statusprüfung vor Rechtsbehelfseinlegung
 
 ## Quellenhygiene
+
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/bbg_2009/ — BBG
+- https://www.gesetze-im-internet.de/sg/ — SG
+- https://www.bverwg.de
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

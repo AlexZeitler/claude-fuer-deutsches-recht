@@ -1,38 +1,106 @@
 ---
 name: gerichtliches-disziplinarverfahren-soldat
-description: "Gerichtliches Disziplinarverfahren Soldat: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
+description: "Gerichtliches Disziplinarverfahren TDG: prüft Einleitungsverfügung, Verfahrensrechte, Beweisführung und Berufung. Norm-/Quellenanker: WDO §§ 58–106."
 ---
 
-# Gerichtliches Disziplinarverfahren Soldat
+# Gerichtliches Disziplinarverfahren (TDG/BVerwG)
+
+## Fachlicher Kontext
+
+Das gerichtliche Disziplinarverfahren ist das schwerste Disziplinarinstrument. Es beginnt mit einer Einleitungsverfügung (§ 60 WDO) und endet mit einem Urteil des Truppendienstgerichts. Mögliche Rechtsfolgen: Kürzung der Dienstbezüge, Beförderungsverbot, Degradierung, Entfernung aus dem Dienst.
+
+Der Soldat hat umfassende Verfahrensrechte: Verteidiger, Akteneinsicht, Anwesenheitsrecht, Beweisantragsrecht.
+
+## Einschlägige Normen und Quellen
+
+- §§ 58–77 WDO — Gerichtliches Verfahren: Einleitung, Anklage
+- § 60 WDO — Einleitungsverfügung
+- §§ 46–57 WDO — Untersuchungsverfahren
+- §§ 78–92 WDO — Hauptverhandlung TDG
+- §§ 93–106 WDO — Entscheidung und Rechtsfolgen
+- § 82 WDO — Berufung BVerwG
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Sachverhaltsaufnahme — Startfragen
+
+- Liegt Einleitungsverfügung (§ 60 WDO) vor?
+- Was ist der genaue Tatvorwurf?
+- Untersuchungsführer bestellt?
+- Hat der Soldat einen Verteidiger?
+- Welche Disziplinarmaßnahme droht?
+- Liegt ein strafrechtliches Urteil mit Bindungswirkung vor?
 
 ## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Gerichtliches Disziplinarverfahren Soldat: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+### Schritt 1 — Einleitungsverfügung § 60 WDO
+
+Zuständigkeit: Einleitungsbehörde.
+Inhalt: bestimmter Tatvorwurf, Pflichtnorm, Zeitraum.
+Anfechtung: Bestimmtheit des Vorwurfs prüfen.
+Ausschlussfrist § 17 WDO beachten.
+
+### Schritt 2 — Untersuchungsverfahren §§ 46–57 WDO
+
+Untersuchungsführer erhebt Beweise, vernimmt Zeugen.
+Teilnahmerecht des Soldaten und Verteidigers.
+Akteneinsicht: §§ 18–21 WDO.
+Abschlussbericht des Untersuchungsführers.
+
+### Schritt 3 — Hauptverhandlung TDG §§ 78–92 WDO
+
+Öffentlichkeit: grundsätzlich öffentlich.
+Beweisaufnahme: Zeugen, Sachverständige, Urkunden.
+Beweisantragsrecht.
+Schlussvortrag und Recht zur letzten Erklärung.
+
+### Schritt 4 — Berufung § 82 WDO
+
+Berufung zum BVerwG-Wehrdienstsenat.
+Frist: 1 Monat nach Zustellung Urteil.
+Vollständige Überprüfung von Tat und Maßnahme.
+Revision § 84 WDO: nur Rechtsfragen.
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Prüfschema: Einleitungsverfügung § 60 WDO
+- Checkliste: Rechte im gerichtlichen Disziplinarverfahren
+- Tabelle: Disziplinarmaßnahmen und TDG-Zuständigkeit
 
 ## Quellenhygiene
+
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/wdo_2002/ — WDO §§ 58–106
+- https://www.bverwg.de — BVerwG Wehrdienstsenat
+- https://openjur.de
+- https://dejure.org/gesetze/WDO
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?

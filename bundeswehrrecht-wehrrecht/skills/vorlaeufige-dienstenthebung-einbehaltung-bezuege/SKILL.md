@@ -1,38 +1,104 @@
 ---
 name: vorlaeufige-dienstenthebung-einbehaltung-bezuege
-description: "Vorläufige Dienstenthebung Einbehaltung Bezüge: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
+description: "Vorläufige Dienstenthebung und Einbehaltung Bezüge: prüft WDO §§ 126–131, Voraussetzungen, Rechtsbehelf und Vollzugsaussetzung. Norm-/Quellenanker: WDO §§ 126–131."
 ---
 
-# Vorläufige Dienstenthebung Einbehaltung Bezüge
+# Vorläufige Dienstenthebung und Einbehaltung von Bezügen
+
+## Fachlicher Kontext
+
+Die vorläufige Dienstenthebung (§§ 126–131 WDO) ist die schwerste Sofortmaßnahme im Disziplinarrecht: der Soldat wird vom Dienst ferngehalten, bevor ein Disziplinarurteil ergeht.
+
+Sie darf nur bei schwerwiegenden Fällen angeordnet werden und ist sofort mit WBO angreifbar. Gleichzeitig können Bezüge um bis zu 50% einbehalten werden.
+
+## Einschlägige Normen und Quellen
+
+- §§ 126–131 WDO — Vorläufige Dienstenthebung
+- § 38 WDO — Verhältnismäßigkeit
+- § 9 WBO — Vollzugsaussetzung
+- BBesG § 9a — Besoldungskonsequenzen
+- StPO — Paralleles Strafverfahren
 
 ## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema
+sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
+verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Sachverhaltsaufnahme — Startfragen
+
+- Wurde vorläufige Dienstenthebung angeordnet?
+- Wurde Einbehaltung von Bezügen angeordnet?
+- Was ist der zugrundeliegende Tatvorwurf?
+- Ist die Anordnung verhältnismäßig?
+- WBO-Beschwerde und Vollzugsaussetzung bereits eingereicht?
 
 ## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Vorläufige Dienstenthebung Einbehaltung Bezüge: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+### Schritt 1 — Voraussetzungen §§ 126–131 WDO
+
+Voraussetzungen: schwerwiegender Tatvorwurf, Beeinträchtigung des dienstlichen Interesses bei Verbleib.
+Ermessen: Anordnung setzt Ermessensausübung voraus.
+Verhältnismäßigkeit: milderes Mittel (Verwendungswechsel) prüfen!
+Zuständigkeit: Einleitungsbehörde oder übergeordnete Stelle.
+
+### Schritt 2 — Einbehaltung von Bezügen
+
+§ 126 Abs. 2 WDO: bis zu 50% der Dienstbezüge können einbehalten werden.
+Voraussetzung: hinreichende Verdachtslage, Verhältnismäßigkeit.
+Versorgungsunterhalt muss sichergestellt sein.
+Rückzahlung: wenn Verfahren eingestellt oder Freispruch.
+
+### Schritt 3 — Rechtsbehelfe
+
+WBO-Beschwerde: sofort, Frist 1 Monat.
+Vollzugsaussetzung § 9 WBO: sofort und dringend!
+Antrag auf Aufhebung der Dienstenthebung beim Disziplinarvorgesetzten.
+Gerichtlicher Antrag TDG (§ 17a WBO analog).
+
+### Schritt 4 — Parallelverfahren Strafrecht
+
+Strafverfahren kann Grundlage für Dienstenthebung sein.
+§ 125 WDO: Einstellung Disziplinarverfahren bis Strafverfahren abgeschlossen.
+Recht auf Strafverteidiger neben WDO-Verteidiger.
+Auswirkungen eines Freispruchs auf WDO-Verfahren.
+
+## Arbeitsergebnisse
+
+Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+
+- Kurzvermerk mit Risikoampel (grün/gelb/rot)
+- Prüfschema mit Tatbestandselementen und offenen Punkten
+- Fragenliste für Mandanten/Sachverhaltsgespräch
+- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
+- Dokumentenanforderungsliste
+- Nächster Schritt mit konkreter Frist
+
+- Prüfschema: Vorläufige Dienstenthebung — Rechtmäßigkeit
+- Checkliste: Sofortmaßnahmen nach Dienstenthebung
+- Muster-Vollzugsaussetzungsantrag § 9 WBO
 
 ## Quellenhygiene
+
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
+  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
+- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
+
+**Primärquellen:**
+
+- https://www.gesetze-im-internet.de/wdo_2002/ — WDO §§ 126–131
+- https://www.gesetze-im-internet.de/wbo/ — § 9 WBO
+- https://www.bverwg.de
+- https://openjur.de
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+Vor Ausgabe prüfen:
+
+- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
+- Offene Tatsachen als `[offen: ...]` markiert?
+- Gegenargumente und Verteidigungslinien formuliert?
+- Beweislastverteilung geklärt?
+- Output entspricht dem gewünschten Arbeitsergebnis?
