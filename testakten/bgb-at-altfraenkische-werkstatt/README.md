@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 104 KB) | PDF | [`gesamt-pdf/bgb-at-altfraenkische-werkstatt_gesamt.pdf`](gesamt-pdf/bgb-at-altfraenkische-werkstatt_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 117 KB) | PDF | [`gesamt-pdf/bgb-at-altfraenkische-werkstatt_gesamt.pdf`](gesamt-pdf/bgb-at-altfraenkische-werkstatt_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bgb-at-altfraenkische-werkstatt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-at-altfraenkische-werkstatt.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
@@ -51,3 +51,9 @@ Ausbildungs- und Kanzleiakte zu BGB AT. Die Akte bündelt Vertragsschluss, Onlin
 - 14_notizzettel_werkstattmeister.md
 - 15_eltern_mail_konflikt.md
 - 16_mahnschreiben_lieferant.md
+- 17_kandidatenloesung_balduin_3punkte.md
+- 18_kandidatenloesung_kunigunde_5punkte.md
+- 19_kandidatenloesung_hildegund_7punkte.md
+- 20_kandidatenloesung_walram_9punkte.md
+- 21_korrekturmatrix_fehlerdiagnose.md
+- 22_probanden_feedback_rueckgabe.md

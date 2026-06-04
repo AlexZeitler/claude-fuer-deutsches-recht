@@ -226,7 +226,7 @@
       "name": "bgb-at-pruefer",
       "source": "./bgb-at-pruefer",
       "description": "Großes Prüfplugin zum BGB Allgemeiner Teil: Vertragsschluss, Willenserklärung, Zugang, Geschäftsfähigkeit, Form, qES, beA, Anfechtung, Stellvertretung, Fristen, Verjährung und Routing für digitale Elemente, Update- und Reparaturrecht.",
-      "version": "70.0.1",
+      "version": "71.1.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -235,7 +235,7 @@
       "name": "bgb-bt-pruefer",
       "source": "./bgb-bt-pruefer",
       "description": "Großer BGB-BT-Prüfer für Schuldrecht Besonderer Teil: Kauf einschließlich Verbrauchsgüterkauf, Waren mit digitalen Elementen, Updatepflichten und Right-to-Repair-Schnittstellen, außerdem Miete, Werk, Bürgschaft, GoA, Bereicherung, Delikt und Rückabwicklung.",
-      "version": "70.0.1",
+      "version": "71.1.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -889,6 +889,15 @@
       }
     },
     {
+      "name": "insiderrecht-compliance",
+      "source": "./insiderrecht-compliance",
+      "description": "Insiderrecht- und Marktmissbrauchs-Compliance nach MAR, WpHG und BaFin-Praxis: Insiderinformationen, Ad-hoc, Insiderlisten, Handelsverbote, Aufschub, Directors Dealings, Aufklärung und Verteidigung.",
+      "version": "71.1.0",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
       "name": "insolvenzforderungsanmeldungspruefung",
       "source": "./insolvenzforderungsanmeldungspruefung",
       "description": "Freistehendes Plugin für die Insolvenzforderungsanmeldungsprüfung: Intake, § 174 InsO, Belege, Grund, Betrag, Rang, vbuH, Nachforderungen, Tabellenimport, Prüfungstermin, Bestreiten, Feststellung, Tabellenauszug und Verteilung.",
@@ -920,6 +929,15 @@
       "source": "./insolvenzverwaltung",
       "description": "Freistehendes Insolvenzverwaltungs-Plugin aus Sicht von Insolvenzverwalter, Sachwalter und vorläufiger Verwaltung: Regelverfahren, Eigenverwaltung, Schutzschirm, Anfechtung, § 15b InsO, Masse, Forderungsprüfung, Insolvenzplan, StaRUG-Planwerkstatt, Gutachten, Berichte und Schlussrechnung.",
       "version": "70.0.1",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "internal-investigations-praxis",
+      "source": "./internal-investigations-praxis",
+      "description": "Internal-Investigations-Praxisplugin fuer Kanzleien und Unternehmen: Untersuchungsauftrag, Scope, Interviews, Arbeitsrecht, Datenschutz, Privilege-Risiko, StPO-Beschlagnahme, HinSchG, Dokumentation und Verteidigung.",
+      "version": "71.1.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -1081,7 +1099,7 @@
       "name": "leasingrecht-praxis",
       "source": "./leasingrecht-praxis",
       "description": "Wirtschaftsrechtliches Praxisplugin für Leasing, Sale-and-lease-back, Equipment Finance, Fahrzeugflotten, IT-Leasing, Insolvenz, Restwert, Sicherheiten und Vertragsgestaltung.",
-      "version": "71.0.2",
+      "version": "71.1.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -1549,7 +1567,7 @@
       "name": "subsumtions-pruefer",
       "source": "./subsumtions-pruefer",
       "description": "Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einreden prüfen. Keine Rechtsberatung.",
-      "version": "70.0.1",
+      "version": "71.1.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -1816,5 +1834,5 @@
       }
     }
   ],
-  "version": "70.0.3"
+  "version": "71.1.0"
 }

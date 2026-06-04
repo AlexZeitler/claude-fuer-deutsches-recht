@@ -1,5 +1,20 @@
 # Akte Rotorwerk: Maschinenleasing, Restwert und Insolvenzgerücht
 
+
+<!-- BEGIN gesamt-pdf-section (autogen) -->
+## Akte komplett herunterladen
+
+Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen.
+
+| Was | Format | Quelle |
+| --- | --- | --- |
+| Gesamt-PDF (alles in einer Datei, 97 KB) | PDF | [`gesamt-pdf/leasingrecht-maschinenfleet-restwert-insolvenz_gesamt.pdf`](gesamt-pdf/leasingrecht-maschinenfleet-restwert-insolvenz_gesamt.pdf) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-leasingrecht-maschinenfleet-restwert-insolvenz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-leasingrecht-maschinenfleet-restwert-insolvenz.zip) |
+
+Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
+
+<!-- END gesamt-pdf-section (autogen) -->
+
 Diese Akte gehört zu den Plugins `leasingrecht-praxis`, `bank-rechtsabteilung`, `insolvenzverwaltung`.
 
 ## Downloads
@@ -17,6 +32,9 @@ Diese Akte gehört zu den Plugins `leasingrecht-praxis`, `bank-rechtsabteilung`,
 | `04-arbeitsvermerk.docx` | interner Arbeitsvermerk |
 | `05-dashboard.csv` | strukturierte Prüfspur |
 | `06-screenshot-notizen.jpg` | Foto/Screenshot einer chaotischen Arbeitsnotiz |
+| `07-objektliste-seriennummern-und-standorte.md` | Objektliste beweglicher Sachen mit Standort- und Zustandsstreit |
+| `08-rueckgabeprotokoll-entwurf-minderwert.md` | Rückgabe-/Minderwertprotokoll mit Beweislogik |
+| `09-softwarelock-und-datenloeschung.md` | Software-Lock, Maschinensteuerung, Datenschutz und Beweissicherung |
 | `gesamt-pdf/leasingrecht-maschinenfleet-restwert-insolvenz_gesamt.pdf` | Gesamt-PDF der Akte |
 
 ## Sachstand

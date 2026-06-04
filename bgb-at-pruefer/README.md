@@ -22,6 +22,18 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **BGB AT: Altfränkische Werkstatt** ([`testakten/bgb-at-altfraenkische-werkstatt/`](../testakten/bgb-at-altfraenkische-werkstatt/)).
+
+Direkt-Download als ZIP: [testakte-bgb-at-altfraenkische-werkstatt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-at-altfraenkische-werkstatt.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 Großes Prüfplugin zum BGB Allgemeiner Teil. Es führt durch Vertragsschluss, Willenserklärungen, Zugang, Auslegung, Geschäftsfähigkeit, Form, Nichtigkeit, Anfechtung, Stellvertretung, Bedingungen, Fristen und Verjährung. Der Formteil ist mit qES, beA, § 130e ZPO und § 46h ArbGG verschaltet. Neu verschaltet sind digitale Elemente, Updatehinweise, App-/Portalzugang, Reparaturverlangen und Right-to-Repair-Fragen als allgemeinzivilrechtlicher Router in BGB-BT, AGB-Recht und Produktrecht. Ziel ist ein schöner, schneller und trotzdem präziser Workflow für Klausur, Ausbildung, Kanzleivermerk und Mandatsarbeit.
 
 Experimentelles Werkzeug. Keine Rechtsberatung, keine Gewähr. Gesetzestext und Rechtsprechung müssen im konkreten Fall geprüft werden. Literatur- oder Kommentarstellen dürfen nur genutzt werden, wenn sie vom Nutzer bereitgestellt wurden oder über eine lizenzierte Quelle live verifiziert sind.
@@ -127,7 +139,7 @@ Starte mit dem Skill [allgemein](./skills/allgemein/SKILL.md). Der Einstieg frag
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -142,8 +154,13 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `auslegung-paragraphen-133-157` | Prüft Auslegung von Willenserklärungen und Verträgen nach §§ 133 und 157 BGB: wirklicher Wille, objektiver Empfängerhorizont, Treu und Glauben, Verkehrssitte und Kontext. |
 | `auslegung-sachverhalt-und-fallfrage` | Sachverhalts- und Fallfrageauslegung bei BGB-AT-Fällen: trennt Tatsachen, Wertungen, Hinweise, Bearbeitervermerk und verdeckte Probleme, bevor materiellrechtlich geprüft wird. |
 | `bedingung-befristung-paragraphen-158-163` | Prüft Bedingung und Befristung nach §§ 158 bis 163 BGB: aufschiebend, auflösend, Potestativbedingung, Bedingungsausfall, Treuwidrigkeit und Rechtsfolgen. |
+| `bgb-at-anfechtung-vor-auslegung` |  |
+| `bgb-at-erklaerungskette-tableau` |  |
 | `bgb-at-fallaufnahme-und-pruefprogramm` | Fallaufnahme für BGB-AT-Konstellationen mit sauberem Prüfprogramm: Sachverhalt, Anspruchsziel, Personen, Erklärungen, Kommunikationswege, Zeitpunkte, Form, Genehmigungen, Vollmachten, Anfechtung und Fristen. |
+| `bgb-at-form-und-prozessform` |  |
+| `bgb-at-minderjaehrige-fehlsubsumtion` |  |
 | `bgb-at-output-gutachten-memo-schriftsatz` | Erstellt aus BGB-AT-Prüfungen wahlweise Gutachten, Klausurlösung, Mandatsmemo, Schriftsatzbaustein, Fristenvermerk, Anspruchsmatrix oder Rückfragenbrief. |
+| `bgb-at-rechtsschein-redteam` |  |
 | `bgb-at-training-fallvarianten` | Erzeugt und variiert BGB-AT-Trainingsfälle mit anonymen, fiktiven Personen, Lernzielen, Lösungsskizze, Abwandlungen und typischen Fehlern für Ausbildung und Kanzleitraining. |
 | `cic-vorvertragliche-pflichten-schnittstelle` | Schnittstellen-Skill zur culpa in contrahendo: vorvertragliches Schuldverhältnis, Schutzpflichten, Aufklärung, Abbruch von Verhandlungen und Abgrenzung zu BGB-AT-Wirksamkeitsfragen. |
 | `digitale-elemente-reparaturrecht-router` | Allgemeinzivilrechtlicher Router fuer Waren mit digitalen Elementen, digitale Produkte, Updatepflichten, Zugang elektronischer Erklaerungen, AGB-Abweichungen und Right-to-Repair-Schnittstellen. |
@@ -166,6 +183,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `invitatio-ad-offerendum-und-werbung` | Grenzt Angebot von invitatio ad offerendum, Werbung, Preisschild, Katalog, Online-Shop, Plattformlisting und unverbindlicher Verhandlungsaufforderung ab. |
 | `irrtumsanfechtung-paragraph-119-1` | Prüft Inhalts- und Erklärungsirrtum nach § 119 Abs. 1 BGB einschließlich Abgrenzung zu Motivirrtum, Kalkulationsirrtum, Auslegung und Vertragsrisiko. |
 | `kauf-im-internet-und-auktionen` | Prüft Vertragsschluss im Internet, Online-Auktion, Sofortkauf, Warenkorb, Bestellbutton, Bestätigungs-E-Mail und Plattformbedingungen im BGB-AT-Raster. |
+| `klausurloesungen-fehlerdiagnose` |  |
 | `konsens-dissens-paragraphen-154-155` | Prüft Konsens, offenen und versteckten Dissens nach §§ 154 und 155 BGB sowie essentialia, Nebenpunkte, Auslegung und Vertragsrettung. |
 | `missbrauch-vertretungsmacht` | Prüft Missbrauch der Vertretungsmacht: Innenverstoß trotz Außenmacht, Evidenz, Kollusion, Treuwidrigkeit und Folgen für Vertrag und Haftung. |
 | `personen-rechtsfaehigkeit-und-handlungsfaehigkeit` | Prüft Rechtsfähigkeit, Verbraucher- und Unternehmerrolle, Wohnsitz, Organe und Handlungsfähigkeit als Vorfragen für BGB-AT-Fälle und Vertragsprüfungen. |
