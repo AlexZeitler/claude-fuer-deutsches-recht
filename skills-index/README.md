@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v74.4.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v80.0.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 20000+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -102,7 +102,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 20000+ Tabellenzei
 - [hausarbeitenmacher](./hausarbeitenmacher.md) (54 Skills)
 - [haushaltsrecht-bho-bund-laender](./haushaltsrecht-bho-bund-laender.md) (300 Skills)
 - [hinweisgeberschutz-compliance](./hinweisgeberschutz-compliance.md) (100 Skills)
-- [hoai-leistungsphasen-praxis](./hoai-leistungsphasen-praxis.md) (336 Skills)
+- [hoai-leistungsphasen-praxis](./hoai-leistungsphasen-praxis.md) (386 Skills)
 - [hochschulrecht-laender](./hochschulrecht-laender.md) (100 Skills)
 - [immobilienrechtspraxis](./immobilienrechtspraxis.md) (57 Skills)
 - [influencer-recht](./influencer-recht.md) (69 Skills)
@@ -155,7 +155,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 20000+ Tabellenzei
 - [patentrecherche](./patentrecherche.md) (54 Skills)
 - [patentrecht](./patentrecht.md) (59 Skills)
 - [phishing-vorfall-pruefer](./phishing-vorfall-pruefer.md) (54 Skills)
-- [preussisches-allgemeines-landrecht-pralr](./preussisches-allgemeines-landrecht-pralr.md) (282 Skills)
+- [preussisches-allgemeines-landrecht-pralr](./preussisches-allgemeines-landrecht-pralr.md) (320 Skills)
 - [private-equity-praxis](./private-equity-praxis.md) (108 Skills)
 - [produktrecht](./produktrecht.md) (65 Skills)
 - [prozessrecht](./prozessrecht.md) (55 Skills)
@@ -172,7 +172,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 20000+ Tabellenzei
 - [schulrecht-laender](./schulrecht-laender.md) (100 Skills)
 - [seerecht-schifffahrtsrecht](./seerecht-schifffahrtsrecht.md) (120 Skills)
 - [selbstvertreter-amtsgericht](./selbstvertreter-amtsgericht.md) (86 Skills)
-- [selbstvertreter-sozialgericht](./selbstvertreter-sozialgericht.md) (80 Skills)
+- [selbstvertreter-sozialgericht](./selbstvertreter-sozialgericht.md) (130 Skills)
 - [softwarerecht-de-eu-us](./softwarerecht-de-eu-us.md) (105 Skills)
 - [solo-selbststaendige-praxis](./solo-selbststaendige-praxis.md) (200 Skills)
 - [sozialversicherungsstatus-pruefer](./sozialversicherungsstatus-pruefer.md) (100 Skills)
